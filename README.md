@@ -1,4 +1,4 @@
--> ![](https://hackmd.io/_uploads/SyDht-YP2.png) <-
+![](https://hackmd.io/_uploads/SyDht-YP2.png)
 
 # 📜 ➜ **Megathread**
 
