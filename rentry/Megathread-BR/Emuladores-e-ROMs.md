@@ -189,6 +189,9 @@
 ### 🔗 [NesGM](https://nesgm.net/) • IU em espanhol
 - ROMs para Nintendo Switch e outras plataformas são o foco principal.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nesgm.net/)
+- ### 🐐 [Nintendo Switch Torrent Library](https://nswtl.info/)
+- Apesar do nome, este site reúne bots do Telegram para download facilitado de jogos de diversas plataformas, incluindo PC. Mande uma mensagem para o bot que deseja com o nome do jogo e ele rapidamente fornece um torrent para ser baixado.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/nswtl.info/)
 ### 🔗 [nsw2u](https://nsw2u.com/)
 - Número de ROMs de switch que você pode baixar com facilidade e segurança.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nsw2u.com/)
