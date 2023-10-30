@@ -135,6 +135,9 @@
 ### 🐐 [FitGirl Repacks](https://fitgirl-repacks.site/)
 - O Launcher nascido na Rússia evoluiu nos últimos anos de um arquivista doméstico para o Repacker mais conhecido da web.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fitgirl-repacks.site/)
+### 🐐 [Nintendo Switch Torrent Library](https://nswtl.info/)
+- Apesar do nome, este site reúne bots do Telegram para download facilitado de jogos de diversas plataformas, incluindo PC. Mande uma mensagem para o bot que deseja com o nome do jogo e ele rapidamente fornece um torrent para ser baixado.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/nswtl.info/)
 ### 🧲 [Free GOG PC Games](https://freegogpcgames.com/)
 - Fornecem jogos DRM-FREE de fontes que foram cuidadosamente examinadas antes de serem disponibilizadas para download.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/freegogpcgames.com/)
