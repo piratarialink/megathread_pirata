@@ -24,13 +24,14 @@
 
 ### | ***Filmes e Séries*** |
 
+### 🐐 [Stremio](https://www.stremio.com/) + [Addons](https://stremio-addons.netlify.app/)
+- Stremio junto com os seguintes Addons é sucesso: **The Movie Database Addon**, **Torrentio Brazuca**, **Brazuca Torrents**, **Streaming Catalogs**, **Torrent Catalogs** e **Anime Kitsu**
+- É bom utilizar o **The Movie Database Addon** para poder pesquisar Filmes e Séries em Português e ter as capas traduzidas. (Necessário clicar em "configurar" antes de instalar)
+- Resultados de segurança da URL: [Stremio](https://www.urlvoid.com/scan/stremio.com/) e [Addons](https://www.urlvoid.com/scan/stremio-addons.netlify.app/)
+
 ### 🐐 [Rede Canais](https://xn--90afacaz8cwa6a2e.xn--p1ai/)
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cwa6a2e.xn--p1ai/)
-
-### 🐐 [Stremio](https://www.stremio.com/) + [Addons](https://stremio-addons.netlify.app/)
-- Stremio junto com os seguintes Addons é sucesso: **Torrentio Brazuca**, **Brazuca Torrents**, **Streaming Catalogs**, **Torrent Catalogs** e **Anime Kitsu**
-- Resultados de segurança da URL: [Stremio](https://www.urlvoid.com/scan/stremio.com/) e [Addons](https://www.urlvoid.com/scan/stremio-addons.netlify.app/)
 
 ### ▶️ [Braflix](https://www.braflix.app/pt)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/braflix.app/)
@@ -112,11 +113,7 @@
 ### 🧲 [Vamos Torrent](https://vamostorrent.com/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vamostorrent.com/)
 
-### 🧲 [Filmes via Torrent.net](https://piratetorrents.org/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/piratetorrents.org/)
-
 ### 🧲 [Filmes via Torrent.site](https://filmesviatorrents.site/)
-- não confundir com o site acima, nomes iguais mas sites diferentes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/filmesviatorrents.site/)
 
 ### 🧲 [Torrent dos Filmes](https://torrentdofilmes.com/)

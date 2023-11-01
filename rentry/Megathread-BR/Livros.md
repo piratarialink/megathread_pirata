@@ -110,14 +110,23 @@
 ---
 ## 📑 4 ➜ Mangá
 
-### 🐐 [Mangá Livre](https://mangalivre.net/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangalivre.net/)
+### 🌸 [SlimeRead](https://slimeread.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/slimeread.com/)
+
+### 🌸 [Yomu Mangás](https://yomumangas.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/yomumangas.com/)
+
+### 🌸 [Tsuki Mangás](https://tsuki-mangas.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tsuki-mangas.com/)
 
 ### 🌸 [Mangás Chan](https://mangaschan.com/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangaschan.com/)
 
-### 🌸 [Manga-Terra](https://www.manga-terra.com/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/manga-terra.com/)
+### 🌸 [Manhastro](https://manhastro.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/manhastro.com/)
+
+### 🌸 [Mangá BR](https://mangabr.net/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangabr.net/)
 
 ### 🌸 [BR Mangás](https://www.brmangas.net/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/brmangas.net/)
@@ -125,21 +134,18 @@
 ### 🌸 [Ler Mangá](https://lermanga.org/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/lermanga.org/)
 
-### 🌸 [Manga Online](https://mangaonline.biz/)
+### 🌸 [Mangá Online](https://mangaonline.biz/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangaonline.biz/)
-
-### 🌸 [Golden Mangas](https://goldenmangas.top/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/goldenmangas.top/)
 
 ### 🌸 [ComicK](https://comick.app/)
 - Leitor muito rápido e gratuito com um enorme banco de dados de quadrinhos, incluindo mangá, manhua e manhwa! Inclui Português Brasileiro
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comick.app/)
 
-### 🌸 [MangaDex](https://mangadex.org/)
+### 🌸 [MangáDex](https://mangadex.org/)
 - Todo o conteúdo é fornecido por usuários, grupos de scanlation e editores, que suportam todos os idiomas. (Só aplicar o Filtro para Português BR)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangadex.org/)
 
-### 🐐 [MangaFire](https://mangafire.to/)
+### 🐐 [MangáFire](https://mangafire.to/)
 - O portal oferece uma grande seleção de quadrinhos mangá para todos os leitores e um layout amigável e simples de navegar. (Só aplicar o Filtro para Português BR)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangafire.to/)
 
@@ -221,7 +227,7 @@
 ---
 ## 📑 7 ➜ Torrents
 
-### 🧲 [Torrents Acadêmicos](https://academictorrents.com/)
+### 🧲 [Academic Torrents](https://academictorrents.com/)
 - Enormes conjuntos de dados compartilhados por meio de um sistema distribuído, dando aos pesquisadores acesso a um repositório de dados escalável, seguro e tolerante a falhas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/academictorrents.com/)
 
