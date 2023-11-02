@@ -3,7 +3,7 @@
 # 📜 ➜ **Megathread**
 
 !!! info ➜ Qual o objetivo dessa Megathread?
-	Esta Megathread tem como objetivo capturar a essência da renomada Megathread do [r/Piracy](https://www.reddit.com/r/Piracy/), atuando como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas e até mesmo uma seleção abrangente de opções nacionais, empenhando-se em abranger não somente o âmbito internacional.
+	Esta Megathread tem como objetivo capturar a essência da renomada [Megathread](https://rentry.co/megathread) do [r/Piracy](https://www.reddit.com/r/Piracy/), atuando como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas e até mesmo uma seleção abrangente de opções nacionais, empenhando-se em abranger não somente o âmbito internacional.
 
 !!! info ➜ Marinheiro não tão rápido! Faça isso primeiro
     - [x] Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) + [Fast Forward](https://fastforward.team/) com essas [ configurações otimizadas](https://take-me-to.space/UShoGZ7.png) (*Bloqueia anúncios e malware*).
@@ -29,7 +29,7 @@
  
 ---
 
-# 🏆 1 ➜ Maiores Tesouros
+# 🏆 ➜ Maiores Tesouros
 
 ### 🧭 [Sites de Uso Geral](https://rentry.co/MegathreadBR-sites-de-uso-geral)
 - Sites de múltiplos propósitos desde buscadores de torrent, agregadores e rastreadores DHT para encontrar o máximo de conteúdo público possível.
@@ -69,7 +69,14 @@
 
 ---
 
-# 📑 2 ➜ Outros tesouros
+# 🌀 ➜ Perigos do Mar
+
+### ☣️ [Sites Inseguros](https://rentry.co/MegathreadBR-sites-inseguros)
+- Devido a inúmeras ofensas graves e indesculpáveis, estes sites maliciosos adquiriram uma reputação terrível.
+
+---
+
+# 📑 ➜ Outros tesouros
 
 ### 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
 ### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
@@ -80,5 +87,5 @@
 ### 📁 [Wotaku](https://wotaku.pages.dev/)
 ---
 
-⚓ ❮ Volte para [**c/Pirataria Lemmy**](https://lemmy.dbzer0.com/c/pirataria)
+# ⚓ ❮ Volte para [**c/Pirataria Lemmy**](https://lemmy.dbzer0.com/c/pirataria)
 ---
