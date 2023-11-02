@@ -6,7 +6,6 @@
 # 📝 Índice
 
 ### -> 1. 📑 [Aplicativos Mobile](#aplicativos-mobile) <-
-
 ### -> 2. 📑 [Aplicativos de Streaming](#aplicativos-de-streamingdownload) <-
 ### -> 3. 📑 [Clientes Torrent](#clientes-torrent) <-
 ### -> 4. 📑 [APKs Limpos](#apks-limpos) <-
@@ -85,14 +84,16 @@
 
 - [Aniyomi](https://github.com/jmir1/aniyomi) - Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
 
-- [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi)- Fork do Aniyomi com a função de mangás restaurada e recursos extras.
+- [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) - Fork do Aniyomi com a função de mangás restaurada e recursos extras.
+
+- [Better Anime](https://play.google.com/store/apps/details?id=com.betteranimev3&pli=1) - O famoso **Better Anime** que tinha caído, mas voltou, ele oferece opções HD e Full HD para assistir.
 
 - [Tomato](https://play.google.com/store/apps/details?id=com.tomatos.appclient) - Streaming de anime e mangás.
 
-https://play.google.com/store/apps/details?id=com.animeit.v2&hl=en_US&gl=US
 ### | ***Livros*** |
 
 * [Tachiyomi](https://github.com/inorichi/tachiyomi) - Leitor de mangá
+
 ### | ***Filmes e TV*** |
 
 - [RedeCanais](https://redecanais.la/android/) - Streaming de Filmes, TV, Anime e Futebol.

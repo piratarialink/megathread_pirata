@@ -70,6 +70,10 @@
 
 * [uBlock Origin](https://github.com/gorhill/uBlock#installation) - para bloquear a maioria dos anúncios e pop-ups.
 * [AdNauseam](https://adnauseam.io/) - Baseado no uBlock Origin. Projetado para ofuscar os dados de navegação e proteger os usuários do rastreamento por redes de publicidade
+* [Pi-hole](https://pi-hole.net/) - Bloqueio de anúncios em toda a rede
+* [AdAway](https://adaway.org/) - AdAway é um bloqueador de anúncios de código aberto para Android que usa o arquivo hosts.
+* [Blokada](https://blokada.org/) - Blokada é um popular bloqueador de anúncios e aplicativo de privacidade para Android e iOS.
+* [AdGuard Home](https://adguard.com/pt_br/adguard-home/overview.html) - O AdGuard Home é um servidor de DNS para bloqueio de anúncios e rastreamento em toda a rede.
 * [FastForward](https://github.com/FastForwardTeam/FastForward) - Extensão de navegador de código aberto para "contornar sites que fazem você esperar (como adf.ly), fazem você fazer algo (por exemplo, show.co e sub2unlock .com) e até rastreadores (como bit.ly e t.co)"
 * [SpotX - anteriormente BlockTheSpot](https://github.com/spotx-cli) - Bloqueia anúncios e permite pular músicas no aplicativo de desktop do Windows Spotify.
 * [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - executável leve que bloqueia e silencia os anúncios do Spotify no Windows.
@@ -159,11 +163,14 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 ---
 ## ► Gerenciadores de mídia
 
+* [Jackett](https://github.com/Jackett/Jackett) - Jackett é um indexador completo. Ele permite que você adicione muitos rastreadores de torrent diferentes ao aplicativo, no qual você pode fazer todas as suas pesquisas. Em conjunto com sonarr/radarr, você pode adicionar a Jackett como um indexador a eles, permitindo que eles pesquisem em qualquer um ou em todos os rastreadores de torrent que você adicionou à jaqueta.
 * [Sonarr](https://sonarr.tv/) - Sonarr é uma ferramenta de download automático de programas de TV onde você pode adicionar novos programas para monitorar e baixará automaticamente todos os novos episódios assim que estiverem disponíveis em sites de torrent.
 * [Radarr](https://radarr.video/) - Igual ao Sonarr, mas para filmes.
+* [Prowlarr](https://prowlarr.com/) - Faz o mesmo papel do Jackett, só que melhor.
 * [Medusa](https://pymedusa.com/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 * [SickChill](https://sickchill.github.io/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
-* [Jackett](https://github.com/Jackett/Jackett) - Jackett é um indexador completo. Ele permite que você adicione muitos rastreadores de torrent diferentes ao aplicativo, no qual você pode fazer todas as suas pesquisas. Em conjunto com sonarr/radarr, você pode adicionar a jaqueta como um indexador a eles, permitindo que eles pesquisem em qualquer um ou em todos os rastreadores de torrent que você adicionou à jaqueta.
+* [Lidarr](https://lidarr.audio/) - Um Radarr para álbuns musicais.
+
 
 ---
 ## ► Gerenciadores de download
@@ -200,7 +207,7 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 
 ---
 ## ► Ferramentas de download on-line
-
+* [Cobalt](https://cobalt.tools/) - Baixe vídeos/áudios do youtube, tiktok, reddit, twitter e mais.
 * [y2mate.com](https://www.y2mate.com/) - Baixe o vídeo/áudio do youtube. (Não funciona mais nos EUA)
 * [9xbuddy.com](https://9xbuddy.com/) - Youtube / site de download de vários sites
 * [sasrip.cf](https://sasrip.cf/) - Downloader de vídeo / mp3
@@ -210,13 +217,16 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 ---
 ## ► Compartilhamento de arquivos
 
+* [Pairdrop](https://pairdrop.net/) - PairDrop: Compartilhamento local de arquivos em seu navegador. Inspirado no AirDrop da Apple. Fork do Snapdrop.
 * [SyncThing](https://syncthing.net/) - Compartilhe arquivos/pastas entre computadores. Configure pastas compartilhadas que serão sincronizadas automaticamente entre os dispositivos.
 * [file.pizza](https://file.pizza/) - Transferências seguras de arquivos ponto a ponto. Útil para transferências rápidas de arquivos únicos. [Página do GitHub.](https://github.com/kern/filepizza)
 * [instant.io](https://instant.io/) - Mesmo conceito de file.pizza
 * [xkcd949.com](http://xkcd949.com/) - Mesmo conceito de file.pizza
 * [ShareDrop.io](https://www.sharedrop.io/) - Mesmo conceito de file.pizza
 * [snapdrop.net](https://snapdrop.net) - Mesmo conceito de file.pizza [página do GitHub.](https://github.com/RobinLinus/snapdrop)
-* [wetransfer.com](https://wetransfer.com/) - Envie links autoexpiráveis ​​de até 2 GiB de tamanho
+* [wetransfer.com](https://wetransfer.com/) - Envie links autoexpiráveis ​​de até 2 GiB de tamanho.
+* [LanXchange](https://github.com/tfg13/LanXchange ) - Envie arquivos do PC para o Smartphone e vice-versa pelo wifi local (não usa internet).
+* [Tailscale](https://tailscale.com/) - Acesse seu computador remotamente sem precisar abrir portas no roteador.
 
 ---
 ## ► Renomeação de arquivo

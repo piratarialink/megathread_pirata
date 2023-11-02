@@ -168,6 +168,10 @@
  
 ---
 # 📑 ➜ ROMs
+
+### 🔗 [PSX Downloads](https://psxdownloads.us/) - Necessário Registrar-se
+- Oferece alguns jogos traduzidos e dublados (Fan-dubs) em PT-BR para PS1, PS2 e PS3.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/psxdownloads.us/)
 ### 🔗 [Best NES Games](https://archive.org/details/best-nes-games)
 - 180 jogos fantásticos. Basta baixar e extrair o arquivo zip de 19 MB.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
@@ -226,7 +230,7 @@
 ---
  !!! info
 	 Está buscando Jogos de Computador? 
-	 ➜ Confira nossa thread sobre 🎮 [Jogos](https://rentry.org/MegathreadBR-Jogos) 
+	 ➜ Confira nossa Megathread sobre 🎮 [Jogos](https://rentry.org/MegathreadBR-Jogos) 
 
 # 📜 ❮ Volte para [**Megathread**](https://rentry.co/Pirataria-MegathreadBR)
 ---

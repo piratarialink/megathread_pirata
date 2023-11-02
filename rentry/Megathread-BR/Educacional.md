@@ -19,8 +19,8 @@
 ---
 ## 📑 1 ➜ Streaming
 
+### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)** - Você pode assistir aos cursos pelo Telegram
 ### ▶️ **[Curso em Video](https://www.cursoemvideo.com/)** - Cursos  
-
 ### ▶️ **[Kultivi](https://app.kultivi.com/)** - Cursos
 ### ▶️ **[PrimeCursos](https://www.primecursos.com.br/)** - Cursos
 ### ▶️ **[uniasselvi](https://portal.uniasselvi.com.br/cursolivre)** - Cursos
@@ -37,6 +37,9 @@
 
 ---
 ## 📑 2 ➜ Downloads diretos
+
+### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)**
+- Você pode baixar os cursos fornecidos no próprio Telegram.
 
 ### 🔗 [Course Drive](https://coursedrive.org)
 - Aulas em vídeo da Udemy, Lynda, Packetpub, Pluralsight e mais estão disponíveis para download gratuito.
@@ -127,7 +130,7 @@
 ### 🐐 [Polemic Knowledge](https://t.me/PolemicKnowledge)
 - Frequentemente eles deixam aberto de madrugada para entrar, sempre tente acessar esse link por volta da madrugada.
 ### 🔗 [Polemic Hub](https://t.me/polemic)
-- Apenas um backup do canal principal. 
+- Apenas um backup e "Hub" para outros canais do Polemic. 
 
 ### 🔗 [NOSSO CONCURSO](https://t.me/NOSSOCONCURSO)
 - Aqui você encontrará questões de provas e exercícios de concursos públicos e provas em geral.
@@ -141,7 +144,7 @@
 ---
  !!! info
 	 Está buscando Livros? 
-	 ➜ Confira nossa thread sobre 📚 [Livros](https://rentry.org/MegathreadBR-Livros) 
+	 ➜ Confira nossa Megathread sobre 📚 [Livros](https://rentry.org/MegathreadBR-Livros) 
 	 Mais sobre **Conteúdo Educacional e Cursos** nos links gringos a seguir:
 	 [Champagne Wiki - Education and Learning](https://champagne.pages.dev/education/)
 	 [FMHY - Educational](https://fmhy.pages.dev/edupiracyguide/)
