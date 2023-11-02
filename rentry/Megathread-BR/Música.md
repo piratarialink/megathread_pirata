@@ -143,5 +143,5 @@
 	 Está buscando Apps para Ouvir/Baixar Música para Celular? 
 	 ➜ Confira nossa thread sobre 📱 [Mobile](https://rentry.co/MegathreadBR-Mobile#aplicativos-de-m%C3%BAsica-para-android) 
 
-# 📜 ❮ Volte para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
+# 📜 ❮ Voltar para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
 ---

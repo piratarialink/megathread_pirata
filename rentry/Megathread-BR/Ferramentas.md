@@ -311,5 +311,5 @@ Mais ferramentas no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/f
 
 ---
 
-# 📜 ❮ Volte para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
+# 📜 ❮ Voltar para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
 ---

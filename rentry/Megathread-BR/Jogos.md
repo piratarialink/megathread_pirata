@@ -20,7 +20,6 @@
 ###  -> 2. 📑 [Jogos de navegador](#2-jogos-de-navegador_1) <-
 ### -> 3. 📑 [Buscadores](#3-buscadores_1) <-
 ### -> 4. 📑 [Torrents](#4-torrents_1) <-
-### -> 5. 📑 [Sites não confiáveis](#sites-não-confiáveis) <-
 
 ---
 ## 📑 1 ➜ Downloads diretos
@@ -149,32 +148,9 @@
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/byxatab.com/)
 
 ---
-# ☣️ ➜ Sites não confiáveis
-
-- Comportamento antiético, regulamentação inadequada ou injeção deliberada de malware.
-- Clones falsos que empregam desonrosamente o nome de uma marca conhecida para atrair usuários.
-
-Site | URL
-:---- | :----
-⚠️ AIMHAVEN | aimhaven-com
-⚠️ ApunKaGames | apunkagames-com
-⚠️ Crohasit | crohasit-net
-⚠️ Descarga Game | descargagame-com
-⚠️ Game3rb | game3rb-com
-⚠️ IGGGames | igg-games-com
-⚠️ NexusGames | nexus-games-net
-⚠️ nosTeam | nosteamgames-ro
-⚠️ Ocean of Games | oceansofgamess-com
-⚠️ Repack-Games | repack-games-com
-⚠️ Steam-Repacks | steam-repacks-com
-⚠️ STEAMUNLOCKED | steamunlocked-net
-⚠️ Worldofpcgames | worldof-pcgames-net
-
----
-
  !!! info
 	 Está buscando Emuladores e ROMs? 
-	 ➜ Confira nossa thread sobre 🕹️ [Emuladores e ROMs](https://rentry.org/MegathreadBR-emuladores-e-roms) 
+	 ➜ Confira nossa Megathread sobre 🕹️ [Emuladores e ROMs](https://rentry.org/MegathreadBR-emuladores-e-roms) 
 	 Para saber mais sobre o assunto confira a [Megathread do Pirated Games](https://rentry-org.translate.goog/pgames?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp)
-# 📜 ❮ Volte para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
+# 📜 ❮ Voltar para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
 ---

@@ -159,7 +159,7 @@
 ---
  !!! note
 	 Está buscando Apps para Assistir/Baixar Filmes e Séries para Celular? 
-	 ➜ Confira nossa thread sobre 📱 [Mobile](https://rentry.co/MegathreadBR-Mobile#filmes-e-tv)
+	 ➜ Confira nossa Megathread sobre 📱 [Mobile](https://rentry.co/MegathreadBR-Mobile#filmes-e-tv)
 
-# 📜 ❮ Volte para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
+# 📜 ❮ Voltar para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
 ---

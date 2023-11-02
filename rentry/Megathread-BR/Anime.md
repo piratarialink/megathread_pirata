@@ -31,7 +31,6 @@
 - O famoso **Better Anime** que tinha caído, mas voltou, ele oferece opções HD e Full HD para assistir.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betteranime.net/)
 
-
 ### ▶️ [Animes Vision](https://animes.vision/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/animes.vision/)
 
@@ -97,7 +96,6 @@
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/chauthanh.info/)
 
 ---
- 
 ## 📑 3 ➜ Torrents
 
 ### 🧲 [Dark Mahou](https://darkmahou.org/)
@@ -136,5 +134,5 @@
 	 ➜ Confira nossa Megathread sobre 📱 [Mobile](https://rentry.co/MegathreadBR-Mobile#anime)
 	 ➜ Confira essa lista para mais sites para assistir animes: https://pastelink.net/animes
 
-# 📜 ❮ Volte para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
+# 📜 ❮ Voltar para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
 ---

@@ -273,5 +273,5 @@
 	 Mais sobre **Livros** nos links gringos a seguir:  [FMHY - Books / Comics / Manga](https://fmhy.pages.dev/readingpiracyguide/)
 	 ➜ Confira essa lista para mais sites para ler Mangá: https://pastelink.net/mangas
 
-# 📜 ❮ Volte para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
+# 📜 ❮ Voltar para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
 ---

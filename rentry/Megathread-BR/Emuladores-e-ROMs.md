@@ -232,5 +232,5 @@
 	 Está buscando Jogos de Computador? 
 	 ➜ Confira nossa Megathread sobre 🎮 [Jogos](https://rentry.org/MegathreadBR-Jogos) 
 
-# 📜 ❮ Volte para [**Megathread**](https://rentry.co/Pirataria-MegathreadBR)
+# 📜 ❮ Voltar para [**Megathread**](https://rentry.co/Pirataria-MegathreadBR)
 ---

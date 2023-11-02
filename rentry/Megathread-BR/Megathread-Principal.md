@@ -87,5 +87,5 @@
 ### 📁 [Wotaku](https://wotaku.pages.dev/)
 ---
 
-# ⚓ ❮ Volte para [**c/Pirataria Lemmy**](https://lemmy.dbzer0.com/c/pirataria)
+# ⚓ ❮ Voltar para [**c/Pirataria Lemmy**](https://lemmy.dbzer0.com/c/pirataria)
 ---

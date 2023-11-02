@@ -12,14 +12,12 @@
     - 🐐 [GOAT](https://www.urbandictionary.com/define.php?term=goat) status = Altamente recomendado pela comunidade pirata.
 
 ---
-
 # 📝 Índice
 
 ###  -> 1. 📑 [Downloads Diretos](#1-downloads-diretos_1) <-
 ### -> 2. 📑 [Torrents](#2-torrents_1) <-
-### -> 3. 📑 [Sites não confiáveis](#sites-não-confiáveis) <-
 
-### -> 4. 📑 [Trackers Privados](#trackers-privados) <-
+### -> 3. 📑 [Dados da cena dos Trackers](#3-dados-da-cena-dos-trackers) <-
 
 ---
 ## 📑 1 ➜ Downloads diretos
@@ -63,15 +61,19 @@
 ### 🧲 [BTMET](https://btmet.com/)
 - Um mecanismo de pesquisa magnético que pode ser visualizado e permite inícios rápidos de downloads em quase todos os gêneros de mídia para uso gratuito.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/btmet.com/)
-### 🧲 [ExtraTorrents](https://extratorrents.it/home)
-- Encontre jogos, aplicativos, filmes, séries de TV e muito mais em um dos maiores sites de torrent do mundo.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/extratorrents.it/)
+### 🧲 [EXT Torrents](https://ext.to/)
+- Mecanismo de busca magnético versátil para downloads rápidos em diversos gêneros de mídia.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ext.to/)
 ### 🧲 [FileListing](https://filelisting.com/)
 - Poderoso mecanismo de pesquisa com bots que verificam, indexam e categorizam constantemente todos os tipos de arquivos de toda a web.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/filelisting.com/)
 ### 🧲 [iDope](https://idope.se/)
 - Pesquisou anonimamente através desta grande coleção em homenagem ao KAT. Os usuários não são rastreados e seus endereços IP são removidos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/idope.se/)
+
+### 🧲 [Knaben Database](https://knaben.eu/)
+- Reino do domínio da web e do Linux por meio da evolução da impressionante ferramenta de indexação de múltiplas pesquisas.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/knaben.eu/)
 ### 🧲 [LimeTorrents](https://www.limetorrents.lol/)
 - Um serviço de compartilhamento de arquivos ponto a ponto que oferece aos usuários uma variedade de conteúdo, como arquivos de música, arquivos de vídeo e arquivos de software.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/limetorrents.lol/)
@@ -103,6 +105,11 @@
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) • Cadastre-se
 - Frequentemente são dados convites aos usuários deste cobiçado site rastreador privado, oferecendo torrents em todas as categorias em velocidades incomparáveis.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentleech.org/)
+
+### 🧲 [TorrentLite](https://torrentlite.org/)
+- Mecanismo de busca contemporâneo que cataloga todas as formas de mídia de entretenimento em todas as categorias.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentlite.org/)
+
 ### 🧲 [Torrentz2](https://torrentz2.nz/)
 - Grande motor de busca para os dias atuais que indexa todos os tipos de arquivos da web.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentz2.nz/)
@@ -111,27 +118,27 @@
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/solidtorrents.to/)
 
 ---
-# 📑 ➜ Trackers Scene Data
+# 📑 3 ➜ Dados da cena dos Trackers
 
 ### 📒 [PreDB](https://predb.net/)  / [2](https://predb.me/)
-Este serviço exibe dados de tendências coletados de inúmeras fontes online.
+- Este serviço exibe dados de tendências coletados de inúmeras fontes online.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hdvinnie.github.io/)
 
+### 📒 [Megathread de Trackers Privados](https://rentry.co/MegathreadBR-Trackers)
+- Lista com alguns Trackers Privados Brasileiros e Gringos disponíveis.
+
+### 📒 [Private Trackers Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)
+- Lista muito completa que demonstra praticamente todos os Trackers Privados usados online.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hdvinnie.github.io/)
+
+### 📒 [Scene-RLS RELEASES](https://scene-rls.net/releases/index.php)
+- Informações atuais e relevantes para cada tipo de mídia.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/scene-rls.net/)
+
+### 📒 [xREL](https://www.xrel.to/) • Interface em Alemão
+- Quadro de mensagens onde os usuários discutem os lançamentos de cenas mais recentes, análises de jogos e filmes e muito mais.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/xrel.to/)
+
 ---
-# ☣️ ➜ Sites não confiáveis
-
-- Comportamento antiético, regulamentação inadequada ou injeção deliberada de malware.
-- Clones falsos que empregam desonrosamente o nome de uma marca conhecida para atrair usuários.
-
-SITE | URL
-:---- | :----
-⚠️ 1377x | 1377x-to
-⚠️ KickassTorrents | kickasstorrents-para
-⚠️ RARBG DUMP INDEX | rarbg-best
-⚠️ The Pirate Bay | thepiratebay-org
-⚠️ TheRarBg | therarbg-com
-
----
-
-# 📜 ❮ Volte para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
+# 📜 ❮ Voltar para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
 ---

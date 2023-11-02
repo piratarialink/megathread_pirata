@@ -149,5 +149,5 @@
 	 [Champagne Wiki - Education and Learning](https://champagne.pages.dev/education/)
 	 [FMHY - Educational](https://fmhy.pages.dev/edupiracyguide/)
 
-# 📜 ❮ Volte para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
+# 📜 ❮ Voltar para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
 ---

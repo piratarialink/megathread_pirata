@@ -18,7 +18,6 @@
 ###  -> 2. 📑 [Fontes](#2-fontes_1) <-
 ### -> 3. 📑 [Buscadores](#3-buscadores_1) <-
 ### -> 4. 📑 [Torrents](#4-torrents_1) <-
-### -> 5. 📑 [Sites não confiáveis](#sites-não-confiáveis) <-
 
 ---
 ## 📑 1 ➜ Downloads Diretos
@@ -178,26 +177,10 @@
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/teamos.xyz)
 
 ---
-# ☣️ ➜ Sites não confiáveis
-
-- Comportamento antiético, regulamentação inadequada ou injeção deliberada de malware.
-- Clones falsos que empregam desonrosamente o nome de uma marca conhecida para atrair usuários.
-
-Site | URL
-:---- | :----
-⚠️ FileCR | filecr-com
-⚠️ FTUApps | ftuapps-dev
-⚠️ Get Into PC | getintopc-com
-⚠️ Karan PC | karanpc-com
-⚠️ Portable4PC | portable4pc-com
-⚠️ SadeemPC | sadeempc-com
-⚠️ S0ft4PC | s0ft4pc-com
-
----
 
 !!! info
 	 Está buscando Aplicativos para Celular? 
-	 ➜ Confira nossa thread sobre 📱 [Mobile](https://rentry.co/MegathreadBR-Mobile)
+	 ➜ Confira nossa Megathread sobre 📱 [Mobile](https://rentry.co/MegathreadBR-Mobile)
 
-# 📜 ❮ Volte para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
+# 📜 ❮ Voltar para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
 ---

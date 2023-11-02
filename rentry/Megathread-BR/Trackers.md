@@ -1,19 +1,14 @@
-# 🧵➜ [Megathread](https://rentry.co/Pirataria-MegathreadBR) / **Trackers**
+# 🧵➜ **Megathread de Trackers Privados**
 
 -> ***Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos.*** <-
-
----
-
-!!! warning ➜ Lembrete rápido
-    - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
-    - 👍🏻 Em vez de ter uma variedade enorme, nossa [Megathread](https://rentry.co/Pirataria-MegathreadBR) oferece apenas as melhores opções.
-    - 🐐 [GOAT](https://www.urbandictionary.com/define.php?term=goat) status = Altamente recomendado pela comunidade pirata.
 
 ---
 # 📑 ➜ Trackers Brasileiros
 ### 🧲 [Brasil Tracker](https://brasiltracker.org/index.php)
 
 ### 🧲 [The Rebels](https://therebels.tv/)
+
+### 🧲 [HubWarez](https://hubwarez.tv/forum/register.php)
 
 ### 🧲 [BrSociety (BRS)](https://brsociety.club/)
 

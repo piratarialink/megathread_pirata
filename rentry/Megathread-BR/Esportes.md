@@ -113,5 +113,5 @@
 	Mais sobre transmissões ao vivo em [FREEMEDIAHECKYEAH Esportes / transmissão ao vivo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_sports_streaming)
 	Mais sobre replay de jogos em [Champagne Piracy Wiki - Full Replays & Downloads](https://champagne.pages.dev/online-streaming--dl/live-sports/#full-replays--downloads)   
 --- 
-# 📜 ❮ Volte para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
+# 📜 ❮ Voltar para [**Megathread**](https://rentry.org/Pirataria-MegathreadBR)
 ---

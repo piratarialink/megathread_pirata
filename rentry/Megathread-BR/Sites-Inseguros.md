@@ -6,7 +6,7 @@
      - 💩 [Merda](https://www.dicio.com.br/merda/) status = Particularmente evitado pela comunidade pirata.
 
 ---
-# 📝 ➜ Indice
+# 📝 ➜ # Índice
 
 [TOC]
 
