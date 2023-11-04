@@ -20,7 +20,7 @@ Nossa comunidade é bem-vinda para colaborar na manutenção e atualização das
 1. Faça um fork deste repositório para o seu perfil GitHub.
 2. Crie uma nova branch para suas alterações.
 3. Faça as edições necessárias nos arquivos Markdown.
-4. Envie um pull request para este repositório principal.
+4. Envie um pull request para este repositório principal explicando quais mudanças e adições você fez e por qual motivo aquela mudança ou adição seria interessante.
 
 Agradecemos a participação de todos na construção e manutenção de nossas megathreads.
 

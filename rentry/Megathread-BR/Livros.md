@@ -67,7 +67,19 @@
 - Acesso ilimitado a todo o conhecimento científico, quebrando paywalls acadêmicos desde 2011.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sci-hub.se/)
 
-### 🐐 [Projeto Z-Library](https://singlelogin.re/) • Cadastre-se
+### 🔗 [Read any Book](https://www.readanybook.com/)
+- Leia qualquer livro inclusive alguns em Português.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/readanybook.com/)
+
+### 🔗 [Projeto Gutenberg](https://gutenberg.org/)
+- Project Gutenberg é uma biblioteca online de e-books gratuitos. Escolha entre e-books epub e Kindle gratuitos, baixe-os ou leia-os online.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gutenberg.org/)
+
+### 🔗 [Open Library](https://openlibrary.org/)
+- Open Library é uma iniciativa da [Internet Archive](https://archive.org/), uma organização sem fins lucrativos, que constrói uma biblioteca digital de sites da Internet e outros artefatos culturais em formato digital.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/openlibrary.org/)
+
+### 🐐 [Projeto Z-Library](https://singlelogin.re/) • Necessário Cadastrar-se
 - Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, textos acadêmicos e livros de interesse geral.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/singlelogin.re/)
  
@@ -172,6 +184,10 @@
 !!! warning
 	➜ Os sites abaixo são gringos e apenas oferecem conteúdos em inglês
 	➜ Caso você conheça algum site de livros e audiobooks em português, mande ele [aqui](https://lemmy.dbzer0.com/post/5116448).
+
+### ▶️ [LibriVox](https://librivox.org/)
+- Liberação acústica de obras de domínio público, permitindo download e audição
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/librivox.org/)
 ### ▶️ [AppAudioBooks](https://appaudiobooks.com/)
 - Design fácil de usar que facilita a localização do audiolivro que você deseja ouvir.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/appaudiobooks.com/)
@@ -217,9 +233,7 @@
 ### ▶️ [LearnOutLoud](https://www.learnoutloud.com/)
 - Local central para aprendizado de vídeo e áudio com mais de 50.000 títulos instrucionais.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/learnoutloud.com/)
-### ▶️ [LibriVox](https://librivox.org/)
-- Liberação acústica de obras de domínio público, permitindo download e audição
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/librivox.org/)
+
 ### ▶️ [Storynory](https://www.storynory.com/)
 - Histórias de áudio feitas para crianças. Relaxe e deixe a imaginação dos seus filhos vagar por reinos fantásticos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/storynory.com/)
@@ -231,12 +245,12 @@
 - Enormes conjuntos de dados compartilhados por meio de um sistema distribuído, dando aos pesquisadores acesso a um repositório de dados escalável, seguro e tolerante a falhas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/academictorrents.com/)
 
-### 🐐 [AudioBook Bay](https://audiobookbay.li/) / [2](https://audiobookbay.se/) • Cadastre-se
+### 🐐 [AudioBook Bay](https://audiobookbay.li/) / [2](https://audiobookbay.se/) • Necessário Cadastrar-se
 - Excelente coleção de audiolivros e compartilha muito conteúdo com o MyAnonamouse.
 - Para baixar sem uma conta, copie o hash de informações e cole-o no seu cliente de torrent. Exemplo: `magnet:?xt=urn:btih:INFOHASH`
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/audiobookbay.li/)
 
-### 🧲 [MyAnonamouse](https://www.myanonamouse.net/) • Cadastre-se
+### 🧲 [MyAnonamouse](https://www.myanonamouse.net/) • Necessário Cadastrar-se
 - Ótimo rastreador privado para e-books, audiolivros, desde as mais recentes publicações de grande sucesso até aquelas joias indescritíveis.
 - Para obter um convite, [veja esta página](https://www.myanonamouse.net/inviteapp.php) para mais detalhes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/myanonamouse.net/)
