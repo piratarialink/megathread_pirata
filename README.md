@@ -20,7 +20,10 @@ Nossa comunidade é bem-vinda para colaborar na manutenção e atualização das
 1. Faça um fork deste repositório para o seu perfil GitHub.
 2. Crie uma nova branch para suas alterações.
 3. Faça as edições necessárias nos arquivos Markdown.
-4. Envie um pull request para este repositório principal explicando quais mudanças e adições você fez e por qual motivo aquela mudança ou adição seria interessante.
+4. Envie um pull request para este repositório principal 
+5. Explique quais mudanças e adições você fez e por qual motivo aquela mudança ou adição seria interessante.
+6. De preferência que seja um site nacional, mas se for um site gringo está bom.
+7. O site não pode conter avisos no [URL Void](https://www.urlvoid.com/), se o site tiver falso positivos explique por que é um falso positivo.
 
 Agradecemos a participação de todos na construção e manutenção de nossas megathreads.
 
