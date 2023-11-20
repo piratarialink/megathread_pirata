@@ -1,8 +1,8 @@
 site_name: Pirataria
-site_url: https://r-pirataria.github.io/megathread/
+site_url: https://c-pirataria.github.io/megathread/
 
-repo_name: r-pirataria/megathread
-repo_url: https://github.com/r-pirataria/megathread
+repo_name: c-pirataria/megathread
+repo_url: https://github.com/c-pirataria/megathread
 
 nav:
   - Início: index.md
