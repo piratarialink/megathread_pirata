@@ -11,7 +11,7 @@
 - Vincule seu cliente de torrent à VPN (*Só permite torrent quando a VPN está ativa*).
 
 ## ⭐ Marque essa URL como favorito
-- O [Subreddit r/pirataria](https://www.reddit.com/r/pirataria/) é onde nosso maior navio de piratas online se reúne. [c/Pirataria Lemmy](https://lemmy.dbzer0.com/c/pirataria) é nossa navio reserva.
+- O subreddit [r/pirataria](https://www.reddit.com/r/pirataria/) é onde nosso maior navio de piratas online se reúne. Enquanto nossa comunidade no [Lemmy](https://tesseract.lemmy.eco.br/c/pirataria@lemmy.dbzer0.com) é nossa navio reserva.
 - É fundamental salvar essa URL, pois ele servirá como uma bússola constante para onde nossos navios estão estacionados no momento.
 
 ## ⚠️ Aviso!
