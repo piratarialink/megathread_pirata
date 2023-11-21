@@ -9,6 +9,9 @@ De publicações úteis para ajudá-lo em suas viagens marítimas.
 ### 🧵 ➜ [Trackers Privados](trackers.md)
 - Lista de Trackers Privados feito por nós.
 
+### 🪶 ➜ [VirusTotal (VT)](virustotal.md)
+- Como verificar um arquivo no Virus Total corretamente.
+
 ### 🪶 ➜ [Guias](guias.md)
 - Publicações úteis para ajudá-lo em suas viagens marítimas.
 
