@@ -20,8 +20,8 @@ nav:
     - jogos-piratas.md
     - emuladores-e-roms.md
   - Educação:
-    - Educacional: educacional.md
-    - Livros: livros.md
+    - educacional.md
+    - livros.md
   - Entretenimento: 
     - esportes.md
     - filmes-e-tv.md
