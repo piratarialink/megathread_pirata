@@ -18,7 +18,15 @@ nav:
   - Mobile: mobile.md
   - Ferramentas: ferramentas.md
   - Softwares: softwares.md
-  - Outros: outros.md
+  - Outros:
+    - faq.md
+    - jogos-piratas.md
+    - trackers.md
+    - virustotal.md
+    - glossario.md
+    - guias.md
+    - coletanea-uteis-privacidade-seguranca.md
+    - discord.md
 
 extra_css:
   - stylesheets/extra.css
@@ -45,13 +53,15 @@ theme:
   name: material
   language: pt-BR
   features:
+    - navigation.instant
+    - navigation.instant.progress
     - navigation.footer
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.tracking
     - navigation.expand
-    - navigation.path
+    - navigation.top
     - toc.follow
     - toc.integrate
     - search.suggest

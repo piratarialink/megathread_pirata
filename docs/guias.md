@@ -1,4 +1,4 @@
-# 🪶 ➜ Bem-vindo ao Guias
+# 🪶 ➜ Guias
 Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 ---
