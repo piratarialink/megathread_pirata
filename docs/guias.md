@@ -30,4 +30,6 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 - [Guia: Como baixar jogos usando 1337x e TorrentGalaxy](https://t.lemmy.dbzer0.com/post/lemmy.dbzer0.com/2903152) - Guia feito por [u/Heus-Sueh](https://t.lemmy.dbzer0.com/u/Heus_Sueh@lemmy.dbzer0.com)
 
+- [Guia: Como baixar jogos piratas de forma segura](jogos-piratas.md) - Guia feito pela comunidade
+
 ---

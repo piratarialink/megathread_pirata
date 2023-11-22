@@ -9,29 +9,19 @@ nav:
     - index.md
     - faq.md
     - glossario.md
-    - guias.md
-  - Sites de Uso Geral: 
-    - sites-geral.md
-  - Jogos:
-    - jogos.md
-    - jogos-piratas.md
-    - emuladores-e-roms.md
-  - Educação:
-    - educacional.md
-    - livros.md
-  - Entretenimento: 
-    - esportes.md
-    - filmes-e-tv.md
-    - anime.md
-    - musica.md
-  - Mobile: 
-    - mobile.md
-  - Ferramentas: 
-    - ferramentas.md
-  - Softwares: 
-    - softwares.md
-  - Trackers:
-    - trackers.md
+  - Sites de Uso Geral: sites-geral.md
+  - Jogos: jogos.md
+  - Anime: anime.md
+  - Música: musica.md
+  - Educacional: educacional.md
+  - Livros: livros.md
+  - Emuladores/ROMs: emuladores-e-roms.md
+  - Esportes: esportes.md
+  - Filmes/TV: filmes-e-tv.md
+  - Mobile: mobile.md
+  - Ferramentas: ferramentas.md
+  - Softwares: softwares.md
+  - Guias: guias.md
 
 extra_css:
   - stylesheets/extra.css
@@ -58,16 +48,15 @@ theme:
   name: material
   language: pt-BR
   features:
-    - navigation.instant
-    - navigation.instant.progress
     - navigation.footer
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.tracking
     - navigation.expand
-    - navigation.top
+    - navigation.path
     - toc.follow
+    - toc.integrate
     - search.suggest
     - search.highlight
     - search.share

@@ -58,11 +58,14 @@
 ### 🧰 [Ferramentas](ferramentas.md)
 - Ferramentas para ativação, scripts de usuário, gerenciadores de download, assistentes, extensões e uma infinidade de outros softwares complementares.
 
+### 🧵 ➜ [Trackers Privados](trackers.md)
+- Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos.
+
 ---
 
 # 🌀 ➜ Perigos do Mar
 
-### ☣️ [Sites Inseguros](sites-inseguros.md)
+## ☣️ [Sites Inseguros](sites-inseguros.md)
 - Devido a inúmeras ofensas graves e indesculpáveis, estes sites maliciosos adquiriram uma reputação terrível.
 
 ---
