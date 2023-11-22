@@ -9,8 +9,9 @@ nav:
     - index.md
     - faq.md
     - glossario.md
-    - virustotal.md
+  - Guias:
     - guias.md
+    - virustotal.md
     - coletanea-uteis-privacidade-seguranca.md
     - discord.md
   - Sites de Uso Geral: 
