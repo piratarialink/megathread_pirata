@@ -1,4 +1,4 @@
-# 📜 ➜ Bem-vindo a Megathread do r/Pirataria
+# 📜 ➜ Bem-vindo a Megathread do c/Pirataria
 
 ## 🤔 Qual o objetivo dessa Megathread?
 - Esta Megathread tem como objetivo capturar a essência da renomada [Megathread](https://rentry.co/megathread) do [c/Piracy](https://lemmy.dbzer0.com/c/piracy) (antigo r/piracy), atuando como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas e até mesmo uma seleção abrangente de opções nacionais, empenhando-se em abranger não somente o âmbito internacional.
@@ -11,8 +11,8 @@
 - Vincule seu cliente de torrent à VPN (*Só permite torrent quando a VPN está ativa*).
 
 ## ⭐ Marque essa URL como favorito
-- O subreddit [r/pirataria](https://www.reddit.com/r/pirataria/) é onde nosso maior navio de piratas online se reúne. Enquanto nossa comunidade no [Lemmy](https://tesseract.lemmy.eco.br/c/pirataria@lemmy.dbzer0.com) é nossa navio reserva.
-- É fundamental salvar essa URL, pois ele servirá como uma bússola constante para onde nossos navios estão estacionados no momento.
+- O [r/pirataria](https://www.reddit.com/r/pirataria/) é onde nosso maior navio de piratas online está atracado. Enquanto o [c/pirataria](https://tesseract.lemmy.eco.br/c/pirataria@lemmy.dbzer0.com) é nosso porto seguro (esse o ~DMCA~ não afunda).
+- É fundamental salvar essa URL, pois ela servirá como uma bússola para onde nossos navios estão atracados no momento.
 
 ## ⚠️ Aviso!
 - Na Megathread, links confiáveis que antes eram seguros podem ocasionalmente se tornar perigosos.
