@@ -5,28 +5,37 @@ repo_name: c-pirataria/megathread
 repo_url: https://github.com/c-pirataria/megathread
 
 nav:
-  - Início: index.md
-  - Sites de Uso Geral: sites-geral.md
-  - Jogos: jogos.md
-  - Anime: anime.md
-  - Música: musica.md
-  - Educacional: educacional.md
-  - Livros: livros.md
-  - Emuladores/ROMs: emuladores-e-roms.md
-  - Esportes: esportes.md
-  - Filmes/TV: filmes-e-tv.md
-  - Mobile: mobile.md
-  - Ferramentas: ferramentas.md
-  - Softwares: softwares.md
-  - Outros:
+  - Início: 
+    - index.md
     - faq.md
-    - jogos-piratas.md
-    - trackers.md
-    - virustotal.md
     - glossario.md
+    - virustotal.md
     - guias.md
     - coletanea-uteis-privacidade-seguranca.md
     - discord.md
+  - Sites de Uso Geral: 
+    - sites-geral.md
+  - Jogos:
+    - jogos.md
+    - jogos-piratas.md
+    - emuladores-e-roms.md
+  - Educação:
+    - Educacional: educacional.md
+    - Livros: livros.md
+  - Entretenimento: 
+    - esportes.md
+    - filmes-e-tv.md
+    - anime.md
+    - musica.md
+  - Mobile: 
+    - mobile.md
+  - Ferramentas: 
+    - ferramentas.md
+  - Softwares: 
+    - softwares.md
+  - Trackers:
+    - trackers.md
+
 
 extra_css:
   - stylesheets/extra.css
@@ -63,7 +72,6 @@ theme:
     - navigation.expand
     - navigation.top
     - toc.follow
-    - toc.integrate
     - search.suggest
     - search.highlight
     - search.share

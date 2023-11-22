@@ -1,4 +1,4 @@
-# 📜 ➜ **Megathread do r/Pirataria**
+# 📜 ➜ Bem-vindo a Megathread do r/Pirataria
 
 ## 🤔 Qual o objetivo dessa Megathread?
 - Esta Megathread tem como objetivo capturar a essência da renomada Megathread do [r/Piracy](https://www.reddit.com/r/Piracy/), atuando como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas e até mesmo uma seleção abrangente de opções nacionais, empenhando-se em abranger não somente o âmbito internacional.
