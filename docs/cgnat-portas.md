@@ -48,12 +48,11 @@ Alguns provedores fornecem acesso limitado ao roteador... consegue alterar coisa
   <figcaption>Acesso completo</figcaption>
 </figure>
 
-É o mesmo equipamento, no caso um Fiberhome... só mudou o login e senha de acesso. Notem a opção Port Forwanding (nesse modelo Fiberhome é onde abre a porta do cliente torrent)
-
+É o mesmo equipamento, no caso um Fiberhome... só mudou o login e senha de acesso. Notem a opção Port Forwanding (nesse modelo Fiberhome é onde abre a porta do cliente torrent).
 
 ## Verificando se está em rede CGNAT
 
-Acesse seu roteador e veja se o IP na WAN é o mesmo que aparece no site http://www.meuip.com.br/
+Acesse seu roteador e veja se o IP na WAN é o mesmo que aparece no site [MeuIP](http://www.meuip.com.br/).
 
 - Se for o mesmo IP não está em CGNAT.
 - Se for IP diferente está em CGNAT. 
@@ -84,7 +83,7 @@ Por questões de registro de log é o mais usado e o provedor define quais porta
 
 Se estiver em CGNAT ligue em seu provedor e peça sua faixa de portas. Diga que tentou abrir a porta de todas as formas e não conseguiu. Se pegar um atendente que manja, dirá pra vc se as portas são dinâmicas ou estáticas (a maioria não entende porcaria nenhuma).
 
-Talvez tenha que ligar umas 10x vezes ou mais... não desista! No geral eles não passam essas informações assim que solicitam
+Talvez tenha que ligar umas 10x vezes ou mais... não desista! No geral eles não passam essas informações assim que solicitam.
 Se passarem sua faixa de porta, ex, 30401 a 30600, escolha uma porta dentro da faixa indicada pelo provedor, configure o cliente torrent para usar essa porta e abra no roteador.
 
 ## CGNAT com porta aberta
@@ -108,12 +107,12 @@ Se passarem sua faixa de porta, ex, 30401 a 30600, escolha uma porta dentro da f
 
 Pronto! Rede CGNAT com a porta aberta. Sua conexão está perfeita.
 
-Alguns provedores forçam a contratação de IP fixo (IP externo, não interno), alegando ser impossível abrir porta no CGNAT. Analise a opção e escolha o que for melhor para vc
+Alguns provedores forçam a contratação de IP fixo (IP externo, não interno), alegando ser impossível abrir porta no CGNAT. Analise a opção e escolha o que for melhor para você.
 
-Outros optam por migrar para IPv6! Não tenho informação sobre isso, se é melhor ou pior, como faz para abrir porta, quais as dificuldades de quem está em IPv6
+Outros optam por migrar para IPv6! Não tenho informação sobre isso, se é melhor ou pior, como faz para abrir porta, quais as dificuldades de quem está em IPv6.
 
-Toda informação nesse tutorial foram adquiridas com muita pesquisa em fóruns de Hardwares, cliente torrent, YouTube, e um agradecimento especial ao amigo que disponibilizou as imagens que fazem parte desse tuto, pois o mesmo está em rede CGNAT
+Toda informação nesse tutorial foram adquiridas com muita pesquisa em fóruns de Hardwares, cliente torrent, YouTube, e um agradecimento especial ao amigo que disponibilizou as imagens que fazem parte desse tuto, pois o mesmo está em rede CGNAT.
 
 Boa sorte!
 
-- Guia feito por Smeagol e [u/Wandrey](https://lemmy.eco.br/u/wandrey)
+> Guia feito por Smeagol e [u/Wandrey](https://lemmy.eco.br/u/wandrey)
