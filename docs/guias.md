@@ -12,6 +12,7 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 - [Como verificar um arquivo no Virus Total corretamente](virustotal.md) - Guia feito por [u/Heus-Sueh](https://t.lemmy.dbzer0.com/u/Heus_Sueh@lemmy.dbzer0.com)
 - [Coletânea de coisas úteis para privacidade e segurança](coletanea-uteis-privacidade-seguranca.md) - Guia feito por [u/Broering](https://t.lemmy.dbzer0.com/u/broering@lemmy.dbzer0.com)
 - [Porque é que não se pode confiar no Discord](discord.md) - Guia traduzido por [u/Broering](https://t.lemmy.dbzer0.com/u/broering@lemmy.dbzer0.com)
+- [Abrir porta no roteador em rede CGNAT](cgnat-portas.md) - Guia feito por Smeagol
 
 ## ► Livros
 
