@@ -55,8 +55,8 @@ Alguns provedores fornecem acesso limitado ao roteador... consegue alterar coisa
 
 Acesse seu roteador e veja se o IP na WAN é o mesmo que aparece no site http://www.meuip.com.br/
 
-Se for o mesmo IP não está em CGNAT.
-Se for IP diferente está em CGNAT. 
+- Se for o mesmo IP não está em CGNAT.
+- Se for IP diferente está em CGNAT. 
 
 Abaixo exemplo de CGNAT. Os IPs são diferentes:
 
@@ -73,14 +73,14 @@ Abaixo exemplo de CGNAT. Os IPs são diferentes:
 Em uma rede CGNAT o alocação de portas para os clientes pode ocorrer de duas formas: dinâmica ou estática. Normalmente o provedor que define.
 
 ## Dinâmica:
-Provedor indica no equipamento de saída da empresa que cada cliente tem direito a uma quantidade específica de portas, o sistema escolhe quais portas ele vai usar. Até o momento não sei como abrir portas nesse modo de alocação Dinâmica
+Provedor indica no equipamento de saída da empresa que cada cliente tem direito a uma quantidade específica de portas, o sistema escolhe quais portas ele vai usar. Até o momento não sei como abrir portas nesse modo de alocação dinâmica.
 
 ## Estática:
 Por questões de registro de log é o mais usado e o provedor define quais portas o cliente irá usar, exemplo:
 
-Cliente 1 pode usar portas 30401 a 30600
-Cliente 2 pode suar portas 30601 a 30800
-E assim por diante
+- Cliente 1 pode usar portas 30401 a 30600;
+- Cliente 2 pode suar portas 30601 a 30800;
+- E assim por diante.
 
 Se estiver em CGNAT ligue em seu provedor e peça sua faixa de portas. Diga que tentou abrir a porta de todas as formas e não conseguiu. Se pegar um atendente que manja, dirá pra vc se as portas são dinâmicas ou estáticas (a maioria não entende porcaria nenhuma).
 
