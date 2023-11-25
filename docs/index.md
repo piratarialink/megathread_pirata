@@ -7,11 +7,11 @@
 - Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) + [Fast Forward](https://fastforward.team/) com essas [ configurações otimizadas](https://take-me-to.space/UShoGZ7.png) (*Bloqueia anúncios e malware*).
 - Altere suas configurações de DNS para uma dessas [ótimas opções](https://www.privacyguides.org/en/dns/) (*Ignora as limitações de acesso ao sites bloqueados pela operadora*).
 - Use um cliente de torrent respeitável com um kill switch, como [qBittorrent](https://www.qbittorrent.org/) (*Permite torrenting*).
-- (Opcional) Configure uma VPN como [Mullvad](https://mullvad.net/), [ProtonVPN](https://protonvpn.com/) ou [IVPN](https://www.ivpn.net/) (*Altera o endereço IP para ocultar a identidade*).
-- (Opcional) Vincule seu cliente de torrent à VPN (*Só permite torrent quando a VPN está ativa*).
+- **(Opcional)** Configure uma VPN como [Mullvad](https://mullvad.net/), [ProtonVPN](https://protonvpn.com/) ou [IVPN](https://www.ivpn.net/) (*Altera o endereço IP para ocultar a identidade*).
+- **(Opcional)** Vincule seu cliente de torrent à VPN (*Só permite torrent quando a VPN está ativa*).
 
 ## ⭐ Marque essa URL como favorito
-- O [r/pirataria](https://www.reddit.com/r/pirataria/) é onde nosso maior navio de piratas online está atracado. Enquanto o [c/pirataria](https://tesseract.lemmy.eco.br/c/pirataria@lemmy.dbzer0.com) é nosso porto seguro (esse o ~DMCA~ não afunda).
+- O [r/pirataria](https://www.reddit.com/r/pirataria/) é onde nosso maior navio de piratas online está atracado. Enquanto o [c/pirataria](https://tesseract.lemmy.eco.br/c/pirataria@lemmy.dbzer0.com) é nosso porto seguro (esse o **DMCA** não afunda).
 - É fundamental salvar essa URL, pois ela servirá como uma bússola para onde nossos navios estão atracados no momento.
 
 ## ⚠️ Aviso!
