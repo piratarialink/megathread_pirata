@@ -115,3 +115,5 @@ Outros optam por migrar para IPv6! Não tenho informação sobre isso, se é mel
 Toda informação nesse tutorial foram adquiridas com muita pesquisa em fóruns de Hardwares, cliente torrent, YouTube, e um agradecimento especial ao amigo que disponibilizou as imagens que fazem parte desse tuto, pois o mesmo está em rede CGNAT
 
 Boa sorte!
+
+- Guia feito por Smeagol e [u/Wandrey](https://lemmy.eco.br/u/wandrey)
