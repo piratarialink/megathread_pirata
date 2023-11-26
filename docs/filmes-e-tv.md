@@ -81,14 +81,17 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ---
 ## 📑 2 ➜ Torrents
 
-### 🧲 [O Filme Torrent](https://ofilmetorrent.com/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ofilmetorrent.com/)
-
 ### 🧲 [Rede Torrent](https://redetorrent.com/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
 
+### 🧲 [Comando.la](https://comando.la/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comando.la/)
+
+### 🧲 [Filmes via Torrent.site](https://filmesviatorrents.site/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/filmesviatorrents.site/)
+
 ### 🧲 [ComandoFilmesHD.org](https://comandofilmeshd.org/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/lapumia.org/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.org/)
 
 ### 🧲 [Nick Filmes](https://nickfilmes.net/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nickfilmes.net/)
@@ -96,17 +99,17 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 🧲 [Comando Filmes](https://comandofilmes.xyz/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmes.xyz/)
 
-### 🧲 [Vamos Torrent](https://vamostorrent.com/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/vamostorrent.com/)
-
-### 🧲 [Filmes via Torrent.site](https://filmesviatorrents.site/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/filmesviatorrents.site/)
-
 ### 🧲 [Torrent dos Filmes](https://torrentdofilmes.com/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdofilmes.com/)
 
+### 🧲 [Vamos Torrent](https://vamostorrent.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/vamostorrent.com/)
+
 ### 🧲 [BaixarFilmesTorrentHD](https://www.baixarfilmestorrenthd.com/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/baixarfilmestorrenthd.com/)
+
+### 🧲 [O Filme Torrent](https://ofilmetorrent.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ofilmetorrent.com/)
 
 ---
 ## 📑 3 ➜ Legendas
