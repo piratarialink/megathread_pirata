@@ -1,8 +1,13 @@
-# Repositório das Megathreads
+# [Novo Repositório!!!](https://github.com/c-pirataria/megathread)
 
-Este repositório no GitHub é dedicado à atualização e backup dos arquivos Markdown das nossas Megathreads. As Megathreads são coleções organizadas de informações e recursos sobre tópicos específicos de interesse. Elas desempenham um papel importante em nossa comunidade, fornecendo um espaço centralizado para compartilhar e acessar informações relevantes.
+# Aviso!!!
 
-## O que são as Megathreads?
+Essa Megathread no Rentry não vai ser mais mantida e atualizada ao invés disso nós mudamos para o MkDocs, se quiser manter essa Megathread você pode entrar em contato comigo ou fazer um fork do repositório e fazer um pull request. 
+
+Você pode acessar o novo repositório por aqui:
+https://github.com/c-pirataria/megathread
+
+# O que são as Megathreads?
 
 As megathreads são tópicos específicos que agrupam informações relevantes em um único local. Elas ajudam a manter a comunidade organizada e proporcionam um acesso fácil a recursos e atualizações relacionadas a um determinado tópico. Nossas megathreads são mantidas neste repositório para facilitar o acompanhamento e a colaboração.
 
@@ -29,7 +34,6 @@ Agradecemos a participação de todos na construção e manutenção de nossas m
 
 ## Navegação
 
-Para acessar as Megathreads específicas, navegue pela lista de arquivos neste repositório ou utilize a barra de pesquisa para encontrar o tópico de seu interesse.
+Para acessar as Megathreads específicas, navegue pela lista de arquivos neste repositório para encontrar o tópico de seu interesse.
 
 Esperamos que este repositório seja uma fonte valiosa de informações e recursos para nossa comunidade.
-
