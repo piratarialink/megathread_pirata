@@ -5,13 +5,6 @@
     <img src="https://img.shields.io/github/license/c-pirataria/megathread" />
 </div>
 
-# Aviso
-
-Essa Megathread no Rentry não vai ser mais mantida e atualizada ao invés disso nós mudamos para o MkDocs, se quiser manter essa Megathread você pode entrar em contato comigo ou fazer um fork do repositório e fazer um pull request. 
-
-Você pode acessar o novo repositório por aqui:
-https://github.com/c-pirataria/megathread
-
 # O que são as Megathreads?
 
 As megathreads são tópicos específicos que agrupam informações relevantes em um único local. Elas ajudam a manter a comunidade organizada e proporcionam um acesso fácil a recursos e atualizações relacionadas a um determinado tópico. Nossas megathreads são mantidas neste repositório para facilitar o acompanhamento e a colaboração.
