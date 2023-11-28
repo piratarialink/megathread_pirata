@@ -15,9 +15,13 @@ Trackers são servidores que requerem interação com um cliente de torrent, com
 
 ### 🧲 [CP Turbo](http://cptv3ofjaw2hr5fqdhnno5qazsy3a6fz6yj2w6t2n2udvqfypsa3u7qd.onion/cpt/login/)
 
+### 🧲 [Locadora](https://locadora.cc/)
+
 ---
 # 📑 ➜ Trackers Gringo
 
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/)
 
 ### 🧲 [Milkie](https://milkie.cc/)
+
+### 🧲 [AlphaRatio](https://alpharatio.cc/)
