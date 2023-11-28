@@ -1,6 +1,6 @@
 <h1 align="center">Megathread Pirata</h1>
 <div align="center">
-    <img alt="Lemmy" src="https://img.shields.io/lemmy/pirataria%40lemmy.dbzer0.com">
+    <a href="https://tesseract.lemmy.eco.br/c/pirataria@lemmy.dbzer0.com"><img alt="Lemmy" src="https://img.shields.io/lemmy/pirataria%40lemmy.dbzer0.com"></a>
     <img src="https://img.shields.io/github/last-commit/c-pirataria/megathread" />
     <img src="https://img.shields.io/github/license/c-pirataria/megathread" />
 </div>
