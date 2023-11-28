@@ -39,7 +39,7 @@ Agradecemos a participação de todos na construção e manutenção de nossas m
 
 ## Navegação
 
-Para acessar as Megathreads, dê preferencia para barra de pesquisa para encontrar o tópico de seu interesse, já que barra de pesquisa é super útil e funcional.
+Para acessar as Megathreads, dê preferência para barra de pesquisa para encontrar o tópico de seu interesse, já que barra de pesquisa é super útil e funcional.
 
 Esperamos que este repositório seja uma fonte valiosa de informações e recursos para nossa comunidade.
 
