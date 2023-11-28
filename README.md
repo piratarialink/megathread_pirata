@@ -1,7 +1,8 @@
 <h1 align="center">Megathread Pirata</h1>
 <div align="center">
-    <a href="https://github.com/c-pirataria/megathread/commits/main"><img src="https://img.shields.io/github/last-commit/c-pirataria/megathread" /></a>
-    <a href="https://github.com/c-pirataria/megathread/blob/main/LICENSE"><img src="https://img.shields.io/github/license/c-pirataria/megathread" /></a>
+    <img alt="Lemmy" src="https://img.shields.io/lemmy/pirataria%40lemmy.dbzer0.com">
+    <img src="https://img.shields.io/github/last-commit/c-pirataria/megathread" />
+    <img src="https://img.shields.io/github/license/c-pirataria/megathread" />
 </div>
 
 # Aviso
