@@ -1,6 +1,9 @@
-# [Novo Repositório!!!](https://github.com/c-pirataria/megathread)
+<h1 align="center">Megathread Pirata</h1>
+<div align="center">
+    <a href="https://github.com/c-pirataria/megathread/blob/main/LICENSE"><img src="https://img.shields.io/github/license/c-pirataria/megathread" /></a>
+</div>
 
-# Aviso!!!
+# Aviso
 
 Essa Megathread no Rentry não vai ser mais mantida e atualizada ao invés disso nós mudamos para o MkDocs, se quiser manter essa Megathread você pode entrar em contato comigo ou fazer um fork do repositório e fazer um pull request. 
 
@@ -24,8 +27,8 @@ Nossa comunidade é bem-vinda para colaborar na manutenção e atualização das
 
 1. Faça um fork deste repositório para o seu perfil GitHub.
 2. Crie uma nova branch para suas alterações.
-3. Faça as edições necessárias nos arquivos Markdown.
-4. Envie um pull request para este repositório principal 
+3. Faça as edições necessárias nos arquivos Markdown, situados na pasta docs.
+4. Envie um pull request para este repositório principal.
 5. Explique quais mudanças e adições você fez e por qual motivo aquela mudança ou adição seria interessante.
 6. De preferência que seja um site nacional, mas se for um site gringo está bom.
 7. O site não pode conter avisos no [URL Void](https://www.urlvoid.com/), se o site tiver falso positivos explique por que é um falso positivo.
@@ -34,6 +37,10 @@ Agradecemos a participação de todos na construção e manutenção de nossas m
 
 ## Navegação
 
-Para acessar as Megathreads específicas, navegue pela lista de arquivos neste repositório para encontrar o tópico de seu interesse.
+Para acessar as Megathreads, dê preferencia para barra de pesquisa para encontrar o tópico de seu interesse, já que barra de pesquisa é super útil e funcional.
 
 Esperamos que este repositório seja uma fonte valiosa de informações e recursos para nossa comunidade.
+
+## Mkdocs
+
+A Megathread atualmente roda no [mkdocs](https://www.mkdocs.org/) com o tema [mkdocs-material](https://squidfunk.github.io/mkdocs-material/).
