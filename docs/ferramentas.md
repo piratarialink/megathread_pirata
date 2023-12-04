@@ -253,10 +253,9 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 * **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para versões P2P
 
 ---
-
 ## ► Ferramentas para Jogos
 
-► **Launchers de jogos**
+### ► **Launchers de jogos**
 
 * [Playnite](https://playnite.link/) - Launcher universal de jogos para Windows
 * [GOG Galaxy](https://www.gog.com/galaxy) - Launcher universal de jogos para Windows/MacOS
@@ -264,7 +263,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 * [Bottles](https://flathub.org/apps/com.usebottles.bottles) - Launcher universal de jogos para Linux
 * [Heroic Games Launcher](https://heroicgameslauncher.com/) - Launcher de jogos da Epic e GOG para Linux
 
-► **Ferramentas para Steam**
+### ► **Ferramentas para Steam**
 
 * [**Steam Content Packager**](https://cs.rin.ru/forum/viewtopic.php?f=29&t=77526) - Ferramenta para limpar arquivos Steam. Empacota seus arquivos do jogo Steam enquanto remove informações de identificação com o objetivo de compartilhá-los com o subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) de cs.rin.ru
 * [**Goldberg Emulator**](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - Emulador Steam. Crack seu próprio jogo Steam ou os arquivos Steam limpos compartilhados no subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) de cs.rin.ru
@@ -274,9 +273,15 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 * [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) - Instala e configura automaticamente o CreamAPI para jogos Steam
 * [Steamless](https://github.com/atom0s/Steamless) - Remove o SteamStub DRM dos executáveis ​​do jogo Steam se eles o contiverem. Para ser usado em conjunto com um emulador Steam se o emulador sozinho não for suficiente para quebrar o jogo
 
-► **Ferramentas para a Epic Games Launcher**
+### ► **Ferramentas para a Epic Games Launcher**
 
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Legit DLC Unlocker for Epic Online Services. Funciona apenas para jogos que você possui. Recursos como multijogador, conquistas, etc. permanecem totalmente funcionais.
+
+### ► **Ferramentas Diversas**
+
+- [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
+- [Open Cloud Saves](https://opencloudsaves.com/) - Open Cloud Save é um aplicativo gratuito que permitirá sincronizar seus dados salvos em todos os seus dispositivos. Roda em Windows, MacOS e Linux.
+- [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 
 Mais ferramentas no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=29)
 
