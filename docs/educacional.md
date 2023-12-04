@@ -23,6 +23,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### ▶️ **[EV](https://www.ev.org.br/)** - Cursos
 ### ▶️ **[veduca](https://veduca.org/gratuitos/)** - Cursos
 ### ▶️ **[unasus](https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=&ordenacao=Relev%C3%A2ncia%20na%20busca)** - Cursos
+### ▶️ **[Recode](https://recode.org.br)** - Cursos
 
 ---
 ## 📑 2 ➜ Downloads diretos
