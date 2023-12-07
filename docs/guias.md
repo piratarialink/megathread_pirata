@@ -14,6 +14,7 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 - [Porque é que não se pode confiar no Discord](discord.md) - Guia traduzido por [u/Broering](https://t.lemmy.dbzer0.com/u/broering@lemmy.dbzer0.com)
 - [Como abrir portas no roteador em rede CGNAT](cgnat-portas.md) - Guia feito por Smeagol e [u/Wandrey](https://lemmy.eco.br/u/wandrey)
 - [Um Guia Simples Para Um Ratio Melhor](ratio-melhor.md) - Guia feito por [u/Wandrey](https://lemmy.eco.br/u/wandrey)
+- [Guia do Streaming Doméstico Automatizado (Sonarr, Radarr e Plex)](Guia-do-Sonarr-Radarr-Plex.md) - Guia feito por [u/lolado06](https://www.reddit.com/user/lolado06/)
 
 ## ► Livros
 
