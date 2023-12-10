@@ -11,6 +11,9 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 ### 🐐 [CS.RIN.RU: Steam Underground](https://cs.rin.ru/forum/) • Cadastre-se
 - Maior fórum do mundo dedicado à pirataria de videogames, é uma valiosa fonte de jogos com vasto conhecimento.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cs.rin.ru/)
+### 🐐 [online-fix.me](https://online-fix.me/)
+- Jogue jogos online pirata com seus amigos, de forma gratuita com suporte de convite via Steam.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
 ### 🔗 [ElAmigos](https://elamigos.site/)
 - Cada versão é sem perdas, sem recodificação de áudio, vídeo ou texturas. Uma opção popular para obter novos jogos para PC.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/elamigos.site/)
@@ -118,6 +121,9 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 ### 🐐 [FitGirl Repacks](https://fitgirl-repacks.site/)
 - O Launcher nascido na Rússia evoluiu nos últimos anos de um arquivista doméstico para o Repacker mais conhecido da web.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fitgirl-repacks.site/)
+### 🐐 [online-fix.me](https://online-fix.me/)
+- Jogue jogos online pirata com seus amigos, de forma gratuita com suporte de convite via Steam.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
 ### 🧲 [Free GOG PC Games](https://freegogpcgames.com/)
 - Fornecem jogos DRM-FREE de fontes que foram cuidadosamente examinadas antes de serem disponibilizadas para download.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/freegogpcgames.com/)
