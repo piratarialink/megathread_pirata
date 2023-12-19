@@ -22,13 +22,8 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [Braflix](https://www.braflix.app/pt)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/braflix.app/)
 
-### ▶️ [Pobreflix](https://pobreflix.biz/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflix.biz/)
-
-### ▶️ [TudoHD](https://tudohd.vip/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tudohd.vip/) 
-### ▶️ [Encontrei.tv](https://encontrei.tv/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontrei.tv/)
+### ▶️ [Encontrei.tv](https://encontre.tv/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
 
 ### ▶️ [Megaflix](https://megaflix.co/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megaflix.co/)
@@ -39,16 +34,16 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [Topflix](https://topflix.tv/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/topflix.tv/)
 
-### ▶️ [Netcine](https://netcine.to/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcine.to/)
+### ▶️ [Netcine](https://netcine2.la/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcine2.la/)
 
 ### ▶️ [Doramogo](https://doramogo.com/)
 - Ótimo site com Doramas legendados em PT-BR
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/doramogo.com/)
 
-### 🔗 [Baixar Series MP4](https://baixarseriesmp4.eu/)
+### 🔗 [Baixar Series MP4](https://baixarseriesmp4.pm/)
 - Um fantástico recurso de fórum com links de filmes em qualidade BDRip, Web-DL e Webrip. Uma interface do usuário simples que não requer registro para usuários.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ddlbase.net/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/baixarseriesmp4.pm/)
 
 ### ▶️ [Warezcdn](https://warezcdn.com/index.php)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/warezcdn.com/)
