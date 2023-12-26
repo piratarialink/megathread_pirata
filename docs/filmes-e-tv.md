@@ -125,6 +125,9 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 🖊️ [Legendas.net](https://legendas.net/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/legendas.net/)
 
+### 🖊️ [Legendasdivx.pt](https://www.legendasdivx.pt/forum/ucp.php?mode=register)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/legendasdivx.pt/)
+
 ### 🖊️ [Addic7ed](https://www.addic7ed.com/)
 - Um banco de dados de legendas para filmes e programas de TV com traduções online colaborativas da base de usuários para 18 idiomas diferentes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/addic7ed.com/)
