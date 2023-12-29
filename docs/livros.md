@@ -32,6 +32,10 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Você pode baixar quadrinhos da DC, Marvel, Image, Dark Horse, Dynamite, IDW, Vertigo e muitos outros editores.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/baixarquadrinhos.net/)
 
+### 🔗 [Datassette](https://datassette.org/)
+- Livros, Manuais e Revistas antigas sobre informática, videogames e diversos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/datassette.org/)
+
 ### 🐐 [Library Genesis](https://libgen.is/) / [2](https://libgen.rs/) / [3](https://libgen.st/)
 - Livros de engenharia e ciências naturais estão sendo colecionados pela comunidade científica.
 - Aqui está uma [versão divertida do principal Library Genesis](https://libgen.fun/) com ênfase em quadrinhos e mangás.
