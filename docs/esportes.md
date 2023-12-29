@@ -33,7 +33,11 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 📺️ [Multijogos](https://multijogos.net/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multijogos.net/)
 
+### 📺️ [Futebol Play HD](https://futebolplayhd.com/futebolplay/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futebolplayhd.com/)
+
 ### 📺️ [Boleiro.tv](https://boleiro.tv/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/boleiro.tv/)
 - Oferece Canais Esportivos ao vivo
 
 ### 📺️ [TV0800](https://tv0800.com/)
