@@ -6,6 +6,14 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - 🐐 = Altamente recomendado pela comunidade pirata.
 
 ---
+## Traduções de Jogos
+Esses são alguns site para encotrar tradução PT-BR para seus jogos:
+
+- [GAMEVICIO](https://www.gamevicio.com/traducoes/) - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamevicio.com/)
+- [Central de Traduções](https://www.centraldetraducoes.net.br/) - [Resultados de segurança da URL](https://www.urlvoid.com/scan/centraldetraducoes.net.br/)
+- [Forum Hardmob](https://www.hardmob.com.br/threads/130505-Traducoes-de-Jogos) - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hardmob.com.br/)
+  
+---
 ## 📑 1 ➜ Downloads diretos
 
 ### 🐐 [CS.RIN.RU: Steam Underground](https://cs.rin.ru/forum/) • Cadastre-se
