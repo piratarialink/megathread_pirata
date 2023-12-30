@@ -54,6 +54,14 @@ Esses são buscadores fáceis para encontrar seus jogos:
 - [Hatt](https://github.com/FrenchGithubUser/Hatt) - Aplicativo de mecanismo de pesquisa DDL.
 
 ---
+## Traduções de Jogos
+Esses são alguns site para encotrar tradução PT-BR para seus jogos:
+
+- [GAMEVICIO](https://www.gamevicio.com/traducoes/) - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamevicio.com/)
+- [Central de Traduções](https://www.centraldetraducoes.net.br/) - [Resultados de segurança da URL](https://www.urlvoid.com/scan/centraldetraducoes.net.br/)
+- [Forum Hardmob](https://www.hardmob.com.br/threads/130505-Traducoes-de-Jogos) - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hardmob.com.br/)
+  
+---
 ## Sites Torrent
 Torrents são downloads P2P – você baixa de outras pessoas que baixaram o arquivo. Nenhum servidor está envolvido.
 Para obter uma lista de uploaders dos quais você deve ficar longe, verifique a seção [Uploaders não confiaveis](https://gnireorb.github.io/pirataria/Jogos-Piratas#sites-n%C3%A3o-confi%C3%A1veis).
