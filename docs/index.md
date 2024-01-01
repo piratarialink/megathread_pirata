@@ -1,7 +1,7 @@
 # 📜 ➜ Bem-vindo a Megathread do c/Pirataria
 
 ## 🤔 Qual o objetivo dessa Megathread?
-- Esta Megathread tem como objetivo capturar a essência da renomada [Megathread](https://rentry.co/megathread) do [c/Piracy](https://lemmy.dbzer0.com/c/piracy) (antigo r/piracy), atuando como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas e até mesmo uma seleção abrangente de opções nacionais, empenhando-se em abranger não somente o âmbito internacional.
+- Esta Megathread tem como objetivo atuar como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas e até mesmo uma seleção abrangente de opções nacionais, empenhando-se em abranger não somente o âmbito internacional.
 
 ## ⌛ Marinheiro não tão rápido! Faça isso primeiro
 - Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) + [Fast Forward](https://fastforward.team/) com essas [ configurações otimizadas](https://take-me-to.space/UShoGZ7.png) (*Bloqueia anúncios e malware*).

@@ -1,5 +1,9 @@
 # 🎮 ➜ Jogos Piratas
 
+## ⚠️ Lembrete rápido
+- ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
+- 🐐 = Altamente recomendado pela comunidade pirata.
+
 **Importante: certifique-se de sempre ter as extensões [uBlock Origin](https://ublockorigin.com/) e [FastForward](https://fastforward.team/) ao visitar qualquer um dos sites mencionados aqui. Essas extensões evitam pop-ups e anúncios desnecessários que aparecem nos sites para garantir uma experiência de navegação rápida e segura.**
 
 ## Componentes necessários
@@ -8,22 +12,22 @@ Você precisará instalar alguns/todos estes antes de baixar qualquer jogo (leg�
 
 - [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 
-- [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
+- 🐐 [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist/releases/latest)
 
 - [XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=20914)
 
 - [.NET](https://dotnet.microsoft.com/en-us/download/dotnet)
 
 ## Programas importantes e indispensáveis
-- [7-Zip](https://www.7-zip.org/) - para abrir arquivos 7z/RAR.
+- 🐐 [7-Zip](https://www.7-zip.org/) - para abrir arquivos 7z/RAR.
 - [Parsec](https://parsec.app/) - jogue jogos multiplayer locais de qualquer lugar.
 - [Hamachi](https://vpn.net) | [RadminVPN](https://www.radmin-vpn.com/) | [ZeroTier](https://www.zerotier.com/) | [Ngrok](https://ngrok.com/) - Emula conexão LAN/Internet local, basicamente uma VPN para emulação de LAN.
 - [GGNTW - Steam Workshop Downloader](https://ggntw.com/steam) - Não baixe jogos deste site.
 - [SteamWorkshop.download](http://steamworkshop.download)
 
 ## Extensões de navegador úteis
- - [uBlock Origin](https://ublockorigin.com/)
- - [FastForward](https://fastforward.team/)
+ - 🐐 [uBlock Origin](https://ublockorigin.com/)
+ - 🐐 [FastForward](https://fastforward.team/)
  - [LocalCDN](https://www.localcdn.org/)
  
 ## VPN (Virtual Private Network)
@@ -67,7 +71,6 @@ Torrents são downloads P2P – você baixa de outras pessoas que baixaram o arq
 Para obter uma lista de uploaders dos quais você deve ficar longe, verifique a seção [Uploaders não confiaveis](https://gnireorb.github.io/pirataria/Jogos-Piratas#sites-n%C3%A3o-confi%C3%A1veis).
  
  - [1337x](https://1337x.to) - Obtenha os jogos apenas dos seguintes uploaders de jogos: (Qualquer nome de cs.rin.ru, 0xEMPRESS, anadius, DODI, FitGirl, JohnCena141 (Linux), KaOsKrew , s7on3r, TinyRepacks)
- - [Lançamentos EMPRESS](https://telegra.ph/empress-biography-07-15) - Para jogos crackeados por EMPRESS
  - [RuTor](http://www.rutor.info/) - Baixe apenas em Chovka e FitGirl.
  - [RuTracker](https://rutracker.org/)
  - [MacTorrents](https://www.torrentmac.net/) - macOS
@@ -76,7 +79,7 @@ Para obter uma lista de uploaders dos quais você deve ficar longe, verifique a 
 
 **Software Torrent**
 
-- [qBittorrent](https://www.qbittorrent.org/download.php)
+- 🐐 [qBittorrent](https://www.qbittorrent.org/download.php)
 
 - [Transmissão](https://transmissionbt.com/download/)
 
@@ -146,8 +149,6 @@ Downloads diretos são qualquer download normal. Você baixa o arquivo de um ser
 
  - [Mobilism](https://forum.mobilism.org/index.php) - Para jogos Android modificados, requer registro gratuito.
 
- - [APKMirror](https://www.apkmirror.com/) - APKs Android retirados diretamente da Play Store
-
  - [Zamunda](https://zamunda.net/) - para versões Linux. Requer registro. Para baixar jogos Linux você terá que navegar até “Банани” (Bananas) e escolher “Jogos Linux” nos filtros.
 
 **Diversos**
@@ -180,11 +181,11 @@ Pessoas sem links anexados fazem upload em fóruns/sites de torrent.
 
 - [CPG Repacks](https://cpgrepacks.site)
 
-- [DODI Repacks](https://dodi-repacks.site/)
+- 🐐 [DODI Repacks](https://dodi-repacks.site/)
 
 - [ElAmigos](https://elamigos.site)
 
-- [FitGirl Repacks](https://fitgirl-repacks.site)
+- 🐐 [FitGirl Repacks](https://fitgirl-repacks.site)
 
 - [Gnarly Repacks](https://www.gnarly-repacks.site/) - Jogos retrô
 
@@ -329,7 +330,7 @@ Observe que nenhum desses sites fornece downloads, apenas informações sobre la
 
 ---
 ## Sites não confiáveis
-### Observação: mesmo que pareça que um jogo que pode não ser tão popular está presente apenas em um site inseguro, consulte cs.rin.ru. Esses arquivos geralmente serão arquivos limpos. Os arquivos crackeados serão fornecidos nos comentários do tópico. Caso contrário, aplique o crack você mesmo com a ajuda das ferramentas listadas na [Seção de Ferramentas.](https://gnireorb.github.io/pirataria/Ferramentas)
+### Observação: mesmo que pareça que um jogo que pode não ser tão popular está presente apenas em um site inseguro, consulte cs.rin.ru. Esses arquivos geralmente serão arquivos limpos. Os arquivos crackeados serão fornecidos nos comentários do tópico. Caso contrário, aplique o crack você mesmo com a ajuda das ferramentas listadas na [Seção de Ferramentas.](ferramentas.md)
  
  - **IGG Games / PCGamesTorrents / LoadGames / GamesTorrents - eles doxxed mercs213 (proprietário da GoodOldDownloads), empacotam seu próprio DRM, mineradores de criptografia, bem como malware, e exploram você para obter receita publicitária.**
  - **SteamUnlocked / GOG Unlocked / ROMs desbloqueadas - downloads lentos, redirecionamentos de links maliciosos e uploads roubados de IGG Games e nosTEAM.**

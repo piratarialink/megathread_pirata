@@ -13,7 +13,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * Links em cache estão disponíveis para permitir que você visualize a página sem precisar fazer login.
 * Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal. São falsos positivos.
 
-- [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Essa ferramenta ativa o Windows e o Office.
+- 🐐 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Essa ferramenta ativa o Windows e o Office.
 - [**Office C2R-R2V-AIO**](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte as instalações do Office Retail em licenças de volume.
 - [**KMS_VL_ALL**](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Ativa instalações de licença de volume do Office e Windows. (Ativa o Windows e Office)
 - [**KMSAuto Net**](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL.
@@ -21,8 +21,8 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário Windows de Chris Titus Tech - Instalar programas, ajustes, correções e atualizações.
 - [**Scoop**](https://github.com/ScoopInstaller/Scoop) -  Um instalador de linha de comando para Windows.
 - [**Win Debloat Tools**](https://github.com/LeDragoX/Win-Debloat-Tools) - Uma ferramenta para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 10+.
-- [**SophiApp**](https://github.com/Sophia-Community/SophiApp) - A ferramenta de código aberto mais poderoso no GitHub para configurar e fazer debloat do Windows 10 e Windows 11
-- [**Optimizer**](https://github.com/hellzerg/optimizer) - Uma Ferramenta de configuração avançado projetado para aprimorar sua privacidade e segurança no Windows.
+- 🐐 [**SophiApp**](https://github.com/Sophia-Community/SophiApp) - A ferramenta de código aberto mais poderoso no GitHub para configurar e fazer debloat do Windows 10 e Windows 11
+- [**Optimizer**](https://github.com/hellzerg/optimizer) - Uma ferramenta de configuração avançado projetado para aprimorar sua privacidade e segurança no Windows.
 - [**Windows Fixer**](https://github.com/99natmar99/Windows-11-Fixer) - Uma ferramenta para “consertar” o Windows 11
 - [**EarTrumpet**](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece)
 - [**TranslucentTB**](https://github.com/TranslucentTB/TranslucentTB) - Uma ferramenta leve que torna a barra de tarefas do Windows translúcida/transparente.
@@ -46,9 +46,9 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 ---
 ## ► **Adblockers & Bypassers**
 
-* [uBlock Origin](https://github.com/gorhill/uBlock#installation) - para bloquear a maioria dos anúncios e pop-ups.
+* 🐐 [uBlock Origin](https://github.com/gorhill/uBlock#installation) - para bloquear a maioria dos anúncios e pop-ups.
 * [AdNauseam](https://adnauseam.io/) - Baseado no uBlock Origin. Projetado para ofuscar os dados de navegação e proteger os usuários do rastreamento por redes de publicidade
-* [Pi-hole](https://pi-hole.net/) - Bloqueio de anúncios em toda a rede
+* 🐐 [Pi-hole](https://pi-hole.net/) - Bloqueio de anúncios em toda a rede
 * [AdAway](https://adaway.org/) - AdAway é um bloqueador de anúncios de código aberto para Android que usa o arquivo hosts.
 * [Blokada](https://blokada.org/) - Blokada é um popular bloqueador de anúncios e aplicativo de privacidade para Android e iOS.
 * [AdGuard Home](https://adguard.com/pt_br/adguard-home/overview.html) - O AdGuard Home é um servidor de DNS para bloqueio de anúncios e rastreamento em toda a rede.
@@ -100,12 +100,10 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 Notas: uTorrent [empacotou um minerador de bitcoin opcional e não malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880) . A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner /page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.
 
-Cliente Bitlord torrent [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
-
+* 🐐 [qBittorrent](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que pesquisa rastreadores públicos populares. Constantemente atualizado
 - [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 * [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent
 * [Transmission](https://transmissionbt.com/about/) - Cliente de torrent de código aberto simples e leve
-* [qBittorrent](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que pesquisa rastreadores públicos populares. Constantemente atualizado
 * [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei
 * [PicoTorrent](https://picotorrent.org/) - Cliente de torrent simples e leve
 * [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto
@@ -116,12 +114,15 @@ Cliente Bitlord torrent [é malware.](https://www.reddit.com/r/torrents/comments
 * [ruTorrent para rTorrent](https://github.com/Novik/ruTorrent) - IU de gerenciamento da Web para rtorrent
 * [Flood for rTorrent](https://github.com/Flood-UI/flood) - Interface de usuário elegante de gerenciamento da web para rtorrent
 
-Para clientes de torrent Android, consulte: [Mobile](https://rentry.co/MegathreadBR-Mobile)
+Cliente Bitlord torrent [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
+
+
+Para clientes de torrent Android, consulte: [Mobile](mobile.md)
 
 ---
 ## ► Centros de Mídia / Clientes
 
-* [Stremio](https://www.stremio.com/) - Gerenciador de biblioteca de vários vídeos. Plugins disponíveis para transmissão de várias fontes de mídia, incluindo torrents. Verifique também /r/StremioAddons. Assistir juntos [guia](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/).
+* 🐐 [Stremio](https://www.stremio.com/) - Gerenciador de biblioteca de vários vídeos. Plugins disponíveis para transmissão de várias fontes de mídia, incluindo torrents.
 * [Plex Media Server](https://www.plex.tv/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
 * [Jellyfin Media Server](https://jellyfin.org/) - Netflix auto-hospedado de código aberto. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
 * [Plexamp](https://plexamp.com/) - Plex, mas para música. Disponível em ios, mac, windows, linux e android
@@ -134,9 +135,10 @@ Para clientes de torrent Android, consulte: [Mobile](https://rentry.co/Megathrea
 
 O Windows Defender deve ser mais do que suficiente para proteção contra vírus, combinado com [malwarebytes](https://www.malwarebytes.com/) como uma precaução extra. Você não precisa de antivírus pagos, nem é recomendável piratear nenhum antivírus pago.
 
- * [av-comparatives.org](https://www.av-comparatives.org/) - Testes de proteção antivírus
- * [VirusTotal.com](https://www.virustotal.com/) - serviço da Web que verifica arquivos e URLs com vários mecanismos antivírus
- * [Guia do r/techsupport sobre remoção de malware](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Tópico do Reddit
+ * [VirusTotal](https://www.virustotal.com/) - Serviço da Web que verifica arquivos e URLs com vários mecanismos antivírus
+ * [Jotti](https://virusscan.jotti.org/]) - Serviço da Web que verifica arquivos e URLs com vários mecanismos antivírus.
+
+ * [Guia do r/techsupport sobre remoção de malware](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Tópico do Reddit em inglês.
 
 ---
 ## ► Gerenciadores de mídia
@@ -160,14 +162,14 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 * [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente reinicie a avaliação [com isto](https://github.com/J2TEAM/idm-trial-reset). Alternativa [método aqui](https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/).
 * [Gerenciador de downloads XTREME](https://subhra74.github.io/xdm/) - Outro gerenciador de downloads muito bom
 * [pyLoad](https://pyload.net/) - Gerenciador de downloads leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
-* [aria2](https://aria2.github.io/) - Utilitário de download baseado em linha de comando.
+* 🐐 [aria2](https://aria2.github.io/) - Utilitário de download baseado em linha de comando.
 
 ---
 ## ► Outras ferramentas de download
 
 - [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto de vários sites e muito mais.
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://reddit.com/r/piracy/wiki/faq) para saber como instalar e usar corretamente.
+* 🐐 [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ (em inglês)](https://reddit.com/r/piracy/wiki/faq) para saber como instalar e usar corretamente.
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6
 * [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript para baixar vídeos do youtube
 * [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript para baixar legendas do youtube

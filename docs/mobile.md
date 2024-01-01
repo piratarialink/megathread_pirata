@@ -8,6 +8,8 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 ---
 ## ► **Aplicativos Mobile**
 
+- [FFUpdater](https://github.com/Tobi823/ffupdater) - Aplicativo que baixa e atualiza navegadores que visam sua privacidade.
+
 - [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) - Cliente de autenticação de dois fatores (2FA) para Android + Wear OS
 
 - [AdAway](https://github.com/AdAway/AdAway) - AdAway é um bloqueador de anúncios gratuito e de código aberto para Android.
@@ -34,7 +36,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [Xtra](https://github.com/crackededed/Xtra) - Xtra é outro cliente Twitch alternativo e de código aberto para Android
 
-- [Bromite](https://github.com/bromite/bromite) - Bromite é um fork do Chromium com bloqueio de anúncios e aprimoramentos de privacidade.
+- [Cromite (a Bromite fork)](https://github.com/uazo/cromite) - Cromite é uma fork do [Bromite](https://github.com/bromite/bromite) com bloqueio de anúncios e aprimoramentos de privacidade. Baseado no Chromium
 
 - [Hail](https://github.com/aistra0528/Hail) - Aplicativo que congela ou suspende aplicativos usando root ou shizuku. 
 
@@ -46,7 +48,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [xManager](https://github.com/Team-xManager/xManager) - App para instalar Spotify sem anúncios.
 
-* [ReVanced](https://github.com/revanced) - Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário um APK do Youtube)
+* [ReVanced](https://revanced.app) - Um gerenciador que aplica patchs e compila o YouTube com vários patches, como por exemplo o patch de retirar anúncios. (necessário de um APK do Youtube)
 
 - [Android Cache Cleaner](https://github.com/bmx666/android-appcachecleaner) - Aplicativo que permite limpar o cache de todos os aplicativos de uma vez.
 

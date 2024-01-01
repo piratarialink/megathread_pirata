@@ -13,9 +13,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 🐐 [Stremio](https://www.stremio.com/) + [Addons](https://stremio-addons.netlify.app/)
 - Stremio junto com os seguintes Addons é sucesso: **The Movie Database Addon**, **Torrentio Brazuca**, **Brazuca Torrents**, **Streaming Catalogs**, **Torrent Catalogs** e **Anime Kitsu**
 - É bom utilizar o **The Movie Database Addon** para poder pesquisar Filmes e Séries em Português e ter as capas traduzidas. (Necessário clicar em "configurar" antes de instalar)
+
+
+
 - Resultados de segurança da URL: [Stremio](https://www.urlvoid.com/scan/stremio.com/) e [Addons](https://www.urlvoid.com/scan/stremio-addons.netlify.app/)
 
-### 🐐 [Rede Canais](https://xn--90afacaz8cwa6a2e.xn--p1ai/)
+### [Rede Canais](https://xn--90afacaz8cwa6a2e.xn--p1ai/)
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cwa6a2e.xn--p1ai/)
 
@@ -109,7 +112,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ---
 ## 📑 3 ➜ Legendas
 
-### 🖊️ [OpenSubtitles](https://www.opensubtitles.com) / [2](https://www.opensubtitles.org)
+### 🖊️ 🐐 [OpenSubtitles](https://www.opensubtitles.com) / [2](https://www.opensubtitles.org)
 - Vasto banco de dados com 2,6 bilhões de palavras em 60 idiomas que serve praticamente todos os filmes ou programas de TV que você possa imaginar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/opensubtitles.com/)
 
