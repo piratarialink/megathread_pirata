@@ -1,6 +1,6 @@
 !!! warning "VirusTotal não é confiável para análise de arquivos."
 
-    Deve ser utilizado somente para uma análise inicial, não substitui nenhuma prática de engenharia reversa com softwares decompiladores para análise de arquivos como o [Hexray's IDA Pro](https://hex-rays.com/ida-pro/) e o [Ghidra (https://github.com/NationalSecurityAgency/ghidra) que é de código aberto.
+    Deve ser utilizado somente para uma análise inicial, não substitui nenhuma prática de engenharia reversa com softwares decompiladores para análise de arquivos como o [Hexray's IDA Pro](https://hex-rays.com/ida-pro/) e o [Ghidra](https://github.com/NationalSecurityAgency/ghidra) que é de código aberto.
     Eu, [Broering](https://reddit.com/u/gnireorb), como "reverse engineer" desde 2018 não recomendo a utilização do VirusTotal, já que o gera vários falsos positivos.
 
 # ⚠️ ➜ Como verificar um arquivo no Virus Total corretamente
