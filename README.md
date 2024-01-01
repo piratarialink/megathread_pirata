@@ -1,6 +1,6 @@
 <h1 align="center">Megathread Pirata</h1>
 <div align="center">
-    <a href="https://tesseract.lemmy.eco.br/c/pirataria@lemmy.dbzer0.com"><img alt="Lemmy" src="https://img.shields.io/lemmy/pirataria%40lemmy.dbzer0.com"></a>
+    <a href="https://lemmy.eco.br/c/pirataria@lemmy.dbzer0.com"><img alt="Lemmy" src="https://img.shields.io/lemmy/pirataria%40lemmy.dbzer0.com"></a>
 </div>
 
 # O que são as Megathreads?
