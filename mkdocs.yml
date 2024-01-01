@@ -41,6 +41,11 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
 
 plugins:
   - glightbox
@@ -51,6 +56,9 @@ theme:
   favicon: assets/grande.png
   name: material
   language: pt-BR
+  icon:
+    admonition:
+      note: material/information
   features:
     - navigation.footer
     - navigation.tabs

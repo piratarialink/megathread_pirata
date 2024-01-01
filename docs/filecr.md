@@ -1,0 +1,9 @@
+# FileCR
+
+FileCR foi [mencionado em uma postagem de FHMY](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/15qfjh8/we_removed_filecr_as_we_found_malware/) como potencialmente problemático, embora não tenha sido diretamente responsável pelo malware. Curiosamente, essas mesmas versões com hashes idênticos podem ser encontradas em vários outros sites públicos, incluindo [SoftArchive](https://softarchive.is) e vários outros. Parece que a divulgação destes lançamentos teve origem no [SoftArchive](https://softarchive.is), pelo menos do ponto de vista público.
+
+Vale a pena notar que um número significativo de versões comprometidas no [SoftArchive](https://softarchive.is) foram atribuídos a um [Uploader específico](https://softarchive.is/blogs/turr21/), enquanto alguns outros vieram de [outra pessoa](https://softarchive.is/blogs/tolyan76/). No momento, ainda não está claro se esses dois uploaders estão obtendo os arquivos de fontes externas ou se eles próprios são a fonte original. É importante destacar que nem todas as versões desses uploaders contêm malware. No entanto, qualquer site, tracker ou plataforma que tenha obtido lançamentos dessas fontes pode contribuir inadvertidamente para a propagação do malware.
+
+Para garantir a segurança dos seus sistemas, é essencial prestar atenção no que está sendo baixado. Realize verificações nos arquivos baixados usando ferramentas como [VirusTotal](https://www.virustotal.com/gui/home/upload) e [Hybrid Analysis](https://hybrid-analysis.com/) e avalie cuidadosamente os riscos potenciais associado ao uso de software crackeado contra os benefícios de acessar a versão completa.
+
+---
