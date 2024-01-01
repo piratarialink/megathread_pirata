@@ -45,8 +45,6 @@ markdown_extensions:
 plugins:
   - glightbox
   - search
-  - privacy:
-      cache: false
 
 theme:
   logo: assets/grande.png
