@@ -38,6 +38,9 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - toc
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 plugins:
   - glightbox
