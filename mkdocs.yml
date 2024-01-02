@@ -77,10 +77,12 @@ theme:
   palette:
     scheme: slate
     primary: black
-    accent: light-blue
+    accent: light-orange
 
 extra:
   generator: false
   social:
     - icon: fontawesome/brands/reddit 
       link: https://reddit.com/r/pirataria
+    - icon: fontawesome/brands/github 
+      link: https://github.com/c-pirataria
