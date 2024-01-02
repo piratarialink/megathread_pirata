@@ -79,7 +79,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) - Fork do Aniyomi com a função de mangás restaurada e recursos extras.
 
-- [Better Anime](https://play.google.com/store/apps/details?id=com.betteranimev3&pli=1) - O famoso **Better Anime** que tinha caído, mas voltou, ele oferece opções HD e Full HD para assistir.
+- [Better Anime](https://play.google.com/store/apps/details?id=com.betteranimev3&pli=1) - O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar
 
 - [Tomato](https://play.google.com/store/apps/details?id=com.tomatos.appclient) - Streaming de anime e mangás.
 

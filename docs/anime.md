@@ -14,7 +14,7 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hinatasoul.com/)
 
 ### ▶️ [Better Anime](https://betteranime.net/)
-- O famoso **Better Anime** que tinha caído, mas voltou, ele oferece opções HD e Full HD para assistir.
+- O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betteranime.net/)
 
 ### ▶️ [Animes Vision](https://animes.vision/)
