@@ -117,8 +117,6 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 * [Fildo](https://fildo.net/android/en/) - Aplicativo Android para download e streaming de música.
 
-* [Murglar](https://murglar.app) - Aplicativo Android para download e streaming de música de vários serviços.
-
 #### 🔗 Download
 
 - [YTDLnis](https://github.com/deniscerri/ytdlnis) - Aplicativo Android para baixar Video/Audio usando yt-dlp.
