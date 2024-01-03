@@ -118,6 +118,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - [Spotube](https://github.com/KRTirtho/spotube) - Cliente Spotify de código aberto que não requer Premium nem usa Electron! Disponível para desktop e celular!
 
 * [Fildo](https://fildo.net/android/en/) - Aplicativo Android para download e streaming de música.
+
 #### 🔗 Download
 
 - [YTDLnis](https://github.com/deniscerri/ytdlnis) - Aplicativo Android para baixar Video/Audio usando yt-dlp.
@@ -197,6 +198,11 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [RVX Lite](https://t.me/rvx_lite) - Canal que oferece aplicativos (Youtube, Reddit, Twitter...) modificados usando o ReVancify.
 - [MCPE APK Releases](https://t.me/mcperelease) - Canal para APKs do Minecraft PE com Xbox Live funcional apenas versões estáveis, sem betas.
+- [MusicDownloader](https://t.me/MusicDownloaderRobot) - Bot para download de músicas.
+- [Scihubot](https://t.me/scihubot) - Bot para download de artigos científicos.
+- [Utubebot](https://t.me/utubebot) - Bot para download de vídeos do YouTube.
+- [Playtv Geh](https://t.me/playtvgehjogos) - Canal que oferece o aplicativo de IPTV Playtv Geh, que possibilida ver diversos canais fechados gratuitamente (recomenda-se bloqueador de anúncio).
+
 
 ---
 
