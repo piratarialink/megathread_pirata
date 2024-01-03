@@ -4,7 +4,7 @@
 #
 > Entre cedo em um torrent
 
-Uma vez que um torrent tem uma proporção de mais seeders para leechers, muitas vezes pode ser difícil obter uma velocidade de upload decente. Examinando sua lista de rastreadores carregados recentemente, tente encontrar um torrent que tenha um grande número de leechers iniciais (ou possivelmente um que possa ser popular), comece a baixar e você deverá fazer o upload instantaneamente. Este método é geralmente mais eficaz com uma conexão de internet rápida ou Seedbox, pois com uma conexão mais lenta você pode não conseguir carregar uma quantidade substancial antes de ter uma abundância de seeders.
+Uma vez que um torrent tem uma proporção de mais seeders para leechers, muitas vezes pode ser difícil obter uma velocidade de upload decente. Examinando sua lista de rastreadores carregados recentemente, tente encontrar um torrent que tenha um grande número de leechers iniciais (ou possivelmente um que possa ser popular), comece a baixar e você deverá fazer o upload instantaneamente. Este método é geralmente mais eficaz com uma conexão de internet rápida ou Seedbox, pois com uma conexão mais lenta você pode não conseguir carregar uma quantidade substancial antes de ter uma abundância de seeders. Programas [gerenciadores de mídia](https://c-pirataria.github.io/megathread/ferramentas/?h=prow#gerenciadores-de-midia) auxiliam nesse processo de adicionar uma torrent. O [autobrr](autobrr.com) é um programa especializado para isso, utilizando os canais de announce dos trackers para adicionar torrents assim que são lançados.
 #
 > Encaminhamento de Porta
 
@@ -12,7 +12,7 @@ O encaminhamento de porta é a chave para permitir que outros usuários se conec
 #
 > Cross Seeding
 
-A Cross Seeding envolve a propagação de dados já baixados. Ao baixar um arquivo idêntico de outra fonte (ou seja, um rastreador que você já possui uma alta taxa) ou obtê-lo localmente, você pode usar os dados já obtidos para semear em outro torrent idêntico que rastreia apenas a largura de banda de upload, pois nada foi efetivamente 'baixado'.
+A Cross Seeding envolve a propagação de dados já baixados. Ao baixar um arquivo idêntico de outra fonte (ou seja, um rastreador que você já possui uma alta taxa) ou obtê-lo localmente, você pode usar os dados já obtidos para semear em outro torrent idêntico que rastreia apenas a largura de banda de upload, pois nada foi efetivamente 'baixado'. Existe um [script](cross-seed.org) pque usa o [Prowlarr](https://c-pirataria.github.io/megathread/ferramentas/?h=prow#gerenciadores-de-midia) ara automatizar o processo 
 #
 > Tenha uma SeedBox
 
@@ -35,4 +35,3 @@ O download parcial consiste em baixar apenas um certo número de arquivos de um 
 Os torrents Freeleech podem ser encontrados na maioria dos rastreadores. Um torrent (ou em casos de sites inteiros) pode ser especificado como 'freeleech' por um certo tempo, ocasionalmente permanentemente, e quaisquer dados baixados não contam para o uso, mas o upload sim.
 
 _[Texto original:](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/)_
-

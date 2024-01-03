@@ -101,6 +101,12 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Com sua interface simples, elegante e adaptável, este leitor de mangá permite pesquisar, classificar e ler todos os seus mangás favoritos com facilidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/valos.gitlab.io/)
 
+### 🔗 [Calibre](https://calibre-ebook.com) (Multiplataforma)
+- Leitor e conversor de ebooks. Funciona com formatos diversos e tem integração com leitor de ebook (Kindle, Kobo, etc.)
+
+### 🔗 [DeDRM tools](https://github.com/apprenticeharper/DeDRM_tools) (Multiplataforma)
+- Plugin para o Calibre para remover DRM de livros comprados na Amazon ou Google Books.
+
 ---
 ## 📑 4 ➜ Mangá
 
