@@ -119,6 +119,8 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 * [Fildo](https://fildo.net/android/en/) - Aplicativo Android para download e streaming de música.
 
+- [InnerTune](https://github.com/z-huang/InnerTune) - Um cliente Material 3 para YouTube Music no Android.
+
 #### 🔗 Download
 
 - [YTDLnis](https://github.com/deniscerri/ytdlnis) - Aplicativo Android para baixar Video/Audio usando yt-dlp.
