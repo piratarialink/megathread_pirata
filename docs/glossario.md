@@ -96,11 +96,12 @@
 | SSL            | Protocolo de criptografia de camada de aplicação para transmissões seguras de mensagens em rede.             |
 | Top Sites      | Servidores FTP muito rápidos onde os grupos de lançamento compartilham seus releases.                        |
 | Torrent        | Tipo especial de sistema P2P que usa um local central para coordenar os downloads.                           |
-| Trainer        | Programas feitos para modificar o comportamento de um jogo para permitir trapaças.                           |
+| Trainer        | Programas feitos para modificar o comportamento de um jogo para permitir trapaças.       
+| Tracker        | Compartilhamento geral (Livros, Cursos, Software, jogos etc)                  |
 | UE             | Ultra Edition, lançamento especial em DVD semelhante ao SE.                                                  |
 | UMDRip         | Aplicado apenas a jogos de PSP, algumas coisas são extraídas do jogo original.                              |
 | USA, JAP, EUR  | Marcadores para lançamentos de PSP de diferentes regiões: Estados Unidos, Japão e Europa.                   |
-| Warez          | Software, filmes ou músicas pirateados ilegalmente.                                                           |
+| Warez          | Focado em mídias (anime, novelas, filmes, series etc) |
 | XDCC           | Computador hackeado que serve como servidor de arquivos para IRC.                                            |
 
  Espero que esta tabela seja útil para você entender os termos comuns usados na cena de pirataria e compartilhamento de arquivos.
