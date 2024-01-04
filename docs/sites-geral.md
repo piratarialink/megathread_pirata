@@ -68,7 +68,7 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 ### 🧲 [RARBG Dump Index](https://rarbgdump.lat/)
 - Como um diretório de índice, o RARBG caído é preservado, com todos os rastreadores públicos novos e antigos adicionados.
 !!! warning "Aviso"
-    Não possui resultados de segurança da URL por usar proxy.
+    Não possui resultados de segurança da URL por usar proxy redirecionador.
 ### 🧲 [Rustorka](https://rustorka.com/forum/index.php) • Interface em russo
 - Fórum warez proeminente com notícias, discussões sobre muitos gêneros de mídia, torrents e links magnéticos também está disponível para download.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rustorka.com/)
