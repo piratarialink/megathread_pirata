@@ -56,7 +56,6 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 ### 🧲 [iDope](https://idope.se/)
 - Pesquisou anonimamente através desta grande coleção em homenagem ao KAT. Os usuários não são rastreados e seus endereços IP são removidos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/idope.se/)
-
 ### 🧲 [Knaben Database](https://knaben.eu/)
 - Reino do domínio da web e do Linux por meio da evolução da impressionante ferramenta de indexação de múltiplas pesquisas.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/knaben.eu/)
@@ -66,9 +65,10 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 ### 🧲 [MagnetDL](https://www.magnetdl.com/)
 - Software, filmes, jogos, ebooks, programas de TV e música são todos distribuídos por meio de links magnéticos por este agregador de torrent.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/magnetdl.com/)
-### 🧲 [RARBG DUMP INDEX](https://rarbg.best/)
+### 🧲 [RARBG Dump Index](https://rarbgdump.lat/)
 - Como um diretório de índice, o RARBG caído é preservado, com todos os rastreadores públicos novos e antigos adicionados.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rarbg.best/)
+!!! warning "Aviso"
+    Não possui resultados de segurança da URL por usar proxy.
 ### 🧲 [Rustorka](https://rustorka.com/forum/index.php) • Interface em russo
 - Fórum warez proeminente com notícias, discussões sobre muitos gêneros de mídia, torrents e links magnéticos também está disponível para download.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rustorka.com/)
