@@ -53,6 +53,10 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 📺️ [Sportsbay.run](https://www.sportsbay.run)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sportsbay.run/)
 
+### 📺️ [f1carreras.net](https://f1carreras.net/) - Necessário Cadastrar-se
+- Torrent de Formula 1 com gravações de treinos, qualificações, sprints e corridas em português, inglês, espanhol, alemão e opção sem narração
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/f1carreras.net/)
+
 ### 📺️ [Footballia](https://footballia.net/)
 - Footballia é um site gringo onde você pode assistir a replays de jogos de futebol completos gratuitamente. Uma partida estará disponível no site 30 dias após ser transmitida.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/footballia.net/)
