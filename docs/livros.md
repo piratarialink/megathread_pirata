@@ -270,7 +270,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 📣 [Z-Library Official](https://t.me/zlibrary_official)
 - Canal sobre notícias e anúncios, eles não fornecem Downloads.
 
-### 🔗 [Livros de TI(https://t.me/booksti)
+### 🔗 [Livros de TI](https://t.me/booksti)
 
 ### 🔗 [Universo dos livros](https://t.me/universo_dos_livros)
 
