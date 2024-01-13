@@ -87,7 +87,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### | ***Livros*** |
 
-* [Tachiyomi](https://github.com/inorichi/tachiyomi) - Leitor de mangá
+* [Tachiyomi](https://github.com/inorichi/tachiyomi) - Leitor de mangá (Tachiyomi não será mais desenvolvido ativamente. ele continua a funcionar por tempo indeterminado, mas não haverá suporte para ele nem extensões oficiais.)
 
 ### | ***Filmes e TV*** |
 
