@@ -24,14 +24,16 @@ features:
   - icon: ⚠️
     title: Aviso!
     details: Na Megathread, links confiáveis que antes eram seguros podem ocasionalmente se tornar perigosos. Sempre tenham cuidado ao navegar nos mares.
-  - icon: 💾️
-    title: Antiga Megathread
-    details: Caso você prefira a antiga Megathread, você ainda pode acessar ela clicando nesse card.
-    link: "https://c-pirataria.github.io/megathread/"
+  - icon:
+      dark: /matrix-logo-dark.svg
+      light: /matrix-logo.svg
+    title: Comunidade no Matrix
+    details: O Matrix é uma plataforma de rede social de comunicação por chat descentralizada. Estilo Telegram e WhatsApp.
+    link: "https://matrix.to/#/#deck_pirata:matrix.org"
   - icon:
       dark: /lemmy-logo.svg
       light: /lemmy-logo.svg
     title: Comunidade no Lemmy
-    details: O c/Pirataria é onde nós postamos notícias além de ser nosso porto seguro.
+    details: O Lemmy é uma plataforma de rede social descentralizada, inspirada no Reddit, que faz parte do ecossistema do Fediverso.
     link: "https://phtn.app/c/pirataria@lemmy.dbzer0.com"
 ---
