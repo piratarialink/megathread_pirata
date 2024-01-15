@@ -14,7 +14,7 @@ hero:
       link: /main-page
     - theme: alt
       text: Ver no Github
-      link: https://github.com/c-pirataria/megathread-vitepress
+      link: https://github.com/c-pirataria/megathread
 
 # Features section
 features:
