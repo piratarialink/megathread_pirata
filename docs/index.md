@@ -28,7 +28,9 @@ features:
     title: Antiga Megathread
     details: Caso você prefira a antiga Megathread, você ainda pode acessar ela clicando nesse card.
     link: "https://c-pirataria.github.io/megathread/"
-  - icon: 🔥️
+  - icon:
+      dark: /lemmy-logo.svg
+      light: /lemmy-logo.svg
     title: Comunidade no Lemmy
     details: O c/Pirataria é onde nós postamos notícias além de ser nosso porto seguro.
     link: "https://phtn.app/c/pirataria@lemmy.dbzer0.com"
