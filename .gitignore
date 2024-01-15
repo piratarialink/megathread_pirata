@@ -1,4 +1,5 @@
-# Necessita de revisão, não é confiável. @gnireorb
-# docs/virustotal.md
-.cache
-.log
+**/.vitepress/dist
+**/.vitepress/cache
+
+node_modules
+package-lock.json
