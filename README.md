@@ -3,8 +3,6 @@
     <a href="https://lemmy.eco.br/c/pirataria@lemmy.dbzer0.com"><img alt="Lemmy" src="https://img.shields.io/lemmy/pirataria%40lemmy.dbzer0.com"></a>
 </div>
 
-![image](https://github.com/c-pirataria/megathread-vitepress/assets/98482469/e5cb0261-18e2-4250-a227-ecdc2d86279f)
-
 # O que são as Megathreads?
 
 As megathreads são tópicos específicos que agrupam informações relevantes em um único local. Elas ajudam a manter a comunidade organizada e proporcionam um acesso fácil a recursos e atualizações relacionadas a um determinado tópico. Nossas megathreads são mantidas neste repositório para facilitar o acompanhamento e a colaboração.
