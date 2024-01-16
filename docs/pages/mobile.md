@@ -97,8 +97,6 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 * [Cloudstream](https://dweb.link/ipns/cloudstream.on.fleek.co/) + [Extensions](ipns://cloudstream.on.fleek.co/repos/) - Filmes, Séries, TV e Anime.
 
-- [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) + [Addons](https://stremio-addons.netlify.app/) - Streaming de Filmes, Séries, TV e Anime.
-
 ### | Esportes |
 
 - [YouCine](https://www.youcine.tv/mobile/) - Recentemente ficou pago, mas ainda é possivel assistir jogos de futebol.

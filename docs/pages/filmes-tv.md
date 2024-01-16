@@ -12,12 +12,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### | **_Filmes e Séries_** |
 
-### 🐐 [Stremio](https://www.stremio.com/) + [Addons](https://stremio-addons.netlify.app/)
-
-- Stremio junto com os seguintes Addons é sucesso: **The Movie Database Addon**, **Torrentio Brazuca**, **Brazuca Torrents**, **Streaming Catalogs**, **Torrent Catalogs** e **Anime Kitsu**
-- É bom utilizar o **The Movie Database Addon** para poder pesquisar Filmes e Séries em Português e ter as capas traduzidas. (Necessário clicar em "configurar" antes de instalar)
-- Resultados de segurança da URL: [Stremio](https://www.urlvoid.com/scan/stremio.com/) e [Addons](https://www.urlvoid.com/scan/stremio-addons.netlify.app/)
-
 ### 🐐 [Rede Canais](https://xn--90afacaz8cwa6a2e.xn--p1ai/)
 
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega.
@@ -92,45 +86,45 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) - Repositório que agrega várias listas IPTV.
 
-## 📑 2 ➜ Torrents
+## 🧲 2 ➜ Torrents
 
-### 🧲 [Rede Torrent](https://redetorrent.com/)
+### [Rede Torrent](https://redetorrent.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
 
-### 🧲 [Comando.la](https://comando.la/)
+### 🐐 [Comando.la](https://comando.la/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comando.la/)
 
-### 🧲 [Filmes via Torrent.site](https://filmesviatorrents.site/)
+### [Filmes via Torrent.site](https://filmesviatorrents.site/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/filmesviatorrents.site/)
 
-### 🧲 [ComandoFilmesHD.org](https://comandofilmeshd.org/)
+### [ComandoFilmesHD.org](https://comandofilmeshd.org/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.org/)
 
-### 🧲 [Nick Filmes](https://nickfilmes.net/)
+### [Nick Filmes](https://nickfilmes.net/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nickfilmes.net/)
 
-### 🧲 [Comando Filmes](https://comandofilmes.xyz/)
+### [Comando Filmes](https://comandofilmes.xyz/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmes.xyz/)
 
-### 🧲 [Torrent dos Filmes](https://torrentdofilmes.com/)
+### [Torrent dos Filmes](https://torrentdofilmes.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdofilmes.com/)
 
-### 🧲 [Vamos Torrent](https://vamostorrent.com/)
+### [Vamos Torrent](https://vamostorrent.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vamostorrent.com/)
 
-### 🧲 [BaixarFilmesTorrentHD](https://www.baixarfilmestorrenthd.com/)
+### [BaixarFilmesTorrentHD](https://www.baixarfilmestorrenthd.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/baixarfilmestorrenthd.com/)
 
-### 🧲 [O Filme Torrent](https://ofilmetorrent.com/)
+### [O Filme Torrent](https://ofilmetorrent.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ofilmetorrent.com/)
 
