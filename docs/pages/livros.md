@@ -62,7 +62,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Aqui mesmo, você pode obter conhecimentos e informações de livre acesso a todos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/oceanofpdf.com/)
 
-### 🔗 [Sci-Hub](https://sci-hub.se/) / [2](https://sci-hub.st/) / [3](https://sci-hub. ru/)
+### 🔗 [Sci-Hub](https://sci-hub.se/) / [2](https://sci-hub.st/) / [3](https://sci-hub.ru/)
 
 - Acesso ilimitado a todo o conhecimento científico, quebrando paywalls acadêmicos desde 2011.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sci-hub.se/)
