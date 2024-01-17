@@ -110,7 +110,7 @@ export default {
     ],
     editLink: {
       pattern:
-        "https://github.com/c-pirataria/megathread-vitepress/edit/main/docs/:path",
+        "https://github.com/c-pirataria/megathread/edit/main/docs/:path",
       text: "Edite essa página no GitHub",
     },
     docFooter: {
