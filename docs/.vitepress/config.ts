@@ -121,6 +121,7 @@ export default {
       message: "Made in Brazil by c/Pirataria",
     },
     markdown: {
+      attrs: false,
       theme: "material-palenight",
       lineNumbers: true,
     },
