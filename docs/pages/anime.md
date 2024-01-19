@@ -62,7 +62,9 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 ---
 
+:::warning ⚠️ Aviso
 ➜ Altamente recomendado o uso de bloqueadores de anúncios nos sites abaixo:
+:::
 
 ### ▶️ [Animes Órion](https://animesorion.com/)
 
