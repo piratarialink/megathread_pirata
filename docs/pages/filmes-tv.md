@@ -84,8 +84,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Serviço gratuito de Streaming de televisão da Paramount.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pluto.tv/)
 
-### [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) - Repositório que agrega várias listas IPTV.
-
 ## 🧲 2 ➜ Torrents
 
 ### [Rede Torrent](https://redetorrent.com/)
