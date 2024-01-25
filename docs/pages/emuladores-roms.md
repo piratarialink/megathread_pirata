@@ -324,6 +324,11 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - ROMs gratuitas para PlayStation Vitas, 3DS, Switch e Wii U.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ziperto.com/)
 
+### 🔗 [Crocdb](https://crocdb.net/)
+
+- ROMs para multiplos sistemas com download direto do site
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/crocdb.net/)
+
 ## Está buscando Jogos de Computador?
 
 ➜ Confira nossa Megathread sobre 🎮 [Jogos](jogos)
