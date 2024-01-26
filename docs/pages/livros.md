@@ -345,6 +345,16 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ### 🔗 [Universo dos livros](https://t.me/universo_dos_livros)
 
+### 🔗 [AudioBookGram](https://t.me/audiobookgram)
+
+### 🔗 [Audiolivros](https://t.me/audiolivros)
+
+### 🔗 [Gibiteca_online](https://t.me/gibis_mais)
+
+### 🔗 [Hqs e Mangás](https://t.me/hqsemangas)
+
+### 🔗 [Mangás da Depressão](https://t.me/mangasdepressao)
+
 ### 📣 [Z-Library Official](https://t.me/zlibrary_official)
 
 - Canal sobre notícias e anúncios, eles não fornecem Downloads.
