@@ -26,7 +26,7 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/animes.vision/)
 
 ### ▶️ [Anime Fire](https://animefire.plus/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/animefire.net/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/animefire.plus/)
 
 ### ▶️ [Meus Animes](https://meusanimesbr.com/)
 
