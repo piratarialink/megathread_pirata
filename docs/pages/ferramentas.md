@@ -10,9 +10,11 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► Ferramentas para Windows/Office
 
+::: info
 - Tutorias disponíveis em [Pirataria - Guias](guias.md)
 - Links em cache estão disponíveis para permitir que você visualize a página sem precisar fazer login.
 - Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal. São falsos positivos.
+  :::
 
 * [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Essa ferramenta ativa o Windows e o Office.
 * [**Office C2R-R2V-AIO**](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte as instalações do Office Retail em licenças de volume.
