@@ -1,10 +1,16 @@
 # ☣️ ➜ Sites Inseguros
 
-:::danger ⚠️ AVISO ➜ Preste atenção
+:::warning ⚠️ AVISO ➜ Preste atenção
 
 - ⚠️ É de extrema importância que você evite se aventurar nas profundezas traiçoeiras das URLs listadas abaixo.
 - 👎🏻 Esses domínios sinistros ganharam uma reputação notória, manchada por uma infinidade de transgressões graves e imperdoáveis.
 - [💩](https://www.dicio.com.br/merda/) = Particularmente evitado pela comunidade pirata.
+  :::
+
+:::danger Nunca se cadastre-se nesses sites
+
+- O registo de uma conta nestes sites acarreta um nível de perigo significativo, dadas as vulnerabilidades digitais presentes no mundo cibernético.
+- Os ataques de phishing geralmente exploram usuários que, sem saber, divulgam informações pessoais que podem ser abusadas sutilmente.
   :::
 
 ---
