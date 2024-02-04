@@ -86,12 +86,13 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### | **_Livros_** |
 
-- [Kotatsu](https://kotatsu.app/) - Leitor de mangá
+- [Kotatsu](https://kotatsu.app/) - Um leitor de mangá de código aberto simples e conveniente para a comunidade, onde você pode encontrar e ler seu mangá favorito com mais facilidade do que nunca.
 
-- [Tachiyomi](https://github.com/inorichi/tachiyomi) - Leitor de mangá
-  :::warning Aviso
-  Tachiyomi não será mais desenvolvido ativamente. ele continua a funcionar por tempo indeterminado, mas não haverá suporte para ele nem extensões oficiais.
-  :::
+- [Mihon](https://github.com/mihonapp/mihon) - Descubra e leia mangás, webtoons, quadrinhos e muito mais – mais fácil do que nunca em seu dispositivo Android. (Fork do Tachiyomi)
+
+- [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) - TachiyomiJ2K é um leitor de mangá gratuito e de código aberto para Android 6.0 e superior. Baseado no Tachiyomi original
+
+- [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
 
 - [Tomato](https://play.google.com/store/apps/details?id=com.tomatos.appclient) - Streaming de anime e mangás.
 
@@ -210,6 +211,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - [Playtv Geh](https://t.me/playtvgehjogos) - Canal que oferece o aplicativo de IPTV Playtv Geh, que possibilida ver diversos canais fechados gratuitamente (recomenda-se bloqueador de anúncio).
 
 - [RVX Lite](https://t.me/rvx_lite) - Canal que oferece aplicativos (Youtube, Reddit, Twitter...) modificados usando o ReVancify.
+
 - [MCPE APK Releases](https://t.me/mcperelease) - Canal para APKs do Minecraft PE com Xbox Live funcional apenas versões estáveis, sem betas.
 
 ## Está buscando Programas para Computador?
