@@ -357,6 +357,10 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ### 📣 [Z-Library Official](https://t.me/zlibrary_official)
 
+### 📣 [LIVROS DE PSICOLOGIA, PSICANÁLISE, PEDAGOGIA E FILOSOFIA!](https://t.me/livrosdapsicologia)
+
+### 📣 [Não Sou Robô AudioBook📚🎧✌️](https://t.me/naosouroboaudiobooks)
+
 - Canal sobre notícias e anúncios, eles não fornecem Downloads.
 
 ## Está buscando cursos e conteúdos educacionais?
