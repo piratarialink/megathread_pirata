@@ -18,7 +18,7 @@ Trackers são servidores que requerem interação com um cliente de torrent, com
 
 ### 🧲 [Locadora](https://locadora.cc/)
 
-### 🧲 [Toca Share](https://a.tocashare.com/register)
+### 🧲 [Toca Share](https://tocashare.com/register)
 
 ## 📑 ➜ Trackers Gringo
 
@@ -27,3 +27,5 @@ Trackers são servidores que requerem interação com um cliente de torrent, com
 ### 🧲 [Milkie](https://milkie.cc/)
 
 ### 🧲 [AlphaRatio](https://alpharatio.cc/)
+
+# ⚠ ➜ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisado quando novos Tracker's abrirem cadastros.
