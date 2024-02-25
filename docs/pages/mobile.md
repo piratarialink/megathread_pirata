@@ -56,6 +56,8 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### | **_Anime_** |
 
+- [Mihon](https://github.com/mihonapp/mihon) - Mihon é um leitor de mangá fork do Tachiyomi (Mihon is an actively maintained fork of Tachiyomi)
+
 - [Aniyomi](https://github.com/jmir1/aniyomi) - Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
 
 - [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) - Fork do Aniyomi com a função de mangás restaurada e recursos extras.
