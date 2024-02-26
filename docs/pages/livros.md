@@ -101,9 +101,11 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hq-now.com/)
 
-### 📒 [HQ Dragon](https://hqdragon.com/)
+### 📒 [Darkseid Club](https://site.ds-club.net/)  
+  
+- O Darkseid Club é um grupo formado por fãs da nona arte e em especial pelo universo da editora DC Comic
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hqdragon.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/site.ds-club.net/)
 
 ### 📒 [Timeline Comics](https://timelinecomics.blogspot.com/)
 
