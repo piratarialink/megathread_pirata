@@ -244,13 +244,9 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - 180 jogos fantásticos. Basta baixar e extrair o arquivo zip de 19 MB.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
-### 🔗 [CDRomance](https://cdromance.com/) e [Página de Tickets](https://cdromance.org/)
-:::warning ⚠️ Preste Atenção
-
-Os downloads diretos foram desativados. Agora é necessário copiar o código CDR_TICKET do arquivo desejado e colar na página de tickets.
-  :::   
+### 🔗 [CDRomance](https://cdromance.com/)
 - Coleção de jogos da era de 128 bits da sexta geração de consoles, bem como títulos de 8 bits.
-- Resultados de segurança da URL: [1](https://www.urlvoid.com/scan/cdromance.com/) / [2](https://www.urlvoid.com/scan/cdromance.org/)
+- Resultados de segurança da URL: [1](https://www.urlvoid.com/scan/cdromance.com/)
 
 ### 🔗 [Cylum's Sega Master System ROM Collection](https://archive.org/details/cylums-sega-master-system-rom-collection)
 
