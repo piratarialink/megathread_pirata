@@ -623,13 +623,13 @@ Agora, algumas configurações adicionais ao Plex. Clique na **Chave de Fenda** 
 
 ## Adição (forçar português) @jaum20
 
-[](https://telegra.ph/file/592bf9a13b02620429788.png)
+![](https://telegra.ph/file/592bf9a13b02620429788.png)
 
-[](https://telegra.ph/file/aaa36e4b9da936f9fe9a2.png)
+![](https://telegra.ph/file/aaa36e4b9da936f9fe9a2.png)
 
-[](https://telegra.ph/file/584e714c9ff5b7590e459.png)
+![](https://telegra.ph/file/584e714c9ff5b7590e459.png)
 
-[](https://telegra.ph/file/28e6a6e128a2ef31745a6.png)
+![](https://telegra.ph/file/28e6a6e128a2ef31745a6.png)
 
 ```
 {
