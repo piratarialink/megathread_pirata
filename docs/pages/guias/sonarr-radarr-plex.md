@@ -621,6 +621,54 @@ Agora, algumas configurações adicionais ao Plex. Clique na **Chave de Fenda** 
 
 - **Coleções - Hide Collections but show their items**
 
+## Adição (forçar português) @jaum20
+
+[](https://telegra.ph/file/592bf9a13b02620429788.png)
+
+[](https://telegra.ph/file/aaa36e4b9da936f9fe9a2.png)
+
+[](https://telegra.ph/file/584e714c9ff5b7590e459.png)
+
+[](https://telegra.ph/file/28e6a6e128a2ef31745a6.png)
+
+```
+{
+  "name": "DUAL",
+  "includeCustomFormatWhenRenaming": true,
+  "specifications": [
+    {
+      "name": "DUAL",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": true,
+      "fields": {
+        "value": "dual[ ._-]?audio|[\\[(]dual[\\])]|(JA|ZH)\\+EN|EN\\+(JA|ZH)"
+      }
+    },
+    {
+      "name": "Dual Loca",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": true,
+      "fields": {
+        "value": 30
+      }
+    },
+    {
+      "name": "PT",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 18
+      }
+    }
+  ]
+}
+```
+
+**DUAL com Score 1**
+
 ## CONCLUSÃO
 
 Guia finalizado, espero que, se seguiram direitinho, tenham conseguido automatizar e tornar a vida de pirataria de vocês muito mais fácil. Eu aprendi muito disso aqui testando por conta própria, mas também muito do que está aqui veio do site [trash guides](https://trash-guides.info), onde eles ensinam bastante sobre os programas Arr, podem ir conferir lá caso tenha surgido alguma dúvida, ou me perguntar também. Muito obrigado a quem leu tudo, deu muito trabalho.
