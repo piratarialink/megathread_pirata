@@ -28,4 +28,6 @@ Trackers são servidores que requerem interação com um cliente de torrent, com
 
 ### 🧲 [AlphaRatio](https://alpharatio.cc/)
 
-# ⚠ ➜ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisado quando novos Tracker's abrirem cadastros.
+:::info ⚠️ Lembrete rápido
+- Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisado quando novos Trackers abrirem cadastros.
+:::
