@@ -181,6 +181,10 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🔗 [Acervo Stream](https://t.me/cursogdrive)
 
+### 🔗 [Solidários](https://t.me/GrupoSolidarios)
+
+- Comunidade ativa para compartilhamento de materiais de estudo.
+
 ## Está buscando Livros?
 
 ➜ Confira nossa Megathread sobre 📚 [Livros](livros)
