@@ -62,7 +62,7 @@
 ### 🧰 [Ferramentas](pages/ferramentas.md)
 - Ferramentas para ativação, scripts de usuário, gerenciadores de download, assistentes, extensões e uma infinidade de outros softwares complementares.
 
-### 🧵 [Trackers Privados](pages/trackers.md)
+### 🧵 [Trackers](pages/trackers.md)
 - Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos.
 
 ---
