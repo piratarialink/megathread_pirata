@@ -36,9 +36,9 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 
 ### 🧲 [AlphaRatio](https://alpharatio.cc/)
 
-### 🧲 [MyAnonaMouse](myanonamouse.net) | MAM | [Entrevista](https://www.myanonamouse.net/inviteapp.php)
+### 🧲 [MyAnonaMouse](https://myanonamouse.net) | MAM | [Entrevista](https://www.myanonamouse.net/inviteapp.php)
 
-### 🧲 [Orpheus](orpheus.network) | OPS | [Entrevista](https://interview.orpheus.network/)
+### 🧲 [Orpheus](https://orpheus.network) | OPS | [Entrevista](https://interview.orpheus.network/)
 - Caso você não queira fazer a entrevista, devido ao longo tempo de espera ou por qualquer outro motivo, a OPS também pode ser acessada por meio do MAM, pois este último tem um processo muito mais rápido e fácil. O único requisito é ser PU.
 
 ### 🧲 [Redacted](https://interviewfor.red/en/index.html) | RED
