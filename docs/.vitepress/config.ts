@@ -74,7 +74,7 @@ export default {
           { text: "⚙️ Softwares", link: "pages/softwares" },
           { text: "👟 Esportes", link: "pages/esportes" },
           { text: "🧰 Ferramentas", link: "pages/ferramentas" },
-          { text: "🧵 Trackers Privados", link: "pages/trackers" },
+          { text: "🧵 Trackers", link: "pages/trackers" },
           { text: "☣️ Sites Inseguros", link: "pages/sites-inseguros" },
         ],
       },
