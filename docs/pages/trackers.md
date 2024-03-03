@@ -52,6 +52,14 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 ### 🧲 GazelleGames | GGn 
 - Pode ser acessado por meio do OPS ou RED. Ambos exigem PU e conta com 3 meses. 
 
+### 🧲 Animebytes | AB
+- Enorme arquivo de anime com grande retenção, mas a organização não é tão boa quanto a de muitos outros rastreadores principais.
+- Pode ser acessado por meio do GGn ou RED.
+
+### 🧲 BakaBT | BBT
+
+- Tracker de anime muito antigo, conhecido por sua incrível retenção, mas não tem tanto conteúdo quanto o AB ou o Nyaa. Tem entrevistas para participar.
+
 ### 🧲 PassThePopcorn | PTP 
 - Não há recrutamento no momento.
 
