@@ -26,8 +26,46 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ## 📑 ➜ Trackers Gringo
 
-### 🧲 [TorrentLeech](https://www.torrentleech.org/)
+:::info ⚠️ Informação
+PU = Power User (usuário avançado). A primeira classificação quando você sobe de nível. Você precisa ter essa classificação para poder acessar o fórum de convites de um tracker.
+:::
+
+### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
 
 ### 🧲 [Milkie](https://milkie.cc/)
 
 ### 🧲 [AlphaRatio](https://alpharatio.cc/)
+
+### 🧲 [MyAnonaMouse](myanonamouse.net) | MAM | [Entrevista](https://www.myanonamouse.net/inviteapp.php)
+
+### 🧲 [Orpheus](orpheus.network) | OPS | [Entrevista](https://interview.orpheus.network/)
+- Caso você não queira fazer a entrevista, devido ao longo tempo de espera ou por qualquer outro motivo, a OPS também pode ser acessada por meio do MAM, pois este último tem um processo muito mais rápido e fácil. O único requisito é ser PU.
+
+### 🧲 [Redacted](https://interviewfor.red/en/index.html) | RED
+
+### 🧲 Nebulance | NBL 
+- Pode ser acessado por meio do MAM. O único requisito é ser PU.
+
+### 🧲 Secret Cinema | SC  
+- Pode ser acessado por meio do MAM. VIP + 50 GB de upload + conta com 6 meses.
+
+### 🧲 GazelleGames | GGn 
+- Pode ser acessado por meio do OPS ou RED. Ambos exigem PU e conta com 3 meses. 
+
+### 🧲 PassThePopcorn | PTP 
+- Não há recrutamento no momento.
+
+### 🧲 BroadcastTheNet | BTN 
+- Não há recrutamento no momento.
+
+### 🧲 Cinematik | TIK 
+- Não há recrutamento no momento.  
+
+### 🧲 HDBits | HDB 
+- Não há recrutamento no momento.
+
+### 🧲 [IPTorrents](https://iptorrents.com/signup.php) | IPT | $20
+- Necessário pagar.
+
+### 🧲 [HD-Torrents](https://hd-torrents.org/unregistred.php) | HDT | €40
+- Necessário pagar.
