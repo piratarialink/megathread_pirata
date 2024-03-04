@@ -56,6 +56,10 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/animesonline.in/)
 
+### ▶️ [Hianime](https://hianime.to/)
+- Antigo Aniwatch e Zoro, no seu terceiro rebranding. As legendas são externas no player precisando ajusta-lo como achar melhor.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hianime.to/)
+
 ---
 
 :::warning ⚠️ Aviso
