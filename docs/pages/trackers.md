@@ -36,6 +36,8 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 - Enorme arquivo de anime com grande retenção, mas a organização não é tão boa quanto a de muitos outros rastreadores principais.
 - Pode ser acessado por meio do GGn ou RED.
 
+### 🧲 [AudioNews](https://audionews.org/) | AN
+
 ### 🧲 BakaBT | BBT
 
 - Tracker de anime muito antigo, conhecido por sua incrível retenção, mas não tem tanto conteúdo quanto o AB ou o Nyaa. Tem entrevistas para participar.
@@ -75,5 +77,7 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 
 ### 🧲 Secret Cinema | SC  
 - Pode ser acessado por meio do MAM. VIP + 50 GB de upload + conta com 6 meses.
+
+### 🧲 [TheGeeks](https://thegeeks.click/) | TGBZ
 
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
