@@ -8,19 +8,19 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ## 📑 ➜ Trackers Brasileiros
 
-### 🧲 [Brasil Tracker](https://brasiltracker.org/index.php)
+### 🧲 [Amigos Share Club](https://cliente.amigos-share.club/) | ASC
 
-### 🧲 [The Rebels](https://therebels.tv/)
+### 🧲 [Brasil Tracker](https://brasiltracker.org/index.php)   | BT
+
+### 🧲 [BrSociety](https://brsociety.club/) | BRS          
+
+### 🧲 [CP Turbo](http://cptv3ofjaw2hr5fqdhnno5qazsy3a6fz6yj2w6t2n2udvqfypsa3u7qd.onion/cpt/login/) | CPT
 
 ### 🧲 [HubWarez](https://hubwarez.tv/forum/register.php)
 
-### 🧲 [BrSociety (BRS)](https://brsociety.club/)
-
-### 🧲 [Amigos Share Club (ASC)](https://cliente.amigos-share.club/)
-
-### 🧲 [CP Turbo](http://cptv3ofjaw2hr5fqdhnno5qazsy3a6fz6yj2w6t2n2udvqfypsa3u7qd.onion/cpt/login/)
-
 ### 🧲 [Locadora](https://locadora.cc/)
+
+### 🧲 [The Rebels](https://therebels.tv/)
 
 ### 🧲 [Toca Share](https://tocashare.com/register)
 
@@ -30,27 +30,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 PU = Power User (usuário avançado). A primeira classificação quando você sobe de nível. Você precisa ter essa classificação para poder acessar o fórum de convites de um tracker.
 :::
 
-### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
-
-### 🧲 [Milkie](https://milkie.cc/)
-
-### 🧲 [AlphaRatio](https://alpharatio.cc/)
-
-### 🧲 [MyAnonaMouse](https://myanonamouse.net) | MAM | [Entrevista](https://www.myanonamouse.net/inviteapp.php)
-
-### 🧲 [Orpheus](https://orpheus.network) | OPS | [Entrevista](https://interview.orpheus.network/)
-- Caso você não queira fazer a entrevista, devido ao longo tempo de espera ou por qualquer outro motivo, a OPS também pode ser acessada por meio do MAM, pois este último tem um processo muito mais rápido e fácil. O único requisito é ser PU.
-
-### 🧲 [Redacted](https://interviewfor.red/en/index.html) | RED
-
-### 🧲 Nebulance | NBL 
-- Pode ser acessado por meio do MAM. O único requisito é ser PU.
-
-### 🧲 Secret Cinema | SC  
-- Pode ser acessado por meio do MAM. VIP + 50 GB de upload + conta com 6 meses.
-
-### 🧲 GazelleGames | GGn 
-- Pode ser acessado por meio do OPS ou RED. Ambos exigem PU e conta com 3 meses. 
+### 🧲 [AlphaRatio](https://alpharatio.cc/) | AR
 
 ### 🧲 Animebytes | AB
 - Enorme arquivo de anime com grande retenção, mas a organização não é tão boa quanto a de muitos outros rastreadores principais.
@@ -60,14 +40,17 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 
 - Tracker de anime muito antigo, conhecido por sua incrível retenção, mas não tem tanto conteúdo quanto o AB ou o Nyaa. Tem entrevistas para participar.
 
-### 🧲 PassThePopcorn | PTP 
-- Não há recrutamento no momento.
-
 ### 🧲 BroadcastTheNet | BTN 
 - Não há recrutamento no momento.
 
 ### 🧲 Cinematik | TIK 
-- Não há recrutamento no momento.  
+- Não há recrutamento no momento.
+
+### 🧲 GazelleGames | GGn 
+- Pode ser acessado por meio do OPS ou RED. Ambos exigem PU e conta com 3 meses. 
+
+### 🧲 [HD-Torrents](https://hd-torrents.org/unregistred.php) | HDT | €40
+- Necessário pagar.
 
 ### 🧲 HDBits | HDB 
 - Não há recrutamento no momento.
@@ -75,5 +58,22 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 ### 🧲 [IPTorrents](https://iptorrents.com/signup.php) | IPT | $20
 - Necessário pagar.
 
-### 🧲 [HD-Torrents](https://hd-torrents.org/unregistred.php) | HDT | €40
-- Necessário pagar.
+### 🧲 [Milkie](https://milkie.cc/)
+
+### 🧲 [MyAnonaMouse](https://myanonamouse.net) | MAM | [Entrevista](https://www.myanonamouse.net/inviteapp.php)
+
+### 🧲 Nebulance | NBL 
+- Pode ser acessado por meio do MAM. O único requisito é ser PU.
+
+### 🧲 [Orpheus](https://orpheus.network) | OPS | [Entrevista](https://interview.orpheus.network/)
+- Caso você não queira fazer a entrevista, devido ao longo tempo de espera ou por qualquer outro motivo, a OPS também pode ser acessada por meio do MAM, pois este último tem um processo muito mais rápido e fácil. O único requisito é ser PU.
+
+### 🧲 PassThePopcorn | PTP 
+- Não há recrutamento no momento.
+
+### 🧲 [Redacted](https://interviewfor.red/en/index.html) | RED
+
+### 🧲 Secret Cinema | SC  
+- Pode ser acessado por meio do MAM. VIP + 50 GB de upload + conta com 6 meses.
+
+### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
