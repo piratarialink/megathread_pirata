@@ -341,6 +341,8 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ### 🔗 [Livros Digitais](https://t.me/LivrosEmPdf)
 
+### 🔗 [Livros Em PDF](https://t.me/@LivrosEmPDF)
+
 ### 🔗 [Livros - Kindle MOBI/EPUB](https://t.me/pedelivroskindle)
 
 ### 🔗 [Livros de TI](https://t.me/booksti)
