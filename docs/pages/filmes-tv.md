@@ -21,6 +21,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/braflix.app/)
 
+### ▶️ [Mega Filmes HD](https://www.megafilmeshds.net/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/megafilmeshds.net/)
+
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
