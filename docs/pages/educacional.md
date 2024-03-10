@@ -7,14 +7,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 - 🐐 = Altamente recomendado pela comunidade pirata.
 :::
 
-## 📑 ➜ Acervo Aslaki
+## 📑 ➜ [Acervo Alaski)](https://drive.aslaki.com/Acervo/) | [Onion](http://drive.anonymouscibyfrq27vxzji5nwfoemmxlbsuimhguhwzwwhgxanovfqd.onion/Acervo/)
 
-:::info
 - Cursos de Arquitetura de Software, Backend, Banco de Dados, Eletrônica, Frontend, Hacking, Linux, Pré-vestibular e Redes.
-:::
-
-### 🐐 [Acervo (DDL)](https://drive.aslaki.com/Acervo/)
-### 🐐 [Acervo (Onion)](http://drive.anonymouscibyfrq27vxzji5nwfoemmxlbsuimhguhwzwwhgxanovfqd.onion/Acervo/)
 
 ## 📑 ➜ Streaming
 
