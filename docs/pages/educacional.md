@@ -3,12 +3,20 @@
 A educação é o processo de adquirir conhecimento, habilidades e valores fundamentais para o desenvolvimento pessoal e social.
 
 :::danger ⚠️ Lembrete rápido
-
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
 - 🐐 = Altamente recomendado pela comunidade pirata.
-  :::
+:::
 
-## 📑 1 ➜ Streaming
+## 📑 ➜ Acervo Aslaki
+
+:::info
+- Cursos de Arquitetura de Software, Backend, Banco de Dados, Eletrônica, Frontend, Hacking, Linux, Pré-vestibular e Redes.
+:::
+
+### 🐐 [Acervo (DDL)](https://drive.aslaki.com/Acervo/)
+### 🐐 [Acervo (Onion)](http://drive.anonymouscibyfrq27vxzji5nwfoemmxlbsuimhguhwzwwhgxanovfqd.onion/Acervo/)
+
+## 📑 ➜ Streaming
 
 ### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)** - Você pode assistir aos cursos pelo Telegram
 
@@ -42,7 +50,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[Recode](https://recode.org.br)** - Cursos
 
-## 📑 2 ➜ Downloads diretos
+## 📑 ➜ Downloads diretos
 
 ### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)**
 
@@ -119,7 +127,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/hacksnation.com/)
 
-## 📑 3 ➜ Torrents
+## 📑 ➜ Torrents
 
 ### 🧲 [Course Torrent / DDL CSE](https://cse.google.com/cse?cx=37dfc1f1ac9ef45e7) - Pesquisa de cursos em vários sites
 
@@ -145,7 +153,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🧲 [Pimp My Money](https://pimpmymoney.net/) - Cursos de Marketing Digital
 
-## 📑 4 ➜ Grupos/Canais no Telegram
+## 📑 ➜ Grupos/Canais no Telegram
 
 ### 🐐 [Polemic Knowledge](https://t.me/PolemicKnowledge)
 
