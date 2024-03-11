@@ -158,21 +158,21 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Apenas um backup e "Hub" para outros canais do Polemic.
 
-### 🔗 [Brasil Concursos🇧🇷](https://t.me/Brasil_Cursos_Novo)
+### 🔗 [Brasil Cursos🇧🇷](https://t.me/Brasil_Cursos_Novo)
 
-- Materiais diversos para concursos e cursos em streaming. 
+- Materiais diversos para concursos e cursos através de streaming. 
 
-### 🔗 [Brasil Concursos📚](https://t.me/Cursos_Filmes_Livros)
+### 🔗 [Brasil Cursos📚](https://t.me/Cursos_Filmes_Livros)
 
-- Materiais diversos para concursos, cursos e livros. Em streaming. 
+- Materiais diversos para concursos, cursos e livros em streaming. 
 
 ### 🔗 [TGDRIVE COURSES](https://t.me/tgdrivecursos)
 
-- Ampla gama de materiais destinados a concursos e cursos. Em streaming. 
+- Ampla gama de materiais destinados a concursos e cursos em streaming. 
 
 ### 🔗 [Extreme Cursos](https://t.me/Extreme_CursosGratis)
 
--  Cursos em streaming.
+-  Cursos diversos por streaming.
 
 ### 🔗 [NOSSO CONCURSO](https://t.me/NOSSOCONCURSO)
 
