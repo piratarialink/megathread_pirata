@@ -20,7 +20,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid) - Tudo em um emulador no Android! Com uma interface simples e prática.
 
-- 🐐[SmartTube](https://github.com/yuliskov/SmartTubeNext) - Aplicativo sem anúncios para assistir vídeos do Youtube em TV Box Android
+- 🐐 [SmartTube](https://github.com/yuliskov/SmartTubeNext) - Aplicativo sem anúncios para assistir vídeos do Youtube em TV Box Android
 
 - [Xtra](https://github.com/crackededed/Xtra) - Xtra é outro cliente Twitch alternativo e de código aberto para Android
 
@@ -32,7 +32,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [xManager](https://github.com/Team-xManager/xManager) - App para instalar Spotify sem anúncios.
 
-* 🐐[ReVanced](https://github.com/revanced) - Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário um APK do Youtube) [Guia para aplicar ReVanced no YT](https://phtn.app/post/lemmy.dbzer0.com/2897980)
+* 🐐 [ReVanced](https://github.com/revanced) - Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário um APK do Youtube) [Guia para aplicar ReVanced no YT](https://phtn.app/post/lemmy.dbzer0.com/2897980)
 
 * [Lucky Patcher](https://www.luckypatchers.com/) - Desbloqueia compras no aplicativo em aplicativos Android e remove anúncios.
 
@@ -56,7 +56,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### | **_Anime_** |
 
-- 🐐[Mihon](https://github.com/mihonapp/mihon) - Mihon é um leitor de mangá fork do Tachiyomi (Mihon is an actively maintained fork of Tachiyomi)
+- 🐐 [Mihon](https://github.com/mihonapp/mihon) - Mihon é um leitor de mangá fork do Tachiyomi (Mihon is an actively maintained fork of Tachiyomi)
 
 - [Aniyomi](https://github.com/jmir1/aniyomi) - Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
 
@@ -64,7 +64,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [Animiru](https://github.com/Quickdesh/Animiru) - Animiru é um fork não oficial do Aniyomi, que é mais um fork não oficial do leitor de mangá gratuito e de código aberto Tachiyomi.
 
-- 🐐[Better Anime](https://discord.com/invite/betteranime) - O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar. App removido da playstore, disponível apenas no discord. 
+- 🐐 [Better Anime](https://discord.com/invite/betteranime) - O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar. App removido da playstore, disponível apenas no discord. 
 
 - [Tomato](https://play.google.com/store/apps/details?id=com.tomatos.appclient) - Streaming de anime e mangás.
 
@@ -72,7 +72,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [Kotatsu](https://kotatsu.app/) - Um leitor de mangá de código aberto simples e conveniente para a comunidade, onde você pode encontrar e ler seu mangá favorito com mais facilidade do que nunca.
 
-- 🐐[Mihon](https://github.com/mihonapp/mihon) - Descubra e leia mangás, webtoons, quadrinhos e muito mais – mais fácil do que nunca em seu dispositivo Android. (Fork do Tachiyomi)
+- 🐐 [Mihon](https://github.com/mihonapp/mihon) - Descubra e leia mangás, webtoons, quadrinhos e muito mais – mais fácil do que nunca em seu dispositivo Android. (Fork do Tachiyomi)
 
 - [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) - TachiyomiJ2K é um leitor de mangá gratuito e de código aberto para Android 6.0 e superior. Baseado no Tachiyomi original
 
@@ -82,7 +82,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### | **_Filmes e TV_** |
 
-- 🐐[RedeCanais](https://redecanais.la/android/) - Streaming de Filmes, TV, Anime e Futebol.
+- 🐐 [RedeCanais](https://redecanais.la/android/) - Streaming de Filmes, TV, Anime e Futebol.
 
 * [Cloudstream](https://dweb.link/ipns/cloudstream.on.fleek.co/) + [Extensions](ipns://cloudstream.on.fleek.co/repos/) - Filmes, Séries, TV e Anime.
 
@@ -98,7 +98,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 * [LibreTube](https://libre-tube.github.io/) - Assista e baixe vídeos do youtube. Também oferece a capacidade de baixar do soundcloud.
 
-* 🐐[Newpipe](https://newpipe.schabi.org/) - Assista e baixe vídeos do youtube. Também oferece a capacidade de baixar do soundcloud.
+* 🐐 [Newpipe](https://newpipe.schabi.org/) - Assista e baixe vídeos do youtube. Também oferece a capacidade de baixar do soundcloud.
 
 - [SongTube](https://github.com/SongTube/SongTube-App) - App Simples e Bonito feito em Flutter para Baixar Mídia do YouTube
 
@@ -106,7 +106,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) - Um aplicativo de música simples usando o YouTube Music de back-end.
 
-- 🐐[Spotube](https://github.com/KRTirtho/spotube) - Cliente Spotify de código aberto que não requer Premium nem usa Electron! Disponível para desktop e celular!
+- 🐐 [Spotube](https://github.com/KRTirtho/spotube) - Cliente Spotify de código aberto que não requer Premium nem usa Electron! Disponível para desktop e celular!
 
 - [InnerTune](https://github.com/z-huang/InnerTune) - Um cliente Material 3 para YouTube Music no Android.
 
@@ -114,17 +114,17 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 #### 🔗 Download
 
-- 🐐[YTDLnis](https://github.com/deniscerri/ytdlnis) - Aplicativo Android para baixar Video/Audio usando yt-dlp.
+- 🐐 [YTDLnis](https://github.com/deniscerri/ytdlnis) - Aplicativo Android para baixar Video/Audio usando yt-dlp.
 
 - [Seal](https://github.com/JunkFood02/Seal) - Aplicativo para baixar Video/Audio para Android, baseado em yt-dlp, desenvolvido com Material You.
 
-- 🐐[Seeker Android](https://github.com/jackBonadies/SeekerAndroid) - Cliente Android para a rede peer-to-peer do Soulseek
+- [Seeker Android](https://github.com/jackBonadies/SeekerAndroid) - Cliente Android para a rede peer-to-peer do Soulseek
 
 ## ► **Clientes Torrent**
 
 - [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) - Cliente de torrent de código aberto e sem anúncios para Android.
 
-- 🐐[Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - Cliente de torrent popular para Android.
+- 🐐 [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - Cliente de torrent popular para Android.
 
 - [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - Cliente de torrent popular para Android.
 
@@ -146,7 +146,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### | **_Android_** |
 
-- 🐐[Fórum Mobilism](https://forum.mobilism.org/index.php) - Fórum Mobilism é um dos melhores sites para baixar aplicativos crackeados/modificados e e-books.
+- 🐐 [Fórum Mobilism](https://forum.mobilism.org/index.php) - Fórum Mobilism é um dos melhores sites para baixar aplicativos crackeados/modificados e e-books.
 
 - [Mobilism for Android](https://forum.mobilism.org/viewtopic.php?f=398&t=214777) - Aplicativo do Mobilism para navegar em seus aplicativos crackeados e catálogo de e-books.
 
