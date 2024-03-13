@@ -56,7 +56,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### | **_Anime_** |
 
-- [Mihon](https://github.com/mihonapp/mihon) - Mihon é um leitor de mangá fork do Tachiyomi (Mihon is an actively maintained fork of Tachiyomi)
+- 🐐 [Mihon](https://github.com/mihonapp/mihon) - Mihon é um leitor de mangá fork do Tachiyomi (Mihon is an actively maintained fork of Tachiyomi)
 
 - [Aniyomi](https://github.com/jmir1/aniyomi) - Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
 
@@ -64,7 +64,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [Animiru](https://github.com/Quickdesh/Animiru) - Animiru é um fork não oficial do Aniyomi, que é mais um fork não oficial do leitor de mangá gratuito e de código aberto Tachiyomi.
 
-- [Better Anime](https://play.google.com/store/apps/details?id=com.betteranimev3&pli=1) - O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar
+- [Better Anime](https://discord.com/invite/betteranime) - O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar. App removido da playstore, disponível apenas no discord. 
 
 - [Tomato](https://play.google.com/store/apps/details?id=com.tomatos.appclient) - Streaming de anime e mangás.
 
