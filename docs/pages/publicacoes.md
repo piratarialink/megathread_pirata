@@ -14,6 +14,9 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 - [Como abrir portas no roteador em rede CGNAT](guias/cgnat-portas) - Guia feito por Smeagol e [u/Wandrey](https://lemmy.eco.br/u/wandrey)
 - [Um Guia Simples Para Um Ratio Melhor](guias/ratio-melhor) - Guia feito por [u/Wandrey](https://lemmy.eco.br/u/wandrey)
 - [Guia do Streaming Doméstico Automatizado (Sonarr, Radarr e Plex)](guias/sonarr-radarr-plex) - Guia feito por [u/lolado06](https://www.reddit.com/user/lolado06/)
+- [Guia de como ativar Windows 10](https://www.reddit.com/r/pirataria/s/eaNUQ4V21B) - Guia feito por [u/ozamatheus](https://www.reddit.com/u/Ozamatheus/s/dmrdBnmFz2)
+- [Guia de como instalar apps de terceiro e YouTube Mod na LG TV - WebOS](https://www.reddit.com/r/pirataria/s/RuZk6MrzMa) - Guia feito por [u/fundirect1128](https://www.reddit.com/u/FunDirect1128/s/oGbRRue7ak)
+
 
 ## ► Livros
 
