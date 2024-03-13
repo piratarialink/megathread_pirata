@@ -194,7 +194,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [Playtv Geh](https://t.me/playtvgehjogos) - Canal que oferece o aplicativo de IPTV Playtv Geh, que possibilida ver diversos canais fechados gratuitamente (recomenda-se bloqueador de anúncio).
 
-- [RVX Lite](https://t.me/rvx_lite) - Canal que oferece aplicativos (Youtube, Reddit, Twitter...) modificados usando o ReVancify.
+- [RVX Lite](https://t.me/rvx_lite) - Canal que oferece aplicativos mods ReVanced Advanced (Youtube, Reddit, Twitter...) modificados usando o ReVancify.
 
 - [MCPE APK Releases](https://t.me/mcperelease) - Canal para APKs do Minecraft PE com Xbox Live funcional apenas versões estáveis, sem betas.
 
