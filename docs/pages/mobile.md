@@ -20,7 +20,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid) - Tudo em um emulador no Android! Com uma interface simples e prática.
 
-- [SmartTube](https://github.com/yuliskov/SmartTubeNext) - Aplicativo sem anúncios para assistir vídeos do Youtube em TV Box Android
+- 🐐 [SmartTube](https://github.com/yuliskov/SmartTubeNext) - Aplicativo sem anúncios para assistir vídeos do Youtube em TV Box Android
 
 - [Xtra](https://github.com/crackededed/Xtra) - Xtra é outro cliente Twitch alternativo e de código aberto para Android
 
@@ -32,7 +32,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [xManager](https://github.com/Team-xManager/xManager) - App para instalar Spotify sem anúncios.
 
-* [ReVanced](https://github.com/revanced) - Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário um APK do Youtube) [Guia para aplicar ReVanced no YT](https://phtn.app/post/lemmy.dbzer0.com/2897980)
+* 🐐 [ReVanced](https://github.com/revanced) - Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário um APK do Youtube) [Guia para aplicar ReVanced no YT](https://phtn.app/post/lemmy.dbzer0.com/2897980)
 
 * [Lucky Patcher](https://www.luckypatchers.com/) - Desbloqueia compras no aplicativo em aplicativos Android e remove anúncios.
 
