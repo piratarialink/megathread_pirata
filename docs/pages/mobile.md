@@ -20,7 +20,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [Lemuroid](https://github.com/Swordfish90/Lemuroid) - Tudo em um emulador no Android! Com uma interface simples e prática.
 
-- 🐐 [SmartTube](https://github.com/yuliskov/SmartTubeNext) - Aplicativo sem anúncios para assistir vídeos do Youtube em TV Box Android
+- 🐐[SmartTube](https://github.com/yuliskov/SmartTubeNext) - Aplicativo sem anúncios para assistir vídeos do Youtube em TV Box Android
 
 - [Xtra](https://github.com/crackededed/Xtra) - Xtra é outro cliente Twitch alternativo e de código aberto para Android
 
@@ -32,7 +32,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [xManager](https://github.com/Team-xManager/xManager) - App para instalar Spotify sem anúncios.
 
-* 🐐 [ReVanced](https://github.com/revanced) - Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário um APK do Youtube) [Guia para aplicar ReVanced no YT](https://phtn.app/post/lemmy.dbzer0.com/2897980)
+* 🐐[ReVanced](https://github.com/revanced) - Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário um APK do Youtube) [Guia para aplicar ReVanced no YT](https://phtn.app/post/lemmy.dbzer0.com/2897980)
 
 * [Lucky Patcher](https://www.luckypatchers.com/) - Desbloqueia compras no aplicativo em aplicativos Android e remove anúncios.
 
@@ -56,7 +56,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### | **_Anime_** |
 
-- 🐐 [Mihon](https://github.com/mihonapp/mihon) - Mihon é um leitor de mangá fork do Tachiyomi (Mihon is an actively maintained fork of Tachiyomi)
+- 🐐[Mihon](https://github.com/mihonapp/mihon) - Mihon é um leitor de mangá fork do Tachiyomi (Mihon is an actively maintained fork of Tachiyomi)
 
 - [Aniyomi](https://github.com/jmir1/aniyomi) - Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
 
@@ -72,7 +72,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [Kotatsu](https://kotatsu.app/) - Um leitor de mangá de código aberto simples e conveniente para a comunidade, onde você pode encontrar e ler seu mangá favorito com mais facilidade do que nunca.
 
-- [Mihon](https://github.com/mihonapp/mihon) - Descubra e leia mangás, webtoons, quadrinhos e muito mais – mais fácil do que nunca em seu dispositivo Android. (Fork do Tachiyomi)
+- 🐐[Mihon](https://github.com/mihonapp/mihon) - Descubra e leia mangás, webtoons, quadrinhos e muito mais – mais fácil do que nunca em seu dispositivo Android. (Fork do Tachiyomi)
 
 - [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) - TachiyomiJ2K é um leitor de mangá gratuito e de código aberto para Android 6.0 e superior. Baseado no Tachiyomi original
 
