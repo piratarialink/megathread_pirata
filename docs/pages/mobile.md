@@ -32,7 +32,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [xManager](https://github.com/Team-xManager/xManager) - App para instalar Spotify sem anúncios.
 
-* [ReVanced](https://github.com/revanced) - Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário um APK do Youtube)
+* [ReVanced](https://github.com/revanced) - Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário um APK do Youtube) [Guia para aplicar ReVanced no YT](https://phtn.app/post/lemmy.dbzer0.com/2897980)
 
 * [Lucky Patcher](https://www.luckypatchers.com/) - Desbloqueia compras no aplicativo em aplicativos Android e remove anúncios.
 
