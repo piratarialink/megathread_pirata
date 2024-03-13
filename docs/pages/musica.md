@@ -30,11 +30,6 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Uma seleção de músicas de videogame e algumas trilhas sonoras de anime que foi criada por voluntários para ser o mais acessível possível.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
-### 🐐 [Free MP3 Download](https://free-mp3-download.net/)
-
-- Obtém músicas da Deezer para que você possa baixá-las na melhor qualidade possível, como FLAC e 320kbps genuínos, sem assinatura.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/free-mp3-download.net/)
-
 ### 🔗 [Hikari no Akari](https://hikarinoakari.com/)
 
 - Lugar fantástico para baixar música japonesa em qualidade com e sem perdas, incluindo vocaloids, pop, anime e jogos.
@@ -139,7 +134,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🐐 [Soulseek](https://www.slsknet.org/news/)
 
-- Músicas difíceis de localizar podem ser encontradas através deste cliente de compartilhamento de música, que conecta você a uma rede P2P.
+- Músicas difíceis de localizar podem ser encontradas através deste cliente de compartilhamento de música, que conecta você a uma rede P2p. [Cliente Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/slsknet.org/)
 
 ### 🖥️ [Soundloaders](https://www.soundloaders.com/)
