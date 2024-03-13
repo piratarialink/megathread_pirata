@@ -22,11 +22,11 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 - [Um Guia Simples Para Um Ratio Melhor](guias/ratio-melhor) - Guia feito por [u/Wandrey](https://lemmy.eco.br/u/wandrey)
 
-- [Guia do Streaming Doméstico Automatizado (Sonarr, Radarr e Plex)](https://www.reddit.com/r/pirataria/s/xzkgWdj1E1) - Guia feito por [u/lolado06](https://www.reddit.com/user/lolado06/)
+- [Guia do Streaming Doméstico Automatizado (Sonarr, Radarr e Plex)](https://www.reddit.com/r/pirataria/s/xzkgWdj1E1) - Guia feito por [u/Lolado06](https://www.reddit.com/user/lolado06/)
 
-- [Guia de como ativar Windows 10](https://www.reddit.com/r/pirataria/s/eaNUQ4V21B) - Guia feito por [u/ozamatheus](https://www.reddit.com/u/Ozamatheus/s/dmrdBnmFz2)
+- [Guia de como ativar Windows 10](https://www.reddit.com/r/pirataria/s/eaNUQ4V21B) - Guia feito por [u/Ozamatheus](https://www.reddit.com/u/Ozamatheus/s/dmrdBnmFz2)
 
-- [Guia de como instalar apps de terceiro e YouTube Mod na LG TV - WebOS](https://www.reddit.com/r/pirataria/s/RuZk6MrzMa) - Guia feito por [u/fundirect1128](https://www.reddit.com/u/FunDirect1128/s/oGbRRue7ak)
+- [Guia de como instalar apps de terceiro e YouTube Mod na LG TV - WebOS](https://www.reddit.com/r/pirataria/s/RuZk6MrzMa) - Guia feito por [u/FunDirect1128](https://www.reddit.com/u/FunDirect1128/s/oGbRRue7ak)
 
 - [Guia de Jellyfin, família Arr em Docker Compose](https://www.reddit.com/r/pirataria/s/xzkgWdj1E1) - Guia feito por [u/PedroBt_](https://www.reddit.com/u/PedroBt_/s/rSGbIvs3xw)
 
