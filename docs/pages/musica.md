@@ -134,7 +134,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🐐 [Soulseek](https://www.slsknet.org/news/)
 
-- Músicas difíceis de localizar podem ser encontradas através deste cliente de compartilhamento de música, que conecta você a uma rede P2p. [Cliente Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) 
+- Músicas difíceis de localizar podem ser encontradas através deste cliente de compartilhamento de música, que conecta você a uma rede P2p. [Cliente Android 1](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) [cliente Android 2](https://github.com/jackBonadies/SeekerAndroid)
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/slsknet.org/)
 
 ### 🖥️ [Soundloaders](https://www.soundloaders.com/)
