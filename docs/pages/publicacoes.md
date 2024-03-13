@@ -33,3 +33,5 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 - [Guia: Como baixar jogos usando 1337x e TorrentGalaxy](https://phtn.app/post/lemmy.dbzer0.com/2903152) - Guia feito por [u/Heus-Sueh](https://phtn.app/u/Heus_Sueh@lemmy.dbzer0.com)
 
 - [Guia: Como baixar jogos piratas de forma segura](guias/jogos-piratas) - Guia feito pela comunidade.
+
+- [Guia: Informações sobre funcionalidades e segurança de Launchers Minecraft](https://www.reddit.com/r/pirataria/s/Uig8dZ3aKa) - Guia por feito por [M1chelon](https://www.reddit.com/u/M1chelon/s/peQmTKM3UE) 
