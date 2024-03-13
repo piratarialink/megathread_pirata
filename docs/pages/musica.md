@@ -20,7 +20,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Uma coleção impressionante e confiável de temas de OPs e EDs de anime com links diretos para conteúdo para download de alta qualidade.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animethemes.moe/)
 
-### 🔗 [DoubleDouble](https://doubledouble.top/)
+### 🐐 [DoubleDouble](https://doubledouble.top/)
 
 - Um contêiner para downloads gratuitos de música através do YouTube Music, Soundcloud, Qobuz, Spotify, Deezer e outros serviços.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doubledouble.top/)
@@ -29,11 +29,6 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - Uma seleção de músicas de videogame e algumas trilhas sonoras de anime que foi criada por voluntários para ser o mais acessível possível.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/archive.org/)
-
-### 🐐 [Free MP3 Download](https://free-mp3-download.net/)
-
-- Obtém músicas da Deezer para que você possa baixá-las na melhor qualidade possível, como FLAC e 320kbps genuínos, sem assinatura.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/free-mp3-download.net/)
 
 ### 🔗 [Hikari no Akari](https://hikarinoakari.com/)
 
@@ -139,7 +134,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🐐 [Soulseek](https://www.slsknet.org/news/)
 
-- Músicas difíceis de localizar podem ser encontradas através deste cliente de compartilhamento de música, que conecta você a uma rede P2P.
+- Músicas difíceis de localizar podem ser encontradas através deste cliente de compartilhamento de música, que conecta você a uma rede P2p. [Cliente Android 1](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) [cliente Android 2](https://github.com/jackBonadies/SeekerAndroid)
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/slsknet.org/)
 
 ### 🖥️ [Soundloaders](https://www.soundloaders.com/)
