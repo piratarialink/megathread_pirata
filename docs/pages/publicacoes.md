@@ -28,6 +28,8 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 - [Guia de como instalar apps de terceiro e YouTube Mod na LG TV - WebOS](https://www.reddit.com/r/pirataria/s/RuZk6MrzMa) - Guia feito por [u/fundirect1128](https://www.reddit.com/u/FunDirect1128/s/oGbRRue7ak)
 
+- [Guia de Jellyfin, família Arr em Docker Compose](https://www.reddit.com/r/pirataria/s/xzkgWdj1E1) - Guia feito por [u/PedroBt_](https://www.reddit.com/u/PedroBt_/s/rSGbIvs3xw)
+
 
 ## ► Livros
 
