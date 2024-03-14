@@ -20,8 +20,6 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [Locadora](https://locadora.cc/)
 
-### 🧲 [The Rebels](https://therebels.tv/)
-
 ### 🧲 [Toca Share](https://tocashare.com/register)
 
 ## 📑 ➜ Trackers Gringo
