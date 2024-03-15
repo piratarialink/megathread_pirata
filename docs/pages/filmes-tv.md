@@ -17,6 +17,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cwa6a2e.xn--p1ai/)
 
+### 🐐 [Fmovies](https://fmoviesz.to/home)
+
+- FMovies é o destino de streaming de filmes e séries online, oferecendo um vasto banco de dados, recomendações personalizadas, streaming de alta qualidade, compatibilidade de dispositivos e uma comunidade envolvente. Somente conteúdo legendado.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/fmoviesz.to/)
+
 ### ▶️ [Braflix](https://www.braflix.app/pt)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/braflix.app/)
