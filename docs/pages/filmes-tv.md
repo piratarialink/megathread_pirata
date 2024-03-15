@@ -24,7 +24,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [Sudo-Flix](https://fmoviesz.to/home)
 
-- sudo-flix é um fork do movie-web que permanece ativo mesmo após o encerramento do movie-web.app. sudo-flix.lol é executado em um VPS privado e auto-hospedado. Não há anúncios e contém uma grande variedade de filmes e séries. Somente legendado.
+- sudo-flix é um fork do movie-web que permanece ativo mesmo após o encerramento do movie-web.app. sudo-flix.lol é executado em um VPS privado e auto-hospedado. Não há anúncios e contém uma grande variedade de filmes e séries. Somente mídias legendadas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sudo-flix.lol/)
 
 ### ▶️ [Braflix](https://www.braflix.app/pt)
