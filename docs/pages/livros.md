@@ -224,6 +224,42 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Liberação acústica de obras de domínio público, permitindo download e audição
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/librivox.org/)
 
+### ▶️ [Digitalbook](https://www.digitalbook.io/)
+
+- Narração digital do século XXI, disponível para download direto ou streaming.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/digitalbook.io/)
+
+### ▶️ [LearnOutLoud](https://www.learnoutloud.com/)
+
+- Local central para aprendizado de vídeo e áudio com mais de 50.000 títulos instrucionais.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/learnoutloud.com/)
+
+### ▶️ [Storynory](https://www.storynory.com/)
+
+- Histórias de áudio feitas para crianças. Relaxe e deixe a imaginação dos seus filhos vagar por reinos fantásticos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/storynory.com/)
+
+## 📑 7 ➜ Torrents
+
+### 🧲 [Academic Torrents](https://academictorrents.com/)
+
+- Enormes conjuntos de dados compartilhados por meio de um sistema distribuído, dando aos pesquisadores acesso a um repositório de dados escalável, seguro e tolerante a falhas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/academictorrents.com/)
+
+### 🐐 [AudioBook Bay](https://audiobookbay.li/) / [2](https://audiobookbay.se/) • Necessário Cadastrar-se
+
+- Excelente coleção de audiolivros e compartilha muito conteúdo com o MyAnonamouse.
+- Para baixar sem uma conta, copie o hash de informações e cole-o no seu cliente de torrent. Exemplo: `magnet:?xt=urn:btih:INFOHASH`
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/audiobookbay.li/)
+
+### 🧲 [MyAnonamouse](https://www.myanonamouse.net/) • Necessário Cadastrar-se
+
+- Ótimo rastreador privado para e-books, audiolivros, desde as mais recentes publicações de grande sucesso até aquelas joias indescritíveis.
+- Para obter um convite, [veja esta página](https://www.myanonamouse.net/inviteapp.php) para mais detalhes.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/myanonamouse.net/)
+
+## 📑 8 ➜ Audio Livros Sites
+
 ### ▶️ [AppAudioBooks](https://appaudiobooks.com/)
 
 - Design fácil de usar que facilita a localização do audiolivro que você deseja ouvir.
@@ -264,11 +300,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Ouça os melhores audiolivros de uma grande coleção de opções.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bigaudiobooks.com/)
 
-### ▶️ [Digitalbook](https://www.digitalbook.io/)
-
-- Narração digital do século XXI, disponível para download direto ou streaming.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/digitalbook.io/)
-
 ### ▶️ [Free Classic AudioBooks](https://www.freeclassicaudiobooks.com/)
 
 - Um site onde você pode baixar e ouvir e-books e audiolivros de domínio público.
@@ -294,36 +325,10 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Você pode desfrutar de todos os seus audiolivros favoritos gratuitamente online. Basta clicar para ouvir!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hotaudiobooks.com/)
 
-### ▶️ [LearnOutLoud](https://www.learnoutloud.com/)
+### 🔗 [tokybook](https://tokybook.com/)
 
-- Local central para aprendizado de vídeo e áudio com mais de 50.000 títulos instrucionais.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/learnoutloud.com/)
 
-### ▶️ [Storynory](https://www.storynory.com/)
-
-- Histórias de áudio feitas para crianças. Relaxe e deixe a imaginação dos seus filhos vagar por reinos fantásticos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/storynory.com/)
-
-## 📑 7 ➜ Torrents
-
-### 🧲 [Academic Torrents](https://academictorrents.com/)
-
-- Enormes conjuntos de dados compartilhados por meio de um sistema distribuído, dando aos pesquisadores acesso a um repositório de dados escalável, seguro e tolerante a falhas.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/academictorrents.com/)
-
-### 🐐 [AudioBook Bay](https://audiobookbay.li/) / [2](https://audiobookbay.se/) • Necessário Cadastrar-se
-
-- Excelente coleção de audiolivros e compartilha muito conteúdo com o MyAnonamouse.
-- Para baixar sem uma conta, copie o hash de informações e cole-o no seu cliente de torrent. Exemplo: `magnet:?xt=urn:btih:INFOHASH`
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/audiobookbay.li/)
-
-### 🧲 [MyAnonamouse](https://www.myanonamouse.net/) • Necessário Cadastrar-se
-
-- Ótimo rastreador privado para e-books, audiolivros, desde as mais recentes publicações de grande sucesso até aquelas joias indescritíveis.
-- Para obter um convite, [veja esta página](https://www.myanonamouse.net/inviteapp.php) para mais detalhes.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/myanonamouse.net/)
-
-## 📑 8 ➜ Grupos/Canais no Telegram
+## 📑 9 ➜ Grupos/Canais no Telegram
 
 ### 🔗 [Sala de Leitura](https://t.me/saladeleitura)
 
