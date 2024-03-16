@@ -17,11 +17,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cwa6a2e.xn--p1ai/)
 
-### 🐐 [Fmovies](https://fmoviesz.to/home) 
+### 🐐 [Fmovies](https://fmoviesz.to/home) - Apenas Legendado
 - FMovies é o destino de streaming de filmes e séries online, oferecendo um vasto banco de dados, recomendações personalizadas, streaming de alta qualidade, compatibilidade de dispositivos e uma comunidade envolvente. Somente conteúdo legendado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fmoviesz.to/)
 
-### ▶️ [Sudo-Flix](https://sudo-flix.lol/)
+### ▶️ [Sudo-Flix](https://sudo-flix.lol/) - Apenas Legendado
 
 - sudo-flix é um fork do movie-web que permanece ativo mesmo após o encerramento do movie-web.app. sudo-flix.lol é executado em um VPS privado e auto-hospedado. Não há anúncios e contém uma grande variedade de filmes e séries. Somente mídias legendadas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sudo-flix.lol/)
