@@ -58,6 +58,9 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 ### 🧲 [IPTorrents](https://iptorrents.com/signup.php) | IPT | $20
 - Necessário pagar.
 
+### 🧲 [JPopsuki ](https://jpopsuki.eu/) | JPOP
+- Não há recrutamento no momento.
+
 ### 🧲 [Milkie](https://milkie.cc/)
 
 ### 🧲 [MyAnonaMouse](https://myanonamouse.net) | MAM | [Entrevista](https://www.myanonamouse.net/inviteapp.php)
@@ -79,3 +82,4 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 ### 🧲 [TheGeeks](https://thegeeks.click/) | TGBZ
 
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
+
