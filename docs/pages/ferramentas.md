@@ -276,5 +276,6 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
 - [Open Cloud Saves](https://opencloudsaves.com/) - Open Cloud Save é um aplicativo gratuito que permitirá sincronizar seus dados salvos em todos os seus dispositivos. Roda em Windows, MacOS e Linux.
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
+- [doc downloader](https://docdownloader.com/) - Downloader de Scribd, Issuu, Slideshare.
 
 Mais ferramentas no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=29)
