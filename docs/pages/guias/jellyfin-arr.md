@@ -262,6 +262,10 @@ Para descobrir seu IP privado no Linux basta rodar o comando: `$ hostname -I`, e
 
 Espero que tenham gostado, se eu tiver errado alguma coisa(provavelmente identação), por favor me avisem nas respostas, eu não sou um especialista, eu faço isso só por causa que eu gosto, então me perdoem caso eu faça algum erro.
 
+---
+
+All credits go to the respective creators.
+
 Extracted from: https://old.reddit.com/r/pirataria/comments/1bclktc/guia_jellyfin_e_familia_arr_docker_compose/
 
 Video backup: https://odysee.com/mAHGh2hBFdY:eb1d0f15f287d30b9969d5b151599bceea54b145
