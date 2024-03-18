@@ -11,3 +11,5 @@ Guias úteis para ajudá-lo em suas viagens marítimas.
 ### [Um Guia Simples Para Um Ratio Melhor](guias/ratio-melhor)
 
 ### [Como verificar um arquivo no Virus Total corretamente](guias/virustotal)
+
+### [Jellyfin e familia Arr - Docker Compose](guias/jellyfin-arr)
