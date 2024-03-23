@@ -188,6 +188,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Os usuários editaram meticulosamente e selecionaram legendas em vários idiomas. Qualquer pessoa pode postar e compartilhar suas próprias legendas com outras pessoas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/subscene.com/)
 
+## 📑 4 ➜ Grupos/Canais no Telegram 
+
+[Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)
+
 ## Está buscando apps para assistir/baixar **Filmes e Séries** no Celular?
 
 ➜ Confira nossa Megathread sobre 📱 [Mobile](mobile#filmes-e-tv)
