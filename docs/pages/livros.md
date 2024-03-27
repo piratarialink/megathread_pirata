@@ -10,10 +10,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ## 📑 1 ➜ Downloads diretos
 
-### 🐐 [Bibliomar](https://bibliomar.com/search)
-
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bibliomar.com/)
-
 ### 🔗 [101 Livros](https://101livros.com/)
 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/101livros.com/)
@@ -88,10 +84,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/singlelogin.re/)
 
 ## 📑 2 ➜ Leitura no navegador
-
-### 🐐 [Bibliomar](https://bibliomar.com/reader)
-
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bibliomar.com/)
 
 ### 📒 [Livros Online Grátis](https://livrosonlinegratis.com.br/)
 
