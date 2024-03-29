@@ -12,12 +12,8 @@ var options = {
 export default {
   head: [
     [
-      'script',
-      {defer: '', src: 'https://static.cloudflareinsights.com/beacon.min.js', 'data-cf-beacon': '{"token": "6980f7cafe844b1d96528597f72fe3ad"}'}
-    ],
-    [
-      'script',
-      {defer: '', src: 'https://umami.cyanoptera.org/script.js', 'data-website-id': '3dd72bfe-f84a-4263-8ee3-06ca85ce70b5'}
+      'script defer',
+      {src: 'https://umami.cyanoptera.org/script.js', 'data-website-id': '3dd72bfe-f84a-4263-8ee3-06ca85ce70b5'}
     ],
   ],
   vite: {
