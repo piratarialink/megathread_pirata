@@ -186,6 +186,7 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 ## ► Ferramentas de download on-line
 
 - [Cobalt](https://cobalt.tools/) - Baixe vídeos/áudios do youtube, tiktok, reddit, twitter e mais.
+- [Vidall.mobi](https://vidall.mobi/) - Baixe vídeos/áudios do youtube, tiktok, reddit, twitter e mais.
 - [y2mate.com](https://www.y2mate.com/) - Baixe o vídeo/áudio do youtube. (Não funciona mais nos EUA)
 - [9xbuddy.com](https://9xbuddy.com/) - Youtube / site de download de vários sites
 - [sasrip.cf](https://sasrip.cf/) - Downloader de vídeo / mp3
