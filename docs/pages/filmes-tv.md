@@ -3,111 +3,113 @@
 Filmes e TV são obras de arte visual que empregam imagens em movimento para imitar experiências, percepções, sentimentos e beleza.
 
 :::danger ⚠️ Lembrete rápido
-
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
 - 🐐 = Altamente recomendado pela comunidade pirata.
-  :::
+:::
 
-## 📑 1 ➜ Streaming e Arquivos
-
-### | **_Filmes e Séries Dublados_** |
+## ▶️ Filmes e Séries Dublados
 
 ### 🐐 [Rede Canais](https://xn--90afacaz8cwa6a2e.xn--p1ai/)
 
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cwa6a2e.xn--p1ai/)
 
-### ▶️ [Braflix](https://www.braflix.app/pt)
+### [Braflix](https://www.braflix.app/pt)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/braflix.app/)
 
-### ▶️ [Mega Filmes HD](https://www.megafilmeshds.net/)
+### [Mega Filmes HD](https://www.megafilmeshds.net/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megafilmeshds.net/)
 
-### ▶️ [Encontrei.tv](https://encontre.tv/)
+### [Encontrei.tv](https://encontre.tv/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
 
-### ▶️ [Megaflix](https://megaflix.co/)
+### [Megaflix](https://megaflix.co/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megaflix.co/)
 
-### ▶️ [Vizer](https://vizer.tv/)
+### [Vizer](https://vizer.tv/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vizer.tv/)
 
-### ▶️ [Topflix](https://topflix.tv/)
+### [Topflix](https://topflix.tv/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/topflix.tv/)
 
-### ▶️ [Netcine](https://netcine2.la/)
+### [Netcine](https://netcine2.la/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcine2.la/)
 
-### ▶️ [Doramogo](https://doramogo.com/)
+### [Doramogo](https://doramogo.com/)
 
 - Ótimo site com Doramas legendados em PT-BR
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/doramogo.com/)
 
-### 🔗 [Baixar Series MP4](https://baixarseriesmp4.pm/)
+### [Baixar Series MP4](https://baixarseriesmp4.pm/)
 
 - Um fantástico recurso de fórum com links de filmes em qualidade BDRip, Web-DL e Webrip. Uma interface do usuário simples que não requer registro para usuários.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/baixarseriesmp4.pm/)
 
-### ▶️ [Warezcdn](https://warezcdn.com/index.php)
+### [Warezcdn](https://warezcdn.com/index.php)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/warezcdn.com/)
 
-### | **_Filmes e Séries Legendados_** |
+## ▶️ Filmes e Séries Legendados
 
-### 🐐 [Fmovies](https://fmoviesz.to/home)
+### 🐐 [FMovies](https://fmoviesz.to/home)
 - FMovies é o destino de streaming de filmes e séries online, oferecendo um vasto banco de dados, recomendações personalizadas, streaming de alta qualidade, compatibilidade de dispositivos e uma comunidade envolvente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fmoviesz.to/)
 
-### ▶️ [Sudo-Flix](https://sudo-flix.lol/)
+### [Sudo-Flix](https://sudo-flix.lol/)
 
 - sudo-flix é um fork do movie-web que permanece ativo mesmo após o encerramento do movie-web.app. sudo-flix.lol é executado em um VPS privado e auto-hospedado. Não há anúncios e contém uma grande variedade de filmes e séries.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sudo-flix.lol/)
 
-### | **_TV_** |
+### [KissAsian](https://kissasian.lu/) 
+
+- KissAsian é um site de streamings de doramas legendados que funciona desde 2015. Recomendamos o bloqueador de anúncios ativado por conta dos anúncios terceiros no player de vídeo. 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kissasian.lu/)
+
+## 📺️ TV
 
 ### 🐐 [Rede Canais TV](https://xn--90afacaz8cml9ac9f.xn--p1ai/)
 
 - Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
 
-### 📺️ [TV0800](https://tv0800.com/)
+### [TV0800](https://tv0800.com/)
 
-- Oferece Canais ao vivo
+- Oferece Canais ao vivo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.com/)
 
-### 📺️ [CXTV](https://www.cxtv.com.br/)
+### [CXTV](https://www.cxtv.com.br/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cxtv.com.br/)
 
-### 📺️ [Olhos na TV](https://www.olhosnatv.com.br/)
+### [Olhos na TV](https://www.olhosnatv.com.br/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/olhosnatv.com.br/)
 
-### 📺️ [MegaCanais](https://megacanais.com/)
+### [MegaCanais](https://megacanais.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megacanais.com/)
 
-### 📺️ [Pluto TV](https://pluto.tv/)
+### [Pluto TV](https://pluto.tv/)
 
 - Serviço gratuito de Streaming de televisão da Paramount.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pluto.tv/)
 
-## 🧲 2 ➜ Torrents
-
-### [Rede Torrent](https://redetorrent.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
+## 🧲 Torrents
 
 ### 🐐 [Comando.la](https://comando.la/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comando.la/)
+
+### [Rede Torrent](https://redetorrent.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
 
 ### [Filmes via Torrent.site](https://filmesviatorrents.site/)
 
@@ -133,64 +135,60 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vamostorrent.com/)
 
-### [BaixarFilmesTorrentHD](https://www.baixarfilmestorrenthd.com/)
+### [Limon Torrents](https://limontorrents.com/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/baixarfilmestorrenthd.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/limontorrents.com)
 
-### [O Filme Torrent](https://ofilmetorrent.com/)
+## 🖊️ 3 Legendas
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ofilmetorrent.com/)
-
-## 📑 3 ➜ Legendas
-
-### 🖊️ [OpenSubtitles](https://www.opensubtitles.com) / [2](https://www.opensubtitles.org)
+### [OpenSubtitles](https://www.opensubtitles.com) / [2](https://www.opensubtitles.org)
 
 - Vasto banco de dados com 2,6 bilhões de palavras em 60 idiomas que serve praticamente todos os filmes ou programas de TV que você possa imaginar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/opensubtitles.com/)
 
-### 🖊️ [Legendei](https://legendei.top/)
+### [Legendei](https://legendei.top/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/legendei.top/)
 
-### 🖊️ [Legendei.TV](https://legendei.tv/)
+### [Legendei.TV](https://legendei.tv/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/legendei.tv/)
 
-### 🖊️ [Legendas.co](https://legendas.co/)
+### [Legendas.co](https://legendas.co/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/legendas.co/)
 
-### 🖊️ [Legendas.net](https://legendas.net/)
+### [Legendas.net](https://legendas.net/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/legendas.net/)
 
-### 🖊️ [Legendasdivx.pt](https://www.legendasdivx.pt/forum/ucp.php?mode=register)
+### [Legendasdivx.pt](https://www.legendasdivx.pt/forum/ucp.php?mode=register)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/legendasdivx.pt/)
 
-### 🖊️ [Addic7ed](https://www.addic7ed.com/)
+### [Addic7ed](https://www.addic7ed.com/)
 
 - Um banco de dados de legendas para filmes e programas de TV com traduções online colaborativas da base de usuários para 18 idiomas diferentes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/addic7ed.com/)
 
-### 🖊️ [Podnapisi](https://www.podnapisi.net/)
+### [Podnapisi](https://www.podnapisi.net/)
 
 - Um fantástico recurso de legendas com uma grande comunidade de colaboradores dedicados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/podnapisi.net/)
 
-### 🖊️ [SubHD](https://subhd.tv/) • IU chinesa
+### [SubHD](https://subhd.tv/) • IU chinesa
 
 - A maior coleção com foco em legendas em chinês, e às vezes inclui a opção de uma combinação dupla com o inglês.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/subhd.tv/)
 
-### 🖊️ [Subscene](https://subscene.com/)
+### [Subscene](https://subscene.com/)
 
 - Os usuários editaram meticulosamente e selecionaram legendas em vários idiomas. Qualquer pessoa pode postar e compartilhar suas próprias legendas com outras pessoas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/subscene.com/)
 
-## 📑 4 ➜ Grupos/Canais no Telegram 
+## 📑 Grupos/Canais no Telegram 
 
-[Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)
+### [Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)
 
 ## Está buscando apps para assistir/baixar **Filmes e Séries** no Celular?
 
