@@ -139,7 +139,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/limontorrents.com)
 
-## 🖊️ 3 Legendas
+## 🖊️ Legendas
 
 ### [OpenSubtitles](https://www.opensubtitles.com) / [2](https://www.opensubtitles.org)
 
