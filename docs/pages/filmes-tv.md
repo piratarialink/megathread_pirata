@@ -70,11 +70,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - sudo-flix é um fork do movie-web que permanece ativo mesmo após o encerramento do movie-web.app. sudo-flix.lol é executado em um VPS privado e auto-hospedado. Não há anúncios e contém uma grande variedade de filmes e séries.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sudo-flix.lol/)
 
-### ▶️ [KissAsian](https://kissasian.lu/) 
-
-- KissAsian é um site de streamings de doramas legendados que funciona desde 2015. Recomendamos o bloqueador de anúncios ativado por conta dos anúncios terceiros no player de vídeo. 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kissasian.lu/)
-
 ### | **_TV_** |
 
 ### 🐐 [Rede Canais TV](https://xn--90afacaz8cml9ac9f.xn--p1ai/)
@@ -106,7 +101,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🧲 2 ➜ Torrents
 
-### 🧲 [Rede Torrent](https://redetorrent.com/)
+### [Rede Torrent](https://redetorrent.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
 
@@ -114,41 +109,37 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comando.la/)
 
-### 🧲 [Filmes via Torrent.site](https://filmesviatorrents.site/)
+### [Filmes via Torrent.site](https://filmesviatorrents.site/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/filmesviatorrents.site/)
 
-### 🧲 [ComandoFilmesHD.org](https://comandofilmeshd.org/)
+### [ComandoFilmesHD.org](https://comandofilmeshd.org/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.org/)
 
-### 🧲 [Nick Filmes](https://nickfilmes.net/)
+### [Nick Filmes](https://nickfilmes.net/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nickfilmes.net/)
 
-### 🧲 [Comando Filmes](https://comandofilmes.xyz/)
+### [Comando Filmes](https://comandofilmes.xyz/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmes.xyz/)
 
-### 🧲 [Torrent dos Filmes](https://torrentdofilmes.com/)
+### [Torrent dos Filmes](https://torrentdofilmes.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdofilmes.com/)
 
-### 🧲 [Vamos Torrent](https://vamostorrent.com/)
+### [Vamos Torrent](https://vamostorrent.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vamostorrent.com/)
 
-### 🧲 [BaixarFilmesTorrentHD](https://www.baixarfilmestorrenthd.com/)
+### [BaixarFilmesTorrentHD](https://www.baixarfilmestorrenthd.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/baixarfilmestorrenthd.com/)
 
-### 🧲 [O Filme Torrent](https://ofilmetorrent.com/)
+### [O Filme Torrent](https://ofilmetorrent.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ofilmetorrent.com/)
-
-### 🧲 [Limon Torrents](https://limontorrents.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/limontorrents.com)
 
 ## 📑 3 ➜ Legendas
 
@@ -199,7 +190,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 📑 4 ➜ Grupos/Canais no Telegram 
 
-- [Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)
+[Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)
 
 ## Está buscando apps para assistir/baixar **Filmes e Séries** no Celular?
 
