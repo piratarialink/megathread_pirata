@@ -1,13 +1,8 @@
 {
-  "name": "vitepress",
-  "version": "1.0.2",
-  "description": "Megathread feita com Vitepress",
-  "main": "index.ts",
-  "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
     "minisearch": "^6.3.0",
