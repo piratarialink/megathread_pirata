@@ -1,7 +1,7 @@
 {
-  "name": "test",
-  "version": "1.0.0",
-  "description": "Megathread Pirata feita com Vitepress",
+  "name": "vitepress",
+  "version": "1.0.2",
+  "description": "Megathread feita com Vitepress",
   "main": "index.ts",
   "type": "module",
   "scripts": {
@@ -9,13 +9,10 @@
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "minisearch": "^6.3.0",
-    "vitepress": "^1.0.0-rc.34",
-    "vue": "^3.4.3"
+    "vitepress": "^1.0.2",
+    "vue": "^3.4.21"
   },
   "devDependencies": {
     "flexsearch": "^0.7.43",
