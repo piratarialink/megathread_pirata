@@ -344,6 +344,10 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ### 🔗 [Livros de TI](https://t.me/booksti)
 
+### 🔗 [Livros de Matemática](https://t.me/LivrosLMat)
+
+### 🔗 [Leitura de Cordel](https://t.me/+sOmQRO0n7lMwYzhh)
+
 ### 🔗 [Universo dos livros](https://t.me/universo_dos_livros)
 
 ### 🔗 [AudioBookGram](https://t.me/audiobookgram)
