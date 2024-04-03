@@ -14,9 +14,9 @@ Este repositório contém os arquivos Markdown das nossas Megathreads. Cada arqu
 - Informações gerais sobre o tópico da Megathread.
 - Links para recursos relevantes.
 
-## Colaboração
+## Contribuição
 
-Nossa comunidade é bem-vinda para colaborar na manutenção e atualização das Megathreads. Se você deseja contribuir, siga os seguintes passos:
+Nossa comunidade é bem-vinda para contribuir na manutenção e atualização das Megathreads. Se você deseja contribuir, siga os seguintes passos:
 
 1. Faça um fork deste repositório para o seu perfil GitHub.
 2. Crie uma nova branch para suas alterações.
