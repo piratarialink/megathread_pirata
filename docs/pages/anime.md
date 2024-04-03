@@ -89,10 +89,6 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 ## 📑 2 ➜ Downloads diretos
 
-### 🐐 [Saikô Animes](https://saikoanimes.net/)
-
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/saikoanimes.net/)
-
 ### 🔗 [Anime Tosho](https://animetosho.org/)
 
 - Serviço gratuito e totalmente automatizado que espelha a maioria dos torrents Nyaa e Tokyo Toshokan em vários provedores de hospedagem de arquivos de download direto.
