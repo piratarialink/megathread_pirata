@@ -71,10 +71,6 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 ➜ Altamente recomendado o uso de bloqueadores de anúncios nos sites abaixo:
 :::
 
-### ▶️ [Animes Órion](https://animesorion.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/animesorion.com/)
-
 ### ▶️ [Anitube](https://www.anitube.vip/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/anitube.vip/)
@@ -83,9 +79,6 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/anroll.net/)
 
-### ▶️ [Meu Anime](https://meuanime.io/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/meuanime.io/)
 
 ## 📑 2 ➜ Downloads diretos
 
