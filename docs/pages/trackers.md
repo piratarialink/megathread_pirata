@@ -20,7 +20,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [Locadora](https://locadora.cc/)
 
-### 🧲 [Toca Share](https://tocashare.com/register) | TS
+### 🧲 [Toca Share](https://tocashare.biz/register) | TS
 
 ## 📑 ➜ Trackers Gringo
 
