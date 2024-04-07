@@ -98,7 +98,7 @@ Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que c
 O uBlock Origin é uma extensão de navegador popular projetada para bloquear anúncios, rastreadores e outros elementos indesejados em páginas da web. Ele funciona filtrando o conteúdo da página em tempo real, impedindo que anúncios sejam carregados, o que resulta em uma experiência de navegação mais rápida e limpa. Além de bloquear anúncios, o uBlock Origin também oferece opções avançadas de filtragem, permitindo que os usuários personalizem suas configurações conforme necessário. Esta extensão é conhecida por sua eficácia, baixo consumo de recursos e pela capacidade de proteger a privacidade dos usuários, bloqueando rastreadores e scripts maliciosos.
 
 :::info
-Adicionar a lista [oisd.nl](oisd.nl) como lista adicional.
+Adicionar a lista [oisd.nl](https://oisd.nl) como lista adicional.
 ::: 
 
 ### [Pi-hole](https://pi-hole.net/)
@@ -106,7 +106,7 @@ Adicionar a lista [oisd.nl](oisd.nl) como lista adicional.
 O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo baseada em rede, geralmente implementada em um Raspberry Pi ou em um servidor local. Funciona como um servidor DNS que intercepta solicitações de DNS feitas por dispositivos na rede e bloqueia solicitações para servidores de anúncios e domínios de conteúdo indesejado. Isso melhora a velocidade de navegação, reduz o consumo de largura de banda e aumenta a privacidade, já que muitos rastreadores e anúncios são bloqueados antes de serem carregados. O Pi-hole também fornece estatísticas detalhadas sobre o tráfego de rede e os domínios bloqueados, permitindo um controle mais preciso sobre o fluxo de dados na rede local.
 
 :::info 
-Utilizar somente a lista do [oisd.nl](oisd.nl).
+Utilizar somente a lista do [oisd.nl](https://oisd.nl).
 ::: 
 
 :::warning 
