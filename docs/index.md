@@ -35,5 +35,5 @@ features:
       light: /lemmy-logo.svg
     title: Comunidade no Lemmy
     details: O Lemmy é uma plataforma de rede social descentralizada, inspirada no Reddit, que faz parte do ecossistema do Fediverso.
-    link: "https://phtn.app/c/pirataria@lemmy.dbzer0.com"
+    link: "https://lemmy.dbzer0.com/c/pirataria"
 ---
