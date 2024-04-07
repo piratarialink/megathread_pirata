@@ -1,5 +1,6 @@
 import { defineConfig } from "vitepress";
 import { SearchPlugin } from "vitepress-plugin-search";
+import { OramaPlugin } from '@orama/plugin-vitepress';
 
 var options = {
   previewLength: 62,
@@ -17,7 +18,7 @@ export default {
     ],
   ],
   vite: {
-    plugins: [SearchPlugin(options)],
+    plugins: [OramaPlugin()],
   },
   lang: "pt-BR",
   title: "Pirataria",
@@ -105,6 +106,7 @@ export default {
           { text: "🪶 Glossário", link: "pages/util/glossario" },
           { text: "🪶 Publicações úteis", link: "pages/publicacoes" },
           { text: "🪶 Guias", link: "pages/guias" },
+          {}
         ],
       },
     ],

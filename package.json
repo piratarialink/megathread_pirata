@@ -10,6 +10,7 @@
     "vue": "^3.4.21"
   },
   "devDependencies": {
+    "@orama/plugin-vitepress": "^2.0.13",
     "flexsearch": "^0.7.43",
     "vitepress-plugin-search": "^1.0.4-alpha.22"
   }
