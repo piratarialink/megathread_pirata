@@ -1,6 +1,6 @@
 <h1 align="center">Megathread Pirata</h1>
 <div align="center">
-    <a href="https://p.lemmy.dbzer0.com/"><img alt="Lemmy" src="https://img.shields.io/lemmy/pirataria%40lemmy.dbzer0.com"></a>
+    <a href="https://lemmy.dbzer0.com/c/pirataria"><img alt="Lemmy" src="https://img.shields.io/lemmy/pirataria%40lemmy.dbzer0.com"></a>
 </div>
 
 # O que são as Megathreads?
@@ -42,4 +42,4 @@ A Megathread atualmente roda no [Vitepress](https://vitepress.dev/) com o tema [
 
 ## Licença
 
-Este projeto é licenciado sob a WTFPL (Do What The Fuck You Want To Public License). Veja o arquivo [LICENSE](https://github.com/c-pirataria/megathread/blob/main/LICENSE) para mais detalhes.
+Este projeto é licenciado sob a WTFPL (Do What The Fuck You Want To Public License). Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
