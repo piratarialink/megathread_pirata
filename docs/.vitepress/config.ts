@@ -106,7 +106,7 @@ export default {
           { text: "🪶 Glossário", link: "pages/util/glossario" },
           { text: "🪶 Publicações úteis", link: "pages/publicacoes" },
           { text: "🪶 Guias", link: "pages/guias" },
-          {}
+          { text: "🪶 Privacidade", link: "pages/privacidade" }
         ],
       },
     ],
