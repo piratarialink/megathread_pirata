@@ -303,11 +303,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Gama mais abrangente de ROMs excelentes disponíveis para download gratuito.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhustler.org/)
 
-### 🔗 [Roms Lover](https://romslover.com/)
-
-- Seleção decente de roms de clássicos antigos da Nintendo.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/romslover.com/)
-
 ### 🔗 [Romspedia](https://www.romspedia.com/)
 
 - Enciclopédia para ROMs e ISOs, onde você pode baixar vários jogos.
@@ -328,10 +323,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Dedicado a boas lembranças de vários dos melhores sistemas e milhares de jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
-### 🔗 [Ziperto](https://www.ziperto.com/)
-
-- ROMs gratuitas para PlayStation Vitas, 3DS, Switch e Wii U.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ziperto.com/)
 
 ## Está buscando Jogos de Computador?
 
