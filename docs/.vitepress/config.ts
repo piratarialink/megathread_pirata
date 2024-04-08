@@ -133,8 +133,8 @@ export default {
       text: "Edite essa página no GitHub",
     },
     docFooter: {
-      prev: true,
-      next: true,
+      prev: false,
+      next: false,
     },
     footer: {
       message: "Made in Brazil by c/Pirataria",
