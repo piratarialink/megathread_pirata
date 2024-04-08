@@ -1,5 +1,3 @@
-import { defineConfig } from "vitepress";
-import { SearchPlugin } from "vitepress-plugin-search";
 import { OramaPlugin } from '@orama/plugin-vitepress';
 
 var options = {
@@ -11,7 +9,6 @@ var options = {
 };
 
 export default {
-  build: { chunkSizeWarningLimit: 1600, },
   head: [
     [
       'script defer',
@@ -20,6 +17,18 @@ export default {
   ],
   vite: {
     plugins: [OramaPlugin()],
+  },
+  build: {
+    chunkSizeWarningLimit: 1600,
+    rollupOptions: {
+        output:{
+            manualChunks(id) {
+                if (id.includes('node_modules')) {
+                    return id.toString().split('node_modules/')[1].split('/')[0].toString();
+                }
+            }
+        }
+    }
   },
   lang: "pt-BR",
   title: "Pirataria",
