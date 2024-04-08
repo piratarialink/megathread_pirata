@@ -63,6 +63,11 @@ Disponível para Android, Windows e Linux.
 
 ![Cromite](docs\public\images\cromite.png)
 
+![Cromite](public\images\cromite.png)
+
+![Cromite](images\cromite.png)
+
+
 ## Gerenciador de Senhas
 
 ### [Bitwarden](https://bitwarden.com/)
