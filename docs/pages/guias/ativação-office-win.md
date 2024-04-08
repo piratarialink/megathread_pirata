@@ -20,6 +20,7 @@ Se você usa windows 7, precisa baixar o office [daqui](https://massgrave.dev/of
 ![](https://massgrave.dev/images/MAS_AIO.png)
 
 ![Por exemplo](https://massgrave.dev/images/MAS_HWID.png)
+
 Ao aparecer "... Is permanently activated...", é que foi concluído.
 
 Guia baseado no post de [Ok_Table7457](https://www.reddit.com/r/Piracy/comments/1814gmp/guide_how_to_pirate_microsoft_office_properly/)
