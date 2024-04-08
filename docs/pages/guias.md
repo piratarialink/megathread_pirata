@@ -10,6 +10,8 @@ Guias úteis para ajudá-lo em suas viagens marítimas.
 
 ### [Um Guia Simples Para Um Ratio Melhor](guias/ratio-melhor)
 
-### [Como verificar um arquivo no Virus Total corretamente](guias/virustotal)
+### [Como Verificar um Arquivo no Virus Total corretamente](guias/virustotal)
 
-### [Jellyfin e familia Arr - Docker Compose](guias/jellyfin-arr)
+### [Jellyfin e Familia Arr - Docker Compose](guias/jellyfin-arr)
+
+### [Guia de Download e Ativação do Windows e Office](guias/ativação-office-win)
