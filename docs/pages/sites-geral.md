@@ -20,11 +20,6 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - É possível pesquisar milhões de arquivos em servidores da Web usando este mecanismo de pesquisa de arquivos incrivelmente sofisticado.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/filepursuit.com/)
 
-### 🔗 [Freesoff](https://freesoff.com/)
-
-- Fórum generoso onde as pessoas podem solicitar e baixar software gratuito, temas premium do wordpress e outros recursos fantásticos.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/freesoff.com/)
-
 ### 🐐 [Internet Archive](https://archive.org/)
 
 - Milhões de livros gratuitos, filmes, músicas e muito mais estão disponíveis nesta biblioteca sem fins lucrativos.

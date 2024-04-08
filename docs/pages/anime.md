@@ -30,55 +30,6 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/animes.vision/)
 
-### ▶️ [Anime Fire](https://animefire.plus/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/animefire.plus/)
-
-### ▶️ [Meus Animes](https://meusanimesbr.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/meusanimesbr.com/)
-
-### ▶️ [Rine.Cloud](https://rine.cloud/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/rine.cloud/)
-
-### ▶️ [Animes King](https://www.animesking.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/animesking.com/)
-
-### ▶️ [AnimesQ](https://animeq.blog/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/animeq.blog/)
-
-### ▶️ [Go Animes](https://goanimes.net/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/goanimes.net/)
-
-### ▶️ [Animes Zone](https://animeszone.net/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/animeszone.net/)
-
-### ▶️ [Animes Online](https://www.animesonline.in/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/animesonline.in/)
-
-### ▶️ [Hianime](https://hianime.to/)
-- Antigo Aniwatch e Zoro, no seu terceiro rebranding. As legendas são externas no player precisando ajusta-lo como achar melhor.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hianime.to/)
-
----
-
-:::warning ⚠️ Aviso
-➜ Altamente recomendado o uso de bloqueadores de anúncios nos sites abaixo:
-:::
-
-### ▶️ [Anitube](https://www.anitube.vip/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/anitube.vip/)
-
-### ▶️ [AnimesROLL](https://www.anroll.net/home)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/anroll.net/)
-
 
 ## 📑 2 ➜ Downloads diretos
 
