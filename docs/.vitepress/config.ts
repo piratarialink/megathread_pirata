@@ -22,6 +22,12 @@ export default {
         rel: 'icon', type: 'image/x-icon', href: 'public/favicon.ico'
       }
     ],
+    [
+      'link', 
+      { 
+        rel: 'icon', href: 'public/favicon.ico'
+      }
+    ],
   ],
   vite: {
     plugins: [OramaPlugin()],
