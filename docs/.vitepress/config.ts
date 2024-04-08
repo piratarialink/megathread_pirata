@@ -33,7 +33,14 @@ export default {
     siteTitle: "Pirataria",
     // Navbar Link
     nav: [
-      { text: "Guias", link: "pages/guias" },
+      { 
+        text: "Guias", 
+        link: "pages/guias" 
+      },
+      {
+        text: "Privacidade",
+        link: "pages/privacidade",
+      },
       {
         text: "Sobre",
         link: "pages/sobre",
