@@ -87,6 +87,8 @@ Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que c
 - Mullvad Leta
 - Suporta Monero
 
+![Mullvad](/images/mullvad_vpn.png)
+
 ### [IVPN](https://www.ivpn.net/)
 
 - Ótima alternativa para a Mullvad VPN
@@ -113,6 +115,10 @@ O uBlock Origin é uma extensão de navegador popular projetada para bloquear an
 :::info
 Adicionar a lista [oisd.nl](https://oisd.nl) como lista adicional.
 ::: 
+
+![uBlock Add](/images/ublock_oisd_add.png)
+
+![uBlock Done](/images/ublock_oisd_done.png)
 
 ### [Pi-hole](https://pi-hole.net/)
 
@@ -149,6 +155,8 @@ Um sistema operacional mobile privado e seguro com compatibilidade de aplicativo
 
 - Suporta celulares antigos que não recebem mais atualizações de segurança
 - A linha da Motorola é a mais acessível no Brasil
+
+![LineageOS](/images/lineage_os.jpg)
 
 ## Provedor de Armazenamento em Nuvem
 
