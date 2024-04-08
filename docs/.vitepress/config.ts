@@ -28,7 +28,7 @@ export default {
   lastUpdated: true,
   externalLinkIcon: true,
   themeConfig: {
-    lastUpdatedText: 'Última atuallização',
+    lastUpdatedText: 'Última atualização em',
     logo: "/logo.svg",
     siteTitle: "Pirataria",
     // Navbar Link
@@ -109,6 +109,7 @@ export default {
         text: "📑 Recomendado",
         collapsible: true,
         items: [
+          { text: "🪶 Sobre", link: "pages/sobre" },
           { text: "🪶 Dicionário", link: "pages/util/dicionario" },
           { text: "🪶 Glossário", link: "pages/util/glossario" },
           { text: "🪶 Publicações úteis", link: "pages/publicacoes" },
@@ -123,8 +124,8 @@ export default {
       text: "Edite essa página no GitHub",
     },
     docFooter: {
-      prev: false,
-      next: false,
+      prev: true,
+      next: true,
     },
     footer: {
       message: "Made in Brazil by c/Pirataria",
