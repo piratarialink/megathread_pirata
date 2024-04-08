@@ -12,7 +12,15 @@ export default {
   head: [
     [
       'script defer',
-      {src: 'https://umami.cyanoptera.org/script.js', 'data-website-id': '3dd72bfe-f84a-4263-8ee3-06ca85ce70b5'}
+      {
+        src: 'https://umami.cyanoptera.org/script.js', 'data-website-id': '3dd72bfe-f84a-4263-8ee3-06ca85ce70b5'
+      }
+    ],
+    [
+      'link', 
+      { 
+        rel: 'icon', type: 'image/x-icon', href: 'public/favicon.ico'
+      }
     ],
   ],
   vite: {
