@@ -53,30 +53,10 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🐐 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode baixar os cursos fornecidos no próprio Telegram.
 
-### 🔗 [Course Drive](https://coursedrive.org)
-
-- Aulas em vídeo da Udemy, Lynda, Packetpub, Pluralsight e mais estão disponíveis para download gratuito.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/coursedrive.org/)
-
-### 🔗 [CourseDown](https://coursedown.com/)
-
-- Especializada em cursos gratuitos em diversas áreas da Udemy e Skillshare.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/coursedown.com/)
-
-### 🔗 [GigaCourse](https://gigacourse.com/)
-
-- Baixe os cursos premium de TI, marketing e programação da Udemy gratuitamente, juntamente com uma opção de torrent.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/gigacourse.com/)
-
 ### 🔗 [Online Courses](https://online-courses.club/)
 
 - Assista a vídeos sobre modelagem e animação 3D, incluindo muito material CG Persia.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/online-courses.club/)
-
-### 🔗 [Udemycourses](https://udemycourses.me/)
-
-- Um dos sites mais completos que oferece aulas online gratuitas da Udemy; não é o mais atualizado, mas os links ainda funcionam.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/udemycourses.me/)
 
 ### 🔗 [UDEMY 24](https://udemy24.com/)
 
@@ -103,15 +83,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 - Baixe gratuitamente os cursos pagos da Udemy para programação, TI etc. O céu é o limite e às vezes oferecem links de torrent.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/downloadfreecourse.com/)
 
-### 🔗 [TutsNode](https://tutsnode.net/)
-
-- Tutoriais educacionais gratuitos em software, design e acadêmicos, entre outros campos.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/tutsnode.net/)
-
-### 🔗 **[freesoff](https://freesoff.com/)** - Cursos
-
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/freesoff.com/)
-
 ### 🔗 **[TutFlix](https://tutflix.org/)** - Cursos / Drives
 
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/tutflix.org/)
@@ -119,10 +90,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### 🔗 **[OneHack](https://onehack.us/)** - Cursos
 
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/onehack.us/)
-
-### 🔗 **[HackNation](https://hacksnation.com/)** - Cursos
-
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/hacksnation.com/)
 
 ### 🔗 [coderprog](https://coderprog.com/)
 
