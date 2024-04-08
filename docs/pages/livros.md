@@ -18,10 +18,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixelivros.com.br/)
 
-### 🔗 [Livros Online Grátis](https://livrosonlinegratis.com.br/)
-
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/livrosonlinegratis.com.br/)
-
 ### 🔗 [Docero](https://docero.com.br/)
 
 - Apenas livros que não violam os direitos autorais estão disponível para download!
@@ -31,11 +27,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - Encontre quase 76 mil de livros e materiais de acesso livre em Português.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
-
-### 🔗 [Baixar Quadrinhos](https://baixarquadrinhos.net/)
-
-- Você pode baixar quadrinhos da DC, Marvel, Image, Dark Horse, Dynamite, IDW, Vertigo e muitos outros editores.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/baixarquadrinhos.net/)
 
 ### 🔗 [Datassette](https://datassette.org/)
 
@@ -48,10 +39,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Aqui está uma [versão divertida do principal Library Genesis](https://libgen.fun/) com ênfase em quadrinhos e mangás.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/libgen.is/)
 
-### 🔗 [Magazinelib](https://magazinelib.com/brazil/)
-
-- PDF gratuito e revistas eletrônicas interativas sobre uma variedade de assuntos, incluindo viagens, culinária, jardinagem e fotografia.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/magazinelib.com/)
 
 ### 🔗 [OceanofPDF](https://oceanofpdf.com/category/languages/portuguese-language-books/?id=000192234242)
 
@@ -85,31 +72,11 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ## 📑 2 ➜ Leitura no navegador
 
-### 📒 [Livros Online Grátis](https://livrosonlinegratis.com.br/)
-
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/livrosonlinegratis.com.br/)
-
-### 📒 [HQ Now](https://www.hq-now.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hq-now.com/)
-
 ### 📒 [Darkseid Club](https://site.ds-club.net/)  
   
 - O Darkseid Club é um grupo formado por fãs da nona arte e em especial pelo universo da editora DC Comic
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/site.ds-club.net/)
-
-### 📒 [Timeline Comics](https://timelinecomics.blogspot.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/timelinecomics.blogspot.com/)
-
-### 📒 [Galáxia dos Quadrinhos](https://www.galaxiadosquadrinhos.com.br/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/timelinecomics.blogspot.com/)
-
-### 📒 [HQ Livre](https://hqlivre.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hqlivre.com/)
 
 ## 📑 3 ➜ Aplicativos para Computador
 
@@ -141,33 +108,9 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/yomumangas.com/)
 
-### 🌸 [Tsuki Mangás](https://tsuki-mangas.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tsuki-mangas.com/)
-
-### 🌸 [Mangás Chan](https://mangaschan.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangaschan.com/)
-
-### 🌸 [Manhastro](https://manhastro.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/manhastro.com/)
-
-### 🌸 [Mangá BR](https://mangabr.net/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangabr.net/)
-
-### 🌸 [BR Mangás](https://www.brmangas.net/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/brmangas.net/)
-
 ### 🌸 [Ler Mangá](https://lermanga.org/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/lermanga.org/)
-
-### 🌸 [Mangá Online](https://mangaonline.biz/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangaonline.biz/)
 
 ### 🌸 [ComicK](https://comick.app/)
 
@@ -200,11 +143,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - Os usuários são ajudados pelo mecanismo de pesquisa a encontrar downloads gratuitos de e-books. Ele também permite alternar para uma função de pesquisa de Audiobook.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravebooksearch.com/)
-
-### 🔍 [Recherche Ebook](https://recherche-ebook.fr/) • Interface em francês
-
-- Identifica sites onde você pode acessar ebooks gratuitos feitos pelo sofisticado mecanismo de busca.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/recherche-ebook.fr/)
 
 ## 📑 6 ➜ Streaming
 
@@ -267,20 +205,10 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Fornece uma biblioteca considerável de audiolivros que podem ser baixados ou ouvidos na Internet por qualquer pessoa.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/audioaz.com/)
 
-### ▶️ [AudioBookable](https://audiobookable.com/)
-
-- Divirta-se ouvindo livros enquanto trabalha, dirige ou limpa a casa. Isso protege você.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/audiobookable.com/)
-
 ### ▶️ [AudioBookLabs](https://audiobooklabs.com/)
 
 - Livros e romances populares podem ser encontrados em formato audiolivro gratuitamente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/audiobooklabs.com/)
-
-### ▶️ [Audiobooks For Soul](https://audiobooks4soul.com/home/)
-
-- Todos os audiolivros do site são do mais alto calibre, com narração impecável e som cristalino.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/audiobooks4soul.com/)
 
 ### ▶️ [Book Audiobooks](https://bookaudiobooks.com/)
 
@@ -292,11 +220,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Ouça os melhores audiolivros de uma grande coleção de opções.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bigaudiobooks.com/)
 
-### ▶️ [Free Classic AudioBooks](https://www.freeclassicaudiobooks.com/)
-
-- Um site onde você pode baixar e ouvir e-books e audiolivros de domínio público.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/freeclassicaudiobooks.com/)
-
 ### ▶️ [GalaxyAudiobook](https://galaxyaudiobook.com/)
 
 - O melhor local para descobrir e desfrutar de todos os audiolivros sem pagar um centavo.
@@ -306,11 +229,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - Grande seleção de audiolivros em diversas categorias, incluindo romance, negócios, autoajuda e não ficção.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/goldenaudiobook.com/)
-
-### ▶️ [HD Audio Books](https://hdaudiobooks.com/)
-
-- Aproveite uma ampla seleção de audiolivros e podcasts gratuitos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hdaudiobooks.com/)
 
 ### ▶️ [Hot Audiobooks](https://hotaudiobooks.com/)
 
