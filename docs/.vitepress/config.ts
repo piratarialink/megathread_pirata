@@ -11,6 +11,7 @@ var options = {
 };
 
 export default {
+  build: { chunkSizeWarningLimit: 1600, },
   head: [
     [
       'script defer',
