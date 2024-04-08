@@ -14,4 +14,4 @@ Guias úteis para ajudá-lo em suas viagens marítimas.
 
 ### [Jellyfin e Familia Arr - Docker Compose](guias/jellyfin-arr)
 
-### [Guia de Download e Ativação do Windows e Office](guias/ativação-office-win)
+### [Guia de Download e Ativação do Windows e Office](guias/ativacao-office-win)
