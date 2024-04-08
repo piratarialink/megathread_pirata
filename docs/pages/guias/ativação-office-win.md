@@ -2,20 +2,18 @@ Neste guia vou explicar como baixar o Windows e Office, e ativá-lo usando gratu
 
 ## Download do Windows e Office
 
-Vá para [Massgrave](https://massgrave.dev/genuine-installation-media.html) e veja a seção Windows e Office. Windows pelo link microsoft é o recomendado, instalação pelo [Ruffus](https://tecnoblog.net/responde/como-instalar-o-windows-11-mesmo-sem-tpm-2-0-no-pc/) burla a verificação por TPM2.0 no Win 11. ![](https://i.ibb.co/znYvXdM/image.png).
+Vá para [Massgrave](https://massgrave.dev/genuine-installation-media.html) e veja a seção Windows e Office.
 
-Para o Office escolha a opção de download "Office C2R Installers (Retail)", e opção pt-br de preferência. A opção com coração é a recomendada. 
+Para o Office escolha a opção de download "Office C2R Installers (Retail)", e opção PT-BR de preferência. A opção com um coração é a recomendada. 
 
 ![](https://i.ibb.co/Ydsb956/image.png).
 
-Se você usa windows 7, precisa baixar o office [daqui](https://massgrave.dev/office_msi_links.html).
-
 ## Ativação do Windows e Office
 
-1. Clique direito com mouse no menu iniciar do windows, selecione "Windows PowerShell"
-2. Ao abrir o terminal powershell, copie e cole esse comando:  
->irm https://massgrave.dev/get | iex
-3. Você irá ver as opções HWID para ativar o windows 10-11 e Ohook para Office. Selecione com a tecla numérica correspondente.
+1. Clique direito com mouse no menu iniciar do Windows, selecione "Windows PowerShell"
+2. Ao abrir o terminal PowerShell, copie e cole esse comando:  
+> irm [https://massgrave.dev/get](https://massgrave.dev/get) | iex
+3. Você irá ver as opções HWID para ativar o Windows 10-11 e Ohook para Office. Selecione com a tecla numérica correspondente.
 
 ![](https://massgrave.dev/images/MAS_AIO.png)
 
