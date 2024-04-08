@@ -61,6 +61,8 @@ O Cromite é um fork do Chromium baseado no fork do Bromite com bloqueio de anú
 Disponível para Android, Windows e Linux.
 ::: 
 
+![Cromite](docs\public\images\cromite.png)
+
 ## Gerenciador de Senhas
 
 ### [Bitwarden](https://bitwarden.com/)
