@@ -4,7 +4,7 @@ A Comunidade Pirataria Digital foi fundada em novembro de 2023 visando atuar com
 
 O projeto é feito por voluntários e temos apenas um custo, o domínio [pirataria.digital](https://pirataria.digital) no valor de € 45 (quarenta e cinco euros) por ano.
 
-O [umami.is](umami.cyanoptera.org) é mantido pelo [@orchestralblend](https://github.com/orchestralblend), Umami é usado como uma alternativa ao analytics do Cloudflare, visando a privacidade dos usuários do [pirataria.digital](https://pirataria.digital), o principal objetivo do Umami é saber quais páginas são mais acessadas para que nós possamos melhorar essas páginas.
+O [umami.is](https://umami.cyanoptera.org) é mantido pelo [@orchestralblend](https://github.com/orchestralblend), Umami é usado como uma alternativa ao analytics do Cloudflare, visando a privacidade dos usuários do [pirataria.digital](https://pirataria.digital), o principal objetivo do Umami é saber quais páginas são mais acessadas para que nós possamos melhorar essas páginas.
 
 Você pode acessar nossa analytics em [https://umami.cyanoptera.org/share/ahnZ8v9HGP5iKvI8/pirataria.digital](https://umami.cyanoptera.org/share/ahnZ8v9HGP5iKvI8/pirataria.digital).
 

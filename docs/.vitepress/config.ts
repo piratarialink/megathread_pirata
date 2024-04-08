@@ -23,7 +23,7 @@ export default {
   lang: "pt-BR",
   title: "Pirataria",
   description: "Esta megathread tem como objetivo atuar como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas, etc.",
-  ignoreDeadLinks: [/^https?:\/\/localhost/],
+  ignoreDeadLinks: true,
   cleanUrls: true,
   lastUpdated: true,
   externalLinkIcon: true,

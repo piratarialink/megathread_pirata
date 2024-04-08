@@ -19,7 +19,7 @@
 
 :::danger ⚠️ Aviso!
 - Na Megathread, links confiáveis que antes eram seguros podem ocasionalmente se tornar perigosos.
-- Os moderadores e colaboradores fazem o possível para mantê-lo, mas sempre tenham cuidado ao navegar nos mares.
+- Os colaboradores e contribuidores fazem o possível para mantê-lo, mas sempre tenham cuidado ao navegar nos mares.
 :::
 
 ---
