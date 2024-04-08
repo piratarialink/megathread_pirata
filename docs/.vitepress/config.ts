@@ -19,7 +19,6 @@ export default {
     plugins: [OramaPlugin()],
   },
   build: {
-    chunkSizeWarningLimit: 1600,
     rollupOptions: {
         output:{
             manualChunks(id) {
