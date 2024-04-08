@@ -38,11 +38,12 @@ O Navegador Mullvad é uma versão do Navegador Tor com as integrações da rede
 Disponível para Windows e Linux.
 :::
 
-### [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
+### [Mull Browser](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 
 O Mull é um navegador orientado para a privacidade baseado na tecnologia da Mozilla. Ele habilita muitos recursos upstreamed pelo projeto Tor Uplift usando as preferências do projeto arkenfox-user.js. Recomenda-se a instalação do "uBlock Origin" como addon para o navegador. 
 
 - Anti-Fingerprinting (Strong)
+- Não tem conexão com a Mullvad
 
 :::info 
 Disponível somente para Android.
@@ -82,6 +83,7 @@ Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que c
 
 - Barata, com vários servidores e rápida
 - Mullvad Leta
+- Suporta Monero
 
 ### [IVPN](https://www.ivpn.net/)
 
@@ -90,6 +92,15 @@ Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que c
 ### [ProtonVPN](https://protonvpn.com)
 
 - Suporta port-forwarding, fazendo suportar a rede P2P (peer-to-peer)
+
+### [AirVPN](https://airvpn.org/buy/)
+
+- Suporta port-forwarding, fazendo suportar a rede P2P (peer-to-peer)
+- Suporta Monero
+
+:::warning
+AirVPN deve ser a última opção como VPN, seus servidores não são bons.
+::: 
 
 ## Bloqueador de anúncios e trackers
 
@@ -125,23 +136,31 @@ ProtonMail é um serviço de e-mail seguro e privado, desenvolvido na Suíça. E
 
 ## Sistema Operacinal Android
 
-### GrapheneOS
+### [GrapheneOS](https://grapheneos.org/)
 
-### LineageOS
+Um sistema operacional mobile privado e seguro com compatibilidade de aplicativos Android. Desenvolvido como um projeto de código aberto sem fins lucrativos.
+
+- Só suporta Google Pixel
+- Não suporta absolutamente nada da Google, como o Google Play Services e outros serviços
+
+### [LineageOS](https://lineageos.org/)
+
+- Suporta celulares antigos que não recebem mais atualizações de segurança
+- A linha da Motorola é a mais acessível no Brasil
 
 ## Provedor de Armazenamento em Nuvem
 
 Provedor de serviço que disponibiliza espaço de armazenamento online para os usuários guardarem seus arquivos e dados. Isso permite que os usuários acessem seus arquivos de qualquer lugar, usando qualquer dispositivo conectado à internet. Esses serviços geralmente oferecem recursos como sincronização automática, compartilhamento de arquivos, segurança de dados e escalabilidade, adaptando-se às necessidades individuais e empresariais dos usuários.
 
-### Proton Drive
+### [Proton Drive](https://proton.me/drive)
 
-### Tresorit
+### [Tresorit](https://tresorit.com/)
 
-### Nextcloud
+### [Nextcloud](https://nextcloud.com/)
 
 O Nextcloud é uma plataforma de colaboração e armazenamento em nuvem de código aberto, projetada para permitir que indivíduos e organizações gerenciem e compartilhem seus arquivos de forma segura e eficiente. Ele oferece uma ampla gama de recursos, incluindo armazenamento de arquivos, calendário, contatos, compartilhamento de documentos e colaboração em tempo real. O Nextcloud é altamente personalizável e pode ser instalado em **servidores locais ou em provedores de nuvem de terceiros**, oferecendo assim maior controle sobre os dados e garantindo conformidade com requisitos de segurança e privacidade.
 
-## Matrix
+## [Matrix](https://matrix.org/)
 
 Matrix.org é uma plataforma aberta e descentralizada de comunicação e colaboração em tempo real. Ela permite que os usuários se comuniquem através de mensagens instantâneas, chamadas de voz e vídeo, compartilhamento de arquivos e outros recursos colaborativos. O Matrix.org é construído em torno de um protocolo aberto e federado, o que significa que diferentes servidores podem se comunicar entre si, permitindo uma rede descentralizada de comunicação. Isso oferece maior segurança, privacidade e controle sobre os dados dos usuários, além de possibilitar a interoperabilidade entre diferentes aplicativos e plataformas. O Matrix.org é amplamente utilizado em diversos contextos, desde mensagens instantâneas entre indivíduos até salas de chat colaborativas em equipes de trabalho e comunidades online.
 
@@ -149,6 +168,6 @@ Matrix.org é uma plataforma aberta e descentralizada de comunicação e colabor
 Existem várias outras instâncias, o Matrix.org é uma das instâncias disponíveis.
 :::
 
-### Element
+### [Element](https://element.io/)
 
 O Element é um cliente de comunicação para a plataforma Matrix.org. Ele oferece uma interface de usuário intuitiva e recursos avançados para mensagens instantâneas, chamadas de voz e vídeo, compartilhamento de arquivos e colaboração em tempo real. O Element é conhecido por sua segurança e privacidade, usando criptografia de ponta a ponta para proteger as conversas dos usuários. Além disso, ele é altamente personalizável e suporta integrações com outras ferramentas e serviços. O Element é uma escolha popular para indivíduos e organizações que buscam uma solução de comunicação descentralizada, segura e escalável.
