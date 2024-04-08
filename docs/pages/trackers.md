@@ -83,5 +83,4 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
 
-### 🧲 [academic torrents](https://academictorrents.com/) 
-- Público e aberto
+### 🧲 [Academic Torrents](https://academictorrents.com/)
