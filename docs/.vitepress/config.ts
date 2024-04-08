@@ -18,17 +18,6 @@ export default {
   vite: {
     plugins: [OramaPlugin()],
   },
-  build: {
-    rollupOptions: {
-        output:{
-            manualChunks(id) {
-                if (id.includes('node_modules')) {
-                    return id.toString().split('node_modules/')[1].split('/')[0].toString();
-                }
-            }
-        }
-    }
-  },
   lang: "pt-BR",
   title: "Pirataria",
   description: "Esta megathread tem como objetivo atuar como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas, etc.",
