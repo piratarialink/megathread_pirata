@@ -6,7 +6,7 @@ Vá para [Massgrave](https://massgrave.dev/genuine-installation-media.html) e ve
 
 Para o Office escolha a opção de download "Office C2R Installers (Retail)", e opção PT-BR de preferência. A opção com um coração é a recomendada. 
 
-![](https://i.ibb.co/Ydsb956/image.png).
+![](https://i.ibb.co/Ydsb956/image.png)
 
 ## Ativação do Windows e Office
 

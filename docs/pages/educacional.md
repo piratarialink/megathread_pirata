@@ -47,6 +47,8 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[Recode](https://recode.org.br)** - Cursos
 
+### ▶️ **[TicEmTrilhas](https://ticemtrilhas.org.br/)** - Cursos
+
 ## 📑 ➜ Downloads diretos
 
 ### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)** - Você pode baixar os cursos fornecidos no próprio Telegram.
