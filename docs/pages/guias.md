@@ -17,3 +17,5 @@ Guias úteis para ajudá-lo em suas viagens marítimas.
 ### [Guia de Download e Ativação do Windows e Office](guias/ativacao-office-win)
 
 ## [Guia Burlando Limite de Download do Mega](guias/burlando-limite-mega.md)
+
+---

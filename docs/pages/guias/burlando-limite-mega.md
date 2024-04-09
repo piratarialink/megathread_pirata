@@ -1,6 +1,9 @@
-## Guia de como baixar arquivos do Mega sem limite
+---
+title: "Guia de como baixar arquivos do Mega sem limite"
+description: "Burlando limite do mega"
+---
 
-### Instalação
+## Instalação
 
 ::: danger Aviso
 A utilização de proxy, VPN ou múltiplas contas para contornar a limitação diária de transferências do MEGA pode violar os seus Termos de Utilização. UTILIZE ESSA GUIA POR SUA PRÓPRIA CONTA E RISCO
@@ -31,7 +34,7 @@ Aqui você deve colocar sua conta Mega no formato email#senha. Essas credenciais
 
 Aqui você pode definir a pasta de downloads. Recomendo deixar a opção "Verify file integrity" para verificar os downloads após o download deles. Nessa mesma seção temos:
 
-### Burlando limite na prática
+## Burlando limite na prática
 
 (Opção 1) ESPERE até que o MEGA permita o download novamente (normalmente 6/12 horas).
 
