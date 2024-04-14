@@ -82,6 +82,9 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - Site de torrent muito conhecido com foco em anime, dedicado à mídia do Leste Asiático (_japonês, chinês e coreano_).
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/nyaa.si/)
 
+### 🐐 [Ans Tracker ](https://www.ansktracker.net/signup.php)
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/ansktracker.net/)
+
 ### 🧲 [Projeto AcgnX](https://share.acgnx.se/) • Interface chinesa
 
 - Existem mais de 590.000 materiais, incluindo muitos recursos de nomes como Anime Garden, Jiying BT e Youxia BT.
