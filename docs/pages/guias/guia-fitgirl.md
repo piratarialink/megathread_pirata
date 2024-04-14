@@ -1,11 +1,16 @@
+---
+title: "Guia FitGirl"
+description: "Guia de Como Baixar e Instalar pela FitGirl"
+---
+
 Se você está aqui, provavelmente é novo no mundo da pirataria e tem tido problemas com uma de nossas fontes mais confiáveis, Fitgirl.  
 Nesse guia, vai aprender tudo o que é necessário para o uso do site junto com o básico do funcionamento do Qbittorrent.
 
-**PROGRAMAS NECESSÁRIOS**
+## Programas necessários
 
 [Qbittorrent](https://www.qbittorrent.org/download)
 
-**PRA QUE QBITTORENT?**
+## Para que o qBitTorrent?
 
 Em termos simples, Qbittorrent tem a função de baixar arquivos torrent, que são conhecidos por sua estabilidade. Basicamente, um arquivo Torrent vai existir contanto que alguém com ele baixado no computador esteja disposto a dividir ele com a grande massa da internet, ato que é feito automaticamente e que pode ser parado facilmente.  
 
