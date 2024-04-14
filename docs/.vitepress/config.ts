@@ -99,6 +99,18 @@ export default {
         ],
       },
       {
+        text: "📑 Recomendado",
+        collapsible: true,
+        items: [
+          { text: "🪶 Sobre", link: "pages/sobre" },
+          { text: "🪶 Dicionário", link: "pages/util/dicionario" },
+          { text: "🪶 Glossário", link: "pages/util/glossario" },
+          { text: "🪶 Publicações úteis", link: "pages/publicacoes" },
+          { text: "🪶 Guias", link: "pages/guias" },
+          { text: "🪶 Privacidade", link: "pages/privacidade" }
+        ],
+      },
+      {
         text: "💰 Outros Tesouros",
         collapsible: true,
         items: [
@@ -115,18 +127,6 @@ export default {
           { text: "📁 Ripped", link: "https://ripped.guide/" },
           { text: "📁 The Index", link: "https://theindex.moe/" },
           { text: "📁 Wotaku", link: "https://wotaku.moe/" },
-        ],
-      },
-      {
-        text: "📑 Recomendado",
-        collapsible: true,
-        items: [
-          { text: "🪶 Sobre", link: "pages/sobre" },
-          { text: "🪶 Dicionário", link: "pages/util/dicionario" },
-          { text: "🪶 Glossário", link: "pages/util/glossario" },
-          { text: "🪶 Publicações úteis", link: "pages/publicacoes" },
-          { text: "🪶 Guias", link: "pages/guias" },
-          { text: "🪶 Privacidade", link: "pages/privacidade" }
         ],
       },
     ],
