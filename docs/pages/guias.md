@@ -18,4 +18,6 @@ Guias úteis para ajudá-lo em suas viagens marítimas.
 
 ### [Guia Burlando Limite de Download do Mega](guias/burlando-limite-mega.md)
 
+### [Guia de Como Baixar e Instalar pela FitGirl](guias/guia-fitgirl.md)
+
 ---
