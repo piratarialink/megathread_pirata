@@ -149,7 +149,6 @@ ProtonMail é um serviço de e-mail seguro e privado, desenvolvido na Suíça. E
 Um sistema operacional mobile privado e seguro com compatibilidade de aplicativos Android. Desenvolvido como um projeto de código aberto sem fins lucrativos.
 
 - Só suporta Google Pixel
-- Não suporta absolutamente nada da Google, como o Google Play Services e outros serviços
 
 ### [LineageOS](https://lineageos.org/)
 
