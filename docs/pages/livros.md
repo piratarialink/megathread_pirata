@@ -240,7 +240,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ## 📑 9 ➜ Grupos/Canais no Telegram
 
-### 🔗 [Sala de Leitura](https://t.me/saladeleitura)
+### 📣 [Sala de Leitura](https://t.me/saladeleitura)
 
 ### 🔗 [BIBLIOTECA VIRTUAL BR](https://t.me/BIBLIOTECAVIRTUALBR)
 
@@ -283,6 +283,8 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 📣 [LIVROS DE PSICOLOGIA, PSICANÁLISE, PEDAGOGIA E FILOSOFIA!](https://t.me/livrosdapsicologia)
 
 ### 📣 [Não Sou Robô AudioBook📚🎧✌️](https://t.me/naosouroboaudiobooks)
+
+### 📣 [📚BIBLIOTECA INTERNACIONAL📚](https://t.me/InternationaLibrary)
 
 - Canal sobre notícias e anúncios, eles não fornecem Downloads.
 
