@@ -15,9 +15,9 @@ Para o Office escolha a opção de download "Office C2R Installers (Retail)", e 
 > irm [https://massgrave.dev/get](https://massgrave.dev/get) | iex
 3. Você irá ver as opções HWID para ativar o Windows 10-11 e Ohook para Office. Selecione com a tecla numérica correspondente.
 
-![](https://massgrave.dev/images/MAS_AIO.png)
+![](https://massgrave.dev/assets/images/MAS_AIO-45ebdebc8c72356fe5e4902e8b893dbb.png)
 
-![Por exemplo](https://massgrave.dev/images/MAS_HWID.png)
+![Por exemplo](https://massgrave.dev/assets/images/MAS_HWID-35c26abb0823a33380a7711de40b3d77.png)
 
 Ao aparecer "... Is permanently activated...", é que foi concluído.
 
