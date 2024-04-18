@@ -105,3 +105,5 @@ Se terminou com sucesso, parabéns! Seu jogo foi instalado!
 ![](/images/checking.png)
 
 Terminando essa parte, **parabéns! Seu jogo foi instalado e está pronto para ser iniciado!**
+
+Guia por: [Chéti](https://www.reddit.com/user/chetizii/)
