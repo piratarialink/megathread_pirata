@@ -22,6 +22,8 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [Locadora](https://locadora.cc/)
 
+### 🧲 [Plusteca](https://plusteca.com/register/)
+
 ### 🧲 [Toca Share](https://tocashare.biz/register) | TS
 
 ## 📑 ➜ Trackers Gringo
