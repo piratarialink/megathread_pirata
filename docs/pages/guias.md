@@ -16,11 +16,20 @@ Para muitos entusiastas de torrents, alcançar e manter um ratio saudável pode 
 
 ## 📑 ➜ [Como Verificar um Arquivo no Virus Total corretamente](guias/virustotal)
 
+Garanta a segurança de seus arquivos? Este guia prático te mostra como verificar corretamente qualquer arquivo no VirusTotal. Aprenda os passos simples para analisar seus arquivos em busca de ameaças de forma rápida e eficiente. Com este guia, você pode ter certeza de que seus arquivos estão protegidos contra vírus e malware.
+
 ## 📑 ➜ [Jellyfin e Familia Arr - Docker Compose](guias/jellyfin-arr)
+
+Quer configurar o Jellyfin e a Família Arr de forma simples e eficiente? Este guia te mostra como fazer isso usando Docker Compose. Aprenda passo a passo a criar e gerenciar seus contêineres Docker para garantir uma experiência suave de streaming de mídia e organização de conteúdo para toda a família. Com este guia, você estará pronto para aproveitar ao máximo essas poderosas ferramentas de entretenimento em casa.
 
 ## 📑 ➜ [Guia de Download e Ativação do Windows e Office](guias/ativacao-office-win)
 
+Ative o Windows e o Office sem estresse? Este guia prático te mostra como. Descubra onde ativar esses programas de forma segura e aprenda a fazê-lo sem complicações. Seja configurando um novo PC ou atualizando seu software, este guia é o seu companheiro confiável para uma ativação tranquila.
+
 ## 📑 ➜ [Guia Burlando Limite de Download do Mega](guias/burlando-limite-mega.md)
+
+Para evitar o limite de cota de download no Mega, siga estas etapas deste guia simples. Após baixar o programa necessário, configure sua conta Mega e explore opções como proxies e contas adicionais para desfrutar de downloads sem interrupções. Com essas técnicas, você poderá fazer download de arquivos no Mega sem restrições.
+
 
 ## 📑 ➜ [Guia de Como Baixar e Instalar pela FitGirl](guias/guia-fitgirl.md)
 
