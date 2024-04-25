@@ -232,7 +232,6 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 
 ## ► Diversos
 
-- [Squawkr.io](https://www.squawkr.io/) - Seja notificado quando um filme for lançado. Você também pode definir parâmetros como resolução
 - [subscene.com](https://subscene.com/) - Legendas multilíngues para filmes/séries
 - [addic7ed.com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries
 
