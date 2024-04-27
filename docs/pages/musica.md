@@ -177,6 +177,10 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Um downloader de música e podcast do Spotify muito personalizado. É aconselhável que você utilize Zotify usando uma conta de gravador.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gitlab.com/)
 
+### 🖥️ [ SpotX](https://github.com/SpotX-Official/SpotX)
+
+- Bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial. Disponivel temas para o client e outras personalizações.
+
 ## Está buscando apps para ouvir/baixar **Música** no Celular?
 
 ➜ Confira nossa Megathread sobre 📱 [Mobile](mobile#musica)
