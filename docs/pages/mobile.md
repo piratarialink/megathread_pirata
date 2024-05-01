@@ -5,186 +5,435 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 :::danger ⚠️ Lembrete rápido
 
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
-- 🐐 = Altamente recomendado pela comunidade pirata.
+- 🌟 = Altamente recomendado pela comunidade pirata.
   :::
 
-## ► **Aplicativos Mobile**
+## 📑 ➜ Anime e Manga
 
-- [AdAway](https://github.com/AdAway/AdAway) - AdAway é um bloqueador de anúncios gratuito e de código aberto para Android.
+### 🌟 [Mihon](https://github.com/mihonapp/mihon) 
 
-- [Droid-Ify](https://github.com/Droid-ify/client) - Ótimo cliente F-Droid com Material UI.
+- Acesse facilmente mangás, webcomics e quadrinhos em seu dispositivo Android.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-- [Snapdrop Android](https://github.com/fm-sys/snapdrop-android) - Cliente Android para compartilhamento local de arquivos via [Snapdrop](https://snapdrop.net/) e [Pairdrop](https://pairdrop.net)
+### 🌟 [Better Anime](https://discord.com/invite/betteranime) 
 
-- [Web Video Cast](https://play.google.com/store/apps/details?id=com.instantbits.cast.webvideo&hl=pt_BR&gl=US) - Web Video Caster permite transmitir conteúdo online e local na TV.
+- O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar. App removido da playstore, disponível apenas no discord. 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/discord.com/)
 
-- [Lemuroid](https://github.com/Swordfish90/Lemuroid) - Tudo em um emulador no Android! Com uma interface simples e prática.
+### 🔗 [Aniyomi](https://aniyomi.org/) 
 
-- 🐐 [SmartTube](https://github.com/yuliskov/SmartTubeNext) - Aplicativo sem anúncios para assistir vídeos do Youtube em TV Box Android
+- Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/aniyomi.org/)
 
-- [Xtra](https://github.com/crackededed/Xtra) - Xtra é outro cliente Twitch alternativo e de código aberto para Android
+### 🔗 [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) 
 
-- [Cromite](https://github.com/uazo/cromite) - Fork do Bromite com bloqueio de anúncios e melhorias de privacidade.
+- Fork do Aniyomi com a função de mangás restaurada e recursos extras.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-- [URLChecker](https://github.com/TrianguloY/UrlChecker) - O URLCheck atua como um intermediário incrivelmente personalizável e poderoso ao abrir links url.
+### 🔗 [Animiru](https://github.com/Quickdesh/Animiru) 
 
-- [Orbot](https://github.com/guardianproject/orbot) - Tor no Android
+- Animiru é um fork não oficial do Aniyomi, que é mais um fork não oficial do leitor de mangá gratuito e de código aberto Tachiyomi.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-- [xManager](https://github.com/Team-xManager/xManager) - App para instalar Spotify sem anúncios.
+### 🔗 [Kotatsu](https://kotatsu.app/) 
 
-* 🐐 [ReVanced](https://github.com/revanced) - Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário um APK do Youtube) [Guia para aplicar ReVanced no YT](https://phtn.app/post/lemmy.dbzer0.com/2897980)
+- Um leitor de mangá de código aberto simples e conveniente para a comunidade, onde você pode encontrar e ler seu mangá favorito com mais facilidade do que nunca.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kotatsu.app/)
 
-* [Lucky Patcher](https://www.luckypatchers.com/) - Desbloqueia compras no aplicativo em aplicativos Android e remove anúncios.
+### 🔗 [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) 
 
-* [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - Usenet e aplicativo de gerenciamento remoto de torrent com suporte para gerenciamento de Sonarr / Radarr / Lidarr / Bazarr / Sickbeard / Couchpotato / Fones de ouvido
+- TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-* [iTorrent Search](https://play.google.com/store/apps/details?id=com.icodelife.itorrentsearch) - Aplicativo de busca de torrents para Android
+## 📑 ➜ Catálogo e Lojas
 
-* [iDope Torrent Search](https://idope.se/apk/down.html) - Aplicativo de busca de torrents para Android
+### 🔗 [Accrescent](https://accrescent.app/)
 
-* [Libgen para Android](https://github.com/manuelvargastapia/libgen_mobile_app) - aplicativo de pesquisa/download do Libgen
+- Loja de aplicativos Android moderna e segura que prioriza a privacidade do usuário e a acessibilidade do desenvolvedor.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/accrescent.app/)
 
-* [Librebook para Android](https://github.com/bagaswastu/librebook) - Aplicativo de pesquisa/download do Libgen
+### 🔗 [ACMarket](https://acmarket.net/)
 
-* Consulte /r/ApksApps para mais aplicativos Android
+- Seleção premium de aplicativos e jogos modificados, aprimorados e crackeados.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/acmarket.com/)
 
-* Veja /r/moddedandroidapps para mais aplicativos Android
+### 🔗 [Appteka](https://appteka.store/)
 
-* Veja /r/sideloaded para iOS
+- Loja Android gratuito que dá acesso a uma vasta coleção de aplicativos gratuitos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/appteka.store/)
 
-## ► **Aplicativos de Streaming/Download**
+### 🔗 [AuroraOSS](https://auroraoss.com/)
 
-### | **_Anime_** |
+- Cliente alternativo para Google Play, permite aos usuários baixar, atualizar e pesquisar aplicativos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/auroraoss.com/)
 
-- 🐐 [Mihon](https://github.com/mihonapp/mihon) - Mihon é um leitor de mangá fork do Tachiyomi (Mihon is an actively maintained fork of Tachiyomi)
+### 🌟 [F-Droid](https://f-droid.org/)
 
-- [Aniyomi](https://github.com/jmir1/aniyomi) - Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
+- Plataforma amigável para instalação de aplicativos de software gratuito e de código aberto.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/f-droid.org/)
 
-- [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) - Fork do Aniyomi com a função de mangás restaurada e recursos extras.
+### 🌟 [Droid-Ify](https://github.com/Droid-ify/client) 
 
-- [Animiru](https://github.com/Quickdesh/Animiru) - Animiru é um fork não oficial do Aniyomi, que é mais um fork não oficial do leitor de mangá gratuito e de código aberto Tachiyomi.
+- Ótimo cliente F-Droid com Material UI.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-- 🐐 [Better Anime](https://discord.com/invite/betteranime) - O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar. App removido da playstore, disponível apenas no discord. 
+### 🔗 [Material You](https://github.com/nyas1/Material-You-app-list)
 
-- [Tomato](https://play.google.com/store/apps/details?id=com.tomatos.appclient) - Streaming de anime e mangás.
+- Sistema de design com personalização, incorporando tipografia, cores, ícones e muito mais.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### | **_Livros_** |
+### 🔗 [Onyxbits](https://onyxbits.de/)
 
-- [Kotatsu](https://kotatsu.app/) - Um leitor de mangá de código aberto simples e conveniente para a comunidade, onde você pode encontrar e ler seu mangá favorito com mais facilidade do que nunca.
+- Serve como um centro para distribuição de software direcionado principalmente ao sistema operacional Android.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/onyxbits.de/)
 
-- 🐐 [Mihon](https://github.com/mihonapp/mihon) - Descubra e leia mangás, webtoons, quadrinhos e muito mais – mais fácil do que nunca em seu dispositivo Android. (Fork do Tachiyomi)
+## 📑 ➜ Apps Vanilla
 
-- [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) - TachiyomiJ2K é um leitor de mangá gratuito e de código aberto para Android 6.0 e superior. Baseado no Tachiyomi original
+### 🔗 [APK Amp](https://apkamp.com/)
 
-- [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
+- Acesse uma variedade de aplicativos Android populares com milhares de opções.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkamp.com/)
 
-- [Tomato](https://play.google.com/store/apps/details?id=com.tomatos.appclient) - Streaming de anime e mangás.
+### 🔗 [APK Thing](https://www.apkthing.com/)
 
-### | **_Filmes e TV_** |
+- Seleção de aplicativos Android gratuitos disponíveis. Seu destino preferido.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkthing.com/)
 
-- 🐐 [RedeCanais](https://redecanais.la/android/) - Streaming de Filmes, TV, Anime e Futebol.
+### 🔗 [APKCombo](https://apkcombo.com/)
 
-* [Cloudstream](https://dweb.link/ipns/cloudstream.on.fleek.co/) + [Extensions](ipns://cloudstream.on.fleek.co/repos/) - Filmes, Séries, TV e Anime.
+- Com mais de 8 milhões de jogos e aplicativos Android, com foco em downloads seguros.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkcombo.com/)
 
-### | Esportes |
+### 🔗 [APKGIT](https://apkgit.co/)
 
-- [YouCine](https://www.youcine.tv/mobile/) - Recentemente ficou pago, mas ainda é possivel assistir jogos de futebol.
+- Plataforma Android dinâmica que oferece uma ampla gama de necessidades de software.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkgit.co/)
 
-### | **_Música_** |
+### 🌟 [APKMirror](https://www.apkmirror.com/)
 
-- [Namida](https://github.com/namidaco/namida) - Um reprodutor de música e vídeo bonito e rico em recursos com suporte para Youtube, feito em Flutter.
+- Acesso seguro e irrestrito a uma infinidade de downloads de APK do Android sem custo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmirror.com/)
 
-- [Musify](https://github.com/gokadzev/Musify) - Aplicativo de streaming e download de músicas feito em Flutter!
+### 🔗 [apkmonk](https://www.apkmonk.com/)
 
-* [LibreTube](https://libre-tube.github.io/) - Assista e baixe vídeos do youtube. Também oferece a capacidade de baixar do soundcloud.
+- Aplicativos para necessidades pessoais, empresariais e criativas e em constante evolução.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmonk.com/)
 
-* 🐐 [Newpipe](https://newpipe.schabi.org/) - Assista e baixe vídeos do youtube. Também oferece a capacidade de baixar do soundcloud.
+### 🌟 [APKPure](https://apkpure.net/)
 
-- [SongTube](https://github.com/SongTube/SongTube-App) - App Simples e Bonito feito em Flutter para Baixar Mídia do YouTube
+- Experiência de download de software diversificada e segura, sem a necessidade de extensões extras.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkpure.net/)
 
-- [SpMp](https://github.com/toasterofbread/spmp) - Um cliente do YouTube Music com foco na personalização de idioma e metadados.
+### 🔗 [APKToy](https://www.apktoy.com/)
 
-- [SimpMusic](https://github.com/maxrave-dev/SimpMusic) - Um aplicativo de música simples usando o YouTube Music de back-end.
+- Obtenha arquivos APK rapidamente para seus dispositivos sem problemas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apktoy.com/)
 
-- 🐐 [Spotube](https://github.com/KRTirtho/spotube) - Cliente Spotify de código aberto que não requer Premium nem usa Electron! Disponível para desktop e celular!
+### 🔗 [APKSum](https://www.apksum.com/)
 
-- [InnerTune](https://github.com/z-huang/InnerTune) - Um cliente Material 3 para YouTube Music no Android.
+- Variedade de aplicativos Android que atendem às diferentes necessidades do usuário.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apksum.com/)
 
-- [Fildo](https://fildo.net/android/en/) - Aplicativo Android para download e streaming de música.
+### 🔗 [Top-Androids](https://top-androids.com/)
 
-#### 🔗 Download
+- Aprimore sua experiência digital e fique atualizado com os downloads mais recentes.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/top-androids.com/)
 
-- 🐐 [YTDLnis](https://github.com/deniscerri/ytdlnis) - Aplicativo Android para baixar Video/Audio usando yt-dlp.
+### 🌟 [Uptodown](https://www.uptodown.com/) • Interface em Espanhol
 
-- [Seal](https://github.com/JunkFood02/Seal) - Aplicativo para baixar Video/Audio para Android, baseado em yt-dlp, desenvolvido com Material You.
+- Loja de aplicativos multiplataforma para Android, oferecendo acesso irrestrito a uma variedade de aplicativos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/uptodown.com/)
 
-- [Seeker Android](https://github.com/jackBonadies/SeekerAndroid) - Cliente Android para a rede peer-to-peer do Soulseek
+## 📑 ➜ Apps Modificados
 
-## ► **Clientes Torrent**
+### 🔗 [AN1](https://an1.com/)
 
-- [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) - Cliente de torrent de código aberto e sem anúncios para Android.
+- Versões mais recentes de jogos e apps Android, garantindo desempenho ideal.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/an1.com/)
 
-- 🐐 [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - Cliente de torrent popular para Android.
+### 🌟 [Androeed](https://androeed.store/)
 
-- [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - Cliente de torrent popular para Android.
+- Descubra uma ampla variedade de jogos, hacks de APK e versões premium.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/androeed.store/)
 
-- [Transdrone](https://f-droid.org/packages/org.transdroid.full/) - Aplicativo de gerenciamento de torrent remoto para seu cliente de torrent em execução no seu PC principal. Suporta vários clientes de torrent
+### 🔗 [Android Republic](https://androidrepublic.org/portal/)
 
-- [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - Aplicativo de gerenciamento de torrent remoto com suporte para gerenciamento de Sonarr / Radarr / Lidarr / Bazarr / Sickbeard / Couchpotato / Fones de ouvido
+- Mods Android avançados e exclusivos desde 2014, garantindo qualidade e crescimento.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/androidrepublic.org/)
 
-## ► **APKs Limpos**
+### 🔗 [APK Home](https://apkhome.io/)
 
-- [apkmirror.com](https://www.apkmirror.com/) - Contém apks de lançamento intocados e assinados. Útil se estiver procurando por uma versão anterior de um aplicativo.
+- Aplicativos e jogos APK premium e pagos com apenas um clique gratuitamente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkhome.io/)
 
-- [apkpure.com](https://apkpure.com/) - Semelhante a apkmirror.com
+### 🔗 [APKdone](https://apkdone.com/)
 
-- [apps.evozi.com/apk-downloader](http://apps.evozi.com/apk-downloader/) - Baixar APK da Play Store
+- Fonte das últimas novidades em aplicativos Android e notícias de tecnologia, cobrindo uma ampla variedade de tópicos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkdone.com/)
 
-- [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - Baixe o APK da Play Store
+### 🔗 [APKKIT](https://apkkit.com/)
 
-## ► **Lojas e repositórios de aplicativos crackeados/modificados**
+- Downloads seguros de software para smartphones em todo o mundo. Possui uma ampla variedade de aplicativos e jogos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkkit.com/)
 
-### | **_Android_** |
+### 🔗 [APKMB](https://apkmb.com/)
 
-- 🐐 [Fórum Mobilism](https://forum.mobilism.org/index.php) - Fórum Mobilism é um dos melhores sites para baixar aplicativos crackeados/modificados e e-books.
+- Aproveite versões modificadas de aplicativos e jogos Android sem nenhum custo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmb.com/)
 
-- [Mobilism for Android](https://forum.mobilism.org/viewtopic.php?f=398&t=214777) - Aplicativo do Mobilism para navegar em seus aplicativos crackeados e catálogo de e-books.
+### 🔗 [APKMODY](https://apkmody.io/)
 
-- [androeed.ru](https://www.androeed.ru)
+- Curadoria dos melhores jogos, atualizando constantemente para manter tudo atualizado.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmody.io/)
 
-- [revdl.com](https://www.revdl.com/)
+### 🔗 [ApkModsApp](https://apkmodsapp.com/)
 
-- [apkmb.com](https://apkmb.com/)
+- Boa seleção de jogos modificados e aplicativos premium gratuitos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmodsapp.com/)
 
-- [apkhouse.com](https://apkhouse.com/)
+### 🔗 [ApkMos](https://apkmos.com/)
 
-- [ACMarket](https://acmarket.net/)
+- Explore os melhores aplicativos Android disponíveis nos vastos mares digitais.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmos.com/)
 
-- [APKmos](https://apkmos.com/)
+### 🔗 [ApkVision](https://apkvision.org/)
 
-- [4PDA](https://4pda.ru/forum/)
+- Ampla variedade de aplicativos e jogos premium, permitindo downloads em diversas categorias.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkvision.org/)
 
-- [blackmod.net](https://blackmod.net/)
+### 🔗 [DlAndroid](https://dlandroid.com/)
 
-- [forum.sbenny.com](https://forum.sbenny.com/)
+- Ótimos links para download, onde você pode acessar aplicativos e jogos APK premium gratuitamente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/dlandroid.com/)
 
-- [dlandroid.com](https://dlandroid.com/)
+### 🔗 [farsroid](https://www.farsroid.com/) • Persian UI
 
-### | **_iOS_** |
+- Downloads de jogos e aplicativos Android mais recentes e seguros com mods testados incluídos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/farsroid.com/)
 
-- [Mobilism](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Aplicativo do Mobilism para navegar em seus aplicativos crackeados e catálogo de e-books
+### 🔗 [iHackedit](https://ihackedit.com/)
 
-- [julio.hackyouriphone.org](https://julio.hackyouriphone.org)
+- Grande variedade de jogos, aplicativos e mods gratuitos, tornando-o uma ótima escolha.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ihackedit.com/)
 
-- [rejail.ru](https://rejail.ru/)
+### 🔗 [LITEAPKS](https://liteapks.com/)
 
-- [cydia.iphonecake.com](https://cydia.iphonecake.com)
+- Belo site com bom histórico, oferecendo mods exclusivos aos usuários.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/liteapks.com/)
 
-- [cydia.kiiimo.org](https://cydia.kiiimo.org)
+### 🔗 [MicroTech Apps](https://apps.themicrotech.net/)
 
-- [cydiageek.yourepo.com](https://cydiageek.yourepo.com/)
+- Baixe todos os aplicativos Android com links diretos e rápidos para facilitar o acesso.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apps.themicrotech.net/)
 
-## ► **Grupos/Canais no Telegram**
+### 🌟 [MODYOLO](https://modyolo.com/)
+
+- Especializado em modificações de aplicativos e jogos premium de várias fontes.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/modyolo.com/)
+
+### 🔗 [PDALIFE](https://pdalife.com/)
+
+- Alternativa às lojas de aplicativos tradicionais, oferecendo downloads gratuitos para aplicativos Android e iOS.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pdalife.com/)
+
+### 🔗 [Platinmods](https://platinmods.com/) • Sign Up
+
+- Comunidade amigável que oferece mods e jogos de qualidade para Android e iOS.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/platinmods.com/)
+
+### 🔗 [RB Mods](https://www.rockmods.net/)
+
+- Fonte de aplicativos Android premium, apresentando apenas os melhores, confiáveis e totalmente funcionais.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/rockmods.net/)
+
+### 🔗 [ReleaseAPK](https://forum.release-apk.com/index.php) • Necessário Cadastro
+
+- Baixe os melhores jogos, aplicativos e temas para aprimorar sua experiência móvel.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/forum.release-apk.com/)
+
+### 🔗 [Revdl](https://www.revdl.com/)
+
+- Recursos premium baixando jogos e aplicativos para Android.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/revdl.com/)
+
+### 🔗 [Sbenny](https://sbenny.com/)
+
+- Cheats, mods e versões APKs desbloqueados de qualidade para jogos e aplicativos Android populares.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sbenny.com/)
+
+## 📑 Música
+
+### 🔗 [Namida](https://github.com/namidaco/namida) 
+
+- Um reprodutor de música e vídeo bonito e rico em recursos com suporte para Youtube, feito em Flutter.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🌟 [Gyawun](https://jhelumcorp.github.io/)
+
+- Streaming de música de alta qualidade diretamente do seu telefone com facilidade.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/jhelumcorp.github.io/)
+
+### 🌟 [RiMusic](https://fast4x.github.io/RiMusic/)
+
+- Aplicativo Android multilíngue e de código aberto projetado para streaming de música diretamente do YouTube.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/fast4x.github.io/)
+
+### 🔗 [Musify](https://gokadzev.github.io/Musify/) 
+
+- Aplicativo de streaming e download de músicas feito em Flutter!
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gokadzev.github.io/) 
+
+### 🔗 [LibreTube](https://libre-tube.github.io/) 
+
+- Assista, ouça e baixe vídeos do youtube. Também oferece a capacidade de baixar do soundcloud.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/libre-tube.github.io/)
+
+### 🌟 [Newpipe](https://newpipe.net/) 
+
+- Assista e baixe vídeos do youtube. Também oferece a capacidade de baixar do soundcloud.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/newpipe.net/)
+
+### 🔗 [SongTube](https://github.com/SongTube/SongTube-App) 
+
+- App Simples e Bonito feito em Flutter para Baixar Mídia do YouTube
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [SpMp](https://github.com/toasterofbread/spmp) 
+
+- Um cliente do YouTube Music com foco na personalização de idioma e metadados.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [Vibe You](https://github.com/SuhasDissa/VibeYou)
+
+- Reprodução de música do dispositivo e músicas do Piped, com modo escuro.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🌟 [Spotube](https://spotube.krtirtho.dev/) 
+
+- Cliente Spotify de código aberto que não requer Premium nem usa Electron! Disponível para desktop e celular!
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/spotube.krtirtho.dev/)
+
+### 🔗 [InnerTune](https://github.com/z-huang/InnerTune) 
+
+- Um cliente Material 3 para YouTube Music no Android.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [Harmony Music](https://github.com/anandnet/Harmony-Music)
+
+- Aplicativo de streaming de música multiplataforma criado com Flutter para Android, Windows e Linux.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [LimeMP3](https://limemp3.com/)
+
+- Explore suas músicas preferidas para aqueles dias chuvosos ou quando não há internet.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/limemp3.com/)
+
+### 🔗 [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler/)
+
+- Cliente Android versátil com suporte para Last.fm, ListenBrainz, Libre.fm e GNU FM.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [SimpMusic](https://simpmusic.tech/)
+
+- Transmita facilmente músicas, vídeos, podcasts e rádio de forma totalmente gratuita.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/simpmusic.tech/)
+
+### 🔗 [Soundbound](https://soundbound.app/)
+
+- Media player que suporta consumo contínuo de música com sua biblioteca de música centralizada.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/soundbound.app/)
+
+### 🔗 [Spowlo](https://github.com/BobbyESP/Spowlo)
+
+- Downloader do Spotify utilizando o poder do Jetpack Compose, Material You e a biblioteca spotDL Python.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🌟 [xManager](https://www.xmanagerapp.com/) 
+
+- App para instalar Spotify sem anúncios.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/xmanagerapp.com/)
+
+
+## 📑 Filmes e TV
+
+### 🌟 [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) + [Addons](https://stremio-addons.netlify.app/) - [Nota Importante!](outros/stremio)
+
+- Aplicativo de streaming que permite assistir vídeos, filmes e séries de TV.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)
+
+### 🌟 [RedeCanais](https://redecanais.la/android/) 
+
+- Streaming de Filmes, TV, Anime e Futebol.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.la/)
+
+
+## 📑 ➜ Buscadores
+
+### 🔍 [Advanced Google Play Search](https://playsearch.kaki87.net/)
+
+- Espelhando o Google Play, os usuários podem pesquisar nele, proporcionando uma experiência simples.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/playsearch.kaki87.net/)
+
+### 🔍 [APK Mods Search](https://apkmodsearch.pages.dev/)
+
+- Para APKs modificados, agilizando o acesso de boas fontes.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmodsearch.pages.dev/)
+
+### 🔍 [ShowAppsLike](https://www.showappslike.com/)
+
+- Funciona como um mecanismo de busca para descobrir aplicativos semelhantes.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/showappslike.com/)
+
+## 📑 ➜ Ferramentas
+
+### 🔗 [APK Editor Studio](https://qwertycube.com/apk-editor-studio/)
+
+- Ferramenta robusta e fácil de usar para engenharia reversa de APK.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/qwertycube.com/)
+
+### 🌟 [App Manager](https://muntashirakon.github.io/AppManager/en/)
+
+- Gerenciador de pacotes Android intrincado, oferece vários recursos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/muntashirakon.github.io/)
+
+### 🔗 [Gbox](https://www.gboxlab.com/)
+
+- Integra perfeitamente aplicativos, serviços, estrutura e loja do Google.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gbox.com/)
+
+### 🔗 [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade)
+
+- Módulo para Android 12 a 14, permitindo aos usuários contornar a restrição do sistema ao downgrade de aplicativos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🌟 [Lucky Patcher](https://www.luckypatchers.com/) 
+
+- Desbloqueia compras no aplicativo em aplicativos Android e remove anúncios.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/luckypatchers.com/)
+
+### 🌟 [ReVanced](revanced.app) 
+
+- Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário o APK do Youtube)
+- [Guia para aplicar ReVanced no YT](https://phtn.app/post/lemmy.dbzer0.com/2897980)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/revanced.app/)
+
+### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis) 
+
+- Aplicativo Android para baixar Video/Audio usando yt-dlp.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [Seal](https://github.com/JunkFood02/Seal) 
+
+- Aplicativo para baixar Video/Audio para Android, baseado em yt-dlp, desenvolvido com Material You.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [Seeker Android](https://github.com/jackBonadies/SeekerAndroid)
+
+- Cliente Android para a rede peer-to-peer do Soulseek
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+
+## 📑 ➜ Grupos/Canais no Telegram
 
 - [MusicDownloader](https://t.me/MusicDownloaderRobot) - Bot para download de músicas.
 
@@ -200,4 +449,4 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ## Está buscando Programas para Computador?
 
-➜ Confira nossa Megathread sobre ⚙️ [Softwares](softwares)
+➜ Confira nosso tópico sobre ⚙️ [Softwares](softwares)
