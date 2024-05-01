@@ -5,7 +5,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 :::danger ⚠️ Lembrete rápido
 
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
-- 🐐 = Altamente recomendado pela comunidade pirata.
+- 🌟 = Altamente recomendado pela comunidade pirata.
   :::
 
 ## 📑 1 ➜ Downloads Diretos
@@ -20,7 +20,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Uma coleção impressionante e confiável de temas de OPs e EDs de anime com links diretos para conteúdo para download de alta qualidade.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animethemes.moe/)
 
-### 🐐 [DoubleDouble](https://doubledouble.top/)
+### 🌟 [DoubleDouble](https://doubledouble.top/)
 
 - Um contêiner para downloads gratuitos de música através do YouTube Music, Soundcloud, Qobuz, Spotify, Deezer e outros serviços.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doubledouble.top/)
@@ -132,7 +132,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Um ótimo script, que funciona com Windows, OS X e Linux, pode baixar músicas do SoundCloud e adicionar um id3tag à música.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🐐 [Soulseek](https://www.slsknet.org/news/)
+### 🌟 [Soulseek](https://www.slsknet.org/news/)
 
 - Músicas difíceis de localizar podem ser encontradas através deste cliente de compartilhamento de música, que conecta você a uma rede P2p. [Cliente Android 1](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) [cliente Android 2](https://github.com/jackBonadies/SeekerAndroid)
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/slsknet.org/)
@@ -147,7 +147,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Identifica músicas das listas de reprodução do Spotify no YouTube, baixa-as e adiciona a capa do álbum, letras e metadados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/spotdl.readthedocs.io/)
 
-### 🐐 [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
+### 🌟 [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
 
 - O downloader de música multiplataforma sem anúncios não requer geração ou ajustes nas chaves de API para funcionar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
@@ -167,7 +167,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Com esta ferramenta, você pode baixar músicas e filmes do Tidal com metadados e escolher a resolução do vídeo e a qualidade do áudio.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doc.yaronzz.com)
 
-### 🐐 [YT-DLP](https://github.com/yt-dlp/yt-dlp)
+### 🌟 [YT-DLP](https://github.com/yt-dlp/yt-dlp)
 
 - Pode baixar músicas e vídeos de mais de 1500 sites, como Crunchyroll, Funimation, SoundCloud, Bandcamp etc.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
@@ -177,10 +177,10 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Um downloader de música e podcast do Spotify muito personalizado. É aconselhável que você utilize Zotify usando uma conta de gravador.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gitlab.com/)
 
-### 🖥️ [ SpotX](https://github.com/SpotX-Official/SpotX)
+### 🖥️ [SpotX](https://github.com/SpotX-Official/SpotX)
 
 - Bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial. Disponivel temas para o client e outras personalizações.
 
 ## Está buscando apps para ouvir/baixar **Música** no Celular?
 
-➜ Confira nossa Megathread sobre 📱 [Mobile](mobile#musica)
+➜ Confira nossa Megathread sobre 📱 [Mobile](mobile#📑-➜-musica)
