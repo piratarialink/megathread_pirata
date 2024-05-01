@@ -14,7 +14,7 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 
 ## 📑 2 ➜ Downloads diretos
 
-### 🌟 [CS.RIN.RU: Steam Underground](https://cs.rin.ru/forum/) • Cadastre-se
+### 🌟 [CS.RIN.RU: Steam Underground](https://cs.rin.ru/forum/) • Necessário Cadastro
 
 - Maior fórum do mundo dedicado à pirataria de videogames, é uma valiosa fonte de jogos com vasto conhecimento.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cs.rin.ru/)
@@ -141,7 +141,7 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - Uma seleção significativa de jogos clássicos que foram otimizados para o Windows moderno. Agora é hora de eles serem soltos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/collectionchamber.blogspot.com/)
 
-### 🔗 [Torrminatorr](https://torrminatorr.com/) • Cadastre-se
+### 🔗 [Torrminatorr](https://torrminatorr.com/) - Necessário Cadastro
 
 - Um número considerável de jogos está disponível gratuitamente, incluindo GOG e outros lançamentos de cena.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrminatorr.com/)
@@ -221,6 +221,11 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 
 - Fornecem jogos DRM-FREE de fontes que foram cuidadosamente examinadas antes de serem disponibilizadas para download.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/freegogpcgames.com/)
+
+### 🧲 [Steam Preta](https://steampreta.com) - Necessário Cadastro
+
+- Site Nacional que traz jogos diversos de várias fontes confiáveis com links para download sem anúncios.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/steampreta.com/)
 
 ### 🧲 [KaOsKrew](https://kaoskrew.org/)
 
