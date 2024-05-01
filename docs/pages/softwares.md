@@ -5,7 +5,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 :::danger ⚠️ Lembrete rápido
 
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
-- 🐐 = Altamente recomendado pela comunidade pirata.
+- 🌟 = Altamente recomendado pela comunidade pirata.
   :::
 
 ## 📑 1 ➜ Downloads Diretos
@@ -70,7 +70,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Foco em recursos de uma variedade de programas para modelagem 3D, animação, gráficos em movimento, edição de vídeo e texturização.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gfxdomain.co/)
 
-### 🐐 [LRepacks](https://lrepacks.net/) • Interface em russo
+### 🌟 [LRepacks](https://lrepacks.net/) • Interface em russo
 
 - Numerosos aplicativos portáteis e utilitários que são apreciados pelos usuários por mais de dez anos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lrepacks.net/)
@@ -120,7 +120,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Recurso para Windows, Android e Mac OS, fornecendo acesso direto a montes de conteúdo crackeado.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/pesktop.com/)
 
-### 🐐 [RSLOAD](https://rsload.net/) • Interface em russo
+### 🌟 [RSLOAD](https://rsload.net/) • Interface em russo
 
 - Oferece acesso aos arquivos das versões mais recentes do app e sempre mudando e melhorando para acompanhar os tempos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rsload.net/)
@@ -177,7 +177,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Bela coleção de fontes gratuitas para download para seu site e projetos que operam em todos os sistemas operacionais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fontget.com/)
 
-### 🐐 [FontsHub](https://fontshub.pro/)
+### 🌟 [FontsHub](https://fontshub.pro/)
 
 - Obtenha fontes para criar títulos, citações, parágrafos, listas e outros componentes de texto para seus projetos de design.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fontshub.pro/)
@@ -241,16 +241,16 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Torrents para uma variedade de utilitários, aplicativos, jogos e plug-ins úteis para design gráfico, edição de vídeo e gráficos em movimento.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentmac.net/)
 
-### 🐐 [m0nkrus](https://w14.monkrus.ws/) • Interface em em russo
+### 🌟 [m0nkrus](https://w14.monkrus.ws/) • Interface em russo
 
 - Repacker para diferentes aplicativos altamente classificado, confiável e mais conhecido por seus produtos relacionados à Adobe.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/w14.monkrus.ws/)
 
-### 🧲 [Team OS](https://www.teamos.xyz) • Cadastre-se
+### 🧲 [Team OS](https://www.teamos.xyz) • Necessário Cadastro
 
 - Rastreador privado para vários grupos de lançamento. Este site incrível oferece downloads diretos e de torrent para quase todos os softwares imagináveis.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/teamos.xyz)
 
 ## Está buscando Aplicativos para Celular?
 
-➜ Confira nossa Megathread sobre 📱 [Mobile](mobile)
+➜ Confira nosso tópico sobre 📱 [Mobile](mobile)
