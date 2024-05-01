@@ -29,6 +29,26 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - Cada versão é sem perdas, sem recodificação de áudio, vídeo ou texturas. Uma opção popular para obter novos jogos para PC.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/elamigos.site/)
 
+### 🔗 [Abandonware Games](https://abandonwaregames.net/)
+
+- Arquivo que preserva e disponibiliza downloads de jogos antigos de diversas plataformas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/abandonwaregames.net/)
+
+### 🔗 [PC Games Abandonware](https://www.pcgamesabandonware.com/en/home)
+
+- Descubra jogos clássicos gratuitamente junto com uma seção dedicada para emuladores.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pcgamesabandonware.com/)
+
+### 🔗 [AtopGames](https://atopgames.com/)
+
+- Jogos inalterados e pré-instalados provenientes diretamente de fontes como ElAmigos, DODI, FitGirl, KaosKrew e Xatab.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/atopgames.com/)
+
+### 🌟 [Game Bounty](https://gamebounty.world/)
+
+- Variedade de jogos novos e clássicos pré-instalados de fácil acesso para você se divertir.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamebounty.world/)
+
 ### 🔗 [Game-2u](https://game-2u.com/)
 
 - Recurso fantástico para download de videogames, é uma fonte vital para PC e outras plataformas, incluindo ROMs para consoles também.
@@ -105,6 +125,16 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 
 - Jogos pré-instalados totalmente gratuitos! Nenhum conteúdo foi removido ou compactado e a fonte é confiável.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamrip.com/)
+
+### 🔗 [Reloaded Steam](https://reloadedsteam.com/)
+
+- Jogos pré-instalados, incluindo links diretos, juntamente com conteúdo DLC completo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/reloadedsteam.com/)
+
+### 🔗 [SteamGG](https://steamgg.net/)
+
+- Jogos pré-instalados em diversas categorias como tiro, ação, corrida e VR, agilizando o processo de download.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamgg.net/)
 
 ### 🔗 [The Collection Chamber](https://collectionchamber.blogspot.com/)
 
