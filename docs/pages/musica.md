@@ -183,4 +183,4 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## Está buscando apps para ouvir/baixar **Música** no Celular?
 
-➜ Confira nossa Megathread sobre 📱 [Mobile](mobile#📑-➜-musica)
+➜ Confira nosso tópico sobre 📱 [Mobile](mobile#📑-➜-musica)
