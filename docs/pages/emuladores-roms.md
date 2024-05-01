@@ -5,7 +5,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 :::danger ⚠️ Lembrete rápido
 
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
-- 🐐 = Altamente recomendado pela comunidade pirata.
+- 🌟 = Altamente recomendado pela comunidade pirata.
   :::
 
 ## 📑 ➜ Arquivo de Conhecimento
@@ -52,7 +52,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Reconhecer e manter a herança de numerosos videogames retro de vários sistemas e géneros.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/retrogamesonline.io/)
 
-### 🐐 [SSega](https://www.ssega.com/)
+### 🌟 [SSega](https://www.ssega.com/)
 
 - Jogue todos os jogos clássicos SEGA Genesis/Mega Drive de 16 bits disponíveis online em seu navegador.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ssega.com/)
@@ -113,7 +113,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Seus jogos favoritos podem ser jogados usando este emulador de código aberto.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/citra-emu.org/)
 
-### 🐐 [Dolphin](https://dolphin-emu.org/) • GameCube + Wii
+### 🌟 [Dolphin](https://dolphin-emu.org/) • GameCube + Wii
 
 - Excelente compatibilidade com a grande maioria dos jogos para ambos os sistemas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/dolphin-emu.org/)
@@ -153,7 +153,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Front-end mupen64plus baseado em C++ com uma interface de usuário simples.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🐐 [Ryujinx](https://ryujinx.org/) • Switch
+### 🌟 [Ryujinx](https://ryujinx.org/) • Switch
 
 - Este emulador se esforça para oferecer precisão e desempenho excelentes, com uma interface de usuário simples.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ryujinx.org/)
@@ -173,10 +173,10 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Emulador renomado, rápido, leve e simples de começar imediatamente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vba-m.com/)
 
-### 🔗 [yuzu](https://yuzu-emu.org/) • Switch
+### 🔗 [yuzu](https://krakenfiles.com/view/xFdCTjoGjv/file.html) / [2](https://buzzheavier.com/f/GMEScmhcQAA=) / [3](https://megaup.net/7w6tc/Yuzu_+_Source.rar) • Switch
 
-- Dos desenvolvedores do [Citra](https://citra-emu.org/) vem um emulador experimental de código aberto.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/vba-m.com/)
+- **Não é mais desenvolvido.** Os Jogos podem ser jogados usando esse emulador de código aberto.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/krakenfiles.com/)
 
 ## 📑 ➜ Sega
 
@@ -185,7 +185,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Bom emulador multiplataforma que também suporta Naomi, Naomi 2 e Atomiswave.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🐐 [Kega Fusion](https://www.carpeludum.com/kega-fusion/) / [2](https://segaretro.org/Kega_Fusion) • Todos os consoles **lançados antes** Sega Saturn
+### 🌟 [Kega Fusion](https://www.carpeludum.com/kega-fusion/) / [2](https://segaretro.org/Kega_Fusion) • Todos os consoles **lançados antes** Sega Saturn
 
 - Uma enorme ênfase na precisão, altamente otimizada e funciona muito bem.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/carpeludum.com/)
@@ -202,12 +202,12 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Emulador de console com ênfase em jogabilidade, velocidade e acessibilidade de longo prazo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/duckstation.org/)
 
-### 🐐 [ePSXe](https://www.epsxe.com/) • PlayStation 1
+### 🌟 [ePSXe](https://www.epsxe.com/) • PlayStation 1
 
 - Emulador incrível que é rápido e fácil para começar a jogar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/epsxe.com/)
 
-### 🐐 [PCSX2](https://pcsx2.net/) • PlayStation 2
+### 🌟 [PCSX2](https://pcsx2.net/) • PlayStation 2
 
 - Um projeto de mais de 20 anos capaz de rodar a maioria dos jogos a toda velocidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pcsx2.net/)
@@ -229,7 +229,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## 📑 ➜ ROMs
 
-### 🐐 [Crocdb](https://crocdb.net/)
+### 🌟 [Crocdb](https://crocdb.net/)
 
 - ROMs para multiplos sistemas com download direto do site.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/crocdb.net/)
@@ -298,7 +298,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Pretende fornecer todos os arquivos ROM ou ISO concebíveis para um jogo antigo arquivado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/retrostic.com/)
 
-### 🐐 [Rom Hustler](https://romhustler.org/)
+### 🌟 [Rom Hustler](https://romhustler.org/)
 
 - Gama mais abrangente de ROMs excelentes disponíveis para download gratuito.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhustler.org/)
@@ -313,17 +313,23 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Explore mais de 30.000 roms verificadas, incluindo 3.000 pré-atualizadas e 5.000 traduções de fãs.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romspure.cc/)
 
-### 🐐 [RomUlation](https://www.romulation.org/)
+### 🌟 [RomUlation](https://www.romulation.org/)
 
 - Jogos de console retrô no seu PC. Reviva sua infância agora mesmo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romulation.org/)
 
-### 🐐 [Vimm's Lair](https://vimm.net/)
+### 🌟 [Vimm's Lair](https://vimm.net/)
 
 - Dedicado a boas lembranças de vários dos melhores sistemas e milhares de jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
+## 📑 ➜ Torrents
+
+### 🧲 [BlueRoms](https://www.blueroms.ws/)
+
+- Explore uma vasta coleção de ROMs para PS1, PS2, PS3, PSP, Wii, 3DS e muito mais!
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/blueroms.ws/)
 
 ## Está buscando Jogos de Computador?
 
-➜ Confira nossa Megathread sobre 🎮 [Jogos](jogos)
+➜ Confira nosso tópico sobre 🎮 [Jogos](jogos)
