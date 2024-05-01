@@ -261,7 +261,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Cheats, mods e versões APKs desbloqueados de qualidade para jogos e aplicativos Android populares.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sbenny.com/)
 
-## 📑 Música
+## 📑 ➜ Música
 
 ### 🔗 [Namida](https://github.com/namidaco/namida) 
 
@@ -354,7 +354,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xmanagerapp.com/)
 
 
-## 📑 Filmes e TV
+## 📑 ➜ Filmes e TV
 
 ### 🌟 [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) + [Addons](https://stremio-addons.netlify.app/) - [Nota Importante!](outros/stremio)
 
