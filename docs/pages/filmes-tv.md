@@ -119,9 +119,17 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🧲 Torrents
 
-### 🌟 [Comando.la](https://comando.la/)
+### 🌟 [Comando](https://comando.la/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comando.la/)
+
+### 🌟 [BluDV](https://bludv.xyz/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv.xyz/)
+
+### 🧲 [Torrent dos Filmes.site](https://torrentdosfilmes.site/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes.site/)
 
 ### 🧲 [Rede Torrent](https://redetorrent.com/)
 
