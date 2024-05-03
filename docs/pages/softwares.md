@@ -20,7 +20,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Estão disponíveis centenas de novos modelos After Effects e Premiere Pro, incluindo efeitos sonoros.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/aedownload.com/)
 
-### 🔗 [ALLPCWorld](https://allpcworld.com/)
+### 🔗 [ALLPCWorld](https://allpcworld.com/) / ⚠️
 
 - Baixe o software mais recente com apenas um clique e instalação rápida.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/allpcworld.com/)
