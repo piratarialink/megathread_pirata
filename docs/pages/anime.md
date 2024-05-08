@@ -11,11 +11,6 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 ## 📑 1 ➜ Streaming
 
-### ▶️ [Anime phane](https://animepahe.com/)
-
-- Ótimo site que oferece opções HD e Full HD para assistir, disponivel downloads direto!
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/animepahe.com/)
-
 ### ▶️ [Hinata Soul](https://www.hinatasoul.com/)
 
 - Ótimo site que oferece opções HD e Full HD para assistir
@@ -48,10 +43,6 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 ### 🧲 [Dark Mahou](https://darkmahou.org/)
 
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/darkmahou.org/)
-
-### 🧲 [Keroseed](https://www.keroseed.com/)
-
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/keroseed.com/)
 
 ### 🧲 [AniDex](https://anidex.info/)
 
