@@ -235,8 +235,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Você pode desfrutar de todos os seus audiolivros favoritos gratuitamente online. Basta clicar para ouvir!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hotaudiobooks.com/)
 
-### 🔗 [tokybook](https://tokybook.com/)
-
 
 ## 📑 9 ➜ Grupos/Canais no Telegram
 
@@ -296,6 +294,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ➜ Confira essa Megathread do [FMHY - Books / Comics / Manga](https://fmhy.pages.dev/readingpiracyguide/)
 
-## Quer saber mais sobre sites de **Mángas**?
+## Quer saber mais sobre sites de **Mangás**?
 
 ➜ Confira essa lista para mais sites para ler Mangá: [https://pastelink.net/mangas](https://pastelink.net/mangas)
