@@ -69,6 +69,13 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - Existem mais de 590.000 materiais, incluindo muitos recursos de nomes como Anime Garden, Jiying BT e Youxia BT.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/share.acgnx.se/)
 
+## 📑 3 ➜ Canais/Grupos no Telegram
+
+### 🐐 [Algo Animes](https://t.me/algoanimes)
+
+- Mesmo criador do Algo Books!
+
+
 ## Está buscando apps para assistir/baixar **Anime** no Celular?
 
 ➜ Confira nosso tópico sobre 📱 [Mobile](mobile#📑-➜-anime-e-manga)
