@@ -65,6 +65,14 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Bypass paywalls - Método 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o agente do usuário para o Google Bot.
 - [Google-Unlocked](https://github.com/Ibit-to/google-unlocked) - Extensão de navegador de código aberto, que desbloqueia resultados de pesquisa ocultos do Google.
 
+## ► **Burladores de paywall**
+
+- [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
+- [Remove paywall](https://www.removepaywall.com/)
+- [12ft](https://12ft.io/)
+- [Smry](https://www.smry.ai/)
+- [ArchiveIs](https://archive.is/)
+
 ## ► **Scripts de usuário úteis**
 
 - [**Violentmonkey**](https://violentmonkey.github.io/) - Gerenciador de script de usuário de código aberto. Necessário para instalar qualquer um dos scripts de usuário abaixo
