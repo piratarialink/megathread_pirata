@@ -13,13 +13,13 @@ export default {
     [
       'link', 
       { 
-        rel: 'icon', type: 'image/x-icon', href: '/favicon-dark.ico'
+        rel: 'icon', media: '(prefers-color-scheme: light)', href: '/favicon.ico'
       }
     ],
     [
       'link', 
       { 
-        rel: 'icon', href: '/favicon-dark.ico',
+        rel: 'icon', media: '(prefers-color-scheme: dark)', href: '/favicon-dark.ico'
       }
     ],
   ],
