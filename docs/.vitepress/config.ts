@@ -13,13 +13,7 @@ export default {
     [
       'link', 
       { 
-        rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'
-      }
-    ],
-    [
-      'link', 
-      { 
-        rel: 'icon', href: '/favicon.ico'
+        rel: 'icon', href: '/favicon.svg', type: 'image/svg+xml'
       }
     ],
   ],
