@@ -19,7 +19,7 @@ export default {
     [
       'link', 
       { 
-        rel: 'icon', href: '/favicon.svg', type: 'image/svg+xml'
+        rel: 'icon', href: '/favicon-dark.ico',
       }
     ],
   ],
