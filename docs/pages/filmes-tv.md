@@ -14,14 +14,13 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cwa6a2e.xn--p1ai/)
 
+### ▶️ [CriaFlix](https://criaflix.live/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/criaflix.live/)
+
 ### ▶️ [Braflix](https://www.braflix.video)
 
 - O banco de dados de filmes constantemente atualizado é o refúgio perfeito para todos os cinéfilos apaixonados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/braflix.video/)
-
-### ▶️ [TudoHD](https://tudohd.online/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tudohd.online/)
 
 ### ▶️ [Mega Filmes HD](https://www.megafilmeshds.net/)
 
