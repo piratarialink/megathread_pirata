@@ -14,6 +14,9 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cwa6a2e.xn--p1ai/)
 
+### ▶️ [CriaFlix](https://criaflix.live/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/criaflix.live/)
+
 ### ▶️ [Braflix](https://www.braflix.video)
 
 - O banco de dados de filmes constantemente atualizado é o refúgio perfeito para todos os cinéfilos apaixonados.
@@ -119,9 +122,17 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🧲 Torrents
 
-### 🌟 [Comando.la](https://comando.la/)
+### 🌟 [Comando](https://comando.la/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comando.la/)
+
+### 🌟 [BluDV](https://bludv.xyz/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv.xyz/)
+
+### 🧲 [Torrent dos Filmes.site](https://torrentdosfilmes.site/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes.site/)
 
 ### 🧲 [Rede Torrent](https://redetorrent.com/)
 

@@ -3,10 +3,9 @@
 Os jogos requerem interação com uma interface de usuário ou dispositivo de entrada, como um controlador ou teclado, para produzir feedback audiovisual divertido.
 
 :::danger ⚠️ Lembrete rápido
-
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
 - 🌟 = Altamente recomendado pela comunidade pirata.
-  :::
+:::
 
 ## 📑 1 ➜ Programas
 
@@ -221,11 +220,6 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 
 - Fornecem jogos DRM-FREE de fontes que foram cuidadosamente examinadas antes de serem disponibilizadas para download.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/freegogpcgames.com/)
-
-### 🧲 [Steam Preta](https://steampreta.com) - Necessário Cadastro
-
-- Site Nacional que traz jogos diversos de várias fontes confiáveis com links para download sem anúncios.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/steampreta.com/)
 
 ### 🧲 [KaOsKrew](https://kaoskrew.org/)
 

@@ -3,11 +3,10 @@
 Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora também possa ser aplicado a outras animações, como Donghua.
 
 :::danger ⚠️ Lembrete rápido
-
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
 - 🚨 Caso algum site não carregue mude o seu DNS para uma dessas [ótimas opções](https://www.privacyguides.org/en/dns/).
 - 🌟 = Altamente recomendado pela comunidade pirata.
-  :::
+:::
 
 ## 📑 1 ➜ Streaming
 
