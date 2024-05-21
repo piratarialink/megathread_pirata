@@ -3,10 +3,9 @@
 Os jogos requerem interação com uma interface de usuário ou dispositivo de entrada, como um controlador ou teclado, para produzir feedback audiovisual divertido.
 
 :::danger ⚠️ Lembrete rápido
-
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
 - 🌟 = Altamente recomendado pela comunidade pirata.
-  :::
+:::
 
 ## 📑 1 ➜ Programas
 
