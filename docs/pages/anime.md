@@ -68,6 +68,19 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - Existem mais de 590.000 materiais, incluindo muitos recursos de nomes como Anime Garden, Jiying BT e Youxia BT.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/share.acgnx.se/)
 
+### 🧲 [Anime no Sekai](https://www.ansktracker.net/) | ANSK
+
+-  Tracker semi-privado 
+
+### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
+
+-  Tracker semi-privado 
+
+### 🧲 [Shakaw](https://tracker.shakaw.com.br/) 
+
+-  Tracker privado 
+
+
 ## 📑 3 ➜ Canais/Grupos no Telegram
 
 ### 🐐 [Algo Animes](https://t.me/algoanimes)
