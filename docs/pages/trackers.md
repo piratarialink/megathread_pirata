@@ -16,11 +16,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [Brasil Japão Share](https://bj-share.info/) | BJS
 
-### 🧲 [CP Turbo](http://cptv3ofjaw2hr5fqdhnno5qazsy3a6fz6yj2w6t2n2udvqfypsa3u7qd.onion/cpt/login/) | CPT
-
 ### 🧲 [CapybaraBR](https://capybarabr.com/register) | CBR
-
-### 🧲 [HubWarez](https://hubwarez.tv/forum/register.php)
 
 ### 🧲 [Locadora](https://locadora.cc/) | LCD
 
