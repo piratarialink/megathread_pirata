@@ -89,6 +89,7 @@ export default {
           { text: "👟 Esportes", link: "pages/esportes" },
           { text: "🧰 Ferramentas", link: "pages/ferramentas" },
           { text: "🧵 Trackers", link: "pages/trackers" },
+          { text: "📺 Warez", link: "pages/warez" },
           { text: "☣️ Sites Inseguros", link: "pages/sites-inseguros" },
         ],
       },
