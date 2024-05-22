@@ -74,6 +74,16 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 - Mesmo criador do Algo Books!
 
+## 📰 4 ➜ Legendas
+
+### 🔗[InfoAnime](https://www.infoanime.com.br/)
+
+- Levantamento dos Fansubers e Scanlators brasileiros para registrar e acompanhar os projetos que estão sendo legendados.
+
+### 🔗[AnimeDB](https://anidb.net/)
+
+- Versão internacional do InfoAnime
+
 
 ## Está buscando apps para assistir/baixar **Anime** no Celular?
 
