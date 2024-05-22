@@ -12,7 +12,9 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [Brasil Tracker](https://brasiltracker.org/index.php)   | BT
 
-### 🧲 [BrSociety](https://brsociety.club/) | BRS          
+### 🧲 [BrSociety](https://brsociety.club/) | BRS ⚠️ Tracker OFF ⚠️    
+
+### 🧲 [Brasil Japão Share](https://bj-share.info/) | BJS
 
 ### 🧲 [CP Turbo](http://cptv3ofjaw2hr5fqdhnno5qazsy3a6fz6yj2w6t2n2udvqfypsa3u7qd.onion/cpt/login/) | CPT
 
@@ -20,7 +22,9 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [HubWarez](https://hubwarez.tv/forum/register.php)
 
-### 🧲 [Locadora](https://locadora.cc/)
+### 🧲 [Locadora](https://locadora.cc/) | LCD
+
+### 🧲 [Making Off](https://makingoff.org/) | MKO
 
 ### 🧲 [Plusteca](https://plusteca.com/register/)
 
