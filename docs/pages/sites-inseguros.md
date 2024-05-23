@@ -50,6 +50,7 @@
 | 💩 IGGGames      | igg-games-com               | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
 | NexusGames       | nexus-games-net             | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
 | nosTeam          | nosteamgames-ro             | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
+| Ocean of Apks    | oceanofapks-com             | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
 | Ocean of Games   | oceansofgamess-com          | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
 | Repack-Games     | repack-games-com            | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
 | Steam-Repacks    | steam-repacks-com           | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
