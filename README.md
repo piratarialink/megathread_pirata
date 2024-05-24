@@ -23,7 +23,7 @@ Nossa comunidade é bem-vinda para contribuir na manutenção e atualização da
 3. Faça as edições necessárias nos arquivos Markdown, situado na pasta docs/pages.
 4. Envie um pull request para este repositório principal.
 5. Explique quais mudanças e adições você fez e por qual motivo aquela mudança ou adição seria interessante.
-6. De preferência que seja um site nacional, mas se for um site gringo está de bom agrado.
+6. De preferência que seja um site nacional, mas se for um site gringo está de bom grado.
 7. Evite causar danos para minorias, como desenvolvedores de jogos indies, por exemplo.
 8. Verificar os sites e links antes de enviar o pull request, por exemplo, reputação do site (procurar no Reddit e outras redes), idade do domínio, etc.
 9. O site não pode conter avisos no [URL Void](https://www.urlvoid.com/), se o site tiver falso positivos explique por que é um falso positivo.
