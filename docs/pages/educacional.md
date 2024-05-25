@@ -124,7 +124,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🧲 [Pimp My Money](https://pimpmymoney.net/) - Cursos de Marketing Digital
 
-## 📑 ➜ Grupos/Canais no Telegram
+## 📑 ➜ Grupos/Canais/Ferramentas no Telegram
 
 ### 🐐 [Polemic Knowledge](https://t.me/PolemicKnowledge)
 
@@ -133,6 +133,10 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### 🔗 [Polemic Hub](https://t.me/polemic)
 
 - Apenas um backup e "Hub" para outros canais do Polemic.
+
+### 🔗 [Search bot](@en_SearchBot)
+
+- Substitui a busca obsoleta e ineficaz do Telegram. Ótimo para encontrar cursos.
 
 ### 🔗 [Brasil Cursos🇧🇷](https://t.me/Brasil_Cursos_Novo)
 
