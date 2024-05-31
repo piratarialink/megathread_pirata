@@ -10,9 +10,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [Amigos Share Club](https://cliente.amigos-share.club/) | ASC
 
-### 🧲 [Brasil Tracker](https://brasiltracker.org/index.php)   | BT
-
-### 🧲 [BrSociety](https://brsociety.club/) | BRS ⚠️ Tracker OFF ⚠️    
+### 🧲 [Brasil Tracker](https://brasiltracker.org/index.php)   | BT  
 
 ### 🧲 [Brasil Japão Share](https://bj-share.info/) | BJS
 
