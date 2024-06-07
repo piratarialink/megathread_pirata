@@ -2,6 +2,10 @@
 
 Guias úteis para ajudá-lo em suas viagens marítimas.
 
+## 📑 ➜ [Como baixar arquivos de bots IRC/XDCC](guias/guia-xdcc)
+
+Dentro da chamada "pirâmide da pirataria", no mesmo nível dos trackers de torrent públicos, existem canais de IRC com bots que compartilham arquivos via XDCC, os chamados Fservers, bastante populares principalmente entre os fãs de animes. Neste tutorial, irei explicar o básico de como baixar animes legendados através destes Fservers, e darei algumas referências ao final para quem quiser se aprofundar mais sobre como usar o IRC.
+
 ## 📑 ➜ [Como abrir portas no roteador em rede CGNAT](guias/cgnat-portas)
 
 Na era da conectividade digital, a necessidade de acessar serviços e aplicativos específicos através da internet se tornou uma parte fundamental do nosso dia a dia. No entanto, para muitos usuários, a configuração de portas no roteador pode ser um desafio, especialmente em redes CGNAT (Carrier Grade Network Address Translation). Este artigo mergulha no processo de abrir portas em um roteador em uma rede CGNAT, desvendando os segredos por trás dessa tarefa aparentemente complicada e oferecendo soluções simples para garantir uma conexão eficaz e sem obstáculos.
