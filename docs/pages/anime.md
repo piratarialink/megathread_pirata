@@ -49,7 +49,7 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - Acompanhe, encontre, compartilhe e veja anime de alta qualidade. Se procura um serviço confiável e seguro, já o encontrou.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yugenanime.tv/)
 
-## 📑 3 ➜ Torrents
+## 📑 2 ➜ Torrents
 
 ### 🧲 [AniDex](https://anidex.info/)
 
@@ -98,13 +98,13 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 - Tracker semi-privado
 
-## 📑 4 ➜ Canais/Grupos no Telegram
+## 📑 3 ➜ Canais/Grupos no Telegram
 
 ### 🐐 [Algo Animes](https://t.me/algoanimes)
 
 - Mesmo criador do Algo Books!
 
-## 📰 5 ➜ Legendas
+## 📰 4 ➜ Legendas
 
 ### 🔗 [AnimeDB](https://anidb.net/)
 
