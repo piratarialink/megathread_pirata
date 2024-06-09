@@ -49,49 +49,6 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - Acompanhe, encontre, compartilhe e veja anime de alta qualidade. Se procura um serviço confiável e seguro, já o encontrou.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yugenanime.tv/)
 
-## 📑 2 ➜ Downloads diretos
-
-### 🔗 [Anime Tosho](https://animetosho.org/)
-
-- Serviço gratuito e totalmente automatizado que espelha a maioria dos torrents
-- Nyaa e Tokyo Toshokan em vários provedores de hospedagem de arquivos de download direto.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animetosho.org/)
-
-### [AnimeOut](https://www.animeout.xyz/)
-
-- Pesquisa entre milhares de títulos de anime codificados que são oferecidos em 720p e 1080p.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animeout.xyz/)
-
-### [ChauThanh](https://chauthanh.info/)
-
-- Baixe anime, drama e trilhas sonoras gratuitamente. Obtenha arquivos e links de alta qualidade para mais de 5000 séries.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/chauthanh.info/)
-
-### [Flugel Anime](https://flugel-anime.com/)
-
-- Arquivo extenso de nyaa.si. Desfrute de downloads muito rápidos, permitindo-lhe desfrutar das suas séries de anime favoritas.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/flugel-anime.com)
-
-### [Hi10 Anime](https://hi10anime.com/) - Necessário Registro
-
-- Oferecendo o menor tamanho de arquivo, mas codificações de anime da mais alta qualidade, dependendo do conteúdo do anime.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/hi10anime.com/)
-
-### [Kayoanime](https://kayoanime.com/) - Juntar-se ao Grupo Google
-
-- Construído com amor, este site é uma comunidade para fãs de anime onde os utilizadores podem partilhar atualizações, notícias e obter downloads de novos animes.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/kayoanime.com/)
-
-### [NoobSubs](https://www.noobsubs.com/)
-
-- Oferece anime para download direto com duas faixas de áudio em inglês. Torrents também disponíveis.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/noobsubs.com/)
-
-### [Tokyo Insider](https://www.tokyoinsider.com/)
-
-- Site fácil de navegar e uma grande coleção de séries de anime, incluindo downloads de alguns dos subbers mais populares.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/tokyoinsider.com/)
-
 ## 📑 3 ➜ Torrents
 
 ### 🧲 [AniDex](https://anidex.info/)
@@ -103,6 +60,12 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 - Tracker de torrent fácil e descomplicado, onde você pode encontrar os mais novos torrents relacionados a animes japoneses, bem como alguns dramas, mangás e músicas.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/anirena.com/)
+
+### 🧲 [Anime Tosho](https://animetosho.org/)
+
+- Serviço gratuito e totalmente automatizado que espelha a maioria dos torrents
+- Nyaa e Tokyo Toshokan em vários provedores de hospedagem de arquivos de download direto.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animetosho.org/)
 
 ### 🧲 [Anime no Sekai](https://www.ansktracker.net/) | ANSK
 
