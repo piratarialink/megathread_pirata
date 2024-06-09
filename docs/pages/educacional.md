@@ -51,6 +51,8 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[ck12](https://www.ck12.org/student/)** - Cursos
 
+### ▶️ **[w3schools](https://w3schools.com/)** - Cursos
+
 ## 📑 ➜ Downloads diretos
 
 ### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)** - Você pode baixar os cursos fornecidos no próprio Telegram.
@@ -138,7 +140,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🔗 [Search bot](@en_SearchBot)
 
-- Substitui a busca obsoleta e ineficaz do Telegram. Ótimo para encontrar cursos.
+- Substitui a busca nativa e obsoleta do Telegram. Ótimo para encontrar cursos.
 
 ### 🔗 [Brasil Cursos🇧🇷](https://t.me/Brasil_Cursos_Novo)
 
