@@ -285,5 +285,6 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Open Cloud Saves](https://opencloudsaves.com/) - Open Cloud Save é um aplicativo gratuito que permitirá sincronizar seus dados salvos em todos os seus dispositivos. Roda em Windows, MacOS e Linux.
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 - [doc downloader](https://docdownloader.com/) - Downloader de Scribd, Issuu, Slideshare.
+- [I2P](https://geti2p.net/en/) - Rede que fornece forte proteção e sigilo para comunicação através da internet. É recomendável usá-lo no lugar do Tor browser.
 
 Mais ferramentas no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=29)
