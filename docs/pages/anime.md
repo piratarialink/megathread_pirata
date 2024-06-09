@@ -71,11 +71,6 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - Este site tem uma interface elegante, o maior arquivo de conteúdo impressionante de anime gratuito online.
 - [URL Resultados de Segurança](https://www.urlvoid.com/scan/anime-owl.net/)
 
-### ▶️ [AnimePahe](https://animepahe.ru/)
-
-- Acesso sem esforço a milhares de animes. Fluxo confiável com uso mínimo de dados e atualizações dos maiores lançamentos de torrent.
-- [Resultados de Segurança URL](https://www.urlvoid.com/scan/animepahe.ru/)
-
 ### ▶️ [AnimeRealms](https://www.animerealms.org/)
 
 - Assista anime online grátis em HD e em dispositivos móveis. Todas as séries e filmes estão em muito boa qualidade.
