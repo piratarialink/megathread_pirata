@@ -117,5 +117,3 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 ## Está buscando apps para assistir/baixar **Anime** no celular?
 
 ➜ Confira nosso tópico sobre 📱 [Mobile](mobile#📑-➜-anime-e-manga)
-
-➜ Confira essa lista para mais sites para assistir animes: [https://pastelink.net/animes](https://pastelink.net/animes)
