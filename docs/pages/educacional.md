@@ -140,7 +140,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🔗 [Search bot](@en_SearchBot)
 
-- Substitui a busca obsoleta e ineficaz do Telegram. Ótimo para encontrar cursos.
+- Substitui a busca nativa e obsoleta do Telegram. Ótimo para encontrar cursos.
 
 ### 🔗 [Brasil Cursos🇧🇷](https://t.me/Brasil_Cursos_Novo)
 
