@@ -11,30 +11,16 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 ## 📑 1 ➜ Streaming
 
-### ▶️ [123anime](https://123anime.info/)
+### 🌟 [Better Anime](https://betteranime.net/)
 
-- Fácil acesso a uma boa seleção de anime. Fluxo confiável e atualizações dos lançamentos mais recentes.
-- [Resultados de Segurança URL](https://www.urlvoid.com/scan/123anime.info/)
+- O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar.
+- [Resultados de Segurança URL](https://www.urlvoid.com/scan/betteranime.net/)
 
 ### ▶️ [4anime](https://4anime.gg/)
 
 - Após o encerramento do 4anime original, esta é uma alternativa incrivelmente rápida onde se pode ver anime e espetáculos.
-- [URL Safety Results](https://www.urlvoid.com/scan/4anime.gg/)
-
-### ▶️ [AllAnime](https://allanime.co/)
-
-- Um recurso confiável, que recolhe inúmeros sites diferentes com várias opções.
-- [Resultados de Segurança URL](https://www.urlvoid.com/scan/allanime.co/)
-
-### ▶️ [AniPulse](https://anipulse.to/)
-
-- Um paraíso para os amantes de anime, que oferece uma boa variedade de conteúdos cativantes de todos os gêneros.
-- [URL Resultados de Segurança](https://www.urlvoid.com/scan/anipulse.to/)
-
-### ▶️ [AniWave](https://aniwave.to/)
-
-- Com uma forte ênfase em títulos de anime em uma variedade de gêneros, você pode descobrir praticamente qualquer série que você deseja.
-- [URL Safety Results](https://www.urlvoid.com/scan/aniwave.to/)
+- Apesar do site ser gringo geralmente animes populares tem legendas em PT-BR.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4anime.gg/)
 
 ### ▶️ [Animes House](https://animeshouse.app/)
 
@@ -44,117 +30,19 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 ### ▶️ [Animeflix](https://animeflix.gg/) / [2](https://animeflix.domains/)
 
 - Site muito bom para streaming gratuito de anime em inglês legendado e dublado.
-- [URL Safety Results](https://www.urlvoid.com/scan/animeflix.gg/)
-
-### ▶️ [Animefox](https://animefox.mobi/)
-
-- Assista anime online grátis em HD e em dispositivos móveis. Todas as séries e filmes estão em muito boa qualidade.
-- [URL Safety Results](https://www.urlvoid.com/scan/animefox.mobi/)
-
-### ▶️ [AnimeFrenzy](https://animefrenzy.cc/)
-
-- Desfrute do melhor serviço de streaming de anime e encontre o seu título favorito na nossa grande coleção de obras.
-- [URL Resultados de Segurança](https://www.urlvoid.com/scan/animefrenzy.cc/)
-
-### ▶️ [AnimeHub](https://animehub.ac/)
-
-- É altamente recomendável não perder este site onde se pode assistir anime online em alta definição.
-- [URL Resultados de Segurança](https://www.urlvoid.com/scan/animehub.ac/)
-
-### ▶️ [AnimeNana](https://animenana.com/)
-
-- Servidores de streaming super rápidos para o seu anime favorito, com os últimos lançamentos.
-- [URL Resultados de Segurança](https://www.urlvoid.com/scan/animenana.com/)
-
-### ▶️ [AnimeOwl](https://anime-owl.net/)
-
-- Este site tem uma interface elegante, o maior arquivo de conteúdo impressionante de anime gratuito online.
-- [URL Resultados de Segurança](https://www.urlvoid.com/scan/anime-owl.net/)
-
-### ▶️ [AnimeRealms](https://www.animerealms.org/)
-
-- Assista anime online grátis em HD e em dispositivos móveis. Todas as séries e filmes estão em muito boa qualidade.
-- [URL Safety Results](https://www.urlvoid.com/scan/animerealms.org/)
-
-### ▶️ [AnimeSuge](https://animesuge.to/)
-
-- Servidores de streaming rápidos que permitem ver o seu anime favorito. O material é atualizado todos os dias.
-- [URL Resultados de Segurança](https://www.urlvoid.com/scan/animesuge.to/)
-
-### ▶️ [AnimeXin](https://animexin.vip/) - Donghua
-
-- Site exclusivamente focado na série Donghua + fansub original. Frequentemente hospeda material no sempre poderoso YouTube.
-- [Resultados de Segurança URL](https://www.urlvoid.com/scan/animexin.vip/)
-
-### ▶️ [Anitaku](https://anitaku.to/)
-
-- Por ser tão simples, basta escolher um episódio e começar a ver.
-- [URL Resultados de Segurança](https://www.urlvoid.com/scan/anitaku.to/)
-
-### ▶️ [AniXen](https://anixen.vercel.app/)
-
-- Apresenta uma série de títulos de anime de vários gêneros, acessíveis para exploração.
-- [URL Resultados de Segurança](https://www.urlvoid.com/scan/anixen.vercel.app/)
-
-### ▶️ [Anix](https://anix.to/)
-
-- Influencia-se na conhecida plataforma AniMixPlay que apresenta um layout minimalista.
-- [URL Resultados de Segurança](https://www.urlvoid.com/scan/anix.to/)
-
-### 🌟 [Better Anime](https://betteranime.net/)
-
-- O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar.
-- [Resultados de Segurança URL](https://www.urlvoid.com/scan/betteranime.net/)
-
-### ▶️ [Dramalama](https://dramalama.netlify.app/) / [2](https://dramalama.vercel.app/)
-
-- Plataforma para assistir anime, kdramas, além de mangás e filmes.
-- [URL Safety Results](https://www.urlvoid.com/scan/dramalama.netlify.app/)
-
-### ▶️ [HiAnime](https://hianime.to/)
-
-- Site de streaming muito rápido onde também se pode baixar anime legendado ou dublado em qualidade super HD.
-- [URL Safety Results](https://www.urlvoid.com/scan/hianime.to/)
+- Apesar do site ser gringo geralmente animes populares tem legendas em PT-BR.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animeflix.gg/)
 
 ### ▶️ [Hinata Soul](https://www.hinatasoul.com/)
 
 - Ótimo site que oferece opções HD e Full HD para assistir.
 - [Resultados de Segurança URL](https://www.urlvoid.com/scan/hinatasoul.com/)
 
-### ▶️ [HolyMix](https://holymix.netlify.app/)
-
-- Anime de alta qualidade, onde os espectadores podem desfrutar de streaming sem anúncios.
-- [URL Resultados de Segurança](https://www.urlvoid.com/scan/holymix.netlify.app/)
-
-### ▶️ [Kaido](https://kaido.to/)
-
-- Site de streaming de anime confiável e rápido. Beneficie de características excepcionais como a resolução HD.
-- [Resultados de Segurança URL](https://www.urlvoid.com/scan/kaido.to/)
-
 ### ▶️ [KickAssAnime](https://kickassanime.am/)
 
 - Fiável para novos lançamentos com excelente qualidade, mas não é a melhor seleção para anime mais antigo.
+- Apesar do site ser gringo geralmente animes populares tem legendas em PT-BR.
 - [Resultados de Segurança URL](https://www.urlvoid.com/scan/kickassanime.am/)
-
-### ▶️ [Myanime](https://myanime.live/) - Donghua
-
-- Existem várias opções de streaming de donghua com legendas em inglês acessíveis neste sítio web.
-- [URL Resultados de Segurança](https://www.urlvoid.com/scan/myanime.live/)
-
-### ▶️ [Nanime](https://www.nanime.one/)
-
-- Pode assistir a anime online gratuitamente neste serviço de streaming, e certamente encontrará mais programas e filmes aqui.
-- [URL Resultados de Segurança](https://www.urlvoid.com/scan/nanime.one/)
-
-### ▶️ [Playtaku](https://gogohd.net/)
-
-- Veio ao sítio certo se está à procura de algo novo e intrigante.
-- [URL Resultados de Segurança](https://www.urlvoid.com/scan/anihdplay.com/)
-
-### ▶️ [WcoFun](https://wcofun.org/) / [2](https://www.wco.tv/)
-
-- Assista a uma variedade de desenhos animados e anime gratuitamente no site em HD incrível.
-- [URL Safety Results](https://www.urlvoid.com/scan/wcofun.org/)
 
 ### 🌟 [YugenAnime](https://yugenanime.tv/)
 
