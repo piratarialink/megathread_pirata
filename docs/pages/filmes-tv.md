@@ -55,10 +55,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/warezcdn.com/)
 
-### ▶️ [Hurawatch](https://hurawatch2.to/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hurawatch2.to/)
-
 ## ▶️ Legendados
 
 ### 🌟 [FMovies](https://fmoviesz.to/home)
@@ -94,6 +90,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - KissAsian é um site de streamings de doramas legendados que funciona desde 2015. Recomendamos o bloqueador de anúncios ativado por conta dos anúncios terceiros no player de vídeo. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kissasian.lu/)
+
+### ▶️ [Hurawatch](https://hurawatch2.to/)
+
+- Oferece suporte para legendas em Português-BR. Muito fácil de se usar e com uma busca bastante apurada para filmes e séries.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hurawatch2.to/)
 
 ## 📺️ TV
 
