@@ -55,6 +55,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/warezcdn.com/)
 
+### ▶️ [Hurawatch](https://hurawatch2.to/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hurawatch2.to/)
+
 ## ▶️ Legendados
 
 ### 🌟 [FMovies](https://fmoviesz.to/home)
