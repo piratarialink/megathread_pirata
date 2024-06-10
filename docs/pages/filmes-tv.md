@@ -6,7 +6,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 Para bloquear anúncios e malware
 
-- Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) + [Fast Forward](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/) com essas [configurações otimizadas](https://take-me-to.space/UShoGZ7.png)
+- Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) com essas [configurações otimizadas](https://take-me-to.space/UShoGZ7.png)
 - No mobile utilize o [Kiwi browser](https://kiwibrowser.com/) + [tab block](https://chromewebstore.google.com/detail/tabblock/ljmkpdhploeaohmnljbbkohmmfkikklj) + o próprio adblock do navegador.
 :::
 
