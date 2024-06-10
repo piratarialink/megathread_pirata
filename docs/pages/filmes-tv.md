@@ -3,7 +3,7 @@
 Filmes e TV são obras de arte visual que empregam imagens em movimento para imitar experiências, percepções, sentimentos e beleza.
 
 :::tip ⌛ Não se esqueça marinheiro!
-- Use no celular ou computador o [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) com essas [configurações otimizadas](https://take-me-to.space/UShoGZ7.png)(Para bloquear anúncios e malware).
+- Use no celular ou computador o [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) com essas [configurações otimizadas](https://take-me-to.space/UShoGZ7.png)(Bloqueia anúncios e malware).
 :::
 
 :::danger ⚠️ Aviso
