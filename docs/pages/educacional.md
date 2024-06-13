@@ -130,6 +130,10 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Apenas um backup e "Hub" para outros canais do Polemic.
 
+### 🔗 [Hidra Cursos](https://t.me/+FM6yeYAwrCFlN2Ex)
+
+- Baixe arquivos destinados a concursos, estudos e programação. Você pode solicitar também materiais pelo canal associando.
+
 ### 🔗 [Search bot](@en_SearchBot)
 
 - Substitui a busca nativa e obsoleta do Telegram. Ótimo para encontrar cursos.
