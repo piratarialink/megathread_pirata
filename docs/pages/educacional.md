@@ -7,10 +7,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 - 🐐 = Altamente recomendado pela comunidade pirata.
 :::
 
-## 📑 ➜ [Acervo Aslaki](https://drive.aslaki.com/Acervo/) | [Onion](http://drive.anonymouscibyfrq27vxzji5nwfoemmxlbsuimhguhwzwwhgxanovfqd.onion/Acervo/)
-
-- Cursos de Arquitetura de Software, Backend, Banco de Dados, Eletrônica, Frontend, Hacking, Linux, Pré-vestibular e Redes.
-
 ## 📑 ➜ Streaming
 
 ### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)** - Você pode assistir aos cursos pelo Telegram
@@ -129,10 +125,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### 🧲 [Pimp My Money](https://pimpmymoney.net/) - Cursos de Marketing Digital
 
 ## 📑 ➜ Grupos/Canais/Ferramentas no Telegram
-
-### 🐐 [Polemic Knowledge](https://t.me/PolemicKnowledge)
-
-- Frequentemente eles deixam aberto de madrugada para entrar, sempre tente acessar esse link por volta da madrugada.
 
 ### 🔗 [Polemic Hub](https://t.me/polemic)
 
