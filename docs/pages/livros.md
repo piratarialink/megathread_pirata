@@ -110,9 +110,9 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/yomumangas.com/)
 
-### 🌸 [Ler Mangá](https://lermanga.org/)
+### 🌸 [Ler Mangás](https://lermangas.me/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/lermanga.org/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/lermangas.me/)
 
 ### 🌸 [ComicK](https://comick.app/)
 
