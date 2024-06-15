@@ -12,7 +12,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [Brasil Tracker](https://brasiltracker.org/index.php)   | BT  
 
-### 🧲 [Brasil Japão Share](https://bj-share.info/) | BJS
+### 🧲 [Brasil Japão Share](https://bj-share.info/) | BJS | BJ
 
 ### 🧲 [CapybaraBR](https://capybarabr.com/register) | CBR
 
