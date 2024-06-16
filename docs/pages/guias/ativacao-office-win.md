@@ -1,8 +1,8 @@
-Neste guia vou explicar como baixar o Windows e Office, e ativá-lo usando gratuitamente os métodos "HWID" e "Ohook" por Massgrave.
+Neste guia vou explicar como baixar o Windows e Office, e ativá-lo usando gratuitamente os métodos "HWID" e "Ohook" por Massgravel.
 
 ## Download do Windows e Office
 
-Vá para [Massgrave](https://massgrave.dev/genuine-installation-media.html) e veja a seção Windows e Office.
+Vá para [Massgravel](https://massgrave.dev/genuine-installation-media.html) e veja a seção Windows e Office.
 
 Para o Office escolha a opção de download "Office C2R Installers (Retail)", e opção PT-BR de preferência. A opção com um coração é a recomendada. 
 
