@@ -50,7 +50,7 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yugenanime.tv/)
 
 
-# 📑 2 ➜ Downloads Diretos
+## 📑 2 ➜ Downloads Diretos
 
 ### 🔗 [Anime Tosho](https://animetosho.org/)
 - Serviço gratuito e totalmente automatizado que espelha a maioria dos torrents do Nyaa e Tokyo Toshokan em vários provedores de hospedagem de arquivos de download direto.
