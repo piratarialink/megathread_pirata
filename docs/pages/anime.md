@@ -49,7 +49,39 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - Acompanhe, encontre, compartilhe e veja anime de alta qualidade. Se procura um serviço confiável e seguro, já o encontrou.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yugenanime.tv/)
 
-## 📑 2 ➜ Torrents
+
+# 📑 2 ➜ Downloads Diretos
+
+### 🔗 [Anime Tosho](https://animetosho.org/)
+- Serviço gratuito e totalmente automatizado que espelha a maioria dos torrents do Nyaa e Tokyo Toshokan em vários provedores de hospedagem de arquivos de download direto.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animetosho.org/)
+
+### 🔗 [AnimeOut](https://www.animeout.xyz/)
+- Pesquise em milhares de títulos de anime codificados que são oferecidos em 720p e 1080p.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animeout.xyz/)
+
+### 🔗 [ChauThanh](https://chauthanh.info/)
+- Baixe anime, drama e trilhas sonoras gratuitamente. Obtenha arquivos e links de alta qualidade para mais de 5000 séries.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/chauthanh.info/)
+
+### 🐐 [Flugel Anime](https://flugel-anime.com/)
+- Extenso arquivo do nyaa.si. Aproveite downloads muito rápidos, permitindo que você se delicie com suas séries de anime favoritas.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/flugel-anime.com/)
+
+### 🔗 [Hi10 Anime](https://hi10anime.com/) • Inscreva-se
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/hi10anime.com/)
+
+### 🔗 [Kayoanime](https://kayoanime.com/) • Junte-se ao Grupo do Google
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/kayoanime.com/)
+
+### 🔗 [NoobSubs](https://www.noobsubs.com/)
+- Oferecendo anime para download direto com faixas de áudio em inglês duplas. Torrents também disponíveis.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/noobsubs.com/)
+
+### 🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/tokyoinsider.com/)
+
+## 📑 3 ➜ Torrents
 
 ### 🧲 [AniDex](https://anidex.info/)
 
@@ -98,13 +130,13 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 - Tracker semi-privado
 
-## 📑 3 ➜ Canais/Grupos no Telegram
+## 📑 4 ➜ Canais/Grupos no Telegram
 
 ### 🐐 [Algo Animes](https://t.me/algoanimes)
 
 - Mesmo criador do Algo Books!
 
-## 📰 4 ➜ Legendas
+## 📰 5 ➜ Legendas
 
 ### 🔗 [AnimeDB](https://anidb.net/)
 
