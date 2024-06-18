@@ -68,10 +68,10 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - Extenso arquivo do nyaa.si. Aproveite downloads muito rápidos, permitindo que você se delicie com suas séries de anime favoritas.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/flugel-anime.com/)
 
-### 🔗 [Hi10 Anime](https://hi10anime.com/) • Inscreva-se
+### 🔗 [Hi10 Anime](https://hi10anime.com/) 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/hi10anime.com/)
 
-### 🔗 [Kayoanime](https://kayoanime.com/) • Junte-se ao Grupo do Google
+### 🔗 [Kayoanime](https://kayoanime.com/)
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/kayoanime.com/)
 
 ### 🔗 [NoobSubs](https://www.noobsubs.com/)
@@ -107,7 +107,7 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/darkmahou.org/)
 
-### 🧲 [Erai-raws](https://www.erai-raws.info/) • Cadastre-se
+### 🧲 [Erai-raws](https://www.erai-raws.info/)
 
 - Certamente um dos principais grupos de legendas que prioriza a uniformidade acima de tudo.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/erai-raws.info/)

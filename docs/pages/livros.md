@@ -124,6 +124,61 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Todo o conteúdo é fornecido por usuários, grupos de scanlation e editores, que suportam todos os idiomas. (Só aplicar o Filtro para Português BR)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangadex.org/)
 
+### 🌸 [BATO](https://bato.to/)
+- Atende leitores japoneses / coreanos com uma vasta coleção de mangás.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bato.to/)
+
+### 🌸 [MangaFox](https://fanfox.net/)
+- Acesse centenas de títulos de mangá de alta qualidade gratuitamente online, com uma lista diariamente atualizada.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/fanfox.net/)
+
+### 🌸 [MangaLife](https://manga4life.com/)
+- Coleção de todos os gêneros de mangá disponível onde os usuários podem ler indefinidamente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/manga4life.com/)
+
+### 🌸 [MangaBuddy](https://mangabuddy.com/)
+- Maior banco de dados de mangás, abrangendo todos os gêneros com uma ampla variedade de temas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangabuddy.com/)
+
+### 🌸 [MangaFreak](https://w15.mangafreak.net/)
+- Oferece uma ampla gama de mangás de forma conveniente, incluindo a opção de downloads diretos em massa.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangafreak.net/)
+
+### 🌸 [MangaHub](https://mangahub.io/)
+- Fundado há 5 anos, acumulou uma biblioteca considerável de mangá, manhwa e manhua.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangahub.io/)
+
+### 🌸 [MangaKakalot](https://mangakakalot.com/)
+- Grande variedade de séries de mangá acessíveis, com a coleção mais recente aberta para os leitores.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangakakalot.com/)
+
+### 🌸 [MangaKatana](https://mangakatana.com/)
+- Leia mangás online gratuitamente, atualizados a cada hora! Sempre terá material novo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangakatana.com/)
+
+### 🌸 [MangaKomi](https://mangakomi.io/)
+- Obtenha as atualizações mais recentes neste site projetado para uma experiência de leitura incrível.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangakomi.io/)
+
+### 🌸 [MangaPark](https://mangapark.io/) / [2](https://mangapark.net/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangapark.io/)
+
+### 🌸 [MangaPill](https://mangapill.com/)
+- Leitura de mangá em inglês online, gratuita e sempre com lançamentos de alta qualidade e frescos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangapill.com/)
+
+### 🌸 [Mangaread](https://www.mangaread.org/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangaread.org/)
+
+### 🌸 [MangaReader](https://mangareader.to/)
+- Coleção massiva de conteúdo, este site também oferece acesso gratuito a recursos premium.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangareader.to/)
+
+### 🌸 [Toonily](https://toonily.com/)
+- Acesso aos seus manhwas premium em inglês traduzidos de editores coreanos de topo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/toonily.com/)
+
+
 ### 🐐 [MangáFire](https://mangafire.to/)
 
 - O portal oferece uma grande seleção de quadrinhos mangá para todos os leitores e um layout amigável e simples de navegar. (Só aplicar o Filtro para Português BR)
