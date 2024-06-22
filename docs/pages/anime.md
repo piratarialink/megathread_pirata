@@ -124,7 +124,7 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 ### 🧲 [Shakaw](https://tracker.shakaw.com.br/)
 
-- Tracker privado
+- Tracker privado, entre no [Discord para atualização](https://discord.gg/dZVbVChdun)
 
 ### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
 
@@ -133,8 +133,11 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 ## 📑 4 ➜ Canais/Grupos no Telegram
 
 ### 🐐 [Algo Animes](https://t.me/algoanimes)
-
 - Mesmo criador do Algo Books!
+
+### 🔗 [Toonami](https://t.me/toonamibr)
+
+### 🔗 [Central dos Animes](https://t.me/Centraldeanimes_Baltigo)
 
 ## 📰 5 ➜ Legendas
 
