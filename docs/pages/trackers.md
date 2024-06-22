@@ -22,6 +22,9 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [Plusteca](https://plusteca.com/register/)
 
+### 🧲 [ShaKaw](https://tracker.shakaw.com.br/entrar.php)
+- Se cadastre pelo site ou pelo [Discord](https://discord.gg/dZVbVChdun)
+
 ### 🧲 [Toca Share](https://tocashare.biz/register) | TS
 
 ## 📑 ➜ Trackers Gringo
@@ -64,6 +67,7 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 - Não há recrutamento no momento.
 
 ### 🧲 [Milkie](https://milkie.cc/)
+- Convites pelo [Discord](https://discord.gg/rZYAFuZ)
 
 ### 🧲 [MyAnonaMouse](https://myanonamouse.net) | MAM | [Entrevista](https://www.myanonamouse.net/inviteapp.php)
 
