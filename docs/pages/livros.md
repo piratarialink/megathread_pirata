@@ -295,51 +295,56 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ## 📑 9 ➜ Grupos/Canais no Telegram
 
-### 📣 [Sala de Leitura](https://t.me/saladeleitura)
-
-### 🔗 [BIBLIOTECA VIRTUAL BR](https://t.me/BIBLIOTECAVIRTUALBR)
-
-### 🔗 [BIBLIOTECA VIRTUALBR 2](https://t.me/BIBLIOTECAVIRTUALBR2)
-
-### 🔗 [NOSSA BIBLIOTECA 𝐁𝐑](https://t.me/NOSSABIBLIOTECABR)
-
-### 🔗 [REVISTA VIRTUAL BR](https://t.me/REVISTAVIRTUALBR)
-
-### 🔗 [LivroManíacos](https://t.me/livromaniacos)
-
-### 🔗 [LivroManíacos - Clube do Livro](https://t.me/livroscultura)
-
-### 🔗 [Livros Digitais](https://t.me/LivrosEmPdf)
-
-### 🔗 [Livros Em PDF](https://t.me/@LivrosEmPDF)
-
-### 🔗 [Livros - Kindle MOBI/EPUB](https://t.me/pedelivroskindle)
-
-### 🔗 [Livros de TI](https://t.me/booksti)
-
-### 🔗 [Livros de Matemática](https://t.me/LivrosLMat)
-
-### 🔗 [Leitura de Cordel](https://t.me/+sOmQRO0n7lMwYzhh)
-
-### 🔗 [Universo dos livros](https://t.me/universo_dos_livros)
+### 🔗 [A_ Biblioteca](https://t.me/a_biblioteca)
 
 ### 🔗 [AudioBookGram](https://t.me/audiobookgram)
 
 ### 🔗 [Audiolivros](https://t.me/audiolivros)
 
+### 🔗 [BIBLIOTECA VIRTUAL BR](https://t.me/BIBLIOTECAVIRTUALBR)
+
+### 🔗 [BIBLIOTECA VIRTUALBR 2](https://t.me/BIBLIOTECAVIRTUALBR2)
+
 ### 🔗 [Gibiteca_online](https://t.me/gibis_mais)
+
+### 🔗 [Hzd books](https://t.me/HzdBooks)
 
 ### 🔗 [Hqs e Mangás](https://t.me/hqsemangas)
 
+### 🔗 [Leitura de Cordel](https://t.me/+sOmQRO0n7lMwYzhh)
+
+### 🔗 [LIVROS DE PSICOLOGIA, PSICANÁLISE, PEDAGOGIA E FILOSOFIA!](https://t.me/livrosdapsicologia)
+
+### 🔗 [LivroManíacos](https://t.me/livromaniacos)
+
+### 🔗 [LivroManíacos - Clube do Livro](https://t.me/livroscultura)
+
+### 🔗 [Livros - Kindle MOBI/EPUB](https://t.me/pedelivroskindle)
+
+### 🔗 [Livros de Matemática](https://t.me/LivrosLMat)
+
+### 🔗 [Livros de TI](https://t.me/booksti)
+
+### 🔗 [Livros Digitais](https://t.me/LivrosEmPdf)
+
+### 🔗 [Livros Em PDF](https://t.me/@LivrosEmPDF)
+
 ### 🔗 [Mangás da Depressão](https://t.me/mangasdepressao)
 
-### 📣 [Z-Library Official](https://t.me/zlibrary_official)
+### 🔗 [Não Sou Robô AudioBook📚🎧✌️](https://t.me/naosouroboaudiobooks)
 
-### 📣 [LIVROS DE PSICOLOGIA, PSICANÁLISE, PEDAGOGIA E FILOSOFIA!](https://t.me/livrosdapsicologia)
+### 🔗 [NOSSA BIBLIOTECA 𝐁𝐑](https://t.me/NOSSABIBLIOTECABR)
 
-### 📣 [Não Sou Robô AudioBook📚🎧✌️](https://t.me/naosouroboaudiobooks)
+### 🔗 [REVISTA VIRTUAL BR](https://t.me/REVISTAVIRTUALBR)
 
-### 📣 [📚BIBLIOTECA INTERNACIONAL📚](https://t.me/InternationaLibrary)
+### 🔗 [Sala de Leitura](https://t.me/saladeleitura)
+
+### 🔗 [Universo dos livros](https://t.me/universo_dos_livros)
+
+### 🔗 [Z-Library Official](https://t.me/zlibrary_official)
+
+### 🔗 [📚BIBLIOTECA INTERNACIONAL📚](https://t.me/InternationaLibrary)
+
 
 - Canal sobre notícias e anúncios, eles não fornecem Downloads.
 
