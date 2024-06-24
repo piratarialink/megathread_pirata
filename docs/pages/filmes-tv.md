@@ -235,7 +235,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 📑 Grupos/Canais no Telegram 
 
+### 🌟 [Polemic Filmes](https://t.me/polemicfilmes)
+
 ### [Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)
+
 
 ## Está buscando apps para assistir/baixar **Filmes e Séries** no Celular?
 
