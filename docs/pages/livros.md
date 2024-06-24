@@ -178,6 +178,10 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Acesso aos seus manhwas premium em inglês traduzidos de editores coreanos de topo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/toonily.com/)
 
+### 🔗 [KindleOtaku](https://kindleotaku.blogspot.com/)
+
+- Como o nome sugere, é focado na postagem de mangás no formato aceito pelo Kindle.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kindleotaku.blogspot.com/)
 
 ### 🐐 [MangáFire](https://mangafire.to/)
 
