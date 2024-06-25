@@ -106,9 +106,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/slimeread.com/)
 
-### 🌸 [Yomu Mangás](https://yomumangas.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/yomumangas.com/)
 
 ### 🌸 [Ler Mangás](https://lermangas.me/)
 
