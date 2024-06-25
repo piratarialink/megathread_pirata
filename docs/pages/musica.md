@@ -127,6 +127,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Encontre, ouça e baixe músicas sem perdas do Qobuz. Também suporta downloads do Spotify e Apple Music.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
+### 🖥️ [QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD)
+
+- Baixe músicas sem perdas do Qobuz. Suporta login via id e token.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
 ### 🖥️ [SCDL](https://github.com/flyingrub/scdl)
 
 - Um ótimo script, que funciona com Windows, OS X e Linux, pode baixar músicas do SoundCloud e adicionar um id3tag à música.
@@ -157,7 +162,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Você pode modificar a impressionante GUI contemporânea para utilizar qualquer fork do YT-DLP, que é instalado imediatamente após o lançamento.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/stacher.io/)
 
-### 🖥️ [steamrip](https://github.com/nathom/streamrip)
+### 🖥️ [streamrip](https://github.com/nathom/streamrip)
 
 - Um script para um downloader de música que funciona com várias plataformas, incluindo todas as mais populares.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
