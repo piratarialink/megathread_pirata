@@ -59,6 +59,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/warezcdn.com/)
 
+### ▶️ [MemoriadaTV](https://www.memoriadatv.com/)
+
+- Contém um acervo incrível de obras antigas, principalmente se tratando de conteúdo nacional. Além disso, o site disponibiliza diversos servidores para download, contendo também vários formatos e dublagens incluso.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/memoriadatv.com/)
+
 ## ▶️ Legendados
 
 ### 🌟 [FMovies](https://fmoviesz.to/home)

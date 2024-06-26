@@ -322,6 +322,10 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Dedicado a boas lembranças de vários dos melhores sistemas e milhares de jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
+### [RomsPortugues](https://romsportugues.tk/)
+- Acervo de ROMs em português.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/romsportugues.tk/)
+
 ## 📑 ➜ Torrents
 
 ### 🧲 [BlueRoms](https://www.blueroms.ws/)
