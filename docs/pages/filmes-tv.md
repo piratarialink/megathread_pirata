@@ -102,7 +102,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [Hurawatch](https://hurawatch2.to/)
 
-- Oferece suporte para legendas em Português-BR. Muito fácil de se usar e com uma busca bastante apurada para filmes e séries.
+- Oferece suporte para legendas em Português-BR e uma extensa coleção para filmes e séries.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hurawatch2.to/)
 
 ## 📺️ TV
