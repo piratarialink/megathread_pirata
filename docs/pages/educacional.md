@@ -131,7 +131,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Apenas um backup e "Hub" para outros canais do Polemic.
 
-### 🔗 [Search bot](@en_SearchBot)
+### 🔗 [Search bot](https://t.me/en_SearchBot)
 
 - Substitui a busca nativa e obsoleta do Telegram. Ótimo para encontrar cursos.
 
