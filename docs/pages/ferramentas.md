@@ -100,8 +100,6 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 - [Knaben](https://knaben.info/) - Lista de proxies conhecidos oferecidos por vários sites piratas populares
 - [Torrent Mirror](https://www.torrentmirror.net/)
-- [UnblockIt](https://unblock_it.gitlab.io/site/)
-- [UnblockSource](https://unblocksource.nl/)
 - [Unblock Ninja!](https://unblockninja.com/)
 - [TorrentBay](https://torrentbay.to/)
 
@@ -219,7 +217,6 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 - **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Movie.Name.2005.1080p.BluRay.DD5.x264). [Versão marítima.](https://github.com/barry-allen07/FB-Mod/releases)
 - [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Mesmo conceito do filebot, mas gratuito.
 - [AdvancedRenamer](https://www.advancedrenamer.com/) - Mesmo conceito do filebot, mas gratuito.
-- [TheRenamer](http://therenamer.com/) - Mesmo conceito do filebot, mas gratuito.
 - [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Permite renomear por RegEx
 - [Ant Renamer](https://antp.be/software/renamer) - Ótimo para gerenciamento rápido de strings em massa (para Plex, por exemplo).
 
