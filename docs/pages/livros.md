@@ -52,11 +52,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Acesso ilimitado a todo o conhecimento científico, quebrando paywalls acadêmicos desde 2011.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sci-hub.se/)
 
-### 🔗 [Read any Book](https://www.readanybook.com/) - Necessário Cadastrar-se 
-
-- Leia qualquer livro inclusive alguns em Português.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/readanybook.com/)
-
 ### 🔗 [Projeto Gutenberg](https://gutenberg.org/)
 
 - Project Gutenberg é uma biblioteca online de e-books gratuitos. Escolha entre e-books epub e Kindle gratuitos, baixe-os ou leia-os online.
