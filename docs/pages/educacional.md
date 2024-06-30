@@ -87,10 +87,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/tutflix.org/)
 
-### 🔗 **[OneHack](https://onehack.us/)** - Cursos
-
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/onehack.us/)
-
 ### 🔗 [coderprog](https://coderprog.com/)
 
 - Cursos maioria em Inglês, foco em livros para TI.
@@ -131,7 +127,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Apenas um backup e "Hub" para outros canais do Polemic.
 
-### 🔗 [Search bot](https://t.me/en_SearchBot)
+### 🤖 [Search bot](https://t.me/en_SearchBot)
 
 - Substitui a busca nativa e obsoleta do Telegram. Ótimo para encontrar cursos.
 
@@ -158,8 +154,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### 🔗 [Árvore do Conhecimento - Canal](https://t.me/arveduconhecimentu)
 
 ### 🔗 [Educa Free](https://t.me/educafree1)
-
-### 🔗 [Acervo Stream](https://t.me/cursogdrive)
 
 ### 🔗 [Solidários](https://t.me/GrupoSolidarios)
 
