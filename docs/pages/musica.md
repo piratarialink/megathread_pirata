@@ -35,30 +35,15 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Lugar fantástico para baixar música japonesa em qualidade com e sem perdas, incluindo vocaloids, pop, anime e jogos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/hikarinoakari.com/)
 
-### 🔗 [JPOPMIX](https://jpopmix.com/)
-
-- Baixe álbuns, eps e singles das mais novas trilhas sonoras de anime e música pop japonesa com facilidade.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/jpopmix.com/)
-
 ### 🔗 [KHInsider: Música de videogame](https://downloads.khinsider.com/)
 
 - Definitivamente, um excelente site para downloads de MP3 e sem perdas de trilhas sonoras de jogos de console e PC que, de outra forma, são bastante difíceis de encontrar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloads.khinsider.com/)
 
-### 🔗 [KpopTap](https://kpoptap.com/)
-
-- Baixe rapidamente a mais nova música pop coreana, incluindo álbuns, eps, singles e trilhas sonoras para programas de TV e dramas.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/kpoptap.com/)
-
 ### 🔗 [Sitting on Clouds](https://www.sittingonclouds.net/)
 
 - Excelente coleção de trilhas sonoras com grande ênfase em videogames e anime japonês disponível nos principais hosts de arquivos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/sittingonclouds.net/)
-
-### 🔗 [Slav art](https://slavart.gamesdrive.net/)
-
-- Baixar bot para Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL e SoundCloud no formato FLAC.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/slavart.gamesdrive.net/)
 
 ### 🔗 [Sukidesuost](https://sukidesuost.info/)
 
