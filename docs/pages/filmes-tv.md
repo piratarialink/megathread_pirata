@@ -26,10 +26,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - O banco de dados de filmes constantemente atualizado é o refúgio perfeito para todos os cinéfilos apaixonados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/braflix.video/)
 
-### ▶️ [Mega Filmes HD](https://www.megafilmeshds.net/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/megafilmeshds.net/)
-
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
