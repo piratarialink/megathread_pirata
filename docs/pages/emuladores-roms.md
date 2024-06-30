@@ -31,16 +31,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Jogos online gratuitos do passado, como Atari, NES, Colecovision e Sega no seu navegador ou telefone.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/free80sarcade.com/)
 
-### 🌐 [MyEmulator](https://myemulator.online/)
-
-- Obtenha os melhores jogos antigos disponíveis online. Você está preparado para jogar? Vamos indo!
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/myemulator.online/)
-
-### 🌐 [Play Retro Games Online](https://www.retrogames.onl/)
-
-- Consoles muito convenientes da Nintendo, Sega e Sony disponíveis no seu navegador.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/retrogames.onl/)
-
 ### 🌐 [RetroGames](https://www.retrogames.cz/)
 
 - Preservar os videogames das décadas de 1980 e 1990, desenvolvidos para consoles e plataformas que não estão mais disponíveis.
@@ -106,11 +96,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Jogue a maioria dos jogos enquanto é continuamente atualizado com novos recursos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cemu.info/)
-
-### 🔗 [Citra](https://citra-emu.org/) • 3DS
-
-- Seus jogos favoritos podem ser jogados usando este emulador de código aberto.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/citra-emu.org/)
 
 ### 🌟 [Dolphin](https://dolphin-emu.org/) • GameCube + Wii
 
