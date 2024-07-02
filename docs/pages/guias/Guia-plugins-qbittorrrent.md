@@ -26,4 +26,9 @@
                 6. Click no botão `Close`. 
 4. Você pode excluir o arquivo `.py` do seu local temporário no armazenamento local, pois ele não é mais necessário.
 5. Opcionalmente, você pode usar a janela `Search plugins` para ativar ou desativar plug-ins de pesquisa ou verificar se há atualizações.
-6. Feito.  Você instalou com sucesso um novo plugin de pesquisa para qBittorrent.
+
+Feito.  Você instalou com sucesso um novo plugin de pesquisa para qBittorrent.
+
+Guia sugerido por [u/Dehast](https://www.reddit.com/u/Dehast).
+
+Guia baseado em[qbittorrent search plugins install wiki](https://github.com/qbittorrent/search-plugins/wiki/Install-search-plugins)
