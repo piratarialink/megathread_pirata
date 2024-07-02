@@ -91,9 +91,6 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Ignore os paywalls de sites de jornais. Requer tampermoney/greasemonkey para instalar.
 - [Obter informações de DLC do SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Cria automaticamente uma lista de DLC para ferramentas como CreamAPI, GreenLuma e SmartSteamEmu.
 - [Desbloqueie as etapas do Symbolabs e verifique as soluções](https://pastebin.com/wA3QQkCj) - Userscript [\(archived\)](https://web.archive.org/web/20200818154537/https://pastebin. com/wA3QQkCj)
-- [Filtros avançados RARBG](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Adiciona filtros adicionais de qualidade de vida à pesquisa RARBG
-- [RARBG torrent e links magnéticos](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links) - Adiciona uma coluna com torrent e links magnéticos nas listas RARBG
-- [IMDB para RARBG Torrent Search](https://greasyfork.org/en/scripts/376793-imdb-to-rarbg-torrent-search) - Adiciona um botão `RARBG` às listas de páginas do IMDB para encontrar o filme/programa em RARBG
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa)
 
 ## ► Proxies / Desbloqueadores de sites piratas
