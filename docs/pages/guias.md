@@ -42,3 +42,7 @@ Se você é um entusiasta dos jogos de PC, provavelmente já ouviu falar da FitG
 ## 📑 ➜ [Guia de como burlar restrição de download archive.org](guias/Como-burlar-restrição-de-download-archive.org.md)
 
 Guia completa sobre como burlar restrição de download archive.org, alguns livros do archive.org não podem ser baixados diretamente no site, fica disponivel apenas para ler (por 1h ou 14 dias a depender do livro). esse guia mostra como burlar e conseguir baixar esse livro em formato PDF ou EPUB.
+
+## 📑 ➜ [Guia de como instalar plugins no qBittorrent](guias/Guia-plugins-qbittorrrent.md)
+
+Guia para instalar plugins ao qbittorrent, permitindo fazer buscas de fontes seguras de diversos indexadores. 
