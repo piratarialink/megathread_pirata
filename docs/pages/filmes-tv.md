@@ -76,6 +76,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Plataforma perfeita para assistir filmes e séries de TV completos online. Com legendas multilíngues disponíveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ask4movie.li/)
 
+### ▶️ [HDToday](https://hdtoday.tv/)
+- Plataforma com diversas séries e filmes legendados adicionados constantemente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hdtoday.tv/)
+
 ### ▶️ [uCinema](https://ucinema.so/)
 
 - O melhor site de streaming de filmes gratuito com a ajuda de servidores de streaming rápidos e suporte para legendas multilíngues.
