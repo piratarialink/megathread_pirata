@@ -4,6 +4,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 :::tip ⌛ Não se esqueça marinheiro!
 - Use no celular ou computador o [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) com essas [configurações otimizadas](https://take-me-to.space/UShoGZ7.png)(*Bloqueia anúncios e malware*).
+- É de extrema importância alterar o seu DNS padrão. Alguns desses sites são bloqueados pelas operadoras através do DNS.
 :::
 
 :::danger ⚠️ Aviso
