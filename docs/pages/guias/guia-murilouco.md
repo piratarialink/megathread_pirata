@@ -3,7 +3,7 @@
 
 O propósito desse post é introduzir às pessoas inexperientes todas as formas que se pirateia mídia atualmente, e explicar um lado técnico de tudo isso.
 
-Para tanto, é importante entender que **hospedar vídeos na internet custa muito dinheiro**. Existe um motivo para até hoje não ter surgido grandes concorrentes ao YouTube. O fato é que vídeos, e em especial os filmes em ultra HD, consomem muita internet e processamento, então não tem como um cara sozinho fazer um site tipo Netflix 100% grátis e rápido. Daí surgem as alternativas:
+Para tanto, é importante entender que **hospedar vídeos na internet custa muito dinheiro**. Existe um motivo para até hoje não ter surgido grandes concorrentes ao YouTube. O fato é que vídeos, e em especial os filmes em ultra HD, consomem muita internet e processamento, então não tem como um cara sozinho fazer um site tipo Netflix 100% grátis e rápido.
 
 ## Sites de streaming gratuitos, estilo MegaFilmesHD
 
@@ -73,6 +73,7 @@ E no fim das contas o problema é esse: ninguém faz trabalho de graça.
 ---
 
 Guia original: https://www.reddit.com/r/pirataria/comments/1e0yd4z/todas_as_maneiras_que_se_consome_filmes_piratas_e/
+
 Autor do guia: https://www.reddit.com/user/Murilouco/
 
 --- 
