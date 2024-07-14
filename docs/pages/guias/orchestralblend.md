@@ -8,8 +8,6 @@ Essa página ainda é um esboço.
 
 ### Desbostificando
 - [SophiApp](https://github.com/Sophia-Community/SophiApp)
-- [OOSU10](https://www.oo-software.com/en/shutup10)
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat)
 - [FuckWindowsHistory.reg](https://gist.github.com/orchestralblend/38b024d42f22b2f13b6525a273f498b5)
 
 ### Softwares
@@ -17,7 +15,7 @@ Essa página ainda é um esboço.
 - Bitwarden (Password Manager)
 - Librewolf (Browser)
 - 7-Zip (File Archiver)
-- VLC/MPV (Audio/Video Player)
+- VLC or MPV (Audio/Video Player)
 - Thunderbird (Mail)
 - Okular (PDF)
 - ImageGlass (Photos)
@@ -28,19 +26,23 @@ Essa página ainda é um esboço.
 - qBitTorrent (Torrent Client)
 - Visual Studio Code (Source-Code Editor)
 - Git & GitHub Desktop (Deployment)
-- Visual Studio 2019 (C++ Development)
-- Kate (Text Editor)
+- Visual Studio 2022 (C/C++ Development)
 - OBS Studio (Recording and Streaming)
+- ProcessHacker2
+- Python
+- Git
+- Vesktop (better client for Discord)
 - LibreOffice (Open-Source, Microsoft 365 Alternative)
 - [Office-Tool](https://github.com/YerongAI/Office-Tool/releases/)
 
 ---
 
 - TIDAL (Paid, Music Provider)
-- GeForce Experience (Recording purposes)
+- GeForce Experience, now just NVIDIA (Recording purposes)
 
 ## Android
 
+- Revanced stuff
 - gptAssist
 - HeliBoard
 - Librera FD
@@ -62,8 +64,7 @@ Essa página ainda é um esboço.
 - Odysee
 - CakeWallet
 - VLC
-- Element
-- Element X
+- Element ou Element X
 - Bitwarden
 - Breeze Weather
 

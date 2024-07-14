@@ -46,3 +46,7 @@ Guia completa sobre como burlar restrição de download archive.org, alguns livr
 ## 📑 ➜ [Guia de como instalar plugins no qBittorrent](guias/Guia-plugins-qbittorrrent.md)
 
 Guia para instalar plugins ao qbittorrent, permitindo fazer buscas de fontes seguras de diversos indexadores. 
+
+## 📑 ➜ Guia do Orchestralblend
+
+Programas úteis.
