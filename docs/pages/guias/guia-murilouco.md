@@ -1,5 +1,5 @@
 
-# 🪶 ➜ Todas as maneiras que se consome filmes piratas, e por que nenhuma presta
+# 🪶 ➜ As diferentes maneiras de consumir filmes piratas e por que nenhuma delas presta
 
 O propósito desse post é introduzir às pessoas inexperientes todas as formas que se pirateia mídia atualmente, e explicar um lado técnico de tudo isso.
 

@@ -2,7 +2,7 @@
 
 Guias úteis para ajudá-lo em suas viagens marítimas.
 
-## 📑 ➜ [Todas as maneiras que se consome filmes piratas, e por que nenhuma presta](guias/guia-murilouco)
+## 📑 ➜ [As diferentes maneiras de consumir filmes piratas e por que nenhuma delas presta](guias/guia-murilouco)
 
 ## 📑 ➜ [Como baixar arquivos de bots IRC/XDCC](guias/guia-xdcc)
 
