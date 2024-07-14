@@ -1,11 +1,11 @@
 
-# Todas as maneiras que se consome filmes piratas, e por que nenhuma presta
+# 🪶 ➜ Todas as maneiras que se consome filmes piratas, e por que nenhuma presta
 
 O propósito desse post é introduzir às pessoas inexperientes todas as formas que se pirateia mídia atualmente, e explicar um lado técnico de tudo isso.
 
 Para tanto, é importante entender que **hospedar vídeos na internet custa muito dinheiro**. Existe um motivo para até hoje não ter surgido grandes concorrentes ao YouTube. O fato é que vídeos, e em especial os filmes em ultra HD, consomem muita internet e processamento, então não tem como um cara sozinho fazer um site tipo Netflix 100% grátis e rápido. Daí surgem as alternativas:
 
-# Sites de streaming gratuitos, estilo MegaFilmesHD
+## Sites de streaming gratuitos, estilo MegaFilmesHD
 
 A primeira forma de contornar este problema é encher seu site de anúncios até o talo, e disponibilizar seus vídeos em baixa qualidade ou travando. Assim o sujeito consegue manter o site de pé com vários usuários acessando constantemente. Além do inconveniente de anúncios e baixa qualidade, esses sites possuem um segundo problema: a qualquer momento o governo pode derrubar seu site, exigindo que os usuários tenham que caçar outro site para substituir.
 
@@ -15,17 +15,17 @@ Eu diria que o principal site dessa natureza hoje é o ilustre RedeCanais, pela 
 
 Não preciso nem dizer que você provavelmente vai precisar de um boqueador de anúncios como o uBlock Origin para ver qualquer coisa lá.
 
-# Downloads
+## Downloads
 
 Se precisar acessar um site como o anterior é um inconveniente (quando eu quero ver algo no celular, por exemplo, os sites são quase inutilizáveis), você vai querer baixar seu filme.
 
-# Google Drive
+## Google Drive
 
 Caçar Google Drives na internet. Uma vantagem disso é que você, na verdade, nem precisa baixar o filme, dá de assistir direto no navegador. O lado ruim é a gigantesca instabilidade de tudo isso, porque eles são derrubados a torto e a direito, até porque o Google não tá a fim de ficar hospedando filme pirateado para você. A verdade é que você raramente vai encontrar o que quer num drive.
 
 > Para caçar drives, a melhor técnica hoje é entrar no Twitter e usar palavras chaves como "Google Drive", "filmes".
 
-# Torrents
+## Torrents
 
 Se você tem espaço e tempo sobrando para baixar algo, então essa é sua opção. De fato, além do RedeCanais que citei anteriormente, essa é a única forma que eu consumo mídia pirata hoje. Os torrents resolvem quase todos os problemas que citei antes de uma forma muito simples: não existe um único servidor que hosteia os vídeos: quando você baixa um arquivo no torrent, você baixa de todas as outras pessoas que baixaram ele antes, e após baixado você faz upload/hosteia (chama-se semear) para outros usuários futuros.
 
@@ -39,7 +39,7 @@ Antigamente tinha o RARBG, era o paraíso, tinha tudo lá, mas ele acabou, entã
 
 EDIT: esqueci de comentar sobre trackers privados. Já entrei em alguns como o TorrentLeech e o BRSociety. Eu lembro de sofrer muito para seedar. No TorrentLeech, por exemplo, eu precisava de 240 horas (10 dias) seedando, porque dificilmente eu conseguia bater a ratio de 1,0. Já o BRSociety só tinha curso, nada que prestasse muito. Falam muito bem do Amigos Share Club, mas eu não tô a fim de doar 40 reais para conseguir um invite.
 
-# Stremio
+## Stremio
 
 Não preciso nem dizer que ficar caçando link de torrent na internet é uma grande chatice. Inspirado nisso, surgiram aplicativos como o, Popcorn Time, ou o Stremio (que é o único que presta atualmente), que basicamente cataloga todos os links de torrents de cada filme, e você consegue acessar eles tipos, uma Netflix da vida, e melhor: você não precisa esperar o fim do download, pode assistir tipo um site de streaming!
 
@@ -52,7 +52,7 @@ Isso é muito frustrante para mim. Porque realmente poderia ser perfeito. Se hou
 > Baixe o Stremio no site oficial [Stremio](https://www.stremio.com)
 > Baixe os addons (Torrentio e Brazuca): [https://www.reddit.com/r/StremioAddons/comments/yd02dp/stremio_addons_list_huge_update/](https://www.reddit.com/r/StremioAddons/comments/yd02dp/stremio_addons_list_huge_update/)
 
-# Jellyfin, Jackett, Sonarr, Radarr, Kodi
+## Jellyfin, Jackett, Sonarr, Radarr, Kodi
 
 Softwares que costumam aparecer no contexto de pirataria de filmes. Vou tentar colocar mais ou menos o workflow dessa brincadeira:
 
@@ -64,7 +64,7 @@ Softwares que costumam aparecer no contexto de pirataria de filmes. Vou tentar c
 > 
 > Kodi é uma interface bonita para ver seu catálogo de filmes. Caso você não queira deixar um servidor Jellyfin rodando, e só quer ver seus filmes em casa no seu hometheater.
 
-# IPTVs e pirataria paga
+## IPTVs e pirataria paga
 
 Como eu falei, toda pirataria tem problemas, então pague alguém que vai hospedar os vídeos para você não ter trabalho nenhum. É sua melhor opção caso esteja disposto a pagar algum dinheiro. Sinceramente, exceto caso você seja muito pobre ou uma criança que não pode pedir para os pais pagarem, essa é a melhor opção. Tem tudo nessas IPTVs: filmes, séries, animes, desenhos animados, e até o futebolzinho. E você pode até assistir na TV, e baixar um aplicativo e ver no celular, e no PC. É perfeito, só que custa dinheiro.
 
