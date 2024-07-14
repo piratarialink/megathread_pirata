@@ -39,14 +39,14 @@ Para evitar o limite de cota de download no Mega, siga estas etapas deste guia s
 
 Se você é um entusiasta dos jogos de PC, provavelmente já ouviu falar da FitGirl. Conhecida por suas compactações inteligentes e instalações simplificadas, a FitGirl é uma referência quando se trata de baixar e instalar jogos. Neste guia abrangente, mergulharemos no mundo da FitGirl, revelando os passos essenciais para baixar e instalar seus jogos favoritos de forma rápida, eficiente e sem complicações.
 
-## 📑 ➜ [Guia de como burlar restrição de download archive.org](guias/Como-burlar-restrição-de-download-archive.org.md)
+## 📑 ➜ [Guia de como burlar restrição de download Archive.org](guias/como-burlar-restrição-de-download-archive.org.md)
 
-Guia completa sobre como burlar restrição de download archive.org, alguns livros do archive.org não podem ser baixados diretamente no site, fica disponivel apenas para ler (por 1h ou 14 dias a depender do livro). esse guia mostra como burlar e conseguir baixar esse livro em formato PDF ou EPUB.
+Guia completa sobre como burlar restrição de download Archive.org, alguns livros do Archive.org não podem ser baixados diretamente no site, fica disponivel apenas para ler (por 1h ou 14 dias a depender do livro). esse guia mostra como burlar e conseguir baixar esse livro em formato PDF ou EPUB.
 
-## 📑 ➜ [Guia de como instalar plugins no qBittorrent](guias/Guia-plugins-qbittorrrent.md)
+## 📑 ➜ [Guia de como instalar plugins no qBitTorrent](guias/guia-plugins-qbittorrrent.md)
 
-Guia para instalar plugins ao qbittorrent, permitindo fazer buscas de fontes seguras de diversos indexadores. 
+Guia para instalar plugins ao qBitTorrent, permitindo fazer buscas de fontes seguras de diversos indexadores. 
 
-## 📑 ➜ Guia do Orchestralblend
+## 📑 ➜ [Guia do Orchestralblend](guias/orchestralblend.md)
 
-Programas úteis.
+Alguns programas úteis. Tanto para Android quanto para Windows.
