@@ -32,7 +32,7 @@ Se você tem espaço e tempo sobrando para baixar algo, então essa é sua opç�
 Sendo meio ideológico, essa é a verdadeira natureza da internet, e poderia resolver todos os nossos problemas. Só que em termos práticos, tem os dois grandes problemas: você precisa de espaço para armazenar sua série (que facilmente chega nas dezenas de gigabytes), e tempo para baixar toda essa brincadeira.
 
 > Para encontrar torrents, esqueça todos os sites tipo [Comando.la](https://comando.la/), BLUDV, YTS: anos de experiência me ensinaram que a melhor forma de encontrar um torrent é literalmente só jogar o nome do filme/série + "torrent" na pesquisa do Google e clicar no primeiro link que não é propaganda, e estar equipado com um bloqueador de anúncios para não clicar em anúncio atoa.
-> 
+
 > Já para animes, use o Nyaa.si
 
 Antigamente tinha o RARBG, era o paraíso, tinha tudo lá, mas ele acabou, então tem que pesquisar no Google mesmo, não tem jeito.
@@ -50,6 +50,7 @@ Para ver filmes, em geral, os mais famosos, é excelente, recomendo fortemente. 
 Isso é muito frustrante para mim. Porque realmente poderia ser perfeito. Se houvesse uma mobilização da comunidade de criar torrents completos em português, especialmente de seriados, e deixar seedando eles (tipo como faziam no RARBG), seria o fim do streaming pago. Mas a gente ainda precisa jogar no Google e pegar torrents de sites duvidosos.
 
 > Baixe o Stremio no site oficial [Stremio](https://www.stremio.com)
+
 > Baixe os addons (Torrentio e Brazuca): [https://www.reddit.com/r/StremioAddons/comments/yd02dp/stremio_addons_list_huge_update/](https://www.reddit.com/r/StremioAddons/comments/yd02dp/stremio_addons_list_huge_update/)
 
 ## Jellyfin, Jackett, Sonarr, Radarr, Kodi
@@ -57,11 +58,11 @@ Isso é muito frustrante para mim. Porque realmente poderia ser perfeito. Se hou
 Softwares que costumam aparecer no contexto de pirataria de filmes. Vou tentar colocar mais ou menos o workflow dessa brincadeira:
 
 > O Jackett é uma API que automaticamente busca em dezenas de indexadores de torrents online. Ele vai pesquisar em vários sites tipo 1337x, e juntar todos os resultados em um único lugar, que você pode usar diretamente ou alimentar
-> 
+
 > Sonarr, Radarr basicamente ficam pesquisando por filmes/séries automaticamente para você, para você não ter que ficar pesquisando toda vez que sai um novo episódio da sua série ou algo assim. Eles podem (e normalmente são) alimentados pelos resultados do Jackett, e baixam automaticamente para você, criando seu catálogo de filmes. Também tem o Bazarr, Prowlarr e o Lidarr.
-> 
+
 > Jellyfin é um servidor de streaming. É como se você estivesse hosteando seu próprio Netflix/RedeCanais. No contexto aqui, ele vai pegar os filmes que você baixou do Sonarr/Radarr. Daí você pode ver o catálogo de filmes que você baixou em qualquer lugar com internet.
-> 
+
 > Kodi é uma interface bonita para ver seu catálogo de filmes. Caso você não queira deixar um servidor Jellyfin rodando, e só quer ver seus filmes em casa no seu hometheater.
 
 ## IPTVs e pirataria paga
