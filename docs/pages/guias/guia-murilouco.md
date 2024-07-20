@@ -11,7 +11,7 @@ A primeira forma de contornar este problema é encher seu site de anúncios até
 
 Eu diria que o principal site dessa natureza hoje é o ilustre RedeCanais, pela sua vasta gama de conteúdo e até hoje estar de pé. De fato, essa é a principal forma que eu uso até hoje para ver desenhos animados como bob esponja, que eu não quero ter o compromisso de precisar baixar o negócio para assistir antes.
 
-> Sites podem ser encontrados no [https://www.reddit.com/r/pirataria/s/jxPJapRLjI](https://www.reddit.com/r/pirataria/s/jxPJapRLjI)
+> Sites podem ser encontrados no [🎦 ➜ Filmes e TV](filmes-tv)
 
 Não preciso nem dizer que você provavelmente vai precisar de um boqueador de anúncios como o uBlock Origin para ver qualquer coisa lá.
 
@@ -33,7 +33,7 @@ Sendo meio ideológico, essa é a verdadeira natureza da internet, e poderia res
 
 > Para encontrar torrents, esqueça todos os sites tipo [Comando.la](https://comando.la/), BLUDV, YTS: anos de experiência me ensinaram que a melhor forma de encontrar um torrent é literalmente só jogar o nome do filme/série + "torrent" na pesquisa do Google e clicar no primeiro link que não é propaganda, e estar equipado com um bloqueador de anúncios para não clicar em anúncio atoa.
 
-> Já para animes, use o Nyaa.si
+> Já para animes, use o [Nyaa.si](https://nyaa.si/)
 
 Antigamente tinha o RARBG, era o paraíso, tinha tudo lá, mas ele acabou, então tem que pesquisar no Google mesmo, não tem jeito.
 
