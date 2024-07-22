@@ -113,6 +113,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
 
+### 🌟 [TV a Cabo](https://tvacabo.free.nf/)
+- Site que oferece canais abertos e fechados sem atrapalhar o usuário com anúncios chatos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tvacabo.free.nf/)
+
 ### 🌟 [HT Fórum](https://htforum.net/)
 
 - Fórum geral mais focado em TV onde os usuários oferecem listas IPTV.
