@@ -2,7 +2,11 @@
 
 Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora também possa ser aplicado a outras animações, como Donghua.
 
-:::danger ⚠️ Lembrete rápido
+:::tip ⌛ Não se esqueça marinheiro!
+- Use no celular ou computador o [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) com essas [configurações otimizadas](https://take-me-to.space/UShoGZ7.png) (*Bloqueia anúncios e malware*).
+:::
+
+:::danger ⚠️ Aviso
 
 - ✔️ Todos os links foram analisados e aprovados pelos moderadores, mas prossiga com cautela.
 - 🚨 Caso algum site não carregue, mude o seu DNS para uma dessas [ótimas opções](https://www.privacyguides.org/en/dns/).
