@@ -12,9 +12,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ### 🔗 [Baixar Quadrinhos](https://baixarquadrinhos.net)
 
-### 🔗 [101 Livros](https://101livros.com/)
-
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/101livros.com/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarquadrinhos.net/)
 
 ### 🔗 [Baixe Livros](https://www.baixelivros.com.br/)
 
