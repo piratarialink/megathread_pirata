@@ -91,17 +91,12 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Ignore os paywalls de sites de jornais. Requer tampermoney/greasemonkey para instalar.
 - [Obter informações de DLC do SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Cria automaticamente uma lista de DLC para ferramentas como CreamAPI, GreenLuma e SmartSteamEmu.
 - [Desbloqueie as etapas do Symbolabs e verifique as soluções](https://pastebin.com/wA3QQkCj) - Userscript [\(archived\)](https://web.archive.org/web/20200818154537/https://pastebin. com/wA3QQkCj)
-- [Filtros avançados RARBG](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Adiciona filtros adicionais de qualidade de vida à pesquisa RARBG
-- [RARBG torrent e links magnéticos](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links) - Adiciona uma coluna com torrent e links magnéticos nas listas RARBG
-- [IMDB para RARBG Torrent Search](https://greasyfork.org/en/scripts/376793-imdb-to-rarbg-torrent-search) - Adiciona um botão `RARBG` às listas de páginas do IMDB para encontrar o filme/programa em RARBG
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa)
 
 ## ► Proxies / Desbloqueadores de sites piratas
 
 - [Knaben](https://knaben.info/) - Lista de proxies conhecidos oferecidos por vários sites piratas populares
 - [Torrent Mirror](https://www.torrentmirror.net/)
-- [UnblockIt](https://unblock_it.gitlab.io/site/)
-- [UnblockSource](https://unblocksource.nl/)
 - [Unblock Ninja!](https://unblockninja.com/)
 - [TorrentBay](https://torrentbay.to/)
 
@@ -115,7 +110,7 @@ Cliente Bitlord torrent [é malware.](https://www.reddit.com/r/torrents/comments
 
 * [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent
 * [Transmission](https://transmissionbt.com/about/) - Cliente de torrent de código aberto simples e leve
-* [qBittorrent](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que pesquisa rastreadores públicos populares. Constantemente atualizado
+* [qBittorrent](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que pesquisa rastreadores públicos populares. Constantemente atualizado. [Guia de plugins](guias/Guia-plugins-qbittorrrent.md)
 * [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei
 * [PicoTorrent](https://picotorrent.org/) - Cliente de torrent simples e leve
 * [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto
@@ -219,7 +214,6 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 - **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Movie.Name.2005.1080p.BluRay.DD5.x264). [Versão marítima.](https://github.com/barry-allen07/FB-Mod/releases)
 - [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Mesmo conceito do filebot, mas gratuito.
 - [AdvancedRenamer](https://www.advancedrenamer.com/) - Mesmo conceito do filebot, mas gratuito.
-- [TheRenamer](http://therenamer.com/) - Mesmo conceito do filebot, mas gratuito.
 - [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Permite renomear por RegEx
 - [Ant Renamer](https://antp.be/software/renamer) - Ótimo para gerenciamento rápido de strings em massa (para Plex, por exemplo).
 

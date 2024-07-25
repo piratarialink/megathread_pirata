@@ -12,9 +12,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ### 🔗 [Baixar Quadrinhos](https://baixarquadrinhos.net)
 
-### 🔗 [101 Livros](https://101livros.com/)
-
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/101livros.com/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarquadrinhos.net/)
 
 ### 🔗 [Baixe Livros](https://www.baixelivros.com.br/)
 
@@ -51,11 +49,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - Acesso ilimitado a todo o conhecimento científico, quebrando paywalls acadêmicos desde 2011.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sci-hub.se/)
-
-### 🔗 [Read any Book](https://www.readanybook.com/) - Necessário Cadastrar-se 
-
-- Leia qualquer livro inclusive alguns em Português.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/readanybook.com/)
 
 ### 🔗 [Projeto Gutenberg](https://gutenberg.org/)
 
@@ -106,13 +99,10 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/slimeread.com/)
 
-### 🌸 [Yomu Mangás](https://yomumangas.com/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/yomumangas.com/)
+### 🌸 [Ler Mangás](https://lermangas.me/)
 
-### 🌸 [Ler Mangá](https://lermanga.org/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/lermanga.org/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/lermangas.me/)
 
 ### 🌸 [ComicK](https://comick.app/)
 
@@ -123,6 +113,65 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - Todo o conteúdo é fornecido por usuários, grupos de scanlation e editores, que suportam todos os idiomas. (Só aplicar o Filtro para Português BR)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangadex.org/)
+
+### 🌸 [BATO](https://bato.to/)
+- Atende leitores japoneses / coreanos com uma vasta coleção de mangás.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bato.to/)
+
+### 🌸 [MangaFox](https://fanfox.net/)
+- Acesse centenas de títulos de mangá de alta qualidade gratuitamente online, com uma lista diariamente atualizada.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/fanfox.net/)
+
+### 🌸 [MangaLife](https://manga4life.com/)
+- Coleção de todos os gêneros de mangá disponível onde os usuários podem ler indefinidamente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/manga4life.com/)
+
+### 🌸 [MangaBuddy](https://mangabuddy.com/)
+- Maior banco de dados de mangás, abrangendo todos os gêneros com uma ampla variedade de temas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangabuddy.com/)
+
+### 🌸 [MangaFreak](https://w15.mangafreak.net/)
+- Oferece uma ampla gama de mangás de forma conveniente, incluindo a opção de downloads diretos em massa.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangafreak.net/)
+
+### 🌸 [MangaHub](https://mangahub.io/)
+- Fundado há 5 anos, acumulou uma biblioteca considerável de mangá, manhwa e manhua.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangahub.io/)
+
+### 🌸 [MangaKakalot](https://mangakakalot.com/)
+- Grande variedade de séries de mangá acessíveis, com a coleção mais recente aberta para os leitores.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangakakalot.com/)
+
+### 🌸 [MangaKatana](https://mangakatana.com/)
+- Leia mangás online gratuitamente, atualizados a cada hora! Sempre terá material novo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangakatana.com/)
+
+### 🌸 [MangaKomi](https://mangakomi.io/)
+- Obtenha as atualizações mais recentes neste site projetado para uma experiência de leitura incrível.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangakomi.io/)
+
+### 🌸 [MangaPark](https://mangapark.io/) / [2](https://mangapark.net/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangapark.io/)
+
+### 🌸 [MangaPill](https://mangapill.com/)
+- Leitura de mangá em inglês online, gratuita e sempre com lançamentos de alta qualidade e frescos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangapill.com/)
+
+### 🌸 [Mangaread](https://www.mangaread.org/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangaread.org/)
+
+### 🌸 [MangaReader](https://mangareader.to/)
+- Coleção massiva de conteúdo, este site também oferece acesso gratuito a recursos premium.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangareader.to/)
+
+### 🌸 [Toonily](https://toonily.com/)
+- Acesso aos seus manhwas premium em inglês traduzidos de editores coreanos de topo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/toonily.com/)
+
+### 🔗 [KindleOtaku](https://kindleotaku.blogspot.com/)
+
+- Postagem de mangás no formato aceito pelo Kindle. Requer uma conta no Terabox para efetuar o download, algo que você pode criar através de um email descartável no Temp Mail ou semelhantes.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kindleotaku.blogspot.com/)
 
 ### 🐐 [MangáFire](https://mangafire.to/)
 
@@ -240,51 +289,61 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ## 📑 9 ➜ Grupos/Canais no Telegram
 
-### 📣 [Sala de Leitura](https://t.me/saladeleitura)
-
-### 🔗 [BIBLIOTECA VIRTUAL BR](https://t.me/BIBLIOTECAVIRTUALBR)
-
-### 🔗 [BIBLIOTECA VIRTUALBR 2](https://t.me/BIBLIOTECAVIRTUALBR2)
-
-### 🔗 [NOSSA BIBLIOTECA 𝐁𝐑](https://t.me/NOSSABIBLIOTECABR)
-
-### 🔗 [REVISTA VIRTUAL BR](https://t.me/REVISTAVIRTUALBR)
-
-### 🔗 [LivroManíacos](https://t.me/livromaniacos)
-
-### 🔗 [LivroManíacos - Clube do Livro](https://t.me/livroscultura)
-
-### 🔗 [Livros Digitais](https://t.me/LivrosEmPdf)
-
-### 🔗 [Livros Em PDF](https://t.me/@LivrosEmPDF)
-
-### 🔗 [Livros - Kindle MOBI/EPUB](https://t.me/pedelivroskindle)
-
-### 🔗 [Livros de TI](https://t.me/booksti)
-
-### 🔗 [Livros de Matemática](https://t.me/LivrosLMat)
-
-### 🔗 [Leitura de Cordel](https://t.me/+sOmQRO0n7lMwYzhh)
-
-### 🔗 [Universo dos livros](https://t.me/universo_dos_livros)
+### 🔗 [A_ Biblioteca](https://t.me/a_biblioteca)
 
 ### 🔗 [AudioBookGram](https://t.me/audiobookgram)
 
 ### 🔗 [Audiolivros](https://t.me/audiolivros)
 
+### 🔗 [BIBLIOTECA VIRTUAL BR](https://t.me/BIBLIOTECAVIRTUALBR)
+
+### 🔗 [BIBLIOTECA VIRTUALBR 2](https://t.me/BIBLIOTECAVIRTUALBR2)
+
 ### 🔗 [Gibiteca_online](https://t.me/gibis_mais)
+
+### 🔗 [Hzd books](https://t.me/HzdBooks)
 
 ### 🔗 [Hqs e Mangás](https://t.me/hqsemangas)
 
+### 🔗 [Leitura de Cordel](https://t.me/+sOmQRO0n7lMwYzhh)
+
+### 🔗 [LIVROS DE PSICOLOGIA, PSICANÁLISE, PEDAGOGIA E FILOSOFIA!](https://t.me/livrosdapsicologia)
+
+### 🔗 [LivroManíacos](https://t.me/livromaniacos)
+
+### 🔗 [LivroManíacos - Clube do Livro](https://t.me/livroscultura)
+
+### 🔗 [Livros - Kindle MOBI/EPUB](https://t.me/pedelivroskindle)
+
+### 🔗 [Livros de Matemática](https://t.me/LivrosLMat)
+
+### 🔗 [Livros de TI](https://t.me/booksti)
+
+### 🔗 [Livros Digitais](https://t.me/LivrosEmPdf)
+
+### 🔗 [Livros Em PDF](https://t.me/@LivrosEmPDF)
+
+### 🔗 [Livros Backup](https://t.me/livros_backup)
+
 ### 🔗 [Mangás da Depressão](https://t.me/mangasdepressao)
 
-### 📣 [Z-Library Official](https://t.me/zlibrary_official)
+### 🔗 [Não Sou Robô AudioBook📚🎧✌️](https://t.me/naosouroboaudiobooks)
 
-### 📣 [LIVROS DE PSICOLOGIA, PSICANÁLISE, PEDAGOGIA E FILOSOFIA!](https://t.me/livrosdapsicologia)
+### 🔗 [NOSSA BIBLIOTECA 𝐁𝐑](https://t.me/NOSSABIBLIOTECABR)
 
-### 📣 [Não Sou Robô AudioBook📚🎧✌️](https://t.me/naosouroboaudiobooks)
+### 🔗 [REVISTA VIRTUAL BR](https://t.me/REVISTAVIRTUALBR)
 
-### 📣 [📚BIBLIOTECA INTERNACIONAL📚](https://t.me/InternationaLibrary)
+### 🔗 [Sala de Leitura](https://t.me/saladeleitura)
+
+### 🔗 [Universo dos livros](https://t.me/universo_dos_livros)
+
+### 🔗 [Z-Library Official](https://t.me/zlibrary_official)
+
+### 🔗 [📚BIBLIOTECA INTERNACIONAL📚](https://t.me/InternationaLibrary)
+
+### 🔗 [Livros Arte](https://t.me/LivrosArte)
+
+
 
 - Canal sobre notícias e anúncios, eles não fornecem Downloads.
 

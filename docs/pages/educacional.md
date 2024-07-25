@@ -9,8 +9,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 📑 ➜ Streaming
 
-### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)** - Você pode assistir aos cursos pelo Telegram
-
 ### 🐐 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode assistir aos cursos pelo Telegram
 
 ### ▶️ **[Curso em Video](https://www.cursoemvideo.com/)** - Cursos
@@ -51,7 +49,8 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 📑 ➜ Downloads diretos
 
-### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)** - Você pode baixar os cursos fornecidos no próprio Telegram.
+### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)**
+- Acesse o Polemic ZIP no linktree através do canal do Telegram deles! Knowledge off.
 
 ### 🐐 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode baixar os cursos fornecidos no próprio Telegram.
 
@@ -64,11 +63,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Oferecendo cursos e tutoriais gratuitos da Udemy que são simples de seguir. Uma maneira fantástica de desenvolver habilidades é através do auto-estudo.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/udemy24.com/)
-
-### 🔗 [Freetutsdownload](https://freetutsdownload.net/)
-
-- Auxiliar as pessoas a baixar cursos gratuitos em vários aspectos e compartilhar amplamente o conhecimento com todos.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/freetutsdownload.net/)
 
 ### 🔗 [FreeCourseSite](https://freecoursesite.com/)
 
@@ -88,10 +82,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### 🔗 **[TutFlix](https://tutflix.org/)** - Cursos / Drives
 
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/tutflix.org/)
-
-### 🔗 **[OneHack](https://onehack.us/)** - Cursos
-
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/onehack.us/)
 
 ### 🔗 [coderprog](https://coderprog.com/)
 
@@ -134,7 +124,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Baixe arquivos destinados a concursos, estudos e programação. Você pode solicitar também materiais pelo canal associando.
 
-### 🔗 [Search bot](@en_SearchBot)
+### 🤖 [Search bot](@en_SearchBot)
 
 - Substitui a busca nativa e obsoleta do Telegram. Ótimo para encontrar cursos.
 
@@ -161,8 +151,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### 🔗 [Árvore do Conhecimento - Canal](https://t.me/arveduconhecimentu)
 
 ### 🔗 [Educa Free](https://t.me/educafree1)
-
-### 🔗 [Acervo Stream](https://t.me/cursogdrive)
 
 ### 🔗 [Solidários](https://t.me/GrupoSolidarios)
 

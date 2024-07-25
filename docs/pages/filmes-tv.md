@@ -4,6 +4,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 :::tip ⌛ Não se esqueça marinheiro!
 - Use no celular ou computador o [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) com essas [configurações otimizadas](https://take-me-to.space/UShoGZ7.png)(*Bloqueia anúncios e malware*).
+- É de extrema importância alterar o seu DNS padrão. Alguns desses sites são bloqueados pelas operadoras através do DNS.
 :::
 
 :::danger ⚠️ Aviso
@@ -25,10 +26,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - O banco de dados de filmes constantemente atualizado é o refúgio perfeito para todos os cinéfilos apaixonados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/braflix.video/)
-
-### ▶️ [Mega Filmes HD](https://www.megafilmeshds.net/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/megafilmeshds.net/)
 
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
 
@@ -59,6 +56,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/warezcdn.com/)
 
+### ▶️ [MemoriadaTV](https://www.memoriadatv.com/)
+
+- Contém um acervo incrível de obras antigas, principalmente se tratando de conteúdo nacional. Além disso, o site disponibiliza diversos servidores para download, contendo também vários formatos e dublagens incluso.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/memoriadatv.com/)
+
 ## ▶️ Legendados
 
 ### 🌟 [FMovies](https://fmoviesz.to/home)
@@ -74,6 +76,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Plataforma perfeita para assistir filmes e séries de TV completos online. Com legendas multilíngues disponíveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ask4movie.li/)
+
+### ▶️ [HDToday](https://hdtoday.tv/)
+- Plataforma com diversas séries e filmes legendados adicionados constantemente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hdtoday.tv/)
 
 ### ▶️ [uCinema](https://ucinema.so/)
 
@@ -97,7 +103,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [Hurawatch](https://hurawatch2.to/)
 
-- Oferece suporte para legendas em Português-BR. Muito fácil de se usar e com uma busca bastante apurada para filmes e séries.
+- Oferece suporte para legendas em Português-BR e uma extensa coleção para filmes e séries.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hurawatch2.to/)
 
 ## 📺️ TV
@@ -106,6 +112,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
+
+### 🌟 [TV a Cabo](https://tvacabo.free.nf/)
+- Site que oferece canais abertos e fechados sem atrapalhar o usuário com anúncios chatos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tvacabo.free.nf/)
 
 ### 🌟 [HT Fórum](https://htforum.net/)
 
@@ -235,7 +245,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 📑 Grupos/Canais no Telegram 
 
+### 🌟 [Polemic Filmes](https://t.me/polemicfilmes)
+
 ### [Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)
+
 
 ## Está buscando apps para assistir/baixar **Filmes e Séries** no Celular?
 

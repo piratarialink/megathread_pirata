@@ -2,6 +2,8 @@
 
 Guias úteis para ajudá-lo em suas viagens marítimas.
 
+## 📑 ➜ [As diferentes maneiras de consumir filmes piratas e por que nenhuma delas presta](guias/guia-murilouco)
+
 ## 📑 ➜ [Como baixar arquivos de bots IRC/XDCC](guias/guia-xdcc)
 
 Dentro da chamada "pirâmide da pirataria", no mesmo nível dos trackers de torrent públicos, existem canais de IRC com bots que compartilham arquivos via XDCC, os chamados Fservers, bastante populares principalmente entre os fãs de animes. Neste tutorial, irei explicar o básico de como baixar animes legendados através destes Fservers, e darei algumas referências ao final para quem quiser se aprofundar mais sobre como usar o IRC.
@@ -38,3 +40,15 @@ Para evitar o limite de cota de download no Mega, siga estas etapas deste guia s
 ## 📑 ➜ [Guia de Como Baixar e Instalar pela FitGirl](guias/guia-fitgirl.md)
 
 Se você é um entusiasta dos jogos de PC, provavelmente já ouviu falar da FitGirl. Conhecida por suas compactações inteligentes e instalações simplificadas, a FitGirl é uma referência quando se trata de baixar e instalar jogos. Neste guia abrangente, mergulharemos no mundo da FitGirl, revelando os passos essenciais para baixar e instalar seus jogos favoritos de forma rápida, eficiente e sem complicações.
+
+## 📑 ➜ [Guia de como burlar restrição de download Archive.org](guias/como-burlar-restrição-de-download-archive.org.md)
+
+Guia completa sobre como burlar restrição de download Archive.org, alguns livros do Archive.org não podem ser baixados diretamente no site, fica disponivel apenas para ler (por 1h ou 14 dias a depender do livro). esse guia mostra como burlar e conseguir baixar esse livro em formato PDF ou EPUB.
+
+## 📑 ➜ [Guia de como instalar plugins no qBitTorrent](guias/guia-plugins-qbittorrrent.md)
+
+Guia para instalar plugins ao qBitTorrent, permitindo fazer buscas de fontes seguras de diversos indexadores. 
+
+## 📑 ➜ [Guia do Orchestralblend](guias/orchestralblend.md)
+
+Alguns programas úteis. Tanto para Android quanto para Windows.

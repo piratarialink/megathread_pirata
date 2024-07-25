@@ -7,6 +7,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 :::
 
 ### 🧲 [CP Turbo](http://cptv3ofjaw2hr5fqdhnno5qazsy3a6fz6yj2w6t2n2udvqfypsa3u7qd.onion/cpt/login/) | CPT
+- Acesso apenas na Rede TOR
 
 ### 🧲 [FileWarez 2.0](https://filewarez.club/) | FW
 
@@ -16,4 +17,4 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [Tela de Cinema](https://teladecinema.forumeiros.com/) | TDC
 
-### 🧲 [TheToonZ](https://www.thetoonz.com/)
+### 🧲 [TheToonZ](https://www.thetoonz.com/) | TTZ

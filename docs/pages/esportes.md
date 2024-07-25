@@ -27,7 +27,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cxtv.com.br/)
 
-### [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) - Agregação de IPTV em massa
+### 🔗 [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) - Agregação de IPTV em massa
 
 ## ► Esportes
 
@@ -36,18 +36,9 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - Oferece Canais de Esportes também
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
 
-### 📺️ [Multijogos](https://multijogos.net/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multijogos.net/)
-
 ### 📺️ [Futebol Play HD](https://futebolplayhd.com/futebolplay/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/futebolplayhd.com/)
-
-### 📺️ [Boleiro.tv](https://boleiro.tv/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/boleiro.tv/)
-- Oferece Canais Esportivos ao vivo
 
 ### 📺️ [TV0800](https://tv0800.com/)
 

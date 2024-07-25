@@ -48,11 +48,6 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - Variedade de jogos novos e clássicos pré-instalados de fácil acesso para você se divertir.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamebounty.world/)
 
-### 🔗 [Game-2u](https://game-2u.com/)
-
-- Recurso fantástico para download de videogames, é uma fonte vital para PC e outras plataformas, incluindo ROMs para consoles também.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/game-2u.com/)
-
 ### 🔗 [Games 4u](https://g4u.to/)
 
 - Construído por jogadores dedicados que tomam muito cuidado para incluir detalhes sobre cada lançamento do jogo, incluindo seu gênero, ano de lançamento e descrição.
