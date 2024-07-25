@@ -116,14 +116,15 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 📑 ➜ Grupos/Canais/Ferramentas no Telegram
 
-### 🐐 **[Cursos do Polemic Knowledge](https://snort.social/nprofile1qqsdz5tylydfuc90whzxfw338ry9lppfpydz2n35524wzh3vjrr7ggqpzamhxue69uhhyetvv9ujucmcvdhhyefwdejhgtcpzamhxue69uhkvun9deejumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0g7tmme)**
-- Acesse o Polemic ZIP no linktree através do canal do Telegram deles! Knowledge off.
-
 ### 🔗 [Polemic Hub](https://t.me/polemic)
 
 - Apenas um backup e "Hub" para outros canais do Polemic.
 
-### 🤖 [Search bot](https://t.me/en_SearchBot)
+### 🔗 [Hidra Cursos](https://t.me/+FM6yeYAwrCFlN2Ex)
+
+- Baixe arquivos destinados a concursos, estudos e programação. Você pode solicitar também materiais pelo canal associando.
+
+### 🤖 [Search bot](@en_SearchBot)
 
 - Substitui a busca nativa e obsoleta do Telegram. Ótimo para encontrar cursos.
 
