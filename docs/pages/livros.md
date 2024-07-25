@@ -299,8 +299,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ### 🔗 [BIBLIOTECA VIRTUALBR 2](https://t.me/BIBLIOTECAVIRTUALBR2)
 
-### 🔗 [Gibiteca_online](https://t.me/gibis_mais)
-
 ### 🔗 [Hzd books](https://t.me/HzdBooks)
 
 ### 🔗 [Hqs e Mangás](https://t.me/hqsemangas)
@@ -310,8 +308,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🔗 [LIVROS DE PSICOLOGIA, PSICANÁLISE, PEDAGOGIA E FILOSOFIA!](https://t.me/livrosdapsicologia)
 
 ### 🔗 [LivroManíacos](https://t.me/livromaniacos)
-
-### 🔗 [LivroManíacos - Clube do Livro](https://t.me/livroscultura)
 
 ### 🔗 [Livros - Kindle MOBI/EPUB](https://t.me/pedelivroskindle)
 
@@ -332,10 +328,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🔗 [NOSSA BIBLIOTECA 𝐁𝐑](https://t.me/NOSSABIBLIOTECABR)
 
 ### 🔗 [REVISTA VIRTUAL BR](https://t.me/REVISTAVIRTUALBR)
-
-### 🔗 [Sala de Leitura](https://t.me/saladeleitura)
-
-### 🔗 [Universo dos livros](https://t.me/universo_dos_livros)
 
 ### 🔗 [Z-Library Official](https://t.me/zlibrary_official)
 
