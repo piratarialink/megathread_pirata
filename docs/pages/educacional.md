@@ -49,7 +49,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 📑 ➜ Downloads diretos
 
-### 🐐 **[Cursos do Polemic Knowledge](https://linktr.ee/bepolemic)** - Acesse o Polemic ZIP no linktree e Knowledge off.
+### 🐐 **[Cursos do Polemic Knowledge](https://linktr.ee/bepolemic)** - Acesse o Polemic ZIP, filmes e docs no linktree.
 
 ### 🐐 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode baixar os cursos fornecidos no próprio Telegram.
 
@@ -127,17 +127,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Substitui a busca nativa e obsoleta do Telegram. Ótimo para encontrar cursos.
 
-### 🔗 [Brasil Cursos🇧🇷](https://t.me/Brasil_Cursos_Novo)
-
-- Materiais diversos para concursos e cursos através de streaming. 
-
 ### 🔗 [Brasil Cursos📚](https://t.me/Cursos_Filmes_Livros)
 
 - Materiais diversos para concursos, cursos e livros em streaming. 
-
-### 🔗 [TGDRIVE COURSES](https://t.me/tgdrivecursos)
-
-- Ampla gama de materiais destinados a concursos e cursos em streaming. 
 
 ### 🔗 [Extreme Cursos](https://t.me/Extreme_CursosGratis)
 
