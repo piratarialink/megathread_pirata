@@ -23,6 +23,7 @@
 | KickassTorrents | kickasstorrents-to          | **Clone falso**: (_Elaborado com a intenção de enganar usuários desavisados por meio de engano proposital_). |
 | The Pirate Bay  | thepiratebay-org            | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_).                |
 | 💩 TheRarBg     | therarbg-com/therarbg-to    | **Clone falso**: (_Elaborado com a intenção de enganar usuários desavisados por meio de engano proposital_). |
+| 💩 Baixaki      | baixaki-com-br/            | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |      
 
 # ⭐ ➜ Anime
 
