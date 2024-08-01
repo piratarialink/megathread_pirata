@@ -23,6 +23,7 @@
 | KickassTorrents | kickasstorrents-to          | **Clone falso**: (_Elaborado com a intenção de enganar usuários desavisados por meio de engano proposital_). |
 | The Pirate Bay  | thepiratebay-org            | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_).                |
 | 💩 TheRarBg     | therarbg-com/therarbg-to    | **Clone falso**: (_Elaborado com a intenção de enganar usuários desavisados por meio de engano proposital_). |
+| 💩 Baixaki      | baixaki-com-br              | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |      
 
 # ⭐ ➜ Anime
 
@@ -79,3 +80,4 @@
 | Sample Drive   | sampledrive-in              | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
 | VFXdownload    | vfxdownload-com             | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
 | VFXDownloads   | vfxdownloads-net            | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
+| µTorrent       | utorrent-com                | Por ter sido (sem o consentimento dos usuários) um minerador de criptomoedas no passado, o µtorrent é considerado badware; é melhor usar clientes torrent de código aberto como o qBittorrent ou o deluge. |
