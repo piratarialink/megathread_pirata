@@ -130,10 +130,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Maior banco de dados de mangás, abrangendo todos os gêneros com uma ampla variedade de temas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangabuddy.com/)
 
-### 🌸 [MangaFreak](https://w15.mangafreak.net/)
-- Oferece uma ampla gama de mangás de forma conveniente, incluindo a opção de downloads diretos em massa.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangafreak.net/)
-
 ### 🌸 [MangaHub](https://mangahub.io/)
 - Fundado há 5 anos, acumulou uma biblioteca considerável de mangá, manhwa e manhua.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangahub.io/)
