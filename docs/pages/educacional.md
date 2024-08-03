@@ -119,6 +119,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Backup do canal do Polemic.
 
+
+### 🔗 [Cata Cursos](https://t.me/catacursos)
+
 ### 🔗 [Hidra Cursos](https://t.me/+FM6yeYAwrCFlN2Ex)
 
 - Baixe arquivos destinados a concursos, estudos e programação. Você pode solicitar materiais também pelo canal associado.
