@@ -4,6 +4,8 @@ Guias úteis para ajudá-lo em suas viagens marítimas.
 
 ## 📑 ➜ [As diferentes maneiras de consumir filmes piratas e por que nenhuma delas presta](guias/guia-murilouco)
 
+Quer saber como consumir filmes piratas sem se preocupar com a qualidade e a legalidade? Descubra as diferentes opções, desde sites grátis até IPTVs pagos, e entenda os prós e contras de cada uma. Clique para saber mais!
+
 ## 📑 ➜ [Como baixar arquivos de bots IRC/XDCC](guias/guia-xdcc)
 
 Dentro da chamada "pirâmide da pirataria", no mesmo nível dos trackers de torrent públicos, existem canais de IRC com bots que compartilham arquivos via XDCC, os chamados Fservers, bastante populares principalmente entre os fãs de animes. Neste tutorial, irei explicar o básico de como baixar animes legendados através destes Fservers, e darei algumas referências ao final para quem quiser se aprofundar mais sobre como usar o IRC.
