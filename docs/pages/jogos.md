@@ -231,6 +231,11 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - Este repacker é amplamente considerado como um dos melhores no cenário de videogames piratas, conquistando a confiança dos jogadores em todos os lugares.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/byxatab.com/)
 
+### 🧲 [Nuvem Azul](https://nuvemazul.org/)
+
+- Um site que oferece links diretos via Mediafire, Drive, Mega e Link Magnet, jogos para PC e para celular e com adições semanais de jogos no site.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/nuvemazul.org/)
+
 ## Traduções de Jogos
 
 Esses são alguns site para encotrar tradução PT-BR para seus jogos:
