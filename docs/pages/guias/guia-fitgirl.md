@@ -50,7 +50,7 @@ Você deve ser levado a uma página semelhante a essa, é só clicar no nome do 
 
 Abrindo a pagina, **clique em Magnet**.
 
-![](https://i.postimg.cc/0QpMNpc2/4.png)
+![](https://i.postimg.cc/Qdjd0PgX/4.png)
 
 Seu navegador provavelmente pedirá permissão, apenas **clique em Abrir.**
 
