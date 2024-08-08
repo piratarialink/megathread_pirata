@@ -323,14 +323,11 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ### 🔗 [REVISTA VIRTUAL BR](https://t.me/REVISTAVIRTUALBR)
 
-### 🔗 [Z-Library Official](https://t.me/zlibrary_official)
-
 ### 🔗 [📚BIBLIOTECA INTERNACIONAL📚](https://t.me/InternationaLibrary)
 
 ### 🔗 [Livros Arte](https://t.me/LivrosArte)
 
-
-
+### 🔗 [Z-Library Official](https://t.me/zlibrary_official)
 - Canal sobre notícias e anúncios, eles não fornecem Downloads.
 
 ## Está buscando cursos e conteúdos educacionais?
@@ -339,8 +336,5 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ## Quer saber mais sobre **Livros** em inglês?
 
-➜ Confira essa Megathread do [FMHY - Books / Comics / Manga](https://fmhy.pages.dev/readingpiracyguide/)
+➜ Confira essa Megathread do [FMHY - Books / Comics / Manga](https://fmhy.net/readingpiracyguide)
 
-## Quer saber mais sobre sites de **Mangás**?
-
-➜ Confira essa lista para mais sites para ler Mangá: [https://pastelink.net/mangas](https://pastelink.net/mangas)
