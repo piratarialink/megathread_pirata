@@ -263,6 +263,12 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ## 📑 ➜ Música
 
+### 🔗 [Nuvem Music](https://nuvemazul.org/NuvemMusic/index.html)
+
+- Ouça músicas sem anúncios, no modo offline sem burocracia.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/nuvemazul.org/)
+- [Resultados de segurança do APK](https://www.virustotal.com/gui/file/c01d15a3c2c07bec9d3c799724018fc1b8016567da0cb31ed8dc90f9086788b5)
+
 ### 🔗 [Namida](https://github.com/namidaco/namida) 
 
 - Um reprodutor de música e vídeo bonito e rico em recursos com suporte para Youtube, feito em Flutter.
