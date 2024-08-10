@@ -140,6 +140,11 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - Um número considerável de jogos está disponível gratuitamente, incluindo GOG e outros lançamentos de cena.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrminatorr.com/)
 
+### 🌟 [World of PC](https://worldofpcgames.com/)
+
+- Explore uma vasta coletânea de jogos para Windows, Linux e Mac.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/worldofpcgames.com/)
+
 ## 📑 3 ➜ Jogos de navegador
 
 ### 🌐 [Addicting Games](https://www.addictinggames.com/)
