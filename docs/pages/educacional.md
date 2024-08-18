@@ -4,12 +4,12 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 :::danger ⚠️ Lembrete rápido
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
-- 🐐 = Altamente recomendado pela comunidade pirata.
+- 🌟 = Altamente recomendado pela comunidade pirata.
 :::
 
 ## 📑 ➜ Streaming
 
-### 🐐 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode assistir aos cursos pelo Telegram
+### 🌟 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode assistir aos cursos pelo Telegram
 
 ### ▶️ **[Curso em Video](https://www.cursoemvideo.com/)** - Cursos
 
@@ -49,9 +49,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 📑 ➜ Downloads diretos
 
-### 🐐 **[Cursos do Polemic Knowledge](https://linktr.ee/bepolemic)** - Acesse o Polemic ZIP, filmes e docs no linktree.
+### 🌟 **[Cursos do Polemic Knowledge](https://linktr.ee/bepolemic)** - Acesse o Polemic ZIP, filmes e docs no linktree.
 
-### 🐐 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode baixar os cursos fornecidos no próprio Telegram.
+### 🌟 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode baixar os cursos fornecidos no próprio Telegram.
 
 ### 🔗 [Online Courses](https://online-courses.club/)
 
