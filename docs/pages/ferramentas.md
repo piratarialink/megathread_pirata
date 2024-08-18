@@ -5,7 +5,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 :::danger ⚠️ Lembrete rápido
 
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
-- 🐐 = Altamente recomendado pela comunidade pirata.
+- 🌟 = Altamente recomendado pela comunidade pirata.
   :::
 
 ## ► Ferramentas para Windows/Office

@@ -4,12 +4,12 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 :::danger ⚠️ Lembrete rápido
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
-- 🐐 = Altamente recomendado pela comunidade pirata.
+- 🌟 = Altamente recomendado pela comunidade pirata.
 :::
 
 ## ► **Transmissão de canais ao vivo**
 
-### 🐐 [Rede Canais TV](https://xn--90afacaz8cml9ac9f.xn--p1ai/)
+### 🌟 [Rede Canais TV](https://xn--90afacaz8cml9ac9f.xn--p1ai/)
 
 - Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
@@ -31,7 +31,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ## ► Esportes
 
-### 🐐 [Rede Canais](https://xn--90afacaz8cml9ac9f.xn--p1ai/)
+### 🌟 [Rede Canais](https://xn--90afacaz8cml9ac9f.xn--p1ai/)
 
 - Oferece Canais de Esportes também
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
