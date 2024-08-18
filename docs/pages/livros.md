@@ -5,7 +5,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 :::danger ⚠️ Lembrete rápido
 
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
-- 🐐 = Altamente recomendado pela comunidade pirata.
+- 🌟 = Altamente recomendado pela comunidade pirata.
   :::
 
 ## 📑 1 ➜ Downloads diretos
@@ -33,7 +33,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Livros, Manuais e Revistas antigas sobre informática, videogames e diversos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/datassette.org/)
 
-### 🐐 [Library Genesis](https://libgen.is/) / [2](https://libgen.rs/) / [3](https://libgen.st/)
+### 🌟 [Library Genesis](https://libgen.is/) / [2](https://libgen.rs/) / [3](https://libgen.st/)
 
 - Livros de engenharia e ciências naturais estão sendo colecionados pela comunidade científica.
 - Aqui está uma [versão divertida do principal Library Genesis](https://libgen.fun/) com ênfase em quadrinhos e mangás.
@@ -60,7 +60,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Open Library é uma iniciativa da [Internet Archive](https://archive.org/), uma organização sem fins lucrativos, que constrói uma biblioteca digital de sites da Internet e outros artefatos culturais em formato digital.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/openlibrary.org/)
 
-### 🐐 [Projeto Z-Library](https://singlelogin.re/) / [2](https://zlibrary-global.se/) • Necessário Cadastrar-se
+### 🌟 [Projeto Z-Library](https://singlelogin.re/) / [2](https://zlibrary-global.se/) • Necessário Cadastrar-se
 
 - Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, textos acadêmicos e livros de interesse geral.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/singlelogin.re/)
@@ -169,14 +169,14 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Postagem de mangás no formato aceito pelo Kindle. Requer uma conta no Terabox para efetuar o download, algo que você pode criar através de um email descartável no Temp Mail ou semelhantes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kindleotaku.blogspot.com/)
 
-### 🐐 [MangáFire](https://mangafire.to/)
+### 🌟 [MangáFire](https://mangafire.to/)
 
 - O portal oferece uma grande seleção de quadrinhos mangá para todos os leitores e um layout amigável e simples de navegar. (Só aplicar o Filtro para Português BR)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangafire.to/)
 
 ## 📑 5 ➜ Buscadores
 
-### 🐐 [Arquivo da Anna](https://pt.annas-archive.org/)
+### 🌟 [Arquivo da Anna](https://pt.annas-archive.org/)
 
 - Library Genesis, Sci-Hub e Z-Library estão entre os sites incluídos neste resiliente mecanismo de pesquisa de bibliotecas de sombra.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/annas-archive.org/)
@@ -223,7 +223,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Enormes conjuntos de dados compartilhados por meio de um sistema distribuído, dando aos pesquisadores acesso a um repositório de dados escalável, seguro e tolerante a falhas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/academictorrents.com/)
 
-### 🐐 [AudioBook Bay](https://audiobookbay.li/) / [2](https://audiobookbay.se/) • Necessário Cadastrar-se
+### 🌟 [AudioBook Bay](https://audiobookbay.li/) / [2](https://audiobookbay.se/) • Necessário Cadastrar-se
 
 - Excelente coleção de audiolivros e compartilha muito conteúdo com o MyAnonamouse.
 - Para baixar sem uma conta, copie o hash de informações e cole-o no seu cliente de torrent. Exemplo: `magnet:?xt=urn:btih:INFOHASH`
@@ -247,7 +247,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Poesia gratuita e gravações de áudio de livros do Naropa Poetics Audio Archive, LibriVox, Project Gutenberg etc.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
-### 🐐 [ÁudioAZ](https://audioaz.com/)
+### 🌟 [ÁudioAZ](https://audioaz.com/)
 
 - Fornece uma biblioteca considerável de audiolivros que podem ser baixados ou ouvidos na Internet por qualquer pessoa.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/audioaz.com/)
