@@ -5,7 +5,7 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 :::danger ⚠️ Lembrete rápido
 
 - ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
-- 🐐 = Altamente recomendado pela comunidade pirata.
+- 🌟 = Altamente recomendado pela comunidade pirata.
   :::
 
 ## 📑 1 ➜ Downloads diretos
@@ -20,7 +20,7 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - É possível pesquisar milhões de arquivos em servidores da Web usando este mecanismo de pesquisa de arquivos incrivelmente sofisticado.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/filepursuit.com/)
 
-### 🐐 [Internet Archive](https://archive.org/)
+### 🌟 [Internet Archive](https://archive.org/)
 
 - Milhões de livros gratuitos, filmes, músicas e muito mais estão disponíveis nesta biblioteca sem fins lucrativos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/archive.org/)
@@ -30,7 +30,7 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Banco de dados genérico incluindo vários tipos de conteúdo de mídia, embora com um pouco mais de ênfase na música.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
 
-### 🐐 [SoftArchive](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
+### 🌟 [SoftArchive](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
 
 - Um site de cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
@@ -112,7 +112,7 @@ Não possui resultados de segurança da URL por usar proxy.
 - Fórum warez proeminente com notícias, discussões sobre muitos gêneros de mídia, torrents e links magnéticos também está disponível para download.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rustorka.com/)
 
-### 🐐 [RuTracker](https://rutracker.org/forum/index.php) • Interface em russo
+### 🌟 [RuTracker](https://rutracker.org/forum/index.php) • Interface em russo
 
 - Tem uma vasta biblioteca com muitos gêneros diferentes. É bem distribuído e considerado o rastreador público mais abrangente.
 - Para usar a função de pesquisa, você precisa se cadastrar.
@@ -133,7 +133,7 @@ Não possui resultados de segurança da URL por usar proxy.
 - Buscador rápido com as séries de TV, filmes, jogos, software e torrents de anime mais atualizados.
 - [URL Safety Results](https://www.urlvoid.com/scan/torrentfunk.com/)
 
-### 🐐 [TorrentGalaxy](https://torrentgalaxy.to/) / [2](https://torrends.to/proxy/torrentgalaxy)
+### 🌟 [TorrentGalaxy](https://torrentgalaxy.to/) / [2](https://torrends.to/proxy/torrentgalaxy)
 
 - A estrela emergente do mundo p2p, com uma comunidade jovem, fresca e aberta onde você pode descobrir quase tudo.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentgalaxy.to/)
