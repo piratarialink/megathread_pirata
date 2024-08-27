@@ -63,19 +63,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## ▶️ Legendados
 
-### 🌟 [FMovies](https://fmoviesz.to/home)
-- FMovies é o destino de streaming de filmes e séries online, oferecendo um vasto banco de dados, recomendações personalizadas, streaming de alta qualidade, compatibilidade de dispositivos e uma comunidade envolvente.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/fmoviesz.to/)
-
 ### 🌟 [Binged](https://binged.in/) / [2](https://binged.live/) / [3](https://binge.lol/)
 
 - Uma infinidade de filmes e séries de televisão gratuitamente com todos os lançamentos mais recentes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/binged.in/)
-
-### ▶️ [Ask4Movie](https://ask4movie.li/)
-
-- Plataforma perfeita para assistir filmes e séries de TV completos online. Com legendas multilíngues disponíveis.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ask4movie.li/)
 
 ### ▶️ [HDToday](https://hdtoday.tv/)
 - Plataforma com diversas séries e filmes legendados adicionados constantemente.
@@ -86,10 +77,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - O melhor site de streaming de filmes gratuito com a ajuda de servidores de streaming rápidos e suporte para legendas multilíngues.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ucinema.so/)
 
-### ▶️ [Sudo-Flix](https://sudo-flix.lol/)
+### ▶️ [Sudo-Flix](https://pseudo-flix.pro/)
 
-- sudo-flix é um fork do movie-web que permanece ativo mesmo após o encerramento do movie-web.app. sudo-flix.lol é executado em um VPS privado e auto-hospedado. Não há anúncios e contém uma grande variedade de filmes e séries.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sudo-flix.lol/)
+- sudo-flix mudou o dominio para "pseudo-flix.pro" é um fork do movie-web que permanece ativo mesmo após o encerramento do movie-web.app. sudo-flix.lol é executado em um VPS privado e auto-hospedado. Não há anúncios e contém uma grande variedade de filmes e séries.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pseudo-flix.pro/)
 
 ### ▶️ [Doramogo](https://doramogo.com/)
 
@@ -152,9 +143,9 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🧲 Torrents
 
-### 🌟 [Comando](https://comando.la/)
+### 🌟 [Comando](https://comandofilmeshd.site/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comando.la/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.site/)
 
 ### 🌟 [BluDV](https://bludv.xyz/)
 
