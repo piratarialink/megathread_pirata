@@ -10,6 +10,21 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ## 📑 1 ➜ Downloads Diretos
 
+### 🌟 [LRepacks](https://lrepacks.net/) • Interface em russo
+
+- Numerosos aplicativos portáteis e utilitários que são apreciados pelos usuários por mais de dez anos.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lrepacks.net/)
+
+### 🌟 [CRACKSurl](https://cracksurl.com/)
+
+- Software atualizado diariamente com o objetivo de proporcionar uma experiência rápida todos os dias.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/)
+
+### 🌟 [Game Bounty Software](https://gamebounty.world/software/) 
+
+- Download de softwares populares disponíveis.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gamebounty.world/)
+
 ### 🔗 [4DOWNLOAD](https://4download.net/)
 
 - Downloads completos de software, amostras de áudio, tutoriais, e-books e vídeos podem ser encontrados aqui.
@@ -19,11 +34,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 - Estão disponíveis centenas de novos modelos After Effects e Premiere Pro, incluindo efeitos sonoros.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/aedownload.com/)
-
-### 🔗 [ALLPCWorld](https://allpcworld.com/) / ⚠️
-
-- Baixe o software mais recente com apenas um clique e instalação rápida.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/allpcworld.com/)
 
 ### 🔗 [AppNee](https://appnee.com/)
 
@@ -50,11 +60,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Tonelada de mercadorias, incluindo LUTS, texturas, efeitos sonoros, edição de vídeo + plug-ins, gráficos em movimento e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadpirate.com/)
 
-### 🔗 [FileCR](https://filecr.com/) / [⚠️ Nota Importante](https://rentry.co/FileCR-Aviso)
-
-- Simplificando o acesso a arquivos para Windows, MacOS e Android, melhorando continuamente e oferecendo uma interface amigável.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/filecr.com/)
-
 ### 🔗 [Freepreset](https://freepreset.net/)
 
 - Dedicado a ajudá-lo a obter predefinições de lightroom premium, luts, ações de photoshop e uma infinidade de outros materiais de design.
@@ -69,11 +74,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 - Foco em recursos de uma variedade de programas para modelagem 3D, animação, gráficos em movimento, edição de vídeo e texturização.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gfxdomain.co/)
-
-### 🌟 [LRepacks](https://lrepacks.net/) • Interface em russo
-
-- Numerosos aplicativos portáteis e utilitários que são apreciados pelos usuários por mais de dez anos.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lrepacks.net/)
 
 ### 🔗 [MSJ](https://www.macserialjunkie.com/forum/) • Cadastre-se • MacOS
 
@@ -119,11 +119,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 - Recurso para Windows, Android e Mac OS, fornecendo acesso direto a montes de conteúdo crackeado.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/pesktop.com/)
-
-### [RSLOAD](https://rsload.net/) / [⚠️ Nota Importante](https://rentry.co/FileCR-Aviso) • Interface em russo
-
-- Oferece acesso aos arquivos das versões mais recentes do app e sempre mudando e melhorando para acompanhar os tempos.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rsload.net/)
 
 ### 🔗 [Soft Gozar](https://www.softgozar.com/) • Interface em persa
 
