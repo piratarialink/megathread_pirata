@@ -2,6 +2,10 @@
 
 Guias úteis para ajudá-lo em suas viagens marítimas.
 
+## 📑 ➜ [Guia de Privacidade para Paranoicos](guias/quero-privacidade.md)
+
+O próprio título já diz a sua utilidade.
+
 ## 📑 ➜ [As diferentes maneiras de consumir filmes piratas e por que nenhuma delas presta](guias/guia-murilouco)
 
 Quer saber como consumir filmes piratas sem se preocupar com a qualidade e a legalidade? Descubra as diferentes opções, desde sites grátis até IPTVs pagos, e entenda os prós e contras de cada uma. Clique para saber mais!
