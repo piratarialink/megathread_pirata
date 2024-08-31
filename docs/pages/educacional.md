@@ -17,11 +17,11 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[PrimeCursos](https://www.primecursos.com.br/)** - Cursos
 
-### ▶️ **[uniasselvi](https://portal.uniasselvi.com.br/cursolivre)** - Cursos
+### ▶️ **[Uniasselvi](https://portal.uniasselvi.com.br/cursolivre)** - Cursos
 
 ### ▶️ **[canaldoensino](https://canaldoensino.com.br/blog/)** - Cursos
 
-### ▶️ **[Academy.omie](https://academy.omie.com.br/)** - Cursos
+### ▶️ **[academy.omie](https://academy.omie.com.br/)** - Cursos
 
 ### ▶️ **[moocs.ggte](https://moocs.ggte.unicamp.br/)** - Cursos
 
@@ -35,7 +35,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[EV](https://www.ev.org.br/)** - Cursos
 
-### ▶️ **[veduca](https://veduca.org/gratuitos/)** - Cursos
+### ▶️ **[Veduca](https://veduca.org/course-category/cursos-online-gratuitos/?tutor-course-filter-category=130)** - Cursos
+
+### ▶️ **[Mundi](https://mundi.ifsul.edu.br/portal/)** - Cursos
 
 ### ▶️ **[unasus](https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=&ordenacao=Relev%C3%A2ncia%20na%20busca)** - Cursos
 
@@ -43,9 +45,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[TicEmTrilhas](https://ticemtrilhas.org.br/)** - Cursos
 
-### ▶️ **[ck12](https://www.ck12.org/student/)** - Cursos
+### ▶️ **[Portal da Matemática](https://portaldaobmep.impa.br/index.php/site/index?a=1)** - Cursos
 
-### ▶️ **[w3schools](https://w3schools.com/)** - Cursos
+### ▶️ **[Tecpop Minas](https://tecpop.mg.gov.br/)** - Cursos
 
 ## 📑 ➜ Downloads diretos
 
