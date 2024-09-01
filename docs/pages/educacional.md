@@ -11,13 +11,13 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🌟 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode assistir aos cursos pelo Telegram
 
-### ▶️ **[Curso em Video](https://www.cursoemvideo.com/)** - Cursos
+### ▶️ **[curso em vídeo](https://www.cursoemvideo.com/)** - Cursos
 
-### ▶️ **[Kultivi](https://app.kultivi.com/)** - Cursos
+### ▶️ **[kultivi](https://app.kultivi.com/)** - Cursos
 
-### ▶️ **[PrimeCursos](https://www.primecursos.com.br/)** - Cursos
+### ▶️ **[primecursos](https://www.primecursos.com.br/)** - Cursos
 
-### ▶️ **[Uniasselvi](https://portal.uniasselvi.com.br/cursolivre)** - Cursos
+### ▶️ **[uniasselvi](https://portal.uniasselvi.com.br/cursolivre)** - Cursos
 
 ### ▶️ **[canaldoensino](https://canaldoensino.com.br/blog/)** - Cursos
 
@@ -35,19 +35,21 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[EV](https://www.ev.org.br/)** - Cursos
 
-### ▶️ **[Veduca](https://veduca.org/course-category/cursos-online-gratuitos/?tutor-course-filter-category=130)** - Cursos
+### ▶️ **[veduca](https://veduca.org/course-category/cursos-online-gratuitos/?tutor-course-filter-category=130)** - Cursos
 
-### ▶️ **[Mundi](https://mundi.ifsul.edu.br/portal/)** - Cursos
+### ▶️ **[mundi](https://mundi.ifsul.edu.br/portal/)** - Cursos
 
 ### ▶️ **[unasus](https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=&ordenacao=Relev%C3%A2ncia%20na%20busca)** - Cursos
 
-### ▶️ **[Recode](https://recode.org.br)** - Cursos
+### ▶️ **[recode](https://recode.org.br)** - Cursos
 
-### ▶️ **[TicEmTrilhas](https://ticemtrilhas.org.br/)** - Cursos
+### ▶️ **[ticemtrilhas](https://ticemtrilhas.org.br/)** - Cursos
 
-### ▶️ **[Portal da Matemática](https://portaldaobmep.impa.br/index.php/site/index?a=1)** - Cursos
+### ▶️ **[portal da matemática](https://portaldaobmep.impa.br/index.php/site/index?a=1)** - Cursos
 
-### ▶️ **[Tecpop Minas](https://tecpop.mg.gov.br/)** - Cursos
+### ▶️ **[tecpop minas](https://tecpop.mg.gov.br/)** - Cursos
+
+### ▶️ **[integra univesp](https://apps.univesp.br/integra/)** - Cursos
 
 ## 📑 ➜ Downloads diretos
 
@@ -121,12 +123,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Backup do canal do Polemic.
 
-
 ### 🔗 [Cata Cursos](https://t.me/catacursos)
-
-### 🔗 [Hidra Cursos](https://t.me/+FM6yeYAwrCFlN2Ex)
-
-- Baixe arquivos destinados a concursos, estudos e programação. Você pode solicitar materiais também pelo canal associado.
 
 ### 🤖 [Search bot](@en_SearchBot)
 
