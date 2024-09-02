@@ -32,9 +32,7 @@ Agradecemos a participação de todos na construção e manutenção de nossa me
 
 ## Parcerias
 
-Atualmente, o projeto não possui parcerias estabelecidas com outras entidades ou organizações. Além disso, não estamos aceitando novos colaboradores para o projeto neste momento. O projeto é mantido por atualmente 4 (quatro) colaboradores, os mesmos que fundaram a Comunidade Pirataria.
-
-Esta decisão foi tomada após uma cuidadosa avaliação das necessidades atuais do projeto e de nossa capacidade de gerenciar de forma eficaz.
+Atualmente, o projeto não possui parcerias estabelecidas com outras entidades ou organizações. O projeto é mantido por atualmente 5 (cinco) mantenedores sendo todos voluntários.
 
 ## Recursos usados
 
