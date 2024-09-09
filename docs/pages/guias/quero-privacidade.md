@@ -15,18 +15,22 @@ Essa página ainda é um esboço. Feito com base nas recomendações do [orchest
 - Navegador baseado em Chromium: Cromite
 - Rede social: Lemmy, Mastodon e Matrix
 - Android: GrapheneOS ou LineageOS sem Google
-- Desktop: Windows com Veracrypt ou Linux com LUKS
+- Desktop: Windows com Veracrypt + SophiApp ou Linux com LUKS
 - Provedor dominio: Njalla --- Porkbun também é uma boa opção, mas se você perder o domínio, seu e-mail vai pro saco também
 - Meet: Jitsi
 - Moeda: Litecoin e Monero
-- Hospedagem: servers.guru
-- Pesquisa: duckduckgo.com
+- Hospedagem: Servers.guru
+- Pesquisa: DuckDuckGo.com
 - Não cruzar nomes: Sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
 - Roteador: Qualquer um com suporte do OpenWRT
 
 :::info 
-Onde comprar moeda: Onramper, ramp.network ou qualquer lugar que não precise de identidade.
-Mesmo assim tá foda comprar moeda? Cake Wallet ou compra no Mercado Pago, transfere para wallet e faz exchange para Monero, rastros insignificativos
+Onde comprar moeda: [Onramper](https://cakewallet.com/), [Guardarian](https://guardarian.com/), [ChangeNow](https://changenow.io/), [Ramp Network](https://ramp.network/) ou qualquer lugar que não precise de identidade.
+É possível  comprar outra moeda e fazer exchange para Monero (XMR), por exemplo, você pode comprar Litecoin (LTC) via bancos nacionais (que você já possua conta) e fazer exchange para Monero. Exchange deixa rastros insignificativos.
+:::
+
+:::warning 
+Nós não possuímos nenhuma afiliação a essas plataformas de venda, compra e exchange de criptomoedas. Use por sua própria conta e risco.
 :::
 
 ## O intermediário para privacidade
@@ -45,7 +49,7 @@ Mesmo assim tá foda comprar moeda? Cake Wallet ou compra no Mercado Pago, trans
 - Meet: systemli.org Jitsi
 - Moeda: Monero
 - Hospedagem: Njalla
-- Pesquisa: duckduckgo.com
+- Pesquisa: DuckDuckGo.com
 - Roteador: Qualquer um com OpenWRT, recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 - Não cruzar nomes: Sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
 
