@@ -79,6 +79,7 @@ export default {
           { text: "🧭 Sites de Uso Geral", link: "pages/sites-geral" },
           { text: "⭐ Anime", link: "pages/anime" },
           { text: "📚 Livros", link: "pages/livros" },
+          { text: "🤖 Inteligência Artificial", link: "pages/ia" },
           { text: "🧠 Educacional", link: "pages/educacional" },
           { text: "🕹️ Emuladores e ROMs", link: "pages/emuladores-roms" },
           { text: "🎮 Jogos", link: "pages/jogos" },
