@@ -123,7 +123,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Backup do canal do Polemic.
 
-### 🔗 [Cata Cursos](https://t.me/catacursos)
+### 🔗 [Hidra 2.0](https://t.me/+U9SpcaDyB0w0YWZk)
+
+- Vários cursos zipados e em streaming para você assistir sem sair do Telegram.
 
 ### 🤖 [Search bot](@en_SearchBot)
 
@@ -131,7 +133,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🔗 [Brasil Cursos📚](https://t.me/Cursos_Filmes_Livros)
 
-- Materiais diversos para concursos, cursos e livros em streaming. 
+- Materiais para concursos, cursos e livros em streaming. 
 
 ### 🔗 [Extreme Cursos](https://t.me/Extreme_CursosGratis)
 
@@ -140,6 +142,8 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### 🔗 [NOSSO CONCURSO](https://t.me/NOSSOCONCURSO)
 
 - Aqui você encontrará questões de provas e exercícios de concursos públicos e provas em geral.
+
+### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 
 ### 🔗 [Árvore do Conhecimento - Canal](https://t.me/arveduconhecimentu)
 
