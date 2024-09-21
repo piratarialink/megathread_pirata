@@ -125,6 +125,11 @@ export default {
         ],
       },
     ],
+    editLink: {
+      pattern:
+        "https://codeberg.org/pirataria/megathread/_edit/main/docs/:path",
+      text: "Edite essa página",
+    },
     docFooter: {
       prev: false,
       next: false,
