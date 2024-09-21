@@ -12,6 +12,9 @@ hero:
     - theme: brand
       text: Explorar
       link: /main-page
+    - theme: alt
+      text: Contribuir
+      link: https://codeberg.org/pirataria/megathread
 
 # Features section
 features:
