@@ -25,6 +25,11 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - Excelente aplicativo para streaming e leitura de mangás. Amplamente recomendado pela comunidade, oferece um App com ótimo layout e organização.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/tomatoanimes.com/)
 
+### ▶️ [otakuanimes](https://otakuanimesscc.com/)
+
+- Site sem anúncios abusivos e bem completo.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/otakuanimesscc.com/)
+
 ### ▶️ [4anime](https://4anime.gg/)
 
 - Após o encerramento do 4anime original, esta é uma alternativa incrivelmente rápida onde se pode ver anime e espetáculos.
