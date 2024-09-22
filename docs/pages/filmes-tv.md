@@ -138,11 +138,15 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🧲 Torrents
 
-### 🌟 [Comando](https://comandofilmeshd.site/)
+### 🌟 [Rede Torrent](https://redetorrent.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
+
+### 🧲 [Comando](https://comandofilmeshd.site/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.site/)
 
-### 🌟 [BluDV](https://bludv.xyz/)
+### 🧲 [BluDV](https://bludv.xyz/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv.xyz/)
 
@@ -150,9 +154,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes.site/)
 
-### 🧲 [Rede Torrent](https://redetorrent.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
 
 ### 🧲 [Filmes via Torrent.site](https://filmesviatorrents.site/)
 
