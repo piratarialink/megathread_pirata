@@ -14,6 +14,10 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarquadrinhos.net/)
 
+### 🔗 [elivros](https://elivros.love/)
+
+- [Resultado de Segurança da URL](https://www.urlvoid.com/scan/elivros.love/)
+
 ### 🔗 [Baixe Livros](https://www.baixelivros.com.br/)
 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixelivros.com.br/)
@@ -163,6 +167,12 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🌸 [Toonily](https://toonily.com/)
 - Acesso aos seus manhwas premium em inglês traduzidos de editores coreanos de topo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/toonily.com/)
+
+### 🌸 [MangaOnline](https://mangaonline.biz/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangaonline.biz/)
+
+### 🌸 [Mangabr](https://mangabr.net/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangabr.net/)
 
 ### 🔗 [KindleOtaku](https://kindleotaku.blogspot.com/)
 
