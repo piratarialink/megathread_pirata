@@ -17,7 +17,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[primecursos](https://www.primecursos.com.br/)** - Cursos
 
-### ▶️ **[uniasselvi](https://portal.uniasselvi.com.br/cursolivre)** - Cursos
+### ▶️ **[integra univesp](https://apps.univesp.br/integra/)** - Cursos
 
 ### ▶️ **[canaldoensino](https://canaldoensino.com.br/blog/)** - Cursos
 
@@ -27,9 +27,11 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[pensarcursos](https://www.pensarcursos.com.br/)** - Cursos
 
+### ▶️ **[wr educacional](https://www.wreducacional.com.br/lista-de-cursos)** - Cursos
+
 ### ▶️ **[iestudar](https://iestudar.com/)** - Cursos
 
-### ▶️ **[openuped](https://www.openuped.eu/courses)** - Cursos
+### ▶️ **[moodle.ifrs](https://moodle.ifrs.edu.br/course/index.php?categoryid=38)** - Cursos
 
 ### ▶️ **[escolavirtual](https://www.escolavirtual.gov.br/catalogo)** - Cursos
 
@@ -49,7 +51,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[tecpop minas](https://tecpop.mg.gov.br/)** - Cursos
 
-### ▶️ **[integra univesp](https://apps.univesp.br/integra/)** - Cursos
+### ▶️ **[uniasselvi](https://portal.uniasselvi.com.br/cursolivre)** - Cursos
 
 ## 📑 ➜ Downloads diretos
 
@@ -66,6 +68,11 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Oferecendo cursos e tutoriais gratuitos da Udemy que são simples de seguir. Uma maneira fantástica de desenvolver habilidades é através do auto-estudo.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/udemy24.com/)
+
+### 🔗 [Coletânea pirata](https://rentry.co/coletanea-pirata)
+
+- Indexador de sites de torrent e de pirataria relacionada a formação profissional.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/rentry.co/)
 
 ### 🔗 [FreeCourseSite](https://freecoursesite.com/)
 
@@ -123,9 +130,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Backup do canal do Polemic.
 
-### 🔗 [Hidra 2.0](https://t.me/+U9SpcaDyB0w0YWZk)
+### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 
-- Vários cursos zipados e em streaming para você assistir sem sair do Telegram.
+- Vídeoaulas zipadas e em streaming para você assistir sem sair do Telegram.
 
 ### 🤖 [Search bot](@en_SearchBot)
 
@@ -133,17 +140,15 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🔗 [Brasil Cursos📚](https://t.me/Cursos_Filmes_Livros)
 
-- Materiais para concursos, cursos e livros em streaming. 
+- Materiais para concursos, estudos e livros em streaming. 
 
 ### 🔗 [Extreme Cursos](https://t.me/Extreme_CursosGratis)
 
--  Cursos diversos por streaming.
+-  Conteúdo diverso.
 
 ### 🔗 [NOSSO CONCURSO](https://t.me/NOSSOCONCURSO)
 
 - Aqui você encontrará questões de provas e exercícios de concursos públicos e provas em geral.
-
-### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 
 ### 🔗 [Árvore do Conhecimento - Canal](https://t.me/arveduconhecimentu)
 
