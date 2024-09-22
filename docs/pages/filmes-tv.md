@@ -91,7 +91,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - KissAsian é um site de streamings de doramas legendados que funciona desde 2015. Recomendamos o bloqueador de anúncios ativado por conta dos anúncios terceiros no player de vídeo. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kissasian.lu/)
-- 
+ 
 ## 📺️ TV
 
 ### 🌟 [Rede Canais TV](https://xn--90afacaz8cml9ac9f.xn--p1ai/)
