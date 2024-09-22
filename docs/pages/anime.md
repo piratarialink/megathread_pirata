@@ -15,15 +15,20 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 ## 📑 1 ➜ Streaming
 
+### 🌟 [Animesonlinevip](https://animesonlinevip.su/)
+
+- Pãgina para assistir animes e desenhos com segurança e sem qualquer tipo de interrupção ou anúncio.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animesonlinevip.su/)
+
 ### 🌟 [Better Anime](https://betteranime.net/)
 
 - O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/betteranime.net/)
 
-### 🌟 [Tomato](https://tomatoanimes.com/watch)
+### ▶️ [Animesonlinecc](https://animesonlinecc.org/)
 
-- Excelente aplicativo para streaming e leitura de mangás. Amplamente recomendado pela comunidade, oferece um App com ótimo layout e organização.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/tomatoanimes.com/)
+- Por mais que não tenha um catálogo extenso, é uma opção caso o site animesonlinevip.su fique fora do ar.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animesonlinecc.org/)
 
 ### ▶️ [otakuanimes](https://otakuanimesscc.com/)
 
