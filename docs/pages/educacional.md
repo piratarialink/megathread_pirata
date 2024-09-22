@@ -132,7 +132,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 
-- Vídeoaulas zipadas e em streaming para você assistir sem sair do Telegram.
+- Videoaulas zipadas e em streaming para você assistir sem sair do Telegram.
 
 ### 🤖 [Search bot](@en_SearchBot)
 
