@@ -100,6 +100,8 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 📑 ➜ Torrents
 
+### 🧲 [Downloadcursostop](https://downloadcursos.top/) - Para ter acesso aos arquivos, abra o link magnético em uma nova aba e utilize outros navegadores além do Firefox
+
 ### 🧲 [Course Torrent / DDL CSE](https://cse.google.com/cse?cx=37dfc1f1ac9ef45e7) - Pesquisa de cursos em vários sites
 
 ### 🧲 [Course Club](https://courseclub.me/) - Cursos
