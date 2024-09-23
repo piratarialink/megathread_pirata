@@ -60,7 +60,7 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 ### 🌟 [Gogotaku](https://gogotaku.info/)
 
 - Acompanhe, encontre, compartilhe e veja anime de alta qualidade. Se procura um serviço confiável e seguro, já o encontrou.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yugenanime.tv/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gogotaku.info/)
 
 
 ## 📑 2 ➜ Downloads Diretos
