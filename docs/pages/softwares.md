@@ -125,6 +125,11 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Atualizado frequentemente, com versões completas e irrestritas apenas dos melhores aplicativos disponíveis.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softgozar.com/)
 
+### 🔗 [Vfxmed](https://www.vfxmed.com/)
+
+- Você precisará entrar no Discord do dono para conseguir os passwords de alguns programas.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/vfxmed.com/)
+
 ### 🔗 [YasDL](https://www.yasdl.com/) • Interface em persa
 
 - Belo catálogo de aplicativos gratuitos, jogos, software para Android, animação, utilitários e muito mais.

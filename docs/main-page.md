@@ -81,7 +81,7 @@
 
 ### 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
 ### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
-### 📁 [Ducklink](https://ducklink.pages.dev/)
+### 📁 [EverythingMoe](https://everythingmoe.com/)
 ### 📁 [FMHY](https://fmhy.pages.dev/)
 ### 📁 [Piratezparty](https://github.com/SpamVerse/Piratezparty)
 ### 📁 [Ripped](https://ripped.guide/)
