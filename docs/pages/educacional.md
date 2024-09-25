@@ -61,7 +61,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🔗 [Dinheirocursosdownload](https://dinheirocursosdownload.com/)
 
-- Para que a página funcione corretamente, é necessário desativar o adblock.
+- Para que a página funcione corretamente, é preciso desativar o adblock.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/dinheirocursosdownload.com/)
 
 ### 🔗 [Online Courses](https://online-courses.club/)

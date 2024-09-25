@@ -206,7 +206,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Ótimos links para download, onde você pode acessar aplicativos e jogos APK premium gratuitamente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/dlandroid.com/)
 
-### 🔗 [farsroid](https://www.farsroid.com/) • Persian UI
+### 🔗 [farsroid](https://www.farsroid.com/) • UI em persa
 
 - Downloads de jogos e aplicativos Android mais recentes e seguros com mods testados incluídos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/farsroid.com/)
@@ -226,6 +226,10 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Baixe todos os aplicativos Android com links diretos e rápidos para facilitar o acesso.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apps.themicrotech.net/)
 
+### 🌟 [Mobilism](https://forum.mobilism.org/index.php)
+- Recurso obrigatório para aplicativos e livros. Muitas pessoas confiam nele e fornecem acesso direto às versões mais recentes dos arquivos.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/)
+
 ### 🌟 [MODYOLO](https://modyolo.com/)
 
 - Especializado em modificações de aplicativos e jogos premium de várias fontes.
@@ -236,7 +240,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Alternativa às lojas de aplicativos tradicionais, oferecendo downloads gratuitos para aplicativos Android e iOS.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pdalife.com/)
 
-### 🔗 [Platinmods](https://platinmods.com/) • Sign Up
+### 🔗 [Platinmods](https://platinmods.com/) • Necessário Cadastro
 
 - Comunidade amigável que oferece mods e jogos de qualidade para Android e iOS.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/platinmods.com/)
