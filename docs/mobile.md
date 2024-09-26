@@ -226,7 +226,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Baixe todos os aplicativos Android com links diretos e rápidos para facilitar o acesso.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apps.themicrotech.net/)
 
-### 🌟 [Mobilism](https://forum.mobilism.org/index.php)
+### 🌟 [Mobilism](https://forum.mobilism.org/index.php) • Necessário Cadastro
 - Recurso obrigatório para aplicativos e livros. Muitas pessoas confiam nele e fornecem acesso direto às versões mais recentes dos arquivos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/)
 
