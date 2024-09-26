@@ -136,8 +136,8 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 ## 📑 4 ➜ Canais/Grupos no Telegram
 
-### 🐐 [Algo Animes](https://t.me/algoanimes)
-- Mesmo criador do Algo Books!
+### 🌟 [Algo Animes](https://t.me/algoanimes)
+- Mesmo criador do Algo Books!!
 
 ### 🔗 [Toonami](https://t.me/toonamibr)
 

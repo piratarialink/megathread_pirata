@@ -215,7 +215,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Um fantástico recurso de legendas com uma grande comunidade de colaboradores dedicados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/podnapisi.net/)
 
-### 🖊️ [SubHD](https://subhd.tv/) • IU chinesa
+### 🖊️ [SubHD](https://subhd.tv/) • UI chinesa
 
 - A maior coleção com foco em legendas em chinês, e às vezes inclui a opção de uma combinação dupla com o inglês.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/subhd.tv/)
