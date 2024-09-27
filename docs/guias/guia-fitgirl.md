@@ -32,7 +32,7 @@ Com isso feito, pronto! Qbittorrent está instalado e funcionando em seu computa
 
 Primeiro, verifique se está abrindo o site **real**. Segue imagem do link verdadeiro, mas em caso de duvidas também **pode clicar** [**aqui**](https://fitgirl-repacks.site/) **para ir ao site real** e fazer sua pesquisa lá sem medos.
 
-![](images/fitgirlwebsite.png)
+![](/images/fitgirlwebsite.png)
 
 Abrindo o site, **clique na lupa para fazer sua pesquisa.**
 
@@ -74,7 +74,7 @@ Quando o download estiver completo, abra **setup.exe.**
 
 Essa caixinha será aberta, como não tem uma opção em português, apenas **clique em ok**.
 
-![](images/install.png)
+![](/images/install.png)
 
 (instalador de jogo diferente utilizado por questão de internet lenta e esse já estar pronto para ser aberto)
 
