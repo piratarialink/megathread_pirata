@@ -74,7 +74,7 @@ Quando o download estiver completo, abra **setup.exe.**
 
 Essa caixinha será aberta, como não tem uma opção em português, apenas **clique em ok**.
 
-![](/images/install.png)
+![](images/install.png)
 
 (instalador de jogo diferente utilizado por questão de internet lenta e esse já estar pronto para ser aberto)
 
