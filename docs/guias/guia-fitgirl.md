@@ -32,7 +32,7 @@ Com isso feito, pronto! Qbittorrent está instalado e funcionando em seu computa
 
 Primeiro, verifique se está abrindo o site **real**. Segue imagem do link verdadeiro, mas em caso de duvidas também **pode clicar** [**aqui**](https://fitgirl-repacks.site/) **para ir ao site real** e fazer sua pesquisa lá sem medos.
 
-![](/images/fitgirlwebsite.png)
+![](images/fitgirlwebsite.png)
 
 Abrindo o site, **clique na lupa para fazer sua pesquisa.**
 
