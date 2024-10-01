@@ -82,7 +82,7 @@
 ### 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
 ### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
 ### 📁 [EverythingMoe](https://everythingmoe.com/)
-### 📁 [FMHY](https://fmhy.pages.dev/)
+### 📁 [FMHY](https://fmhy.pages.dev/) / [Link alternativo](https://api.fmhy.net/single-page)
 ### 📁 [Ripped](https://ripped.guide/)
 ### 📁 [Wotaku](https://wotaku.pages.dev/)
 

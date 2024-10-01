@@ -59,7 +59,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🌟 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode baixar os cursos fornecidos no próprio Telegram.
 
-### 🔗 [Dinheirocursosdownload](https://dinheirocursosdownload.com/)
+### 🔗 [DinheiroCursosDownload](https://dinheirocursosdownload.com/)
 
 - Para que a página funcione corretamente, é preciso desativar o adblock.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/dinheirocursosdownload.com/)
@@ -105,7 +105,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 📑 ➜ Torrents
 
-### 🧲 [Downloadcursostop](https://downloadcursos.top/) - Para ter acesso aos arquivos, abra o link magnético em uma nova guia e utilize outros navegadores além do Firefox
+### 🧲 [DownloadCursosTop](https://downloadcursos.top/) - Para ter acesso aos arquivos, abra o link magnético em uma nova guia e utilize outros navegadores além do Firefox
 
 ### 🧲 [Course Torrent / DDL CSE](https://cse.google.com/cse?cx=37dfc1f1ac9ef45e7) - Pesquisa de cursos em vários sites
 
@@ -141,13 +141,17 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Videoaulas zipadas e em streaming para você assistir sem sair do Telegram.
 
-### 🤖 [Search bot](@en_SearchBot)
+### 🤖 [Search bot](https://t.me/en_SearchBot)
 
 - Substitui a busca nativa e obsoleta do Telegram. Ótimo para encontrar cursos.
 
 ### 🔗 [Brasil Cursos📚](https://t.me/Cursos_Filmes_Livros)
 
-- Materiais para concursos, estudos e livros em streaming. 
+- Materiais para concursos, estudos e livros.
+
+### 🛠 [Clonechat](https://github.com/apenasrr/clonechat/blob/main/README_ptbr.md)
+
+- Clona todas as postagens de um Canal/Grupo do telegram para um outro Canal/Grupo. 
 
 ### 🔗 [Extreme Cursos](https://t.me/Extreme_CursosGratis)
 

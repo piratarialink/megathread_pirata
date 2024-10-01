@@ -16,7 +16,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ### 🔗 [elivros](https://elivros.love/)
 
-- [Resultado de Segurança da URL](https://www.urlvoid.com/scan/elivros.love/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/elivros.love/)
 
 ### 🔗 [Baixe Livros](https://www.baixelivros.com.br/)
 
