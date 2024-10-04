@@ -65,7 +65,7 @@
 ### 🧵 [Trackers](trackers.md)
 - Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos.
 
-### 🧵 [Warez](warez.md)
+### 🏴‍☠️ [Warez](warez.md)
 - Warez refere-se à distribuição de software, jogos, filmes, cursos e outros conteúdos digitais pirateados. 
 
 ---

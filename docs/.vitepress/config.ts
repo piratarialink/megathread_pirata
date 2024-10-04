@@ -89,7 +89,7 @@ export default {
           { text: "👟 Esportes", link: "esportes" },
           { text: "🧰 Ferramentas", link: "ferramentas" },
           { text: "🧵 Trackers", link: "trackers" },
-          { text: "📺 Warez", link: "warez" },
+          { text: "🏴‍☠️ Warez", link: "warez" },
           { text: "☣️ Sites Inseguros", link: "sites-inseguros" },
         ],
       },
