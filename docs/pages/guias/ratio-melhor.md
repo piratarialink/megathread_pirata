@@ -6,7 +6,7 @@
 
 > Entre cedo em um torrent
 
-Uma vez que um torrent tem uma proporção de mais seeders para leechers, muitas vezes pode ser difícil obter uma velocidade de upload decente. Examinando sua lista de rastreadores carregados recentemente, tente encontrar um torrent que tenha um grande número de leechers iniciais (ou possivelmente um que possa ser popular), comece a baixar e você deverá fazer o upload instantaneamente. Este método é geralmente mais eficaz com uma conexão de internet rápida ou Seedbox, pois com uma conexão mais lenta você pode não conseguir carregar uma quantidade substancial antes de ter uma abundância de seeders. Programas [gerenciadores de mídia](https://c-pirataria.github.io/Megathread-V2/pages/ferramentas#%E2%96%BA-gerenciadores-de-midia) auxiliam nesse processo de adicionar uma torrent. O [autobrr](https://autobrr.com) é um programa especializado para isso, utilizando os canais de announce dos trackers para adicionar torrents assim que são lançados.
+Uma vez que um torrent tem uma proporção de mais seeders para leechers, muitas vezes pode ser difícil obter uma velocidade de upload decente. Examinando sua lista de rastreadores carregados recentemente, tente encontrar um torrent que tenha um grande número de leechers iniciais (ou possivelmente um que possa ser popular), comece a baixar e você deverá fazer o upload instantaneamente. Este método é geralmente mais eficaz com uma conexão de internet rápida ou Seedbox, pois com uma conexão mais lenta você pode não conseguir carregar uma quantidade substancial antes de ter uma abundância de seeders. Programas [gerenciadores de mídia](/pages/ferramentas#►-gerenciadores-de-midia) auxiliam nesse processo de adicionar uma torrent. O [autobrr](https://autobrr.com) é um programa especializado para isso, utilizando os canais de announce dos trackers para adicionar torrents assim que são lançados.
 
 #
 
@@ -18,7 +18,7 @@ O encaminhamento de porta é a chave para permitir que outros usuários se conec
 
 > Cross Seeding
 
-A Cross Seeding envolve a propagação de dados já baixados. Ao baixar um arquivo idêntico de outra fonte (ou seja, um rastreador que você já possui uma alta taxa) ou obtê-lo localmente, você pode usar os dados já obtidos para semear em outro torrent idêntico que rastreia apenas a largura de banda de upload, pois nada foi efetivamente 'baixado'. Existe um [script](https://cross-seed.org) que usa o [Prowlarr](https://c-pirataria.github.io/Megathread-V2/pages/ferramentas#%E2%96%BA-gerenciadores-de-midia) para automatizar o processo
+A Cross Seeding envolve a propagação de dados já baixados. Ao baixar um arquivo idêntico de outra fonte (ou seja, um rastreador que você já possui uma alta taxa) ou obtê-lo localmente, você pode usar os dados já obtidos para semear em outro torrent idêntico que rastreia apenas a largura de banda de upload, pois nada foi efetivamente 'baixado'. Existe um [script](https://cross-seed.org) que usa o [Prowlarr](/pages/ferramentas#►-gerenciadores-de-midia) para automatizar o processo
 
 #
 

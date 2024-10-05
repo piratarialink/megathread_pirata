@@ -1,4 +1,4 @@
-# 🧵 ➜ Warez
+# 🏴‍☠️ ➜ Warez
 
 Warez refere-se à distribuição de software, jogos, filmes, cursos e outros conteúdos digitais pirateados. 
 

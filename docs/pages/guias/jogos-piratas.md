@@ -68,7 +68,8 @@ Esses são buscadores fáceis para encontrar seus jogos:
 ## Sites Torrent
 
 Torrents são downloads P2P – você baixa de outras pessoas que baixaram o arquivo. Nenhum servidor está envolvido.
-Para obter uma lista de uploaders dos quais você deve ficar longe, verifique a seção [Uploaders não confiaveis](https://gnireorb.github.io/pirataria/Jogos-Piratas#sites-n%C3%A3o-confi%C3%A1veis).
+
+Para obter uma lista de uploaders dos quais você deve ficar longe, verifique a seção [Uploaders não confiaveis](/pages/guias/jogos-piratas#sites-nao-confiaveis).
 
 - [1337x](https://1337x.to) - Obtenha os jogos apenas dos seguintes uploaders de jogos: (Qualquer nome de cs.rin.ru, 0xEMPRESS, anadius, DODI, FitGirl, JohnCena141 (Linux), KaOsKrew , s7on3r, TinyRepacks)
 - [Lançamentos EMPRESS](https://telegra.ph/empress-biography-07-15) - Para jogos crackeados por EMPRESS

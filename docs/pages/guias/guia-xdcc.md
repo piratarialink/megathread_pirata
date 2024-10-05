@@ -65,7 +65,7 @@ Para um exemplo prático, faremos o download do 1º episódio do anime *New Game
 
 1. Algumas vezes, a fim de poder baixar um arquivo de um bot XDCC, é necessário possuir um nickname registrado no servidor IRC. O processo de registrar um nick em um servidor varia ligeiramente dependendo do servidor. Você consegue informações sobre como fazer isto usando o comando `/msg NickServ help register`, uma vez conectado a um servidor.
 2. Este processo pode variar ligeiramente dependendo do Fserv que você estiver utilizando, consulte as instruções específicas dele. O que expliquei aqui é o mais comum de ser encontrado.
-3. Aqui valem as mesmas regras de segurança de outras comunidades de compartilhamento de arquivos - muito cuidado com o que você baixa. Em geral, é seguro baixar vídeos e livros de Fservers, mas é extremamente recomendado que você **JAMAIS** execute software baixado nestes servidores (muito provável conter vírus). Confira a [Megathread](https://pirataria.digital/) para informações sobre outras fontes seguras de conteúdo.
+3. Aqui valem as mesmas regras de segurança de outras comunidades de compartilhamento de arquivos - muito cuidado com o que você baixa. Em geral, é seguro baixar vídeos e livros de Fservers, mas é extremamente recomendado que você **JAMAIS** execute software baixado nestes servidores (muito provável conter vírus). Confira a [Megathread](https://pirataria.link/) para informações sobre outras fontes seguras de conteúdo.
 
 ## Referências
 

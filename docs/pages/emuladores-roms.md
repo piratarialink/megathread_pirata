@@ -252,7 +252,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Coleção de videogames estruturada e acessível de 200 TB.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/myrient.erista.me/)
 
-### 🔗 [NesGM](https://nesgm.net/) • IU em espanhol
+### 🔗 [NesGM](https://nesgm.net/) • UI em espanhol
 
 - ROMs para Nintendo Switch e outras plataformas são o foco principal.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nesgm.net/)

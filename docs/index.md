@@ -14,7 +14,7 @@ hero:
       link: /main-page
     - theme: alt
       text: Ver no Github
-      link: https://github.com/c-pirataria/megathread
+      link: https://github.com/piratarialink/megathread_pirata
 
 # Features section
 features:

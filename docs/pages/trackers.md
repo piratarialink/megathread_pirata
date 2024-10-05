@@ -87,6 +87,9 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 ### 🧲 BroadcastTheNet | BTN 
 - Não há recrutamento no momento.
 
+### 🧲 [CGpeers](https://www.cgpeers.to/login.php) | CGP
+- Tracker privado do blog CGPersia.com.
+
 ### 🧲 Cinematik | TIK 
 - Não há recrutamento no momento.
 
@@ -105,7 +108,7 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 ### 🧲 [JPopsuki ](https://jpopsuki.eu/) | JPOP
 - Não há recrutamento no momento.
 
-### 🧲 [Milkie](https://milkie.cc/)
+### 🧲 [Milkie](https://milkie.cc/) | MIL
 - Convites pelo [Discord](https://discord.gg/rZYAFuZ)
 
 ### 🧲 [MyAnonaMouse](https://myanonamouse.net) | MAM | [Entrevista](https://www.myanonamouse.net/inviteapp.php)
@@ -128,4 +131,4 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
 
-### 🧲 [Academic Torrents](https://academictorrents.com/)
+### 🧲 [Academic Torrents](https://academictorrents.com/) | ACA
