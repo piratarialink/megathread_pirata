@@ -25,6 +25,16 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Milhões de livros gratuitos, filmes, músicas e muito mais estão disponíveis nesta biblioteca sem fins lucrativos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
+### 🔗 [Meawfy](https://meawfy.com/)
+
+- Um mecanismo de busca especializado em encontrar arquivos hospedados no Mega.nz (anteriormente Megaupload), incluindo uma gama de conteúdo como filmes, software, videogames e muito mais.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/meawfy.com/)
+
+### 🔗 [Mediafire Trend](https://mediafiretrend.com/)
+
+- Ferramenta de pesquisa para o Mediafire.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mediafiretrend.com/)
+
 ### 🔗 [Scnlog](https://scnlog.me/)
 
 - Banco de dados genérico incluindo vários tipos de conteúdo de mídia, embora com um pouco mais de ênfase na música.

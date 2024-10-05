@@ -13,10 +13,10 @@ Essa página ainda é um esboço. Feito com base nas recomendações do [orchest
 - Criptografia: Cryptomator e Veracrypt
 - Navegador: Firefox + uBlock Origin + oisd.nl + Containers
 - Navegador baseado em Chromium: Cromite
-- Rede social: Lemmy, Mastodon e Matrix
+- Rede social: Lemmy, Mastodon, XMPP e Matrix
 - Android: GrapheneOS ou LineageOS sem Google
 - Desktop: Windows com Veracrypt + SophiApp ou Linux com LUKS
-- Provedor dominio: Njalla --- Porkbun também é uma boa opção, mas se você perder o domínio, seu e-mail vai pro saco também
+- Provedor dominio: Njalla, Sarek Oy, Porkbun ou Cloudflare
 - Meet: Jitsi
 - Moeda: Litecoin e Monero
 - Hospedagem: Servers.guru
@@ -42,13 +42,13 @@ Nós não possuímos nenhuma afiliação a essas plataformas de venda, compra e 
 - Criptografia: Cryptomator e Veracrypt
 - Nuvem: systemli.org NextCloud (chaves PGP, backup e armazenar KeePassXC)
 - Navegador: Firefox + uBlock Origin + oisd.nl + Containers + arkenfox.js
-- Rede social: Lemmy, Mastodon e systemli.org Matrix
+- Rede social: Lemmy, Mastodon, XMPP e systemli.org Matrix
 - Android: GrapheneOS
 - Desktop: Linux com LUKS
-- Provedor dominio: Njalla
+- Provedor dominio: Njalla, Sarek Oy, Porkbun ou Cloudflare
 - Meet: systemli.org Jitsi
 - Moeda: Monero
-- Hospedagem: Njalla
+- Hospedagem: Servers.guru ou Njalla
 - Pesquisa: DuckDuckGo.com
 - Roteador: Qualquer um com OpenWRT, recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 - Não cruzar nomes: Sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias

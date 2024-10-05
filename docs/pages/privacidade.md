@@ -180,3 +180,15 @@ Existem várias outras instâncias, o Matrix.org é uma das instâncias disponí
 ### [Element](https://element.io/)
 
 O Element é um cliente de comunicação para a plataforma Matrix.org. Ele oferece uma interface de usuário intuitiva e recursos avançados para mensagens instantâneas, chamadas de voz e vídeo, compartilhamento de arquivos e colaboração em tempo real. O Element é conhecido por sua segurança e privacidade, usando criptografia de ponta a ponta para proteger as conversas dos usuários. Além disso, ele é altamente personalizável e suporta integrações com outras ferramentas e serviços. O Element é uma escolha popular para indivíduos e organizações que buscam uma solução de comunicação descentralizada, segura e escalável.
+
+## Criptografia de disco
+
+### [Veracypt](https://www.veracrypt.fr/en/Home.html)
+
+O VeraCrypt adiciona segurança aprimorada aos algoritmos usados ​para criptografia de sistemas e partições, tornando-o imune a novos desenvolvimentos em ataques de força bruta.
+
+## Criptografia de nuvem
+
+### [Cryptomator](https://cryptomator.org/)
+
+O Cryptomator fornece criptografia transparente client-side para sua nuvem. Protege seus documentos contra acesso não autorizado. O Cryptomator é um software gratuito e de código aberto, então você pode ter certeza de que não há backdoors.

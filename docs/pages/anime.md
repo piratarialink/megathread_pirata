@@ -20,10 +20,10 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/betteranime.net/)
 
-### 🌟 [Tomato](https://tomatoanimes.com/watch)
+### ▶️ [otakuanimes](https://otakuanimesscc.com/)
 
-- Excelente aplicativo para streaming e leitura de mangás. Amplamente recomendado pela comunidade, oferece um App com ótimo layout e organização.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/tomatoanimes.com/)
+- Site sem anúncios abusivos e bem completo.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/otakuanimesscc.com/)
 
 ### ▶️ [4anime](https://4anime.gg/)
 
@@ -41,16 +41,26 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - Ótimo site que oferece opções HD e Full HD para assistir.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/hinatasoul.com/)
 
+### ▶️ [Animesonlinevip](https://animesonlinevip.su/)
+
+- Pãgina para assistir animes e desenhos com segurança e sem qualquer tipo de interrupção ou anúncio.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animesonlinevip.su/)
+
+### ▶️ [Animesonlinecc](https://animesonlinecc.org/)
+
+- Por mais que não tenha um catálogo extenso, é uma opção caso o site animesonlinevip.su fique fora do ar.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animesonlinecc.org/)
+
 ### ▶️ [KickAssAnime](https://kickassanime.am/)
 
 - Fiável para novos lançamentos com excelente qualidade, mas não é a melhor seleção para anime mais antigo.
 - Apesar do site ser gringo geralmente animes populares tem legendas em PT-BR.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/kickassanime.am/)
 
-### 🌟 [YugenAnime](https://yugenanime.tv/)
+### 🌟 [Gogotaku](https://gogotaku.info/)
 
 - Acompanhe, encontre, compartilhe e veja anime de alta qualidade. Se procura um serviço confiável e seguro, já o encontrou.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yugenanime.tv/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gogotaku.info/)
 
 
 ## 📑 2 ➜ Downloads Diretos
@@ -126,8 +136,8 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 ## 📑 4 ➜ Canais/Grupos no Telegram
 
-### 🐐 [Algo Animes](https://t.me/algoanimes)
-- Mesmo criador do Algo Books!
+### 🌟 [Algo Animes](https://t.me/algoanimes)
+- Mesmo criador do Algo Books!!
 
 ### 🔗 [Toonami](https://t.me/toonamibr)
 

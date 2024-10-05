@@ -22,11 +22,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [CriaFlix](https://criaflix.live/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/criaflix.live/)
 
-### ▶️ [Braflix](https://www.braflix.video)
-
-- O banco de dados de filmes constantemente atualizado é o refúgio perfeito para todos os cinéfilos apaixonados.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/braflix.video/)
-
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
@@ -59,7 +54,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [MemoriadaTV](https://www.memoriadatv.com/)
 
 - Contém um acervo incrível de obras antigas, principalmente se tratando de conteúdo nacional. Além disso, o site disponibiliza diversos servidores para download, contendo também vários formatos e dublagens incluso.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/memoriadatv.com/)
+- [Resultados de segurança da URL](https://www.urlvoi.com/pscan/memoriadatv.com/)
+
+### ▶️ [Megaflix App](http://megaflixapp.top/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/megaflixapp.top/)
 
 ## ▶️ Legendados
 
@@ -91,7 +90,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - KissAsian é um site de streamings de doramas legendados que funciona desde 2015. Recomendamos o bloqueador de anúncios ativado por conta dos anúncios terceiros no player de vídeo. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kissasian.lu/)
-- 
+ 
 ## 📺️ TV
 
 ### 🌟 [Rede Canais TV](https://xn--90afacaz8cml9ac9f.xn--p1ai/)
@@ -138,11 +137,15 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🧲 Torrents
 
-### 🌟 [Comando](https://comandofilmeshd.site/)
+### 🌟 [Rede Torrent](https://redetorrent.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
+
+### 🧲 [Comando](https://comandofilmeshd.site/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.site/)
 
-### 🌟 [BluDV](https://bludv.xyz/)
+### 🧲 [BluDV](https://bludv.xyz/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv.xyz/)
 
@@ -150,9 +153,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes.site/)
 
-### 🧲 [Rede Torrent](https://redetorrent.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
 
 ### 🧲 [Filmes via Torrent.site](https://filmesviatorrents.site/)
 
@@ -219,7 +219,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Um fantástico recurso de legendas com uma grande comunidade de colaboradores dedicados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/podnapisi.net/)
 
-### 🖊️ [SubHD](https://subhd.tv/) • IU chinesa
+### 🖊️ [SubHD](https://subhd.tv/) • UI chinesa
 
 - A maior coleção com foco em legendas em chinês, e às vezes inclui a opção de uma combinação dupla com o inglês.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/subhd.tv/)
