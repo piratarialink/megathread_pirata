@@ -63,19 +63,19 @@ Primeiramente, crie três pastas em seu computador
 
 3. Séries - para onde o Sonarr moverá os arquivos de séries após a conclusão do download
 
-![Pastas](https://telegra.ph/file/fa6f193bf2a0ce30a71b8.png)
+![Pastas](/images/sonarr-radarr-plex-1.png)
 
 > Agora, no programa qbittorrentt, copie as seguintes configurações:
 
 ### Preferências -> Download
 
-![Preferencias de download](https://telegra.ph/file/da864f1571e7b3e9ef65a.png)
+![Preferencias de download](/images/sonarr-radarr-plex-2.png)
 
 Pré-aloque o espaço em disco para evitar que seja baixado um filme sem que haja espaço no armazenamento. Lembre-se que tudo isso será automático e que a ideia é que você não fique monitorando.
 
 É **MUITO** importante que o modo de gerenciamento padrão dos torrents esteja em automático. Nada vai funcionar se não estiver.
 
-![](https://telegra.ph/file/b439955f3559c54557161.png)
+![](/images/sonarr-radarr-plex-3.png)
 
 Agora, no camino padrão do salvamento, seleciona a pasta **qbittorrent**, que você criou agora há pouco.
 
@@ -89,7 +89,7 @@ Habilite a interface de usuário web e coloque um usuário e senha de sua prefer
 
 Após instalar o radarr, acesse-o através de http://localhost:7878 ou http://(seu_ip):7878
 
-![Interface do radarr](https://telegra.ph/file/ec36ca31723fd193414ef.png)
+![Interface do radarr](/images/sonarr-radarr-plex-4.png)
 
 Clique no **Settings -> IU** e desça toda a página para trocá-la para Portuguese (Brazil). Salve e recarregue a página
 
@@ -97,7 +97,7 @@ Clique em **Configurações -> Gerenciamento de Mídia**
 
 ### **NOMENCLATURA DE FILME**
 
-![Nomeclatura do filme](https://telegra.ph/file/ddc5ceaf5ab3dbc1d20d8.png)
+![Nomeclatura do filme](/images/sonarr-radarr-plex-5.png)
 
 **Marque** renomear filmes e substituir caracteres ilegais
 
@@ -119,7 +119,7 @@ Assim, o Radarr renomeará o arquivo do filme para um no qual o Plex saberá tod
 
 **Pastas**
 
-![pastas](https://telegra.ph/file/29e3152cea792513c4306.png)
+![pastas](/images/sonarr-radarr-plex-6.png)
 
 > **Importando**
 
@@ -129,7 +129,7 @@ Isso permitirá que o Radarr importe (processo de mover o arquivo da pasta qBitT
 
 **Marque** Usar links rigidos ao invés de copiar
 
-![](https://telegra.ph/file/be2ae7caff1c214715f57.png)
+![](/images/sonarr-radarr-plex-7.png)
 
 ### **Gerenciamento de Arquivo**
 
@@ -149,7 +149,7 @@ Agora, adicione a pasta Filmes que você criou anteriormente.
 
 ### **CONFIGURAÇÕES -> QUALIDADE**
 
-![](https://telegra.ph/file/5e5191a08993c0694ba6f.png)
+![](/images/sonarr-radarr-plex-8.png)
 
 Basicamente, aqui você vai definir o tamanho mínimo e máximo de arquivo que você deseja que seja baixado, de acordo com o perfil de qualidade. O Radarr não baixará os tamanhos que não se enquadrarem na sua escolha. Vai de preferência pessoal.
 
@@ -317,7 +317,7 @@ Aqui, **caso queira**, é onde vai acontecer a adição e remoção de filmes. T
 
 Após criar a conta no Letterboxd, você vai procurar uma lista qualquer ou criar a sua própria. Como exemplo, vou utilizar a lista abaixo:
 
-![](https://telegra.ph/file/43f6a86795236a10efd35.png)
+![](/images/sonarr-radarr-plex-9.png)
 
 Você vai copiar o url da lista e substituir o **letterboxd.com** por
 
@@ -327,7 +327,7 @@ letterboxd-list-radarr.onrender.com
 
 Isso irá gerar uma lista RSS que será lida pelo Radarr. Resultado:
 
-![](https://telegra.ph/file/6ebfc7e736c02f83506a5.png)
+![](/images/sonarr-radarr-plex-10.png)
 
 Funciona com filmografias, listas, watchlists etc.
 
@@ -335,7 +335,7 @@ Funciona com filmografias, listas, watchlists etc.
 
 Clique em +, desça tudo até Advanced Lists e clique em Custom Lists
 
-![](https://telegra.ph/file/aa60938827a9f8d127682.png)
+![](/images/sonarr-radarr-plex-11.png)
 
 - Marque Habilitar, Habilitar adição automática, Monitorar - Somente Filme, Pesquisar ao Adicionar, Disponibilidado Mínima - Anunciado
 
@@ -369,7 +369,7 @@ Deixe tudo como está e desça até atualizações se desejar atualizações aut
 
 > **QUERO ADICIONAR UM FILME**
 
-![](https://telegra.ph/file/ea74e1f30a17074c11620.png)
+![](/images/sonarr-radarr-plex-12.png)
 
 Clique em **Filmes -> Adicionar Novo** e digite o nome do filme. Selecione Monitorar - **Somente Filme**, Disponibilidade Mínima **Anunciado**, o Perfil de Qualidade da sua preferência e marque **Iniciar a pesquisa pelo filme ausente.**
 
@@ -383,13 +383,13 @@ Após instalar o Sonarr, acesse-o via http://localhost:8989 ou http:/(seu_ip):89
 
 Você se deparará com a seguinte tela:
 
-![](https://telegra.ph/file/16d9f21d1b2b05b90ad30.png)
+![](/images/sonarr-radarr-plex-13.png)
 
 O Sonarr tem configurações mais simples que o Radarr, então vamos lá.
 
 > **SETTINGS -> MEDIA MANAGEMENT**
 
-![](https://telegra.ph/file/137e0cd1976153ed4a87b.png)
+![](/images/sonarr-radarr-plex-14.png)
 
 - **EPISODE NAMING**
 
@@ -461,7 +461,7 @@ Faça literalmente a mesma coisa que fez no Radarr
 
 ### QUERO ADICIONAR UMA SÉRIE
 
-![](https://telegra.ph/file/2aa296c83a11423f92116.png)
+![](/images/sonarr-radarr-plex-15.png)
 
 Para adicionar uma série, clique em **Series -> Add New** e digite a serie. Selecione os episódios que deseja baixar, o perfil de qualidade, o tipo da série e marque embaixo **Start sarching for missing episodes**
 
@@ -479,7 +479,7 @@ Vá para **Settings -> IU** e desça tudo para trocar o idioma para **Portuguese
 
 ### CONFIGURAÇÕES -> APLICATIVOS
 
-![](https://telegra.ph/file/62ebefb962753bd53e1d3.png)
+![](/images/sonarr-radarr-plex-16.png)
 
 Clique no +, selecione Radarr, deixe tudo como está e, na caixa **API Key**, você deverá retornar ao [Radarr](http://localhost:7878/settings/general), ir para **Configurações -> Geral**, descer um pouco até **Chave da API**, copiar a chave, retornar ao **Prowlarr** e colá-la na caixa **API Key**. Teste e Salve.
 
@@ -487,7 +487,7 @@ Clique no + novamente, selecione Sonarr, deixe tudo como está e, na caixa **API
 
 ### INDEXADORES
 
-![](https://telegra.ph/file/da0c18b9b170bd7daaa8e.png)
+![](/images/sonarr-radarr-plex-17.png)
 
 Clique em **Adicionar Indexador**, filtre por idioma, categoria e privacidade e vá adicionando tudo que for do seu interesse. Observe que esses indexadores serão as **fontes** de tudo que será baixado no Radarr e Sonarr. O que EU fiz foi filtrar por Privacidade **Público** e Categorias **Movies** e **TV** e adicionei literalmente todos os indexadores da lista, mas vocês fazem o que for da preferêcia de vocês.
 
@@ -515,7 +515,7 @@ Deixe tudo como está, cole a **API Key** do **Radarr** que você copiou antes (
 
 ### SETTINGS -> LANGUAGE
 
-![](https://telegra.ph/file/b557d234186f8bcbbf692.png)
+![](/images/sonarr-radarr-plex-18.png)
 
 qui, você vai adicionar o idioma que vocẽ deseja que sejam baixadas as legendas. Vou dar exemplo pra PT-BR mas vocês podem fazer em qualquer idioma.
 
@@ -543,7 +543,7 @@ Aqui, você vai selecionar as configurações da legenda.
 
 **Upgrade Previously Downloaded Subtitles** - O Bazarr vai fazer upgrade da legenda se surgir outra melhor.
 
-Deixe o restante como estáou altere de acordo com sua preferência e desça tudo para marcar **Automatic Subtitle Synchronization**. Isso irá sincronizar a legenda automaticamente com o filme. E funciona em 99% das legendas. Isso é mágica.
+Deixe o restante como está ou altere de acordo com sua preferência e desça tudo para marcar **Automatic Subtitle Synchronization**. Isso irá sincronizar a legenda automaticamente com o filme. E funciona em 99% das legendas. Isso é mágica.
 
 **Salve.**
 
@@ -559,7 +559,7 @@ Após instalar o Plex, acesse-o através de http://localhost:32400 ou http://(se
 
 **Adicione o Server**
 
-![](https://telegra.ph/file/a96d91d4442aba216eeb0.png)
+![](/images/sonarr-radarr-plex-19.png)
 
 **Marque** permita-me acessar minha mídia remotamente
 
@@ -571,7 +571,7 @@ Depois, você vai abrir outra biblioteca para Séries, adicionando a pasta **Sé
 
 **Pronto.**
 
-![](https://telegra.ph/file/1a19ead3f9a859b1bcfaa.png)
+![](/images/sonarr-radarr-plex-20.png)
 
 Agora, algumas configurações adicionais ao Plex. Clique na **Chave de Fenda** no canto superior direito.
 
@@ -623,13 +623,13 @@ Agora, algumas configurações adicionais ao Plex. Clique na **Chave de Fenda** 
 
 ## Adição (forçar português) @jaum20
 
-![](https://telegra.ph/file/592bf9a13b02620429788.png)
+![](/images/sonarr-radarr-plex-21.png)
 
-![](https://telegra.ph/file/aaa36e4b9da936f9fe9a2.png)
+![](/images/sonarr-radarr-plex-22.png)
 
-![](https://telegra.ph/file/584e714c9ff5b7590e459.png)
+![](/images/sonarr-radarr-plex-23.png)
 
-![](https://telegra.ph/file/28e6a6e128a2ef31745a6.png)
+![](/images/sonarr-radarr-plex-24.png)
 
 ```
 {

@@ -47,7 +47,7 @@ Para evitar o limite de cota de download no Mega, siga estas etapas deste guia s
 
 Se você é um entusiasta dos jogos de PC, provavelmente já ouviu falar da FitGirl. Conhecida por suas compactações inteligentes e instalações simplificadas, a FitGirl é uma referência quando se trata de baixar e instalar jogos. Neste guia abrangente, mergulharemos no mundo da FitGirl, revelando os passos essenciais para baixar e instalar seus jogos favoritos de forma rápida, eficiente e sem complicações.
 
-## 📑 ➜ [Guia de como burlar restrição de download Archive.org](guias/como-burlar-restrição-de-download-archive.org.md)
+## 📑 ➜ [Guia de como burlar restrição de download Archive.org](guias/como-burlar-restrição-de-download-archive-org.md)
 
 Guia completa sobre como burlar restrição de download Archive.org, alguns livros do Archive.org não podem ser baixados diretamente no site, fica disponivel apenas para ler (por 1h ou 14 dias a depender do livro). esse guia mostra como burlar e conseguir baixar esse livro em formato PDF ou EPUB.
 

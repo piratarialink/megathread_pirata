@@ -9,12 +9,12 @@
 
 3. Usando o qBitTorrent.  
      Usando a janela principal, clique em `View` -> `Search Engine` para mostrar a guia de pesquisa. 
-     ![screenshot](https://user-images.githubusercontent.com/14078661/51446055-a4431080-1cf3-11e9-8180-1994bdcbb672.png)
+     ![screenshot](/images/guia-plugins-qbittorrrent-1.png)
      1. Vá para a guia `Search`. 
      2. Clique no botão `Search plugins`. Que está localizado no canto inferior direito.
      3. A janela `Search Plugins` será aberta.  Ele mostra uma lista de plug-ins de mecanismos de pesquisa instalados.
           1. Clique no botão  `Install a new one`. <br>
-             ![screenshot](https://user-images.githubusercontent.com/14078661/51446120-bf625000-1cf4-11e9-98e1-b7e8b771c457.png)
+             ![screenshot](/images/guia-plugins-qbittorrrent-2.png)
           2. A janela `Plugin source` irá abrir. 
                1. Clique no botão `Local file`. 
                2. Navegue até o arquivo `.py` que você baixou na etapa anterior.  Selecione o arquivo `.py`.

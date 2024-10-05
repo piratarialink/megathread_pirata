@@ -6,7 +6,7 @@ Vá para [Massgravel](https://massgrave.dev/genuine-installation-media.html) e v
 
 Para o Office escolha a opção de download "Office C2R Installers (Retail)", e opção PT-BR de preferência. A opção com um coração é a recomendada. 
 
-![](https://i.ibb.co/Ydsb956/image.png)
+![](/images/ativacao-office-win-1.png)
 
 ## Ativação do Windows e Office
 
@@ -15,9 +15,9 @@ Para o Office escolha a opção de download "Office C2R Installers (Retail)", e 
 > irm [https://massgrave.dev/get](https://massgrave.dev/get) | iex
 3. Você irá ver as opções HWID para ativar o Windows 10-11 e Ohook para Office. Selecione com a tecla numérica correspondente.
 
-![](https://massgrave.dev/assets/images/MAS_AIO-45ebdebc8c72356fe5e4902e8b893dbb.png)
+![](/images/ativacao-office-win-2.png)
 
-![Por exemplo](https://massgrave.dev/assets/images/MAS_HWID-35c26abb0823a33380a7711de40b3d77.png)
+![Por exemplo](/images/ativacao-office-win-3.png)
 
 Ao aparecer "... Is permanently activated...", é que foi concluído.
 

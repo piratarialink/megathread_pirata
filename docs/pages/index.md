@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: Explorar
-      link: /inicio
+      link: /main-page
     - theme: alt
-      text: Contribuir
-      link: https://codeberg.org/pirataria/megathread
+      text: Ver no Github
+      link: https://github.com/piratarialink/megathread_pirata
 
 # Features section
 features:

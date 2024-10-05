@@ -10,7 +10,7 @@ Guia quase completo do servidor caseiro para assistir filmes e séries com o Doc
 -   QBitTorrent: Aplicativo que irá ser usado para baixar os torrents que o Radarr e Sonarr mandar o Prowlarr buscar.
 -   Jellyfin: Onde nós iremos streamar todos os filmes e séries baixados, exemplo de como ficará o seu abaixo:
 
-![](https://i.imgur.com/cgxVeVz.png)
+![](/images/jellyfin-arr.png)
 
 Primeiramente estaremos criando a estrutura de pastas do nosso servidor, estarei criando ela na pasta home, então utilizarei esses comandos (remova o "#" e o que vem depois, estarei utilizando eles para dizer o que cada comando faz):
 

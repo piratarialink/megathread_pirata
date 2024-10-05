@@ -82,23 +82,23 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - Transmissões ao vivo. Futebol, futebol, basquete, hóquei, beisebol, NCAA, tênis, críquete, esportes motorizados
 
-### 📺️ [worldcupfootball.me](http://www.worldcupfootball.me/)
+### 📺️ [worldcupfootball.me](https://www.worldcupfootball.me/)
 
 - Transmissões ao vivo. MMA, beisebol, basquete, futebol americano, hóquei, NCAAF, NCAAM
 
-### 📺️ [6stream.xyz](http://6stream.xyz/)
+### 📺️ [6stream.xyz](https://6stream.xyz/)
 
 - Transmissões ao vivo. MMA, beisebol, basquete, futebol americano, hóquei, NCAAF
 
-### 📺️ [bilasport.net](http://bilasport.net/index.html)
+### 📺️ [bilasport.net](https://bilasport.net/index.html)
 
 - Transmissões ao vivo. MMA, beisebol, basquete, futebol americano, hóquei
 
-### 📺️ [720pstream.me](http://www.720pstream.me/)
+### 📺️ [720pstream.me](https://www.720pstream.me/)
 
 - Transmissões ao vivo. MMA, beisebol, basquete, futebol americano, hóquei, NCAAF, NCAAM
 
-### 📺️ [ripple.is](http://ripple.is/)
+### 📺️ [ripple.is](https://ripple.is/)
 
 - Transmissões ao vivo. Futebol, MMA, boxe, automobilismo, basquete, futebol
 

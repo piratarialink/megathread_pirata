@@ -73,7 +73,7 @@ Para obter uma lista de uploaders dos quais você deve ficar longe, verifique a 
 
 - [1337x](https://1337x.to) - Obtenha os jogos apenas dos seguintes uploaders de jogos: (Qualquer nome de cs.rin.ru, 0xEMPRESS, anadius, DODI, FitGirl, JohnCena141 (Linux), KaOsKrew , s7on3r, TinyRepacks)
 - [Lançamentos EMPRESS](https://telegra.ph/empress-biography-07-15) - Para jogos crackeados por EMPRESS
-- [RuTor](http://www.rutor.info/) - Baixe apenas em Chovka e FitGirl.
+- [RuTor](https://www.rutor.info/) - Baixe apenas em Chovka e FitGirl.
 - [RuTracker](https://rutracker.org/)
 - [MacTorrents](https://www.torrentmac.net/) - macOS
 - [Rustorka](http://rustorka.com/)
@@ -85,7 +85,7 @@ Para obter uma lista de uploaders dos quais você deve ficar longe, verifique a 
 
 - [Transmissão](https://transmissionbt.com/download/)
 
-- [Vuze](http://www.vuze.com/)
+- [Vuze](https://www.vuze.com/)
 
 - [BiglyBT](https://www.biglybt.com/download/)
 
@@ -133,7 +133,7 @@ Embora a maioria das coisas no Archive.org, OldGamesDownload e MyAbandonware sej
 
 - [Online-Fix](https://online-fix.me) - fornece correções/contornos on-line, permitindo que você jogue multijogador com outras pessoas em jogos selecionados.
 
-- [Ovagames](http://www.ovagames.com/)
+- [Ovagames](https://www.ovagames.com/)
 
 - [RLSBB](https://rlsbb.ru)
 
@@ -169,7 +169,7 @@ Embora a maioria das coisas no Archive.org, OldGamesDownload e MyAbandonware sej
 
 **Software de Download Direto**
 
-- [JDownloader2](http://jdownloader.org/jdownloader2)
+- [JDownloader2](https://jdownloader.org/jdownloader2)
 
 - [Internet Download Managert](https://www.internetdownloadmanager.com/download.html).
 
@@ -184,7 +184,7 @@ Pessoas sem links anexados fazem upload em fóruns/sites de torrent.
 
 - [ARMGDDN](https://t.me/ARMGDDNGames) - Grupo Telegram, também possui PCVR Games.
 
-- Chovka - [Perfil RuTor](http://rutor.info/browse/0/0/1642915/0) | [Telegrama](https://repack.info/)
+- Chovka - [Perfil RuTor](https://rutor.info/browse/0/0/1642915/0) | [Telegrama](https://repack.info/)
 
 - [CPG Repacks](https://cpgrepacks.site)
 
@@ -286,7 +286,7 @@ Alguns desses sites podem exigir arquivos de BIOS/chave. Eles estão marcados co
 
 - [DeSmuME](https://desmume.org/) | [melonDS](https://melonds.kuribo64.net/) - para jogos de DS.
 
-- [Cemu](http://cemu.info/) - para jogos Wii U.
+- [Cemu](https://cemu.info/) - para jogos Wii U.
 
 - [Citra](https://citra-emu.org/) - para jogos 3DS.
 

@@ -44,22 +44,22 @@ Para um exemplo prático, faremos o download do 1º episódio do anime *New Game
 
 1. Primeiramente, visitamos a tracklist na internet:
 
-   ![Packlist do Anime no Sekai (ANSK)](https://i.ibb.co/hB9XQRL/ansk-track.png)
+   ![Packlist do Anime no Sekai (ANSK)](/images/guia-xdcc-1.png)
 
    Podemos notar que na tracklist consta o servidor (Rizon - irc.rizon.net) e o canal \#AnimeNSK com o qual devemos nos conectar.
 2. Abrimos então nosso client IRC e nos conectamos a este servidor e canal, como segue:
 
-   ![Lista de redes do HexChat](https://i.ibb.co/jzsgvKY/hexchat-networklist.png)
-   ![Conexão completa no HexChat](https://i.ibb.co/vLGrzcZ/hexchat-connection-finished.png)
+   ![Lista de redes do HexChat](/images/guia-xdcc-2.png)
+   ![Conexão completa no HexChat](/images/guia-xdcc-3.png)
 3. Voltamos à tracklist e procuramos o anime que desejamos, no caso, o episódio 1 de *New Game!*.
 
-   ![Pack do Anime New Game! Selecionado](https://i.ibb.co/2vGN9y1/ansk-new-game.png)
+   ![Pack do Anime New Game! Selecionado](/images/guia-xdcc-4.png)
 4. Copiamos o comando na coluna "comando" da packlist, no caso, `msg ANSK|Sora xdcc send \#1257`.
 
-   ![Enviando um comando para o bot](https://i.ibb.co/KmnzMRr/rizon-command.png)
+   ![Enviando um comando para o bot](/images/guia-xdcc-5.png)
 5. Será aberta esta janela perguntando onde você deseja salvar o arquivo. Basta clicar em aceitar e ele já começará a ser baixado.
 
-   ![HexChat recebendo arquivo](https://i.ibb.co/QprS4fm/hexchat-receiving.png)
+   ![HexChat recebendo arquivo](/images/guia-xdcc-6.png)
 
 ## Notas
 
