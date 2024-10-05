@@ -26,17 +26,19 @@ export default {
       'script',
       {},
       `
-        const e = document.createElement("a");
+        document.addEventListener('DOMContentLoaded', () => {
+          const e = document.createElement("a");
 
-        e.href = "https://www.reddit.com/r/pirataria/comments/1fwtlr6/megathread_e_links_%C3%BAteis_e_o_que_aconteceu/";
-        e.style.marginLeft = "5%";
-        e.style.fontSize = "15px";
-        e.style.color = "red";
-        e.style.fontWeight = "700";
-        e.textContent = "O domínio pirataria (ponto) digital foi descontinuado, saiba mais";
+          e.href = "https://www.reddit.com/r/pirataria/comments/1fwtlr6/megathread_e_links_%C3%BAteis_e_o_que_aconteceu/";
+          e.style.marginLeft = "5%";
+          e.style.fontSize = "15px";
+          e.style.color = "red";
+          e.style.fontWeight = "700";
+          e.textContent = "O domínio pirataria (ponto) digital foi descontinuado, saiba mais";
 
-        document.querySelector('#docsearch').parentNode.insertBefore(e, document.querySelector('#docsearch').nextSibling);
-      `
+          document.querySelector('#docsearch').parentNode.insertBefore(e, document.querySelector('#docsearch').nextSibling);
+        });
+        `
     ]
   ],
   vite: {
