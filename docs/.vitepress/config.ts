@@ -26,7 +26,7 @@ export default {
       'script',
       {},
       `
-        document.addEventListener('DOMContentLoaded', () => {
+        window.onload = () => {
           const e = document.createElement("a");
 
           e.href = "https://www.reddit.com/r/pirataria/comments/1fwtlr6/megathread_e_links_%C3%BAteis_e_o_que_aconteceu/";
@@ -37,7 +37,7 @@ export default {
           e.textContent = "O domínio pirataria (ponto) digital foi descontinuado, saiba mais";
 
           document.querySelector('#docsearch').parentNode.insertBefore(e, document.querySelector('#docsearch').nextSibling);
-        });
+        }
         `
     ]
   ],
