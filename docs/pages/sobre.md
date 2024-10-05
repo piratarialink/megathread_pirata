@@ -2,7 +2,7 @@
 
 A Comunidade Pirataria Digital foi fundada em novembro de 2023 visando atuar como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas, etc.
 
-O projeto é feito por voluntários e temos apenas um custo, o domínio [pirataria.digital](https://pirataria.digital) no valor de € 45 (quarenta e cinco euros) por ano.
+O projeto é feito por voluntários e atualmente está hospedado no domínio [pirataria.link](https://pirataria.link)
 
 Para que o projeto seja mantido totalmente fora do GitHub, com repositório Git open-source, sem risco de DMCA, o custo iria ser por volta de R$ 75,00 mensais.
 
@@ -20,6 +20,6 @@ A forma preferida de relatar conteúdo na Comunidade Pirataria Digital é atrav�
 
 Por favor, tenha em mente que somos responsáveis apenas pelo conteúdo hospedado nos seguintes domínios:
 
-- [pirataria.digital](https://pirataria.digital)
+- [pirataria.link](https://pirataria.link)
 
 Após enviar seu relatório, por favor, não espere uma resposta por escrito. Todos os relatórios serão investigados e tratados de acordo, mas devido a recursos humanos limitados e à possibilidade de relatórios duplicados, normalmente não conseguimos encontrar tempo para mantê-lo atualizado sobre o status dos seus relatórios.
