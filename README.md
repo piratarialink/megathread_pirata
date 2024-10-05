@@ -40,4 +40,4 @@ A Megathread atualmente roda no [Vitepress](https://vitepress.dev/) com o tema [
 
 ## Licença
 
-Este projeto é licenciado sob a WTFPL (Do What The Fuck You Want To Public License). Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é licenciado sob a WTFPL (Do What The Fuck You Want To Public License) ou CC0. Veja o arquivo [LICENSE](LICENSE) e o arquivo [LICENSE_ALT](LICENSE_ALT) para mais detalhes.
