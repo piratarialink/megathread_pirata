@@ -4,14 +4,6 @@ A Comunidade Pirataria Digital foi fundada em novembro de 2023 visando atuar com
 
 O projeto é feito por voluntários e atualmente está hospedado no domínio [pirataria.link](https://pirataria.link)
 
-Lembrando que não estamos pedindo doações ou algo do tipo, estamos apenas disponibilizando nossa carteira de Litecoin (LTC) e Monero (XMR) para caso alguém queira doar para manter o projeto vivo por anos e anos.
-
-LTC: `ltc1q2pf4amctasy2jzw798humn4q6vf23t55f7dtrq`
-
-XMR: `46eKH8jYLrwJLNuceY2FFAZaC9kAAcgt5gtN4ZvreUx7SrbvCcji7W5DTZPoVH8cfk6nJTUoCxWEQNRhjwGBBdRhUdp7LGb`
-
-Qualquer doação é bem-vinda. 💖
-
 :::danger Para remoção de conteúdo
 Contate *dmca@pirataria.link* ou *abuse@pirataria.link*
 :::
