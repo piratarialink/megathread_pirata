@@ -27,16 +27,25 @@ export default {
       {},
       `
         window.onload = () => {
-          const e = document.createElement("a");
+          const d = document.createElement("div");
+          d.classList.add('DocSearch');
+          d.classList.add('DocSearch-Button');
+          d.classList.add('DocSearch-Button-Placeholder');
 
+          const e = document.createElement("a");
           e.href = "https://www.reddit.com/r/pirataria/comments/1fwtlr6/megathread_e_links_%C3%BAteis_e_o_que_aconteceu/";
-          e.style.marginLeft = "5%";
           e.style.fontSize = "15px";
           e.style.color = "red";
           e.style.fontWeight = "700";
+          e.style.background = "none";
           e.textContent = "O domínio pirataria (ponto) digital foi descontinuado, saiba mais";
 
-          document.querySelector('#docsearch').parentNode.insertBefore(e, document.querySelector('#docsearch').nextSibling);
+          // Append the anchor to the div
+          d.appendChild(e);
+
+          // Insert the div into the DOM
+          const docsearchElement = document.querySelector('#docsearch');
+          docsearchElement.parentNode.insertBefore(d, docsearchElement.nextSibling);
         }
         `
     ]
