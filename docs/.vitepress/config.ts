@@ -18,7 +18,7 @@ export default {
   vite: {
     plugins: [OramaPlugin()],
   },
-  base: '/megathread/',
+  base: '/',
   lang: "pt-BR",
   title: "Pirataria",
   description: "Esta megathread tem como objetivo atuar como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas, etc.",
