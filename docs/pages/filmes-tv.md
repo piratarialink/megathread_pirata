@@ -8,7 +8,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 :::
 
 :::danger ⚠️ Aviso
-- ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
+- ✔️ Todos os links foram analisados ​​e aprovados por contribuidores voluntários, prossiga com cautela.
 - 🌟 = Altamente recomendado pela comunidade pirata.
 :::
 

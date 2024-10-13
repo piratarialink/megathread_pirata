@@ -3,7 +3,7 @@
 Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são cópias digitais de videogames extraídas de um cartucho ou disco.
 
 :::danger ⚠️ Lembrete rápido
-- ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
+- ✔️ Todos os links foram analisados ​​e aprovados por contribuidores voluntários, prossiga com cautela.
 - 🌟 = Altamente recomendado pela comunidade pirata.
 :::
 

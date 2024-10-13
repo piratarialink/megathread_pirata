@@ -4,7 +4,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 :::danger ⚠️ Lembrete rápido
 
-- ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
+- ✔️ Todos os links foram analisados ​​e aprovados por contribuidores voluntários, prossiga com cautela.
 - 🌟 = Altamente recomendado pela comunidade pirata.
   :::
 

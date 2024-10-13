@@ -4,7 +4,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 :::danger ⚠️ Lembrete rápido
 
-- ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
+- ✔️ Todos os links foram analisados ​​e aprovados por contribuidores voluntários, prossiga com cautela.
 - 🌟 = Altamente recomendado pela comunidade pirata.
   :::
 

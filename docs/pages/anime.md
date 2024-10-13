@@ -8,7 +8,7 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 :::danger ⚠️ Aviso
 
-- ✔️ Todos os links foram analisados e aprovados pelos moderadores, mas prossiga com cautela.
+- ✔️ Todos os links foram analisados e aprovados por contribuidores voluntários, prossiga com cautela.
 - 🚨 Caso algum site não carregue, mude o seu DNS para uma dessas [ótimas opções](https://www.privacyguides.org/en/dns/).
 - 🌟 = Altamente recomendado pela comunidade pirata.
   :::
