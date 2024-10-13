@@ -18,7 +18,7 @@ Este repositório contém os arquivos [Markdown](https://www.markdownguide.org/)
 
 Nossa comunidade é bem-vinda para contribuir na manutenção e atualização da Megathread. Se você deseja contribuir, siga os seguintes passos:
 
-1. Faça um [fork](https://codeberg.org/piratarialink/megathread/fork) deste repositório para o seu perfil GitHub.
+1. Faça um [fork](https://github.com/piratarialink/megathread_pirata/fork) deste repositório para o seu perfil GitHub.
 2. Crie uma nova branch para suas alterações.
 3. Faça as edições necessárias nos arquivos Markdown, situado na pasta docs/pages.
 4. Envie um pull request para este repositório principal.
