@@ -1,13 +1,5 @@
 import { OramaPlugin } from '@orama/plugin-vitepress';
 
-var options = {
-  previewLength: 62,
-  buttonLabel: "Pesquisar",
-  placeholder: "Pesquisar",
-  allow: [],
-  ignore: [],
-};
-
 export default {
   head: [
     [
@@ -26,6 +18,7 @@ export default {
   vite: {
     plugins: [OramaPlugin()],
   },
+  base: '/megathread/',
   lang: "pt-BR",
   title: "Pirataria",
   description: "Esta megathread tem como objetivo atuar como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas, etc.",
@@ -34,6 +27,7 @@ export default {
   lastUpdated: true,
   externalLinkIcon: true,
   themeConfig: {
+    domain: 'pirataria.link',
     lastUpdatedText: 'Última atualização em',
     logo: "/logo.svg",
     siteTitle: "Pirataria",
