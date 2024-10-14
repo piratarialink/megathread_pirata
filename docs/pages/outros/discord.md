@@ -7,7 +7,7 @@ description: "Motivos do porque não se pode confiar no Discord"
 
 ---
 
-## A minha perspetiva
+## A minha perspectiva
 
 Aqui fica um pequeno resumo do meu ponto de vista. Juntei-me ao Discord em meados de 2016, bem no início da sua vida, e desde então tenho-o usado para fazer muitos amigos e lidar com tempos difíceis. Gostei de usar o Discord e vi-o introduzir muitas funcionalidades ao longo do tempo, como o novo menu de definições do servidor, as categorias de canais, as pastas do servidor, o registo de auditoria e as subscrições pagas, pelas quais paguei. Participei nos chats da API e desenvolvi vários bots, [um dos quais](https://amanda.moe/) tem estado em desenvolvimento ativo há 2 anos, está em 2200 servidores e a contar, e tem 466 horas de código da minha parte desde que comecei a contar em 2019, tudo feito sem qualquer ganho pessoal para mim. Tudo feito porque eu queria que as pessoas fossem felizes no Discord.
 
