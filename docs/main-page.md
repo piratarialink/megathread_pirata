@@ -1,6 +1,7 @@
 # 📜 ➜ Bem-vindo a Megathread do c/Pirataria
 
 ::: info 🤔 Qual o objetivo dessa Megathread?
+- A Comunidade Pirataria Digital foi fundada em novembro de 2023 visando atuar como uma valiosa fonte para explorar um catálogo de recursos excepcionais, como sites, aplicativos, ferramentas, etc.
 - Esta Megathread tem como objetivo capturar a essência da renomada [Megathread](https://rentry.co/megathread) do [c/Piracy](https://lemmy.dbzer0.com/c/piracy) (antigo r/piracy), atuando como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais com uma seleção abrangente de opções nacionais.
 :::
 
@@ -65,7 +66,7 @@
 ### 🧵 [Trackers](pages/trackers.md)
 - Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos.
 
-### 🧵 [Warez](pages/warez.md)
+### 🏴‍☠️ [Warez](pages/warez.md)
 - Warez refere-se à distribuição de software, jogos, filmes, cursos e outros conteúdos digitais pirateados. 
 
 ---
@@ -81,10 +82,11 @@
 
 ### 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
 ### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
-### 📁 [Ducklink](https://ducklink.pages.dev/)
+### 📁 [MediaSavvy](https://mediasavvy.pages.dev/)
+### 📁 [EverythingMoe](https://everythingmoe.com/)
 ### 📁 [FMHY](https://fmhy.pages.dev/)
-### 📁 [Piratezparty](https://github.com/SpamVerse/Piratezparty)
 ### 📁 [Ripped](https://ripped.guide/)
+### 📁 [The Index](https://theindex.moe/)
 ### 📁 [Wotaku](https://wotaku.pages.dev/)
 
 ---
