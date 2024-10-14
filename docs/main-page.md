@@ -86,6 +86,7 @@
 ### 📁 [EverythingMoe](https://everythingmoe.com/)
 ### 📁 [FMHY](https://fmhy.pages.dev/)
 ### 📁 [Ripped](https://ripped.guide/)
+### 📁 [The Index](https://theindex.moe/)
 ### 📁 [Wotaku](https://wotaku.pages.dev/)
 
 ---
