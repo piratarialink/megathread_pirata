@@ -1,8 +1,4 @@
-# 🪶 ➜ Guia do Orchestralblend
-
-:::info 
-Essa página ainda é um esboço.
-:::
+# Guia do Orchestralblend
 
 ## Windows
 
@@ -67,8 +63,3 @@ Essa página ainda é um esboço.
 - Element ou Element X
 - Bitwarden
 - Breeze Weather
-
-
-
-
-
