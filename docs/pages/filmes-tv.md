@@ -22,7 +22,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [CriaFlix](https://criaflix.live/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/criaflix.live/)
 
-### ▶️ [Braflix](https://www.braflix.video)
+### ▶️ [Braflix](https://www.braflix.gd)
 
 - O banco de dados de filmes constantemente atualizado é o refúgio perfeito para todos os cinéfilos apaixonados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/braflix.video/)
