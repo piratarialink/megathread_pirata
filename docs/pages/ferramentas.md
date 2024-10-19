@@ -196,6 +196,20 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 - [tomato.to](https://tomato.to/) - Downloader de fotos. Shutterstock, getty, adobestock, etc.
 - [calameodownload.com](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento Calameo público como imagens ou PDF otimizado
 
+## ► Planos de internet móvel
+
+- Vivo Easy - Internet avulsa que você usa até acabar (não expira).
+- Fluke - Operadora que usa a infraestrutura da Vivo. Você paga uma taxa mínima mensal só pra manter a linha ativa e compra pacotes adicionais conforme a necessidade. Tenha em mente que o fluke não recebe SMS de banco e de outros números.
+- Claro Prezão - 9GB por 24,90 ou 12GB por 30 reais.
+
+## ► SSH grátis
+
+São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de dados ilimitada.
+
+- [SSHconnect](https://sshconect.com.br/) 
+- [Rev Hunter](https://www.revhuntervpn.xyz/)
+- [HTTP Injector](https://httpinjector.com/)
+
 ## ► Compartilhamento de arquivos
 
 - [Pairdrop](https://pairdrop.net/) - PairDrop: Compartilhamento local de arquivos em seu navegador. Inspirado no AirDrop da Apple. Fork do Snapdrop.
