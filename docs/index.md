@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Explorar
-      link: /main-page
+      link: /inicio
     - theme: alt
       text: Contribuir
       link: https://github.com/piratarialink/megathread_pirata
