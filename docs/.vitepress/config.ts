@@ -127,7 +127,7 @@ export default {
     ],
     editLink: {
       pattern:
-        "https://codeberg.org/pirataria/megathread/_edit/main/docs/:path",
+        "https://github.com/AtivismoPirata/Megathread/edit/main/docs/:path",
       text: "Edite essa página",
     },
     docFooter: {
