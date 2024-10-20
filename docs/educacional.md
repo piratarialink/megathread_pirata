@@ -17,8 +17,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[primecursos](https://www.primecursos.com.br/)** - Cursos
 
-### ▶️ **[uniasselvi](https://portal.uniasselvi.com.br/cursolivre)** - Cursos
-
 ### ▶️ **[integra univesp](https://apps.univesp.br/integra/)** - Cursos
 
 ### ▶️ **[canaldoensino](https://canaldoensino.com.br/blog/)** - Cursos
@@ -54,8 +52,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### ▶️ **[portal da matemática](https://portaldaobmep.impa.br/index.php/site/index?a=1)** - Cursos
 
 ### ▶️ **[tecpop minas](https://tecpop.mg.gov.br/)** - Cursos
-
-### ▶️ **[integra univesp](https://apps.univesp.br/integra/)** - Cursos
 
 ### ▶️ **[uniasselvi](https://portal.uniasselvi.com.br/cursolivre)** - Cursos
 
@@ -143,11 +139,11 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Backup do canal do Polemic.
 
-### 🔗 [Hidra 2.0](https://t.me/+U9SpcaDyB0w0YWZk)
+### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 
-- Vários cursos zipados e em streaming para você assistir sem sair do Telegram.
+- Videoaulas zipadas e em streaming para você assistir sem sair do Telegram.
 
-### 🤖 [Search bot](@en_SearchBot)
+### 🤖 [Search bot](https://t.me/en_SearchBot)
 
 ### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 

@@ -35,15 +35,15 @@ export default {
     nav: [
       { 
         text: "Guias", 
-        link: "pages/guias" 
+        link: "guias" 
       },
       {
         text: "Privacidade",
-        link: "pages/privacidade",
+        link: "privacidade",
       },
       {
         text: "Sobre",
-        link: "pages/sobre",
+        link: "sobre",
       },
     ],
     // Social Icons
@@ -70,34 +70,34 @@ export default {
         text: "Tópicos",
         collapsible: true,
         items: [
-          { text: "🧭 Sites de Uso Geral", link: "pages/sites-geral" },
-          { text: "⭐ Anime", link: "pages/anime" },
-          { text: "📚 Livros", link: "pages/livros" },
-          { text: "🤖 Inteligência Artificial", link: "pages/ia" },
-          { text: "🧠 Educacional", link: "pages/educacional" },
-          { text: "🕹️ Emuladores e ROMs", link: "pages/emuladores-roms" },
-          { text: "🎮 Jogos", link: "pages/jogos" },
-          { text: "📱 Mobile", link: "pages/mobile" },
-          { text: "🎦 Filmes e TV", link: "pages/filmes-tv" },
-          { text: "🎹 Música", link: "pages/musica" },
-          { text: "⚙️ Softwares", link: "pages/softwares" },
-          { text: "👟 Esportes", link: "pages/esportes" },
-          { text: "🧰 Ferramentas", link: "pages/ferramentas" },
-          { text: "🧵 Trackers", link: "pages/trackers" },
-          { text: "🏴‍☠️ Warez", link: "pages/warez" },
-          { text: "☣️ Sites Inseguros", link: "pages/sites-inseguros" },
+          { text: "🧭 Sites de Uso Geral", link: "sites-geral" },
+          { text: "⭐ Anime", link: "anime" },
+          { text: "📚 Livros", link: "livros" },
+          { text: "🤖 Inteligência Artificial", link: "ia" },
+          { text: "🧠 Educacional", link: "educacional" },
+          { text: "🕹️ Emuladores e ROMs", link: "emuladores-roms" },
+          { text: "🎮 Jogos", link: "jogos" },
+          { text: "📱 Mobile", link: "mobile" },
+          { text: "🎦 Filmes e TV", link: "filmes-tv" },
+          { text: "🎹 Música", link: "musica" },
+          { text: "⚙️ Softwares", link: "softwares" },
+          { text: "👟 Esportes", link: "esportes" },
+          { text: "🧰 Ferramentas", link: "ferramentas" },
+          { text: "🧵 Trackers", link: "trackers" },
+          { text: "🏴‍☠️ Warez", link: "warez" },
+          { text: "☣️ Sites Inseguros", link: "sites-inseguros" },
         ],
       },
       {
         text: "📑 Recomendado",
         collapsible: true,
         items: [
-          { text: "🪶 Sobre", link: "pages/sobre" },
-          { text: "🪶 Dicionário", link: "pages/util/dicionario" },
-          { text: "🪶 Glossário", link: "pages/util/glossario" },
-          { text: "🪶 Publicações úteis", link: "pages/publicacoes" },
-          { text: "🪶 Guias", link: "pages/guias" },
-          { text: "🪶 Privacidade", link: "pages/privacidade" }
+          { text: "🪶 Sobre", link: "sobre" },
+          { text: "🪶 Dicionário", link: "util/dicionario" },
+          { text: "🪶 Glossário", link: "util/glossario" },
+          { text: "🪶 Publicações úteis", link: "publicacoes" },
+          { text: "🪶 Guias", link: "guias" },
+          { text: "🪶 Privacidade", link: "privacidade" }
         ],
       },
       {

@@ -13,7 +13,7 @@ Essa página ainda é um esboço. Feito com base nas recomendações do [orchest
 - Criptografia: Cryptomator e Veracrypt
 - Navegador: Firefox + uBlock Origin + oisd.nl + Containers
 - Navegador baseado em Chromium: Cromite
-- Rede social: Lemmy, Mastodon e Matrix
+- Rede social: Lemmy, Mastodon, XMPP e Matrix
 - Android: GrapheneOS ou LineageOS sem Google
 - Desktop: Windows com Veracrypt + SophiApp ou Linux com LUKS
 - Provedor dominio: Njalla, Sarek Oy, Porkbun ou Cloudflare

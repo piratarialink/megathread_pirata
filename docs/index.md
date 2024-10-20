@@ -13,7 +13,7 @@ hero:
       text: Explorar
       link: /main-page
     - theme: alt
-      text: Ver no Github
+      text: Contribuir
       link: https://github.com/piratarialink/megathread_pirata
 
 # Features section

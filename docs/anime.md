@@ -20,11 +20,6 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/betteranime.net/)
 
-### 🌟 [Tomato](https://tomatoanimes.com/watch)
-
-- Excelente aplicativo para streaming e leitura de mangás. Amplamente recomendado pela comunidade, oferece um App com ótimo layout e organização.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/tomatoanimes.com/)
-
 ### ▶️ [otakuanimes](https://otakuanimesscc.com/)
 
 - Site sem anúncios abusivos e bem completo.
@@ -146,8 +141,8 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 
 ## 📑 4 ➜ Canais/Grupos no Telegram
 
-### 🐐 [Algo Animes](https://t.me/algoanimes)
-- Mesmo criador do Algo Books!
+### 🌟 [Algo Animes](https://t.me/algoanimes)
+- Mesmo criador do Algo Books!!
 
 ### 🔗 [Toonami](https://t.me/toonamibr)
 

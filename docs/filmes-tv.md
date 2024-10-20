@@ -59,7 +59,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [MemoriadaTV](https://www.memoriadatv.com/)
 
 - Contém um acervo incrível de obras antigas, principalmente se tratando de conteúdo nacional. Além disso, o site disponibiliza diversos servidores para download, contendo também vários formatos e dublagens incluso.
-- [Resultados de segurança da URL](https://www.urlvoi.com/pscan/memoriadatv.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/pscan/memoriadatv.com/)
 
 ### ▶️ [Megaflix App](https://megaflixapp.top/)
 
@@ -142,7 +142,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🧲 Torrents
 
-### 🌟 [Comando](https://comandofilmeshd.site/)
+### 🌟 [Rede Torrent](https://redetorrent.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
+
+### 🧲 [Comando](https://comandofilmeshd.site/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.site/)
 
@@ -163,9 +167,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes.site/)
 
-### 🧲 [Rede Torrent](https://redetorrent.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
 
 ### 🧲 [Filmes via Torrent.site](https://filmesviatorrents.site/)
 
