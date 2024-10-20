@@ -14,7 +14,7 @@ hero:
       link: /inicio
     - theme: alt
       text: Contribuir
-      link: https://codeberg.org/pirataria/megathread
+      link: https://github.com/AtivismoPirata/Megathread
 
 # Features section
 features:
