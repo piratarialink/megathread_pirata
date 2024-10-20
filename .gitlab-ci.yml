@@ -1,0 +1,10 @@
+stages:
+  - mirror
+
+# Job para rodar o espelhamento
+mirror_codeberg_to_gitlab:
+  stage: mirror
+  script:
+    - .scripts/mirror_codeberg_to_gitlab.sh # Caminho atualizado para o script
+  only:
+    - schedules # Executa apenas em jobs agendados
