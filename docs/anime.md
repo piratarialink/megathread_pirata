@@ -57,11 +57,6 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 - Apesar do site ser gringo geralmente animes populares tem legendas em PT-BR.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/kickassanime.am/)
 
-### 🌟 [YugenAnime](https://yugenanime.tv/)
-
-- Acompanhe, encontre, compartilhe e veja anime de alta qualidade. Se procura um serviço confiável e seguro, já o encontrou.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yugenanime.tv/)
-
 ### 🌟 [Gogotaku](https://gogotaku.info/)
 
 - Acompanhe, encontre, compartilhe e veja anime de alta qualidade. Se procura um serviço confiável e seguro, já o encontrou.
