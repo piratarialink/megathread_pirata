@@ -16,8 +16,6 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 - Se algum site não carregar, **mude o DNS** para uma das [opções recomendadas](https://www.privacyguides.org/en/dns/).
 - 🌟 Sites marcados com este símbolo são altamente recomendados pela comunidade.
 
----
-
 ## 📑 1 ➜ Streaming
 
 ### 🌟 [Better Anime](https://betteranime.net/)
@@ -56,8 +54,6 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 - Anime de alta qualidade e confiável.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/gogotaku.info/)
 
----
-
 ## 📑 2 ➜ Downloads Diretos
 
 ### 🔗 [Anime Tosho](https://animetosho.org/)
@@ -84,8 +80,6 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 
 ### 🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/tokyoinsider.com/)
-
----
 
 ## 📑 3 ➜ Torrents
 
@@ -121,8 +115,6 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
 - Tracker semi-privado.
 
----
-
 ## 📑 4 ➜ Canais/Grupos no Telegram
 
 ### 🌟 [Algo Animes](https://t.me/algoanimes)
@@ -132,8 +124,6 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 
 ### 🔗 [Central dos Animes](https://t.me/Centraldeanimes_Baltigo)
 
----
-
 ## 📰 5 ➜ Legendas
 
 ### 🔗 [AnimeDB](https://anidb.net/)
@@ -141,8 +131,6 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 
 ### 🔗 [InfoAnime](https://www.infoanime.com.br/)
 - Acompanhamento de projetos de fansubers e scanlators brasileiros.
-
----
 
 **Está buscando apps para assistir ou baixar animes no celular?**  
 Confira nosso tópico sobre 📱 [Mobile](mobile#📑-➜-anime-e-manga)
