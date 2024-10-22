@@ -112,6 +112,11 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Fornece emulação precisa e rápida com uma boa seleção de recursos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/melonds.kuribo64.net/)
 
+### 🔗 [Lime3DS](https://lime3ds.github.io/) • 3DS
+
+- Um fork do emulador Citra. Disponivel para Windows, Linux, Mac e Android
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/lime3ds.github.io/)
+
 ### 🔗 [Mesen2](https://github.com/SourMesen/Mesen2) • Game Boy + NES + SNES
 
 - Construído em C++ e C#, este emulador multissistema funciona em Windows e MacOS.
