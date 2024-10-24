@@ -199,7 +199,6 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 ## ► Planos de internet móvel
 
 - Vivo Easy - Internet avulsa que você usa até acabar (não expira).
-- Fluke - Operadora que usa a infraestrutura da Vivo. Você paga uma taxa mínima mensal só pra manter a linha ativa e compra pacotes adicionais conforme a necessidade. Tenha em mente que o fluke não recebe SMS de banco e de outros números.
 - Claro Prezão - 9GB por 24,90 ou 12GB por 30 reais.
 
 ## ► SSH grátis

@@ -113,6 +113,11 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Fornece emulação precisa e rápida com uma boa seleção de recursos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/melonds.kuribo64.net)
 
+### 🔗 [Lime3DS](https://lime3ds.github.io/) • 3DS
+
+- Um fork do emulador Citra. Disponivel para Windows, Linux, Mac e Android
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/lime3ds.github.io/)
+
 ### 🔗 [Mesen2](https://github.com/SourMesen/Mesen2) • Game Boy + NES + SNES
 
 - Construído em C++ e C#, este emulador multissistema funciona em Windows e MacOS.
@@ -138,10 +143,15 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Front-end mupen64plus baseado em C++ com uma interface de usuário simples.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com)
 
-### 🌟 [Ryujinx](https://ryujinx.org) • Switch
+### 🔗 [Ryujinx](https://ryujinx.org) • Switch
 
-- Este emulador se esforça para oferecer precisão e desempenho excelentes, com uma interface de usuário simples.
+- **Não é mais desenvolvido.** Este emulador se esforça para oferecer precisão e desempenho excelentes, com uma interface de usuário simples.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ryujinx.org)
+
+### 🔗 [Suyu](https://suyu.dev) • Switch
+
+-  Suyu é o sucessor do emulador Yuzu. Ele é escrito em C ++ com portabilidade em mente. Disponivel para Windows, Linux e Android.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/suyu.dev)
 
 ### 🔗 [SameBoy](https://sameboy.github.io) • Game Boy + Color + Super
 
