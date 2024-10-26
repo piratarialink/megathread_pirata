@@ -162,6 +162,7 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 * [Gerenciador de downloads XTREME](https://subhra74.github.io/xdm/) - Outro gerenciador de downloads muito bom
 * [pyLoad](https://pyload.net/) - Gerenciador de downloads leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
 * [aria2](https://aria2.github.io/) - Utilitário de download baseado em linha de comando.
+* [AntDM](https://antdownloadmanager.com/) - Software semelhante ao IDM, não suporta seeds e links magnéticos. 
 
 ## ► Outras ferramentas de download
 
