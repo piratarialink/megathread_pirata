@@ -1,12 +1,12 @@
-# ⭐ ➜ Anime
+# ⭐ Anime
 
-Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora também possa ser aplicado a outras animações, como Donghua.
+Anime é um estilo de animação originário do Japão, desenhado à mão ou por computador, e também pode se referir a outras produções, como Donghua.
 
-:::tip ⌛ Não se esqueça marinheiro!
-- Use no celular ou computador o [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) com essas [configurações otimizadas](https://take-me-to.space/UShoGZ7.png) (*Bloqueia anúncios e malware*).
-:::
+---
 
-:::danger ⚠️ Aviso
+> **💡 Dica importante:**
+>
+> Para uma navegação mais segura, use o navegador [Firefox](https://mozilla.org/firefox/new/) com o bloqueador [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/), utilizando [essas configurações otimizadas](https://take-me-to.space/UShoGZ7.png). Isso **bloqueia anúncios e malware** tanto no celular quanto no computador.
 
 - ✔️ Todos os links foram analisados e aprovados por contribuidores voluntários, prossiga com cautela.
 - 🚨 Caso algum site não carregue, mude o seu DNS para uma dessas [ótimas opções](https://www.privacyguides.org/en/dns/).
@@ -16,46 +16,36 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 ## 📑 1 ➜ Streaming
 
 ### 🌟 [Better Anime](https://betteranime.net/)
-
-- O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/betteranime.net/)
+- **Better Anime** está com restrições de DMCA, mas funciona normalmente pelo app ou pelo site após login. Se não logar, ele não funcionará.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/betteranime.net/)
 
 ### ▶️ [otakuanimes](https://otakuanimesscc.com/)
-
-- Site sem anúncios abusivos e bem completo.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/otakuanimesscc.com/)
+- Site completo, **sem anúncios abusivos**.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/otakuanimesscc.com/)
 
 ### ▶️ [4anime](https://4anime.gg/)
-
-- Após o encerramento do 4anime original, esta é uma alternativa incrivelmente rápida onde se pode ver anime e espetáculos.
-- Apesar do site ser gringo geralmente animes populares tem legendas em PT-BR.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4anime.gg/)
+- Alternativa rápida após o encerramento do 4anime original. Os animes populares têm legendas em PT-BR.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/4anime.gg/)
 
 ### ▶️ [Animes House](https://animeshouse.app/)
-
-- Aparentemente ressurgiu das cinzas ou é um clone do antigo Animes House.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animeshouse.app/)
+- Retorno ou clone do antigo Animes House.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animeshouse.app/)
 
 ### ▶️ [Hinata Soul](https://www.hinatasoul.com/)
-
-- Ótimo site que oferece opções HD e Full HD para assistir.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/hinatasoul.com/)
+- Oferece **HD e Full HD** para assistir.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/hinatasoul.com/)
 
 ### ▶️ [Animesonlinevip](https://animesonlinevip.su/)
-
-- Pãgina para assistir animes e desenhos com segurança e sem qualquer tipo de interrupção ou anúncio.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animesonlinevip.su/)
+- Site seguro para assistir animes **sem interrupções ou anúncios**.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesonlinevip.su/)
 
 ### ▶️ [Animesonlinecc](https://animesonlinecc.org/)
-
-- Por mais que não tenha um catálogo extenso, é uma opção caso o site animesonlinevip.su fique fora do ar.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animesonlinecc.org/)
+- Menor catálogo, mas uma boa opção caso o Animesonlinevip esteja fora do ar.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesonlinecc.org/)
 
 ### ▶️ [KickAssAnime](https://kickassanime.am/)
-
-- Fiável para novos lançamentos com excelente qualidade, mas não é a melhor seleção para anime mais antigo.
-- Apesar do site ser gringo geralmente animes populares tem legendas em PT-BR.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/kickassanime.am/)
+- **Ótima qualidade** para lançamentos recentes, com legendas em PT-BR nos animes populares.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/kickassanime.am/)
 
 ### 🌟 [Gogoanime](https://gogotaku.info/)
 
@@ -66,78 +56,68 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 ## 📑 2 ➜ Downloads Diretos
 
 ### 🔗 [Anime Tosho](https://animetosho.org/)
-- Serviço gratuito e totalmente automatizado que espelha a maioria dos torrents do Nyaa e Tokyo Toshokan em vários provedores de hospedagem de arquivos de download direto.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animetosho.org/)
+- Serviço automatizado que espelha torrents de anime para downloads diretos.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animetosho.org/)
 
 ### 🔗 [AnimeOut](https://www.animeout.xyz/)
-- Pesquise em milhares de títulos de anime codificados que são oferecidos em 720p e 1080p.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animeout.xyz/)
+- Oferece animes em **720p e 1080p** para download.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animeout.xyz/)
 
 ### 🔗 [ChauThanh](https://chauthanh.info/)
-- Baixe anime, drama e trilhas sonoras gratuitamente. Obtenha arquivos e links de alta qualidade para mais de 5000 séries.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/chauthanh.info/)
+- Mais de **5000 séries** disponíveis para download gratuito.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/chauthanh.info/)
 
-### 🔗 [Hi10 Anime](https://hi10anime.com/) 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/hi10anime.com/)
+### 🔗 [Hi10 Anime](https://hi10anime.com/)
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/hi10anime.com/)
 
 ### 🔗 [Kayoanime](https://kayoanime.com/)
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/kayoanime.com/)
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/kayoanime.com/)
 
 ### 🔗 [NoobSubs](https://www.noobsubs.com/)
-- Oferecendo anime para download direto com faixas de áudio em inglês duplas. Torrents também disponíveis.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/noobsubs.com/)
+- Animes com faixas de áudio em inglês e torrents disponíveis.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/noobsubs.com/)
 
 ### 🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/tokyoinsider.com/)
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/tokyoinsider.com/)
 
 ## 📑 3 ➜ Torrents
 
 ### 🧲 [AniDex](https://anidex.info/)
-
-- Rastreador e indexador que atende a vários idiomas e mídias, mas é mais usado e conhecido por grupos de fãs de anime ingleses.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/anidex.info/)
+- Rastreador de torrents para anime, disponível em vários idiomas.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/anidex.info/)
 
 ### 🧲 [AniRena](https://www.anirena.com/)
-
-- Tracker de torrent fácil e descomplicado, onde você pode encontrar os mais novos torrents relacionados a animes japoneses, bem como alguns dramas, mangás e músicas.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/anirena.com/)
+- Tracker simples para torrents de animes, dramas e músicas.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/anirena.com/)
 
 ### 🧲 [Anime Tosho](https://animetosho.org/)
+- Serviço automatizado que espelha torrents de anime para download direto.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animetosho.org/)
 
-- Serviço gratuito e totalmente automatizado que espelha a maioria dos torrents
-- Nyaa e Tokyo Toshokan em vários provedores de hospedagem de arquivos de download direto.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animetosho.org/)
-
-### 🧲 [Anime no Sekai](https://www.ansktracker.net/) | ANSK
-
-- Tracker semi-privado
+### 🧲 [Anime no Sekai](https://www.ansktracker.net/)
+- Tracker semi-privado de anime.
 
 ### 🧲 [Dark Mahou](https://darkmahou.org/)
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/darkmahou.org/)
 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/darkmahou.org/)
+### 🌟🧲 [Nyaa.si](https://nyaa.si/) / [Nyaa.land](https://nyaa.land/)
+- Focado em mídias asiáticas (_japonês, chinês, coreano_).
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/nyaa.si/)
 
-### 🌟🧲 [Nyaa.si](https://nyaa.si/) / [2](https://nyaa.land/)
-
-- Site de torrent muito conhecido com foco em anime, dedicado à mídia do Leste Asiático (_japonês, chinês e coreano_).
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nyaa.si/)
-
-### 🧲 [Projeto AcgnX](https://share.acgnx.se/) • Interface em chinês
-
-- Existem mais de 590.000 materiais, incluindo muitos recursos de nomes como Anime Garden, Jiying BT e Youxia BT.
-- [Resultados de Segurança URL](https://www.urlvoid.com/scan/share.acgnx.se/)
+### 🧲 [Projeto AcgnX](https://share.acgnx.se/) 
+- Tracker com mais de 590.000 materiais, interface em chinês.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/share.acgnx.se/)
 
 ### 🧲 [Shakaw](https://tracker.shakaw.com.br/)
-
-- Tracker privado, entre no [Discord para atualização](https://discord.gg/dZVbVChdun)
+- Tracker privado. Participe do [Discord para mais informações](https://discord.gg/dZVbVChdun).
 
 ### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
-
-- Tracker semi-privado
+- Tracker semi-privado.
 
 ## 📑 4 ➜ Canais/Grupos no Telegram
 
 ### 🌟 [Algo Animes](https://t.me/algoanimes)
-- Mesmo criador do Algo Books!!
+- Mesmo criador do Algo Books.
 
 ### 🔗 [Toonami](https://t.me/toonamibr)
 
@@ -146,13 +126,12 @@ Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora 
 ## 📰 5 ➜ Legendas
 
 ### 🔗 [AnimeDB](https://anidb.net/)
-
-- Versão internacional do InfoAnime
+- Base de dados internacional sobre animes e legendas.
 
 ### 🔗 [InfoAnime](https://www.infoanime.com.br/)
+- Acompanhamento de projetos de fansubers e scanlators brasileiros.
 
-- Levantamento dos Fansubers e Scanlators brasileiros para registrar e acompanhar os projetos que estão sendo legendados.
+**Está buscando apps para assistir ou baixar animes no celular?**  
+Confira nosso tópico sobre 📱 [Mobile](mobile#📑-➜-anime-e-manga)
 
-## Está buscando apps para assistir/baixar **Anime** no celular?
-
-➜ Confira nosso tópico sobre 📱 [Mobile](mobile#📑-➜-anime-e-manga)
+---

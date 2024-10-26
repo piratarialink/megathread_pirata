@@ -301,29 +301,15 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ### 🔗 [Audiolivros](https://t.me/audiolivros)
 
-### 🔗 [BIBLIOTECA VIRTUAL BR](https://t.me/BIBLIOTECAVIRTUALBR)
-
 ### 🔗 [BIBLIOTECA VIRTUALBR 2](https://t.me/BIBLIOTECAVIRTUALBR2)
-
-### 🔗 [Hzd books](https://t.me/HzdBooks)
-
-### 🔗 [Hqs e Mangás](https://t.me/hqsemangas)
 
 ### 🔗 [Leitura de Cordel](https://t.me/+sOmQRO0n7lMwYzhh)
 
 ### 🔗 [LIVROS DE PSICOLOGIA, PSICANÁLISE, PEDAGOGIA E FILOSOFIA!](https://t.me/livrosdapsicologia)
 
-### 🔗 [LivroManíacos](https://t.me/livromaniacos)
-
-### 🔗 [Livros - Kindle MOBI/EPUB](https://t.me/pedelivroskindle)
-
 ### 🔗 [Livros de Matemática](https://t.me/LivrosLMat)
 
 ### 🔗 [Livros de TI](https://t.me/booksti)
-
-### 🔗 [Livros Digitais](https://t.me/LivrosEmPdf)
-
-### 🔗 [Livros Backup](https://t.me/livros_backup)
 
 ### 🔗 [Mangás da Depressão](https://t.me/mangasdepressao)
 
@@ -334,8 +320,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🔗 [REVISTA VIRTUAL BR](https://t.me/REVISTAVIRTUALBR)
 
 ### 🔗 [📚BIBLIOTECA INTERNACIONAL📚](https://t.me/InternationaLibrary)
-
-### 🔗 [Livros Arte](https://t.me/LivrosArte)
 
 ### 🔗 [Z-Library Official](https://t.me/zlibrary_official)
 - Canal sobre notícias e anúncios, eles não fornecem Downloads.
