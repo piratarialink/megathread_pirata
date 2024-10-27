@@ -20,10 +20,10 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Uma coleção impressionante e confiável de temas de OPs e EDs de anime com links diretos para conteúdo para download de alta qualidade.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animethemes.moe/)
 
-### 🌟 [DoubleDouble](https://doubledouble.top/)
+### 🌟 [Lucida](https://lucida.su/)
 
 - Um contêiner para downloads gratuitos de música através do YouTube Music, Soundcloud, Qobuz, Spotify, Deezer e outros serviços.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doubledouble.top/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lucida.su/)
 
 ### 🔗 [Folksoundomy: trilhas sonoras de jogos](https://archive.org/details/folksoundomy_gamesoundtracks)
 
