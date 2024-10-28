@@ -134,5 +134,5 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 ### 🧲 [Academic Torrents](https://academictorrents.com/) | ACA
 
 
-➜ [Veja a lista completa de tracker gringos aqui](https://www.invitehawk.com/trackerlist)
+➜ [Veja a lista completa de trackers gringos aqui](https://www.invitehawk.com/trackerlist)
 
