@@ -1,4 +1,4 @@
-# ☣️ ➜ Sites Inseguros
+# ☣️ ➜ Sites e Programas Inseguros
 
 :::warning ⚠️ AVISO ➜ Preste atenção
 
