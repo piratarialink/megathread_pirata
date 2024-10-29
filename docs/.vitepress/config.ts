@@ -117,6 +117,7 @@ export default {
             text: "📁 Champagne Piracy Wiki",
             link: "https://champagne.pages.dev/",
           },
+          { text: "📁 MediaSavvy", link: "https://mediasavvy.pages.dev/" },
           { text: "📁 EverythingMoe", link: "https://everythingmoe.com/" },
           { text: "📁 FMHY", link: "https://fmhy.net/" },
           { text: "📁 Ripped", link: "https://ripped.guide/" },
