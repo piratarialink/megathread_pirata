@@ -4,7 +4,7 @@ Guias úteis para ajudá-lo em suas viagens marítimas.
 
 ## 📑 ➜ [Guia de Privacidade para Paranoicos](guias/quero-privacidade.md)
 
-O próprio título já diz a sua utilidade.
+Título autoexplicativo.
 
 ## 📑 ➜ [As diferentes maneiras de consumir filmes piratas e por que nenhuma delas presta](guias/guia-murilouco)
 
