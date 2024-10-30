@@ -36,9 +36,13 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - Oferece Canais de Esportes também
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
 
-### 📺️ [Futebol Play HD](https://futebolplayhd.com/futebolplay/)
+### 📺️ [Multicanais](https://multicanais.nexus/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futebolplayhd.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.nexus/)
+
+### 📺️ [Fútbol Libre TV](https://librefutbol.su/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/librefutbol.su/)
 
 ### 📺️ [TV0800](https://tv0800.com/)
 
