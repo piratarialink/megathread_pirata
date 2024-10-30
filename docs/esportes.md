@@ -44,10 +44,6 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - Oferece Canais de Esportes também
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
 
-### 📺️ [Futebol Play HD](https://futebolplayhd.com/futebolplay/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futebolplayhd.com/)
-
 ### 📺️ [TV0800](https://tv0800.com/)
 
 - Oferece Canais ao vivo
