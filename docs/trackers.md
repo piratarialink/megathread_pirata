@@ -16,7 +16,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ### 🧲 [Amigos Share Club](https://cliente.amigos-share.club/) | ASC
 - Conteúdo geral/UNIT3D.
 - Ativo desde 2019, um dos trackers de conteúdo geral BR mais antigos, atrás apenas do BJ.
-- Sistema de doações oficiais em troca de convites.
+- Sistema de doações oficiais em troca de convites (atualmente desabilitado).
 
 ### 🧲 [Brasil Tracker](https://brasiltracker.org/index.php) | BT
 - Conteúdo geral/Gazelle.
@@ -51,6 +51,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Conteúdo geral/UNIT3D, criado por dissidentes do TcS.
 - Menor dos trackers brasileiros até o momento.
 - H&R de 5 dias.
+- Fora do ar no momento e com retorno incerto
 
 ### 🧲 [ShaKaw](https://tracker.shakaw.com.br/entrar.php)
 - Animes legendados por fansubs, mangás, doramas, live actions, tokusatsus e mais.
@@ -64,7 +65,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - H&R de 5 dias.
 
 ### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
-- Tracker semi-privado de animes legendados por fansubs, ativo desde 2014.
+- Tracker semi-privado (necessita cadastro, mas qualquer um pode fazer a qualquer momento) de animes legendados por fansubs, ativo desde 2014.
 - Sem H&R, exige apenas ratio global > 0.3.
 
 ## 📑 ➜ Trackers Gringo
@@ -74,18 +75,22 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 :::
 
 ### 🧲 [AlphaRatio](https://alpharatio.cc/) | AR
+- Tracker generalista
+- Abrem para novos cadastros anualmente
 
-### 🧲 Animebytes | AB
+### 🧲 [Animebytes](https://animebytes.tv) | AB
 - Enorme arquivo de anime com grande retenção, mas a organização não é tão boa quanto a de muitos outros rastreadores principais.
 - Pode ser acessado por meio do GGn ou RED.
 
 ### 🧲 [AudioNews](https://audionews.org/) | AN
 
-### 🧲 BakaBT | BBT
+### 🧲 [BakaBT](https://bakabt.me) | BBT
 - Tracker de anime muito antigo, conhecido por sua incrível retenção, mas não tem tanto conteúdo quanto o AB ou o Nyaa. Tem entrevistas para participar.
 
 ### 🧲 BroadcastTheNet | BTN 
-- Não há recrutamento no momento.
+- Focado em séries
+- Um dos mais desejados e difíceis de se juntar
+- Pode ser acessado por meio do RED
 
 ### 🧲 [CGpeers](https://www.cgpeers.to/login.php) | CGP
 - Tracker privado do blog CGPersia.com.
@@ -93,42 +98,76 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 ### 🧲 Cinematik | TIK 
 - Não há recrutamento no momento.
 
-### 🧲 GazelleGames | GGn 
+### 🧲 GazelleGames(https://gazellegames.net) | GGn 
+- Focado em games
 - Pode ser acessado por meio do OPS ou RED. Ambos exigem PU e conta com 3 meses. 
 
-### 🧲 [HD-Torrents](https://hd-torrents.org/unregistred.php) | HDT | €40
-- Necessário pagar.
+### 🧲 [HD-Torrents](https://hd-torrents.org/register.php)) | HDT | €35
+- Focado em filmes e séries
+- Há opção de pagar para obter convite
 
 ### 🧲 HDBits | HDB 
-- Não há recrutamento no momento.
+- Focado em filmes
+- Um dos mais desejados e difíceis de se juntar
+- Pode ser acessado por meio do RED
 
 ### 🧲 [IPTorrents](https://iptorrents.com/signup.php) | IPT | $20
-- Necessário pagar.
-
+- Tracker generalista
+- Há opção de pagar para obter convite
+  
 ### 🧲 [JPopsuki ](https://jpopsuki.eu/) | JPOP
 - Não há recrutamento no momento.
 
 ### 🧲 [Milkie](https://milkie.cc/) | MIL
+- Tracker generalista
 - Convites pelo [Discord](https://discord.gg/rZYAFuZ)
 
 ### 🧲 [MyAnonaMouse](https://myanonamouse.net) | MAM | [Entrevista](https://www.myanonamouse.net/inviteapp.php)
+- Focado em e-learning 
 
-### 🧲 Nebulance | NBL 
+### 🧲 [Nebulance](https://nebulance.io) | NBL 
+- Focado em séries de TV
 - Pode ser acessado por meio do MAM. O único requisito é ser PU.
 
-### 🧲 [Orpheus](https://orpheus.network) | OPS | [Entrevista](https://interview.orpheus.network/)
+### 🧲 [Orpheus](https://orpheus.network) | OPS | [Entrevista](https://interviewfor.red)
+- Focado em músicas
 - Caso você não queira fazer a entrevista, devido ao longo tempo de espera ou por qualquer outro motivo, a OPS também pode ser acessada por meio do MAM, pois este último tem um processo muito mais rápido e fácil. O único requisito é ser PU.
 
 ### 🧲 PassThePopcorn | PTP 
-- Não há recrutamento no momento.
+- Focado em filmes
+- Um dos mais desejados e difíceis de se juntar
+- Pode ser acessado por meio do RED
 
-### 🧲 [Redacted](https://interviewfor.red/en/index.html) | RED
-
-### 🧲 Secret Cinema | SC  
+### 🧲 [Redacted](https://interviewfor.red/en/index.html) | RED | [Entrevista](https://interview.orpheus.network/)
+- Focado em músicas
+- Fórum de recrutamento oficial para a maioria dos trackers privados gringos
+  
+### 🧲 [Secret Cinema](https://secret-cinema.pw) | SC  
+- Focado em filmes cult
 - Pode ser acessado por meio do MAM. VIP + 50 GB de upload + conta com 6 meses.
 
 ### 🧲 [TheGeeks](https://thegeeks.click/) | TGBZ
 
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
+- Tracker generalista
+- Abrem para novos cadastros anualmente
 
 ### 🧲 [Academic Torrents](https://academictorrents.com/) | ACA
+
+## 📑 ➜ Trackers Públicos e semi-privados
+
+### 🧲 [rutracker](rutracker.net) 
+- Tracker semi-privado russo
+- Grande acervo
+
+### 🧲 [linuxtracker](linuxtracker.org) 
+- Focado em ISOs Linux
+
+### 🧲 [extremlymtorrents](extremlymtorrents.ws) 
+-  Tracker generalista semi-privado romeno
+
+### 🧲 [sktorrent](sktorrent.org) 
+-  Tracker semi-privado focado em games
+
+**Está buscando sites para download de filmes e séries via torrent?**  
+Confira nossos tópicos sobre 🎦 [Filmes e TV](filmes-tv#🧲-torrents) e ⭐ [Anime](anime#📑-3-➜-torrents)
