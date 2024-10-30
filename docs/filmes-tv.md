@@ -19,9 +19,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cwa6a2e.xn--p1ai/)
 
-### ▶️ [CriaFlix](https://criaflix.live/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/criaflix.live/)
-
 ### ▶️ [Braflix](https://www.braflix.gd)
 
 - O banco de dados de filmes constantemente atualizado é o refúgio perfeito para todos os cinéfilos apaixonados.
@@ -35,22 +32,13 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megaflix.co/)
 
-### ▶️ [Vizer](https://vizer.tv/)
+### ▶️ [Vizer](https://vizer.tv/) / [2](https://novizer.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vizer.tv/)
 
-### ▶️ [Topflix](https://topflix.tv/)
+### ▶️ [Topflix](https://topflix.tv/) / [2](https://topflixtv.me/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/topflix.tv/)
-
-### ▶️ [Netcine](https://netcine2.la/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcine2.la/)
-
-### ▶️ [Baixar Series MP4](https://baixarseriesmp4.pm/)
-
-- Um fantástico recurso de fórum com links de filmes em qualidade BDRip, Web-DL e Webrip. Uma interface do usuário simples que não requer registro para usuários.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/baixarseriesmp4.pm/)
 
 ### ▶️ [Warezcdn](https://warezcdn.com/index.php)
 
@@ -72,6 +60,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Uma infinidade de filmes e séries de televisão gratuitamente com todos os lançamentos mais recentes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/binged.in/)
 
+### 🌟 [Freek.to](https://freek.to/)
+
+- Freek.to aparentemente comprou o Binged
+- Uma infinidade de filmes, séries e animes. Aceita legenda que vc baixou de outros sites.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/freek.to/)
+
 ### ▶️ [HDToday](https://hdtoday.tv/)
 - Plataforma com diversas séries e filmes legendados adicionados constantemente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hdtoday.tv/)
@@ -81,10 +75,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - O melhor site de streaming de filmes gratuito com a ajuda de servidores de streaming rápidos e suporte para legendas multilíngues.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ucinema.so/)
 
-### ▶️ [Sudo-Flix](https://pseudo-flix.pro/)
+### ▶️ [Sudo-Flix](https://sudo-flix.rip/)
 
-- sudo-flix mudou o dominio para "pseudo-flix.pro" é um fork do movie-web que permanece ativo mesmo após o encerramento do movie-web.app. sudo-flix.lol é executado em um VPS privado e auto-hospedado. Não há anúncios e contém uma grande variedade de filmes e séries.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pseudo-flix.pro/)
+- sudo-flix mudou o dominio para "sudo-flix.rip" é um fork do movie-web que permanece ativo mesmo após o encerramento do movie-web.app. sudo-flix.lol é executado em um VPS privado e auto-hospedado. Não há anúncios e contém uma grande variedade de filmes e séries.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sudo-flix.rip/)
 
 ### ▶️ [Doramogo](https://doramogo.com/)
 
@@ -151,46 +145,23 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.site/)
 
 ### 🌟 [BluDV](https://bludv.xyz/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv.xyz/)
+
 ### 🌟 [Rede Torrent](https://redetorrent.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
-
-### 🧲 [Comando](https://comandofilmeshd.site/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.site/)
-
-### 🧲 [BluDV](https://bludv.xyz/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv.xyz/)
 
 ### 🧲 [Torrent dos Filmes.site](https://torrentdosfilmes.site/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes.site/)
 
-
-### 🧲 [Filmes via Torrent.site](https://filmesviatorrents.site/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/filmesviatorrents.site/)
-
 ### 🧲 [ComandoFilmesHD.org](https://comandofilmeshd.org/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.org/)
 
-### 🧲 [Nick Filmes](https://nickfilmes.net/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/nickfilmes.net/)
-
 ### 🧲 [Comando Filmes](https://comandofilmes.xyz/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmes.xyz/)
-
-### 🧲 [Torrent dos Filmes](https://torrentdofilmes.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdofilmes.com/)
-
-### 🧲 [Vamos Torrent](https://vamostorrent.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/vamostorrent.com/)
 
 ### 🧲 [Limon Torrents](https://limontorrents.com/)
 
