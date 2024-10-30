@@ -1,6 +1,8 @@
 # 🧵 ➜ Trackers
 
-Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos.
+Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos. 
+
+Trackers podem ser públicos ou privados. Trackers públicos não demandam cadastro de usuários, podendo ser acessados por qualquer pessoa, enquanto trackers privados necessitam de cadastro para acesso. Trackers privados geralmente oferecem maior privacidade aos usuáruos e costumam ter uma retenção maior para os arquivos compartilhados, porém nem sempre é fácil conseguir acesso a eles. As principais formas de ingreso são: convite de usuários; entrevista; aplicação; recrutamento oficial em outros trackers privados, e quando abrem o site para novos usuários por tempo limitado.
 
 :::info ⚠️ Lembrete rápido
 Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisado quando novos Trackers abrirem cadastros.
