@@ -67,7 +67,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Tracker semi-privado de animes legendados por fansubs, ativo desde 2014.
 - Sem H&R, exige apenas ratio global > 0.3.
 
-## 📑 ➜ Trackers Gringo
+## 📑 ➜ Trackers Gringos
 
 :::info ⚠️ Informação
 PU = Power User (usuário avançado). A primeira classificação quando você sobe de nível. Você precisa ter essa classificação para poder acessar o fórum de convites de um tracker.
