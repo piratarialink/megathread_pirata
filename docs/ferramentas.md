@@ -88,10 +88,11 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Botão Sci-hub](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adiciona um botão sci-hub a inúmeros sites de artigos acadêmicos/acadêmicos para desbloquear o artigo que está sendo visualizado.
 - [AdsBypasser](https://adsbypasser.github.io/) - Ignore anúncios de contagem regressiva ou continue páginas e evite janelas pop-up de anúncios.
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Evite a instalação de download de aplicativos indesejados com software legítimo (por exemplo, McAfee com Adobe Flash)
-- [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Ignore os paywalls de sites de jornais. Requer tampermoney/greasemonkey para instalar.
+- [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Ignore os paywalls de sites de jornais. Requer tampermonkey/greasemonkey para instalar.
 - [Obter informações de DLC do SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Cria automaticamente uma lista de DLC para ferramentas como CreamAPI, GreenLuma e SmartSteamEmu.
 - [Desbloqueie as etapas do Symbolabs e verifique as soluções](https://pastebin.com/wA3QQkCj) - Userscript [\(archived\)](https://web.archive.org/web/20200818154537/https://pastebin. com/wA3QQkCj)
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa)
+- [Unlimiteddownloader](https://github.com/A-SunsetMkt-Forks/Tampermonkey-Script/blob/main/Unlimited_downloader.js) - Baixa vídeos HLS.
 
 ## ► Proxies / Desbloqueadores de sites piratas
 
@@ -195,6 +196,19 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 - [sasrip.cf](https://sasrip.cf/) - Downloader de vídeo / mp3
 - [tomato.to](https://tomato.to/) - Downloader de fotos. Shutterstock, getty, adobestock, etc.
 - [calameodownload.com](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento Calameo público como imagens ou PDF otimizado
+
+## ► Planos de internet móvel
+
+- Vivo Easy - Internet avulsa que você usa até acabar (não expira).
+- Claro Prezão - 9GB por 24,90 ou 12GB por 30 reais.
+
+## ► SSH grátis
+
+São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de dados ilimitada.
+
+- [SSHconnect](https://sshconect.com.br/) 
+- [Rev Hunter](https://www.revhuntervpn.xyz/)
+- [HTTP Injector](https://httpinjector.com/)
 
 ## ► Compartilhamento de arquivos
 

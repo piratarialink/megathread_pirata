@@ -73,7 +73,7 @@
 
 # 🌀 ➜ Perigos do Mar
 
-### ☣️ [Sites Inseguros](sites-inseguros.md)
+### ☣️ [Sites e Programas Inseguros](sites-inseguros.md)
 - Devido a inúmeras ofensas graves e indesculpáveis, estes sites maliciosos adquiriram uma reputação terrível.
 
 ---
@@ -82,9 +82,11 @@
 
 ### 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
 ### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
+### 📁 [MediaSavvy](https://mediasavvy.pages.dev/)
 ### 📁 [EverythingMoe](https://everythingmoe.com/)
-### 📁 [FMHY](https://fmhy.pages.dev/) / [Link alternativo](https://api.fmhy.net/single-page)
+### 📁 [FMHY](https://fmhy.pages.dev/)
 ### 📁 [Ripped](https://ripped.guide/)
+### 📁 [The Index](https://theindex.moe/)
 ### 📁 [Wotaku](https://wotaku.pages.dev/)
 
 ---

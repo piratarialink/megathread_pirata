@@ -64,10 +64,10 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Open Library é uma iniciativa da [Internet Archive](https://archive.org/), uma organização sem fins lucrativos, que constrói uma biblioteca digital de sites da Internet e outros artefatos culturais em formato digital.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/openlibrary.org/)
 
-### 🌟 [Projeto Z-Library](https://singlelogin.re/) / [2](https://zlibrary-global.se/) • Necessário Cadastrar-se
+### 🌟 [Projeto Z-Library](https://z-library.sk/) • Necessário Cadastrar-se
 
 - Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, textos acadêmicos e livros de interesse geral.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/singlelogin.re/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/z-library.sk/)
 
 ## 📑 2 ➜ Leitura no navegador
 

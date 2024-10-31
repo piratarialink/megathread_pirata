@@ -90,7 +90,7 @@ export default {
           { text: "🧰 Ferramentas", link: "ferramentas" },
           { text: "🧵 Trackers", link: "trackers" },
           { text: "🏴‍☠️ Warez", link: "warez" },
-          { text: "☣️ Sites Inseguros", link: "sites-inseguros" },
+          { text: "☣️ Sites e Programas Inseguros", link: "sites-inseguros" },
         ],
       },
       {
@@ -117,6 +117,7 @@ export default {
             text: "📁 Champagne Piracy Wiki",
             link: "https://champagne.pages.dev/",
           },
+          { text: "📁 MediaSavvy", link: "https://mediasavvy.pages.dev/" },
           { text: "📁 EverythingMoe", link: "https://everythingmoe.com/" },
           { text: "📁 FMHY", link: "https://fmhy.net/" },
           { text: "📁 Ripped", link: "https://ripped.guide/" },

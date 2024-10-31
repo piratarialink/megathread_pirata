@@ -146,6 +146,11 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ## 📑 ➜ Apps Modificados
 
+
+### 🔗 [A2ZAPK](https://a2zapk.io/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/a2zapk.io/)
+
 ### 🔗 [AN1](https://an1.com/)
 
 - Versões mais recentes de jogos e apps Android, garantindo desempenho ideal.
@@ -264,6 +269,11 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Cheats, mods e versões APKs desbloqueados de qualidade para jogos e aplicativos Android populares.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sbenny.com/)
+
+
+### 🔗 [Tekmods](https://tekmods.com/)
+
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/tekmods.com/)
 
 ## 📑 ➜ Música
 

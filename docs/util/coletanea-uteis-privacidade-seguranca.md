@@ -1,4 +1,4 @@
-# 🪶 ➜ Coletânea de coisas úteis para privacidade e segurança
+# 📑 ➜ Coletânea de coisas úteis para privacidade e segurança
 
 Aqui está uma Coletânea de coisas úteis para privacidade e segurança que fui acumulando com o tempo.
 
@@ -6,102 +6,94 @@ Aqui está uma Coletânea de coisas úteis para privacidade e segurança que fui
 
 ### Mais focado no Windows 10/11
 
-- [SophiApp](https://github.com/Sophia-Community/SophiApp) - ⚡ The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+- [SophiApp](https://github.com/Sophia-Community/SophiApp) - ⚡ O tweaker de código aberto mais poderoso no GitHub para ajustes no Windows 10 e Windows 11.
 
-- [privacy.sexy](https://privacy.sexy/) - Open-source tool to enforce privacy & security best-practices on Windows and macOS.
+- [privacy.sexy](https://privacy.sexy/) - Ferramenta de código aberto para aplicar práticas recomendadas de privacidade e segurança no Windows e macOS.
 
-- [Shell](https://github.com/moudey/Shell) - Powerful manager for Windows File Explorer context menu.
+- [Shell](https://github.com/moudey/Shell) - Gerenciador poderoso para o menu de contexto do Windows File Explorer.
 
-- [Everything](https://www.voidtools.com/) with [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - For finding folders really quickly.
+- [Everything](https://www.voidtools.com/) com [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Para encontrar pastas rapidamente. 
 
-- [ueli](https://ueli.app/#/) - A keystroke launcher.
+- [ueli](https://ueli.app/#/) - Um iniciador de pressionamento de tecla.
 
-- [ShareX](https://getsharex.com/) - Much better alternative to the snipping tool.
+- [ShareX](https://getsharex.com/) - Alternativa melhor que o programa de captura de tela.
 
-- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - A bunch of cool features from Microsoft that aren't implemented in Windows.
+- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Vários recursos interessantes da Microsoft que não são implementados no Windows.
 
-- [KDE Connect](https://kdeconnect.kde.org/) - A way to connect your smartphone and computer and not use Microsoft's Link to Windows tool (I've had some times where the windows versions of this app wouldn't recognize anything, your experience may vary)
+- [KDE Connect](https://kdeconnect.kde.org/) - Uma forma de conectar seu smartphone e computador sem usar a ferramenta Link to Windows da Microsoft (já houve momentos em que as versões para Windows deste aplicativo não reconheciam nada, sua experiência pode variar).
 
-- [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - to clean out NVIDIA drivers.
+- [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - para limpar os drivers NVIDIA.
 
-- [Winaero Tweaker](https://winaero.com/winaero-tweaker/) - Some extra Windows tweaks, such as restoring the old context menu.
+- [Winaero Tweaker](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras do Windows, como restaurar o antigo menu de contexto.
 
-- [ShupUp10++](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10 and 11.
+- [ShupUp10++](https://www.oo-software.com/en/shutup10) - Software anti espionagem gratuito para Windows 10 e Windows 11.
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Um ativador de Windows e Office usando métodos de ativação HWID/KMS38/KMS online, com foco em código-fonte aberto e menos detecções de antivírus.
 
-- [BurntSushi](https://github.com/OpenByteDev/burnt-sushi) - Spotify AdBlocker for Windows.
+- [BurntSushi](https://github.com/OpenByteDev/burnt-sushi) - Spotify AdBlocker para o Windows.
 
-### Really good stuff
+### Coisa realmente boa
 
-- [spot-dl](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+- [spot-dl](https://github.com/spotDL/spotify-downloader) - Baixe suas playlists e músicas do Spotify junto com a arte do álbum e metadados (do YouTube se encontrar uma correspondência).
 
-- [ffmpeg](https://ffmpeg.org/download.html) - FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+- [ffmpeg](https://ffmpeg.org/download.html) - FFmpeg é uma coleção de bibliotecas e ferramentas para processar conteúdo multimídia como áudio, vídeo, legendas e metadados relacionados.
 
-- [Upscayl](https://github.com/upscayl/upscayl) - AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+- [Upscayl](https://github.com/upscayl/upscayl) - IA upscaler de imagens para Linux, MacOS e Windows, desenvolvido com a filosofia Linux-First.
 
-- [SpotX](https://github.com/amd64fox/SpotX/) - Modified Spotify client. Blocks ads and updates, and more.
+- [SpotX](https://github.com/amd64fox/SpotX/) - Cliente Spotify modificado. Bloqueia anúncios e atualizações e muito mais.
 
-- [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [czkawka](https://github.com/qarmin/czkawka) - Aplicativo multifuncional para encontrar duplicatas, pastas vazias, imagens semelhantes etc.
 
-- [Spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [Spotube](https://github.com/KRTirtho/spotube) - 🎧 Cliente Spotify de código aberto que não requer premium nem Electron! Disponível para desktop e celular!
 
-- [MegaBasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
+### Coisas baseadas em hardware
 
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent project aims to provide an open-source software alternative to µTorrent.
+- [Yubikey](https://www.yubico.com/products/) - O YubiKey é um dispositivo de autenticação de hardware fabricado pela Yubico para proteger o acesso a computadores, redes e serviços online que suporta senhas de uso único (OTP), criptografia de chave pública e autenticação, e os protocolos Universal 2nd Factor (U2F) e FIDO2 desenvolvido pela Aliança FIDO.
 
-### Hardware based-stuff
+- [Nitrokeys](https://www.nitrokey.com/products/nitrokeys) - Uma alternativa ao Yubikey.
 
-- [Yubikey](https://www.yubico.com/products/) - The YubiKey is a hardware authentication device manufactured by Yubico to protect access to computers, networks, and online services that supports one-time passwords (OTP), public-key cryptography, and authentication, and the Universal 2nd Factor (U2F) and FIDO2 protocols developed by the FIDO Alliance.
+- [Pi-hole](https://pi-hole.net/) - Um buraco negro para anúncios na Internet.
 
-- [Nitrokeys](https://www.nitrokey.com/products/nitrokeys) - A Yubikey alternative.
+- [Nextcloud](https://nextcloud.com/) - Nextcloud é um software client-server para criar e usar serviços de hospedagem de arquivos. Nextcloud oferece funcionalidade semelhante ao Dropbox, Office 365 ou Google Drive quando usado com suítes de escritório integradas Collabora Online ou OnlyOffice. Ele pode ser hospedado na nuvem ou no local.
 
-- [Pi-hole](https://pi-hole.net/) - A black hole for Internet advertisements.
+### Android
 
-- [Nextcloud](https://nextcloud.com/) - Nextcloud is a suite of client-server software for creating and using file hosting services. Nextcloud provides functionality similar to Dropbox, Office 365 or Google Drive when used with integrated office suites Collabora Online or OnlyOffice. It can be hosted in the cloud or on-premises.
+- [F-Droid](https://f-droid.org/) - F-Droid é um catálogo instalável de aplicativos FOSS (software gratuito e de código aberto) para a plataforma Android. O cliente facilita navegar, instalar e acompanhar atualizações em seu dispositivo.
 
-### Android related stuff
+- [Canta - Uninstall any app without root!](https://f-droid.org/en/packages/org.samo_lego.canta/) - Canta permite que você desinstale qualquer aplicativo do seu dispositivo, mesmo se você não tiver acesso root. Precisa ser usado junto com o [Shizuku.](https://shizuku.rikka.app/)
 
-- [F-Droid](https://f-droid.org/) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+- [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) - Este é um navegador da web orientado para a privacidade e desbloqueado, baseado na tecnologia Mozilla. Ele habilita muitos recursos upstreamados pelo projeto Tor Uplift usando preferências do projeto arkenfox-user.js. Recomenda-se instalar o 'uBlock Origin'.
 
-- [Canta - Uninstall any app without root!](https://f-droid.org/en/packages/org.samo_lego.canta/) - Canta allows you to uninstall _any_ app from your device, even if you don't have root access.
+- [Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - Um cliente Reddit focado na privacidade para Android.
 
-- [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) - This is a privacy oriented and deblobbed web browser based on Mozilla technology. It enables many features upstreamed by the Tor Uplift project using preferences from the arkenfox-user.js project. It is recommended to install 'uBlock Origin'.
+- [FFUpdater](https://github.com/Tobi823/ffupdater) - Update para navegador amigável à privacidade.
 
-- [Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A privacy focused Reddit client for Android.
+- [Aegis](https://github.com/beemdevelopment/Aegis) - Um aplicativo gratuito, seguro e de código aberto para Android para gerenciar seus tokens de verificação em duas etapas.
 
-- [FFUpdater](https://github.com/Tobi823/ffupdater) - Updater for privacy friendly browser.
+### Serviços focados em privacidade e segurança
 
-- [Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+- [Proton](https://proton.me/) - O Proton fornece e-mail criptografado, calendário, armazenamento de arquivos e VPN fáceis de usar, baseados no princípio de seus dados, suas regras. Sua privacidade é garantida por criptografia forte, código-fonte aberto e leis de privacidade suíças.
 
-### Privacy and security focused services
+- [Mullvad VPN](https://mullvad.net) - Mullvad é uma VPN rápida e barata com foco sério em transparência e segurança. Eles estão em operação desde 2009. A Mullvad está sediada na Suécia.
 
-- [Proton](https://proton.me/) - Proton provides easy-to-use encrypted email, calendar, file storage, and VPN built on the principle of your data, your rules. Your privacy is ensured by strong encryption, open-source code, and Swiss privacy laws.
+- [IVPN](https://www.ivpn.net/) - IVPN é outro provedor de VPN premium e está em operação desde 2009. A IVPN está sediada em Gibraltar.
 
-- [Mullvad VPN](https://mullvad.net) - Mullvad is a fast and inexpensive VPN with a serious focus on transparency and security. They have been in operation since 2009. Mullvad is based in Sweden.
+- [Bitwarden](https://bitwarden.com/) - O Bitwarden facilita a geração, armazenamento e proteção de nomes de usuário e senhas exclusivos de qualquer local ou dispositivo.
 
-- [IVPN](https://www.ivpn.net/) - IVPN is another premium VPN provider, and they have been in operation since 2009. IVPN is based in Gibraltar.
+- [Cryptomator](https://github.com/cryptomator/cryptomator) - Criptografia transparente multiplataforma client-side de seus arquivos na nuvem.
 
-- [Bitwarden](https://bitwarden.com/) - Bitwarden makes it easy to generate, store, and secure unique usernames and passwords from any location or device.
+- [Tenacity](https://tenacityaudio.org) -Tenacity é um editor de áudio multipista multiplataforma, fácil de usar e com privacidade, FLOSS, para Windows, macOS, Linux e outros sistemas operacionais.
 
-- [Cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
+- [Mullvad Browser](https://mullvad.net/en/browser) - Mullvad Browser é uma versão do Tor Browser com integrações de rede Tor removidas, com o objetivo de fornecer tecnologias de navegador anti-impressão digital do Tor Browser para usuários VPN. É desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
 
-- [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
+- [Librewolf](https://librewolf.net/) - Uma versão personalizada do Firefox, focada em privacidade, segurança e liberdade.
 
-- [Tenacity](https://tenacityaudio.org) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor for Windows, macOS, Linux and other operating systems.
+### Sites úteis
 
-- [Mullvad Browser](https://mullvad.net/en/browser) - Mullvad Browser is a version of Tor Browser with Tor network integrations removed, aimed at providing Tor Browser's anti-fingerprinting browser technologies to VPN users. It is developed by the Tor Project and distributed by Mullvad, and does not require the use of Mullvad's VPN.
+- [2fa.directory](https://2fa.directory/int/) - Fonte independente de informações sobre quais serviços suportam MFA/2FA.
 
-- [Librewolf](https://librewolf.net/) - A custom version of Firefox, focused on privacy, security and freedom.
+- [simplepdf.eu](https://simplepdf.eu/) - Website simples para editar PDFs.
 
-### Useful websites
+### Menção honrosa
 
-- [2fa.directory](https://2fa.directory/int/) - Independent source of information on which services support MFA/2FA.
-
-- [simplepdf.eu](https://simplepdf.eu/) - Simple website to edit PDFs.
-
-### Honorable Mentions
-
-- [u/mkoreddit on Reddit](https://www.reddit.com/user/mkoreddit/) - for letting me know about some really nice tools.
-
----
+- Lista feita a partir do modelo do [u/mkoreddit.](https://www.reddit.com/user/mkoreddit/) 
