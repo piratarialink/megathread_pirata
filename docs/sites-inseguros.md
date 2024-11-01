@@ -2,8 +2,8 @@
 
 :::warning ⚠️ AVISO ➜ Preste atenção
 
-- ⚠️ É de extrema importância que você evite se aventurar nas profundezas traiçoeiras das URLs listadas abaixo.
-- 👎🏻 Esses domínios sinistros ganharam uma reputação notória, manchada por uma infinidade de transgressões graves e imperdoáveis.
+- ⚠️ É de extrema importância que você evite se aventurar nas profundezas traiçoeiras das URLs e aplicações listadas abaixo.
+- 👎🏻 Esses domínios e softwares sinistros ganharam uma reputação notória, manchada por uma infinidade de transgressões graves e imperdoáveis.
 - ⚠️ Como essa página não é atualizada frequentemente peço que vocês também verifiquem as páginas do [r/piracy](https://rentry.co/megathread-unsafe-sites) e [FMHY](https://fmhy.net/unsafesites)
 - [💩](https://www.dicio.com.br/merda/) = Particularmente evitado pela comunidade pirata.
   :::
