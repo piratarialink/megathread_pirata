@@ -74,6 +74,10 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 :::info Acho que os sites abaixo só oferecem narrações em inglês 👇️.
 :::
 
+### 📺️ [Rivestream](https://rivestream.live/livesports)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/rivestream.live/)
+
 ### 📺️ [sportsurge.net](https://sportsurge.net/)
 
 - Transmissões ao vivo. MMA, boxe, automobilismo, basquete, futebol, hóquei
