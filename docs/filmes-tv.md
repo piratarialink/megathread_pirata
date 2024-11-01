@@ -19,9 +19,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cwa6a2e.xn--p1ai/)
 
-### ▶️ [CriaFlix](https://criaflix.live/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/criaflix.live/)
-
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
@@ -30,22 +27,13 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megaflix.co/)
 
-### ▶️ [Vizer](https://vizer.tv/)
+### ▶️ [Vizer](https://novizer.com/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/vizer.tv/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/novizer.com/)
 
 ### ▶️ [Topflix](https://topflix.tv/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/topflix.tv/)
-
-### ▶️ [Netcine](https://netcine2.la/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcine2.la/)
-
-### ▶️ [Baixar Series MP4](https://baixarseriesmp4.pm/)
-
-- Um fantástico recurso de fórum com links de filmes em qualidade BDRip, Web-DL e Webrip. Uma interface do usuário simples que não requer registro para usuários.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/baixarseriesmp4.pm/)
 
 ### ▶️ [Warezcdn](https://warezcdn.com/index.php)
 
@@ -60,12 +48,17 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megaflixapp.top/)
 
+### 🌟 [BluDV](https://bludv.xyz/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv.xyz/)
+
 ## ▶️ Legendados
 
-### 🌟 [Binged](https://binged.in/) / [2](https://binged.live/) / [3](https://binge.lol/)
+### 🌟 [Freek.to](https://freek.to/)
 
-- Uma infinidade de filmes e séries de televisão gratuitamente com todos os lançamentos mais recentes.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/binged.in/)
+- Freek.to aparentemente comprou o Binged
+- Uma infinidade de filmes, séries e animes. Aceita legenda que vc baixou de outros sites.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/freek.to/)
 
 ### ▶️ [HDToday](https://hdtoday.tv/)
 - Plataforma com diversas séries e filmes legendados adicionados constantemente.
@@ -76,10 +69,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - O melhor site de streaming de filmes gratuito com a ajuda de servidores de streaming rápidos e suporte para legendas multilíngues.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ucinema.so/)
 
-### ▶️ [Sudo-Flix](https://pseudo-flix.pro/)
+### ▶️ [Sudo-Flix](https://sudo-flix.rip/)
 
-- sudo-flix mudou o dominio para "pseudo-flix.pro" é um fork do movie-web que permanece ativo mesmo após o encerramento do movie-web.app. sudo-flix.lol é executado em um VPS privado e auto-hospedado. Não há anúncios e contém uma grande variedade de filmes e séries.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pseudo-flix.pro/)
+- sudo-flix mudou o dominio para "sudo-flix.rip" é um fork do movie-web que permanece ativo mesmo após o encerramento do movie-web.app. sudo-flix.lol é executado em um VPS privado e auto-hospedado. Não há anúncios e contém uma grande variedade de filmes e séries.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sudo-flix.rip/)
 
 ### ▶️ [Doramogo](https://doramogo.com/)
 
