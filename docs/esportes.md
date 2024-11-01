@@ -34,10 +34,6 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 📺️ [CXTV](https://www.cxtv.com.br/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cxtv.com.br/)
-
-### 📺️ [Rivestream](https://rivestream.live/livesports)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/rivestream.live/)
   
 ### 🔗 [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) - Agregação de IPTV em massa
 
@@ -78,6 +74,10 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 :::info Acho que os sites abaixo só oferecem narrações em inglês 👇️.
 :::
 
+### 📺️ [Rivestream](https://rivestream.live/livesports)
+
+- Transmissões ao vivo. Futebol, basquete e tênis.
+  
 ### 📺️ [sportsurge.net](https://sportsurge.net/)
 
 - Transmissões ao vivo. MMA, boxe, automobilismo, basquete, futebol, hóquei
