@@ -101,6 +101,10 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Unblock Ninja!](https://unblockninja.com/)
 - [TorrentBay](https://torrentbay.to/)
 
+## ► Bots do Telegram
+
+- [Leak - OSINT](https://t.me/anotherLeakOSINTrobotbot?start=DXQ0pV2) - Coleta vazamento de dados por nome, telefone e IP.
+
 ## ► Clientes Torrent
 
 Notas: uTorrent [empacotou um minerador de bitcoin opcional e não malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880) . A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner /page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.
