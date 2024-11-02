@@ -48,10 +48,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megaflixapp.top/)
 
-### 🌟 [BluDV](https://bludv.xyz/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv.xyz/)
-
 ## ▶️ Legendados
 
 ### 🌟 [Freek.to](https://freek.to/)
@@ -106,10 +102,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/reidoscanais.app/)
   
-### 📺️ [TV0800](https://tv0800.com/)
+### 📺️ [TV0800](https://tv0800.pro/)
 
 - Oferece Canais ao vivo.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.pro/)
 
 ### 📺️ [CXTV](https://www.cxtv.com.br/)
 
