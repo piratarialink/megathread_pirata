@@ -103,7 +103,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► Bots do Telegram
 
-- [Leak - OSINT](https://t.me/anotherLeakOSINTrobotbot?start=DXQ0pV2) - Coleta vazamento de dados por nome, telefone e IP.
+- [Leak - OSINT](https://t.me/anotherLeakOSINTrobotbot?start=DXQ0pV2) - Coleta vazamento de dados por nome, telefone ou IP.
 
 ## ► Clientes Torrent
 
