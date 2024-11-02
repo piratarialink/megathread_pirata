@@ -60,6 +60,10 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Tonelada de mercadorias, incluindo LUTS, texturas, efeitos sonoros, edição de vídeo + plug-ins, gráficos em movimento e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadpirate.com/)
 
+### 🔗 [Ecológica Verde](https://x.com/Ecologica_Verde) 
+
+- Se não tiverem postado o programa que você procura, peça no twitter ou no grupo do discord que em algum momento eles providenciam.
+
 ### 🔗 [Freepreset](https://freepreset.net/)
 
 - Dedicado a ajudá-lo a obter predefinições de lightroom premium, luts, ações de photoshop e uma infinidade de outros materiais de design.
