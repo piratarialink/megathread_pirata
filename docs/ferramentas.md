@@ -4,7 +4,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 :::danger ⚠️ Lembrete rápido
 
-- ✔️ Todos os links foram analisados ​​e aprovados por contribuidores voluntários, prossiga com cautela.
+- ✔️ Todos os links foram analisados ​​e aprovados pelos moderadores, mas prossiga com cautela.
 - 🌟 = Altamente recomendado pela comunidade pirata.
   :::
 
@@ -19,7 +19,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Essa ferramenta ativa o Windows e o Office.
 * [**Office C2R-R2V-AIO**](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte as instalações do Office Retail em licenças de volume.
 * [**KMS_VL_ALL**](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Ativa instalações de licença de volume do Office e Windows. (Ativa o Windows e Office)
-* [**KMSAuto Net**](https://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL.
+* [**KMSAuto Net**](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL.
 * [**HWIDGEN**](https://github.com/TheMCHK/HWIDGEN) - Ativa o Windows 10. Use o modo KMS38 para LTSC/Enterprise ou HWID para ativação permanente.
 * [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário Windows de Chris Titus Tech - Instalar programas, ajustes, correções e atualizações.
 * [**Scoop**](https://github.com/ScoopInstaller/Scoop) - Um instalador de linha de comando para Windows.
@@ -42,7 +42,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * [arquivo corenoc.de](https://web.archive.org/web/20180711192755/http://mirror.corenoc.de/digitalrivercontent.net/) - Mirrors de torrent para isos do Windows 7 que estavam disponíveis no DigitalRiverContent da Microsoft CDN
 * [the-eye.eu/public/MSDN](https://the-eye.eu/public/MSDN/) - O backup de 2,7 TB do olho do despejo do MSDN. Tem muitos ISOs difíceis de encontrar, Windows 7, etc.
 * [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors para LTSB, LTSC e ISOs do Windows 10 da edição do consumidor. [Postagem original](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431) em MyDigitalLife fóruns
-* [Windows ISOs em nmclub](https://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 10 da edição do consumidor
+* [Windows ISOs em nmclub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 10 da edição do consumidor
 * [pastebin de abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion- microsoft-office-2019.75232/page-9#post-1464024)
 * [pastebin de abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office- professional-plus-2016-msdn.65408/page-26#post-1165512)
 * [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Ferramenta da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
@@ -101,6 +101,10 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Unblock Ninja!](https://unblockninja.com/)
 - [TorrentBay](https://torrentbay.to/)
 
+## ► Bots do Telegram
+
+- [Leak - OSINT](https://t.me/anotherLeakOSINTrobotbot?start=DXQ0pV2) - Coleta vazamento de dados por nome, telefone ou IP.
+
 ## ► Clientes Torrent
 
 Notas: uTorrent [empacotou um minerador de bitcoin opcional e não malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880) . A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner /page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.
@@ -158,12 +162,11 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 
 - [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 
-* [JDownloader2](https://jdownloader.org/jdownloader2) - Gerenciador de download que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites.
+* [JDownloader2](http://jdownloader.org/jdownloader2) - Gerenciador de download que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites.
 * [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente reinicie a avaliação [com isto](https://github.com/J2TEAM/idm-trial-reset). Alternativa [método aqui](https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/).
 * [Gerenciador de downloads XTREME](https://subhra74.github.io/xdm/) - Outro gerenciador de downloads muito bom
 * [pyLoad](https://pyload.net/) - Gerenciador de downloads leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
 * [aria2](https://aria2.github.io/) - Utilitário de download baseado em linha de comando.
-* [AntDM](https://antdownloadmanager.com/) - Software semelhante ao IDM, não suporta seeds e links magnéticos. 
 
 ## ► Outras ferramentas de download
 
@@ -250,16 +253,16 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 ## ► Diversos
 
 - [subscene.com](https://subscene.com/) - Legendas multilíngues para filmes/séries
-- [addic7ed.com](https://www.addic7ed.com/) - Legendas multilíngues para filmes/séries
+- [addic7ed.com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries
 
 ## ► Sites de rastreamento de cena / P2P
 
 Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritamente como quadros de avisos e não oferecem downloads de nenhum conteúdo postado.
 
-- [predb.org](https://predb.org/) - Rastreador de cena
+- [predb.org](http://predb.org/) - Rastreador de cena
 - [predb.me](https://predb.me/) - Rastreador de cena
 - [predb.ovh](https://predb.ovh/) - Rastreador de cenas. Operadores de pesquisa muito úteis para filtrar resultados. Release group: `@team group_name` para saber se um determinado grupo é Scene ou não; categoria: `@cat games`, `@cat tv`, `@cat tv-HD`, `@cat tv-HD-x264`
-- [pre.c-burns.co.uk/pre.php](https://pre.c-burns.co.uk/pre.php) - Rastreador de cena
+- [pre.c-burns.co.uk/pre.php](http://pre.c-burns.co.uk/pre.php) - Rastreador de cena
 - [xrel.to/releases.html](https://www.xrel.to/releases.html) - Rastreador de cena
 - **[P2P]** [pre.c-burns.co.uk/p2ptrace.php](http://pre.c-burns.co.uk/p2ptrace.php) - Rastreador para versões P2P
 - **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para versões P2P
