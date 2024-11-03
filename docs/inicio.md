@@ -74,7 +74,7 @@
 # 🌀 ➜ Perigos do Mar
 
 ### ☣️ [Sites e Programas Inseguros](sites-inseguros.md)
-- Devido a inúmeras ofensas graves e indesculpáveis, estes sites ee programas maliciosos adquiriram uma reputação terrível.
+- Devido a inúmeras ofensas graves e indesculpáveis, esses sites e programas maliciosos adquiriram uma reputação terrível.
 
 ---
 
