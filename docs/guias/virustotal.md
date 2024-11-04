@@ -9,35 +9,55 @@ Guia útil para ajudá-lo em suas viagens marítimas.
 
 ---
 
-Bem, a primeira coisa que se deve verificar numa análise do Virus Total é se a data da última análise é realmente recente. Se não for, execute novamente a análise (podem ser encontradas novas detecções e removidos os falsos positivos antigos).
+### Guia para Verificação de Arquivos no VirusTotal
 
-Em seguida, vá para a guia de detalhes e dê uma olhada na hora de criação, primeira vez que foi visto na internet e a primeira submissão. A hora de criação nem sempre é confiável, pois pode ser falsificada, mas se for obviamente falsa (por exemplo, 2099), isso deve ser motivo de preocupação. Quanto aos outros dois, se forem anteriores à data de lançamento real de um produto (por exemplo, um jogo saiu há 2 semanas, mas foi visto pela primeira vez há 3 anos), então é provavelmente um malware usado e reciclado (assumindo que não é um arquivo genérico).
+Este guia ajuda a avaliar a segurança de arquivos baixados, especialmente em casos onde são utilizados métodos alternativos de obtenção de software.
 
-A seguir, veja os nomes com que foi enviado. Os nomes que se parecem com hashes (970f38c3800c85de75bd3ba253d46069.exe) ou 'sample1.exe' podem ser ignorados, mas se estiver a aparecer como 5 nomes diferentes para 5 programas completamente diferentes, então provavelmente é malware.
+1. **Verifique a Data da Última Análise**
+   - A primeira etapa é checar se a última análise do arquivo é recente. Se não for, faça uma nova análise, pois atualizações frequentes nos bancos de dados de malware podem identificar novas ameaças e remover falsos positivos antigos.
 
-No caso de software pirateado, as "signatures" não serão úteis, uma vez que os arquivos passam por "cracks" ou "patched" o tornam inválidos, mas normalmente se houvesse uma assinatura inválida seria suspeito.
+2. **Observe os Detalhes do Arquivo**
+   - Na guia de detalhes, veja a hora de criação, primeira vez que o arquivo foi visto na internet e sua primeira submissão.
+   - A hora de criação nem sempre é confiável, pois pode ser falsificada (ex.: datas futuras como 2099), mas pode ser um alerta se parecer fora do comum.
+   - Se as datas de primeira visualização ou submissão forem anteriores ao lançamento oficial de um produto, pode ser um malware reciclado, especialmente se o arquivo não for genérico.
 
-Os Execution Progenitor/Resource Parents são instaladores ou arquivos, coisas que continham, descartavam, ou baixavam o arquivo que você está analisando. Se estiver analisando um instalador e não tiver extraído de outro arquivo, então isso pode ser ignorado, pois normalmente isso mostra que são instaladores falsos - eles largam o instalador verdadeiro, executam-no para que o utilizador não perceba que algo está errado e rodam seu script malicioso em segundo plano.
+3. **Nomes de Submissão**
+   - Nomes de arquivos com aparência de hash (ex.: `970f38c3800c85de75bd3ba253d46069.exe`) ou genéricos (`sample1.exe`) podem ser ignorados. 
+   - No entanto, se o arquivo possui múltiplos nomes associados a softwares diferentes, isso pode indicar um comportamento suspeito.
 
-Dropped Files/Bundled Files mostra os arquivos contidos no arquivo verificado, extraídos quando o usuário o executa ou abre. Particularmente ao analisar um arquivo de arquivo, ver estes resultados é mais útil do que os do arquivo. O VT (Virus Total) funciona melhor com arquivos .zip, por isso, se tiver um arquivo .rar ou outro, extraia os arquivos, adicione-os a um .zip e faça upload. Se estiver lidando com qualquer arquivo protegido por senha, .zip ou não, faça o mesmo.
+4. **Assinaturas Digitais**
+   - Em softwares pirateados, as assinaturas digitais geralmente não são confiáveis, pois o processo de "crack" ou "patch" frequentemente invalida a assinatura. 
+   - Arquivos sem assinatura em software legítimo também podem ser um sinal de alerta.
 
-Analizar os endereços de IP/URLs pode ser útil se os resultados forem extremamente maliciosos, mas alguns dos antivírus (AVs) são excessivamente responsivos e marcarão qualquer coisa sobre a qual tenham ouvido. Se o arquivo se destinar a ser apenas um keygen ou patcher e estiver a fazer solicitações, isso é suspeito.
+5. **Execution Progenitor/Resource Parents**
+   - Essa seção indica os arquivos ou instaladores que originaram o arquivo em análise. Se o arquivo analisado é um instalador e não foi extraído de outro arquivo, ignore essa seção.
+   - Fique atento a instaladores falsos que executam scripts maliciosos em segundo plano.
 
-Arquivos e chaves sendo abertos e lidos não é particularmente preocupante, escrever e apagar seus próprios arquivos temporários também não é, e obviamente um instalador vai escrever em alguns lugares diferentes, mas se ele começa a ir onde não precisa estar, isso é suspeito.
+6. **Arquivos e Bundles**
+   - Verifique os arquivos contidos no executável analisado, especialmente em arquivos compactados. O VirusTotal funciona melhor com `.zip`; se você tiver um `.rar`, extraia os arquivos e faça upload como `.zip`.
+   - Se lidar com arquivos protegidos por senha, como `.zip`, extraia-os e faça upload.
 
-As ações destacadas raramente são esclarecedoras, mas se vir algo como "todos os seus arquivos pertencem a nós", queime-o com fogo.
+7. **Endereços de IP e URLs**
+   - Verificar endereços IP e URLs pode ser útil em casos de resultados altamente maliciosos. Contudo, keygens e patches frequentemente fazem solicitações de rede, o que pode ser detectado como suspeito por alguns antivírus, ainda que não representem risco direto.
 
-Por último, voltamos ao guia de detecções. Se forem praticamente todas genéricas/gen/susgen (ou essencialmente detecções genéricas como W32.Trojan.Gen), ou AI/ML (algumas detecções AI/ML usarão etiquetas de uma única palavra como 'malicioso', 'suspeito' e 'inseguro'), e se não houver nada específico, então normalmente significa que estão a detectar algo que parece malware, mas não corresponde a nenhum malware conhecido. Isso é comum no caso de software pirateado, uma vez que utilizam métodos semelhantes aos do malware (por exemplo, empacotamento de arquivos, encriptação, ofuscação, injeção de arquivos).
+8. **Operações de Arquivo e Registro**
+   - A criação de arquivos temporários ou leitura de chaves do registro geralmente não é preocupante.
+   - Contudo, se o arquivo acessa áreas que normalmente não deveria, isso é um alerta.
 
-Também são comuns para cracks, patches, keygens, ativadores, etc. as detecções riskware, hacktool e not-a-virus (a última é específica do Kaspersky).
+9. **Ações Suspensas e Mensagens Estranhas**
+   - Mensagens ou ações incomuns (ex.: "todos os seus arquivos pertencem a nós") indicam malware evidente e são um sinal para excluir o arquivo imediatamente.
 
-Também é preciso ter em mente a idade do arquivo (use Primeira Vez Visto e o Primeiro Envio para isso), pois algo com apenas algumas horas há alguns dias provavelmente não terá muitas detecções precisas, enquanto qualquer coisa com mais de algumas semanas deverá ter. Lidando com um arquivo de 2 anos como este, se for apenas o acima mencionado, provavelmente está tudo bem.
+10. **Guia de Detecções**
+   - Caso todas as detecções sejam genéricas (ex.: `W32.Trojan.Gen`), AI/ML (ex.: `malicioso`, `suspeito`), ou rótulos como `riskware`, `hacktool`, e `not-a-virus`, isso pode significar que o arquivo é apenas suspeito, especialmente em cracks, patches e keygens.
+   - Considere a idade do arquivo: arquivos recentes (< 1 mês) podem ter menos detecções, enquanto arquivos mais antigos devem ser analisados com cautela se tiverem múltiplas detecções específicas.
 
-Se houver várias detecções específicas semelhantes, é nessa altura que deve ficar preocupado.
+11. **Utilizando Sandboxing para Segurança**
+   - Ao lidar com software pirateado ou de fontes alternativas, considere usar uma VM ou o Sandboxie para rodar o arquivo isoladamente. 
+   - Observe alterações no sistema (arquivos criados, chaves de registro adicionadas) e, se possível, replique-as manualmente para reduzir os riscos ao seu sistema principal.
 
-Espero que isso ajude.
+### Observação Final
 
-Não é tão simples como "se tiver < 5 detecções, provavelmente está bem".
+Esse guia é mais adequado para verificar arquivos obtidos por meios alternativos, onde a detecção de comportamento de "hacktools" não é, por si só, um sinal de que você será hackeado. O VirusTotal é mais confiável para detectar ameaças em softwares legítimos que não deveriam ter detecções.
 
 ➜ Esse guia é baseado em um comentário feito no [r/Piracy](https://reddit.com/r/Piracy) pelo usuário: [u/ilike2burn](https://reddit.com/u/ilike2burn) e traduzido por [u/Heus-Sueh](https://tesseract.lemmy.eco.br/u/Heus_Sueh@lemmy.dbzer0.com).
 
