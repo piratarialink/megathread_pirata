@@ -53,6 +53,16 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megaflixapp.top/)
 
+### ▶️ [Overflix](https://overflixtv.app/)
+
+Contém Filmes e Séries Atualizados Dublados e Legendados.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/overflixtv.app/)
+
+### ▶️ [Pobreflix](https://pobreflixtv.cc/)
+
+Contém Filmes e Séries Atualizados Dublados e Legendados.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
+
 ## ▶️ Legendados
 
 ### 🌟 [Binged](https://binged.in/) / [2](https://binged.live/) / [3](https://binge.lol/)
@@ -89,6 +99,16 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - KissAsian é um site de streamings de doramas legendados que funciona desde 2015. Recomendamos o bloqueador de anúncios ativado por conta dos anúncios terceiros no player de vídeo. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kissasian.lu/)
+
+### ▶️ [Overflix](https://overflixtv.app/)
+
+Contém Filmes e Séries Atualizados Dublados e Legendados.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/overflixtv.app/)
+
+### ▶️ [Pobreflix](https://pobreflixtv.cc/)
+
+Contém Filmes e Séries Atualizados Dublados e Legendados.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
  
 ## 📺️ TV
 
