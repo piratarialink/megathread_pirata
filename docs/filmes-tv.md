@@ -82,6 +82,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
  
 ## 📺️ TV
 
+### 🌟 [EmbeHub](https://embehub.com/)
+- Oferece Canais ao vivo com alta qualidade sem anúncios.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/embehub.com/)
+
 ### 🌟 [Rede Canais TV](https://xn--90afacaz8cml9ac9f.xn--p1ai/)
 
 - Oferece Canais ao vivo com alta qualidade
