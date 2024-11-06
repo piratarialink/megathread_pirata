@@ -104,6 +104,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 ## ► Bots do Telegram
 
 - [Leak - OSINT](https://t.me/anotherLeakOSINTrobotbot?start=DXQ0pV2) - Coleta vazamento de dados por nome, telefone ou IP.
+- [Image reverse search](https://t.me/reverse_image_search_bot) - Ferramenta de busca reversa de imagens.
 
 ## ► Clientes Torrent
 
