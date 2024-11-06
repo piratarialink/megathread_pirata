@@ -94,6 +94,11 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - DAWs, bibliotecas de samples, plug-ins VST, multitracks e outros softwares de produção musical são fortemente enfatizados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/magesy.blog/)
 
+### 🔗 [Megasoft1](https://megasoft1.com/) • Interface em espanhol
+
+- Disponibiliza os softwares mais recentes através do mega.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/megasoft1.com/)
+
 ### 🔗 [MicroTech](https://programs.themicrotech.net/)
 
 - Visa simplificar o acesso aos arquivos das versões mais recentes, melhorando continuamente e mantendo-se atualizado com a tecnologia.
