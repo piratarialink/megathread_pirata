@@ -98,7 +98,10 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 ### 🧲 Cinematik | TIK 
 - Não há recrutamento no momento.
 
-### 🧲 GazelleGames(https://gazellegames.net) | GGn 
+### 🧲 [DigitalCore](https://digitalcore.club/signup/) 
+- Está de portas abertas, de longe um dos trackers mais fáceis para aprender a usar apesar de pecar na falta de conteúdo de ponta.
+
+### 🧲 [GazelleGames](https://gazellegames.net) | GGn 
 - Focado em games
 - Pode ser acessado por meio do OPS ou RED. Ambos exigem PU e conta com 3 meses. 
 
@@ -146,7 +149,8 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 - Focado em filmes cult
 - Pode ser acessado por meio do MAM. VIP + 50 GB de upload + conta com 6 meses.
 
-### 🧲 [TheGeeks](https://thegeeks.click/) | TGBZ
+### 🧲 [TheGeeks](https://thegeeks.click/signup.php) | TGBZ
+- Vagas abertas.
 
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
 - Tracker generalista.
