@@ -19,13 +19,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cwa6a2e.xn--p1ai/)
 
-
-### ▶️ [Braflix](https://www.braflix.gd)
-
-- O banco de dados de filmes constantemente atualizado é o refúgio perfeito para todos os cinéfilos apaixonados.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/braflix.video/)
-
-
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
@@ -33,7 +26,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [Megaflix](https://megaflix.co/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megaflix.co/)
-
 
 ### ▶️ [Vizer](https://vizer.tv/) / [2](https://novizer.com/)
 
@@ -57,12 +49,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megaflixapp.top/)
 
 ## ▶️ Legendados
-
-### 🌟 [Freek.to](https://freek.to/)
-
-- Freek.to aparentemente comprou o Binged
-- Uma infinidade de filmes, séries e animes. Aceita legenda que vc baixou de outros sites.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/freek.to/)
 
 ### 🌟 [Freek.to](https://freek.to/)
 
