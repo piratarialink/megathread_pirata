@@ -64,6 +64,11 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 - Se não tiverem postado o programa que você procura, peça no twitter ou no grupo do discord que em algum momento eles providenciam.
 
+### 🔗 [FileRiver](https://fileriver.net/)
+
+- Fileriver é um site para baixar programas gratuitos e ativadores
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fileriver.net/)
+
 ### 🔗 [Freepreset](https://freepreset.net/)
 
 - Dedicado a ajudá-lo a obter predefinições de lightroom premium, luts, ações de photoshop e uma infinidade de outros materiais de design.
