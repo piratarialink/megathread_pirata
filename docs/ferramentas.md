@@ -4,7 +4,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 :::danger ⚠️ Lembrete rápido
 
-- ✔️ Todos os links foram analisados ​​e aprovados por contribuidores voluntários, prossiga com cautela.
+- ✔️ Todos os links foram analisados ​​e aprovados por contribuidores voluntários, mas prossiga com cautela.
 - 🌟 = Altamente recomendado pela comunidade pirata.
   :::
 
@@ -19,7 +19,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Essa ferramenta ativa o Windows e o Office.
 * [**Office C2R-R2V-AIO**](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte as instalações do Office Retail em licenças de volume.
 * [**KMS_VL_ALL**](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Ativa instalações de licença de volume do Office e Windows. (Ativa o Windows e Office)
-* [**KMSAuto Net**](https://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL.
+* [**KMSAuto Net**](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL.
 * [**HWIDGEN**](https://github.com/TheMCHK/HWIDGEN) - Ativa o Windows 10. Use o modo KMS38 para LTSC/Enterprise ou HWID para ativação permanente.
 * [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário Windows de Chris Titus Tech - Instalar programas, ajustes, correções e atualizações.
 * [**Scoop**](https://github.com/ScoopInstaller/Scoop) - Um instalador de linha de comando para Windows.
@@ -42,7 +42,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * [arquivo corenoc.de](https://web.archive.org/web/20180711192755/http://mirror.corenoc.de/digitalrivercontent.net/) - Mirrors de torrent para isos do Windows 7 que estavam disponíveis no DigitalRiverContent da Microsoft CDN
 * [the-eye.eu/public/MSDN](https://the-eye.eu/public/MSDN/) - O backup de 2,7 TB do olho do despejo do MSDN. Tem muitos ISOs difíceis de encontrar, Windows 7, etc.
 * [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors para LTSB, LTSC e ISOs do Windows 10 da edição do consumidor. [Postagem original](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431) em MyDigitalLife fóruns
-* [Windows ISOs em nmclub](https://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 10 da edição do consumidor
+* [Windows ISOs em nmclub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 10 da edição do consumidor
 * [pastebin de abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion- microsoft-office-2019.75232/page-9#post-1464024)
 * [pastebin de abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office- professional-plus-2016-msdn.65408/page-26#post-1165512)
 * [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Ferramenta da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
@@ -84,14 +84,15 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adiciona botão ao lado de URLs encurtados que resolve o URL para sua localização verdadeira
 - [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Permite a cópia de texto de sites que tentam impedir a cópia
 - [absolute-enable-right-click-and-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) - Permite clicar com o botão direito e copiar em sites que tentam evitar clicar com o botão direito
-- [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Permite que você selecionar/realçar links em vez do comportamento padrão de arrastar
+- [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Permite selecionar/realçar links em vez do comportamento padrão de arrastá-los
 - [Botão Sci-hub](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adiciona um botão sci-hub a inúmeros sites de artigos acadêmicos/acadêmicos para desbloquear o artigo que está sendo visualizado.
 - [AdsBypasser](https://adsbypasser.github.io/) - Ignore anúncios de contagem regressiva ou continue páginas e evite janelas pop-up de anúncios.
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Evite a instalação de download de aplicativos indesejados com software legítimo (por exemplo, McAfee com Adobe Flash)
-- [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Ignore os paywalls de sites de jornais. Requer tampermoney/greasemonkey para instalar.
+- [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Ignore os paywalls de sites de jornais. Requer tampermonkey/greasemonkey para instalar.
 - [Obter informações de DLC do SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Cria automaticamente uma lista de DLC para ferramentas como CreamAPI, GreenLuma e SmartSteamEmu.
 - [Desbloqueie as etapas do Symbolabs e verifique as soluções](https://pastebin.com/wA3QQkCj) - Userscript [\(archived\)](https://web.archive.org/web/20200818154537/https://pastebin. com/wA3QQkCj)
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa)
+- [Unlimiteddownloader](https://github.com/A-SunsetMkt-Forks/Tampermonkey-Script/blob/main/Unlimited_downloader.js) - Baixa vídeos HLS.
 
 ## ► Proxies / Desbloqueadores de sites piratas
 
@@ -99,6 +100,11 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Torrent Mirror](https://www.torrentmirror.net/)
 - [Unblock Ninja!](https://unblockninja.com/)
 - [TorrentBay](https://torrentbay.to/)
+
+## ► Bots do Telegram
+
+- [Leak - OSINT](https://t.me/anotherLeakOSINTrobotbot?start=DXQ0pV2) - Coleta vazamento de dados por nome, telefone ou IP.
+- [Image reverse search](https://t.me/reverse_image_search_bot) - Ferramenta de busca reversa de imagens.
 
 ## ► Clientes Torrent
 
@@ -140,6 +146,7 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 - [av-comparatives.org](https://www.av-comparatives.org/) - Testes de proteção antivírus
 - [VirusTotal.com](https://www.virustotal.com/) - serviço da Web que verifica arquivos e URLs com vários mecanismos antivírus
 - [Guia do r/techsupport sobre remoção de malware](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Tópico do Reddit
+- [Guia de segurança do MediaSavvy em PT-BR](https://mediasavvy-pages-dev.translate.goog/Wiki/Security?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)
 
 ## ► Gerenciadores de mídia
 
@@ -157,19 +164,19 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 
 - [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 
-* [JDownloader2](https://jdownloader.org/jdownloader2) - Gerenciador de download que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites.
+* [JDownloader2](http://jdownloader.org/jdownloader2) - Gerenciador de download que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites.
 * [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente reinicie a avaliação [com isto](https://github.com/J2TEAM/idm-trial-reset). Alternativa [método aqui](https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/).
 * [Gerenciador de downloads XTREME](https://subhra74.github.io/xdm/) - Outro gerenciador de downloads muito bom
 * [pyLoad](https://pyload.net/) - Gerenciador de downloads leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
 * [aria2](https://aria2.github.io/) - Utilitário de download baseado em linha de comando.
-* [AntDM](https://antdownloadmanager.com/) - Software semelhante ao IDM, não suporta seeds e links magnéticos. 
 
 ## ► Outras ferramentas de download
 
 - [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto de vários sites e muito mais.
+- [Pago] [Tubedigger](https://www.tubedigger.com/) - Baixa vídeos da hotmart em alguns casos apenas.
 
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://reddit.com/r/piracy/wiki/faq) para saber como instalar e usar corretamente.
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente. Para o melhor resultado, utilize a URL do iframe do vídeo em vez da URL da barra de navegação.
 
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6
 
@@ -249,16 +256,16 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 ## ► Diversos
 
 - [subscene.com](https://subscene.com/) - Legendas multilíngues para filmes/séries
-- [addic7ed.com](https://www.addic7ed.com/) - Legendas multilíngues para filmes/séries
+- [addic7ed.com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries
 
 ## ► Sites de rastreamento de cena / P2P
 
 Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritamente como quadros de avisos e não oferecem downloads de nenhum conteúdo postado.
 
-- [predb.org](https://predb.org/) - Rastreador de cena
+- [predb.org](http://predb.org/) - Rastreador de cena
 - [predb.me](https://predb.me/) - Rastreador de cena
 - [predb.ovh](https://predb.ovh/) - Rastreador de cenas. Operadores de pesquisa muito úteis para filtrar resultados. Release group: `@team group_name` para saber se um determinado grupo é Scene ou não; categoria: `@cat games`, `@cat tv`, `@cat tv-HD`, `@cat tv-HD-x264`
-- [pre.c-burns.co.uk/pre.php](https://pre.c-burns.co.uk/pre.php) - Rastreador de cena
+- [pre.c-burns.co.uk/pre.php](http://pre.c-burns.co.uk/pre.php) - Rastreador de cena
 - [xrel.to/releases.html](https://www.xrel.to/releases.html) - Rastreador de cena
 - **[P2P]** [pre.c-burns.co.uk/p2ptrace.php](http://pre.c-burns.co.uk/p2ptrace.php) - Rastreador para versões P2P
 - **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para versões P2P
@@ -289,6 +296,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 ### ► **Ferramentas Diversas**
 
+- [Legen](https://github.com/matheusbach/legen) - Usa IA para transcrever localmente a fala de arquivos de mídia, gerando arquivos de legenda, traduzindo as legendas geradas, inserindo-as no contêiner mp4 e gravando-as diretamente em vídeo. Mais melhorias ainda estão por vir.
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
 - [Open Cloud Saves](https://opencloudsaves.com/) - Open Cloud Save é um aplicativo gratuito que permitirá sincronizar seus dados salvos em todos os seus dispositivos. Roda em Windows, MacOS e Linux.
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.

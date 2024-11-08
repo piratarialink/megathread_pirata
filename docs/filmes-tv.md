@@ -8,7 +8,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 :::
 
 :::danger ⚠️ Aviso
-- ✔️ Todos os links foram analisados ​​e aprovados por contribuidores voluntários, prossiga com cautela.
+- ✔️ Todos os links foram analisados ​​e aprovados por contribuidores voluntários, mas prossiga com cautela.
 - 🌟 = Altamente recomendado pela comunidade pirata.
 :::
 
@@ -18,11 +18,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cwa6a2e.xn--p1ai/)
-
-### ▶️ [Braflix](https://www.braflix.gd)
-
-- O banco de dados de filmes constantemente atualizado é o refúgio perfeito para todos os cinéfilos apaixonados.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/braflix.video/)
 
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
 
@@ -34,7 +29,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [Vizer](https://vizer.tv/) / [2](https://novizer.com/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/vizer.tv/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/novizer.com/)
 
 ### ▶️ [Topflix](https://topflix.tv/) / [2](https://topflixtv.me/)
 
@@ -49,7 +44,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Contém um acervo incrível de obras antigas, principalmente se tratando de conteúdo nacional. Além disso, o site disponibiliza diversos servidores para download, contendo também vários formatos e dublagens incluso.
 - [Resultados de segurança da URL](https://www.urlvoid.com/pscan/memoriadatv.com/)
 
-### ▶️ [Megaflix App](https://megaflixapp.top/)
+### ▶️ [Megaflix App](http://megaflixapp.top/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megaflixapp.top/)
 
@@ -64,11 +59,6 @@ Contém Filmes e Séries Atualizados Dublados e Legendados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
 
 ## ▶️ Legendados
-
-### 🌟 [Binged](https://binged.in/) / [2](https://binged.live/) / [3](https://binge.lol/)
-
-- Uma infinidade de filmes e séries de televisão gratuitamente com todos os lançamentos mais recentes.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/binged.in/)
 
 ### 🌟 [Freek.to](https://freek.to/)
 
@@ -132,11 +122,15 @@ Contém Filmes e Séries Atualizados Dublados e Legendados.
 - Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/reidoscanais.app/)
   
-### 📺️ [TV0800](https://tv0800.com/)
+### 📺️ [TV0800](https://tv0800.pro/)
 
 - Oferece Canais ao vivo.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.pro/)
 
+### 📺️ [Embehub](https://embehub.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/embehub.com/)
+  
 ### 📺️ [CXTV](https://www.cxtv.com.br/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cxtv.com.br/)
