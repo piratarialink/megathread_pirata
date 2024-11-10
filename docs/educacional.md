@@ -7,7 +7,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 - 🌟 = Altamente recomendado pela comunidade pirata.
 :::
 
-## 📑 ➜ Streaming
+## 📑 ➜ E-learning
 
 ### 🌟 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode assistir aos cursos pelo Telegram
 
@@ -137,6 +137,14 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Backup do canal do Polemic.
 
+### 🔗 [Meu Pato Clone](https://t.me/+UuFl_e1X01VkODMx)
+
+- Clone do canal Meu Pato
+
+### 🔗 [Hydra Cursos Clone](https://t.me/+J_e3iO0gjPUwZjcx)
+
+- Coletânea do antigo grupo Hydra
+
 ### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 
 - Videoaulas zipadas e em streaming para você assistir sem sair do Telegram.
@@ -159,7 +167,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🔗 [NOSSO CONCURSO](https://t.me/NOSSOCONCURSO)
 
-- Aqui você encontrará questões de provas e exercícios de concursos públicos e provas em geral.
+- Aqui você encontrará questões de provas e exercícios de concursos públicos e exames em geral.
 
 ### 🔗 [Árvore do Conhecimento - Canal](https://t.me/arveduconhecimentu)
 

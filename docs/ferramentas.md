@@ -65,6 +65,10 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Bypass paywalls - Método 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o agente do usuário para o Google Bot.
 - [Google-Unlocked](https://github.com/Ibit-to/google-unlocked) - Extensão de navegador de código aberto, que desbloqueia resultados de pesquisa ocultos do Google.
 
+## ► **Motores de busca**
+
+- [Yandex](https://yandex.com/) - Não esconde resultados de navegação por DRM.
+
 ## ► **Burladores de paywall**
 
 - [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
@@ -84,7 +88,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adiciona botão ao lado de URLs encurtados que resolve o URL para sua localização verdadeira
 - [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Permite a cópia de texto de sites que tentam impedir a cópia
 - [absolute-enable-right-click-and-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) - Permite clicar com o botão direito e copiar em sites que tentam evitar clicar com o botão direito
-- [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Permite que você selecionar/realçar links em vez do comportamento padrão de arrastar
+- [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Permite selecionar/realçar links em vez do comportamento padrão de arrastá-los
 - [Botão Sci-hub](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adiciona um botão sci-hub a inúmeros sites de artigos acadêmicos/acadêmicos para desbloquear o artigo que está sendo visualizado.
 - [AdsBypasser](https://adsbypasser.github.io/) - Ignore anúncios de contagem regressiva ou continue páginas e evite janelas pop-up de anúncios.
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Evite a instalação de download de aplicativos indesejados com software legítimo (por exemplo, McAfee com Adobe Flash)
@@ -104,6 +108,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 ## ► Bots do Telegram
 
 - [Leak - OSINT](https://t.me/anotherLeakOSINTrobotbot?start=DXQ0pV2) - Coleta vazamento de dados por nome, telefone ou IP.
+- [Image reverse search](https://t.me/reverse_image_search_bot) - Ferramenta de busca reversa de imagens.
 
 ## ► Clientes Torrent
 
@@ -145,6 +150,7 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 - [av-comparatives.org](https://www.av-comparatives.org/) - Testes de proteção antivírus
 - [VirusTotal.com](https://www.virustotal.com/) - serviço da Web que verifica arquivos e URLs com vários mecanismos antivírus
 - [Guia do r/techsupport sobre remoção de malware](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Tópico do Reddit
+- [Guia de segurança do MediaSavvy em PT-BR](https://mediasavvy-pages-dev.translate.goog/Wiki/Security?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)
 
 ## ► Gerenciadores de mídia
 
@@ -172,8 +178,9 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 
 - [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto de vários sites e muito mais.
+- [Pago] [Tubedigger](https://www.tubedigger.com/) - Baixa vídeos da hotmart em alguns casos apenas.
 
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://reddit.com/r/piracy/wiki/faq) para saber como instalar e usar corretamente.
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente. Para o melhor resultado, utilize a URL do iframe do vídeo em vez da URL da barra de navegação.
 
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6
 
@@ -293,6 +300,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 ### ► **Ferramentas Diversas**
 
+- [Legen](https://github.com/matheusbach/legen) - Usa IA para transcrever localmente a fala de arquivos de mídia, gerando arquivos de legenda, traduzindo as legendas geradas, inserindo-as no contêiner mp4 e gravando-as diretamente em vídeo. Mais melhorias ainda estão por vir.
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
 - [Open Cloud Saves](https://opencloudsaves.com/) - Open Cloud Save é um aplicativo gratuito que permitirá sincronizar seus dados salvos em todos os seus dispositivos. Roda em Windows, MacOS e Linux.
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
