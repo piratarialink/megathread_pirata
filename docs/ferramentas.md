@@ -105,10 +105,11 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Unblock Ninja!](https://unblockninja.com/)
 - [TorrentBay](https://torrentbay.to/)
 
-## ► Bots do Telegram
+## ► Telegram
 
-- [Leak - OSINT](https://t.me/anotherLeakOSINTrobotbot?start=DXQ0pV2) - Coleta vazamento de dados por nome, telefone ou IP.
-- [Image reverse search](https://t.me/reverse_image_search_bot) - Ferramenta de busca reversa de imagens.
+- [Leak - OSINT](https://t.me/anotherLeakOSINTrobotbot?start=DXQ0pV2) - Bot que coleta vazamento de dados por nome, telefone ou IP.
+- [Image reverse search](https://t.me/reverse_image_search_bot) - Bot de busca reversa de imagens.
+- **[Pago]**[Notz - SMS](https://t.me/NotzSMSBot?start=1310302765) - Número de telefone temporário para receber sms. 
 
 ## ► Clientes Torrent
 
@@ -178,7 +179,7 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 
 - [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto de vários sites e muito mais.
-- [Pago] [Tubedigger](https://www.tubedigger.com/) - Baixa vídeos da hotmart em alguns casos apenas.
+- **[Pago]** [Tubedigger](https://www.tubedigger.com/) - Baixa vídeos da hotmart em alguns casos apenas.
 
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente. Para o melhor resultado, utilize a URL do iframe do vídeo em vez da URL da barra de navegação.
 
