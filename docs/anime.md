@@ -4,15 +4,15 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 
 ---
 
-> **💡 Dica importante:**
->
-> Para uma navegação mais segura, use o navegador [Firefox](https://mozilla.org/firefox/new/) com o bloqueador [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/), utilizando [essas configurações otimizadas](https://take-me-to.space/UShoGZ7.png). Isso **bloqueia anúncios e malware** tanto no celular quanto no computador.
+:::info 💡 Dica importante:
+- Para uma navegação mais segura, use o navegador [Firefox](https://mozilla.org/firefox/new/) com o bloqueador [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/), utilizando [essas configurações otimizadas](https://take-me-to.space/UShoGZ7.png). Isso **bloqueia anúncios e malware** tanto no celular quanto no computador.
+:::
 
-## ⚠️ Aviso de Segurança
-
-- **Todos os links foram verificados e aprovados pelos moderadores**, mas é importante sempre tomar cuidado ao acessar.
-- Se algum site não carregar, **mude o DNS** para uma das [opções recomendadas](https://www.privacyguides.org/en/dns/).
-- 🌟 Sites marcados com este símbolo são altamente recomendados pela comunidade.
+:::danger ⚠️ Aviso
+- ✔️ Todos os links foram analisados e aprovados por contribuidores voluntários, prossiga com cautela.
+- 🚨 Caso algum site não carregue, mude o seu DNS para uma dessas [ótimas opções](https://www.privacyguides.org/en/dns/).
+- 🌟 = Altamente recomendado pela comunidade pirata.
+:::
 
 ## 📑 1 ➜ Streaming
 
@@ -48,9 +48,11 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 - **Ótima qualidade** para lançamentos recentes, com legendas em PT-BR nos animes populares.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/kickassanime.am/)
 
-### 🌟 [Gogotaku](https://gogotaku.info/)
-- Anime de alta qualidade e confiável.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/gogotaku.info/)
+### 🌟 [Gogoanime](https://gogotaku.info/)
+
+- Acompanhe, encontre, compartilhe e veja anime de alta qualidade. Se procura um serviço confiável e seguro, já o encontrou.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gogotaku.info/)
+
 
 ## 📑 2 ➜ Downloads Diretos
 
