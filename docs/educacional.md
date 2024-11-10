@@ -7,7 +7,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 - 🌟 = Altamente recomendado pela comunidade pirata.
 :::
 
-## 📑 ➜ Streaming
+## 📑 ➜ E-learning
 
 ### 🌟 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode assistir aos cursos pelo Telegram
 
