@@ -65,6 +65,10 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Bypass paywalls - Método 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o agente do usuário para o Google Bot.
 - [Google-Unlocked](https://github.com/Ibit-to/google-unlocked) - Extensão de navegador de código aberto, que desbloqueia resultados de pesquisa ocultos do Google.
 
+## ► **Motores de busca**
+
+- [Yandex](https://yandex.com/) - Não esconde resultados de navegação por DRM.
+
 ## ► **Burladores de paywall**
 
 - [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
