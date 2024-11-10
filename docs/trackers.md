@@ -5,7 +5,7 @@ Trackers são servidores que requerem interação com um cliente de torrent, com
 Trackers podem ser públicos ou privados. Trackers públicos não demandam cadastro de usuários, podendo ser acessados por qualquer pessoa, enquanto trackers privados necessitam de cadastro para acesso. Trackers privados geralmente oferecem maior privacidade aos usuáruos e costumam ter uma retenção maior para os arquivos compartilhados, porém nem sempre é fácil conseguir acesso a eles. As principais formas de ingreso são: convite de usuários; entrevista; aplicação; recrutamento oficial em outros trackers privados, e quando abrem o site para novos usuários por tempo limitado.
 
 :::info ⚠️ Lembrete rápido
-Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisado quando novos Trackers abrirem cadastros.
+Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisado quando novos Trackers abrirem cadastros. Verifique também mais sobre convites de trackers no [r/OpenSignups](https://www.reddit.com/r/OpenSignups/) e evite trackers amplamente prejudiciais para a [comunidade](https://www.reddit.com/r/OpenSignups/wiki/index/no-movement-list/).
 :::
 
 ## 📑 ➜ Trackers Brasileiros
@@ -100,14 +100,14 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 ### 🧲 Cinematik | TIK 
 - Não há recrutamento no momento.
 
-### 🧲 [DigitalCore](https://digitalcore.club/signup/) 
-- Está de portas abertas, de longe um dos trackers mais fáceis para aprender a usar apesar de pecar na falta de conteúdo de ponta.
+### 🧲 [DigitalCore](https://digitalcore.club/signup/) | DC
+- Vagas abertas, de longe um dos trackers mais fáceis para aprender a usar apesar de pecar na falta de conteúdo de ponta.
 
 ### 🧲 [GazelleGames](https://gazellegames.net) | GGn 
 - Focado em games
 - Pode ser acessado por meio do OPS ou RED. Ambos exigem PU e conta com 3 meses. 
 
-### 🧲 [HD-Torrents](https://hd-torrents.org/register.php)) | HDT | €35
+### 🧲 [HD-Torrents](https://hd-torrents.org/register.php) | HDT | €35
 - Focado em filmes e séries.
 - Há opção de pagar para obter convite.
 
@@ -134,7 +134,7 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 - Focado em séries de TV.
 - Pode ser acessado por meio do MAM. O único requisito é ser PU.
 
-### 🧲 [Orpheus](https://orpheus.network) | OPS | [Entrevista](https://interviewfor.red)
+### 🧲 [Orpheus](https://orpheus.network) | OPS | [Entrevista](https://interview.orpheus.network/)
 - Focado em músicas.
 - Caso você não queira fazer a entrevista, devido ao longo tempo de espera ou por qualquer outro motivo, a OPS também pode ser acessada por meio do MAM, pois este último tem um processo muito mais rápido e fácil. O único requisito é ser PU.
 
@@ -143,16 +143,13 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 - Um dos mais desejados e difíceis de se juntar.
 - Pode ser acessado por meio do RED.
 
-### 🧲 [Redacted](https://interviewfor.red/en/index.html) | RED | [Entrevista](https://interview.orpheus.network/)
+### 🧲 [Redacted](https://interviewfor.red/en/index.html) | RED | [Entrevista](https://interviewfor.red)
 - Focado em músicas.
 - Fórum de recrutamento oficial para a maioria dos trackers privados gringos.
   
 ### 🧲 [Secret Cinema](https://secret-cinema.pw) | SC  
 - Focado em filmes cult
 - Pode ser acessado por meio do MAM. VIP + 50 GB de upload + conta com 6 meses.
-
-### 🧲 [TheGeeks](https://thegeeks.click/signup.php) | TGBZ
-- Vagas abertas.
 
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
 - Tracker generalista.
@@ -165,13 +162,13 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 ### 🧲 [Tracker2.Postman](http://tracker2.postman.i2p) 
 - Tracker público na rede I2P.
 
-### 🧲 [Linuxtracker](linuxtracker.org) 
+### 🧲 [Linuxtracker](https://linuxtracker.org/) 
 - Focado em ISOs Linux.
 
-### 🧲 [Extremlymtorrents](extremlymtorrents.ws) 
+### 🧲 [Extremlymtorrents](https://extremlymtorrents.ws/) 
 -  Tracker generalista semi-privado romeno.
 
-### 🧲 [Sktorrent](sktorrent.org) 
+### 🧲 [Sktorrent](https://sktorrent.org/) 
 -  Tracker semi-privado focado em games.
 
 ➜ [Veja a lista completa de trackers gringos aqui](https://www.invitehawk.com/trackerlist)
