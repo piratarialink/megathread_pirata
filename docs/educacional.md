@@ -17,6 +17,8 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[primecursos](https://www.primecursos.com.br/)** - Cursos
 
+### ▶️ **[cursa](https://cursa.app/pt)** - Cursos
+
 ### ▶️ **[integra univesp](https://apps.univesp.br/integra/)** - Cursos
 
 ### ▶️ **[canaldoensino](https://canaldoensino.com.br/blog/)** - Cursos
