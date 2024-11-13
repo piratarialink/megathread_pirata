@@ -18,22 +18,13 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - Oferece Canais ao vivo com alta qualidade sem anúncios.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/embehub.com/)
 
-### 📺️ [Multicanais](https://multicanais.nexus/)
+### 📺️ [Multicanais](https://multicanais.legal/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.nexus/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
 
 ### 📺️ [Fútbol Libre TV](https://librefutbol.su/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/librefutbol.su/)
-
-### 📺️ [TV0800](https://tv0800.com/)
-
-- Oferece Canais ao vivo
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.com/)
-
-### 📺️ [sportsbay.sx](https://sportsbay.sx/) - Canais esportivos e não esportivos
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sportsbay.sx/)
 
 ### 📺️ [CXTV](https://www.cxtv.com.br/)
 
@@ -52,22 +43,13 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - Oferece Canais de Esportes ao vivo com alta qualidade sem anúncios.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/embehub.com/)
 
-### 📺️ [TV0800](https://tv0800.com/)
-
-- Oferece Canais ao vivo
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.com/)
-
 ### 📺️ [MegaCanais](https://megacanais.com/ao-vivo/esportes-ao-vivo_/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megacanais.com/)
 
-### 📺️ [Futemax](https://futemax.app/)
+### 📺️ [Futemax](https://futemax.la/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.app/)
-
-### 📺️ [Sportsbay.run](https://www.sportsbay.run)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sportsbay.run/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.la/)
 
 ### 📺️ [f1carreras.net](https://f1carreras.net/) - Necessário Cadastrar-se
 
@@ -93,10 +75,6 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 📺️ [sporthd.live](https://sporthd.live/)
 
 - Transmissões ao vivo. Futebol, MMA, handebol, basquete, rúgbi, futebol, tênis e outros
-
-### 📺️ [sportsbay.sx](https://sportsbay.sx/)
-
-- Transmissões ao vivo. Futebol, futebol, basquete, hóquei, beisebol, NCAA, tênis, críquete, esportes motorizados
 
 ### 📺️ [worldcupfootball.me](http://www.worldcupfootball.me/)
 
