@@ -17,6 +17,8 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[primecursos](https://www.primecursos.com.br/)** - Cursos
 
+### ▶️ **[cursa](https://cursa.app/pt)** - Cursos
+
 ### ▶️ **[integra univesp](https://apps.univesp.br/integra/)** - Cursos
 
 ### ▶️ **[canaldoensino](https://canaldoensino.com.br/blog/)** - Cursos
@@ -156,10 +158,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### 🔗 [Brasil Cursos📚](https://t.me/Cursos_Filmes_Livros)
 
 - Materiais para concursos, estudos e livros.
-
-### 🛠 [Clonechat](https://github.com/apenasrr/clonechat/blob/main/README_ptbr.md)
-
-- Clona todas as postagens de um Canal/Grupo do telegram para um outro Canal/Grupo. 
 
 ### 🔗 [Extreme Cursos](https://t.me/Extreme_CursosGratis)
 
