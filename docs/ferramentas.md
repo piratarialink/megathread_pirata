@@ -109,7 +109,8 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 - [Leak - OSINT](https://t.me/anotherLeakOSINTrobotbot?start=DXQ0pV2) - Bot que coleta vazamento de dados por nome, telefone ou IP.
 - [Image reverse search](https://t.me/reverse_image_search_bot) - Bot de busca reversa de imagens.
-- **[Pago]**[Notz - SMS](https://t.me/NotzSMSBot?start=1310302765) - Número de telefone temporário para receber sms. 
+- **[Pago]** [Notz - SMS](https://t.me/NotzSMSBot?start=1310302765) - Número de telefone temporário para receber sms.
+- [Clonechat](https://github.com/apenasrr/clonechat/blob/main/README_ptbr.md) - Clona todas as postagens de um Canal/Grupo do telegram para um outro Canal/Grupo. 
 
 ## ► Clientes Torrent
 
