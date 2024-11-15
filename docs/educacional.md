@@ -133,7 +133,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🧲 [Pimp My Money](https://pimpmymoney.net/) - Cursos de Marketing Digital
 
-## 📑 ➜ Grupos/Canais/Ferramentas no Telegram
+## 📑 ➜ Grupos/Canais/Bots no Telegram
 
 ### 🔗 [Polemic Knowledge Clone](https://t.me/+-eUQNwLw9G5mNDUx)
 
