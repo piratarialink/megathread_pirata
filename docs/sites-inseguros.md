@@ -20,6 +20,7 @@
 
 | 📋 **NOME**     | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                                              |
 | :-------------- | :-------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| 💩 4shared  | 4shared-com            | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_).   
 | 💩 1377x        | 1377x-to                    | **Clone falso**: (_Elaborado com a intenção de enganar usuários desavisados por meio de engano proposital_). |
 | KickassTorrents | kickasstorrents-to          | **Clone falso**: (_Elaborado com a intenção de enganar usuários desavisados por meio de engano proposital_). |
 | The Pirate Bay  | thepiratebay-org            | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_).                |
