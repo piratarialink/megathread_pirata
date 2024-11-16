@@ -17,6 +17,8 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[primecursos](https://www.primecursos.com.br/)** - Cursos
 
+### ▶️ **[cursa](https://cursa.app/pt)** - Cursos
+
 ### ▶️ **[integra univesp](https://apps.univesp.br/integra/)** - Cursos
 
 ### ▶️ **[canaldoensino](https://canaldoensino.com.br/blog/)** - Cursos
@@ -133,11 +135,19 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🧲 [Pimp My Money](https://pimpmymoney.net/) - Cursos de Marketing Digital
 
-## 📑 ➜ Grupos/Canais/Ferramentas no Telegram
+## 📑 ➜ Grupos/Canais/Bots no Telegram
 
 ### 🔗 [Polemic Knowledge Clone](https://t.me/+-eUQNwLw9G5mNDUx)
 
 - Backup do canal do Polemic.
+
+### 🔗 [Meu Pato Clone](https://t.me/+UuFl_e1X01VkODMx)
+
+- Clone do canal Meu Pato
+
+### 🔗 [Hydra Cursos Clone](https://t.me/+J_e3iO0gjPUwZjcx)
+
+- Coletânea do antigo grupo Hydra
 
 ### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 
@@ -151,17 +161,13 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Materiais para concursos, estudos e livros.
 
-### 🛠 [Clonechat](https://github.com/apenasrr/clonechat/blob/main/README_ptbr.md)
-
-- Clona todas as postagens de um Canal/Grupo do telegram para um outro Canal/Grupo. 
-
 ### 🔗 [Extreme Cursos](https://t.me/Extreme_CursosGratis)
 
 -  Conteúdo diverso.
 
 ### 🔗 [NOSSO CONCURSO](https://t.me/NOSSOCONCURSO)
 
-- Aqui você encontrará questões de provas e exercícios de concursos públicos e provas em geral.
+- Aqui você encontrará questões de provas e exercícios de concursos públicos e exames em geral.
 
 ### 🔗 [Árvore do Conhecimento - Canal](https://t.me/arveduconhecimentu)
 

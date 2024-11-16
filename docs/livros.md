@@ -22,10 +22,10 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixelivros.com.br/)
 
-### 🔗 [Docero](https://docero.com.br/)
+### 🔗 [Doceru](https://doceru.com/)
 
-- Apenas livros que não violam os direitos autorais estão disponível para download!
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/docero.com.br/)
+- Após apertar F12, na aba console, aperte "Ctrl+F" e procure por getpdf, encontrará isso: `https://stream.doceru.com/getpdf/...` só copiar e colar em outra aba.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doceru.com/)
 
 ### 🔗 [eBooks e Textos](https://archive.org/details/texts?sort=-publicdate&and[]=language%3A"Portuguese")
 

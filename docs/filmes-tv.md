@@ -27,7 +27,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megaflix.co/)
 
-### ▶️ [Vizer](https://vizer.tv/) / [2](https://novizer.com/)
+### ▶️ [Vizer](https://novizer.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/novizer.com/)
 
@@ -102,6 +102,10 @@ Contém Filmes e Séries Atualizados Dublados e Legendados.
  
 ## 📺️ TV
 
+### 🌟 [EmbeHub](https://embehub.com/)
+- Oferece Canais ao vivo com alta qualidade sem anúncios.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/embehub.com/)
+
 ### 🌟 [Rede Canais TV](https://xn--90afacaz8cml9ac9f.xn--p1ai/)
 
 - Oferece Canais ao vivo com alta qualidade
@@ -142,6 +146,10 @@ Contém Filmes e Séries Atualizados Dublados e Legendados.
 ### 📺️ [MegaCanais](https://megacanais.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megacanais.com/)
+
+### 📺️ [Askflix](https://www.askflix.me/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/askflix.me/)
 
 ### 📺️ [Pluto TV](https://pluto.tv/)
 

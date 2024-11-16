@@ -14,27 +14,27 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
 
-### 📺️ [Multicanais](https://multicanais.nexus/)
+### 📺️ [Multicanais](https://multicanais.legal/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.nexus/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
 
 ### 📺️ [Fútbol Libre TV](https://librefutbol.su/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/librefutbol.su/)
 
-### 📺️ [TV0800](https://tv0800.com/)
+### 🌟 [EmbeHub](https://embehub.com/)
 
-- Oferece Canais ao vivo
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.com/)
+- Oferece Canais ao vivo com alta qualidade sem anúncios.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/embehub.com/)
 
-### 📺️ [sportsbay.sx](https://sportsbay.sx/) - Canais esportivos e não esportivos
+### 📺️ [Fútbol Libre TV](https://librefutbol.su/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sportsbay.sx/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/librefutbol.su/)
 
 ### 📺️ [CXTV](https://www.cxtv.com.br/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cxtv.com.br/)
-
+  
 ### 🔗 [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) - Agregação de IPTV em massa
 
 ## ► Esportes
@@ -53,13 +53,9 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megacanais.com/)
 
-### 📺️ [Futemax](https://futemax.app/)
+### 📺️ [Futemax](https://futemax.la/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.app/)
-
-### 📺️ [Sportsbay.run](https://www.sportsbay.run)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sportsbay.run/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.la/)
 
 ### 📺️ [f1carreras.net](https://f1carreras.net/) - Necessário Cadastrar-se
 
@@ -77,7 +73,8 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 📺️ [Rivestream](https://rivestream.live/livesports)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/rivestream.live/)
-
+- Transmissões ao vivo. Futebol, basquete e tênis.
+  
 ### 📺️ [sportsurge.net](https://sportsurge.net/)
 
 - Transmissões ao vivo. MMA, boxe, automobilismo, basquete, futebol, hóquei

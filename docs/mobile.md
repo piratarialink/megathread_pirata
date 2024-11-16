@@ -149,7 +149,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 ### 🔗 [A2ZAPK](https://a2zapk.io/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/a2zapk.io/)
-  
+
 ### 🔗 [AN1](https://an1.com/)
 
 - Versões mais recentes de jogos e apps Android, garantindo desempenho ideal.

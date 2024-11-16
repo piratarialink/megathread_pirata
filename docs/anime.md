@@ -4,14 +4,15 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 
 ---
 
-> **💡 Dica importante:**
->
-> Para uma navegação mais segura, use o navegador [Firefox](https://mozilla.org/firefox/new/) com o bloqueador [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/), utilizando [essas configurações otimizadas](https://take-me-to.space/UShoGZ7.png). Isso **bloqueia anúncios e malware** tanto no celular quanto no computador.
+:::info 💡 Dica importante:
+- Para uma navegação mais segura, use o navegador [Firefox](https://mozilla.org/firefox/new/) com o bloqueador [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/), utilizando [essas configurações otimizadas](https://take-me-to.space/UShoGZ7.png). Isso **bloqueia anúncios e malware** tanto no celular quanto no computador.
+:::
 
+:::danger ⚠️ Aviso
 - ✔️ Todos os links foram analisados e aprovados por contribuidores voluntários, prossiga com cautela.
 - 🚨 Caso algum site não carregue, mude o seu DNS para uma dessas [ótimas opções](https://www.privacyguides.org/en/dns/).
 - 🌟 = Altamente recomendado pela comunidade pirata.
-  :::
+:::
 
 ## 📑 1 ➜ Streaming
 
