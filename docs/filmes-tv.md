@@ -123,6 +123,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megacanais.com/)
 
+### 📺️ [Askflix](https://www.askflix.me/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/askflix.me/)
+
 ### 📺️ [Pluto TV](https://pluto.tv/)
 
 - Serviço gratuito de Streaming de televisão da Paramount.
