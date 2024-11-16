@@ -114,7 +114,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► Clientes Torrent
 
-Notas: uTorrent [empacotou um minerador de bitcoin opcional e não malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880) . A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner /page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.
+Notas: uTorrent [empacotou um minerador de bitcoin opcional e não malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880) . A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.
 
 Cliente Bitlord torrent [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
 
@@ -171,7 +171,7 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 - [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 
 * [JDownloader2](http://jdownloader.org/jdownloader2) - Gerenciador de download que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites.
-* [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente reinicie a avaliação [com isto](https://github.com/J2TEAM/idm-trial-reset). Alternativa [método aqui](https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/).
+* [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente reinicie a avaliação [com isto](https://github.com/J2TEAM/idm-trial-reset). Alternativas: [1](https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/), [2](https://rentry.co/coletanea-pirata#internetdownloadmanager:~:text=Internet%20Download%20Manager).
 * [Gerenciador de downloads XTREME](https://subhra74.github.io/xdm/) - Outro gerenciador de downloads muito bom
 * [pyLoad](https://pyload.net/) - Gerenciador de downloads leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
 * [aria2](https://aria2.github.io/) - Utilitário de download baseado em linha de comando.
