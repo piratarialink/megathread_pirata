@@ -4,7 +4,7 @@ layout: home
 # Hero section
 hero:
   name: Megathread
-  text: Pirata
+  text: Bem-vindo a Megathread do c/Pirataria
   image:
     src: /logo.svg
   tagline: Bem-vindo a Megathread Pirata
