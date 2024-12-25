@@ -30,10 +30,8 @@ features:
     title: Comunidade no Matrix
     details: O Matrix é uma plataforma de rede social de comunicação por chat descentralizada. Estilo Telegram e WhatsApp.
     link: "https://matrix.to/#/#deck_pirata:matrix.org"
-  - icon:
-      dark: /lemmy-logo.svg
-      light: /lemmy-logo.svg
-    title: Comunidade no Lemmy
-    details: O Lemmy é uma plataforma de rede social descentralizada, inspirada no Reddit, que faz parte do ecossistema do Fediverso.
-    link: "https://lemmy.dbzer0.com/c/pirataria"
+  - icon: ⭐
+    title: Grupo do Telegram
+    details: No nosso grupo do telegram temos mais de 2 mil pessoas trocando informações e dicas.
+    link: "https://t.me/+sJQOt4p729xhYTBh"
 ---
