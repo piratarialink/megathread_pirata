@@ -1,4 +1,4 @@
-# Guia do Orchestralblend
+ 🪶 ➜ Guia do Orchestralblend
 
 ## Windows
 

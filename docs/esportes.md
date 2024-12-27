@@ -14,6 +14,11 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
 
+### 🌟 [EmbeHub](https://embehub.com/)
+
+- Oferece Canais ao vivo com alta qualidade sem anúncios.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/embehub.com/)
+
 ### 📺️ [Multicanais](https://multicanais.legal/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
@@ -21,15 +26,6 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 📺️ [TV Online](https://tvonline.fan/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tvonline.fan/)
-
-### 📺️ [Fútbol Libre TV](https://librefutbol.su/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/librefutbol.su/)
-
-### 🌟 [EmbeHub](https://embehub.com/)
-
-- Oferece Canais ao vivo com alta qualidade sem anúncios.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/embehub.com/)
 
 ### 📺️ [Fútbol Libre TV](https://librefutbol.su/)
 

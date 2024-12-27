@@ -84,16 +84,6 @@ Contém Filmes e Séries Atualizados Dublados e Legendados.
 
 - KissAsian é um site de streamings de doramas legendados que funciona desde 2015. Recomendamos o bloqueador de anúncios ativado por conta dos anúncios terceiros no player de vídeo. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kissasian.lu/)
-
-### ▶️ [Overflix](https://overflixtv.app/)
-
-Contém Filmes e Séries Atualizados Dublados e Legendados.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/overflixtv.app/)
-
-### ▶️ [Pobreflix](https://pobreflixtv.cc/)
-
-Contém Filmes e Séries Atualizados Dublados e Legendados.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
  
 ## 📺️ TV
 
@@ -125,10 +115,6 @@ Contém Filmes e Séries Atualizados Dublados e Legendados.
 
 - Oferece Canais ao vivo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.pro/)
-
-### 📺️ [Embehub](https://embehub.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/embehub.com/)
   
 ### 📺️ [CXTV](https://www.cxtv.com.br/)
 
@@ -162,6 +148,7 @@ Contém Filmes e Séries Atualizados Dublados e Legendados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.site/)
 
 ### 🌟 [BluDV](https://bludv.xyz/)
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv.xyz/)
 
 ### 🌟 [Rede Torrent](https://redetorrent.com/)

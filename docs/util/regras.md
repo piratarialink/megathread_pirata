@@ -1,4 +1,4 @@
-# 🪶 ➜ Bem-vindo às **Regras**
+# 🪶 ➜ Bem-vindo às **Regras do r/pirataria**
 
 Aderimos a padrões específicos e defendemos certos regulamentos, como qualquer outra comunidade, para manter a harmonia e a justiça.
 

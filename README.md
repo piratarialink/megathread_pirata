@@ -27,10 +27,6 @@ Nossa comunidade é bem-vinda para contribuir na manutenção e atualização da
 
 Agradecemos a participação de todos na construção e manutenção de nossa megathread.
 
-## Parcerias
-
-Atualmente, o projeto não possui parcerias estabelecidas com outras entidades ou organizações. O projeto é mantido por atualmente 5 (cinco) mantenedores sendo todos voluntários.
-
 ## Recursos usados
 
 A Megathread atualmente roda no [Vitepress](https://vitepress.dev/) com o tema [FMHY](https://github.com/fmhy/FMHYedit). 💖

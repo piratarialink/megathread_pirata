@@ -10,7 +10,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## 📑 ➜ Arquivo de Conhecimento
 
-### 📒 [Wiki Geral de Emulação](https://emulation.gametechwiki.com/index.php/Main_Page)
+### 📒 [Wiki geral de emulação](https://emulation.gametechwiki.com/index.php/Main_Page)
 
 - Lista incrível de emuladores que continuam ativos e atualizados regularmente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/emulation.gametechwiki.com)
@@ -329,6 +329,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Explore uma vasta coleção de ROMs e ISOs para PS1, PS2, PS3, PSP, Wii, 3DS e muito mais!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/blueroms.ws)
 
-## Está Buscando Jogos de Computador?
+## Está buscando Jogos de Computador?
 
 ➜ Confira nosso tópico sobre 🎮 [Jogos](jogos)
