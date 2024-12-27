@@ -30,7 +30,7 @@ export default {
     domain: 'pirataria.link',
     lastUpdatedText: 'Última atualização em',
     logo: "/logo.svg",
-    siteTitle: "Pirataria Megathread - Links, sites e ferramentas",
+    siteTitle: "Pirataria.link",
     // Navbar Link
     nav: [
       { 
