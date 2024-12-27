@@ -3,14 +3,14 @@ import { OramaPlugin } from '@orama/plugin-vitepress';
 export default {
   head: [
     [
-      'link', 
-      { 
+      'link',
+      {
         rel: 'icon', media: '(prefers-color-scheme: light)', href: '/favicon.ico'
       }
     ],
     [
-      'link', 
-      { 
+      'link',
+      {
         rel: 'icon', media: '(prefers-color-scheme: dark)', href: '/favicon-dark.ico'
       }
     ],
@@ -33,9 +33,9 @@ export default {
     siteTitle: "Pirataria.link",
     // Navbar Link
     nav: [
-      { 
-        text: "Guias", 
-        link: "guias" 
+      {
+        text: "Guias",
+        link: "guias"
       },
       {
         text: "Privacidade",
@@ -134,8 +134,8 @@ export default {
     // Mobile Config
     returnToTopLabel: "Voltar para o topo",
     sidebarMenuLabel: "Menu",
-    sitemap: {
-      hostname: 'https://pirataria.link'
-    }
+  },
+  sitemap: {
+    hostname: 'https://pirataria.link'
   },
 };
