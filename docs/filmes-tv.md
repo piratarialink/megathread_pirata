@@ -80,11 +80,6 @@ Contém Filmes e Séries Atualizados Dublados e Legendados.
 - sudo-flix mudou o dominio para "sudo-flix.rip" é um fork do movie-web que permanece ativo mesmo após o encerramento do movie-web.app. sudo-flix.lol é executado em um VPS privado e auto-hospedado. Não há anúncios e contém uma grande variedade de filmes e séries.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sudo-flix.rip/)
 
-### ▶️ [Doramogo](https://doramogo.com/)
-
-- Ótimo site com Doramas legendados em PT-BR
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/doramogo.com/)
-
 ### ▶️ [KissAsian](https://kissasian.lu/) 
 
 - KissAsian é um site de streamings de doramas legendados que funciona desde 2015. Recomendamos o bloqueador de anúncios ativado por conta dos anúncios terceiros no player de vídeo. 
