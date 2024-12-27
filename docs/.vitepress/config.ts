@@ -134,5 +134,8 @@ export default {
     // Mobile Config
     returnToTopLabel: "Voltar para o topo",
     sidebarMenuLabel: "Menu",
+    sitemap: {
+      hostname: 'https://pirataria.link'
+    }
   },
 };
