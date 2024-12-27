@@ -92,10 +92,10 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Pesquisou anonimamente através desta grande coleção em homenagem ao KAT. Os usuários não são rastreados e seus endereços IP são removidos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/idope.se/)
 
-### 🧲 [Knaben Database](https://knaben.eu/)
+### 🧲 [Knaben Database](https://knaben.org/)
 
 - Reino do domínio da web e do Linux por meio da evolução da impressionante ferramenta de indexação de múltiplas pesquisas.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/knaben.eu/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/knaben.org/)
 
 ### 🧲 [LimeTorrents](https://www.limetorrents.lol/)
 
