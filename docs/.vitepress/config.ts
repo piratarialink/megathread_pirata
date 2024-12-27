@@ -20,7 +20,7 @@ export default {
   },
   base: '/',
   lang: "pt-BR",
-  title: "Pirataria",
+  title: "Pirataria Megathread - Links, sites e ferramentas",
   description: "Esta megathread tem como objetivo atuar como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas, etc.",
   ignoreDeadLinks: true,
   cleanUrls: true,
@@ -30,7 +30,7 @@ export default {
     domain: 'pirataria.link',
     lastUpdatedText: 'Última atualização em',
     logo: "/logo.svg",
-    siteTitle: "Pirataria",
+    siteTitle: "Pirataria Megathread - Links, sites e ferramentas",
     // Navbar Link
     nav: [
       { 
