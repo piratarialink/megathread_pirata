@@ -170,11 +170,6 @@ Não possui resultados de segurança da URL por usar proxy.
 
 ## 📑 3 ➜ Diversos
 
-### 🌟 [Ahoy pirata](https://forum.ahoypirata.lat/)
-
-- Fórum de discussões sobre o universo pirata.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.ahoypirata.lat/)
-
 ### 🔗 [Torrentfreak](https://torrentfreak.com/)
 
 - Notícias de pirataria.
