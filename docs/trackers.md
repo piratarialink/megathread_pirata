@@ -151,9 +151,6 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 - Focado em filmes cult
 - Pode ser acessado por meio do MAM. VIP + 50 GB de upload + conta com 6 meses.
 
-### 🧲 [TheGeeks](https://thegeeks.click/signup.php) | TGBZ
-- Vagas abertas.
-
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
 - Tracker generalista.
 - Abrem para novos cadastros anualmente.

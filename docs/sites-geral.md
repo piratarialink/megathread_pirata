@@ -9,11 +9,6 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
   :::
 
 ## 📑 1 ➜ Downloads diretos
-
-### 🔗 [BotoStore](https://botostore.com/)
-
-- Site que coleta especificamente bots do telegram.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/botostore.com/)
     
 ### 🔗 [DirtyWarez](https://forum.dirtywarez.com/) • Cadastre-se
 
