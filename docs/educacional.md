@@ -78,11 +78,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 - Oferecendo cursos e tutoriais gratuitos da Udemy que são simples de seguir. Uma maneira fantástica de desenvolver habilidades é através do auto-estudo.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/udemy24.com/)
 
-### 🔗 [Coletânea pirata](https://rentry.co/coletanea-pirata)
-
-- Indexador de sites de torrent e de pirataria relacionada a formação profissional.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/rentry.co/)
-
 ### 🔗 [FreeCourseSite](https://freecoursesite.com/)
 
 - Downloads gratuitos (_incluindo torrents_) de cursos pagos da Udemy, incluindo programação, marketing e TI.
