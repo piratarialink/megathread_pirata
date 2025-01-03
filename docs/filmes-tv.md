@@ -187,7 +187,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 📺️ TV
 
-### 🌟 [Rede Canais TV](https://xn--90afacaz8cml9ac9f.xn--p1ai/)
+### 🌟 [Rede Canais TV](https://xn--90afacaz8cml9ac9f.xn--p1ai/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/)
 
 - Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
