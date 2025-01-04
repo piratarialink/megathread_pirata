@@ -222,7 +222,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Emulador bom, experimental e de código aberto disponível para todas as plataformas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vita3k.org)
 
-## 📑 ➜ ROMs
+## 📑 ➜ ROMs e ISOs
 
 ### 🌟 [Crocdb](https://crocdb.net)
 
