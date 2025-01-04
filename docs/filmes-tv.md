@@ -112,10 +112,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [Cineby](https://www.cineby.app/)
 - Biblioteca de filmes e programas de TV que fazem deste serviço de streaming uma escolha fantástica.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cineby.app/)
-
-### ▶️ [Cineby](https://www.cineby.app/)
-- Biblioteca de filmes e programas de TV que fazem deste serviço de streaming uma escolha fantástica.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cineby.app/)
  
 ### ▶️ [Cinema Unlocked](https://cinemaunlocked.com/)
 - Transmita filmes, explore uma grande coleção e descubra novas maravilhas.
