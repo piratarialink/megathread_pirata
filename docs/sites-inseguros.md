@@ -3,8 +3,8 @@
 :::warning ⚠️ AVISO ➜ Preste atenção
 
 - ⚠️ É de extrema importância que você evite se aventurar nas profundezas traiçoeiras das URLs e aplicações listadas abaixo.
-- 👎🏻 Esses domínios e softwares ganharam uma reputação notória, manchada por uma infinidade de transgressões graves e imperdoáveis.
-- ⚠️ Como essa página não é atualizada frequentemente peço que vocês também verifiquem as páginas do [r/piracy](https://rentry.co/megathread-unsafe-sites) e [FMHY](https://fmhy.net/unsafesites)
+- 👎🏻 Esses sites e programas têm uma reputação ruim, por causa de muitas ações erradas.
+- ⚠️ Como essa página não é atualizada frequentemente, peço que vocês também verifiquem as páginas do [r/piracy](https://rentry.co/megathread-unsafe-sites) e [FMHY](https://fmhy.net/unsafesites).
 - [💩](https://www.dicio.com.br/merda/) = Particularmente evitado pela comunidade pirata.
   :::
 
@@ -20,66 +20,92 @@
 
 | 📋 **NOME**     | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                                              |
 | :-------------- | :-------------------------- | :----------------------------------------------------------------------------------------------------------- |
-| 💩 4shared  | 4shared-com            | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_).   
-| 💩 1377x        | 1377x-to                    | **Clone falso**: (_Elaborado com a intenção de enganar usuários desavisados por meio de engano proposital_). |
-| KickassTorrents | kickasstorrents-to          | **Clone falso**: (_Elaborado com a intenção de enganar usuários desavisados por meio de engano proposital_). |
-| The Pirate Bay  | thepiratebay-org            | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_).                |
-| 💩 TheRarBg     | therarbg-com/therarbg-to    | **Clone falso**: (_Elaborado com a intenção de enganar usuários desavisados por meio de engano proposital_). |
-| 💩 Baixaki      | baixaki-com-br              | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |      
+| 💩 4shared  | 4shared-com            | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_).   
+| 💩 1377x        | 1377x-to                    |  **Clone falso**: (_Criado para enganar usuários de propósito_). |
+| KickassTorrents | kickasstorrents-to          |  **Clone falso**: (_Criado para enganar usuários de propósito_). |
+| The Pirate Bay  | thepiratebay-org            | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_).                |
+| 💩 TheRarBg     | therarbg-com/therarbg-to    |  **Clone falso**: (_Criado para enganar usuários de propósito_). |
+| 💩 Baixaki      | baixaki-com-br              | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |      
 
 # ⭐ ➜ Anime
 
 | 📋 **NOME** | 🪢 **URL** (_Não clicável_)                                                                                                         | 🚩 **PERIGOSO**                                                                                     |
 | :---------- | :---------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
-| Zoro        | zorox-to / zoro-se / zoroanime-se / zoro-tv-site / zoro-uno / zoroto-online / zoroanime-org / zoroo-net / zoro-com-de / zorotv-city | Clone falso: (criado com a intenção de enganar usuários desavisados por meio de engano proposital). |
+| Zoro        | zorox-to / zoro-se / zoroanime-se / zoro-tv-site / zoro-uno / zoroto-online / zoroanime-org / zoroo-net / zoro-com-de / zorotv-city | **Clone falso**: (_Criado para enganar usuários de propósito_). |
 
 # 📚 ➜ Livros
 
 | 📋 \*_NOME_       | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                                              |
 | :---------------- | :-------------------------- | :----------------------------------------------------------------------------------------------------------- |
-| Z-Library Project | zlibrary-to                 | **Clone falso**: (_Elaborado com a intenção de enganar usuários desavisados por meio de engano proposital_). |
+| Z-Library Project | zlibrary-to                 |  **Clone falso**: (_Criado para enganar usuários de propósito_). |
 
 # 🎮 ➜ Jogos
 
 | 📋 **NOME**      | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                               |
 | :--------------- | :-------------------------- | :-------------------------------------------------------------------------------------------- |
-| AIMHAVEN         | aimhaven-com                | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| ApunKaGames      | apunkagames-com             | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| Crohasit         | crohasit-net                | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| Descarga Game    | descargagame-com            | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| Game3rb          | game3rb-com                 | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| GamesTorrents    | gamestorrents-fm            | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| GOG Unlocked     | gogunlocked-com             | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| 💩 IGGGames      | igg-games-com               | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| NexusGames       | nexus-games-net             | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| nosTeam          | nosteamgames-ro             | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| Ocean of Apks    | oceanofapks-com             | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| Ocean of Games   | oceansofgamess-com          | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| Repack-Games     | repack-games-com            | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| Steam-Repacks    | steam-repacks-com           | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| 💩 STEAMUNLOCKED | steamunlocked-net           | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| Worldofpcgames   | worldof-pcgames-net         | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
+| AIMHAVEN         | aimhaven-com                | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| ApunKaGames      | apunkagames-com             | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| Crohasit         | crohasit-net                | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| Descarga Game    | descargagame-com            | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| Game3rb          | game3rb-com                 | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| GamesTorrents    | gamestorrents-fm            | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| GOG Unlocked     | gogunlocked-com             | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| NexusGames       | nexus-games-net             | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| nosTeam          | nosteamgames-ro             | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| Repack-Games     | repack-games-com            | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| Steam-Repacks    | steam-repacks-com           | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| Worldofpcgames   | worldof-pcgames-net         | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| cracked-games       | cracked-games-com                      | **Vírus**: (_Detectado com malware_).                                                                |
+| Wifi4Games          | wifi4games-com                         | **Vírus**: (_Detectado com malware_).                                                                |
+| 💩 IGG Games / Load Games | igg-games-com / loadgames-com         | **Comportamento antiético**: (_Doxxou o dono de outro site e permitiu anúncios de click hijack_).    |
+| GameFabrique        | gamefabrique-com                       | **Adware**: (_Instaladores com adware e uploads de IGG_).                                            |
+| 💩 SteamUnlocked       | steamunlocked-net                       | **Comportamento antiético**: (_Uploads de IGG e NosTeam, e host de arquivos muito lento_).            |
+| game-repack         | game-repack-com                        | **Fraude**: (_Botões de download falsos e remoção de comentários sobre isso_).                        |
+| CrackedFully        | crackedfully-com                      | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_).                |
+| Sites falsos da FitGirl   | [todos os falsos sites listados no rentry](rentry.co/FakeFitgirlwebsites)         | **Clone falso**: (Criado para enganar usuários de propósito).                                        |
+| OceanOfGames / OceanOfApks       | oceanofgames-com      / oceanofapks-com                  | **Vírus**: (_Detectado com malware em várias ocasiões_).                                             |
+| CrackingPatching    | crackingpatching-com                   | **Vírus**: (_Detectado com malware_).                                                                |
+| xGIROx              | xgirox-com                             | **Vírus**: (_Detectado com malware_).                                                                |
+| BBRepacks           | bbrepacks-com                          | **Vírus**: (_Detectado com malware_).                                                                |
+| Seyter / Qoob       | seyter-com / qoob-com                  | **Vírus**: (_Detectado com malware, tentou mudar de nome_).                                          |
 
 # 🎦 ➜ Filmes e TV
 
 | 📋 **NOME** | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                                              |
 | :---------- | :-------------------------- | :----------------------------------------------------------------------------------------------------------- |
-| YTS         | yts-mx                      | **Clone falso**: (_Elaborado com a intenção de enganar usuários desavisados por meio de engano proposital_). |
+| YTS         | yts-mx                      |  **Clone falso**: (_Criado para enganar usuários de propósito_). |
 
 # ⚙️ ➜ Software
 
 | 📋 **NOME**    | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                               |
 | :------------- | :-------------------------- | :-------------------------------------------------------------------------------------------- |
-| CrackedFully   | crackedfully-com            | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| 💩 FTUApps     | ftuapps-dev                 | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| 💩 Get Into PC | getintopc-com               | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| HaxPC          | haxpc-net                   | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| Karan PC       | karanpc-com                 | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| KoLomPC        | kolompc-com                 | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| Portable4PC    | portable4pc-com             | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| S0ft4PC        | s0ft4pc-com                 | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| SadeemPC       | sadeempc-com                | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| Sample Drive   | sampledrive-in              | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| VFXdownload    | vfxdownload-com             | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
-| VFXDownloads   | vfxdownloads-net            | **Conduta antiética**: (_Regulamentação terrível e injeção calculada de malware traiçoeiro_). |
+| CrackedFully   | crackedfully-com            | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| HaxPC          | haxpc-net                   | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| KoLomPC        | kolompc-com                 | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| Portable4PC    | portable4pc-com             | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| Sample Drive   | sampledrive-in              | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| VFXdownload    | vfxdownload-com             | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| VFXDownloads   | vfxdownloads-net            | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
 | µTorrent       | utorrent-com                | Por ter sido (sem o consentimento dos usuários) um minerador de criptomoedas no passado, o µtorrent é considerado badware; é melhor usar clientes torrent de código aberto como o qBittorrent ou o deluge. |
+| GetIntoPC / GetIntoMAC | getintopc-com / getintomac-com         | **Vírus**: (_Detectado com malware, responsável por inúmeros casos de malware_).                      |
+| SadeemPC / SadeemAPK   | sadeempc-com / sadeemapk-com           | **Vírus**: (_Detectado com malware em várias ocasiões_).                                             |
+| KaranPC               | karanpc-com                           | **Vírus**: (_Detectado com malware em várias ocasiões_).                                             |
+| AliTPB / AliPak / b4tman | alitpb-com / alipak-com / b4tman-com   | **Vírus**: (_Detectado com malware em várias ocasiões_).                                             |
+| FileCR                | filecr-com                            | **Vírus**: (_Detectado com malware múltiplas vezes_).                                                |
+| FTUApps               | ftuapps-com                           | **Vírus**: (_Detectado com malware_).                                                                |
+| S0ft4PC / Portable4PC  | soft4pc-com / portable4pc-com          | **Vírus**: (_Detectado com malware_).                                                                |
+| CrackingCity          | crackingcity-com                      | **Vírus**: (_Detectado com malware_).                                                                |
+| CracksHash            | crackshash-com                        | **Vírus**: (_Detectado com malware_).                                                                |
+| haxNode               | haxnode-com                           | **Vírus**: (_Detectado com malware_).                                                                |
+| IGI30                 | igi30-com                             | **Vírus**: (_Detectado com malware_).                                                                |
+| MainRepo / MRepo      | mainrepo-com / mrepo-com              | **Vírus**: (_Detectado com malware_).                                                                |
+| YASDL                 | yasdl-com                             | **Vírus**: (_Versões com malware de stardock / jetbrains_).                                          |
+| AllPCWorld            | allpcworld-com                        | **Vírus**: (_Carregou o KMS Matrix, conhecido malware_).                                             |
+| RSLOAD                | rsload-net                            | **Vírus**: (_Carregou versão de malwarebytes com problemas de segurança_).                           |
+| Taiwebs               | taiwebs-com                           | **Vírus**: (_Carregou versão de stardock com problemas de segurança_).                               |
+| Appnee                | appnee-com                            | **Vírus**: (_Carregou ativadores inseguros em várias ocasiões_).                                     |
+| AppValley / TutuBox / Ignition | appvalley-com / tutubox-com / ignition-com | **Comportamento antiético**: (_Histórico de ataques DDoS_).                                          |
+| CNET / Download.com / ZDNET / Softonic | cnet-com / download-com / zdnet-com / softonic-com | **Adware**: (_Histórico de adware_).                                                                  |
+| IObit                 | iobit-com                             | **Adware**: (_Histórico de adware e produtos duvidosos_).                                            |
+
+Esses sites e programas estão associados a riscos de segurança e práticas questionáveis.
