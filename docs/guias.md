@@ -58,3 +58,7 @@ Guia para instalar plugins ao qBitTorrent, permitindo fazer buscas de fontes seg
 ## 📑 ➜ [Guia do Orchestralblend](guias/orchestralblend.md)
 
 Alguns programas úteis. Tanto para Android quanto para Windows.
+
+## 📑 ➜ [Verificando lançamentos de jogos usando PreDBs](guias/lancamentos-predbs.md)
+
+Guia útil de como verificar lançamentos de jogos usando PreDB's com explicações úteis sobre a cena warez.
