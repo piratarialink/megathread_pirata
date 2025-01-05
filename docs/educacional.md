@@ -63,11 +63,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🌟 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode baixar os cursos fornecidos no próprio Telegram.
 
-### 🔗 [DinheiroCursosDownload](https://dinheirocursosdownload.com/)
-
-- Para que a página funcione corretamente, é preciso desativar o adblock.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/dinheirocursosdownload.com/)
-
 ### 🔗 [Online Courses](https://online-courses.club/)
 
 - Assista a vídeos sobre modelagem e animação 3D, incluindo muito material CG Persia.
