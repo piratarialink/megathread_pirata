@@ -82,6 +82,16 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Você pode pesquisar e baixar facilmente arquivos MP3 gratuitos do YouTube, que é rápido e muito simples de usar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytmp3hub.com/)
 
+### 🌐 [doubledouble](https://doubledouble.top/)
+
+- Baixe músicas diretamente do Spotify, Apple Music, Amazon Music, Soundcloud, Qobuz, Deezer, Tidal, Napster, Beatport ou KKBOX gratuitamente.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doubledouble.top/)
+
+### 🌐 [Lucida.to](https://lucida.to/)
+
+- Com Lucida, você pode baixar músicas diretamente do Spotify, Qobuz, Tidal, Soundcloud, Deezer, Amazon Music, Beatport e Yandex Music em alta qualidade gratuitamente. Sem pegadinhas e sem anúncios obrigatórios.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lucida.to/)
+
 ## 📑 3 ➜ Aplicativos para Desktop
 
 ### 🖥️ [ytDownloader](https://ytdn.netlify.app/)
