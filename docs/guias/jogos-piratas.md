@@ -290,7 +290,7 @@ Alguns desses sites podem exigir arquivos de BIOS/chave. Eles estão marcados co
 
 - [Citra](https://citra-emu.org/) - para jogos 3DS.
 
-- [Ryujinx](https://ryujinx.org/) \* | [Yuzu](https://yuzu-emu.org/) \* - para jogos Nintendo Switch.
+- [Ryujinx](https://ryujinx-emulator.com/) \* | [Yuzu](https://yuzu-emu.org/) \* - para jogos Nintendo Switch.
 
 - [DuckStation](https://www.duckstation.org/) \* | [ePSXe](https://www.epsxe.com/) \* – para jogos de PlayStation 1.
 
