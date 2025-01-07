@@ -11,7 +11,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 ## ► Ferramentas para Windows/Office
 
 ::: info
-- Tutorias disponíveis em [Pirataria - Guias](guias.md)
+- Tutorias disponíveis em [Pirataria - Guias](guias.md).
 - Links em cache estão disponíveis para permitir que você visualize a página sem precisar fazer login.
 - Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal. São falsos positivos.
   :::
@@ -43,8 +43,8 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * [the-eye.eu/public/MSDN](https://the-eye.eu/public/MSDN/) - O backup de 2,7 TB do olho do despejo do MSDN. Tem muitos ISOs difíceis de encontrar, Windows 7, etc.
 * [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors para LTSB, LTSC e ISOs do Windows 10 da edição do consumidor. [Postagem original](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431) em MyDigitalLife fóruns
 * [Windows ISOs em nmclub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 10 da edição do consumidor
-* [pastebin de abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion- microsoft-office-2019.75232/page-9#post-1464024)
-* [pastebin de abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office- professional-plus-2016-msdn.65408/page-26#post-1165512)
+* [pastebin de abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
+* [pastebin de abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
 * [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Ferramenta da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
 * [Imagens do Office para Mac](https://macadmins.software/) - Página bem organizada para downloads fornecidos pela MSFT de imagens do Mac Office.
 
