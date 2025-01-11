@@ -25,11 +25,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Software atualizado diariamente com o objetivo de proporcionar uma experiência rápida todos os dias.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/)
 
-### 🌟 [Game Bounty Software](https://gamebounty.world/software/) 
-
-- Download de softwares populares disponíveis.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gamebounty.world/)
-
 ### 🔗 [4DOWNLOAD](https://4download.net/)
 
 - Downloads completos de software, amostras de áudio, tutoriais, e-books e vídeos podem ser encontrados aqui.
@@ -114,7 +109,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Visa simplificar o acesso aos arquivos das versões mais recentes, melhorando continuamente e mantendo-se atualizado com a tecnologia.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/programs.themicrotech.net/)
 
-### 🔗 [Mobilism](https://forum.mobilism.org/index.php)
+### 🌟 [Mobilism](https://forum.mobilism.org/index.php)
 
 - Recurso obrigatório para aplicativos e livros. Muitas pessoas confiam nele e fornecem acesso às versões mais recentes dos arquivos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/)
@@ -262,7 +257,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ### 🌟 [m0nkrus](https://w14.monkrus.ws/) • Interface em russo
 
-- Repacker para diferentes aplicativos altamente classificado, confiável e mais conhecido por seus produtos relacionados à Adobe.
+- Repacker para diferentes aplicativos altamente classificado, confiável e mais conhecido por seus repacks relacionados à Adobe.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/w14.monkrus.ws/)
 
 ### 🧲 [Team OS](https://www.teamos.xyz) • Necessário Cadastro
