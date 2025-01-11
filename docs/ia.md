@@ -2,7 +2,18 @@
 
 A inteligência artificial é uma tecnologia que permite gerar, classificar e executar tarefas como análise de imagens e reconhecimento de fala.
 
-:::info ⚠️ Lembrete rápido
+:::warning ⚠️ Aviso Rápido
+- ✔️ **Todos os links** disponíveis foram analisados e aprovados por contribuidores voluntários. No entanto, **sempre prossiga com cautela**.
+- ⚠️ **Atenção:** Links confiáveis podem, ocasionalmente, se tornar perigosos, mesmo em fontes verificadas como a Megathread.
+- 🛡️ **Nosso compromisso:** Os colaboradores fazem o máximo para garantir sua segurança, mas é indispensável **navegar com cuidado**.
+:::
+
+:::info ℹ️ Dicas Úteis
+- 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [ótimas opções de DNS aqui](https://www.privacyguides.org/en/dns/).
+- 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
+:::
+
+:::info Motivo dessa seção
 Apesar dessas ferramentas não estarem diretamente ligadas à pirataria, são de extrema útilidade e valem a pena averiguar. Algumas necessitam de cadastro e a maioria tem planos gratis ou de teste.
 :::
 

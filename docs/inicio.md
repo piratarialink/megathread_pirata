@@ -1,25 +1,52 @@
-# 📜 ➜ Bem-vindo a Megathread do c/Pirataria
+# 📜 ➜ Bem-vindo à Megathread do c/Pirataria
 
-::: info 🤔 Qual o objetivo dessa Megathread?
-- Esta Megathread tem como objetivo capturar a essência da renomada [Megathread](https://rentry.co/megathread) do [c/Piracy](https://lemmy.dbzer0.com/c/piracy) (antigo r/piracy), atuando como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais com uma seleção abrangente de opções nacionais.
+---
+
+:::info 🤔 Qual o objetivo desta Megathread?
+Esta Megathread funciona como um agregado de informações e links úteis para a comunidade.  
+Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramentas e guias.
 :::
 
-:::tip ⌛ Marinheiro não tão rápido! Faça isso primeiro
-- Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) + [Fast Forward](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/) com essas [configurações otimizadas](https://take-me-to.space/UShoGZ7.png) (*Bloqueia anúncios e malware*).
-- Altere suas configurações de DNS para uma dessas [ótimas opções](https://www.privacyguides.org/en/dns/) (*Ignora as limitações de acesso ao sites bloqueados pela operadora*).
-- Use um cliente de torrent respeitável com um kill switch, como [qBittorrent](https://www.qbittorrent.org/) (*Permite torrenting*).
-- **(Opcional)** Configure uma VPN como [ProtonVPN (suporta port-forwarding, P2P)](https://protonvpn.com/), [AirVPN (suporta port-forwarding, P2P)](https://airvpn.org), [IVPN](https://www.ivpn.net/) ou [Mullvad](https://mullvad.net/) (*Altera o endereço IP para ocultar a identidade*).
-- **(Opcional)** Vincule seu cliente de torrent à VPN (*Só permite torrent quando a VPN está ativa*).
+---
+
+:::tip ⌛ Antes de começar, siga estas etapas:
+1. **Ferramentas essenciais:**
+   - Navegador: [Firefox](https://mozilla.org/firefox/new/).  
+   - Extensão: [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/).  
+   - Configurações recomendadas: [Veja aqui](https://take-me-to.space/UShoGZ7.png). (*Bloqueia anúncios e malware*).  
+
+2. **Melhore seu DNS:**
+   - Escolha uma das [opções recomendadas](https://www.privacyguides.org/en/dns/). (*Ignora bloqueios de operadoras*).  
+
+3. **Cliente de torrent confiável:**
+   - Recomendação: [qBittorrent](https://www.qbittorrent.org/) com *kill switch habilitado*.  
+
+4. **Considere usar uma VPN (opcional):**
+   - Exemplos confiáveis:  
+     - [ProtonVPN (port-forwarding, P2P)](https://protonvpn.com/).  
+     - [AirVPN (port-forwarding, P2P)](https://airvpn.org).  
+     - [IVPN](https://www.ivpn.net/).  
+     - [Mullvad](https://mullvad.net/).  
+   - Configure para ocultar sua identidade online.  
+
+5. **(Opcional):** Integre seu cliente de torrent à VPN para maior segurança.  
 :::
 
-:::info ⭐ Marque essa URL como favorito
-- O [r/pirataria](https://www.reddit.com/r/pirataria/) é onde nosso maior navio de piratas online está atracado. Enquanto o [c/pirataria](https://phtn.app/c/pirataria@lemmy.dbzer0.com) é nosso porto seguro (esse o **DMCA** não afunda).
-- É fundamental salvar essa URL, pois ela servirá como uma bússola para onde nossos navios estão atracados no momento.
+---
+
+:::info ⭐ Marque esta URL como favorita
+- O [r/pirataria](https://www.reddit.com/r/pirataria/) é o maior ponto de encontro da comunidade pirata.  
+- O [c/pirataria](https://phtn.app/c/pirataria@lemmy.dbzer0.com) é nosso porto seguro (*imune a ataques do DMCA*).  
+
+💡 **Dica:** Salve estas URLs como favoritos. Elas são a bússola para onde nossos navios estão atracados no momento.  
 :::
 
-:::danger ⚠️ Aviso!
-- Na Megathread, links confiáveis que antes eram seguros podem ocasionalmente se tornar perigosos.
-- Os colaboradores e contribuidores fazem o possível para mantê-lo, mas sempre tenham cuidado ao navegar nos mares.
+---
+
+:::warning ⚠️ Aviso Rápido
+- ✔️ **Todos os links** disponíveis foram analisados e aprovados por contribuidores voluntários. No entanto, **sempre prossiga com cautela**.
+- ⚠️ **Atenção:** Links confiáveis podem, ocasionalmente, se tornar perigosos, mesmo em fontes verificadas como a Megathread.
+- 🛡️ **Nosso compromisso:** Os colaboradores fazem o máximo para garantir sua segurança, mas é indispensável **navegar com cuidado**.
 :::
 
 ---

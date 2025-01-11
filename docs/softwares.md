@@ -2,11 +2,16 @@
 
 Software é uma coleção de programas de computador junto com arquivos de suporte e informações voltadas mais para computadores de mesa.
 
-:::danger ⚠️ Lembrete rápido
+:::warning ⚠️ Aviso Rápido
+- ✔️ **Todos os links** disponíveis foram analisados e aprovados por contribuidores voluntários. No entanto, **sempre prossiga com cautela**.
+- ⚠️ **Atenção:** Links confiáveis podem, ocasionalmente, se tornar perigosos, mesmo em fontes verificadas como a Megathread.
+- 🛡️ **Nosso compromisso:** Os colaboradores fazem o máximo para garantir sua segurança, mas é indispensável **navegar com cuidado**.
+:::
 
-- ✔️ Todos os links foram analisados ​​e aprovados por contribuidores voluntários, prossiga com cautela.
-- 🌟 = Altamente recomendado pela comunidade pirata.
-  :::
+:::info ℹ️ Dicas Úteis
+- 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [ótimas opções de DNS aqui](https://www.privacyguides.org/en/dns/).
+- 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
+:::
 
 ## 📑 1 ➜ Downloads Diretos
 

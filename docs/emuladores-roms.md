@@ -2,10 +2,15 @@
 
 Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são cópias digitais de videogames extraídas de um cartucho ou disco (que passam a se chamar ISOs.)
 
-:::danger ⚠️ Lembrete rápido
+:::warning ⚠️ Aviso Rápido
+- ✔️ **Todos os links** disponíveis foram analisados e aprovados por contribuidores voluntários. No entanto, **sempre prossiga com cautela**.
+- ⚠️ **Atenção:** Links confiáveis podem, ocasionalmente, se tornar perigosos, mesmo em fontes verificadas como a Megathread.
+- 🛡️ **Nosso compromisso:** Os colaboradores fazem o máximo para garantir sua segurança, mas é indispensável **navegar com cuidado**.
+:::
 
-- ✔️ Todos os links foram analisados e aprovados por contribuidores voluntários, prossiga com cautela.
-- 🌟 = Altamente recomendado pela comunidade pirata.
+:::info ℹ️ Dicas Úteis
+- 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [ótimas opções de DNS aqui](https://www.privacyguides.org/en/dns/).
+- 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
 ## 📑 ➜ Arquivo de Conhecimento
