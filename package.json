@@ -8,12 +8,12 @@
   },
   "dependencies": {
     "minisearch": "^6.3.0",
+    "vitepress": "^1.5.0",
     "vue": "^3.4.21"
   },
   "devDependencies": {
     "@orama/plugin-vitepress": "^2.0.13",
     "flexsearch": "^0.7.43",
-    "vitepress": "^1.5.0",
     "vitepress-plugin-search": "^1.0.4-alpha.22"
   }
 }
