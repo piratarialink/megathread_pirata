@@ -62,3 +62,7 @@ Alguns programas úteis. Tanto para Android quanto para Windows.
 ## 📑 ➜ [Verificando lançamentos de jogos usando PreDBs](guias/lancamentos-predbs.md)
 
 Guia útil de como verificar lançamentos de jogos usando PreDB's com explicações úteis sobre a cena warez.
+
+## 📑 ➜ [Guia de como converter Mangás para Kindle com Hakuneko e KCC](guias/guia-hakuneko.md)
+
+Guia de como converter Mangás para Kindle com Hakuneko e KCC para aproveitá-los em seu Kindle.
