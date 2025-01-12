@@ -84,10 +84,6 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 
 ## 📑 3 ➜ Torrents
 
-### 🧲 [AniDex](https://anidex.info/)
-- Rastreador de torrents para anime, disponível em vários idiomas.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/anidex.info/)
-
 ### 🧲 [AniRena](https://www.anirena.com/)
 - Tracker simples para torrents de animes, dramas e músicas.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anirena.com/)
