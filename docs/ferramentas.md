@@ -100,7 +100,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Evite a instalação de download de aplicativos indesejados com software legítimo (por exemplo, McAfee com Adobe Flash)
 - [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Ignore os paywalls de sites de jornais. Requer tampermonkey/greasemonkey para instalar.
 - [Obter informações de DLC do SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Cria automaticamente uma lista de DLC para ferramentas como CreamAPI, GreenLuma e SmartSteamEmu.
-- [Desbloqueie as etapas do Symbolabs e verifique as soluções](https://pastebin.com/wA3QQkCj) - Userscript [\(archived\)](https://web.archive.org/web/20200818154537/https://pastebin. com/wA3QQkCj)
+- [Desbloqueie as etapas do Symbolabs e verifique as soluções](https://pastebin.com/wA3QQkCj) - Userscript: [archive](https://web.archive.org/web/20200818154537/https://pastebin.com/wA3QQkCj)
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa)
 - [Unlimiteddownloader](https://github.com/A-SunsetMkt-Forks/Tampermonkey-Script/blob/main/Unlimited_downloader.js) - Baixa vídeos HLS.
 
@@ -113,10 +113,14 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► Telegram
 
-- [Leak - OSINT](https://t.me/anotherLeakOSINTrobotbot?start=DXQ0pV2) - Bot que coleta vazamento de dados por nome, telefone ou IP.
+- **[Pago]** [Leak - OSINT](https://t.me/anotherLeakOSINTrobotbot?start=DXQ0pV2) - Bot que coleta vazamento de dados por nome, telefone ou IP.
 - [Image reverse search](https://t.me/reverse_image_search_bot) - Bot de busca reversa de imagens.
 - **[Pago]** [Notz - SMS](https://t.me/NotzSMSBot?start=1310302765) - Número de telefone temporário para receber sms.
 - [Clonechat](https://github.com/carryingwater/clonechat/blob/main/README_ptbr.md) - Clona todas as postagens de um Canal/Grupo do telegram para um outro Canal/Grupo. 
+
+## ► Youtube
+
+- Cole esse código em ["Meus filtros"](https://rentry.org/ytantiadblock), se o problema continuar desmarque a seguinte opção em ["Listas de filtros"](https://take-me-to.space/ZXzaWDGh.png).
 
 ## ► Clientes Torrent
 
