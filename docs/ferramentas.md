@@ -120,7 +120,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► Youtube
 
-- Para burlar o anti adblock do site cole esse código na opção ["Meus filtros"](https://rentry.org/ytantiadblock) do ublock origin, se o problema continuar desmarque a seguinte configuração em ["Listas de filtros"](https://take-me-to.space/ZXzaWDGh.png).
+- Para burlar o anti adblock do site cole esse código na opção ["Meus filtros"](https://rentry.org/ytantiadblock) do ublock origin. Se o problema continuar, desmarque a seguinte configuração em ["Listas de filtros"](https://take-me-to.space/ZXzaWDGh.png).
 
 ## ► Clientes Torrent
 
