@@ -120,7 +120,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► Youtube
 
-- Cole esse código em ["Meus filtros"](https://rentry.org/ytantiadblock), se o problema continuar desmarque a seguinte opção em ["Listas de filtros"](https://take-me-to.space/ZXzaWDGh.png).
+- Para burlar o anti adblock cole esse código em ["Meus filtros"](https://rentry.org/ytantiadblock), se o problema continuar desmarque a seguinte opção em ["Listas de filtros"](https://take-me-to.space/ZXzaWDGh.png).
 
 ## ► Clientes Torrent
 
