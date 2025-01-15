@@ -20,12 +20,12 @@
 
 | 📋 **NOME**     | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                                              |
 | :-------------- | :-------------------------- | :----------------------------------------------------------------------------------------------------------- |
-| 💩 4shared  | 4shared-com            | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_).   
+| 💩 4shared  | 4shared-com            | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
+| 💩 Baixaki      | baixaki-com-br              | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |     
 | 💩 1377x        | 1377x-to                    |  **Clone falso**: (_Criado para enganar usuários de propósito_). |
 | KickassTorrents | kickasstorrents-to          |  **Clone falso**: (_Criado para enganar usuários de propósito_). |
 | The Pirate Bay  | thepiratebay-org            | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_).                |
-| 💩 TheRarBg     | therarbg-com/therarbg-to    |  **Clone falso**: (_Criado para enganar usuários de propósito_). |
-| 💩 Baixaki      | baixaki-com-br              | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |      
+| 💩 TheRarBg     | therarbg-com/therarbg-to    |  **Clone falso**: (_Criado para enganar usuários de propósito_). | 
 
 # ⭐ ➜ Anime
 
