@@ -278,10 +278,10 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Número de ROMs de Nintendo Switch que você pode baixar com facilidade e segurança.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nsw2u.com)
 
-### 🔗 [NXBrew](https://nxbrew.com)
+### 🔗 [NXBrew](https://nxbrew.net/)
 
 - NSPs, XCIs e NSZs mais recentes para Nintendo Switch com apenas um clique.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/nxbrew.com)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/nxbrew.net)
 
 ### 🔗 [Megathread do r/Roms](https://r-roms.github.io) / [2](https://r-roms.gitlab.io/megathread)
 
