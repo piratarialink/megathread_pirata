@@ -33,7 +33,7 @@ Apesar dessas ferramentas não estarem diretamente ligadas à pirataria, são de
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / ilimitado
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [Pi](https://pi.ai/talk) - Chatbot IA com emoções
-* [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura
+* [FreedomGPT](https://chat.freedomgpt.com/pt) ou [NoFilterGPT](https://nofiltergpt.com/chat) - Chatbot sem censura
 
 ***
 ### Simulação

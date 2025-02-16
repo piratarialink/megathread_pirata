@@ -113,10 +113,10 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► Telegram
 
-- **[Pago]** [Leak - OSINT](https://t.me/anotherLeakOSINTrobotbot?start=DXQ0pV2) - Bot que coleta vazamento de dados por nome, telefone ou IP.
+- [Vidsender](https://github.com/viniped/vidsender) - Método mais fácil para upar vários vídeos de uma vez só em um canal privado.
 - [Image reverse search](https://t.me/reverse_image_search_bot) - Bot de busca reversa de imagens.
 - **[Pago]** [Notz - SMS](https://t.me/NotzSMSBot?start=1310302765) - Número de telefone temporário para receber sms.
-- [Clonechat](https://github.com/carryingwater/clonechat/blob/main/README_ptbr.md) - Clona todas as postagens de um Canal/Grupo do telegram para um outro Canal/Grupo. 
+- [Tg_mirror](https://github.com/viniped/tg_mirror) - Script que clona canais.
 
 ## ► Youtube
 

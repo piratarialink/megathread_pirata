@@ -49,12 +49,6 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 - **Ótima qualidade** para lançamentos recentes, com legendas em PT-BR nos animes populares.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/kickassanime.am/)
 
-### 🌟 [Gogoanime](https://gogotaku.info/)
-
-- Acompanhe, encontre, compartilhe e veja anime de alta qualidade. Se procura um serviço confiável e seguro, já o encontrou.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gogotaku.info/)
-
-
 ## 📑 2 ➜ Downloads Diretos
 
 ### 🔗 [Anime Tosho](https://animetosho.org/)

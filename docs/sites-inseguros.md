@@ -87,7 +87,7 @@
 | Sample Drive   | sampledrive-in              | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
 | VFXdownload    | vfxdownload-com             | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
 | VFXDownloads   | vfxdownloads-net            | **Comportamento antiético**: (_Regras ruins e inserção de vírus de forma planejada_). |
-| µTorrent       | utorrent-com                | Por ter sido (sem o consentimento dos usuários) um minerador de criptomoedas no passado, o µtorrent é considerado badware; é melhor usar clientes torrent de código aberto como o qBittorrent ou o deluge. |
+| µTorrent       | utorrent-com                | Por ter sido (sem o consentimento dos usuários) um minerador de criptomoedas no passado, o µtorrent é considerado bundleware; é melhor usar clientes torrent de código aberto como o qBittorrent ou o deluge. |
 | GetIntoPC / GetIntoMAC | getintopc-com / getintomac-com         | **Vírus**: (_Detectado com malware, responsável por inúmeros casos de malware_).                      |
 | SadeemPC / SadeemAPK   | sadeempc-com / sadeemapk-com           | **Vírus**: (_Detectado com malware em várias ocasiões_).                                             |
 | KaranPC               | karanpc-com                           | **Vírus**: (_Detectado com malware em várias ocasiões_).                                             |
