@@ -37,7 +37,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Dantotsu](https://github.com/rebelonion/Dantotsu)
 
-- O Dantotsu é um aplicativo baseado no Saikou e de código aberto, desenvolvido para entusiastas de animes e mangás que utilizam a plataforma AniList. Seu nome, derivado do japonês, significa "o melhor dos melhores. Ótima interface e suporta as extensões Aniyomi e Tachiyomi listadas a seguir"
+- O Dantotsu é um aplicativo baseado no Saikou e de código aberto, desenvolvido para entusiastas de animes e mangás que utilizam a plataforma AniList. Seu nome, derivado do japonês, significa "o melhor dos melhores". Ótima interface e suporta as extensões Aniyomi e Tachiyomi listadas a seguir.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) 
@@ -61,7 +61,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 :::info ℹ️ Dica sobre extensões
-- Planilha no Docs com informações das extensões para ser usado em apps como Aniyomi, Tachiyomi e Dantotsu e etc. [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
+- Planilha no Docs com informações das extensões para ser usado em apps como Aniyomi, Tachiyomi, Dantotsu e etc. [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
 :::
 
 ## 📑 ➜ Catálogo e Lojas
