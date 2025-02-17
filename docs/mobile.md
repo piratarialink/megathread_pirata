@@ -22,13 +22,23 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [Better Anime](https://discord.com/invite/betteranime) 
 
-- O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar. App removido da playstore, disponível apenas no discord. 
+- O famoso Better Anime continua operando normalmente, apesar das restrições de DMCA. O acesso segue disponível tanto pelo aplicativo quanto pelo site, desde que o usuário faça login em sua conta. O app foi removido da Play Store e agora pode ser baixado exclusivamente pelo Discord.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/discord.com/)
+
+### 🌟 [Tomato - A&M](https://play.google.com/store/apps/details?id=com.tomatos.clientapp&hl=pt_BR) 
+
+- Um dos Apps mais aclamados para assistir animes e ler mangás em português, oferecendo um vasto catálogo e um design moderno e funcional.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)
 
 ### 🔗 [Aniyomi](https://aniyomi.org/) 
 
 - Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/aniyomi.org/)
+
+### 🔗 [Dantotsu](https://github.com/rebelonion/Dantotsu)
+
+- O Dantotsu é um aplicativo baseado no Saikou e de código aberto, desenvolvido para entusiastas de animes e mangás que utilizam a plataforma AniList. Seu nome, derivado do japonês, significa "o melhor dos melhores. Ótima interface e suporta as extensões Aniyomi e Tachiyomi listadas a seguir"
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) 
 
@@ -49,6 +59,10 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+:::info ℹ️ Dica sobre extensões
+- Planilha no Docs com informações das extensões para ser usado em apps como Aniyomi, Tachiyomi e Dantotsu e etc. [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
+:::
 
 ## 📑 ➜ Catálogo e Lojas
 
