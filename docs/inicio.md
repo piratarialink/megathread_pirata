@@ -111,6 +111,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 ### 📁 [MediaSavvy](https://mediasavvy.pages.dev/)
 ### 📁 [EverythingMoe](https://everythingmoe.com/)
 ### 📁 [FMHY](https://fmhy.pages.dev/)
+### 📁 [Pirated Games Megathread](https://rentry.org/pgames)
 ### 📁 [Ripped](https://ripped.guide/)
 ### 📁 [The Index](https://theindex.moe/)
 ### 📁 [Wotaku](https://wotaku.pages.dev/)
