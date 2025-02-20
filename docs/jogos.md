@@ -15,7 +15,15 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 
 ## 📑 1 ➜ Programas
 
-### 🌟 [Hydra](https://github.com/hydralauncher/hydra) - Hydra é um launcher de jogos com seu próprio cliente bittorrent integrado e um scraper de repack autogerenciado.
+### 🌟 [Hydra](https://github.com/hydralauncher/hydra) 
+- Hydra é um launcher de jogos com seu próprio cliente bittorrent integrado e um scraper de repack autogerenciado.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🌟 [ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)
+
+- O navegador Rclone, desenvolvido pelo grupo repacker ARMGDDN Games, possibilita o download direto de jogos para PC, VR e não-VR. Seu código-fonte foi auditado e possui uma reputação consolidada na comunidade.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cs.rin.ru/)
+
 
 ## 📑 2 ➜ Downloads diretos
 
@@ -23,7 +31,7 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 
 - Maior fórum do mundo dedicado à pirataria de videogames, é uma valiosa fonte de jogos com vasto conhecimento.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cs.rin.ru/)
-
+  
 ### 🔗 [online-fix.me](https://online-fix.me/)
 
 - Jogue jogos online pirata com seus amigos, de forma gratuita com suporte de convite via Steam.
