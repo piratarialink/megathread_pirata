@@ -16,6 +16,7 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 ## 📑 1 ➜ Programas
 
 ### 🌟 [Hydra](https://github.com/hydralauncher/hydra) 
+
 - Hydra é um launcher de jogos com seu próprio cliente bittorrent integrado e um scraper de repack autogerenciado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
@@ -23,7 +24,6 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 
 - O navegador Rclone, desenvolvido pelo grupo repacker ARMGDDN Games, possibilita o download direto de jogos para PC, VR e não-VR. Seu código-fonte foi auditado e possui uma reputação consolidada na comunidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cs.rin.ru/)
-
 
 ## 📑 2 ➜ Downloads diretos
 
