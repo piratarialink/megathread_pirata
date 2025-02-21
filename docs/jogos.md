@@ -22,7 +22,7 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 
 ### 🌟 [ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)
 
-- O navegador Rclone, desenvolvido pelo grupo repacker ARMGDDN Games, possibilita o download direto de jogos para PC, VR e não-VR. Seu código-fonte foi auditado e possui uma reputação consolidada na comunidade.
+- Utiliza o navegador Rclone personalizado, desenvolvido pelo grupo repacker ARMGDDN Games, que possibilita o download direto de jogos para PC, VR e não-VR. Seu código-fonte foi auditado e possui uma reputação consolidada na comunidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cs.rin.ru/)
 
 ## 📑 2 ➜ Downloads diretos
