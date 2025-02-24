@@ -34,9 +34,11 @@
 
 ### ❔ Como posso acessar sites que meu ISP (Operadora) bloqueou?
 
-- Altere seu [DNS](https://www.privacyguides.org/advanced/dns-overview/). Se você não fizer isso, acabará usando o DNS padrão do seu ISP, o que provavelmente é extremamente lento e permitirá que eles restrinjam sites para você. Aqui estão algumas ótimas opções [DNS](https://www.privacyguides.org/dns/).
-- Você também pode considerar se realmente precisa visitar o site bloqueado. Dependendo da situação, também pode ser um bom momento para explorar uma opção diferente.
-- Observe que a alteração das configurações do DNS não oculta seu endereço IP.
+- O Sistema de Nomes de Domínio (DNS) é um serviço essencial para a navegação na internet. Ele funciona como um "catálogo telefônico" da web, traduzindo nomes de domínio (como exemplo.com) em endereços IP que os computadores usam para se conectar aos servidores. Sem o DNS, teríamos que memorizar longas sequências de números para acessar sites.
+- Por padrão, seu provedor de internet (ISP) atribui um DNS próprio, que muitas vezes é lento e sujeito a restrições, bloqueando o acesso a determinados sites. Para melhorar a velocidade da sua navegação e evitar censura, é recomendável alterar seu DNS. Você pode fazer isso seguindo este guia: [Como trocar o DNS no Windows e Android.](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/)
+- No entanto, é importante lembrar que mudar o DNS não esconde seu endereço IP e não melhora a velocidade de download, apenas pode tornar a resolução de sites mais rápida. Se seu objetivo for maior privacidade ou anonimato online, será necessário o uso de uma VPN ou outra ferramenta de proteção.
+
+
 
 &nbsp;
 

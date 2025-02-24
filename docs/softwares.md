@@ -9,7 +9,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 :::
 
 :::info ℹ️ Dicas Úteis
-- 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [ótimas opções de DNS aqui](https://www.privacyguides.org/en/dns/).
+- 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/).
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
@@ -24,6 +24,11 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 - Software atualizado diariamente com o objetivo de proporcionar uma experiência rápida todos os dias.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/)
+
+### 🌟 [Mobilism](https://forum.mobilism.org/index.php)
+
+- Recurso obrigatório para aplicativos e livros. Muitas pessoas confiam nele e fornecem acesso às versões mais recentes dos arquivos.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/)
 
 ### 🔗 [4DOWNLOAD](https://4download.net/)
 
@@ -109,11 +114,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Visa simplificar o acesso aos arquivos das versões mais recentes, melhorando continuamente e mantendo-se atualizado com a tecnologia.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/programs.themicrotech.net/)
 
-### 🌟 [Mobilism](https://forum.mobilism.org/index.php)
-
-- Recurso obrigatório para aplicativos e livros. Muitas pessoas confiam nele e fornecem acesso às versões mais recentes dos arquivos.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/)
-
 ### 🔗 [motka](https://motka.net/)
 
 - Projetado para fornecer ferramentas gratuitas de alta qualidade para designers, incluindo LUTs, mecanismos de som, software Adobe e plug-ins.
@@ -150,6 +150,11 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yasdl.com/)
 
 ## 📑 2 ➜ Fontes
+
+### 🌟 [FontsHub](https://fontshub.pro/)
+
+- Obtenha fontes para criar títulos, citações, parágrafos, listas e outros componentes de texto para seus projetos de design.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fontshub.pro/)
 
 ### 🔗 [CreativeFabrica](https://www.creativefabrica.com/freebies/free-fonts/) • Cadastre-se
 
@@ -191,10 +196,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Bela coleção de fontes gratuitas para download para seu site e projetos que operam em todos os sistemas operacionais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fontget.com/)
 
-### 🌟 [FontsHub](https://fontshub.pro/)
-
-- Obtenha fontes para criar títulos, citações, parágrafos, listas e outros componentes de texto para seus projetos de design.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fontshub.pro/)
 
 ### 🔗 [FontSpace](https://www.fontspace.com/)
 
@@ -250,15 +251,15 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ## 📑 4 ➜ Torrents
 
+### 🌟 [M0nkrus](https://w16.monkrus.ws/) • Interface em russo
+
+- Repacker Monkrus para diferentes aplicativos altamente classificado, confiável e mais conhecido por seus repacks relacionados à Adobe.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/w16.monkrus.ws/)
+
 ### 🧲 [Mac Torrents](https://www.torrentmac.net/) • MacOS
 
 - Torrents para uma variedade de utilitários, aplicativos, jogos e plug-ins úteis para design gráfico, edição de vídeo e gráficos em movimento.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentmac.net/)
-
-### 🌟 [m0nkrus](https://w14.monkrus.ws/) • Interface em russo
-
-- Repacker para diferentes aplicativos altamente classificado, confiável e mais conhecido por seus repacks relacionados à Adobe.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/w14.monkrus.ws/)
 
 ### 🧲 [Team OS](https://www.teamos.xyz) • Necessário Cadastro
 

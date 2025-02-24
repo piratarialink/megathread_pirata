@@ -9,7 +9,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 :::
 
 :::info ℹ️ Dicas Úteis
-- 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [ótimas opções de DNS aqui](https://www.privacyguides.org/en/dns/).
+- 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/).
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
@@ -271,7 +271,7 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 
 ## ► Diversos
 
-- [subscene.com](https://subscene.com/) - Legendas multilíngues para filmes/séries
+- [simplaza.org](https://www.simplaza.org) - Site pada download de addons, aeronave e cenários para Microsot Flight Simulator 2020 (MSFS2020)
 - [addic7ed.com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries
 
 ## ► Sites de rastreamento de cena / P2P
