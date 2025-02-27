@@ -1,6 +1,6 @@
 ### Guia básico de como usar Stremio.
 
-![Stremio](https://i.ibb.co/JRyW8trh/Stremio-logo.jpg)
+![Stremio](/images/Stremio-logo.png)
 
 Stremio é um agregador de conteúdo e também um player, ele tem suporte para várias plataformas e é muito bom quando combinado com certos add-ons e bem configurado.
 
@@ -51,7 +51,7 @@ Alguns add-ons fornecem suporte ao RPDB, que fornece avaliações nas capas do c
 
 Trackers são rastreadores de episódios, eles irão salvar filmes e séries que você já assistiu. 
 
-O Stremio já vem com o Trakt.tv integrado, caso queira usar, vá para as configurações e procure “RECOMENDAÇÕES DO TRAKT”<img src="https://i.ibb.co/Xf2b4pFw/20250222-013828.jpg" alt="Trakt.tv" width="200" height="50"> e clique em autorizar, após isso crie ou faça login com sua conta. 
+O Stremio já vem com o Trakt.tv integrado, caso queira usar, vá para as configurações e procure “RECOMENDAÇÕES DO TRAKT”<img src="/images/Stremio2.png" alt="Trakt.tv" width="200" height="50"> e clique em autorizar, após isso crie ou faça login com sua conta. 
 
 Caso utilize outro tracker, você pode usar add-ons para realizar a sincronização: 
 
