@@ -66,3 +66,7 @@ Guia útil de como verificar lançamentos de jogos usando PreDB's com explicaç�
 ## 📑 ➜ [Guia de como converter Mangás para Kindle com Hakuneko e KCC](guias/guia-hakuneko.md)
 
 Guia de como converter Mangás para Kindle com Hakuneko e KCC para aproveitá-los em seu Kindle.
+
+## 📑 ➜ [Guia de como usar o Stremio](guias/guia-stremio.md)
+
+Este guia básico do Stremio ensina como baixar, instalar e configurar o aplicativo, além de gerenciar add-ons. Você aprenderá a adicionar provedores de conteúdo, explorar catálogos e sincronizar seu progresso com trackers como o Trakt.tv. Ideal para iniciantes que desejam aproveitar ao máximo o Stremio.
