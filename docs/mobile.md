@@ -393,7 +393,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ## 📑 ➜ Filmes e TV
 
-### 🌟 [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) + [Addons](https://stremio-addons.netlify.app/) - [Nota Importante!](outros/stremio)
+### 🌟 [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) + [Addons](https://stremio-addons.com/) + [Guia](https://pirataria.link/guias/guia-stremio) - [Nota Importante!](outros/stremio)
 
 - Aplicativo de streaming que permite assistir vídeos, filmes e séries de TV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)
