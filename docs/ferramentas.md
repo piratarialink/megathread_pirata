@@ -147,7 +147,8 @@ Para clientes de torrent Android, consulte: [Mobile](mobile)
 
 ## ► Centros de Mídia / Clientes
 
-- [Stremio](https://www.stremio.com/) - Gerenciador de biblioteca de vários vídeos. Plugins disponíveis para transmissão de várias fontes de mídia, incluindo torrents. Verifique também /r/StremioAddons. Assistir juntos [guia](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/).
+- [Stremio](https://www.stremio.com/) - Gerenciador de biblioteca de vários vídeos. Plugins disponíveis para transmissão de várias fontes de mídia, incluindo torrents. Verifique também o subreddit [StremioAddons](https://www.reddit.com/r/StremioAddons/). Assistir juntos [guia](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/). [Nota](https://pirataria.link/outros/stremio)
+- [Stremio Desktop](https://github.com/Zaarrg/stremio-desktop-v5/releases) - Este é um aplicativo de desktop para Stremio, desenvolvido com WebView2 e Qt6, permitindo que você aproveite a versão mais recente da [interface web](https://stremio.zarg.me/) com desempenho aprimorado.
 - [Plex Media Server](https://www.plex.tv/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
 - [Jellyfin Media Server](https://jellyfin.org/) - Netflix auto-hospedado de código aberto. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
 - [Plexamp](https://plexamp.com/) - Plex, mas para música. Disponível em ios, mac, windows, linux e android
