@@ -257,15 +257,15 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 > Alguns sites DDL podem oferecer apenas downloads por meio de links premium, o que significa que o download estará disponível por meio de um host de arquivo que bloquearia o download, a menos que você pagasse uma assinatura para esse host de arquivo. Os preços podem ser um pouco extravagantes, especialmente quando você considera que muitos sites DDL podem usar hosts de arquivos diferentes, portanto, não seria viável pagar por várias dessas assinaturas.
 
 - [seedr.cc](https://www.seedr.cc/) - Seedbox gratuito que permite baixar torrents de até 2 GiB de tamanho. Se você deseja se tornar premium, evite comprar de semeadores - eles são muito caros. Basta verificar /r/seedboxes para caixas de sementes pagas alternativas.
-- 🌟 **[Pago]** [real-debrid.com](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o enxame do torrent, que é a principal causa de recebimento de cartas de violação de direitos autorais.
-- **[Pago]** [mega-debrid.eu](https://www.mega-debrid.eu/) - Mesmo conceito que real-debrid
-- **[Pago]** [alldebrid.com](https://alldebrid.com/) - Mesmo conceito do real-debrid
-- **[Pago]** [premiumize.me](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também
+- 🌟 **[Pago]** [Real Debrid](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o enxame do torrent, que é a principal causa de recebimento de cartas de violação de direitos autorais.
+- **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito que real-debrid
+- **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid
+- **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também
 - **[Teste pago / gratuito]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
 - [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd
-- [reevown.com](https://reevown.com/) - Este é um "serviço de download gratuito com o qual você pode realizar downloads premium".
-- [uploadedpremiumlink.net](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium
-- **[Pago]** [linksnappy.com](https://linksnappy.com/) - Agregador de conteúdo que "permite extrair arquivos de vários serviços de armazenamento em nuvem"
+- [Reevown](https://reevown.com/) - Este é um "serviço de download gratuito com o qual você pode realizar downloads premium".
+- [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium
+- **[Pago]** [Linksnappy](https://linksnappy.com/) - Agregador de conteúdo que "permite extrair arquivos de vários serviços de armazenamento em nuvem"
 
 ## ► Diversos
 
