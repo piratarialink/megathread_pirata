@@ -269,7 +269,7 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 
 ## ► Diversos
 
-- 🌟 [simplaza.org](https://www.simplaza.org) - Site pada download de addons, aeronave e cenários para Microsot Flight Simulator 2020 (MSFS2020)
+- 🌟 [simplaza.org](https://www.simplaza.org) - Site pada download de addons, aeronaves e cenários para Microsot Flight Simulator 2020 (MSFS2020)
 - [addic7ed.com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries
 
 ## ► Sites de rastreamento de cena / P2P
