@@ -74,7 +74,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Sem precisar se inscrever, aproveite filmes e séries gratuitos em streaming na maior biblioteca.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hydrahd.me/)
 
-### 🌟 [Novafork](https://novafork.com/)
+### 🌟 [Novafork](https://novafork.cc/)
 - Atendendo a todos os gostos, a variedade de filmes inclui desde clássicos até sucessos de bilheteria.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/novafork.com/)
 
