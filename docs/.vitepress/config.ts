@@ -95,12 +95,12 @@ export default {
         text: "📑 Recomendado",
         collapsible: true,
         items: [
-          { text: "🪶 Sobre", link: "sobre" },
-          { text: "🪶 Dicionário", link: "util/dicionario" },
-          { text: "🪶 Glossário", link: "util/glossario" },
-          { text: "🪶 Publicações úteis", link: "publicacoes" },
-          { text: "🪶 Guias", link: "guias" },
-          { text: "🪶 Privacidade", link: "privacidade" }
+          { text: "ℹ️ Sobre", link: "sobre" },
+          { text: "📖 Dicionário", link: "util/dicionario" },
+          { text: "📚 Glossário", link: "util/glossario" },
+          { text: "🔗 Publicações úteis", link: "publicacoes" },
+          { text: "🗺️ Guias", link: "guias" },
+          { text: "🔒 Privacidade", link: "privacidade" }
         ],
       },
       {
@@ -118,6 +118,7 @@ export default {
           { text: "📁 MediaSavvy", link: "https://mediasavvy.pages.dev/" },
           { text: "📁 EverythingMoe", link: "https://everythingmoe.com/" },
           { text: "📁 FMHY", link: "https://fmhy.net/" },
+          { text: "📁 Pirated Games", link: "https://rentry.org/pgames/" },
           { text: "📁 Ripped", link: "https://ripped.guide/" },
           { text: "📁 The Index", link: "https://theindex.moe/" },
           { text: "📁 Wotaku", link: "https://wotaku.moe/" },

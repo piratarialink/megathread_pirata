@@ -225,7 +225,17 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - O Launcher nascido na Rússia evoluiu nos últimos anos de um arquivista doméstico para o Repacker mais conhecido da web.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fitgirl-repacks.site/)
 
-### 🧲 [online-fix.me](https://online-fix.me/)
+### 🌟 [Ecologica Verde](https://x.com/Ecologica_Verde/)
+
+- Perfil no Twitter que divulga links confiáveis para jogos via torrent.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/x.com/)
+
+### 🌟 [Steam Verde](https://steamverde.net/)
+
+- O Steam Verde é uma plataforma online de jogos para PC e Android, oferecendo downloads via torrent com uma interface organizada. Conta com uma comunidade ativa que fornece tutoriais e suporte, além de manter os usuários informados sobre lançamentos. O site possui proteção antivírus e é baseado na plataforma segura Invision Community.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamverde.net)
+
+### 🧲 [online-fix](https://online-fix.me/)
 
 - Jogue jogos online pirata com seus amigos, de forma gratuita com suporte de convite via Steam.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)

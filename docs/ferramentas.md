@@ -21,7 +21,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal. São falsos positivos.
   :::
 
-* 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Essa ferramenta ativa o Windows e o Office.
+* 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Essa ferramenta ativa o Windows e o Office. [Guia](guias/ativacao-office-win.md)
 
 * [**Office C2R-R2V-AIO**](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte as instalações do Office Retail em licenças de volume.
 * [**KMS_VL_ALL**](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Ativa instalações de licença de volume do Office e Windows. (Ativa o Windows e Office)
@@ -73,10 +73,11 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► **Motores de busca**
 
-- [Yandex](https://yandex.com/) - Não esconde resultados de navegação por DRM.
+- 🌟 [Yandex](https://yandex.com/) - Não esconde resultados de navegação por DRM.
 
 ## ► **Burladores de paywall**
 
+- 🌟 [Bypass Paywalls Clean](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para Firefox e Chrome para burlar Paywall.
 - [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
 - [Remove paywall](https://www.removepaywall.com/)
 - [12ft](https://12ft.io/)
@@ -128,11 +129,10 @@ Notas: uTorrent [empacotou um minerador de bitcoin opcional e não malicioso no 
 
 Cliente Bitlord torrent [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
 
-- [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
-
+* 🌟 [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 * [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent
 * [Transmission](https://transmissionbt.com/about/) - Cliente de torrent de código aberto simples e leve
-* [qBittorrent](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que pesquisa rastreadores públicos populares. Constantemente atualizado. [Guia de plugins](guias/Guia-plugins-qbittorrrent.md)
+* 🌟 [qBittorrent](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que pesquisa rastreadores públicos populares. Constantemente atualizado. [Guia de plugins](guias/Guia-plugins-qbittorrrent.md)
 * [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei
 * [PicoTorrent](https://picotorrent.org/) - Cliente de torrent simples e leve
 * [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto
@@ -147,12 +147,13 @@ Para clientes de torrent Android, consulte: [Mobile](mobile)
 
 ## ► Centros de Mídia / Clientes
 
-- [Stremio](https://www.stremio.com/) - Gerenciador de biblioteca de vários vídeos. Plugins disponíveis para transmissão de várias fontes de mídia, incluindo torrents. Verifique também /r/StremioAddons. Assistir juntos [guia](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/).
-- [Plex Media Server](https://www.plex.tv/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
-- [Jellyfin Media Server](https://jellyfin.org/) - Netflix auto-hospedado de código aberto. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
+- 🌟 [Stremio](https://www.stremio.com/) - Gerenciador de biblioteca para múltiplos vídeos, com suporte a plugins para transmissão de diversas fontes de mídia, incluindo torrents. Confira também o subreddit [Stremio Addons](https://www.reddit.com/r/StremioAddons/), o [guia](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/) sobre como assistir juntos e o [guia](https://pirataria.link/guias/guia-stremio) básico de como usar Stremio. Sobre seeds, veja essa [nota](https://pirataria.link/outros/stremio).
+- 🌟 [Stremio Desktop](https://github.com/Zaarrg/stremio-desktop-v5/releases) - Este é um aplicativo de desktop para Stremio, desenvolvido com WebView2 e Qt6, permitindo que você aproveite a versão mais recente da [interface web](https://stremio.zarg.me/) com desempenho e funções aprimoradas.
+- 🌟 [Plex Media Server](https://www.plex.tv/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
+- 🌟 [Jellyfin Media Server](https://jellyfin.org/) - Netflix auto-hospedado de código aberto. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
 - [Plexamp](https://plexamp.com/) - Plex, mas para música. Disponível em ios, mac, windows, linux e android
-- [Emby Media Server](https://emby.media/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
-- [Kodi](https://kodi.tv/) - Centro de mídia de home theater. Hospede seu próprio conteúdo ou adicione fontes de conteúdo online (/r/Addons4Kodi)
+- 🌟 [Emby Media Server](https://emby.media/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
+- 🌟 [Kodi](https://kodi.tv/) - Centro de mídia de home theater. Hospede seu próprio conteúdo ou adicione fontes de conteúdo online (/r/Addons4Kodi)
 - [OSMC](https://osmc.tv/) - Centro de mídia de home theater. Bifurcado do Kodi, fornece uma interface do usuário simples para Raspberry Pi e Apple TV
 
 ## ► **Segurança**
@@ -188,14 +189,11 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 
 ## ► Outras ferramentas de download
 
-- [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto de vários sites e muito mais.
-- **[Pago]** [Tubedigger](https://www.tubedigger.com/) - Baixa vídeos da hotmart em alguns casos apenas.
-
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente. Para o melhor resultado, utilize a URL do iframe do vídeo em vez da URL da barra de navegação.
-
-- [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6
-
+* [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
+* [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto de vários sites e muito mais.
+* **[Pago]** [Tubedigger](https://www.tubedigger.com/) - Baixa vídeos da hotmart em alguns casos apenas.
+* 🌟 [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente. Para o melhor resultado, utilize a URL do iframe do vídeo em vez da URL da barra de navegação.
+* [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6
 * [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript para baixar vídeos do youtube
 * [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript para baixar legendas do youtube
 * [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injetor para despejar aplicativos UWP
@@ -222,8 +220,8 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 
 ## ► Planos de internet móvel
 
-- Vivo Easy - Internet avulsa que você usa até acabar (não expira).
-- Claro Prezão - 9GB por 24,90 ou 12GB por 30 reais.
+- Vivo Easy - Internet avulsa que você usa até acabar (Não expira).
+- Claro Prezão - 9GB por 24,90 ou 12GB por 30 reais. (Depende de região)
 
 ## ► SSH grátis
 
@@ -259,19 +257,19 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 > Alguns sites DDL podem oferecer apenas downloads por meio de links premium, o que significa que o download estará disponível por meio de um host de arquivo que bloquearia o download, a menos que você pagasse uma assinatura para esse host de arquivo. Os preços podem ser um pouco extravagantes, especialmente quando você considera que muitos sites DDL podem usar hosts de arquivos diferentes, portanto, não seria viável pagar por várias dessas assinaturas.
 
 - [seedr.cc](https://www.seedr.cc/) - Seedbox gratuito que permite baixar torrents de até 2 GiB de tamanho. Se você deseja se tornar premium, evite comprar de semeadores - eles são muito caros. Basta verificar /r/seedboxes para caixas de sementes pagas alternativas.
-- **[Pago]** [real-debrid.com](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o enxame do torrent, que é a principal causa de recebimento de cartas de violação de direitos autorais.
-- **[Pago]** [mega-debrid.eu](https://www.mega-debrid.eu/) - Mesmo conceito que real-debrid
-- **[Pago]** [alldebrid.com](https://alldebrid.com/) - Mesmo conceito do real-debrid
-- **[Pago]** [premiumize.me](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também
+- 🌟 **[Pago]** [Real Debrid](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o enxame do torrent, que é a principal causa de recebimento de cartas de violação de direitos autorais.
+- **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito que real-debrid
+- **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid
+- **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também
 - **[Teste pago / gratuito]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
 - [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd
-- [reevown.com](https://reevown.com/) - Este é um "serviço de download gratuito com o qual você pode realizar downloads premium".
-- [uploadedpremiumlink.net](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium
-- **[Pago]** [linksnappy.com](https://linksnappy.com/) - Agregador de conteúdo que "permite extrair arquivos de vários serviços de armazenamento em nuvem"
+- [Reevown](https://reevown.com/) - Este é um "serviço de download gratuito com o qual você pode realizar downloads premium".
+- [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium
+- **[Pago]** [Linksnappy](https://linksnappy.com/) - Agregador de conteúdo que "permite extrair arquivos de vários serviços de armazenamento em nuvem"
 
 ## ► Diversos
 
-- [simplaza.org](https://www.simplaza.org) - Site pada download de addons, aeronave e cenários para Microsot Flight Simulator 2020 (MSFS2020)
+- 🌟 [simplaza.org](https://www.simplaza.org) - Site pada download de addons, aeronaves e cenários para Microsot Flight Simulator 2020 (MSFS2020)
 - [addic7ed.com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries
 
 ## ► Sites de rastreamento de cena / P2P
