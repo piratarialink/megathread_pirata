@@ -118,10 +118,10 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Fornece emulação precisa e rápida com uma boa seleção de recursos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/melonds.kuribo64.net)
 
-### 🔗 [Lime3DS](https://lime3ds.github.io/) • 3DS
+### 🔗 [Panda3DS](https://panda3ds.com/index.html) • 3DS
 
-- Um fork do emulador Citra. Disponivel para Windows, Linux, Mac e Android
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/lime3ds.github.io/)
+- Emulador HLE (High Level Emulation) com tema de panda-vermelho escrito em C++. Disponivel para Windows, Linux, Mac e Android
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/panda3ds.com/)
 
 ### 🔗 [Mesen2](https://github.com/SourMesen/Mesen2) • Game Boy + NES + SNES
 
