@@ -225,7 +225,7 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - O Launcher nascido na Rússia evoluiu nos últimos anos de um arquivista doméstico para o Repacker mais conhecido da web.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fitgirl-repacks.site/)
 
-### 🌟 [Ecologica Verde](https://x.com/Ecologica_Verde/)
+### 🌟 [Ecológica Verde](https://x.com/Ecologica_Verde/)
 
 - Perfil no Twitter que divulga links confiáveis para jogos via torrent.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/x.com/)

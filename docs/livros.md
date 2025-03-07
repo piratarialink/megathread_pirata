@@ -74,15 +74,35 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, textos acadêmicos e livros de interesse geral.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/z-library.sk/)
 
-## 📑 2 ➜ Leitura no navegador
+## 📑 2 ➜ Pastas no Google Drive
 
-### 📒 [Darkseid Club](https://site.ds-club.net/)  
+### 🔗 [12.000 Livros Kindle!](https://drive.google.com/drive/folders/1EoF3QomxBsoMTBGMEc_J5JW6r6cC-oCy?usp=drive_link)  
+  
+- Vasta variedades de livros para kindle de maneira organizada.
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/drive.google.com/)
+
+### 🔗 [Material Aeronáutico](https://linktr.ee/aviationPiracy)  
+  
+- Três pastas distintas com materiais diversos de aviação, incluindo simulados e livros para banca ANAC de piloto privado, comercial e comissário.
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/linktr.ee/)
+
+### 🔗 [Conteúdo para Concursos](https://drive.google.com/drive/folders/1bZyXHZP8BZfxAARxOHR0eURaZ9R_Ducz?usp=drive_link)  
+  
+- Pasta contendo as disciplinas fundamentais para concursos.
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/drive.google.com/)
+
+## 📑 3 ➜ Leitura no navegador
+
+### 🔗 [Darkseid Club](https://site.ds-club.net/)  
   
 - O Darkseid Club é um grupo formado por fãs da nona arte e em especial pelo universo da editora DC Comic
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/site.ds-club.net/)
 
-## 📑 3 ➜ Aplicativos para Computador
+## 📑 4 ➜ Aplicativos para Computador
 
 ### 🔗 [HakuNeko](https://hakuneko.download/)
 
@@ -102,7 +122,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - Plugin para o Calibre para remover DRM de livros comprados na Amazon ou Google Books.
 
-## 📑 4 ➜ Mangá
+## 📑 5 ➜ Mangá
 
 ### 🌸 [SlimeRead](https://slimeread.com/)
 
@@ -189,7 +209,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - O portal oferece uma grande seleção de quadrinhos mangá para todos os leitores e um layout amigável e simples de navegar. (Só aplicar o Filtro para Português BR)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangafire.to/)
 
-## 📑 5 ➜ Buscadores
+## 📑 6 ➜ Buscadores
 
 ### 🌟 [Arquivo da Anna](https://pt.annas-archive.org/)
 
@@ -206,7 +226,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Os usuários são ajudados pelo mecanismo de pesquisa a encontrar downloads gratuitos de e-books. Ele também permite alternar para uma função de pesquisa de Audiobook.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravebooksearch.com/)
 
-## 📑 6 ➜ Streaming
+## 📑 7 ➜ Streaming
 
 ➜ Os sites abaixo são gringos e apenas oferecem conteúdos em inglês
 ➜ Caso você conheça algum site de livros e audiobooks em português, mande ele [aqui](https://lemmy.dbzer0.com/post/5116448).
@@ -231,7 +251,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Histórias de áudio feitas para crianças. Relaxe e deixe a imaginação dos seus filhos vagar por reinos fantásticos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/storynory.com/)
 
-## 📑 7 ➜ Torrents
+## 📑 8 ➜ Torrents
 
 ### 🧲 [Academic Torrents](https://academictorrents.com/)
 
@@ -250,7 +270,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Para obter um convite, [veja esta página](https://www.myanonamouse.net/inviteapp.php) para mais detalhes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/myanonamouse.net/)
 
-## 📑 8 ➜ Audio Livros Sites
+## 📑 9 ➜ Audio Livros Sites
 
 ### ▶️ [AppAudioBooks](https://appaudiobooks.com/)
 
@@ -298,7 +318,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hotaudiobooks.com/)
 
 
-## 📑 9 ➜ Grupos/Canais no Telegram
+## 📑 10 ➜ Grupos/Canais no Telegram
 
 ### 🔗 [A_ Biblioteca](https://t.me/a_biblioteca)
 

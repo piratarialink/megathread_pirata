@@ -1,7 +1,7 @@
-# Guia Melhorado: Ativação do Windows e Office
+# Ativação do Windows e Office
 
 **Atenção:**  
-Este guia destina-se apenas a fins informativos. Os métodos descritos (HWID para Windows e Ohook para Office, ambos desenvolvidos por Massgravel) são utilizados para ativação não autorizada dos softwares, o que pode violar os termos de uso e a legislação aplicável. Utilize-os por sua própria conta e risco.
+Este guia destina-se apenas a fins informativos. Os métodos descritos (HWID para Windows e Ohook para Office, ambos desenvolvidos por Massgravel) são utilizados para ativação não autorizada dos softwares.
 
 ## Introdução
 
