@@ -83,15 +83,15 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
   
 ### 📺️ [sportsurge.net](https://sportsurge.net/)
 
-- Transmissões ao vivo. MMA, boxe, automobilismo, basquete, futebol, hóquei
+- Transmissões ao vivo. MMA, boxe, automobilismo, basquete, futebol americano, hóquei
 
 ### 📺️ [sporthd.live](https://sporthd.live/)
 
-- Transmissões ao vivo. Futebol, MMA, handebol, basquete, rúgbi, futebol, tênis e outros
+- Transmissões ao vivo. Futebol, MMA, handebol, basquete, rúgbi, futebol americano, tênis e outros
 
 ### 📺️ [sportsbay.sx](https://sportsbay.sx/)
 
-- Transmissões ao vivo. Futebol, futebol, basquete, hóquei, beisebol, NCAA, tênis, críquete, esportes motorizados
+- Transmissões ao vivo. Futebol, futebol americano, basquete, hóquei, beisebol, NCAA, tênis, críquete, esportes motorizados
 
 ### 📺️ [worldcupfootball.me](https://www.worldcupfootball.me/)
 
@@ -111,13 +111,18 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### 📺️ [ripple.is](https://ripple.is/)
 
-- Transmissões ao vivo. Futebol, MMA, boxe, automobilismo, basquete, futebol
+- Transmissões ao vivo. Futebol, MMA, boxe, automobilismo, basquete, futebol americano
 
 ### 📺️ [nflbite.com](https://home.nflbite.com/)
 
-- Transmissões ao vivo. Futebol
+- Transmissões ao vivo. Futebol americano
 
 ### 📺️ [nbabite.com](https://nbabite.com/)
+
+- Transmissões ao vivo. MMA (UFC)
+
+### 📺️ [mmastreams.cc](https://tonight.mmastreams.cc/)
+
 
 - Transmissões ao vivo. Basquetebol
 
