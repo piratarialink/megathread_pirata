@@ -33,5 +33,5 @@ features:
   - icon: ⭐
     title: Grupo do Telegram
     details: No nosso grupo do telegram temos mais de 2 mil pessoas trocando informações e dicas.
-    link: "https://t.me/+sJQOt4p729xhYTBh"
+    link: "https://t.me/+h_qC4y3EukxlOGUx"
 ---
