@@ -15,9 +15,10 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 
 ## 📑 1 ➜ Programas
 
-### 🌟 [Hydra](https://github.com/hydralauncher/hydra) 
+### 🌟 [Hydra](https://github.com/hydralauncher/hydra)
 
 - Hydra é um launcher de jogos com seu próprio cliente bittorrent integrado e um scraper de repack autogerenciado.
+- [Links](https://hydralinks.cloud) para fontes Hydra.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)
