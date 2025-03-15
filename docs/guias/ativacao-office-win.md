@@ -1,17 +1,14 @@
 # Ativação do Windows e Office
 
-**Atenção:**  
-Este guia destina-se apenas a fins informativos. Os métodos descritos (HWID para Windows e Ohook para Office, ambos desenvolvidos por Massgravel) são utilizados para ativação não autorizada dos softwares.
-
 ## Introdução
 
-Neste tutorial, você aprenderá como baixar e ativar o Windows e o Office utilizando os métodos gratuitos “HWID” (para Windows 10/11) e “Ohook” (para Office). O procedimento é baseado em um post de [Ok_Table7457](https://www.reddit.com/r/Piracy/comments/1814gmp/guide_how_to_pirate_microsoft_office_properly/).
+Neste tutorial, você aprenderá como baixar e ativar o Windows e o Office utilizando os métodos gratuitos “HWID” (para Windows 10/11) e “Ohook” (para Office). Pule para a etapa 2, caso já tenha o Office ou Windows instalado. 
 
-## 1. Download dos Arquivos de Instalação
+## 1. Download do Windows ou Office
 
 1. Acesse o site do [Massgrave](https://massgrave.dev/genuine-installation-media.html).
 2. Localize a seção referente a **Windows e Office**.
-3. Para o Office, selecione a opção **"Office C2R Installers (Retail)"** na versão PT-BR. Para Windows escolha **"Windows 11 Consumer 24H2"** na build recomendada e no método MSDL.
+3. Para baixar o Office, selecione a opção **"Office C2R Installers (Retail)"** na versão PT-BR. Para baixar o Windows escolha **"Windows 11 Consumer 24H2"** na build recomendada e no método MSDL.
    > **Dica:** A versão indicada com um ícone de coração costuma ser a mais recomendada.
 
 ## 2. Preparando a Ativação
