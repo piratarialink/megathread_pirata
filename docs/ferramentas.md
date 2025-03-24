@@ -77,6 +77,9 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► **Extensões para o navegador**
 
+:::warning Addons podem quebrar algumas páginas
+:::
+
 - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
 - [LocalCDN](https://addons.mozilla.org/pt-BR/firefox/addon/localcdn-fork-of-decentraleyes/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
 - [Referer Control](https://addons.mozilla.org/en-US/firefox/addon/referercontrol/) - Controla o que mandado como HTTP Referer em cada site.
@@ -165,7 +168,8 @@ Para clientes de torrent Android, consulte: [Mobile](mobile)
 
 ## ► **Segurança**
 
-Não recomendamos piratear nenhum antivírus pago.
+:::warning Não recomendamos piratear antivírus pago.
+:::
 
 - [av-comparatives.org](https://www.av-comparatives.org/) - Testes de proteção antivírus
 - [VirusTotal.com](https://www.virustotal.com/) - serviço da Web que verifica arquivos e URLs com vários mecanismos antivírus
