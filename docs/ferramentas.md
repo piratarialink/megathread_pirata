@@ -218,11 +218,6 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 - [tomato.to](https://tomato.to/) - Downloader de fotos. Shutterstock, getty, adobestock, etc.
 - [calameodownload.com](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento Calameo público como imagens ou PDF otimizado
 
-## ► Planos de internet móvel
-
-- Vivo Easy - Internet avulsa que você usa até acabar (Não expira).
-- Claro Prezão - 9GB por 24,90 ou 12GB por 30 reais. (Depende de região)
-
 ## ► SSH grátis
 
 São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de dados ilimitada.
