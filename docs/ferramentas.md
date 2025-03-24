@@ -19,8 +19,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 ::: info Extras
 - Tutorias disponíveis em [Pirataria - Guias](guias.md).
 - Links em cache estão disponíveis para permitir que você visualize a página sem precisar fazer login.
-- Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal, são falsos positivos.
-  :::
+- Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal, são falsos positivos. :::
 
 * 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Essa ferramenta ativa o Windows e o Office. [Guia](guias/ativacao-office-win.md)
 
@@ -77,8 +76,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► **Extensões para o navegador**
 
-:::warning Addons podem quebrar algumas páginas
-:::
+:::warning Addons podem quebrar algumas páginas :::
 
 - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
 - [LocalCDN](https://addons.mozilla.org/pt-BR/firefox/addon/localcdn-fork-of-decentraleyes/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
@@ -168,8 +166,7 @@ Para clientes de torrent Android, consulte: [Mobile](mobile)
 
 ## ► **Segurança**
 
-:::warning Não recomendamos piratear antivírus pago.
-:::
+:::warning Não recomendamos piratear antivírus pago. :::
 
 - [av-comparatives.org](https://www.av-comparatives.org/) - Testes de proteção antivírus
 - [VirusTotal.com](https://www.virustotal.com/) - serviço da Web que verifica arquivos e URLs com vários mecanismos antivírus
