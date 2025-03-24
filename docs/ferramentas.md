@@ -68,7 +68,6 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - executável leve que bloqueia e silencia os anúncios do Spotify no Windows.
 - [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Bloquear anúncios no site do Spotify
 - [Bypass-Paywalls-Firefox-Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) - Extensão do Firefox para bloquear paywalls. Os sites suportados estão listados na página do repositório.
-- [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) - Extensão do Chrome para ignorar paywalls.
 - [Bypass paywalls - Método 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o agente do usuário para o Google Bot.
 - [Google-Unlocked](https://github.com/Ibit-to/google-unlocked) - Extensão de navegador de código aberto, que desbloqueia resultados de pesquisa ocultos do Google.
 
