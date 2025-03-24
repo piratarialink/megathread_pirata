@@ -21,33 +21,30 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 - **Better Anime** está com restrições de DMCA, mas funciona normalmente pelo app ou pelo site após login. Se não logar, ele não funcionará.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/betteranime.net/)
 
-### ▶️ [otakuanimes](https://otakuanimesscc.com/)
-- Site completo, **sem anúncios abusivos**.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/otakuanimesscc.com/)
+### ▶️ [Anroll](https://www.anroll.net/)
+- Site completo e **sem anúncios abusivos**.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/anroll.net/)
 
 ### ▶️ [4anime](https://4anime.gg/)
 - Alternativa rápida após o encerramento do 4anime original. Os animes populares têm legendas em PT-BR.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/4anime.gg/)
 
-### ▶️ [Animes House](https://animeshouse.app/)
-- Retorno ou clone do antigo Animes House.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animeshouse.app/)
+### ▶️ [AnimeFire](https://animefire.plus/)
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animefire.plus/)
 
 ### ▶️ [Hinata Soul](https://www.hinatasoul.com/)
 - Oferece **HD e Full HD** para assistir.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/hinatasoul.com/)
 
-### ▶️ [Animesonlinevip](https://animesonlinevip.su/)
+### ▶️ [Animes Digital](https://animesdigital.org/)
 - Site seguro para assistir animes **sem interrupções ou anúncios**.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesonlinevip.su/)
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesdigital.org/)
 
 ### ▶️ [Animesonlinecc](https://animesonlinecc.org/)
-- Menor catálogo, mas uma boa opção caso o Animesonlinevip esteja fora do ar.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesonlinecc.org/)
 
-### ▶️ [KickAssAnime](https://kickassanime.am/)
-- **Ótima qualidade** para lançamentos recentes, com legendas em PT-BR nos animes populares.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/kickassanime.am/)
+### ▶️ [Q1N](https://q1n.net/)
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/q1n.net/)
 
 ## 📑 2 ➜ Downloads Diretos
 
