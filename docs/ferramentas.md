@@ -74,7 +74,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 - 🌟 [Yandex](https://yandex.com/) - Não esconde resultados de navegação por DRM.
 
-## ► **Extensões para o navegador**
+## ► **Extensões para navegador**
 
 :::warning Addons podem quebrar algumas páginas :::
 
