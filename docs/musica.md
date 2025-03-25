@@ -190,10 +190,15 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## 📑 4 ➜ Ferramentas para transferir Playlists
 
-### 🔗 [Spot Transfer](https://spot-transfer.vercel.app/)
+### 🌟 [Spot Transfer](https://spot-transfer.vercel.app/)
 
 - Uma ferramenta para transferir músicas do Spotify para o YouTube.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/spot-transfer.vercel.app/)
+
+### 🔗 [Wemor](https://wemor.vercel.app/)
+
+- Outra ferramenta alternativa para transferir músicas do Spotify para o YouTube.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/wemor.vercel.app/)
 
 ## Está buscando apps para ouvir/baixar **Música** no Celular?
 
