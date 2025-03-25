@@ -22,7 +22,6 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/betteranime.net/)
 
 ### ▶️ [Anroll](https://www.anroll.net/)
-- Site completo e **sem anúncios abusivos**.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anroll.net/)
 
 ### ▶️ [4anime](https://4anime.gg/)
@@ -119,6 +118,11 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 
 ### 🔗 [InfoAnime](https://www.infoanime.com.br/)
 - Acompanhamento de projetos de fansubers e scanlators brasileiros.
+
+## 🧰 6 ➜ Programas
+
+### 🔗 [GoAnime](https://github.com/alvarorichard/GoAnime)
+- Ferramenta CLI que baixa e reproduz animes em PT-BR (Dublado ou legendado).
 
 **Está buscando apps para assistir ou baixar animes no celular?**  
 Confira nosso tópico sobre 📱 [Mobile](mobile#📑-➜-anime-e-manga)
