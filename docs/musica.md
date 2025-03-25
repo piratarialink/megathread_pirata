@@ -190,4 +190,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## Está buscando apps para ouvir/baixar **Música** no Celular?
 
+## 📑 4 ➜ Ferramentas para transferir Playlists
+
+### 🔗 [Spot Transfer](https://spot-transfer.vercel.app/)
+
+- Uma ferramenta para transferir músicas do Spotify para o YouTube.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/spot-transfer.vercel.app/)
+
 ➜ Confira nosso tópico sobre 📱 [Mobile](mobile#📑-➜-musica)
