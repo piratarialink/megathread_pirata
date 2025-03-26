@@ -22,13 +22,18 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [Better Anime](https://discord.com/invite/betteranime) 
 
-- O famoso Better Anime continua operando normalmente, apesar das restrições de DMCA. O acesso segue disponível tanto pelo aplicativo quanto pelo site, desde que o usuário faça login em sua conta. O app foi removido da Play Store e agora pode ser baixado exclusivamente pelo Discord.
+- O famoso Better Anime continua operando normalmente. O acesso segue disponível tanto pelo aplicativo quanto pelo site. O app foi removido da Play Store, download do App pelo [site](https://betteranime.net/) ou discord.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/discord.com/)
 
-### 🌟 [Tomato - A&M](https://play.google.com/store/apps/details?id=com.tomatos.clientapp&hl=pt_BR) 
+### 🌟 [Tomato - A&M](https://play.google.com/store/apps/details?id=com.tomatos.clientapp&hl=pt_BR)
 
 - Um dos Apps mais aclamados para assistir animes e ler mangás em português, oferecendo um vasto catálogo e um design moderno e funcional.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)
+
+### 🌟 [Kotatsu](https://kotatsu.app/) 
+
+- Um leitor de mangá de código aberto simples e conveniente para a comunidade, onde você pode encontrar e ler seu mangá favorito com mais facilidade do que nunca.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kotatsu.app/)
 
 ### 🔗 [Aniyomi](https://aniyomi.org/) 
 
@@ -49,11 +54,6 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Animiru é um fork não oficial do Aniyomi, que é mais um fork não oficial do leitor de mangá gratuito e de código aberto Tachiyomi.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-### 🔗 [Kotatsu](https://kotatsu.app/) 
-
-- Um leitor de mangá de código aberto simples e conveniente para a comunidade, onde você pode encontrar e ler seu mangá favorito com mais facilidade do que nunca.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kotatsu.app/)
 
 ### 🔗 [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) 
 
