@@ -127,10 +127,6 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - **[Pago]** [Notz - SMS](https://t.me/NotzSMSBot?start=1310302765) - Número de telefone temporário para receber sms.
 - [Tg_mirror](https://github.com/viniped/tg_mirror) - Script que clona canais.
 
-## ► Youtube
-
-- Para burlar o anti adblock do site cole esse [código](https://rentry.org/ytantiadblock) na opção "Meus filtros" do ublock origin. Se o problema continuar, desmarque a seguinte [configuração](https://take-me-to.space/ZXzaWDGh.png) em "Listas de filtros".
-
 ## ► Clientes Torrent
 
 Notas: uTorrent [empacotou um minerador de bitcoin opcional e não malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880) . A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.
