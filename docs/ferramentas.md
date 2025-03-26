@@ -10,6 +10,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 :::info ℹ️ Dicas Úteis
 - 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/).
+- 🚨 **Evite usar Google Chrome e até mesmo Chromium:** Navegadores livres como LibreWolf e Falkon são os únicos que garantem sua privacidade.
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
@@ -18,8 +19,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 ::: info Extras
 - Tutorias disponíveis em [Pirataria - Guias](guias.md).
 - Links em cache estão disponíveis para permitir que você visualize a página sem precisar fazer login.
-- Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal. São falsos positivos.
-  :::
+- Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal, são falsos positivos. :::
 
 * 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Essa ferramenta ativa o Windows e o Office. [Guia](guias/ativacao-office-win.md)
 
@@ -67,7 +67,6 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - executável leve que bloqueia e silencia os anúncios do Spotify no Windows.
 - [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Bloquear anúncios no site do Spotify
 - [Bypass-Paywalls-Firefox-Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) - Extensão do Firefox para bloquear paywalls. Os sites suportados estão listados na página do repositório.
-- [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) - Extensão do Chrome para ignorar paywalls.
 - [Bypass paywalls - Método 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o agente do usuário para o Google Bot.
 - [Google-Unlocked](https://github.com/Ibit-to/google-unlocked) - Extensão de navegador de código aberto, que desbloqueia resultados de pesquisa ocultos do Google.
 
@@ -75,9 +74,18 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 - 🌟 [Yandex](https://yandex.com/) - Não esconde resultados de navegação por DRM.
 
+## ► **Extensões para navegador**
+
+:::warning Addons podem quebrar algumas páginas :::
+
+- [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
+- [LocalCDN](https://addons.mozilla.org/pt-BR/firefox/addon/localcdn-fork-of-decentraleyes/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
+- [Referer Control](https://addons.mozilla.org/en-US/firefox/addon/referercontrol/) - Controla o que mandado como HTTP Referer em cada site.
+- [Self Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies-webex/) - Deleta cookies automaticamente.
+
 ## ► **Burladores de paywall**
 
-- 🌟 [Bypass Paywalls Clean](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para Firefox e Chrome para burlar Paywall.
+- 🌟 [Bypass Paywalls Clean](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para Firefox para burlar Paywall.
 - [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
 - [Remove paywall](https://www.removepaywall.com/)
 - [12ft](https://12ft.io/)
@@ -119,10 +127,6 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - **[Pago]** [Notz - SMS](https://t.me/NotzSMSBot?start=1310302765) - Número de telefone temporário para receber sms.
 - [Tg_mirror](https://github.com/viniped/tg_mirror) - Script que clona canais.
 
-## ► Youtube
-
-- Para burlar o anti adblock do site cole esse [código](https://rentry.org/ytantiadblock) na opção "Meus filtros" do ublock origin. Se o problema continuar, desmarque a seguinte [configuração](https://take-me-to.space/ZXzaWDGh.png) em "Listas de filtros".
-
 ## ► Clientes Torrent
 
 Notas: uTorrent [empacotou um minerador de bitcoin opcional e não malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880) . A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.
@@ -158,7 +162,7 @@ Para clientes de torrent Android, consulte: [Mobile](mobile)
 
 ## ► **Segurança**
 
-O Windows Defender deve ser mais do que suficiente para proteção contra vírus, combinado com [malwarebytes](https://www.malwarebytes.com/) como uma precaução extra. Você não precisa de antivírus pagos, nem é recomendável piratear nenhum antivírus pago.
+:::warning Não recomendamos piratear antivírus pago. :::
 
 - [av-comparatives.org](https://www.av-comparatives.org/) - Testes de proteção antivírus
 - [VirusTotal.com](https://www.virustotal.com/) - serviço da Web que verifica arquivos e URLs com vários mecanismos antivírus
@@ -219,11 +223,6 @@ O Windows Defender deve ser mais do que suficiente para proteção contra vírus
 - [calameodownload](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento Calameo público como imagens ou PDF otimizado
 - [Cnvmp3](https://cnvmp3.com/) - Converta vídeos do YouTube para MP3 ou MP4 e baixe-os com nosso conversor rápido e gratuito do YouTube. O CnvMP3 é livre de anúncios, seguro e suporta qualidade de até 320 kbps.
 - [Ezmp3](https://ezmp3.co/) - EzMP3 é o conversor de YouTube para MP3 sem anúncios que permite converter vídeos de até 12 horas de duração. Você pode cortar o áudio e escolher uma taxa de bits de 64 kbps a 320 kbps.
-
-## ► Planos de internet móvel
-
-- Vivo Easy - Internet avulsa que você usa até acabar (Não expira).
-- Claro Prezão - 9GB por 24,90 ou 12GB por 30 reais. (Depende de região)
 
 ## ► SSH grátis
 
