@@ -187,6 +187,7 @@ Apesar dessas ferramentas não estarem diretamente ligadas à pirataria, são de
 * [LazyPY](https://lazypy.ro/tts/)
 * [VoiceCraft](https://github.com/jasonppy/VoiceCraft)
 * [Falatron](https://falatron.com/)
+* [AiSpeaker](https://ai-speaker.net/)
 
 
 ***
