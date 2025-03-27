@@ -271,7 +271,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Vasto banco de dados com 2,6 bilhões de palavras em 60 idiomas que serve praticamente todos os filmes ou programas de TV que você possa imaginar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/opensubtitles.com/)
 
-### 🌟 [SubDl](https://subdl.com/)
+### 🖊️ [SubDl](https://subdl.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/subdl.com/)
 
