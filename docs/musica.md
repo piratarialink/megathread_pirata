@@ -97,6 +97,10 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Com Lucida, você pode baixar músicas diretamente do Spotify, Qobuz, Tidal, Soundcloud, Deezer, Amazon Music, Beatport e Yandex Music em alta qualidade gratuitamente. Sem pegadinhas e sem anúncios obrigatórios.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lucida.to/)
 
+### 🌐 [ytify](https://ytify.netlify.app/)
+
+- ytify é um cliente de streaming gratuito de áudio com eficiência de recursos para o YouTube e o YouTube Music
+  
 ## 📑 3 ➜ Aplicativos para Desktop
 
 ### 🖥️ [ytDownloader](https://ytdn.netlify.app/)
