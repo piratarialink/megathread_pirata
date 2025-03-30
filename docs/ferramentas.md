@@ -10,7 +10,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 :::info ℹ️ Dicas Úteis
 - 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/).
-- 🚨 **Evite usar Google Chrome e até mesmo Chromium:** Navegadores livres como LibreWolf e Falkon são os únicos que garantem sua privacidade.
+- 🚨 **Evite usar Google Chrome e até mesmo Chromium:** Navegadores livres como [LibreWolf](https://librewolf.net/installation/) e [Falkon](https://www.falkon.org/download/) são os únicos que garantem sua privacidade. Se ainda preferir usar o Chrome, sugerimos o [Ungoogled Chrome](https://github.com/ungoogled-software/ungoogled-chromium?tab=readme-ov-file#downloads).
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
@@ -82,6 +82,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
 - [LocalCDN](https://addons.mozilla.org/pt-BR/firefox/addon/localcdn-fork-of-decentraleyes/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
+- [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/)
 - [Referer Control](https://addons.mozilla.org/en-US/firefox/addon/referercontrol/) - Controla o que mandado como HTTP Referer em cada site.
 - [Self Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies-webex/) - Deleta cookies automaticamente.
 
