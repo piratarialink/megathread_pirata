@@ -398,11 +398,6 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Aplicativo de streaming que permite assistir vídeos, filmes e séries de TV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)
 
-### 🌟 [RedeCanais](https://redecanais.la/android/) 
-
-- Streaming de Filmes, TV, Anime e Futebol.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.la/)
-
 
 ## 📑 ➜ Buscadores
 
