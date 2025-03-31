@@ -82,10 +82,12 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
 - [LocalCDN](https://addons.mozilla.org/pt-BR/firefox/addon/localcdn-fork-of-decentraleyes/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
-- [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/)
+- [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/) - Livre-se de requests de cookies em qualquer site.
 - [Referer Control](https://addons.mozilla.org/en-US/firefox/addon/referercontrol/) - Controla o que mandado como HTTP Referer em cada site.
 - [Self Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies-webex/) - Deleta cookies automaticamente.
-
+- [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) - Te protege contra tracking.
+- [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) - Instale temas CSS modificados.
+  
 ## ► **Burladores de paywall**
 
 - 🌟 [Bypass Paywalls Clean](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para Firefox para burlar Paywall.
