@@ -10,7 +10,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 :::info ℹ️ Dicas Úteis
 - 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/).
-- 🚨 **Evite usar Google Chrome e até mesmo Chromium:** Navegadores livres como [LibreWolf](https://librewolf.net/installation/) e [Falkon](https://www.falkon.org/download/) são os únicos que garantem sua privacidade. Se ainda preferir usar o Chrome, sugerimos o [Ungoogled Chrome](https://github.com/ungoogled-software/ungoogled-chromium?tab=readme-ov-file#downloads).
+- 🚨 **Evite usar Google Chrome e até mesmo Chromium:** Navegadores livres e modificações como [LibreWolf](https://librewolf.net/installation/), [Arkenfox](https://github.com/arkenfox/user.js) e [Falkon](https://www.falkon.org/download/) são os únicos que garantem sua privacidade. Se ainda preferir usar o Chrome, sugerimos o [Ungoogled Chrome](https://github.com/ungoogled-software/ungoogled-chromium?tab=readme-ov-file#downloads).
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
