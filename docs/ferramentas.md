@@ -10,7 +10,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 :::info ℹ️ Dicas Úteis
 - 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/).
-- 🚨 **Evite usar Google Chrome e até mesmo Chromium:** Navegadores livres como LibreWolf e Falkon são os únicos que garantem sua privacidade.
+- 🚨 **Evite usar Google Chrome e até mesmo Chromium:** Navegadores livres e modificações como [LibreWolf](https://librewolf.net/installation/), [Arkenfox](https://github.com/arkenfox/user.js) e [Falkon](https://www.falkon.org/download/) são os únicos que garantem sua privacidade. Se ainda preferir usar o Chrome, sugerimos o [Ungoogled Chrome](https://github.com/ungoogled-software/ungoogled-chromium?tab=readme-ov-file#downloads).
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
@@ -19,7 +19,8 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 ::: info Extras
 - Tutorias disponíveis em [Pirataria - Guias](guias.md).
 - Links em cache estão disponíveis para permitir que você visualize a página sem precisar fazer login.
-- Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal, são falsos positivos. :::
+- Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal, são falsos positivos.
+:::
 
 * 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Essa ferramenta ativa o Windows e o Office. [Guia](guias/ativacao-office-win.md)
 
@@ -76,13 +77,17 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► **Extensões para navegador**
 
-:::warning Addons podem quebrar algumas páginas :::
+:::warning Addons podem quebrar algumas páginas 
+:::
 
 - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
 - [LocalCDN](https://addons.mozilla.org/pt-BR/firefox/addon/localcdn-fork-of-decentraleyes/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
+- [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/) - Livre-se de requests de cookies em qualquer site.
 - [Referer Control](https://addons.mozilla.org/en-US/firefox/addon/referercontrol/) - Controla o que mandado como HTTP Referer em cada site.
 - [Self Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies-webex/) - Deleta cookies automaticamente.
-
+- [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) - Te protege contra tracking.
+- [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) - Instale temas CSS modificados.
+  
 ## ► **Burladores de paywall**
 
 - 🌟 [Bypass Paywalls Clean](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para Firefox para burlar Paywall.
@@ -162,7 +167,8 @@ Para clientes de torrent Android, consulte: [Mobile](mobile)
 
 ## ► **Segurança**
 
-:::warning Não recomendamos piratear antivírus pago. :::
+:::warning Não recomendamos piratear antivírus pago. 
+:::
 
 - [av-comparatives.org](https://www.av-comparatives.org/) - Testes de proteção antivírus
 - [VirusTotal.com](https://www.virustotal.com/) - serviço da Web que verifica arquivos e URLs com vários mecanismos antivírus
