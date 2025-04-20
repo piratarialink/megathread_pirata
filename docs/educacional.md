@@ -144,29 +144,23 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Videoaulas zipadas e em streaming para você assistir sem sair do Telegram.
 
+### 🔗 [Império Cursos](https://t.me/imperiocursos)
+
+- Meio utilizado apenas como um portal de acesso para o canal oficial.
+
 ### 🤖 [Search bot](https://t.me/en_SearchBot)
 
 - Substitui a busca nativa e obsoleta do Telegram. Ótimo para encontrar cursos.
-
-### 🔗 [Brasil Cursos📚](https://t.me/Cursos_Filmes_Livros)
-
-- Materiais para concursos, estudos e livros.
 
 ### 🔗 [Extreme Cursos](https://t.me/Extreme_CursosGratis)
 
 -  Conteúdo diverso.
 
-### 🔗 [NOSSO CONCURSO](https://t.me/NOSSOCONCURSO)
-
-- Aqui você encontrará questões de provas e exercícios de concursos públicos e exames em geral.
-
 ### 🔗 [Árvore do Conhecimento - Canal](https://t.me/arveduconhecimentu)
-
-### 🔗 [Educa Free](https://t.me/educafree1)
 
 ### 🔗 [Solidários](https://t.me/GrupoSolidarios)
 
-### 🔗 [ENEM SOLIDÁRIO 2024!⏳📚!](https://t.me/Enemmateriais2023)
+### 🔗 [ENEM SOLIDÁRIO 2025!⏳📚!](https://t.me/Enemmateriais2025)
 
 - Comunidade ativa para compartilhamento de materiais para o ENEM.
 
