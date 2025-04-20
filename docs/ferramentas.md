@@ -99,10 +99,10 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► **Scripts de usuário úteis**
 
-- [**Violentmonkey**](https://violentmonkey.github.io/) - Gerenciador de script de usuário de código aberto. Necessário para instalar qualquer um dos scripts de usuário abaixo
-- [**Tampermonkey**](https://www.tampermonkey.net/) - Gerenciador de script de usuário de código aberto. Necessário para instalar alguns userscripts
+- [**Violentmonkey**](https://violentmonkey.github.io/) - Gerenciador de script de usuário de código aberto.
+- [**Tampermonkey**](https://www.tampermonkey.net/) - Gerenciador de script de usuário de código aberto.
 - [**greasyfork.org**](https://greasyfork.org/) - Repo para incontáveis ​​userscripts úteis
-- [**userscripts-mirror.org**](https://userscripts-mirror.org/) - Repositório alternativo de scripts. Espelho para Userscripts.org
+- [**userscripts-mirror.org**](https://userscripts-mirror.org/) - Repositório alternativo de scripts. Espelho para Userscripts.org.
 - [**openuserjs.org**](https://openuserjs.org/) - repositório alternativo de scripts
 - [musescore-downloader](https://github.com/Xmader/musescore-downloader) - Baixe partituras de musescore gratuitamente
 - [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adiciona botão ao lado de URLs encurtados que resolve o URL para sua localização verdadeira
@@ -173,7 +173,7 @@ Para clientes de torrent Android, consulte: [Mobile](mobile)
 - [av-comparatives.org](https://www.av-comparatives.org/) - Testes de proteção antivírus.
 - [VirusTotal.com](https://www.virustotal.com/) / [Metadefender](https://metadefender.com/) - Serviços da Web que verificam arquivos e URLs.
 - [Guia do r/techsupport sobre remoção de malware](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/)
-- [Passos preliminares para se evitar contaminações por malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide/)
+- [Passos preliminares para evitar contaminações por malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide/)
 - [Guia de segurança do MediaSavvy em PT-BR](https://mediasavvy-pages-dev.translate.goog/Wiki/Security?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)
 
 ## ► Gerenciadores de mídia
