@@ -446,13 +446,8 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 ### 🌟 [ReVanced](https://revanced.app) 
 
 - Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário o APK do Youtube)
-- [Guia para aplicar ReVanced no YT](https://phtn.app/post/lemmy.dbzer0.com/2897980)
+- [Guia para aplicar ReVanced no YT(Utilize um ADB para instalar a versão sugerida do youtube)](https://phtn.app/post/lemmy.dbzer0.com/2897980)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/revanced.app/)
-
-### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis) 
-
-- Aplicativo Android para baixar Video/Audio usando yt-dlp.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [Seal](https://github.com/JunkFood02/Seal) 
 
@@ -462,6 +457,11 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 ### 🔗 [Seeker Android](https://github.com/jackBonadies/SeekerAndroid)
 
 - Cliente Android para a rede peer-to-peer do Soulseek
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis) 
+
+- Aplicativo Android para baixar Video/Audio usando yt-dlp.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 
