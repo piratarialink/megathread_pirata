@@ -9,7 +9,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 :::
 
 :::info ℹ️ Dicas Úteis
-- 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/).
+- 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](https://undelete.pullpush.io/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/).
 - 🚨 **Evite usar Google Chrome e até mesmo Chromium:** Navegadores livres e modificações como [LibreWolf](https://librewolf.net/installation/), [Arkenfox](https://github.com/arkenfox/user.js) e [Falkon](https://www.falkon.org/download/) são os únicos que garantem sua privacidade. Se ainda preferir usar o Chrome, sugerimos o [Ungoogled Chrome](https://github.com/ungoogled-software/ungoogled-chromium?tab=readme-ov-file#downloads).
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
@@ -83,7 +83,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
 - [LocalCDN](https://addons.mozilla.org/pt-BR/firefox/addon/localcdn-fork-of-decentraleyes/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
 - [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/) - Livre-se de requests de cookies em qualquer site.
-- [Referer Control](https://addons.mozilla.org/en-US/firefox/addon/referercontrol/) - Controla o que mandado como HTTP Referer em cada site.
+- [Referer Control](https://addons.mozilla.org/en-US/firefox/addon/referercontrol/) - Controla o que é mandado como HTTP Referer em cada site.
 - [Self Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies-webex/) - Deleta cookies automaticamente.
 - [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) - Te protege contra tracking.
 - [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) - Instale temas CSS modificados.
@@ -128,7 +128,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 ## ► Telegram
 
 - [Vidsender](https://github.com/viniped/vidsender) - Método mais fácil para upar vários vídeos de uma vez só em um canal privado.
-- [Image reverse search](https://t.me/reverse_image_search_bot) - Bot de busca reversa de imagens.
+- [Group help](https://t.me/GroupHelpBot) - Te ajuda a administrar seus grupos com facilidade e segurança.
 - **[Pago]** [Notz - SMS](https://t.me/NotzSMSBot?start=1310302765) - Número de telefone temporário para receber sms.
 - [Tg_mirror](https://github.com/viniped/tg_mirror) - Script que clona canais.
 
