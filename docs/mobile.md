@@ -459,6 +459,11 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Cliente Android para a rede peer-to-peer do Soulseek
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
+### 🌟 [Shizuku](https://github.com/RikkaApps/Shizuku) 
+
+- Escala privilégios no android sem a necessidade de realizar root. [Apps que funcionam com o shizuku.](https://technastic-com.translate.goog/best-shizuku-apps-mods-android/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
 ### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis) 
 
 - Aplicativo Android para baixar Video/Audio usando yt-dlp.
