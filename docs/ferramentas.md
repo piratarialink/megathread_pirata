@@ -129,7 +129,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 - [Vidsender](https://github.com/viniped/vidsender) - Método mais fácil para upar vários vídeos de uma vez só em um canal privado.
 - [Group help](https://t.me/GroupHelpBot) - Te ajuda a administrar seus grupos com facilidade e segurança.
-- **[Pago]** [Notz - SMS](https://t.me/NotzSMSBot?start=1310302765) - Número de telefone temporário para receber sms.
+- [Clonechat](https://github.com/R3ddinho/Clonechat-Telegram-Colab-bk) - Clone canais do telegram com o Google Colaboratory.
 - [Tg_mirror](https://github.com/viniped/tg_mirror) - Script que clona canais.
 
 ## ► Clientes Torrent
