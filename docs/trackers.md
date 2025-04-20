@@ -101,7 +101,7 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 - Não há recrutamento no momento.
 
 ### 🧲 [DigitalCore](https://digitalcore.club/signup/) | DC
-- Vagas abertas, de longe um dos trackers mais fáceis para aprender a usar apesar de pecar na falta de conteúdo de ponta.
+- De longe um dos trackers mais fáceis para aprender a usar apesar de pecar na falta de conteúdo de ponta.
 
 ### 🧲 [GazelleGames](https://gazellegames.net) | GGn 
 - Focado em games
@@ -170,6 +170,9 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 
 ### 🧲 [Sktorrent](https://sktorrent.org/) 
 -  Tracker semi-privado focado em games.
+
+### 🧲 [Rutracker](https://rutracker.net/forum/index.php) 
+-  Tracker generalista russo.
 
 ➜ [Veja a lista completa de trackers gringos aqui](https://www.invitehawk.com/trackerlist)
 
