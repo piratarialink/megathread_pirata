@@ -79,10 +79,10 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 - Assista a vídeos sobre modelagem e animação 3D, incluindo muito material CG Persia.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/online-courses.club/)
 
-### 🔗 [UDEMY 24](https://udemy24.com/)
+### 🔗 [UDEMY 24](https://coursesbag.com/)
 
 - Oferecendo cursos e tutoriais gratuitos da Udemy que são simples de seguir. Uma maneira fantástica de desenvolver habilidades é através do auto-estudo.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/udemy24.com/)
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/coursesbag.com/)
 
 ### 🔗 [FreeCourseSite](https://freecoursesite.com/)
 
@@ -120,19 +120,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🧲 [DownloadFreeCourse](https://downloadfreecourse.com/) - Cursos
 
-### 🧲 [GetFreeCourses](https://getfreecourses.co/) - Cursos
+### 🧲 [Docspedia](https://docspedia.world/signup.php) - Cursos / Inscrição Necessária
 
-### 🧲 [TutorialsPlanet](https://tutorialsplanet.net/) - Cursos
-
-### 🧲 [FreeCoursesOnline](https://freecoursesonline.me/) - Cursos
-
-### 🧲 [Docspedia](https://docspedia.world/) - Cursos / Inscrição Necessária
-
-### 🧲 [Paid Courses for Free](https://paidcoursesforfree.com/) - Cursos da Udemy
-
-### 🧲 [Online Free Course](https://www.onlinefreecourse.net/) - Cursos Udemy
-
-### 🧲 [Curso Giga](https://gigacourse.com/) - Cursos Udemy
+### 🧲 [Online Free Course](https://www.onlinefreecourse.net/) - Cursos da Udemy
 
 ### 🧲 [Pimp My Money](https://pimpmymoney.net/) - Cursos de Marketing Digital
 
