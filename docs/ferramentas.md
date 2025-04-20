@@ -170,9 +170,10 @@ Para clientes de torrent Android, consulte: [Mobile](mobile)
 :::warning Não recomendamos piratear antivírus pago. 
 :::
 
-- [av-comparatives.org](https://www.av-comparatives.org/) - Testes de proteção antivírus
-- [VirusTotal.com](https://www.virustotal.com/) - serviço da Web que verifica arquivos e URLs com vários mecanismos antivírus
-- [Guia do r/techsupport sobre remoção de malware](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Tópico do Reddit
+- [av-comparatives.org](https://www.av-comparatives.org/) - Testes de proteção antivírus.
+- [VirusTotal.com](https://www.virustotal.com/) / [Metadefender](https://metadefender.com/) - Serviços da Web que verificam arquivos e URLs.
+- [Guia do r/techsupport sobre remoção de malware](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/)
+- [Passos preliminares para se evitar contaminações por malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide/)
 - [Guia de segurança do MediaSavvy em PT-BR](https://mediasavvy-pages-dev.translate.goog/Wiki/Security?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)
 
 ## ► Gerenciadores de mídia
@@ -322,6 +323,6 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Open Cloud Saves](https://opencloudsaves.com/) - Open Cloud Save é um aplicativo gratuito que permitirá sincronizar seus dados salvos em todos os seus dispositivos. Roda em Windows, MacOS e Linux.
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 - [doc downloader](https://docdownloader.com/) - Downloader de Scribd, Issuu, Slideshare.
-- [I2P](https://geti2p.net/en/) - Rede que fornece forte proteção e sigilo para comunicação através da internet. É recomendável usá-lo no lugar do protocolo Tor.
+- [Rewind](https://github.com/Neo23x0/Rewind) - Medidas imediatas contra infecção por vírus.
 
 Mais ferramentas no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=29)
