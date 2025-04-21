@@ -4,7 +4,7 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 ## ► Geral
 
-- [Como usar um DNS Privado no Android e bloquear anúncios + desbloquear sites censurados](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/) - Feito por [u/YuriRosas](https://www.reddit.com/user/YuriRosas/)
+- [Como usar um DNS Privado no Android e bloquear anúncios + desbloquear sites censurados](https://undelete.pullpush.io/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/) - Feito por [u/YuriRosas](https://www.reddit.com/user/YuriRosas/)
 
 - [Como desbloquear sites bloqueados pelas operadoras](https://phtn.app/post/lemmy.dbzer0.com/146129) - Feito por [u/Dreadwhole](https://phtn.app/u/Dreadwhole@lemmy.dbzer0.com)
 
