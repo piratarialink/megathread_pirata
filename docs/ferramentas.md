@@ -293,6 +293,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - 🌟 [Simplaza-org](https://www.simplaza.org) - Site para download de addons, aeronaves e cenários para o Microsot Flight Simulator 2020 (MSFS2020).
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
+- [Open Cloud Saves](https://opencloudsaves.com/) - Open Cloud Save é um aplicativo gratuito que permitirá sincronizar seus dados salvos em todos os seus dispositivos. Roda em Windows, MacOS e Linux.
 
 ### ► **Launchers de jogos**
 
@@ -321,6 +322,5 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 ## ► **Ferramentas Diversas**
 
 - [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries
-- [Open Cloud Saves](https://opencloudsaves.com/) - Open Cloud Save é um aplicativo gratuito que permitirá sincronizar seus dados salvos em todos os seus dispositivos. Roda em Windows, MacOS e Linux.
 - [doc downloader](https://docdownloader.com/) - Downloader de Scribd, Issuu, Slideshare.
 - [Rewind](https://github.com/Neo23x0/Rewind) - Medidas imediatas contra infecção por vírus.
