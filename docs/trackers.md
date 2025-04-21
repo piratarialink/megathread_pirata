@@ -11,7 +11,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ## 📑 ➜ Trackers Brasileiros
 
 :::warning Nota
-Novo brsociety com canal no telegram trata-se de golpe.
+Brsociety-pro trata-se de golpe.
 :::
 
 ### 🧲 [Anime No Sekai](https://ansktracker.net/) | ANSK
