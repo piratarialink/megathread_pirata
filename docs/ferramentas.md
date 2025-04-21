@@ -290,7 +290,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 ### ► **Geral**
 
-- 🌟 [simplaza.org](https://www.simplaza.org) - Site pada download de addons, aeronaves e cenários para Microsot Flight Simulator 2020 (MSFS2020)
+- 🌟 [Simplaza-org](https://www.simplaza.org) - Site para download de addons, aeronaves e cenários para o Microsot Flight Simulator 2020 (MSFS2020).
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 
