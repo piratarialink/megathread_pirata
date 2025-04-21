@@ -321,6 +321,6 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 
 ## ► **Ferramentas Diversas**
 
-- [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries
+- [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries.
 - [doc downloader](https://docdownloader.com/) - Downloader de Scribd, Issuu, Slideshare.
 - [Rewind](https://github.com/Neo23x0/Rewind) - Medidas imediatas contra infecção por vírus.
