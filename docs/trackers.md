@@ -10,6 +10,9 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ## 📑 ➜ Trackers Brasileiros
 
+:::warning Novo brsociety com canal no telegram trata-se de golpe.
+:::
+
 ### 🧲 [Anime No Sekai](https://ansktracker.net/) | ANSK
 - Tracker de lançamentos internos da fansub ANSK com 20 anos de atividade.
 - Oferece um bot XDCC público para download de packs via IRC.
