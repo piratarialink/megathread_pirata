@@ -274,11 +274,6 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 - [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium
 - **[Pago]** [Linksnappy](https://linksnappy.com/) - Agregador de conteúdo que "permite extrair arquivos de vários serviços de armazenamento em nuvem"
 
-## ► Diversos
-
-- 🌟 [simplaza.org](https://www.simplaza.org) - Site pada download de addons, aeronaves e cenários para Microsot Flight Simulator 2020 (MSFS2020)
-- [addic7ed.com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries
-
 ## ► Sites de rastreamento de cena / P2P
 
 Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritamente como quadros de avisos e não oferecem downloads de nenhum conteúdo postado.
@@ -292,6 +287,12 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para versões P2P
 
 ## ► Ferramentas para Jogos
+
+### ► **Geral**
+
+- 🌟 [simplaza.org](https://www.simplaza.org) - Site pada download de addons, aeronaves e cenários para Microsot Flight Simulator 2020 (MSFS2020)
+- [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
+- [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 
 ### ► **Launchers de jogos**
 
@@ -315,13 +316,11 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 - [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Legit DLC Unlocker for Epic Online Services. Funciona apenas para jogos que você possui. Recursos como multijogador, conquistas, etc. permanecem totalmente funcionais.
 
-### ► **Ferramentas Diversas**
+Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=29)
 
-- [Legen](https://github.com/matheusbach/legen) - Usa IA para transcrever localmente a fala de arquivos de mídia, gerando arquivos de legenda, traduzindo as legendas geradas, inserindo-as no contêiner mp4 e gravando-as diretamente em vídeo. Mais melhorias ainda estão por vir.
-- [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
+## ► **Ferramentas Diversas**
+
+- [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries
 - [Open Cloud Saves](https://opencloudsaves.com/) - Open Cloud Save é um aplicativo gratuito que permitirá sincronizar seus dados salvos em todos os seus dispositivos. Roda em Windows, MacOS e Linux.
-- [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 - [doc downloader](https://docdownloader.com/) - Downloader de Scribd, Issuu, Slideshare.
 - [Rewind](https://github.com/Neo23x0/Rewind) - Medidas imediatas contra infecção por vírus.
-
-Mais ferramentas no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=29)
