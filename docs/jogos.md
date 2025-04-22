@@ -1,4 +1,4 @@
-# 🎮 ➜ Jogos
+ # 🎮 ➜ Jogos
 
 Os jogos requerem interação com uma interface de usuário ou dispositivo de entrada, como um controlador ou teclado, para produzir feedback audiovisual divertido.
 
@@ -245,6 +245,11 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 
 - Fornecem jogos DRM-FREE de fontes que foram cuidadosamente examinadas antes de serem disponibilizadas para download.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/freegogpcgames.com/)
+
+### 🧲 [Free Linux PC Games](https://freelinuxpcgames.com/)
+
+- Fornece jogos pré-instalados e com instaladores compátiveis diretamente com linux, sem precisar da camada de compatibilidade Wine.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/freelinuxpcgames.com/)
 
 ### 🧲 [KaOsKrew](https://kaoskrew.org/)
 
