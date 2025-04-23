@@ -8,12 +8,24 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [Megaturbo](https://megaturbo.org)
 
+- Aberto para cadastros.
+
 ### 🧲 [FileWarez 2.0](https://filewarez.club/) | FW
+
+- Cadastro apenas com convite.
 
 ### 🧲 [HubWarez](https://hubwarez.tv/forum/register.php)
 
+- Cadastro apenas com convite.
+
 ### 🧲 [Share Flash](https://www.shareflash.xyz/)
+
+- Aberto para cadastros.
 
 ### 🧲 [Tela de Cinema](https://teladecinema.forumeiros.com/) | TDC
 
+- Aberto para cadastros.
+  
 ### 🧲 [TheToonZ](https://www.thetoonz.com/) | TTZ
+
+- Cadastro apenas com convite.
