@@ -11,7 +11,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ## 📑 ➜ Trackers Brasileiros
 
 :::warning Nota
-Brsociety-pro é golpe.
+Brsociety-pro é golpe! [Saiba mais.](https://t.me/CopyrightBR/1935)
 :::
 
 ### 🧲 [Anime No Sekai](https://ansktracker.net/) | ANSK
