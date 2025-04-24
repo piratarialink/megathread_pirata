@@ -24,7 +24,7 @@ Brsociety-pro é golpe! [Saiba mais.](https://t.me/CopyrightBR/1935)
 - Ativo desde 2019, um dos trackers de conteúdo geral BR mais antigos, atrás apenas do BJ.
 - Sistema de doações oficiais em troca de convites (atualmente desabilitado).
 
-  ### 🧲 [BJ Share](https://bj-share.info/login.php?c) | BJ
+### 🧲 [BJ Share](https://bj-share.info/login.php?c) | BJ
 - Conteúdo geral/Gazelle.
 - O maior tracker nacional no momento. Aberto após o fim do antigo BJ.
 
