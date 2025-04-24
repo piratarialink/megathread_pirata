@@ -24,6 +24,12 @@ Brsociety-pro é golpe! [Saiba mais.](https://t.me/CopyrightBR/1935)
 - Ativo desde 2019, um dos trackers de conteúdo geral BR mais antigos, atrás apenas do BJ.
 - Sistema de doações oficiais em troca de convites (atualmente desabilitado).
 
+  ### 🧲 [BJ Share](https://i.bj-share.info/login) | BT
+- Conteúdo geral/Gazelle.
+- Ativo desde 2018, parte da “santíssima trindade” dos trackers brasileiros junto com o ASC e o BJ.
+- Fluxo de uploads mais lento, mas constante, com número razoável de seeders.
+- Aberto ocasionalmente para novos cadastros.
+
 ### 🧲 [Brasil Tracker](https://brasiltracker.org/index.php) | BT
 - Conteúdo geral/Gazelle.
 - Ativo desde 2018, parte da “santíssima trindade” dos trackers brasileiros junto com o ASC e o BJ.
