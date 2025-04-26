@@ -8,7 +8,7 @@
 - [💩](https://www.dicio.com.br/merda/) = Particularmente evitado pela comunidade pirata.
   :::
 
-:::danger Nunca se cadastre-se nesses sites
+:::danger Nunca cadastre-se nesses sites
 
 - O registo de uma conta nestes sites acarreta um nível de perigo significativo, dadas as vulnerabilidades digitais presentes no mundo cibernético.
 - Os ataques de phishing geralmente exploram usuários que, sem saber, divulgam informações pessoais que podem ser abusadas sutilmente.
