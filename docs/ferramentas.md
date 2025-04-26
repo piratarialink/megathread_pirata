@@ -197,13 +197,14 @@ Para clientes de torrent Android, consulte: [Mobile](mobile)
 * [pyLoad](https://pyload.net/) - Gerenciador de downloads leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
 * [aria2](https://aria2.github.io/) - Utilitário de download baseado em linha de comando.
 
-## ► Outras ferramentas de download
+## ► Outras ferramentas de download/mídia
 
 * [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
 * [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto de vários sites e muito mais.
 * **[Pago]** [Tubedigger](https://www.tubedigger.com/) - Baixa vídeos da hotmart em alguns casos apenas.
 * 🌟 [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente. Para o melhor resultado, utilize a URL do iframe do vídeo em vez da URL da barra de navegação.
-* [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6
+* [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6.
+* [ffmpeg](https://www.gyan.dev/ffmpeg/builds/) - Converte e grava áudio e vídeo.
 * [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript para baixar vídeos do youtube
 * [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript para baixar legendas do youtube
 * [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injetor para despejar aplicativos UWP
@@ -317,7 +318,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 - [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Legit DLC Unlocker for Epic Online Services. Funciona apenas para jogos que você possui. Recursos como multijogador, conquistas, etc. permanecem totalmente funcionais.
 
-Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=29)
+Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=29).
 
 ## ► **Ferramentas Diversas**
 
