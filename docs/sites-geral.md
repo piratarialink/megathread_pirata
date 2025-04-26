@@ -111,11 +111,7 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 - Como um diretório de índice, o RARBG caído é preservado, com todos os rastreadores públicos novos e antigos adicionados.
 
-:::warning "Aviso"
-Não possui resultados de segurança da URL por usar proxy.
-:::
-
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rarbg.best/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rarbgdump.com/)
 
 ### 🧲 [Rustorka](https://rustorka.com/forum/index.php) • Interface em russo
 
@@ -177,7 +173,7 @@ Não possui resultados de segurança da URL por usar proxy.
 
 ### 🔗 [Alternativeto](https://alternativeto.net/)
 
-- Compara sites e softwares e indexa links oficiais de download/acesso dos mesmos.
+- Compara sites e programas e indexa links oficiais de acesso/download dos mesmos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/alternativeto.net/)
 
 ## 📑 4 ➜ Dados da cena dos Trackers
