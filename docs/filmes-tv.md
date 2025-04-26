@@ -57,10 +57,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## ▶️ Legendados
 
-### 🌟 [Freek.to](https://freek.to/)
+### 🌟 [Freek](https://moviemaze.cc)
 - Freek.to aparentemente comprou o Binged
 - Uma infinidade de filmes, séries e animes. Aceita legenda que vc baixou de outros sites.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/freek.to/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/moviemaze.cc/)
 
 ### 🌟 [Cinema Deck](https://cinemadeck.com/)
 - Mergulhe em um mundo de entretenimento ilimitado com milhares de filmes e programas de TV abrangendo vários gêneros.
