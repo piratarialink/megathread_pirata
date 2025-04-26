@@ -32,7 +32,7 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🔗 [Meawfy](https://meawfy.com/)
 
-- Um mecanismo de busca especializado em encontrar arquivos hospedados no Mega.nz (anteriormente Megaupload), incluindo uma gama de conteúdo como filmes, software, videogames e muito mais.
+- Um mecanismo de busca especializado em encontrar arquivos hospedados no Mega.nz.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/meawfy.com/)
 
 ### 🔗 [Mediafire Trend](https://mediafiretrend.com/)
@@ -174,6 +174,11 @@ Não possui resultados de segurança da URL por usar proxy.
 
 - Notícias de pirataria.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentfreak.com/)
+
+### 🔗 [Alternativeto](https://alternativeto.net/)
+
+- Compara sites e softwares e indexa links oficiais de download/acesso dos mesmos.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/alternativeto.net/)
 
 ## 📑 4 ➜ Dados da cena dos Trackers
 
