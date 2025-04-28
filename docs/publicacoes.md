@@ -8,6 +8,8 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 - [Como desbloquear sites bloqueados pelas operadoras](https://phtn.app/post/lemmy.dbzer0.com/146129) - Feito por [u/Dreadwhole](https://phtn.app/u/Dreadwhole@lemmy.dbzer0.com)
 
+- [Coletânea de coisas úteis para privacidade e segurança](util/coletanea-uteis-privacidade-seguranca.md) - Feito por [u/Broering](https://phtn.app/u/broering@lemmy.eco.br)
+
 - [Tutorial de como instalar uBlock Origin pre-configurado com Hagezi + TwitchAdSolutions](https://phtn.app/post/lemmy.dbzer0.com/146206) - Feito por [u/Dreadwhole](https://phtn.app/u/Dreadwhole@lemmy.dbzer0.com)
 
 - [Ah se eu pudesse traduzir conteúdos em tempo real!](https://phtn.app/post/lemmy.dbzer0.com/4186580) - Feito por [u/Dreadwhole](https://phtn.app/u/Dreadwhole@lemmy.dbzer0.com)
