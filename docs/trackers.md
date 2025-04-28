@@ -34,7 +34,7 @@ Brsociety-pro é golpe! [Saiba mais.](https://t.me/CopyrightBR/1935)
 - Fluxo de uploads mais lento, mas constante, com número razoável de seeders.
 - Aberto ocasionalmente para novos cadastros.
 
-### 🧲 [Brasil Japão Share](https://bj-share.info/) | BJS | BJ
+### 🧲 [Brasil Japão Share](https://bj-share.info/) | BJS
 - Conteúdo geral.
 - Ativo desde 2002, é o tracker brasileiro mais tradicional.
 - Inicialmente operou como warez, migrou para torrent privado em 2016.
