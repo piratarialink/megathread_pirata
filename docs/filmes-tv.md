@@ -19,6 +19,19 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.ps/)
 
+### 🌟 [Mega Filmes](https://megafilmeshdoline.com/)
+- Site com vasto conteúdo de filmes e séries para assistir gratuitamente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/megafilmeshdonline.com/)
+
+
+### 🌟 [Hypeflix](https://hypeflix.org/)
+- Site com muitos conteúdos grátis de filmes e séries para assistir gratuitamente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hypeflix.org/)
+
+### 🌟 [Seu Seriado](https://seuseriados.com/)
+- Site com vasto conteúdo de séries para assistir gratuitamente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/seuseriados.com/)
+
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
