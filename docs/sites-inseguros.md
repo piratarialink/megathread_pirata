@@ -70,12 +70,6 @@
 | BBRepacks           | bbrepacks-com                          | **Vírus**: (_Detectado com malware_).                                                                |
 | Seyter / Qoob       | seyter-com / qoob-com                  | **Vírus**: (_Detectado com malware, tentou mudar de nome_).                                          |
 
-# 🎦 ➜ Filmes e TV
-
-| 📋 **NOME** | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                                              |
-| :---------- | :-------------------------- | :----------------------------------------------------------------------------------------------------------- |
-| YTS         | yts-mx                      |  **Clone falso**: (_Criado para enganar usuários de propósito_). |
-
 # ⚙️ ➜ Software
 
 | 📋 **NOME**    | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                               |
