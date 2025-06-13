@@ -67,7 +67,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Este projeto de aplicativo da web foi criado para baixar faixas e listas de reprodução do SoundCloud. Cole seu link e curta sua música!
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadsound.cloud/)
 
-### 🌐 [Spotify Downloader](https://spotify-downloader.com/)
+### 🌐 [Spotify Downloader](https://spotdownloader.com/)
 
 - Aplicativo da Web simples que permite o download de músicas em uma faixa, álbum ou lista de reprodução.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/spotify-downloader.com/)
