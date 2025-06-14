@@ -1,4 +1,4 @@
-# 👟 ➜ Esportes
+# ⚽ ➜ Esportes
 
 Esporte refere-se à atividade física ou jogo, geralmente competitivo, que utiliza as habilidades e habilidades de uma pessoa enquanto entretém os espectadores.
 
