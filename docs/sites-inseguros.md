@@ -73,7 +73,6 @@
 | BBRepacks           | bbrepacks-com                          | **Vírus** (_Detectado com malware_).                                                                |
 | Seyter / Qoob       | seyter-com / qoob-com                  | **Vírus** (_Detectado com malware, tentou mudar de nome_).                                          |
 
----
 # 📱 ➜ Mobile
 
 | 📋 **NOME** | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                                              |
