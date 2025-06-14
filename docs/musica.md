@@ -15,6 +15,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## 📑 1 ➜ Downloads Diretos
 
+### 🌟 [4download](https://4download.net/softwares/windows/audio-tools-win/audio-plugins/)
+
+- Plugins de música.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4download.net/)
+
 ### 🔗 [3ost](https://3ost.ru/) • Cadastre-se • Interface em russo
 
 - Excelentes trilhas sonoras sem perdas e com perdas (_FLAC e MP3 320kbps_) de jogos, filmes e desenhos animados estão incluídas nesta coleção.
