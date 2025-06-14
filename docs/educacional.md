@@ -144,20 +144,21 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ## ☁ ➜ Pastas na nuvem
  ###### [Base 64](https://www.base64decode.org/pt/)
 
-### 📂 Material Aeronáutico 
-- `aHR0cHM6Ly9saW5rdHIuZWUvYXZpYXRpb25QaXJhY3k=`
+### 📂 [Material Aeronáutico](https://linktr.ee/aviationPiracy)
 
-### 📂 Conteúdo para Concursos 
-- `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWJaeVhIWlA4QlpmeEFBUnhPSFIwZVVSYVo5Ul9EdWN6P3VzcD1kcml2ZV9saW5rCg==`
+- Três pastas distintas com materiais diversos de aviação, incluindo simulados e livros para banca ANAC de piloto privado, comercial e comissário.
 
-### 📂 Apostilas antigas do SENAI
-- `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWNpZHNqN3dBZzRpR01BdnlWUXR6ZzhweEw1RDU2OVpT `
+### 📂 [Conteúdo para Concursos ](https://drive.google.com/drive/folders/1bZyXHZP8BZfxAARxOHR0eURaZ9R_Ducz?usp=drive_link)
 
-### 📂 Drive de Pobre
-- `aHR0cHM6Ly9kcml2ZWRlcG9icmUuY29tLw==`
+- Pasta contendo as disciplinas fundamentais para concursos.
 
-### 📂 12.000 Livros Kindle!
-- `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUVvRjNRb214QnNvTVRCR01FY19KNUpXNnI2Y0Mtb0N5P3VzcD1kcml2ZV9saW5rCg==`
+### 📂 [Apostilas antigas do SENAI](https://drive.google.com/drive/folders/1cidsj7wAg4iGMAvyVQtzg8pxL5D569ZS)
+
+### 📂 [Drive de Pobre](https://drivedepobre.com/)
+
+### 📂 [12.000 Livros Kindle!](https://drive.google.com/drive/folders/1EoF3QomxBsoMTBGMEc_J5JW6r6cC-oCy?usp=drive_link)
+
+- Variedade de livros para kindle de maneira organizada.
 
 ## ![](https://files.catbox.moe/7ad7g5.png) ➜ Grupos/Canais/Bots no Telegram
 
