@@ -23,7 +23,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/brazilalliance.com.br/)
 ### 🔗 [Tribo Gamer](https://tribogamer.com/traducoes/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tribogamer.com/)
-### 🔗 [Central de Traduções](https://www.centraldetraducoes.net.br/) ![]((https://t.me/CentralDeTraducoes) 
+### 🔗 [Central de Traduções](https://www.centraldetraducoes.net.br/) [![](https://files.catbox.moe/7ad7g5.png)](https://t.me/CentralDeTraducoes) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/centraldetraducoes.net.br/)
 ### 🔗 [Fórum RHDNBR](https://www.romhacking.net.br/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhacking.net.br/)
