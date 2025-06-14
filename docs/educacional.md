@@ -142,7 +142,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### 🧲 [Pimp My Money](https://pimpmymoney.net/) - Cursos de Marketing Digital
 
 ## ☁ ➜ Pastas na nuvem
- ###### [Base 64](https://www.base64decode.org/pt/)
 
 ### 📂 [Material Aeronáutico](https://linktr.ee/aviationPiracy)
 
