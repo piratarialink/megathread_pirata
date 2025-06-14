@@ -59,7 +59,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megacanais.com/)
 
-### 📺️ [Futemax](https://futemax.la/)
+### 📺️ [Futemax](https://futemax.luxe/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.la/)
 
