@@ -1,3 +1,4 @@
+
 ## 📑 ➜ Android
 
 ### 🔗 [APK Editor Studio](https://qwertycube.com/apk-editor-studio/)
@@ -491,9 +492,10 @@
 
 - TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-!!! note ℹ️ Dica sobre extensões
+- 
+:::info ℹ️ Dica sobre extensões
     - Planilha no Docs com informações das extensões para ser usado em apps como Aniyomi, Tachiyomi, Dantotsu e etc. [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
+:::
 
 ## 📑 ➜ Filmes e TV
 
