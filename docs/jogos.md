@@ -13,7 +13,26 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 📑 1 ➜ Programas
+## 📑 ➜ Traduções de Jogos
+
+Esses são alguns site para encontrar tradução PT-BR para seus jogos:
+
+### 🔗 [GAMEVICIO](https://www.gamevicio.com/traducoes/) • Fora de atividade
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamevicio.com/)
+### 🔗 [Brazil Alliance](https://brazilalliance.com.br/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/brazilalliance.com.br/)
+### 🔗 [Tribo Gamer](https://tribogamer.com/traducoes/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tribogamer.com/)
+### 🔗 [Central de Traduções](https://www.centraldetraducoes.net.br/) ![]((https://t.me/CentralDeTraducoes) 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/centraldetraducoes.net.br/)
+### 🔗 [Fórum RHDNBR](https://www.romhacking.net.br/) 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhacking.net.br/)
+### 🔗 [Jogos Legendados e Dublados](https://jogostraduzidos.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/jogostraduzidos.com/)
+### 🔗 [GGames](https://ggames.com.br/) 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gggames.com.br/)
+  
+## 📑 ➜ Programas
 
 ### 🌟 [Hydra](https://github.com/hydralauncher/hydra)
 
@@ -26,12 +45,30 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - Utiliza o navegador Rclone personalizado, desenvolvido pelo grupo repacker ARMGDDN Games, que possibilita o download direto de jogos para PC, VR e não-VR. Seu código-fonte foi auditado e possui uma reputação consolidada na comunidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cs.rin.ru/)
 
-## 📑 2 ➜ Downloads diretos
+### 🌟 [Steam Auto Crack](https://github.com/SteamAutoCracks/Steam-auto-crack) / [2](https://github.com/BigBoiCJ/SteamAutoCracker) - Usa o emulador Goldberg para jogos offline que só rodam com a licença da Steam. Não crackeia jogos com denuvo.
+
+### 🔗 [Smart Online Fix](https://github.com/BadKiko/steam-online-fix-launcher) - Ferramenta para iniciar e organizar jogos do online-fix-me no Linux.
+
+## 📑 ➜ Downloads diretos
+
+
+### 🌟 [AnkerGames](https://ankergames.net/)
+
+- Jogos populares pré-instalados.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ankergames.net/)
 
 ### 🌟 [CS.RIN.RU: Steam Underground](https://cs.rin.ru/forum/) • Necessário Cadastro
 
 - Maior fórum do mundo dedicado à pirataria de videogames, é uma valiosa fonte de jogos com vasto conhecimento.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cs.rin.ru/)
+
+### 🔗 [CDX](https://www.skidrowcodex.net/)
+
+:::warning Sites com a combinação de nomes: Codex, Cpy, Skidrow, Hoodlum, Reloaded, Simplex, Darksiders, Plaza, etc. podem não ser seguros. Baixe com cautela.
+:::
+
+- Burla o Denuvo de alguns jogos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/skidrowcodex.net/)
   
 ### 🔗 [online-fix.me](https://online-fix.me/)
 
@@ -160,7 +197,30 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - Explore uma vasta coletânea de jogos para Windows, Linux e Mac.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/worldofpcgames.com/)
 
-## 📑 3 ➜ Jogos de navegador
+## 📑 ➜ Launchers de jogos
+
+### 🚀 [Legacy Launcher](https://llaun.ch/pt-BR) 
+
+- Launcher seguro para Minecraft, ao contrário do TLauncher
+
+### 🚀 [Playnite](https://playnite.link/) 
+
+- Launcher universal de jogos para Windows
+### 🚀 [GOG Galaxy](https://www.gog.com/galaxy) 
+
+- Launcher universal de jogos para Windows/MacOS
+### 🚀 [Lutris](https://lutris.net/) 
+
+- Launcher universal de jogos para Linux
+### 🚀 [Bottles](https://flathub.org/apps/com.usebottles.bottles) 
+
+- Launcher universal de jogos para Linux
+
+### 🚀 [Heroic Games Launcher](https://heroicgameslauncher.com/) 
+
+- Launcher de jogos da Epic e GOG para Linux
+
+## 📑 ➜ Jogos de navegador
 
 ### 🌐 [Addicting Games](https://www.addictinggames.com/)
 
@@ -197,7 +257,7 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - Jogos online de seus clássicos retrô favoritos de SNES, NES, SEGA, GBA, GBX e muitos outros.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/playretrogames.com/)
 
-## 📑 4 ➜ Buscadores
+## 📑 ➜ Buscadores
 
 ### 🔍 [Mecanismo de busca programável](https://cse.google.com/cse?cx=20c2a3e5f702049aa)
 
@@ -214,7 +274,7 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - Os usuários são ajudados pelo mecanismo de busca a encontrar downloads de videogames gratuitos. Inclui novos links, bem como uma lista de sites atualizados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravegamesearch.pages.dev/)
 
-## 📑 5 ➜ Torrents
+## 📑 ➜ Torrents
 
 ### 🌟 [DODI Repacks](https://dodi-repacks.site/)
 
@@ -270,14 +330,6 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 
 - Um site que oferece links diretos via Mediafire, Drive, Mega e Link Magnet, jogos para PC e para celular e com adições semanais de jogos no site.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nuvemazul.org/)
-
-## Traduções de Jogos
-
-Esses são alguns site para encotrar tradução PT-BR para seus jogos:
-
-- [GAMEVICIO](https://www.gamevicio.com/traducoes/) - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamevicio.com/)
-- [Central de Traduções](https://www.centraldetraducoes.net.br/) - [Resultados de segurança da URL](https://www.urlvoid.com/scan/centraldetraducoes.net.br/)
-- [Forum Hardmob](https://www.hardmob.com.br/threads/130505-Traducoes-de-Jogos) - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hardmob.com.br/)
 
 ## Está buscando Emuladores e ROMs?
 
