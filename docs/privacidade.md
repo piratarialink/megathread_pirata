@@ -49,9 +49,6 @@ O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Hab
 
 ![Librewolf](https://files.catbox.moe/l7fok6.png)
 
-!!! info 
-     Disponível para Android, Windows e Linux. 
-
 ### [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 
 É um projeto opensource (código aberto), baseado em Chromium, mas sem manipulação do Google: remove os serviços e rastreamento do Google e telemetria.
