@@ -56,7 +56,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 ### 🧭 [Sites de Uso Geral](sites-geral.md)
 - Sites de múltiplos propósitos desde buscadores de torrent, agregadores e rastreadores DHT para encontrar o máximo de conteúdo público possível.
 
-### ⭐ [Anime](anime.md)
+### ⛩️ [Anime](anime.md)
 - Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora também possa ser aplicado a outras animações, como Donghua.
 
 ### 📚 [Livros](livros.md)
@@ -106,12 +106,12 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
 # 📑 ➜ Outros tesouros
 
-### 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
-### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
+### 📁 [Awesome Warez](https://lkrjangid1.github.io/Awesome-Warez/)
 ### 📁 [MediaSavvy](https://mediasavvy.pages.dev/)
+### 📁 [PiracyBG-PTBR](https://rentry.org/PiracyBG-PTBR)
+### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
 ### 📁 [EverythingMoe](https://everythingmoe.com/)
 ### 📁 [FMHY](https://fmhy.pages.dev/)
-### 📁 [Pirated Games Megathread](https://rentry.org/pgames)
 ### 📁 [Ripped](https://ripped.guide/)
 ### 📁 [The Index](https://theindex.moe/)
 ### 📁 [Wotaku](https://wotaku.pages.dev/)
