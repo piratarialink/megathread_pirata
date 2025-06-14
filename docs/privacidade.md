@@ -4,6 +4,8 @@
 Essa página ainda é um esboço. Feito com base nas recomendações do [PrivacyGuides](https://www.privacyguides.org/).
 :::
 
+## Panorama da Segurança
+
 A privacidade na internet é crucial para encontrar um equilíbrio entre a transparência e o anonimato. Embora seja importante responsabilizar aqueles que cometem crimes ou propagam conteúdos prejudiciais na internet, também é essencial garantir que as pessoas possam se expressar anonimamente quando necessário, sem medo de represálias ou exposição excessiva. Esse equilíbrio protege a liberdade de expressão e a diversidade de vozes, permitindo que todos tenham a oportunidade de participar do espaço digital de maneira segura e inclusiva.
 
 > "O ciclo da vida: consumir recursos para produzir objetos que logo se tornarão lixo. Dados são coletados para criar desejos, lucro e poder, e para gerar medo, autocensura e resignação. Viver com medo é realmente uma experiência marcante, não é? Isso é o que significa ser um escravo." - [autistici.org](https://www.autistici.org/who/telltale)
@@ -31,23 +33,30 @@ A inviolabilidade do lar só pode ser excepcionada em casos de flagrante delito,
 O Navegador Mullvad é uma versão do Navegador Tor com as integrações da rede Tor removidas, com o objetivo de fornecer as tecnologias de antirreconhecimento (anti-fingerprinting) do Navegador Tor. Ele é desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
 
 - Anti-Fingerprinting
-- Private Browsing Mode
+- Modo de navegação privata
 - uBlock Origin
 
-:::info 
-Disponível para Windows e Linux.
+:::info Disponível para Windows e Linux.
 :::
 
-### [Mull Browser](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
+### [Librewolf](https://librewolf.net/)
 
-O Mull é um navegador orientado para a privacidade baseado na tecnologia da Mozilla. Ele habilita muitos recursos upstreamed pelo projeto Tor Uplift usando as preferências do projeto arkenfox-user.js. Recomenda-se a instalação do "uBlock Origin" como addon para o navegador. 
+O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Habilita o recurso upstreamed do RFP pelo projeto Tor Uplift e já vem com o Ublock Origin pré-instalado.
 
-- Anti-Fingerprinting (Strong)
-- Não tem conexão com a Mullvad
+- Tecnologia Anti-Fingerprinting (Forte)
+- Não é afiliado com a Mozila foundation
+- Sem telemetria (coleta de dados sobre o uso do usuário)
 
-:::info 
-Disponível somente para Android.
-::: 
+![Librewolf](https://files.catbox.moe/l7fok6.png)
+
+!!! info 
+     Disponível para Android, Windows e Linux. 
+
+### [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
+
+É um projeto opensource (código aberto), baseado em Chromium, mas sem manipulação do Google: remove os serviços e rastreamento do Google e telemetria.
+Todavia requer que o usuário configure de maneira manual, para uma privacidade ainda mais robusta.
+
 
 ### [Cromite](https://github.com/uazo/cromite)
 
