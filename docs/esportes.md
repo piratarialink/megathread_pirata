@@ -40,10 +40,10 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ## ► Esportes
 
-### 🌟 [Rede Canais](https://xn--90afacaz8cml9ac9f.xn--p1ai/)
+### 🌟 [Rede Canais](https://redecanais.gs/)
 
 - Oferece Canais de Esportes também
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.gs/)
 
 ### 📺️ [TV0800](https://tv0800.pro/)
 
@@ -54,7 +54,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megacanais.com/)
 
-### 📺️ [Futemax](https://futemax.luxe/)
+### 📺️ [Futemax](https://futemax.rent/) / [2](https://futemax.luxe/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.la/)
 
