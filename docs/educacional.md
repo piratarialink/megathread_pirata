@@ -14,7 +14,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 :::
 
 
-## 📑 ➜ E-learning
+## 🎓 ➜ Streaming
 
 ### 🌟 **[Cursos de programação Dev Samurai](https://class.devsamurai.com.br/)** - A plataforma encerrou as vendas e liberou o download gratuitamente de todos os conteúdos até dezembro de 2025.
 
@@ -39,6 +39,8 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### ▶️ **[pensarcursos](https://www.pensarcursos.com.br/)** - Cursos
 
 ### ▶️ **[openuped](https://www.openuped.eu/courses)** - Cursos
+
+### ▶️ **[eu capacito](https://eucapacito.com.br)** - Cursos
 
 ### ▶️ **[wr educacional](https://www.wreducacional.com.br/lista-de-cursos)** - Cursos
 
@@ -68,7 +70,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[uniasselvi](https://portal.uniasselvi.com.br/cursolivre)** - Cursos
 
-## 📑 ➜ Downloads diretos
+---
+
+## 📥 ➜ Downloads diretos
 
 ### 🌟 **[Cursos do Polemic Knowledge](https://linktr.ee/bepolemic)** - Acesse o Polemic ZIP, filmes e docs no linktree.
 
@@ -79,10 +83,10 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 - Assista a vídeos sobre modelagem e animação 3D, incluindo muito material CG Persia.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/online-courses.club/)
 
-### 🔗 [UDEMY 24](https://udemy24.com/)
+### 🔗 [UDEMY 24](https://coursesbag.com/)
 
 - Oferecendo cursos e tutoriais gratuitos da Udemy que são simples de seguir. Uma maneira fantástica de desenvolver habilidades é através do auto-estudo.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/udemy24.com/)
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/coursesbag.com/)
 
 ### 🔗 [FreeCourseSite](https://freecoursesite.com/)
 
@@ -108,35 +112,54 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 - Cursos maioria em Inglês, foco em livros para TI.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/coderprog.com/)
 
+---
+
 ## 📑 ➜ Torrents
 
-### 🧲 [DownloadCursosTop](https://downloadcursos.top/) - Cursos
+### 🧲 [Download Cursos Top](https://downloadcursos.top/) - Cursos nacionais
 
 ### 🧲 [Course Torrent / DDL CSE](https://cse.google.com/cse?cx=37dfc1f1ac9ef45e7) - Pesquisa de cursos em vários sites
 
+### 🧲 [Academic Torrents](https://academictorrents.com/) - Cursos
+
 ### 🧲 [Course Club](https://courseclub.me/) - Cursos
 
-### 🧲 [FreeCourseSite](https://freecoursesite.com/) - Cursos
+### 🧲 [Free Course Site](https://freecoursesite.com/) - Cursos
 
-### 🧲 [DownloadFreeCourse](https://downloadfreecourse.com/) - Cursos
+### 🧲 [Download Free Course](https://downloadfreecourse.com/) - Cursos
 
-### 🧲 [GetFreeCourses](https://getfreecourses.co/) - Cursos
+### 🧲 [Online Torrent Courses](https://onlinetorrentcourses.com) - Cursos nacionais
 
-### 🧲 [TutorialsPlanet](https://tutorialsplanet.net/) - Cursos
+### 🧲 [Docspedia](https://docspedia.world/signup.php) - Cursos / Inscrição Necessária
 
-### 🧲 [FreeCoursesOnline](https://freecoursesonline.me/) - Cursos
+### 🧲 [Download Cursos Gratis](https://www.downloadcursos.org/) - Cursos nacionais  
+***Desative o JS, aperte F12 antes que o site carregue e exclua a linha que contém 'mdp-deblocker-js-disabled'***
 
-### 🧲 [Docspedia](https://docspedia.world/) - Cursos / Inscrição Necessária
+### 🧲 [Online Free Course](https://www.onlinefreecourse.net/) - Cursos da Udemy
 
-### 🧲 [Paid Courses for Free](https://paidcoursesforfree.com/) - Cursos da Udemy
-
-### 🧲 [Online Free Course](https://www.onlinefreecourse.net/) - Cursos Udemy
-
-### 🧲 [Curso Giga](https://gigacourse.com/) - Cursos Udemy
+### 🧲 [Download Cursos](https://www.downloadcursos.org/) - Cursos nacionais
 
 ### 🧲 [Pimp My Money](https://pimpmymoney.net/) - Cursos de Marketing Digital
 
-## 📑 ➜ Grupos/Canais/Bots no Telegram
+## ☁ ➜ Pastas na nuvem
+ ###### [Base 64](https://www.base64decode.org/pt/)
+
+### 📂 Material Aeronáutico 
+- `aHR0cHM6Ly9saW5rdHIuZWUvYXZpYXRpb25QaXJhY3k=`
+
+### 📂 Conteúdo para Concursos 
+- `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWJaeVhIWlA4QlpmeEFBUnhPSFIwZVVSYVo5Ul9EdWN6P3VzcD1kcml2ZV9saW5rCg==`
+
+### 📂 Apostilas antigas do SENAI
+- `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWNpZHNqN3dBZzRpR01BdnlWUXR6ZzhweEw1RDU2OVpT `
+
+### 📂 Drive de Pobre
+- `aHR0cHM6Ly9kcml2ZWRlcG9icmUuY29tLw==`
+
+### 📂 12.000 Livros Kindle!
+- `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUVvRjNRb214QnNvTVRCR01FY19KNUpXNnI2Y0Mtb0N5P3VzcD1kcml2ZV9saW5rCg==`
+
+## ![](https://files.catbox.moe/7ad7g5.png) ➜ Grupos/Canais/Bots no Telegram
 
 ### 🔗 [Polemic Knowledge Clone](https://t.me/+-eUQNwLw9G5mNDUx)
 
@@ -148,35 +171,37 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🔗 [Hydra Cursos Clone](https://t.me/+J_e3iO0gjPUwZjcx)
 
-- Coletânea do antigo grupo Hydra
+- Coletânea do grupo do Picasso.
 
 ### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 
 - Videoaulas zipadas e em streaming para você assistir sem sair do Telegram.
 
+### 🔗 [Império Cursos](https://t.me/imperiocursos)
+
+- Hud utilizado apenas como um portal de acesso para o canal oficial.
+
 ### 🤖 [Search bot](https://t.me/en_SearchBot)
 
-- Substitui a busca nativa e obsoleta do Telegram. Ótimo para encontrar cursos.
-
-### 🔗 [Brasil Cursos📚](https://t.me/Cursos_Filmes_Livros)
-
-- Materiais para concursos, estudos e livros.
+- Substitui a busca nativa e obsoleta do Telegram. Excelente meio para encontrar arquivos e cursos que não são tão acessíveis dentro do app.
 
 ### 🔗 [Extreme Cursos](https://t.me/Extreme_CursosGratis)
 
 -  Conteúdo diverso.
 
-### 🔗 [NOSSO CONCURSO](https://t.me/NOSSOCONCURSO)
+### 🔗 [Rumo ao ITA](https://t.me/rumoaoita)
 
-- Aqui você encontrará questões de provas e exercícios de concursos públicos e exames em geral.
+- Possui material e cartilha que irão te ensinar do zero a passar no ITA.
+  
+### 🔗 [MEDPIRATEX Clone](https://t.me/+amXzkYHJwYdjNjUx)
+
+- Reúne materiais do medicina livre, Estratégia MED, entre outros.
 
 ### 🔗 [Árvore do Conhecimento - Canal](https://t.me/arveduconhecimentu)
 
-### 🔗 [Educa Free](https://t.me/educafree1)
-
 ### 🔗 [Solidários](https://t.me/GrupoSolidarios)
 
-### 🔗 [ENEM SOLIDÁRIO 2024!⏳📚!](https://t.me/Enemmateriais2023)
+### 🔗 [ENEM SOLIDÁRIO 2025!⏳📚!](https://t.me/Enemmateriais2025)
 
 - Comunidade ativa para compartilhamento de materiais para o ENEM.
 
