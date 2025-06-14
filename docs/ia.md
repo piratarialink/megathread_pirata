@@ -27,14 +27,15 @@ Apesar dessas ferramentas não estarem diretamente ligadas à pirataria, são de
 * ⭐ [groq](https://groq.com/) - Llama 3 e Chatbots Mixtral
 * ⭐ [ChatPDF](https://www.chatpdf.com/) ou [Ask Your PDF](https://askyourpdf.com/) - Converta livros em chatbots
 * ⭐ [Gemini](https://gemini.google.com/) ou [Gemma](https://github.com/google/gemma.cpp), [2](https://ai.google.dev/gemma/) - Chatbots da Google
+* ⭐ [Manus](https://manus.im/) - IA chinesa
 * [TypeSet](https://typeset.io/) ou [Elicit](https://elicit.com/) - Chatbots para pesquisa acadêmica
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
 * [Mistral](https://chat.mistral.ai/chat) - Diversos Chatbots / Precisa de cadastro
 * [Lambda Chat](https://lambda.chat/chatui/) - Llama 3.1 / ilimitado
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [Pi](https://pi.ai/talk) - Chatbot IA com emoções
-* [FreedomGPT](https://chat.freedomgpt.com/pt) ou [NoFilterGPT](https://nofiltergpt.com/chat) - Chatbot sem censura
-
+* [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura
+* [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas
 ***
 ### Simulação
 
