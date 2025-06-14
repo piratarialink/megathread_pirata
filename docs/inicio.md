@@ -83,7 +83,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 ### ⚙️ [Softwares](softwares.md)
 - Software é uma coleção de aplicações de computador junto com arquivos de suporte e informações voltadas mais para computadores de mesa.
 
-### 👟 [Esportes](esportes.md)
+### ⚽ [Esportes](esportes.md)
 - Esporte refere-se à atividade física ou jogo, geralmente competitivo, que utiliza as habilidades e habilidades de uma pessoa enquanto entretém os espectadores.
 
 ### 🧰 [Ferramentas](ferramentas.md)
