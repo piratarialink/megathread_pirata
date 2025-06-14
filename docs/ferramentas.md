@@ -134,9 +134,11 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 ## ► Clientes Torrent
 
-!!! note Nota: uTorrent [empacotou um minerador de bitcoin opcional e não malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880) . A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.
+:::info Nota: uTorrent [empacotou um minerador de bitcoin opcional e não malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880) . A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.
+:::
 
-!!! danger Cliente Bitlord torrent [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
+:::warning Cliente Bitlord torrent [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
+:::
 
 * 🌟 [**Motrix**](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 * [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent
@@ -292,7 +294,8 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 ## ► **Tor**
 
-!!! danger O pirataria digital não se responsabiliza por links, endereços de phishing, conteúdo ou eventuais perdas causadas dentro da rede.
+:::warning  O pirataria digital não se responsabiliza por links, endereços de phishing, conteúdo ou eventuais perdas causadas dentro da rede.
+:::
 
 - 🧅 [Weird Log](http://laingg42wznukvzjn52cos6bj6brgyiwtxf5rpq3bu5pad56volhe2qd.onion/blog/index.php/2024/01/31/prolegomenos-de-lain-na-rede-cebola/#more-6768)
 - 🧅 [Exílio404](http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion/)
@@ -303,7 +306,8 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 ## ► **Outras extensões para navegador**
 
-!!! danger Add-ons podem quebrar algumas páginas.
+:::warning Add-ons podem quebrar algumas páginas.
+:::
 
 - [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
 - [Allow Right Click](https://github.com/lunu-bounir/allow-right-click/) - Força o clique com o botão de direito, o que traz de volta a opção de inspecionar em sites que bloqueiam as ferramentas de desenvolvedor.
@@ -326,7 +330,8 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 Para hospedar servidores próprios de rust, minecraft, bot do telegram, storage e outros projetos.
 
-!!! note  O cartão de crédito é solicitado apenas para fins de identificação, seu propósito é garantir que o servidor privado não seja utilizado de forma abusiva ou para atividades ilícitas.
+:::info O cartão de crédito é solicitado apenas para fins de identificação, seu propósito é garantir que o servidor privado não seja utilizado de forma abusiva ou para atividades ilícitas.
+:::
 
 - [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter.
 
@@ -342,7 +347,8 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 
 ## ► **Contas premium**
 
-!!! danger O pirataria digital não responde pelo compartilhamento de dados pessoais por terceiros. 
+:::warning O pirataria digital não responde pelo compartilhamento de dados pessoais por terceiros. 
+:::
 
 - [Doxbin](https://t.me/findeveryoneBot) - Bot que coleta credenciais de usuários de diversas plataformas.
 - [STEAM7](https://steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas steam. 
