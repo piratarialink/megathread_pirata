@@ -300,7 +300,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - O Steam Verde é uma plataforma online de jogos para PC e Android, oferecendo downloads via torrent com uma interface organizada. Conta com uma comunidade ativa que fornece tutoriais e suporte, além de manter os usuários informados sobre lançamentos. O site possui proteção antivírus e é baseado na plataforma segura Invision Community.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamverde.net)
 
-### 🧲 [online-fix](https://online-fix.me/)
+### 🧲 [online-fix](https://online-fix.me/) [![](https://files.catbox.moe/7ad7g5.png)](https://t.me/s/onlinefix)
 
 - Jogue jogos online pirata com seus amigos, de forma gratuita com suporte de convite via Steam.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
