@@ -93,7 +93,10 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 - Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos.
 
 ### 🏴‍☠️ [Warez](warez.md)
-- Warez refere-se à distribuição de software, jogos, filmes, cursos e outros conteúdos digitais pirateados. 
+- Warez refere-se à distribuição de software, jogos, filmes, cursos e outros conteúdos digitais pirateados.
+
+### 🚫 [Adulto](adulto.md)
+- Entrando nessa seção, você concorda que é maior de 18 anos de idade.
 
 ---
 
