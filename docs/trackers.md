@@ -8,7 +8,11 @@ Trackers podem ser públicos ou privados. Trackers públicos não demandam cadas
 Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisado quando novos Trackers abrirem cadastros. Verifique também mais sobre convites de trackers no [r/OpenSignups](https://www.reddit.com/r/OpenSignups/) e evite trackers amplamente prejudiciais para a [comunidade](https://www.reddit.com/r/OpenSignups/wiki/index/no-movement-list/).
 :::
 
-## 📑 ➜ Trackers Brasileiros
+## 🔰 ➜ Trackers Brasileiros
+
+:::warning Nota
+    Brsociety-pro é golpe! [Saiba mais.](https://t.me/CopyrightBR/1935)
+:::
 
 ### 🧲 [Anime No Sekai](https://ansktracker.net/) | ANSK
 - Tracker de lançamentos internos da fansub ANSK com 20 anos de atividade.
@@ -18,7 +22,12 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ### 🧲 [Amigos Share Club](https://cliente.amigos-share.club/) | ASC
 - Conteúdo geral/UNIT3D.
 - Ativo desde 2019, um dos trackers de conteúdo geral BR mais antigos, atrás apenas do BJ.
-- Sistema de doações oficiais em troca de convites (atualmente desabilitado).
+- Sistema de "doação" oficial em troca de convites.
+
+### 🧲 [BJ Share](https://bj-share.info/login.php?c) | BJ
+- Conteúdo geral/Gazelle.
+- O maior tracker nacional no momento. Aberto após o fim do antigo BJ.
+- BJ tem seedbox para torrents de filmes e séries antigas, fora disso tem poucos ou nenhum seed.
 
 ### 🧲 [Brasil Tracker](https://brasiltracker.org/index.php) | BT
 - Conteúdo geral/Gazelle.
@@ -26,7 +35,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Fluxo de uploads mais lento, mas constante, com número razoável de seeders.
 - Aberto ocasionalmente para novos cadastros.
 
-### 🧲 [Brasil Japão Share](https://bj-share.info/) | BJS | BJ
+### 🧲 [Brasil Japão Share](https://bj-share.info/) | BJS
 - Conteúdo geral.
 - Ativo desde 2002, é o tracker brasileiro mais tradicional.
 - Inicialmente operou como warez, migrou para torrent privado em 2016.
@@ -69,11 +78,11 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
 - Tracker semi-privado (necessita cadastro, mas qualquer um pode fazer a qualquer momento) de animes legendados por fansubs, ativo desde 2014.
 - Sem H&R, exige apenas ratio global > 0.3.
+---
+## 🌐 ➜ Trackers Estrangeiros
 
-## 📑 ➜ Trackers Gringos
-
-:::info ⚠️ Informação
-PU = Power User (usuário avançado). A primeira classificação quando você sobe de nível. Você precisa ter essa classificação para poder acessar o fórum de convites de um tracker.
+:::info Informação
+    **PU = Power User (usuário avançado):** primeira classificação quando você sobe de nível. Você precisa ter essa classificação para poder acessar o fórum de convites de um tracker.
 :::
 
 ### 🧲 [AlphaRatio](https://alpharatio.cc/) | AR
@@ -101,7 +110,7 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 - Não há recrutamento no momento.
 
 ### 🧲 [DigitalCore](https://digitalcore.club/signup/) | DC
-- Vagas abertas, de longe um dos trackers mais fáceis para aprender a usar apesar de pecar na falta de conteúdo de ponta.
+- De longe, um dos trackers mais fáceis para aprender a usar apesar de pecar na falta de conteúdo de ponta.
 
 ### 🧲 [GazelleGames](https://gazellegames.net) | GGn 
 - Focado em games
@@ -156,8 +165,8 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 - Abrem para novos cadastros anualmente.
 
 ### 🧲 [Academic Torrents](https://academictorrents.com/) | ACA
-
-## 📑 ➜ Trackers Públicos e semi-privados
+---
+## 🚪 ➜ Trackers Públicos e semi-privados
 
 ### 🧲 [Tracker2.Postman](http://tracker2.postman.i2p) 
 - Tracker público na rede I2P.
@@ -168,10 +177,16 @@ PU = Power User (usuário avançado). A primeira classificação quando você so
 ### 🧲 [Extremlymtorrents](https://extremlymtorrents.ws/) 
 -  Tracker generalista semi-privado romeno.
 
+### 🧲 [NNMClub](https://nnmclub.to/)
+- Tracker semi-privado russo.
+
 ### 🧲 [Sktorrent](https://sktorrent.org/) 
 -  Tracker semi-privado focado em games.
 
-➜ [Veja a lista completa de trackers gringos aqui](https://www.invitehawk.com/trackerlist)
+### 🧲 [Rutracker](https://rutracker.net/forum/index.php) 
+-  Tracker generalista russo.
+
+➜ **[Veja a lista completa de trackers aqui](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)**
 
 **Está buscando sites para download de filmes e séries via torrent?**  
 Confira nossos tópicos sobre 🎦 [Filmes e TV](filmes-tv#🧲-torrents) e ⭐ [Anime](anime#📑-3-➜-torrents)
