@@ -89,6 +89,7 @@ export default {
           { text: "🌌 Trackers", link: "trackers" },
           { text: "🏴‍☠️ Warez", link: "warez" },
           { text: "☣️ Sites e Programas Inseguros", link: "sites-inseguros" },
+          { text: "🚫 Adulto", link: "adulto" },
         ],
       },
       {
