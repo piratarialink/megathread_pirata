@@ -45,9 +45,13 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - Utiliza o navegador Rclone personalizado, desenvolvido pelo grupo repacker ARMGDDN Games, que possibilita o download direto de jogos para PC, VR e não-VR. Seu código-fonte foi auditado e possui uma reputação consolidada na comunidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cs.rin.ru/)
 
-### 🌟 [Steam Auto Crack](https://github.com/SteamAutoCracks/Steam-auto-crack) / [2](https://github.com/BigBoiCJ/SteamAutoCracker) - Usa o emulador Goldberg para jogos offline que só rodam com a licença da Steam. Não crackeia jogos com denuvo.
+### 🌟 [Steam Auto Crack](https://github.com/SteamAutoCracks/Steam-auto-crack) / [2](https://github.com/BigBoiCJ/SteamAutoCracker) 
 
-### 🔗 [Smart Online Fix](https://github.com/BadKiko/steam-online-fix-launcher) - Ferramenta para iniciar e organizar jogos do online-fix-me no Linux.
+- Usa o emulador Goldberg para jogos offline que só rodam com a licença da Steam. Não crackeia jogos com denuvo.
+
+### 🔗 [Smart Online Fix](https://github.com/BadKiko/steam-online-fix-launcher) 
+
+- Ferramenta para iniciar e organizar jogos do online-fix-me no Linux.
 
 ## 📑 ➜ Downloads diretos
 
