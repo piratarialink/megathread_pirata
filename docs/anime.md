@@ -130,5 +130,3 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 
 **Está buscando apps para assistir ou baixar animes no celular?**  
 Confira nosso tópico sobre 📱 [Mobile](mobile#📑-➜-anime-e-manga)
-
----
