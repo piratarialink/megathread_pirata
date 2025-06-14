@@ -1,4 +1,4 @@
-# ⭐ Anime
+# ⛩️ Anime
 
 Anime é um estilo de animação originário do Japão, desenhado à mão ou por computador, e também pode se referir a outras produções, como Donghua.
 
@@ -47,6 +47,10 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 
 ## 📑 2 ➜ Downloads Diretos
 
+### 🌟 [Anitsu](https://anitsu.moe/#)
+- Grande catálogo, especialmente para animes obscuros com legenda PT-BR. **Use um media player de sua preferência no lugar do VLC.**
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/anitsu.moe/)
+  
 ### 🔗 [Anime Tosho](https://animetosho.org/)
 - Serviço automatizado que espelha torrents de anime para downloads diretos.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animetosho.org/)
