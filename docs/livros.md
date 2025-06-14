@@ -41,7 +41,9 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🔗 [Sci-Hub](https://sci-hub.se/) / [2](https://sci-hub.st/) / [3](https://sci-hub.ru/) 
 - Acesso ilimitado a todo o conhecimento científico, quebrando paywalls acadêmicos desde 2011.
 ### 🔗 [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion) 
-!!! danger Aviso: contém conteúdo explicito
+:::warning Aviso: contém conteúdo explicito
+:::
+
 - Acervo de livros e cursos na rede tor. Para baixar os vídeos defina o nível de segurança do navegador para padrão.
 ### 🔗 [Projeto Gutenberg](https://gutenberg.org/) 
 - Project Gutenberg é uma biblioteca online de e-books gratuitos. Escolha entre e-books epub e Kindle gratuitos, baixe-os ou leia-os online.
