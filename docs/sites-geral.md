@@ -100,20 +100,10 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Excelente mecanismo de busca BitTorrent DHT que reúne metadados e retorna links magnéticos em vez de armazenar qualquer material.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/btdig.com/)
 
-### 🧲 [BTMET](https://btmet.com/)
-
-- Um mecanismo de pesquisa magnético que pode ser visualizado e permite inícios rápidos de downloads em quase todos os gêneros de mídia para uso gratuito.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/btmet.com/)
-
 ### 🧲 [EXT Torrents](https://ext.to/)
 
 - Mecanismo de busca magnético versátil para downloads rápidos em diversos gêneros de mídia.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ext.to/)
-
-### 🧲 [FileListing](https://filelisting.com/)
-
-- Poderoso mecanismo de pesquisa com bots que verificam, indexam e categorizam constantemente todos os tipos de arquivos de toda a web.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/filelisting.com/)
 
 ### 🧲 [iDope](https://idope.se/)
 
