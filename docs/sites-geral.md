@@ -75,9 +75,10 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ## 📑 ➜ Torrents
 
-### 🌟 [Bitmagnet](https://github.com/bitmagnet-io/bitmagnet)
+### 🌟 [Bitmagnet](https://bitmagnet.io/setup/installation.html)
 
 - Indexador BitTorrent, rastreador DHT e buscador de torrents.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bitmagnet.io/)
 
 ### 🧲 [1337x](https://1337x.to/) / [2](https://1337x.to/about)
 
