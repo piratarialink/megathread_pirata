@@ -53,7 +53,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
 # 🏆 ➜ Maiores Tesouros
 
-### 🧭 [Sites de Uso Geral](sites-geral.md)
+### 🧭 [Uso Geral](sites-geral.md)
 - Sites de múltiplos propósitos desde buscadores de torrent, agregadores e rastreadores DHT para encontrar o máximo de conteúdo público possível.
 
 ### ⛩️ [Anime](anime.md)
