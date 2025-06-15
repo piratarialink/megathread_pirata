@@ -178,6 +178,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/upnovelas.com/) 
 ### 📺️ [Pluto TV](https://pluto.tv/) 
 - Serviço gratuito de Streaming de televisão da Paramount.
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pluto.tv/) 
 ### 📺️ **[Pago]** [UniTV](https://unitvnet.com) 
 - Entre no site com um DNS configurada. IPTV bem completa.
@@ -200,8 +201,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.site/) 
 ### 🌟 [BluDV](https://bludv.xyz/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv.xyz/) 
-### 🌟 [Rede Torrent](https://redetorrent.com/) 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/) 
 ### 🧲 [Torrent dos Filmes.site](https://torrentdosfilmes.site/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes.site/) 
 ### 🧲 [ComandoFilmesHD.org](https://comandofilmeshd.org/) 
@@ -213,6 +212,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🖊️ Legendas 
 ### 🌟 [OpenSubtitles](https://www.opensubtitles.com) / [2](https://www.opensubtitles.org) 
+
 - Vasto banco de dados com 2,6 bilhões de palavras em 60 idiomas que serve praticamente todos os filmes ou programas de TV que você possa imaginar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/opensubtitles.com/) 
 ### 🖊️ [SubDl](https://subdl.com/) 
