@@ -1,4 +1,4 @@
-# 🧭 ➜ Sites de Uso Geral
+# 🧭 ➜ Uso Geral
 
 Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadores e trackers DHT para encontrar o máximo de conteúdo público possível.
 
@@ -13,56 +13,79 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 📑 1 ➜ Downloads diretos
-    
-### 🔗 [DirtyWarez](https://forum.dirtywarez.com/) • Cadastre-se
-
-- Comunidade fantástica que hospeda uma ampla variedade de conteúdo de mídia em quase todos os gêneros.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.dirtywarez.com/)
-
-### 🔗 [File Pursuit](https://filepursuit.com/)
-
-- É possível pesquisar milhões de arquivos em servidores da Web usando este mecanismo de pesquisa de arquivos incrivelmente sofisticado.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/filepursuit.com/)
+## 📑 ➜ Diversos
 
 ### 🌟 [Internet Archive](https://archive.org/)
 
 - Milhões de livros gratuitos, filmes, músicas e muito mais estão disponíveis nesta biblioteca sem fins lucrativos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
-### 🔗 [Meawfy](https://meawfy.com/)
-
-- Um mecanismo de busca especializado em encontrar arquivos hospedados no Mega.nz (anteriormente Megaupload), incluindo uma gama de conteúdo como filmes, software, videogames e muito mais.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/meawfy.com/)
-
-### 🔗 [Mediafire Trend](https://mediafiretrend.com/)
-
-- Ferramenta de pesquisa para o Mediafire.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mediafiretrend.com/)
-
-### 🔗 [Scnlog](https://scnlog.me/)
-
-- Banco de dados genérico incluindo vários tipos de conteúdo de mídia, embora com um pouco mais de ênfase na música.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
-
 ### 🌟 [SoftArchive](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
 
 - Um site de cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
 
-### 🔗 [WarezBook](https://www.warezbook.org/) • Cadastre-se
+### 🌟 [**Hattered**](https://mefrraz.github.io/hattered/index.html) 
 
-- Fórum de design limpo com uma fonte online de filmes, software, jogos e música.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/warezbook.org/)
+- Site brasileiro bilíngue com dicas, guias e uma biblioteca de conteúdo livre online.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mefrraz.github.io/hattered/)
 
-## 📑 2 ➜ Torrents
+### 🌟 [**4get**](https://4get.ch/) 
+
+- Não esconde resultados de navegação por DRM com o Yandex selecionado.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4get.ch/)
+
+### 🔗 [AlternativeTo](https://alternativeto.net/)
+
+- Indexa links oficiais de download de programas, com um destaque maior para os de código aberto.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/alternativeto.net/)
+
+### 🔗 [The Eye](https://beta.the-eye.eu/)
+
+- Plataforma de armazenamento com download direto e torrents, muita coisa se perdeu depois que migraram para a versão beta do site.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/the-eye.eu/)
+
+### 🔗 [Lumpysoft](https://lumpysoft.com/)
+
+- Encontra dorks no Google de forma fácil e automatizada.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lumpysoft.com/)
+
+### 🔗 [Torrentfreak](https://torrentfreak.com/)
+
+- Portal focado em trazer as últimas notícias sobre direitos autorais, privacidade e tudo relacionado a compartilhamento de arquivos.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentfreak.com/)
+
+## 📑 ➜ Telegram
+
+### ![](public/images/telegram.png) [Pirataria](https://t.me/trackerslist)
+
+- Participe do nosso canal oficial!
+
+### ![](public/images/telegram.png) [CopyrightBR](https://t.me/CopyrightBR)
+
+- Criado com o intuito de compartilhar notícias e releases da cena pirata brasileira. Contém avisos sobre warez/trackers abertos e muito mais.
+
+### ![](public/images/telegram.png) [UnCopy Group](https://t.me/UnCopyGroup)
+
+- Grupo para quem busca material e papo de qualidade sobre p2p e a scene no geral.
+
+### 🤖 [Search bot](https://t.me/en_SearchBot)
+
+- Substitui a busca nativa e obsoleta do Telegram.
+
+## 📑 ➜ Torrents
+
+### 🌟 [Bitmagnet](https://bitmagnet.io/setup/installation.html)
+
+- Indexador BitTorrent, rastreador DHT e buscador de torrents.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bitmagnet.io/)
 
 ### 🧲 [1337x](https://1337x.to/) / [2](https://1337x.to/about)
 
 - Lar de alguns dos mais conhecidos repackers e crackers, bem como uma vasta coleção de arquivos torrent.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/1337x.to/)
 
-### 🧲 [Bitsearch](https://bitsearch.to/)
+### 🌟 [Bitsearch](https://bitsearch.to/)
 
 - Mecanismo de pesquisa avançado que simplesmente reúne metadados de torrent, como títulos de arquivo, tamanhos de arquivo e um link magnético para fornecer ao visitante.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bitsearch.to/)
@@ -77,45 +100,35 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Excelente mecanismo de busca BitTorrent DHT que reúne metadados e retorna links magnéticos em vez de armazenar qualquer material.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/btdig.com/)
 
-### 🧲 [BTMET](https://btmet.com/)
-
-- Um mecanismo de pesquisa magnético que pode ser visualizado e permite inícios rápidos de downloads em quase todos os gêneros de mídia para uso gratuito.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/btmet.com/)
-
 ### 🧲 [EXT Torrents](https://ext.to/)
 
 - Mecanismo de busca magnético versátil para downloads rápidos em diversos gêneros de mídia.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ext.to/)
-
-### 🧲 [FileListing](https://filelisting.com/)
-
-- Poderoso mecanismo de pesquisa com bots que verificam, indexam e categorizam constantemente todos os tipos de arquivos de toda a web.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/filelisting.com/)
 
 ### 🧲 [iDope](https://idope.se/)
 
 - Pesquisou anonimamente através desta grande coleção em homenagem ao KAT. Os usuários não são rastreados e seus endereços IP são removidos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/idope.se/)
 
-### 🧲 [Knaben Database](https://knaben.org/)
+### 🧲 [Knaben Database](https://knaben.eu/)
 
 - Reino do domínio da web e do Linux por meio da evolução da impressionante ferramenta de indexação de múltiplas pesquisas.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/knaben.org/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/knaben.eu/)
 
 ### 🧲 [LimeTorrents](https://www.limetorrents.lol/)
 
 - Um serviço de compartilhamento de arquivos ponto a ponto que oferece aos usuários uma variedade de conteúdo, como arquivos de música, arquivos de vídeo e arquivos de software.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/limetorrents.lol/)
 
-### 🧲 [RARBG Dump Index](https://rarbgdump.lat/)
+### 🧲 [MagnetDL](https://www.magnetdl.com/)
+
+- Software, filmes, jogos, ebooks, programas de TV e música são todos distribuídos por meio de links magnéticos por este agregador de torrent.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/magnetdl.com/)
+
+### 🧲 [RARBG Dump Index](https://rarbgdump.com/)
 
 - Como um diretório de índice, o RARBG caído é preservado, com todos os rastreadores públicos novos e antigos adicionados.
-
-:::warning "Aviso"
-Não possui resultados de segurança da URL por usar proxy.
-:::
-
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rarbg.best/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rarbgdump.com/)
 
 ### 🧲 [Rustorka](https://rustorka.com/forum/index.php) • Interface em russo
 
@@ -137,11 +150,6 @@ Não possui resultados de segurança da URL por usar proxy.
 
 - Banco de dados de torrent considerável com um extenso catálogo apresentando uma gama diversificada de mídia e bem semeado.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentdownloads.pro/)
-
-### 🧲 [TorrentFunk](https://www.torrentfunk.com/)
-
-- Buscador rápido com as séries de TV, filmes, jogos, software e torrents de anime mais atualizados.
-- [URL Safety Results](https://www.urlvoid.com/scan/torrentfunk.com/)
 
 ### 🌟 [TorrentGalaxy](https://torrentgalaxy.to/) / [2](https://torrends.to/proxy/torrentgalaxy)
 
@@ -168,14 +176,18 @@ Não possui resultados de segurança da URL por usar proxy.
 - Mecanismo de busca de torrent baseado em DHT que se esforça para tornar a descoberta e o download de torrents simples para qualquer pessoa.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/solidtorrents.to/)
 
-## 📑 3 ➜ Diversos
+### 🧲 [TorrentFunk](https://www.torrentfunk.com/)
 
-### 🔗 [Torrentfreak](https://torrentfreak.com/)
+- Buscador rápido com as séries de TV, filmes, jogos, software e torrents de anime mais atualizados.
+- [URL Safety Results](https://www.urlvoid.com/scan/torrentfunk.com/)
 
-- Notícias de pirataria.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentfreak.com/)
 
-## 📑 4 ➜ Dados da cena dos Trackers
+### 🧲 [TorrentSeeker](https://www.torrentseeker.com/)
+
+- Faz buscas nos sites mais populares de torrent e demais sites específicos.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentseeker.com/)
+
+## 📑 ➜ Dados da cena dos Trackers
 
 ### 📒 [PreDB](https://predb.net/) / [2](https://predb.me/)
 
@@ -200,3 +212,4 @@ Não possui resultados de segurança da URL por usar proxy.
 
 - Quadro de mensagens onde os usuários discutem os lançamentos de cenas mais recentes, análises de jogos e filmes e muito mais.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xrel.to/)
+

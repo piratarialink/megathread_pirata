@@ -13,6 +13,64 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
+## 📑 ➜ Android
+
+### 🔗 [APK Editor Studio](https://qwertycube.com/apk-editor-studio/)
+
+- Ferramenta robusta e fácil de usar para engenharia reversa de APK.
+
+### 🌟 [App Manager](https://muntashirakon.github.io/AppManager/en/)
+
+- Gerenciador de pacotes Android intrincado, oferece vários recursos.
+
+### 🔗 [Gbox](https://www.gboxlab.com/)
+
+- Integra perfeitamente aplicativos, serviços, estrutura e loja do Google.
+
+### 🔗 [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade)
+
+- Módulo para Android 12 a 14, permitindo aos usuários contornar a restrição do sistema ao downgrade de aplicativos.
+
+### 🌟 [Lucky Patcher](https://www.luckypatchers.com/) 
+
+- Desbloqueia compras em aplicativos Android e retira anúncios.
+
+### 🌟 [ReVanced](https://revanced.app) 
+
+- Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário o APK do Youtube)
+- [Guia para aplicar ReVanced no YT (Instale a versão sugerida do youtube via ADB)](https://phtn.app/post/lemmy.dbzer0.com/2897980)
+
+### 🔗 [Seal](https://github.com/JunkFood02/Seal) 
+
+- Aplicativo para baixar Video/Audio para Android, baseado em yt-dlp, desenvolvido com Material You.
+
+### 🔗 [Seeker Android](https://github.com/jackBonadies/SeekerAndroid)
+
+- Cliente Android para a rede peer-to-peer do Soulseek
+
+### 🔗 [Shelter](https://github.com/PeterCxy/Shelter)
+
+- Fornece um Perfil de Trabalho (Sandbox) para instalar e clonar apps. 
+
+### 🌟 [Shizuku](https://github.com/RikkaApps/Shizuku) 
+
+- Escala privilégios no android sem a necessidade de realizar root. 
+- [Apps que funcionam com o shizuku.](https://technastic-com.translate.goog/best-shizuku-apps-mods-android/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)
+
+### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis) 
+
+- Aplicativo Android para baixar Video/Audio usando yt-dlp.
+
+## 📑 ➜ IOS
+
+### 🌟 [Sidestore](https://sidestore.io/) / [AlStore](https://altstore.io/) / [Troll Store](https://trollstore.org/) / [Scarlet](https://usescarlet.com/)
+
+- Permite instalar aplicativos fora da App Store sem necessidade de jailbreak.
+
+### 🌟 [LiveContainer](https://github.com/LiveContainer/LiveContainer)
+
+- Executa apps em alguns modelos de IOS sem lidar com restrições de assinatura de código.
+
 ## 📑 ➜ Anime e Manga
 
 ### 🌟 [Mihon](https://github.com/mihonapp/mihon) 
@@ -22,28 +80,13 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [Better Anime](https://discord.com/invite/betteranime) 
 
-- O famoso Better Anime continua operando normalmente. O acesso segue disponível tanto pelo aplicativo quanto pelo site. O app foi removido da Play Store, download do App pelo [site](https://betteranime.net/) ou discord.
+- O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar. App removido da playstore, disponível apenas no discord. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/discord.com/)
-
-### 🌟 [Tomato - A&M](https://play.google.com/store/apps/details?id=com.tomatos.clientapp&hl=pt_BR)
-
-- Um dos Apps mais aclamados para assistir animes e ler mangás em português, oferecendo um vasto catálogo e um design moderno e funcional.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)
-
-### 🌟 [Kotatsu](https://kotatsu.app/) 
-
-- Um leitor de mangá de código aberto simples e conveniente para a comunidade, onde você pode encontrar e ler seu mangá favorito com mais facilidade do que nunca.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kotatsu.app/)
 
 ### 🔗 [Aniyomi](https://aniyomi.org/) 
 
 - Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/aniyomi.org/)
-
-### 🔗 [Dantotsu](https://github.com/rebelonion/Dantotsu)
-
-- O Dantotsu é um aplicativo baseado no Saikou e de código aberto, desenvolvido para entusiastas de animes e mangás que utilizam a plataforma AniList. Seu nome, derivado do japonês, significa "o melhor dos melhores". Ótima interface e suporta as extensões Aniyomi e Tachiyomi listadas a seguir.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) 
 
@@ -55,14 +98,15 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Animiru é um fork não oficial do Aniyomi, que é mais um fork não oficial do leitor de mangá gratuito e de código aberto Tachiyomi.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
+### 🔗 [Kotatsu](https://kotatsu.app/) 
+
+- Um leitor de mangá de código aberto simples e conveniente para a comunidade, onde você pode encontrar e ler seu mangá favorito com mais facilidade do que nunca.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kotatsu.app/)
+
 ### 🔗 [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) 
 
 - TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-:::info ℹ️ Dica sobre extensões
-- Planilha no Docs com informações das extensões para ser usado em apps como Aniyomi, Tachiyomi, Dantotsu e etc. [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
-:::
 
 ## 📑 ➜ Catálogo e Lojas
 
@@ -184,6 +228,11 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Mods Android avançados e exclusivos desde 2014, garantindo qualidade e crescimento.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/androidrepublic.org/)
 
+### 🔗 [AppDB](https://appdb.to/)
+
+- Variedade enorme de IPAs pagas que podem ser baixadas gratuitamente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/appdb.to/)
+
 ### 🔗 [APK Home](https://apkhome.io/)
 
 - Aplicativos e jogos APK premium e pagos com apenas um clique gratuitamente.
@@ -239,6 +288,11 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Grande variedade de jogos, aplicativos e mods gratuitos, tornando-o uma ótima escolha.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ihackedit.com/)
 
+### 🔗 [CyPwn](https://ipa.cypwn.xyz/)
+
+- Tweaks e outros IPAs, interface leve e bem intuitiva. Oferece suporte a AltStore.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ipa.cypwn.xyz/)
+
 ### 🔗 [LITEAPKS](https://liteapks.com/)
 
 - Belo site com bom histórico, oferecendo mods exclusivos aos usuários.
@@ -283,13 +337,9 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Recursos premium baixando jogos e aplicativos para Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/revdl.com/)
 
-### 🔗 [Sbenny](https://sbenny.com/)
+### 🌟 [Tekmods](https://tekmods.com/)
 
-- Cheats, mods e versões APKs desbloqueados de qualidade para jogos e aplicativos Android populares.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sbenny.com/)
-
-### 🔗 [Tekmods](https://tekmods.com/)
-
+- Site brasileiro, acesse o chat do telegram para sugerir novos mods ou atualizações.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/tekmods.com/)
 
 ## 📑 ➜ Música
@@ -390,14 +440,83 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - App para instalar Spotify sem anúncios.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xmanagerapp.com/)
 
+## ![](public/images/telegram.png) ➜ No Telegram
+
+### 🔗 [AlveeMods](https://t.me/AlveeMods) 
+- Apks modificados
+
+### 🔗 [Droid Haven](https://t.me/droidhaven) • Em russo
+- Aplicativos modificados para Android 
+
+### 🔗 [IPA Softs HUB](https://t.me/ipasoftsbot) • Em russo 
+- IPAs modificados
+
+### 🔗 [RVX Lite](https://t.me/rvx_lite) 
+- Mods ReVanced Advanced (Youtube, Reddit, Twitter...) modificados usando o ReVancify
+
+### 🔗 [Re𝕍ɑnced Brasil](https://t.me/revancedbrasil) 
+- Mods ReVanced Advanced (Youtube, Reddit, Twitter...)
+
+### 🔗 [MCPE APK Releases](https://t.me/mcperelease) 
+- APKs do Minecraft PE com Xbox Live funcional apenas versões estáveis, sem betas
+
+## 📑 ➜ Anime e Manga
+
+### 🌟 [Mihon](https://github.com/mihonapp/mihon) 
+
+- Acesse facilmente mangás, webcomics e quadrinhos em seu dispositivo Android.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🌟 [Better Anime](https://discord.com/invite/betteranime) 
+
+- O famoso Better Anime continua operando normalmente. O acesso segue disponível tanto pelo aplicativo quanto pelo site. O app foi removido da Play Store, download do App pelo [site](https://betteranime.net/) ou discord.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/discord.com/)
+
+### 🌟 [Tomato - A&M](https://play.google.com/store/apps/details?id=com.tomatos.clientapp&hl=pt_BR)
+
+- Um dos Apps mais aclamados para assistir animes e ler mangás em português, oferecendo um vasto catálogo e um design moderno e funcional.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)
+
+### 🌟 [Kotatsu](https://kotatsu.app/) 
+
+- Um leitor de mangá de código aberto simples e conveniente para a comunidade, onde você pode encontrar e ler seu mangá favorito com mais facilidade do que nunca.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kotatsu.app/)
+
+### 🔗 [Aniyomi](https://aniyomi.org/) 
+
+- Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/aniyomi.org/)
+
+### 🔗 [Dantotsu](https://github.com/rebelonion/Dantotsu)
+
+- O Dantotsu é um aplicativo baseado no Saikou e de código aberto, desenvolvido para entusiastas de animes e mangás que utilizam a plataforma AniList. Seu nome, derivado do japonês, significa "o melhor dos melhores". Ótima interface e suporta as extensões Aniyomi e Tachiyomi listadas a seguir.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) 
+
+- Fork do Aniyomi com a função de mangás restaurada e recursos extras.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [Animiru](https://github.com/Quickdesh/Animiru) 
+
+- Animiru é um fork não oficial do Aniyomi, que é mais um fork não oficial do leitor de mangá gratuito e de código aberto Tachiyomi.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) 
+
+- TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+- 
+:::info ℹ️ Dica sobre extensões
+    - Planilha no Docs com informações das extensões para ser usado em apps como Aniyomi, Tachiyomi, Dantotsu e etc. [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
+:::
 
 ## 📑 ➜ Filmes e TV
 
-### 🌟 [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one) + [Addons](https://stremio-addons.com/) + [Guia](guias/guia-stremio.md) - [Nota Importante!](outros/stremio.md)
+### 🌟 [Stremio](https://www.stremio.com/) + [Addon de dublagem PT-BR](https://27a5b2bfe3c0-stremio-brazilian-addon.baby-beamup.club/) - [Nota Importante!](https://rentry.co/_stremio) 
 
 - Aplicativo de streaming que permite assistir vídeos, filmes e séries de TV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)
-
 
 ## 📑 ➜ Buscadores
 
@@ -406,7 +525,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Espelhando o Google Play, os usuários podem pesquisar nele, proporcionando uma experiência simples.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/playsearch.kaki87.net/)
 
-### 🔍 [APK Mods Search](https://apkmodsearch.pages.dev/)
+### 🔍 [APK Mods Search](https://apkmodsearch.pages.dev/) 
 
 - Para APKs modificados, agilizando o acesso de boas fontes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmodsearch.pages.dev/)
@@ -415,69 +534,6 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Funciona como um mecanismo de busca para descobrir aplicativos semelhantes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/showappslike.com/)
-
-## 📑 ➜ Ferramentas
-
-### 🔗 [APK Editor Studio](https://qwertycube.com/apk-editor-studio/)
-
-- Ferramenta robusta e fácil de usar para engenharia reversa de APK.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/qwertycube.com/)
-
-### 🌟 [App Manager](https://muntashirakon.github.io/AppManager/en/)
-
-- Gerenciador de pacotes Android intrincado, oferece vários recursos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/muntashirakon.github.io/)
-
-### 🔗 [Gbox](https://www.gboxlab.com/)
-
-- Integra perfeitamente aplicativos, serviços, estrutura e loja do Google.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gbox.com/)
-
-### 🔗 [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade)
-
-- Módulo para Android 12 a 14, permitindo aos usuários contornar a restrição do sistema ao downgrade de aplicativos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-### 🌟 [Lucky Patcher](https://www.luckypatchers.com/) 
-
-- Desbloqueia compras no aplicativo em aplicativos Android e remove anúncios.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/luckypatchers.com/)
-
-### 🌟 [ReVanced](https://revanced.app) 
-
-- Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário o APK do Youtube)
-- [Guia para aplicar ReVanced no YT](https://phtn.app/post/lemmy.dbzer0.com/2897980)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/revanced.app/)
-
-### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis) 
-
-- Aplicativo Android para baixar Video/Audio usando yt-dlp.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-### 🔗 [Seal](https://github.com/JunkFood02/Seal) 
-
-- Aplicativo para baixar Video/Audio para Android, baseado em yt-dlp, desenvolvido com Material You.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-### 🔗 [Seeker Android](https://github.com/jackBonadies/SeekerAndroid)
-
-- Cliente Android para a rede peer-to-peer do Soulseek
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-
-## 📑 ➜ Grupos/Canais no Telegram
-
-- [MusicDownloader](https://t.me/MusicDownloaderRobot) - Bot para download de músicas.
-
-- [Scihubot](https://t.me/scihubot) - Bot para download de artigos científicos.
-
-- [Utubebot](https://t.me/utubebot) - Bot para download de vídeos do YouTube.
-
-- [RVX Lite](https://t.me/rvx_lite) - Canal que oferece aplicativos mods ReVanced Advanced (Youtube, Reddit, Twitter...) modificados usando o ReVancify.
-
-- [Re𝕍ɑnced Brasil](https://t.me/revancedbrasil) - Canal Brasileiro que oferece aplicativos mods ReVanced Advanced (Youtube, Reddit, Twitter...).
-
-- [MCPE APK Releases](https://t.me/mcperelease) - Canal para APKs do Minecraft PE com Xbox Live funcional apenas versões estáveis, sem betas.
 
 ## Está buscando Programas para Computador?
 

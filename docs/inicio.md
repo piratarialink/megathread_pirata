@@ -53,10 +53,10 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
 # 🏆 ➜ Maiores Tesouros
 
-### 🧭 [Sites de Uso Geral](sites-geral.md)
+### 🧭 [Uso Geral](sites-geral.md)
 - Sites de múltiplos propósitos desde buscadores de torrent, agregadores e rastreadores DHT para encontrar o máximo de conteúdo público possível.
 
-### ⭐ [Anime](anime.md)
+### ⛩️ [Anime](anime.md)
 - Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora também possa ser aplicado a outras animações, como Donghua.
 
 ### 📚 [Livros](livros.md)
@@ -83,7 +83,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 ### ⚙️ [Softwares](softwares.md)
 - Software é uma coleção de aplicações de computador junto com arquivos de suporte e informações voltadas mais para computadores de mesa.
 
-### 👟 [Esportes](esportes.md)
+### ⚽ [Esportes](esportes.md)
 - Esporte refere-se à atividade física ou jogo, geralmente competitivo, que utiliza as habilidades e habilidades de uma pessoa enquanto entretém os espectadores.
 
 ### 🧰 [Ferramentas](ferramentas.md)
@@ -93,7 +93,10 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 - Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos.
 
 ### 🏴‍☠️ [Warez](warez.md)
-- Warez refere-se à distribuição de software, jogos, filmes, cursos e outros conteúdos digitais pirateados. 
+- Warez refere-se à distribuição de software, jogos, filmes, cursos e outros conteúdos digitais pirateados.
+
+### 🚫 [Adulto](adulto.md)
+- Entrando nessa seção, você concorda que é maior de 18 anos de idade.
 
 ---
 
@@ -106,12 +109,12 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
 # 📑 ➜ Outros tesouros
 
-### 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
-### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
+### 📁 [Awesome Warez](https://lkrjangid1.github.io/Awesome-Warez/)
 ### 📁 [MediaSavvy](https://mediasavvy.pages.dev/)
+### 📁 [PiracyBG-PTBR](https://rentry.org/PiracyBG-PTBR)
+### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
 ### 📁 [EverythingMoe](https://everythingmoe.com/)
 ### 📁 [FMHY](https://fmhy.pages.dev/)
-### 📁 [Pirated Games Megathread](https://rentry.org/pgames)
 ### 📁 [Ripped](https://ripped.guide/)
 ### 📁 [The Index](https://theindex.moe/)
 ### 📁 [Wotaku](https://wotaku.pages.dev/)
