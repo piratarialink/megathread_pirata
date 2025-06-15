@@ -15,6 +15,12 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## 📑 1 ➜ Downloads Diretos
 
+
+### 🔗 [Audio wareZ](https://audioz.download/)
+
+- Plugins para FL Studio.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audioz.download/)
+
 ### 🌟 [4download](https://4download.net/softwares/windows/audio-tools-win/audio-plugins/)
 
 - Plugins de música.
