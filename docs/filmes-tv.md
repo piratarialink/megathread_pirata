@@ -244,10 +244,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv.xyz/)
 
-### 🌟 [Rede Torrent](https://redetorrent.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
-
 ### 🧲 [Torrent dos Filmes.site](https://torrentdosfilmes.site/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes.site/)
