@@ -190,9 +190,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🧲 Torrents 
 
+### 🌟 [Stack Filmes](https://www.starckfilmes.com/) 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.starckfilmes.com/) 
+### 🌟 [EZTV](https://eztvx.to/) 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/eztvx.to/) 
 ### 🌟 [Rede Torrent](https://redetorrent.com/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
-
 ### 🧲 [Comando](https://comandofilmeshd.site/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.site/) 
 ### 🌟 [BluDV](https://bludv.xyz/) 
