@@ -47,7 +47,7 @@ O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Hab
 - Não é afiliado com a Mozila foundation
 - Sem telemetria (coleta de dados sobre o uso do usuário)
 
-![Librewolf](https://files.catbox.moe/l7fok6.png)
+![Librewolf](public/images/librewolf.png)
 
 ### [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 
@@ -67,7 +67,7 @@ O Cromite é um fork do Chromium baseado no fork do Bromite com bloqueio de anú
 Disponível para Android, Windows e Linux.
 ::: 
 
-![Cromite](/images/cromite.png)
+![Cromite](public/images/cromite.png)
 
 ## Gerenciador de Senhas
 
