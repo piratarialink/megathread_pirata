@@ -22,7 +22,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal, são falsos positivos.
 :::
 
-* 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Essa ferramenta ativa o Windows e o Office. %orange%[**Guia**](office.md)%%
+* 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Essa ferramenta ativa o Windows e o Office.[**Guia**](office.md)
 * [Office C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte as instalações do Office Retail em licenças de volume.
 * [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Ativa instalações de licença de volume do Office e Windows. (Ativa o Windows e Office)
 * [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL.
@@ -143,7 +143,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 * 🌟 [**Motrix**](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 * [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent
 * [Transmission](https://transmissionbt.com/about/) - Bem simples de usar e com grandes quantidades de torrents (5k-10k+), é bem estável na versão CLI.
-* 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que pesquisa rastreadores públicos populares. Constantemente atualizado. %orange%[**Guia de plugins**](guias/Guia-plugins-qbittorrrent.md)%%
+* 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que pesquisa rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/Guia-plugins-qbittorrrent.md)
 * [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei
 * [PicoTorrent](https://picotorrent.org/) - Cliente de torrent simples e leve
 * [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto
@@ -169,7 +169,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 ## ► Gerenciadores de mídia / automação
 
 - [Jackett](https://github.com/Jackett/Jackett) - Indexador completo. Ele permite que você adicione muitos rastreadores de torrent diferentes ao aplicativo, no qual você pode fazer todas as suas pesquisas. Em conjunto com sonarr/radarr, você pode adicionar a Jackett como um indexador a eles, permitindo que eles pesquisem em qualquer um ou em todos os rastreadores de torrent que você adicionou à jaqueta.
-- 🌟 [**Autobrr**](https://autobrr.com) - É possível configurá-lo para baixar automaticamente. De qualquer feed, você define uma regra para adicionar uma categoria por exemplo e ele segue o que você definiu. %orange%[**Guia**](https://rentry.co/pirataria-digital_autobrr)%%
+- 🌟 [**Autobrr**](https://autobrr.com) - É possível configurá-lo para baixar automaticamente. De qualquer feed, você define uma regra para adicionar uma categoria por exemplo e ele segue o que você definiu. [**Guia**](https://rentry.co/pirataria-digital_autobrr)
 - [Sonarr](https://sonarr.tv/) - Download automático de programas de TV onde você pode adicionar novos programas para monitorar e baixará automaticamente todos os novos episódios assim que estiverem disponíveis em sites de torrent.
 - [Radarr](https://radarr.video/) - Igual ao Sonarr, mas para filmes.
 - [Prowlarr](https://prowlarr.com/) - Faz o mesmo papel do Jackett, só que melhor.
