@@ -92,7 +92,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### 🧲 [Dark Mahou](https://darkmahou.org/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/darkmahou.org/)
 
-### 🌟🧲 [Nyaa.si](https://nyaa.si/) / [Nyaa.land](https://nyaa.land/)
+### 🌟 [Nyaa.si](https://nyaa.si/) / [Nyaa.land](https://nyaa.land/)
 - Focado em mídias asiáticas (_japonês, chinês, coreano_).
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/nyaa.si/)
 
