@@ -257,7 +257,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Um utilitário da Web que obtém um URL de uma biblioteca Adobe Font e extrai a fonte do banco de dados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/badnoise.net/)
 
-## ![](public/images/telegram.png) ➜ No Telegram 
+## ![](https://files.catbox.moe/7ad7g5.png) ➜ No Telegram 
 ### 🤖 [Lestrad - Bibliotecário](https://t.me/lestrad_repost_bot)
 ### 🔗 [Banca BR](https://t.me/BancaBR)
 ### 🔗 [ITSBooks](https://t.me/ITSBooks)
