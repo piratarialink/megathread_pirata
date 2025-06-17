@@ -12,6 +12,8 @@
 
 **[9xbuddy](https://9xbuddy.site/)** — Faz o download de vídeos de quase todos os sites adultos.
 
+**[PriivaC Downloader](https://t.me/tgDownPrivacyBot)** - Download de mídias de assinaturas do Privacy.
+
 **[Hottok](https://t.me/hottoknowbot)** — Bot do Telegram que desnuda fotos.
 
 **[Only Fans Data Scrapper](https://github.com/DIGITALCRIMINAL/OnlyFans)**
