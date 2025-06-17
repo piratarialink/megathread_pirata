@@ -440,7 +440,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - App para instalar Spotify sem anúncios.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xmanagerapp.com/)
 
-## ![](public/images/telegram.png) ➜ No Telegram
+## ![](https://files.catbox.moe/7ad7g5.png) ➜ No Telegram
 
 ### 🔗 [AlveeMods](https://t.me/AlveeMods) 
 - Apks modificados

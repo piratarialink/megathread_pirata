@@ -229,7 +229,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/podnapisi.net/) 
 
 
-## 📑 Grupos/Canais no Telegram  
+## ![](https://files.catbox.moe/7ad7g5.png) No Telegram  
 ### 🌟 [Polemic Filmes](https://t.me/polemicfilmes) 
 ### [Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)  
 
