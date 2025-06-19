@@ -55,11 +55,16 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, textos acadêmicos e livros de interesse geral.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/z-library.sk/) 
 
-## 📑 ➜ Leitura no navegador 
+## 📑 ➜ Quadrinhos 
+
 ### 🔗 [Darkseid Club](https://site.ds-club.net/)     
 - O Darkseid Club é um grupo formado por fãs da nona arte e em especial pelo universo da editora DC Comic 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/site.ds-club.net/) 
----
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/site.ds-club.net/)
+
+### 🔗 [HQ Now](https://www.hq-now.com/)
+- Scan de revistas populares e clássicas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hq-now.com/)
+
 ## 📑➜ Aplicativos para Computador 
 ### 🔗 [HakuNeko](https://hakuneko.download/) 
 - O downloader de mangá e anime multiplataforma permite que você salve material para uso offline de uma variedade de sites.
