@@ -356,7 +356,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/brazilalliance.com.br/)
 ### 🔗 [Tribo Gamer](https://tribogamer.com/traducoes/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tribogamer.com/)
-### 🔗 [Central de Traduções](https://www.centraldetraducoes.net.br/) [![](public/images/telegram.png)](https://t.me/CentralDeTraducoes) 
+### 🔗 [Central de Traduções](https://www.centraldetraducoes.net.br/) [🔗](https://t.me/CentralDeTraducoes) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/centraldetraducoes.net.br/)
 ### 🔗 [Fórum RHDNBR](https://www.romhacking.net.br/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhacking.net.br/)
