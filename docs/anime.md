@@ -106,7 +106,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
 - Tracker semi-privado.
 
-## 📑 4 ➜ Canais/Grupos no Telegram
+## 📑 4 ➜ No Telegram
 
 ### 🌟 [Algo Animes](https://t.me/algoanimes)
 - Mesmo criador do Algo Books.
