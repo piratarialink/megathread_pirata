@@ -19,6 +19,12 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Lista incrível de emuladores que ainda estão ativos e atualizados regularmente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/emulation.gametechwiki.com/)
+
+### 📒 [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
+
+- Dedicado a desvendar e pesquisar conteúdo removido ou inutilizado de jogos antigos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tcrf.net/)
+  
 ---
 ## 📑 ➜ Emulação no Navegador
 
