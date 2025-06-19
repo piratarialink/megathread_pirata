@@ -462,6 +462,10 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ## 📑 ➜ Anime e Manga
 
+:::info ℹ️ Dica sobre extensões
+    - Planilha no Docs com informações das extensões para ser usado em apps como Aniyomi, Tachiyomi, Dantotsu e etc. [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
+:::
+
 ### 🌟 [Mihon](https://github.com/mihonapp/mihon) 
 
 - Acesse facilmente mangás, webcomics e quadrinhos em seu dispositivo Android.
@@ -506,10 +510,6 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-- 
-:::info ℹ️ Dica sobre extensões
-    - Planilha no Docs com informações das extensões para ser usado em apps como Aniyomi, Tachiyomi, Dantotsu e etc. [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
-:::
 
 ## 📑 ➜ Filmes e TV
 
