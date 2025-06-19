@@ -10,8 +10,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ## 🔰 ➜ Trackers Brasileiros
 
-:::warning Nota
-    Brsociety-pro é golpe! [Saiba mais.](https://t.me/CopyrightBR/1935)
+:::warning Brsociety-pro é golpe! [Saiba mais.](https://t.me/CopyrightBR/1935)
 :::
 
 ### 🧲 [Anime No Sekai](https://ansktracker.net/) | ANSK
@@ -81,8 +80,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ---
 ## 🌐 ➜ Trackers Estrangeiros
 
-:::info Informação
-    **PU = Power User (usuário avançado):** primeira classificação quando você sobe de nível. Você precisa ter essa classificação para poder acessar o fórum de convites de um tracker.
+:::info **PU = Power User (usuário avançado):** primeira classificação quando você sobe de nível. Você precisa ter essa classificação para poder acessar o fórum de convites de um tracker.
 :::
 
 ### 🧲 [AlphaRatio](https://alpharatio.cc/) | AR
