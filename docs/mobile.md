@@ -513,7 +513,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ## 📑 ➜ Filmes e TV
 
-### 🌟 [Stremio](https://www.stremio.com/) + [Addon de dublagem PT-BR](https://27a5b2bfe3c0-stremio-brazilian-addon.baby-beamup.club/) - [Nota Importante!](https://rentry.co/_stremio) 
+### 🌟 [Stremio](https://www.stremio.com/) + [Add-on de dublagem PT-BR](https://27a5b2bfe3c0-stremio-brazilian-addon.baby-beamup.club/) - [Nota Importante!](https://rentry.co/_stremio) 
 
 - Aplicativo de streaming que permite assistir vídeos, filmes e séries de TV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)
