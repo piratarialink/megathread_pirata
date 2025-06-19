@@ -206,6 +206,10 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 ### 🚀 [Legacy Launcher](https://llaun.ch/pt-BR) 
 
 - Launcher seguro para Minecraft, ao contrário do TLauncher
+ 
+### 🚀 [Prism Launcher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked?tab=readme-ov-file) 
+
+- Desbloqueia o uso de contas offline no Minecraft
 
 ### 🚀 [Playnite](https://playnite.link/) 
 
