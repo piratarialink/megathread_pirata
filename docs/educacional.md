@@ -159,7 +159,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Variedade de livros para kindle de maneira organizada.
 
-## ![](https://files.catbox.moe/7ad7g5.png) ➜ No Telegram
+## 📣 ➜ No Telegram
 
 ### 🔗 [Polemic Knowledge Clone](https://t.me/+-eUQNwLw9G5mNDUx)
 
