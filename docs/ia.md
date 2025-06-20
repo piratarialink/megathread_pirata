@@ -149,6 +149,7 @@ Apesar dessas ferramentas não estarem diretamente ligadas à pirataria, são de
 ***
 ### Vídeo
 
+* [VEO](https://deepmind.google/models/veo/) - Gerador de Vídeos
 * [PixVerse](https://pixverse.ai/) - Gerador de Vídeos
 * [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Gerador de Vídeos
 * [StableVideo](https://www.stablevideo.com/) - Gerador de Vídeos
