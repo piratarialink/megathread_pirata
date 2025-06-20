@@ -36,11 +36,14 @@ Apesar dessas ferramentas não estarem diretamente ligadas à pirataria, são de
 * [Pi](https://pi.ai/talk) - Chatbot IA com emoções
 * [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura
 * [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas
+* [Legen](https://matheusbach.github.io/legen/) - Embute legendas em vídeos
+
 ***
 ### Simulação
 
 * 🌐 [Ayumi LLM](http://ayumi.m8geil.de/ayumi_bench_v3_results.html) ou [BestERP](https://besterp.ai/) - Listas de LLM para simulação
 * 🌐 [Img-Resources](https://rentry.org/lmg-resources) - Recursos de Personagens / [Templates](https://rentry.org/lmg_template)
+* ⭐ [SillyTavern](https://sillytavernai.com/) - Chatbots de Simulação
 * [PygmalionAI](https://discord.com/invite/pygmalionai) - Modelos de Simulação Auto-hospedados com recursos / [Resources](https://rentry.co/PygmalionLinks)
 * [Call Annie](https://callannie.ai/) - GPT-3.5 Chatbot com video e voz em tempo real 
 * [Character AI](https://character.ai/) - Chatbots de Simulação / [Extract Params](https://rentry.org/reverseCAI)
