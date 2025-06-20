@@ -79,6 +79,10 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Plugin para o Calibre para remover DRM de livros comprados na Amazon ou Google Books. 
 
 ## 📑 ➜ Mangá 
+
+### 🌟 [MangáFire](https://mangafire.to/) 
+- O portal oferece uma grande seleção de quadrinhos mangá para todos os leitores e um layout amigável e simples de navegar. (Só aplicar o Filtro para Português BR)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangafire.to/)
 ### 🌸 [SlimeRead](https://slimeread.com/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/slimeread.com/)  
 ### 🌸 [Ler Mangás](https://lermangas.me/) 
@@ -133,9 +137,48 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🌸 [KindleOtaku](https://kindleotaku.blogspot.com/) 
 - Postagem de mangás no formato aceito pelo Kindle. Requer uma conta no Terabox para efetuar o download, algo que você pode criar através de um email descartável no Temp Mail ou semelhantes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kindleotaku.blogspot.com/) 
-### 🌟 [MangáFire](https://mangafire.to/) 
-- O portal oferece uma grande seleção de quadrinhos mangá para todos os leitores e um layout amigável e simples de navegar. (Só aplicar o Filtro para Português BR)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangafire.to/) 
+
+## 📑 ➜ Leitores de Mangá
+
+### 🌟 [Mihon](https://github.com/mihonapp/mihon) 
+
+- Acesse facilmente mangás, webcomics e quadrinhos em seu dispositivo Android.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🌟 [Better Anime](https://discord.com/invite/betteranime) 
+
+- O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar. App removido da playstore, disponível apenas no discord. 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/discord.com/)
+
+### 🔗 [Tachimanga](https://tachimanga.app/)
+
+- Leitor de mangá para IOS. É preciso adicionar as fontes dentro do app, as melhores são mangadex e mangafire.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tachimanga.app/)
+
+### 🔗 [Aniyomi](https://aniyomi.org/) 
+
+- Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/aniyomi.org/)
+
+### 🔗 [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) 
+
+- Fork do Aniyomi com a função de mangás restaurada e recursos extras.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [Animiru](https://github.com/Quickdesh/Animiru) 
+
+- Animiru é um fork não oficial do Aniyomi, que é mais um fork não oficial do leitor de mangá gratuito e de código aberto Tachiyomi.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [Kotatsu](https://kotatsu.app/) 
+
+- Um leitor de mangá de código aberto simples e conveniente para a comunidade, onde você pode encontrar e ler seu mangá favorito com mais facilidade do que nunca.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kotatsu.app/)
+
+### 🔗 [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) 
+
+- TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ## 📑 ➜ Buscadores 
 ### 🌟 [Arquivo da Anna](https://pt.annas-archive.org/) 
@@ -266,6 +309,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ## 📑 ➜ No Telegram 
 ### 🤖 [Lestrad - Bibliotecário](https://t.me/lestrad_repost_bot)
 ### 🔗 [Banca BR](https://t.me/BancaBR)
+### 🔗 [Tudo de Bom em AUDIOLIVROS](https://t.me/Tudo_de_BOM_em_AUDIOLIVROS)
 ### 🔗 [ITSBooks](https://t.me/ITSBooks)
 ### 🔗 [Audiolivros](https://t.me/audiolivros) 
 ### 🔗 [Brasil Livros 📚](https://t.me/Brasil_Livros_Canal)
