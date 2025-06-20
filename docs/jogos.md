@@ -23,7 +23,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/brazilalliance.com.br/)
 ### 🔗 [Tribo Gamer](https://tribogamer.com/traducoes/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tribogamer.com/)
-### 🔗 [Central de Traduções](https://www.centraldetraducoes.net.br/) [![](https://files.catbox.moe/7ad7g5.png)](https://t.me/CentralDeTraducoes) 
+### 🔗 [Central de Traduções](https://www.centraldetraducoes.net.br/) [📣](https://t.me/CentralDeTraducoes) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/centraldetraducoes.net.br/)
 ### 🔗 [Fórum RHDNBR](https://www.romhacking.net.br/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhacking.net.br/)
@@ -206,6 +206,10 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 ### 🚀 [Legacy Launcher](https://llaun.ch/pt-BR) 
 
 - Launcher seguro para Minecraft, ao contrário do TLauncher
+ 
+### 🚀 [Prism Launcher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked?tab=readme-ov-file) 
+
+- Desbloqueia o uso de contas offline no Minecraft
 
 ### 🚀 [Playnite](https://playnite.link/) 
 
@@ -300,7 +304,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - O Steam Verde é uma plataforma online de jogos para PC e Android, oferecendo downloads via torrent com uma interface organizada. Conta com uma comunidade ativa que fornece tutoriais e suporte, além de manter os usuários informados sobre lançamentos. O site possui proteção antivírus e é baseado na plataforma segura Invision Community.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamverde.net)
 
-### 🧲 [online-fix](https://online-fix.me/) [![](https://files.catbox.moe/7ad7g5.png)](https://t.me/s/onlinefix)
+### 🧲 [online-fix](https://online-fix.me/) [📣](https://t.me/s/onlinefix)
 
 - Jogue jogos online pirata com seus amigos, de forma gratuita com suporte de convite via Steam.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)

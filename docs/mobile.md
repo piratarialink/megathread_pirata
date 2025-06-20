@@ -71,43 +71,6 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Executa apps em alguns modelos de IOS sem lidar com restrições de assinatura de código.
 
-## 📑 ➜ Anime e Manga
-
-### 🌟 [Mihon](https://github.com/mihonapp/mihon) 
-
-- Acesse facilmente mangás, webcomics e quadrinhos em seu dispositivo Android.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-### 🌟 [Better Anime](https://discord.com/invite/betteranime) 
-
-- O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar. App removido da playstore, disponível apenas no discord. 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/discord.com/)
-
-### 🔗 [Aniyomi](https://aniyomi.org/) 
-
-- Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/aniyomi.org/)
-
-### 🔗 [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) 
-
-- Fork do Aniyomi com a função de mangás restaurada e recursos extras.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-### 🔗 [Animiru](https://github.com/Quickdesh/Animiru) 
-
-- Animiru é um fork não oficial do Aniyomi, que é mais um fork não oficial do leitor de mangá gratuito e de código aberto Tachiyomi.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-### 🔗 [Kotatsu](https://kotatsu.app/) 
-
-- Um leitor de mangá de código aberto simples e conveniente para a comunidade, onde você pode encontrar e ler seu mangá favorito com mais facilidade do que nunca.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kotatsu.app/)
-
-### 🔗 [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) 
-
-- TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
 ## 📑 ➜ Catálogo e Lojas
 
 ### 🔗 [Accrescent](https://accrescent.app/)
@@ -440,7 +403,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - App para instalar Spotify sem anúncios.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xmanagerapp.com/)
 
-## ![](https://files.catbox.moe/7ad7g5.png) ➜ No Telegram
+## 📑 ➜ No Telegram
 
 ### 🔗 [AlveeMods](https://t.me/AlveeMods) 
 - Apks modificados
@@ -461,6 +424,10 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - APKs do Minecraft PE com Xbox Live funcional apenas versões estáveis, sem betas
 
 ## 📑 ➜ Anime e Manga
+
+:::info ℹ️ Dica sobre extensões
+    - Planilha no Docs com informações das extensões para ser usado em apps como Aniyomi, Tachiyomi, Dantotsu e etc. [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
+:::
 
 ### 🌟 [Mihon](https://github.com/mihonapp/mihon) 
 
@@ -506,14 +473,10 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-- 
-:::info ℹ️ Dica sobre extensões
-    - Planilha no Docs com informações das extensões para ser usado em apps como Aniyomi, Tachiyomi, Dantotsu e etc. [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
-:::
 
 ## 📑 ➜ Filmes e TV
 
-### 🌟 [Stremio](https://www.stremio.com/) + [Addon de dublagem PT-BR](https://27a5b2bfe3c0-stremio-brazilian-addon.baby-beamup.club/) - [Nota Importante!](https://rentry.co/_stremio) 
+### 🌟 [Stremio](https://www.stremio.com/) + [Add-on de dublagem PT-BR](https://27a5b2bfe3c0-stremio-brazilian-addon.baby-beamup.club/) - [Nota Importante!](https://rentry.co/_stremio) 
 
 - Aplicativo de streaming que permite assistir vídeos, filmes e séries de TV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)

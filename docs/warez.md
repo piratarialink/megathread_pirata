@@ -11,7 +11,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Mídia digital, aplicativos para dispositivos móveis e pirataria voltada a educação. Aberto para cadastros. 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/megaturbo.org/)
 
-### 🏴‍☠️ [FileWarez 2.0](https://filewarez.club/) | FW [![](https://files.catbox.moe/7ad7g5.png)](https://t.me/filewarezclub)
+### 🏴‍☠️ [FileWarez 2.0](https://filewarez.club/) | FW [📣](https://t.me/filewarezclub)
 
 - Livros jurídicos, filmes, modelos 3D. Cadastro apenas com convite. 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/filewarez.club/)

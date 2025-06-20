@@ -36,11 +36,14 @@ Apesar dessas ferramentas não estarem diretamente ligadas à pirataria, são de
 * [Pi](https://pi.ai/talk) - Chatbot IA com emoções
 * [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura
 * [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas
+* [Legen](https://matheusbach.github.io/legen/) - Embute legendas em vídeos
+
 ***
 ### Simulação
 
 * 🌐 [Ayumi LLM](http://ayumi.m8geil.de/ayumi_bench_v3_results.html) ou [BestERP](https://besterp.ai/) - Listas de LLM para simulação
 * 🌐 [Img-Resources](https://rentry.org/lmg-resources) - Recursos de Personagens / [Templates](https://rentry.org/lmg_template)
+* ⭐ [SillyTavern](https://sillytavernai.com/) - Frontend com chatbots de simulação
 * [PygmalionAI](https://discord.com/invite/pygmalionai) - Modelos de Simulação Auto-hospedados com recursos / [Resources](https://rentry.co/PygmalionLinks)
 * [Call Annie](https://callannie.ai/) - GPT-3.5 Chatbot com video e voz em tempo real 
 * [Character AI](https://character.ai/) - Chatbots de Simulação / [Extract Params](https://rentry.org/reverseCAI)
@@ -94,7 +97,7 @@ Apesar dessas ferramentas não estarem diretamente ligadas à pirataria, são de
 * [OpenDevin](https://github.com/OpenDevin/OpenDevin) - Gerador de código
 * [Bito AI](https://bito.ai/) - Code Review
 * [Claude Dev](https://github.com/saoudrizwan/claude-dev) - Gerador de código
-
+* [Roo Code](https://roocode.com/) - Gerador de código
 
 ## 📝 Manipuladores de Texto
 
@@ -146,6 +149,7 @@ Apesar dessas ferramentas não estarem diretamente ligadas à pirataria, são de
 ***
 ### Vídeo
 
+* [VEO](https://deepmind.google/models/veo/) - Gerador de Vídeos
 * [PixVerse](https://pixverse.ai/) - Gerador de Vídeos
 * [Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Gerador de Vídeos
 * [StableVideo](https://www.stablevideo.com/) - Gerador de Vídeos

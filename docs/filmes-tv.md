@@ -50,6 +50,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Uma infinidade de filmes, séries e animes. Aceita legenda que vc baixou de outros sites.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/freek.to/) 
 
+### 🌟 [HydraHD](https://hydrahd.me/)
+- Sem precisar se inscrever, aproveite filmes e séries gratuitos em streaming na maior biblioteca.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hydrahd.me/)
+
 ### 🌟 [Cinema Deck](https://cinemadeck.com/)
 - Mergulhe em um mundo de entretenimento ilimitado com milhares de filmes e programas de TV abrangendo vários gêneros.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cinemadeck.com/) 
@@ -57,10 +61,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 🌟 [CorsFlix](https://corsflix.us.kg/)
 - Entretenimento sem fim na ponta dos seus dedos, com acesso instantâneo aos últimos lançamentos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/corsflix.us.kg/) 
-
-### 🌟 [HydraHD](https://hydrahd.me/)
-- Sem precisar se inscrever, aproveite filmes e séries gratuitos em streaming na maior biblioteca.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hydrahd.me/) 
 
 ### 🌟 [Novafork](https://novafork.cc/)
 - Atendendo a todos os gostos, a variedade de filmes inclui desde clássicos até sucessos de bilheteria.
@@ -229,7 +229,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/podnapisi.net/) 
 
 
-## ![](https://files.catbox.moe/7ad7g5.png) No Telegram  
+## 📑 No Telegram  
 ### 🌟 [Polemic Filmes](https://t.me/polemicfilmes) 
 ### [Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)  
 

@@ -133,7 +133,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### 🧲 [Docspedia](https://docspedia.world/signup.php) - Cursos / Inscrição Necessária
 
 ### 🧲 [Download Cursos Gratis](https://www.downloadcursos.org/) - Cursos nacionais  
-***Desative o JS, aperte F12 antes que o site carregue e exclua a linha que contém 'mdp-deblocker-js-disabled'***
+***Use o [PopUpOFF](https://popupoff.org/) e desative o JS***
 
 ### 🧲 [Online Free Course](https://www.onlinefreecourse.net/) - Cursos da Udemy
 
@@ -159,7 +159,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Variedade de livros para kindle de maneira organizada.
 
-## ![](https://files.catbox.moe/7ad7g5.png) ➜ No Telegram
+## 📣 ➜ No Telegram
 
 ### 🔗 [Polemic Knowledge Clone](https://t.me/+-eUQNwLw9G5mNDUx)
 

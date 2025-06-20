@@ -19,6 +19,12 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Lista incrível de emuladores que ainda estão ativos e atualizados regularmente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/emulation.gametechwiki.com/)
+
+### 📒 [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor/pt-br)
+
+- Dedicado a desvendar e pesquisar conteúdo removido ou inutilizado de jogos antigos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tcrf.net/)
+  
 ---
 ## 📑 ➜ Emulação no Navegador
 
@@ -356,7 +362,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/brazilalliance.com.br/)
 ### 🔗 [Tribo Gamer](https://tribogamer.com/traducoes/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tribogamer.com/)
-### 🔗 [Central de Traduções](https://www.centraldetraducoes.net.br/) [![](public/images/telegram.png)](https://t.me/CentralDeTraducoes) 
+### 🔗 [Central de Traduções](https://www.centraldetraducoes.net.br/) [📣](https://t.me/CentralDeTraducoes) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/centraldetraducoes.net.br/)
 ### 🔗 [Fórum RHDNBR](https://www.romhacking.net.br/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhacking.net.br/)
@@ -373,7 +379,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [PT-BR Hud • SRB2](https://mb.srb2.org/addons/pt-br-hud-hud-brasileiro.5400/)
 
-- Sonic Robo Blast 2 é um fangame que vem sendo atualizado desde 1998. Este mod modesto aplica tradução somente no hub de pontos e tempo.
+- Sonic Robo Blast 2 é um fangame que vem sendo atualizado desde 1998. Este mod modesto aplica tradução somente no hud de pontos e tempo.
 
 ### 🔗 [Rippersanime](https://forum.rippersanime.info/viewforum.php?f=17)
 

@@ -14,8 +14,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 :::
 
 ## 📑 ➜ Downloads diretos 
-### 🔗 [Baixar Quadrinhos](https://baixarquadrinhos.net) 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarquadrinhos.net/) 
 ### 🔗 [elivros](https://elivros.love/) 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/elivros.love/) 
 ### 🔗 [Baixe Livros](https://www.baixelivros.com.br/) 
@@ -55,11 +53,19 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, textos acadêmicos e livros de interesse geral.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/z-library.sk/) 
 
-## 📑➜ Leitura no navegador 
+## 📑 ➜ Quadrinhos 
+
 ### 🔗 [Darkseid Club](https://site.ds-club.net/)     
 - O Darkseid Club é um grupo formado por fãs da nona arte e em especial pelo universo da editora DC Comic 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/site.ds-club.net/) 
----
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/site.ds-club.net/)
+
+### 🔗 [HQ Now](https://www.hq-now.com/)
+- Scan de revistas populares e clássicas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hq-now.com/)
+
+### 🔗 [Baixar Quadrinhos](https://baixarquadrinhos.net) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarquadrinhos.net/)
+
 ## 📑➜ Aplicativos para Computador 
 ### 🔗 [HakuNeko](https://hakuneko.download/) 
 - O downloader de mangá e anime multiplataforma permite que você salve material para uso offline de uma variedade de sites.
@@ -72,7 +78,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🔗 [DeDRM tools](https://github.com/apprenticeharper/DeDRM_tools) (Multiplataforma) 
 - Plugin para o Calibre para remover DRM de livros comprados na Amazon ou Google Books. 
 
-## 📑➜ Mangá 
+## 📑 ➜ Mangá 
 ### 🌸 [SlimeRead](https://slimeread.com/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/slimeread.com/)  
 ### 🌸 [Ler Mangás](https://lermangas.me/) 
@@ -131,7 +137,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - O portal oferece uma grande seleção de quadrinhos mangá para todos os leitores e um layout amigável e simples de navegar. (Só aplicar o Filtro para Português BR)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangafire.to/) 
 
-## 📑➜ Buscadores 
+## 📑 ➜ Buscadores 
 ### 🌟 [Arquivo da Anna](https://pt.annas-archive.org/) 
 - Library Genesis, Sci-Hub e Z-Library estão entre os sites incluídos neste resiliente mecanismo de pesquisa de bibliotecas de sombra.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/annas-archive.org/) 
@@ -142,7 +148,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Os usuários são ajudados pelo mecanismo de pesquisa a encontrar downloads gratuitos de e-books. Ele também permite alternar para uma função de pesquisa de Audiobook.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravebooksearch.com/) 
 
-## 📑➜ Streaming 
+## 📑 ➜ Streaming 
 ➜ Os sites abaixo são gringos e apenas oferecem conteúdos em inglês
 ➜ Caso você conheça algum site de livros e audiobooks em português, mande ele [aqui](https://lemmy.dbzer0.com/post/5116448). 
 ### ▶️ [LibriVox](https://librivox.org/) 
@@ -158,7 +164,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Histórias de áudio feitas para crianças. Relaxe e deixe a imaginação dos seus filhos vagar por reinos fantásticos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/storynory.com/) 
 
-## 📑➜ Torrents 
+## 📑 ➜ Torrents 
 ### 🧲 [Academic Torrents](https://academictorrents.com/) 
 - Enormes conjuntos de dados compartilhados por meio de um sistema distribuído, dando aos pesquisadores acesso a um repositório de dados escalável, seguro e tolerante a falhas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/academictorrents.com/) 
@@ -172,7 +178,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Para obter um convite, [veja esta página](https://www.myanonamouse.net/inviteapp.php) para mais detalhes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/myanonamouse.net/) 
 
-## 📑➜ Sites de Audiolivros
+## 📑 ➜ Sites de Audiolivros
 ### ▶️ [AppAudioBooks](https://appaudiobooks.com/) 
 - Design fácil de usar que facilita a localização do audiolivro que você deseja ouvir.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/appaudiobooks.com/) 
@@ -201,7 +207,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Você pode desfrutar de todos os seus audiolivros favoritos gratuitamente online. Basta clicar para ouvir!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hotaudiobooks.com/) 
 
-## 📑➜ Fontes 
+## 📑 ➜ Fontes 
 ### 🌟 [FontsHub](https://fontshub.pro/) 
 - Obtenha fontes para criar títulos, citações, parágrafos, listas e outros componentes de texto para seus projetos de design.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fontshub.pro/) 
@@ -257,7 +263,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Um utilitário da Web que obtém um URL de uma biblioteca Adobe Font e extrai a fonte do banco de dados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/badnoise.net/)
 
-## ![](https://files.catbox.moe/7ad7g5.png) ➜ No Telegram 
+## 📑 ➜ No Telegram 
 ### 🤖 [Lestrad - Bibliotecário](https://t.me/lestrad_repost_bot)
 ### 🔗 [Banca BR](https://t.me/BancaBR)
 ### 🔗 [ITSBooks](https://t.me/ITSBooks)

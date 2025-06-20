@@ -102,17 +102,18 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 - [Violentmonkey](https://violentmonkey.github.io/) - Gerenciador de script de usuário de código aberto.
 - [Tampermonkey](https://www.tampermonkey.net/) - Gerenciador de script de usuário de código aberto.
-- [greasyfork.org](https://greasyfork.org/) - Repo para incontáveis ​​userscripts úteis
+- [greasyfork.org](https://greasyfork.org/) - Repo para incontáveis ​​userscripts úteis.
 - [userscripts-mirror.org](https://userscripts-mirror.org/) - Repositório alternativo de scripts. Espelho para Userscripts.org.
-- [openuserjs.org](https://openuserjs.org/) - repositório alternativo de scripts
-- [musescore-downloader](https://github.com/Xmader/musescore-downloader) - Baixe partituras de musescore gratuitamente
-- [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adiciona botão ao lado de URLs encurtados que resolve o URL para sua localização verdadeira
-- [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Permite a cópia de texto de sites que tentam impedir a cópia
-- [absolute-enable-right-click-and-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) - Permite clicar com o botão direito e copiar em sites que tentam evitar clicar com o botão direito
-- [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Permite selecionar/realçar links em vez do comportamento padrão de arrastá-los
+- [openuserjs.org](https://openuserjs.org/) - repositório alternativo de scripts.
+- [musescore-downloader](https://github.com/Xmader/musescore-downloader) - Baixe partituras de musescore gratuitamente.
+- [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adiciona botão ao lado de URLs encurtados que resolve o URL para sua localização verdadeira.
+- [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Permite a cópia de texto de sites que tentam impedir a cópia.
+- [absolute-enable-right-click-and-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) - Permite clicar com o botão direito e copiar em sites que tentam evitar clicar com o botão direito, pode remover também proteções anti cópia para vídeos e imagens.
+- [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Permite selecionar/realçar links em vez do comportamento padrão de arrastá-los.
 - [Botão Sci-hub](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adiciona um botão sci-hub a inúmeros sites de artigos acadêmicos/acadêmicos para desbloquear o artigo que está sendo visualizado.
 - [AdsBypasser](https://adsbypasser.github.io/) - Ignore anúncios de contagem regressiva ou continue páginas e evite janelas pop-up de anúncios.
-- [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Evite a instalação de download de aplicativos indesejados com software legítimo (por exemplo, McAfee com Adobe Flash)
+- [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Evite a instalação de download de aplicativos indesejados com software legítimo (por exemplo, McAfee com Adobe Flash).
+- [Youtube share url si parameter remover](https://greasyfork.org/en/scripts/474050-youtube-share-url-si-parameter-remover) - Retira o parâmetro de rastreamento do link de compartilhamento do Youtube.
 - [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Ignore os paywalls de sites de jornais. Requer tampermonkey/greasemonkey para instalar.
 - [Obter informações de DLC do SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Cria automaticamente uma lista de DLC para ferramentas como CreamAPI, GreenLuma e SmartSteamEmu.
 - [Desbloqueie as etapas do Symbolabs e verifique as soluções](https://pastebin.com/wA3QQkCj) - Userscript: [archive](https://web.archive.org/web/20200818154537/https://pastebin.com/wA3QQkCj)
@@ -176,6 +177,12 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [SickChill](https://sickchill.github.io/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [Lidarr](https://lidarr.audio/) - Um Radarr para álbuns musicais.
 
+## ► Ferramentas de mídia
+
+* [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
+* **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Plugin pra acrescentar a opção de converter vídeos para MP4 no After Effects
+* [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases)
+
 ## ► Gerenciadores de download
 
 > São úteis para sites DDL. Gerenciadores de download como esses destinam-se a ajudar a acelerar os downloads, geralmente aumentando o número de conexões com o servidor ou tentando dividir o download em partes. Eles também são especialmente úteis ao obter vários links de uma só vez, o que é típico de sites DDL, onde eles dividem grandes downloads em várias pequenas partes `.rar`, além de ignorar captchas e eliminar os riscos de clicar no link errado botão de download em vários hosts de arquivo. Eles também ajudam a retomar downloads pausados ​​ou expirados que seu navegador pode não ser capaz de fazer em alguns casos.
@@ -215,7 +222,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Cnvmp3](https://cnvmp3.com/) - Converta vídeos do YouTube para MP3 ou MP4 e baixe-os com este conversor rápido e gratuito do YouTube. O CnvMP3 é livre de anúncios, seguro e suporta qualidade de até 320 kbps.
 - [Ezmp3](https://ezmp3.co/) - EzMP3 é o conversor de YouTube para MP3 sem anúncios que permite converter vídeos de até 12 horas de duração. Você pode cortar o áudio e escolher uma taxa de bits de 64 kbps a 320 kbps.
 
-## ► Outras ferramentas de download/mídia
+## ► Outras ferramentas de download
 
 * [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
 * [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto de vários sites e muito mais.
@@ -226,19 +233,21 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 * 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente. 
 * [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6.
 * [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos.
+* [Allvasoft](https://www.allavsoft.com/) - Downloader de vídeos.
 * [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript para baixar vídeos do youtube
 * [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript para baixar legendas do youtube
 * [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injetor para despejar aplicativos UWP.
 * [gallery-dl](https://github.com/mikf/gallery-dl) - gallery-dl é um programa de linha de comando para baixar galerias e coleções de imagens de vários sites de hospedagem de imagens.
-* **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Plugin pra acrescentar a opção de converter vídeos para MP4 no After Effects
+* [Fetchv](https://fetchv.net/pt-br) - Downloader de vídeos
 * [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Download em massa de episódios de anime para vários sites, em várias resoluções, com ou sem episódios de preenchimento.
 * [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp.
-* [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download. Também cobre vários sites além do YouTube.
+* [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download.
 * [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar vídeos de várias plataformas.
 * **[Pago]** [StreamFab](https://streamfab.com/) - Focado em download para plataformas de streaming.
 * [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 GiB por 6 horas do Mega.
 * [Skillshare-dl](https://github.com/mrwnwttk/skillshare-dl) - Baixe do skillshare. [Tópico original.](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/)
 * [Outro Skillshare-dl](https://github.com/KENWAY/Skillshare-DL) - Baixe do skillshare
+* [Firedown](https://www.firedown.app/) - Downloader de vídeos.
 * [Baixar do Soundcloud](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/) - Extensão do Firefox. Tópico original [aqui](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/). Por /u/ImTwain.
 * **[Pago]** [Katomart](https://katomart.com/) - Aplicativo em fase de testes que faz o download de vídeos de plataformas EAD, tudo dentro da lei.
 * [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de GetComics.info facilmente
@@ -282,6 +291,21 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Permite renomear por RegEx
 - [Ant Renamer](https://antp.be/software/renamer) - Ótimo para gerenciamento rápido de strings em massa (para Plex, por exemplo).
 
+## ► **Extensões**
+
+:::warning Add-ons podem quebrar algumas páginas.
+:::
+
+- [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
+- [PopUpOFF](https://popupoff.org/) - Burla pop-ups e bloqueadores.
+- [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
+- [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados.
+- [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site.
+- [Port Authority](https://github.com/ACK-J/Port_Authority/) - Protege contra ataques port scan.
+- [Auto Referer](https://github.com/garywill/autoReferer?tab=readme-ov-file) - Controla o que é mandado como HTTP Referer em cada site.
+- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Protege contra tracking.
+- [LocalCDN](https://www.localcdn.org/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
+
 ## ► Telegram
 
 - [Vidsender](https://github.com/viniped/vidsender) - Método mais fácil para upar vários vídeos de uma vez só de forma organizada.
@@ -302,22 +326,6 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - 🧅 [Portlain](http://laingg42wznukvzjn52cos6bj6brgyiwtxf5rpq3bu5pad56volhe2qd.onion/portlain/)
 - 🧅 [Suprbay](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/)
 - 🧅 [Autodefesa digital](http://tdtf5fdpfjgpxci4pqrtr5cvmsytqu25c2kdbflllz37k5glz6bexcyd.onion/)
-
-## ► **Outras extensões para navegador**
-
-:::warning Add-ons podem quebrar algumas páginas.
-:::
-
-- [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
-- [Allow Right Click](https://github.com/lunu-bounir/allow-right-click/) - Força o clique com o botão de direito, o que traz de volta a opção de inspecionar em sites que bloqueiam as ferramentas de desenvolvedor.
-- [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
-- [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados.
-- [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site.
-- [CleanURLs](https://docs.clearurls.xyz/1.27.3/) - Modifica o trecho identificador de urls de sites como o youtube para evitar rastreamento.
-- [Auto Referer](https://github.com/garywill/autoReferer?tab=readme-ov-file) - Controla o que é mandado como HTTP Referer em cada site.
-- [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Deleta cookies automaticamente.
-- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Te protege contra tracking.
-- [LocalCDN](https://www.localcdn.org/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
 
 ## ► **Motores de busca**
 - [Meawfy](https://meawfy.com/) - Um mecanismo de busca especializado em encontrar arquivos hospedados no Mega.nz.
@@ -367,6 +375,7 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 #### ► **Launchers de jogos**
 
 - [Legacy Launcher](https://llaun.ch/pt-br)- Launcher seguro para Minecraft, ao contrário do TLauncher
+- [Prism Launcher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked?tab=readme-ov-file) - Desbloqueia o uso de contas offline no Minecraft
 - [Playnite](https://playnite.link/) - Launcher universal de jogos para Windows
 - [GOG Galaxy](https://www.gog.com/galaxy) - Launcher universal de jogos para Windows/MacOS
 - [Lutris](https://lutris.net/) - Launcher universal de jogos para Linux

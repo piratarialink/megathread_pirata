@@ -57,15 +57,15 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ## 📑 ➜ Telegram
 
-### ![](https://files.catbox.moe/7ad7g5.png) [Pirataria](https://t.me/trackerslist)
+### 📣 [Pirataria](https://t.me/trackerslist)
 
 - Participe do nosso canal oficial!
 
-### ![](https://files.catbox.moe/7ad7g5.png) [CopyrightBR](https://t.me/CopyrightBR)
+### 📣 [CopyrightBR](https://t.me/CopyrightBR)
 
 - Criado com o intuito de compartilhar notícias e releases da cena pirata brasileira. Contém avisos sobre warez/trackers abertos e muito mais.
 
-### ![](https://files.catbox.moe/7ad7g5.png) [UnCopy Group](https://t.me/UnCopyGroup)
+### 📣 [UnCopy Group](https://t.me/UnCopyGroup)
 
 - Grupo para quem busca material e papo de qualidade sobre p2p e a scene no geral.
 
