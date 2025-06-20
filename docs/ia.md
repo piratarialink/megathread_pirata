@@ -94,7 +94,7 @@ Apesar dessas ferramentas não estarem diretamente ligadas à pirataria, são de
 * [OpenDevin](https://github.com/OpenDevin/OpenDevin) - Gerador de código
 * [Bito AI](https://bito.ai/) - Code Review
 * [Claude Dev](https://github.com/saoudrizwan/claude-dev) - Gerador de código
-
+* [Roo Code](https://roocode.com/) - Gerador de código
 
 ## 📝 Manipuladores de Texto
 
