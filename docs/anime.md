@@ -15,7 +15,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 📑 1 ➜ Streaming
+## 📑 ➜ Streaming
 
 ### 🌟 [Better Anime](https://betteranime.net/)
 - **Better Anime** está com restrições de DMCA, mas funciona normalmente pelo app ou pelo site após login. Se não logar, ele não funcionará.
@@ -45,7 +45,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### ▶️ [Q1N](https://q1n.net/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/q1n.net/)
 
-## 📑 2 ➜ Downloads Diretos
+## 📑 ➜ Downloads Diretos
 
 ### 🌟 [Anitsu](https://anitsu.moe/#)
 - Grande catálogo, especialmente para animes obscuros com legenda PT-BR. **Use um media player de sua preferência no lugar do VLC.**
@@ -118,7 +118,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 - TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-## 📑 3 ➜ Torrents
+## 📑 ➜ Torrents
 
 ### 🧲 [AniRena](https://www.anirena.com/)
 - Tracker simples para torrents de animes, dramas e músicas.
@@ -148,7 +148,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
 - Tracker semi-privado.
 
-## 📑 4 ➜ No Telegram
+## 📑 ➜ No Telegram
 
 ### 🌟 [Algo Animes](https://t.me/algoanimes)
 - Mesmo criador do Algo Books.
@@ -157,7 +157,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 
 ### 🔗 [Central dos Animes](https://t.me/Centraldeanimes_Baltigo)
 
-## 📰 5 ➜ Legendas
+## 📰 ➜ Legendas
 
 ### 🔗 [AnimeDB](https://anidb.net/)
 - Base de dados internacional sobre animes e legendas.
@@ -165,7 +165,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### 🔗 [InfoAnime](https://www.infoanime.com.br/)
 - Acompanhamento de projetos de fansubers e scanlators brasileiros.
 
-## 🧰 6 ➜ Programas
+## 🧰 ➜ Programas
 
 ### 🔗 [GoAnime](https://github.com/alvarorichard/GoAnime)
 - Ferramenta CLI que baixa e reproduz animes em PT-BR (Dublado ou legendado).
