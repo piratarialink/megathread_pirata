@@ -76,48 +76,6 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### 🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/tokyoinsider.com/)
 
-## 📑 ➜ Mobile
-
-### 🌟 [Mihon](https://github.com/mihonapp/mihon) 
-
-- Acesse facilmente mangás, webcomics e quadrinhos em seu dispositivo Android.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-### 🌟 [Better Anime](https://discord.com/invite/betteranime) 
-
-- O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar. App removido da playstore, disponível apenas no discord. 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/discord.com/)
-
-### 🔗 [Tachimanga](https://tachimanga.app/)
-
-- Leitor de mangá para IOS. É preciso adicionar as fontes dentro do app, as melhores são mangadex e mangafire.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tachimanga.app/)
-
-### 🔗 [Aniyomi](https://aniyomi.org/) 
-
-- Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/aniyomi.org/)
-
-### 🔗 [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) 
-
-- Fork do Aniyomi com a função de mangás restaurada e recursos extras.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-### 🔗 [Animiru](https://github.com/Quickdesh/Animiru) 
-
-- Animiru é um fork não oficial do Aniyomi, que é mais um fork não oficial do leitor de mangá gratuito e de código aberto Tachiyomi.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-### 🔗 [Kotatsu](https://kotatsu.app/) 
-
-- Um leitor de mangá de código aberto simples e conveniente para a comunidade, onde você pode encontrar e ler seu mangá favorito com mais facilidade do que nunca.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kotatsu.app/)
-
-### 🔗 [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) 
-
-- TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
 ## 📑 ➜ Torrents
 
 ### 🧲 [AniRena](https://www.anirena.com/)
