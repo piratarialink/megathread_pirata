@@ -300,8 +300,9 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
 - [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados.
 - [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site.
+- [Port Authority](https://github.com/ACK-J/Port_Authority/) - Protege contra ataques port scan.
 - [Auto Referer](https://github.com/garywill/autoReferer?tab=readme-ov-file) - Controla o que é mandado como HTTP Referer em cada site.
-- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Te protege contra tracking.
+- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Protege contra tracking.
 - [LocalCDN](https://www.localcdn.org/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
 
 ## ► Telegram
