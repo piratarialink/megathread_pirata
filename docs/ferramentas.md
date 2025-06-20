@@ -113,6 +113,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Botão Sci-hub](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adiciona um botão sci-hub a inúmeros sites de artigos acadêmicos/acadêmicos para desbloquear o artigo que está sendo visualizado.
 - [AdsBypasser](https://adsbypasser.github.io/) - Ignore anúncios de contagem regressiva ou continue páginas e evite janelas pop-up de anúncios.
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Evite a instalação de download de aplicativos indesejados com software legítimo (por exemplo, McAfee com Adobe Flash).
+- [Youtube share url si parameter remover](https://greasyfork.org/en/scripts/474050-youtube-share-url-si-parameter-remover) - Retira o parâmetro de rastreamento do link de compartilhamento do Youtube.
 - [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Ignore os paywalls de sites de jornais. Requer tampermonkey/greasemonkey para instalar.
 - [Obter informações de DLC do SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Cria automaticamente uma lista de DLC para ferramentas como CreamAPI, GreenLuma e SmartSteamEmu.
 - [Desbloqueie as etapas do Symbolabs e verifique as soluções](https://pastebin.com/wA3QQkCj) - Userscript: [archive](https://web.archive.org/web/20200818154537/https://pastebin.com/wA3QQkCj)
@@ -289,6 +290,20 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Permite renomear por RegEx
 - [Ant Renamer](https://antp.be/software/renamer) - Ótimo para gerenciamento rápido de strings em massa (para Plex, por exemplo).
 
+## ► **Extensões**
+
+:::warning Add-ons podem quebrar algumas páginas.
+:::
+
+- [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
+- [PopUpOFF](https://popupoff.org/) - Burla pop-ups e bloqueadores.
+- [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
+- [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados.
+- [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site.
+- [Auto Referer](https://github.com/garywill/autoReferer?tab=readme-ov-file) - Controla o que é mandado como HTTP Referer em cada site.
+- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Te protege contra tracking.
+- [LocalCDN](https://www.localcdn.org/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
+
 ## ► Telegram
 
 - [Vidsender](https://github.com/viniped/vidsender) - Método mais fácil para upar vários vídeos de uma vez só de forma organizada.
@@ -309,21 +324,6 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - 🧅 [Portlain](http://laingg42wznukvzjn52cos6bj6brgyiwtxf5rpq3bu5pad56volhe2qd.onion/portlain/)
 - 🧅 [Suprbay](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/)
 - 🧅 [Autodefesa digital](http://tdtf5fdpfjgpxci4pqrtr5cvmsytqu25c2kdbflllz37k5glz6bexcyd.onion/)
-
-## ► **Extensões**
-
-:::warning Add-ons podem quebrar algumas páginas.
-:::
-
-- [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
-- [PopUpOFF](https://popupoff.org/) - Burla pop-ups e bloqueadores.
-- [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
-- [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados.
-- [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site.
-- [ClearURLs](https://docs.clearurls.xyz/1.27.3/) - Modifica o trecho identificador de urls de sites como o youtube para evitar rastreamento.
-- [Auto Referer](https://github.com/garywill/autoReferer?tab=readme-ov-file) - Controla o que é mandado como HTTP Referer em cada site.
-- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Te protege contra tracking.
-- [LocalCDN](https://www.localcdn.org/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
 
 ## ► **Motores de busca**
 - [Meawfy](https://meawfy.com/) - Um mecanismo de busca especializado em encontrar arquivos hospedados no Mega.nz.
