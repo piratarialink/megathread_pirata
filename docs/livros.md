@@ -14,8 +14,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 :::
 
 ## 📑 ➜ Downloads diretos 
-### 🔗 [Baixar Quadrinhos](https://baixarquadrinhos.net) 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarquadrinhos.net/) 
 ### 🔗 [elivros](https://elivros.love/) 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/elivros.love/) 
 ### 🔗 [Baixe Livros](https://www.baixelivros.com.br/) 
@@ -64,6 +62,9 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🔗 [HQ Now](https://www.hq-now.com/)
 - Scan de revistas populares e clássicas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hq-now.com/)
+
+### 🔗 [Baixar Quadrinhos](https://baixarquadrinhos.net) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarquadrinhos.net/)
 
 ## 📑➜ Aplicativos para Computador 
 ### 🔗 [HakuNeko](https://hakuneko.download/) 
