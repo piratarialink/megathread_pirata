@@ -45,12 +45,12 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌐 [RetroGames](https://www.retrogames.cz/)
 
-- Preservar os videogames das décadas de 1980 e 1990, desenvolvidos para consoles e plataformas que não estão mais disponíveis.
+- Preserva os videogames das décadas de 1980 e 1990, desenvolvidos para consoles e plataformas que não estão mais disponíveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/retrogames.cz/)
 
 ### 🌐 [Retro Games](https://retrogamesonline.io/)
 
-- Reconhecer e manter a herança de numerosos videogames retro de vários sistemas e géneros.
+- Reconhece e manter a herança de numerosos videogames retro de vários sistemas e géneros.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/retrogamesonline.io/)
 
 ### 🌟 [SSega](https://www.ssega.com/)
@@ -295,7 +295,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [Retro Roms "Best" Set](https://archive.org/details/retro-roms-best-set)
 
-- Oferecer manualmente a lista dos melhores jogos mais amplamente aceita.
+- Oferece a lista dos melhores jogos mais amplamente aceita.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
 ### 🔗 [Retrostic](https://www.retrostic.com/)

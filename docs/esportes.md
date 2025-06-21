@@ -56,7 +56,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### 📺️ [Futemax](https://futemax.rent/) / [2](https://futemax.luxe/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.la/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.rent/)
 
 ### 📺️ [f1carreras.net](https://f1carreras.net/) - Necessário Cadastrar-se
 
