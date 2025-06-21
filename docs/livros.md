@@ -140,6 +140,9 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ## 📑 ➜ Leitores de Mangá
 
+:::info Planilha no Docs com informações das extensões para ser usado em apps como Aniyomi, Tachiyomi, Dantotsu e etc. [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
+:::
+
 ### 🌟 [Mihon](https://github.com/mihonapp/mihon) 
 
 - Acesse facilmente mangás, webcomics e quadrinhos em seu dispositivo Android.
