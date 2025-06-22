@@ -85,7 +85,7 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Lar de alguns dos mais conhecidos repackers e crackers, bem como uma vasta coleção de arquivos torrent.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/1337x.to/)
 
-### 🌟 [Bitsearch](https://bitsearch.to/)
+### 🧲 [Bitsearch](https://bitsearch.to/)
 
 - Mecanismo de pesquisa avançado que simplesmente reúne metadados de torrent, como títulos de arquivo, tamanhos de arquivo e um link magnético para fornecer ao visitante.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bitsearch.to/)
@@ -156,7 +156,7 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - A estrela emergente do mundo p2p, com uma comunidade jovem, fresca e aberta onde você pode descobrir quase tudo.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentgalaxy.to/)
 
-### 🧲 [TorrentLeech](https://www.torrentleech.org/) • Cadastre-se
+### 🌟 [TorrentLeech](https://www.torrentleech.org/) • Cadastre-se
 
 - Frequentemente são dados convites aos usuários deste cobiçado site rastreador privado, oferecendo torrents em todas as categorias em velocidades incomparáveis.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentleech.org/)
