@@ -161,10 +161,12 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
 - Tracker generalista.
 - Abrem para novos cadastros anualmente.
-
-### 🧲 [Academic Torrents](https://academictorrents.com/) | ACA
+ 
 ---
 ## 🚪 ➜ Trackers Públicos e semi-privados
+
+### 🧲 [Academic Torrents](https://academictorrents.com/)
+- Tracker público focado em educação.
 
 ### 🧲 [Tracker2.Postman](http://tracker2.postman.i2p) 
 - Tracker público na rede I2P.
@@ -184,7 +186,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ### 🧲 [Rutracker](https://rutracker.net/forum/index.php) 
 -  Tracker generalista russo.
 
-➜ **[Veja a lista completa de trackers aqui](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)**
+➜ **[Veja a lista completa de trackers privados aqui](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)**
 
 **Está buscando sites para download de filmes e séries via torrent?**  
 Confira nossos tópicos sobre 🎦 [Filmes e TV](filmes-tv#🧲-torrents) e ⭐ [Anime](anime#📑-3-➜-torrents)
