@@ -191,7 +191,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🧲 Torrents 
 
-### 🌟 [Stack Filmes](https://www.starckfilmes.com/) 
+### 🌟 [Starck Filmes](https://www.starckfilmes.com/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.starckfilmes.com/) 
 ### 🌟 [EZTV](https://eztvx.to/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/eztvx.to/) 
@@ -203,8 +203,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv.xyz/) 
 ### 🧲 [Torrent dos Filmes.site](https://torrentdosfilmes.site/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes.site/) 
-### 🧲 [ComandoFilmesHD.org](https://comandofilmeshd.org/) 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.org/) 
 ### 🧲 [Comando Filmes](https://comandofilmes.xyz/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmes.xyz/) 
 ### 🧲 [Limon Torrents](https://limontorrents.com/) 
