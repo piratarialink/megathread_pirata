@@ -205,8 +205,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes.site/) 
 ### 🧲 [Comando Filmes](https://comandofilmes.xyz/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmes.xyz/) 
-### 🧲 [Limon Torrents](https://limontorrents.com/) 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/limontorrents.com) 
 
 ## 🖊️ Legendas 
 ### 🌟 [OpenSubtitles](https://www.opensubtitles.com) / [2](https://www.opensubtitles.org) 
