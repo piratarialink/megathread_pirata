@@ -5,7 +5,7 @@ Trackers são servidores que requerem interação com um cliente de torrent, com
 Trackers podem ser públicos ou privados. Trackers públicos não demandam cadastro de usuários, podendo ser acessados por qualquer pessoa, enquanto trackers privados necessitam de cadastro para acesso. Trackers privados geralmente oferecem maior privacidade aos usuáruos e costumam ter uma retenção maior para os arquivos compartilhados, porém nem sempre é fácil conseguir acesso a eles. As principais formas de ingreso são: convite de usuários; entrevista; aplicação; recrutamento oficial em outros trackers privados, e quando abrem o site para novos usuários por tempo limitado.
 
 :::info ⚠️ Lembrete rápido
-Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisado quando novos Trackers abrirem cadastros. Verifique também mais sobre convites de trackers no [r/OpenSignups](https://www.reddit.com/r/OpenSignups/) e evite trackers amplamente prejudiciais para a [comunidade](https://www.reddit.com/r/OpenSignups/wiki/index/no-movement-list/).
+Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisado quando novos Trackers abrirem cadastros. Verifique também mais sobre convites de trackers no [r/OpenSignups](https://www.reddit.com/r/OpenSignups/) e evite trackers amplamente prejudiciais para a [comunidade](https://www.reddit.com/r/OpenSignups/wiki/index/banned-trackers/).
 :::
 
 ## 🔰 ➜ Trackers Brasileiros
@@ -23,11 +23,6 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Ativo desde 2019, um dos trackers de conteúdo geral BR mais antigos, atrás apenas do BJ.
 - Sistema de "doação" oficial em troca de convites.
 
-### 🧲 [BJ Share](https://bj-share.info/login.php?c) | BJ
-- Conteúdo geral/Gazelle.
-- O maior tracker nacional no momento. Aberto após o fim do antigo BJ.
-- BJ tem seedbox para torrents de filmes e séries antigas, fora disso tem poucos ou nenhum seed.
-
 ### 🧲 [Brasil Tracker](https://brasiltracker.org/index.php) | BT
 - Conteúdo geral/Gazelle.
 - Ativo desde 2018, parte da “santíssima trindade” dos trackers brasileiros junto com o ASC e o BJ.
@@ -39,6 +34,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Ativo desde 2002, é o tracker brasileiro mais tradicional.
 - Inicialmente operou como warez, migrou para torrent privado em 2016.
 - Acesso difícil, convites disponíveis apenas uma vez ao ano para usuários com status de overlord.
+- BJ tem seedbox para torrents de filmes e séries antigas, fora disso tem poucos ou nenhum seed.
 
 ### 🧲 [CapybaraBR](https://capybarabr.com/register) | CBR
 - Conteúdo geral/UNIT3D.
