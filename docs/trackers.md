@@ -34,7 +34,6 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Ativo desde 2002, é o tracker brasileiro mais tradicional.
 - Inicialmente operou como warez, migrou para torrent privado em 2016.
 - Acesso difícil, convites disponíveis apenas uma vez ao ano para usuários com status de overlord.
-- BJ tem seedbox para torrents de filmes e séries antigas, fora disso tem poucos ou nenhum seed.
 
 ### 🧲 [CapybaraBR](https://capybarabr.com/register) | CBR
 - Conteúdo geral/UNIT3D.
