@@ -120,11 +120,6 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Um serviço de compartilhamento de arquivos ponto a ponto que oferece aos usuários uma variedade de conteúdo, como arquivos de música, arquivos de vídeo e arquivos de software.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/limetorrents.lol/)
 
-### 🧲 [MagnetDL](https://www.magnetdl.com/)
-
-- Software, filmes, jogos, ebooks, programas de TV e música são todos distribuídos por meio de links magnéticos por este agregador de torrent.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/magnetdl.com/)
-
 ### 🧲 [RARBG Dump Index](https://rarbgdump.com/)
 
 - Como um diretório de índice, o RARBG caído é preservado, com todos os rastreadores públicos novos e antigos adicionados.
@@ -135,7 +130,7 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Fórum warez proeminente com notícias, discussões sobre muitos gêneros de mídia, torrents e links magnéticos também está disponível para download.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rustorka.com/)
 
-### 🌟 [RuTracker](https://rutracker.org/forum/index.php) • Interface em russo
+### 🌟 [RuTracker](https://rutracker.net/) • Interface em russo
 
 - Tem uma vasta biblioteca com muitos gêneros diferentes. É bem distribuído e considerado o rastreador público mais abrangente.
 - Para usar a função de pesquisa, você precisa se cadastrar.
