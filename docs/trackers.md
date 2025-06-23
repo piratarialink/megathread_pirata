@@ -5,7 +5,7 @@ Trackers são servidores que requerem interação com um cliente de torrent, com
 Trackers podem ser públicos ou privados. Trackers públicos não demandam cadastro de usuários, podendo ser acessados por qualquer pessoa, enquanto trackers privados necessitam de cadastro para acesso. Trackers privados geralmente oferecem maior privacidade aos usuáruos e costumam ter uma retenção maior para os arquivos compartilhados, porém nem sempre é fácil conseguir acesso a eles. As principais formas de ingreso são: convite de usuários; entrevista; aplicação; recrutamento oficial em outros trackers privados, e quando abrem o site para novos usuários por tempo limitado.
 
 :::info ⚠️ Lembrete rápido
-Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisado quando novos Trackers abrirem cadastros. Verifique também mais sobre convites de trackers no [r/OpenSignups](https://www.reddit.com/r/OpenSignups/) e evite trackers amplamente prejudiciais para a [comunidade](https://www.reddit.com/r/OpenSignups/wiki/index/banned-trackers/).
+Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisado quando novos Trackers abrirem cadastros. Verifique também mais sobre convites de trackers no [r/OpenSignups](https://www.reddit.com/r/OpenSignups/).
 :::
 
 ## 🔰 ➜ Trackers Brasileiros
@@ -104,6 +104,10 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [DigitalCore](https://digitalcore.club/signup/) | DC
 - De longe, um dos trackers mais fáceis para aprender a usar apesar de pecar na falta de conteúdo de ponta.
+
+### 🧲 [FileList](https://filelist.io/login.php?returnto=%2F) | FL
+- Conteúdo Geral
+- Seeds bons, internals bons, não é o melhor tracker mas é um bom intermediário.
 
 ### 🧲 [GazelleGames](https://gazellegames.net) | GGn 
 - Focado em games
