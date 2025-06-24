@@ -2,7 +2,7 @@
 
 **[Redisex](https://redisex.club)** — Do mesmo dono do redecanais.
 
-**[Sleazyfork](https://sleazyfork.org)** — Repositório de scripts.
+**[Sleazyfork](https://sleazyfork.org)** — Repositório de scripts para sites adultos.
 
 **[CPG repacks](https://cpgrepacks.site/)** — Repacks de jogos +18.
 
