@@ -51,6 +51,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Lugar fantástico para baixar música japonesa em qualidade com e sem perdas, incluindo vocaloids, pop, anime e jogos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/hikarinoakari.com/)
 
+### 🌟 [doubledouble](https://doubledouble.top/)
+
+- Baixe músicas diretamente do Spotify, Apple Music, Amazon Music, Soundcloud, Qobuz, Deezer, Tidal, Napster, Beatport ou KKBOX gratuitamente.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doubledouble.top/)
+
 ### 🔗 [KHInsider: Música de videogame](https://downloads.khinsider.com/)
 
 - Definitivamente, um excelente site para downloads de MP3 e sem perdas de trilhas sonoras de jogos de console e PC que, de outra forma, são bastante difíceis de encontrar.
@@ -60,6 +65,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - Excelente coleção de trilhas sonoras com grande ênfase em videogames e anime japonês disponível nos principais hosts de arquivos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/sittingonclouds.net/)
+
+### 🔗 [SquidWTF](https://us.qobuz.squid.wtf/)
+
+- Ripa áudios do Qobuz em formatos FLAC.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/us.qobuz.squid.wtf/)
 
 ### 🔗 [Sukidesuost](https://sukidesuost.info/)
 
@@ -97,11 +107,6 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - Você pode pesquisar e baixar facilmente arquivos MP3 gratuitos do YouTube, que é rápido e muito simples de usar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytmp3hub.com/)
-
-### 🌐 [doubledouble](https://doubledouble.top/)
-
-- Baixe músicas diretamente do Spotify, Apple Music, Amazon Music, Soundcloud, Qobuz, Deezer, Tidal, Napster, Beatport ou KKBOX gratuitamente.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doubledouble.top/)
 
 ### 🌐 [Lucida.to](https://lucida.to/)
 
