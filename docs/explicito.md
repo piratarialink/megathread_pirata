@@ -1,3 +1,9 @@
+
+**Menores de idade não estão autorizados a entrar em qualquer um dos sites abaixo. 
+Ao acessá-los você garante que atingiu a maioridade civil.**
+
+---
+
 **🌟 [Ublock Origin](https://github.com/gorhill/uBlock)** — Nunca se esqueça deste add-on.
 
 **[Redisex](https://redisex.club)** — Do mesmo dono do redecanais.
@@ -22,9 +28,6 @@
 
 **[Os Reformados](https://osreformados.com/)** — Já existe streaming para isso, mas pode baixar sem assistir primeiro se estiver carente.
 
----
 
-**Menores de idade não estão autorizados a entrar em qualquer um dos sites acima.
-Ao acessá-los você garante que atingiu a maioridade civil.**
 
 ---
