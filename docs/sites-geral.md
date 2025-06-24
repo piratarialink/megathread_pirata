@@ -30,15 +30,20 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Site brasileiro bilíngue com dicas, guias e uma biblioteca de conteúdo livre online.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mefrraz.github.io/hattered/)
 
-### 🌟 [**4get**](https://4get.ch/) 
-
-- Não esconde resultados de navegação por DRM com o Yandex selecionado.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4get.ch/)
-
 ### 🔗 [AlternativeTo](https://alternativeto.net/)
 
 - Indexa links oficiais de download de programas, com um destaque maior para os de código aberto.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/alternativeto.net/)
+
+### 🔗 [Torrentfreak](https://torrentfreak.com/)
+
+- Portal focado em trazer as últimas notícias sobre direitos autorais, privacidade e tudo relacionado a compartilhamento de arquivos.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentfreak.com/)
+
+### 🔗 [4get](https://4get.ch/) 
+
+- Não esconde resultados de navegação por DRM com o Yandex selecionado.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4get.ch/)
 
 ### 🔗 [The Eye](https://beta.the-eye.eu/)
 
@@ -49,11 +54,6 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 - Encontra dorks no Google de forma fácil e automatizada.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lumpysoft.com/)
-
-### 🔗 [Torrentfreak](https://torrentfreak.com/)
-
-- Portal focado em trazer as últimas notícias sobre direitos autorais, privacidade e tudo relacionado a compartilhamento de arquivos.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentfreak.com/)
 
 ## 📑 ➜ Telegram
 
