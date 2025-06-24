@@ -22,7 +22,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🌟 [4download](https://4download.net/softwares/windows/audio-tools-win/audio-plugins/)
 
-- Espaço para encontrar plugins e samples de graça. Contém ferramentas para vídeo também.
+- Espaço para encontrar plugins e samples de graça. Contém ferramentas de vídeo também.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4download.net/)
 
 ### 🔗 [3ost](https://3ost.ru/) • Cadastre-se • Interface em russo
