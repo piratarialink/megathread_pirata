@@ -430,6 +430,11 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Aplicativo de streaming que permite assistir vídeos, filmes e séries de TV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)
 
+### 🔗 [Comp Study](https://apps.apple.com/br/app/comp-study/id6742147905) 
+
+- Biblioteca de filmes e séries para assistir no IOS.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apps.apple.com/)
+
 ## 📑 ➜ Buscadores
 
 ### 🔍 [Advanced Google Play Search](https://playsearch.kaki87.net/)
