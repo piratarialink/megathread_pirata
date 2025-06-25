@@ -323,10 +323,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Enciclopédia para ROMs e ISOs, onde você pode baixar vários jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romspedia.com/)
 
-### 🔗 [RomsPortugues](https://romsportugues.com/)
-- Acervo de ROMs em português.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/romsportugues.com/)
-
 ### 🔗 [ROMSPURE.CC](https://romspure.cc/)
 
 - Explore mais de 30.000 roms verificadas, incluindo 3.000 pré-atualizadas e 5.000 traduções de fãs.
@@ -356,6 +352,8 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## 📑 ➜ Traduções de Jogos
 
+### 🔗 [RomsPortugues](https://romsportugues.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/romsportugues.com/)
 ### 🔗 [GAMEVICIO](https://www.gamevicio.com/traducoes/) • Fora de atividade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamevicio.com/)
 ### 🔗 [Brazil Alliance](https://brazilalliance.com.br/)
