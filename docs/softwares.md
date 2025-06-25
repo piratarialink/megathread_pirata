@@ -130,7 +130,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Usado para extender a versão trial de aplicativos da Creative Cloud no Windows. [**Guia**](https://wiki.dbzer0.com/genp-guides/guide/)
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gen.paramore.su/)
 ### 🔗 [Install IDM](https://rentry.org/installidm)
-- Guia que ensina a ativar o Internet Download Manager.
+- Tutorial que ensina a ativar o Internet Download Manager.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/)
 ## 📑 ➜ Torrents 
 ### 🌟 [M0nkrus](https://w16.monkrus.ws/) | [📣](https://t.me/m0nkrus/) • Interface em russo 
