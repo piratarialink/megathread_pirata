@@ -125,7 +125,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Os usuários são ajudados pelo mecanismo de busca a encontrar downloads de software gratuito. InclInterface em novos links, bem como uma lista de sites atualizados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ravesoftwaresearch.pages.dev/) 
 
-## 📑 ➜ Patchers
+## 📑 ➜ Patchers/Ativadores
 ### 🌟 [GenP](https://gen.paramore.su/)
 - Usado para extender a versão trial de aplicativos da Creative Cloud no Windows. [**Guia**](https://wiki.dbzer0.com/genp-guides/guide/)
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gen.paramore.su/)
