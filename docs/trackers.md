@@ -29,7 +29,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Fluxo de uploads mais lento, mas constante, com número razoável de seeders.
 - Aberto ocasionalmente para novos cadastros.
 
-### 🧲 [Brasil Japão Share](https://bj-share.info/) | BJS
+### 🧲 [Brasil Japão Share](https://bj-share.info/) | BJ
 - Conteúdo geral.
 - Ativo desde 2002, é o tracker brasileiro mais tradicional.
 - Inicialmente operou como warez, migrou para torrent privado em 2016.
