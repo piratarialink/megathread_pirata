@@ -40,7 +40,10 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audioz.download/) 
 ### 🔗 [Cmacked](https://cmacked.com/) • MacOS 
 - Os melhores e mais populares aplicativos MacOS, incluindo jogos, estão disponíveis, além de serem atualizados diariamente.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cmacked.com/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cmacked.com/)
+### 🔗 [CyberMania](https://www.cybermania.ws/)
+- Oferece sempre a última versão do GenP, além de outros programas.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/www.cybermania.ws/) 
 ### 🔗 [DIAKOV](https://diakov.net/) • Interface em russo 
 - Vasta seleção de software. Atualizações todos os dias; sempre a versão mais recente. Várias opções com hosts de arquivos simples.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/diakov.net/) 
@@ -116,12 +119,17 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [YasDL](https://www.yasdl.com/) • Interface em persa 
 - Belo catálogo de aplicativos gratuitos, jogos, software para Android, animação, utilitários e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yasdl.com/) 
----
+
 ## 📑 ➜ Buscadores 
 ### 🔍 [Buscador de Software Rave](https://ravesoftwaresearch.pages.dev/) 
 - Os usuários são ajudados pelo mecanismo de busca a encontrar downloads de software gratuito. InclInterface em novos links, bem como uma lista de sites atualizados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ravesoftwaresearch.pages.dev/) 
----
+
+## 📑 ➜ Patchers
+### 🌟 [GenP](https://gen.paramore.su/)
+- Usado para extender a versão trial de aplicativos da Creative Cloud no Windows. [**Guia**](https://wiki.dbzer0.com/genp-guides/guide/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gen.paramore.su/)
+
 ## 📑 ➜ Torrents 
 ### 🌟 [M0nkrus](https://w16.monkrus.ws/) | [📣](https://t.me/m0nkrus/) • Interface em russo 
 - Repacker Monkrus para diferentes aplicativos; altamente classificado, confiável e mais conhecido por seus repacks relacionados à Adobe.
