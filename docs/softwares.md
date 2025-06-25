@@ -41,9 +41,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [Cmacked](https://cmacked.com/) • MacOS 
 - Os melhores e mais populares aplicativos MacOS, incluindo jogos, estão disponíveis, além de serem atualizados diariamente.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cmacked.com/)
-### 🔗 [CyberMania](https://www.cybermania.ws/)
-- Oferece sempre a última versão do GenP, além de outros programas.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/www.cybermania.ws/) 
 ### 🔗 [DIAKOV](https://diakov.net/) • Interface em russo 
 - Vasta seleção de software. Atualizações todos os dias; sempre a versão mais recente. Várias opções com hosts de arquivos simples.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/diakov.net/) 
