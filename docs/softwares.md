@@ -16,7 +16,10 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ## 📑 1 ➜ Downloads Diretos 
 ### 🌟 [LRepacks](https://lrepacks.net/) • Interface em russo 
 - Numerosos aplicativos portáteis e utilitários que são apreciados pelos usuários por mais de dez anos.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lrepacks.net/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lrepacks.net/)
+### 🌟 [CyberMania](https://www.cybermania.ws/)
+- Descubra uma vasta coleção de aplicativos e utilitários portáteis, aprimorada e amada pelos usuários há mais de 5 anos.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cybermania.ws/) 
 ### 🌟 [CRACKSurl](https://cracksurl.com/) 
 - Software atualizado diariamente com o objetivo de proporcionar uma experiência rápida todos os dias.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/) 
