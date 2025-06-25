@@ -190,7 +190,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 
 * [JDownloader2](http://jdownloader.org/jdownloader2) - Gerenciador de download que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites.
-* [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente reinicie a avaliação [com isto](https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/).
+* [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente reinicie a avaliação [com isto](https://rentry.org/installidm).
 * [Gerenciador de downloads XTREME](https://subhra74.github.io/xdm/) - Outro gerenciador de downloads muito bom
 * [pyLoad](https://pyload.net/) - Gerenciador de downloads leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
 * [aria2](https://aria2.github.io/) - Utilitário de download baseado em linha de comando.
