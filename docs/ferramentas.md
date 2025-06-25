@@ -329,7 +329,6 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 ## ► **Motores de busca**
 - [Meawfy](https://meawfy.com/) - Um mecanismo de busca especializado em encontrar arquivos hospedados no Mega.nz.
-- [Scnlog](https://scnlog.me/) - Banco de dados genérico.
 - [Mediafire Trend](https://mediafiretrend.com/) - Ferramenta de pesquisa para o Mediafire.
 - [File Pursuit](https://filepursuit.com/) - Milhões de arquivos em servidores da Web.
 
