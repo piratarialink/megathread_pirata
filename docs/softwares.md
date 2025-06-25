@@ -35,7 +35,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 - Concentra-se em programas gratuitos, independentes e portáteis e dedica-se a fornecer constantemente software útil aos usuários.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/appnee.com/) 
-### 🔗 [AudioZ](https://audioz.download/) 
+### 🔗 [Audio wareZ](https://audioz.download/) 
 - Hiper focado em software de produção musical, como DAWs, atualizações de bibliotecas de samples, plugins VST, multitracks e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audioz.download/) 
 ### 🔗 [Cmacked](https://cmacked.com/) • MacOS 
@@ -53,9 +53,9 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [Ecológica Verde](https://bsky.app/profile/ecologica.bsky.social)  
 - Se não tiverem postado o programa que você procura, peça no twitter ou no grupo do discord que em algum momento eles providenciam. 
 ### 🔗 [FileCR](https://filecr.com/) 
-:::warning Embora muito prestativo para encontrar certos programas, contém arquivos maliciosos. Recomenda-se o uso do Windows Sandbox ou de [máquinas virtuais](https://massgrave.dev/genuine-installation-media) gratuitas como o VirtualBox ou QEMU para testar os softwares oferecidos pelo site.
+:::warning Embora muito prestativo para encontrar certos programas, contém [arquivos maliciosos](https://rentry.co/filecr_malware). Recomenda-se o uso do Windows Sandbox ou de [máquinas virtuais](https://massgrave.dev/genuine-installation-media) gratuitas como o VirtualBox ou QEMU para testar os softwares oferecidos pelo site.
 :::
-
+- Download gratuito de softwares para MacOs e Windows, jogos e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/filecr.com/) 
 ### 🔗 [FileRiver](https://fileriver.net/) 
 - Fileriver é um site para baixar programas gratuitos e ativadores
@@ -100,7 +100,10 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/repack.me/) 
 ### 🔗 [PeskTop](https://pesktop.com/) • Interface em árabe 
 - Recurso para Windows, Android e Mac OS, fornecendo acesso direto a montes de conteúdo crackeado.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/pesktop.com/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/pesktop.com/)
+### 🔗 [Scnlog](https://scnlog.me/) 
+- Banco de dados com uma variedade de programas para Windows, Mac e Linux.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/) 
 ### 🔗 [Soft Gozar](https://www.softgozar.com/) • Interface em persa 
 - Atualizado frequentemente, com versões completas e irrestritas apenas dos melhores aplicativos disponíveis.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softgozar.com/) 
