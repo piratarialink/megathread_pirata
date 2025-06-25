@@ -25,11 +25,6 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Um site de cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
 
-### 🌟 [**Hattered**](https://mefrraz.github.io/hattered/index.html) 
-
-- Site brasileiro bilíngue com dicas, guias e uma biblioteca de conteúdo livre online.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mefrraz.github.io/hattered/)
-
 ### 🔗 [AlternativeTo](https://alternativeto.net/)
 
 - Indexa links oficiais de download de programas, com um destaque maior para os de código aberto.
@@ -39,6 +34,11 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 - Portal focado em trazer as últimas notícias sobre direitos autorais, privacidade e tudo relacionado a compartilhamento de arquivos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentfreak.com/)
+
+### 🔗 [**Hattered**](https://mefrraz.github.io/hattered/index.html) 
+
+- Site brasileiro bilíngue com dicas, guias e uma biblioteca de conteúdo livre online.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mefrraz.github.io/hattered/)
 
 ### 🔗 [4get](https://4get.ch/) 
 
