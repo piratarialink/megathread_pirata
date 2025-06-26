@@ -55,6 +55,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Excelente coleção de trilhas sonoras com grande ênfase em videogames e anime japonês disponível nos principais hosts de arquivos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/sittingonclouds.net/)
 
+### 🔗 [Sharemania](https://sharemania.us/)
+
+- O melhor fórum para se encontrar performances em HD de artistas internacionais e álbuns lossless.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/sharemania.us/)
+
 ### 🔗 [SquidWTF](https://us.qobuz.squid.wtf/)
 
 - Ripa áudios do Qobuz em formatos FLAC.
