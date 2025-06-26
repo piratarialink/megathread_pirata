@@ -124,7 +124,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ## 📑 ➜ Patchers
 ### 🌟 [GenP](https://gen.paramore.su/)
-- Usado para extender a versão trial de aplicativos da Creative Cloud no Windows. [**Guia**](https://wiki.dbzer0.com/genp-guides/guide/)
+- Usado para estender a versão trial de aplicativos da Creative Cloud no Windows. [**Guia**](https://wiki.dbzer0.com/genp-guides/guide/)
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gen.paramore.su/)
 ### 🔗 [Install IDM](https://rentry.org/installidm)
 - Tutorial que ensina a ativar o Internet Download Manager.
