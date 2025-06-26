@@ -61,7 +61,7 @@
 | Worldofpcgames   | worldof-pcgames-net         | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | cracked-games       | cracked-games-com                      | **Vírus** (_Detectado com malware_).                                                                |
 | Wifi4Games          | wifi4games-com                         | **Vírus** (_Detectado com malware_).                                                                |
-| 💩 IGG Games / Load Games | igg-games-com / loadgames-com         | **Comportamento antiético** (_Doxxou o dono de outro site e permitiu anúncios de click hijack_).    |
+| 💩 IGG Games / Load Games | igg-games-com / loadgames-com         | **Comportamento antiético** (_Doxxou o dono de outro site e permitiu anúncios de clickjacking_).    |
 | GameFabrique        | gamefabrique-com                       | **Adware** (_Instaladores com adware e uploads de IGG_).                                            |
 | 💩 SteamUnlocked       | steamunlocked-net                       | **Comportamento antiético** (_Uploads de IGG e NosTeam, e host de arquivos muito lento_).            |
 | game-repack         | game-repack-com                        | **Fraude** (_Botões de download falsos e remoção de comentários sobre isso_).                        |
@@ -88,6 +88,7 @@
 | HaxPC          | haxpc-net                   | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | KoLomPC        | kolompc-com                 | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | Portable4PC    | portable4pc-com             | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
+| Cybermania   | cybermania-ws            | **Comportamento antiético** (_Inserção de trojan de acesso remoto de forma planejada_). | 
 | Sample Drive   | sampledrive-in              | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | VFXdownload    | vfxdownload-com             | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | VFXDownloads   | vfxdownloads-net            | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
