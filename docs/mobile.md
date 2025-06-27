@@ -63,7 +63,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ## 📑 ➜ IOS
 
-### 🌟 [Sidestore](https://sidestore.io/) / [AlStore](https://altstore.io/) / [Troll Store](https://trollstore.org/) / [Scarlet](https://usescarlet.com/)
+### 🌟 [Sidestore](https://sidestore.io/) / [AlStore](https://altstore.io/) / [Scarlet](https://usescarlet.com/)
 
 - Permite instalar aplicativos fora da App Store sem necessidade de jailbreak.
 
@@ -429,6 +429,11 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Aplicativo de streaming que permite assistir vídeos, filmes e séries de TV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)
+
+### 🔗 [Comp Study](https://apps.apple.com/br/app/comp-study/id6742147905) 
+
+- Biblioteca de filmes e séries para assistir no IOS.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apps.apple.com/)
 
 ## 📑 ➜ Buscadores
 

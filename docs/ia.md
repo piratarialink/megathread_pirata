@@ -43,7 +43,7 @@ Apesar dessas ferramentas não estarem diretamente ligadas à pirataria, são de
 
 * 🌐 [Ayumi LLM](http://ayumi.m8geil.de/ayumi_bench_v3_results.html) ou [BestERP](https://besterp.ai/) - Listas de LLM para simulação
 * 🌐 [Img-Resources](https://rentry.org/lmg-resources) - Recursos de Personagens / [Templates](https://rentry.org/lmg_template)
-* ⭐ [SillyTavern](https://sillytavernai.com/) - Frontend com chatbots de simulação
+* ⭐ [SillyTavern](https://sillytavernai.com/) - Frontend com chatbots de simulação e outros chatbots populares
 * [PygmalionAI](https://discord.com/invite/pygmalionai) - Modelos de Simulação Auto-hospedados com recursos / [Resources](https://rentry.co/PygmalionLinks)
 * [Call Annie](https://callannie.ai/) - GPT-3.5 Chatbot com video e voz em tempo real 
 * [Character AI](https://character.ai/) - Chatbots de Simulação / [Extract Params](https://rentry.org/reverseCAI)

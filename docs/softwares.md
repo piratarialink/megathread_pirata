@@ -13,7 +13,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 📑 1 ➜ Downloads Diretos 
+## 📑 ➜ Downloads Diretos 
 ### 🌟 [LRepacks](https://lrepacks.net/) • Interface em russo 
 - Numerosos aplicativos portáteis e utilitários que são apreciados pelos usuários por mais de dez anos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lrepacks.net/) 
@@ -35,12 +35,12 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 - Concentra-se em programas gratuitos, independentes e portáteis e dedica-se a fornecer constantemente software útil aos usuários.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/appnee.com/) 
-### 🔗 [AudioZ](https://audioz.download/) 
+### 🔗 [Audio wareZ](https://audioz.download/) 
 - Hiper focado em software de produção musical, como DAWs, atualizações de bibliotecas de samples, plugins VST, multitracks e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audioz.download/) 
 ### 🔗 [Cmacked](https://cmacked.com/) • MacOS 
 - Os melhores e mais populares aplicativos MacOS, incluindo jogos, estão disponíveis, além de serem atualizados diariamente.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cmacked.com/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cmacked.com/)
 ### 🔗 [DIAKOV](https://diakov.net/) • Interface em russo 
 - Vasta seleção de software. Atualizações todos os dias; sempre a versão mais recente. Várias opções com hosts de arquivos simples.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/diakov.net/) 
@@ -53,9 +53,9 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [Ecológica Verde](https://bsky.app/profile/ecologica.bsky.social)  
 - Se não tiverem postado o programa que você procura, peça no twitter ou no grupo do discord que em algum momento eles providenciam. 
 ### 🔗 [FileCR](https://filecr.com/) 
-:::warning Embora muito prestativo para encontrar certos programas, contém arquivos maliciosos. Recomenda-se o uso do Windows Sandbox ou de [máquinas virtuais](https://massgrave.dev/genuine-installation-media) gratuitas como o VirtualBox ou QEMU para testar os softwares oferecidos pelo site.
+:::warning Embora muito prestativo para encontrar certos programas, contém [arquivos maliciosos](https://rentry.co/filecr_malware). Recomenda-se o uso do Windows Sandbox ou de [máquinas virtuais](https://massgrave.dev/genuine-installation-media) gratuitas como o VirtualBox ou QEMU para testar os softwares oferecidos pelo site.
 :::
-
+- Download gratuito de softwares para MacOs e Windows, jogos e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/filecr.com/) 
 ### 🔗 [FileRiver](https://fileriver.net/) 
 - Fileriver é um site para baixar programas gratuitos e ativadores
@@ -100,7 +100,13 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/repack.me/) 
 ### 🔗 [PeskTop](https://pesktop.com/) • Interface em árabe 
 - Recurso para Windows, Android e Mac OS, fornecendo acesso direto a montes de conteúdo crackeado.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/pesktop.com/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/pesktop.com/)
+### 🔗 [Scnlog](https://scnlog.me/) 
+- Banco de dados com uma variedade de programas para Windows, Mac e Linux.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
+### 🌟 [SoftArchive](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
+- Um site de cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
 ### 🔗 [Soft Gozar](https://www.softgozar.com/) • Interface em persa 
 - Atualizado frequentemente, com versões completas e irrestritas apenas dos melhores aplicativos disponíveis.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softgozar.com/) 
@@ -110,13 +116,20 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [YasDL](https://www.yasdl.com/) • Interface em persa 
 - Belo catálogo de aplicativos gratuitos, jogos, software para Android, animação, utilitários e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yasdl.com/) 
----
-## 📑 2 ➜ Buscadores 
+
+## 📑 ➜ Buscadores 
 ### 🔍 [Buscador de Software Rave](https://ravesoftwaresearch.pages.dev/) 
 - Os usuários são ajudados pelo mecanismo de busca a encontrar downloads de software gratuito. InclInterface em novos links, bem como uma lista de sites atualizados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ravesoftwaresearch.pages.dev/) 
----
-## 📑 4 ➜ Torrents 
+
+## 📑 ➜ Patchers
+### 🌟 [GenP](https://gen.paramore.su/)
+- Usado para estender a versão trial de aplicativos da Creative Cloud no Windows. [**Guia**](https://wiki.dbzer0.com/genp-guides/guide/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gen.paramore.su/)
+### 🔗 [Install IDM](https://rentry.org/installidm)
+- Tutorial que ensina a ativar o Internet Download Manager.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/)
+## 📑 ➜ Torrents 
 ### 🌟 [M0nkrus](https://w16.monkrus.ws/) | [📣](https://t.me/m0nkrus/) • Interface em russo 
 - Repacker Monkrus para diferentes aplicativos; altamente classificado, confiável e mais conhecido por seus repacks relacionados à Adobe.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/w16.monkrus.ws/) 

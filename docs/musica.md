@@ -13,17 +13,16 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 📑 1 ➜ Downloads Diretos
-
+## 📑 ➜ Downloads Diretos
 
 ### 🔗 [Audio wareZ](https://audioz.download/)
 
-- Plugins para FL Studio.
+- Biblioteca com plugins para FL Studio, vídeos educacionais e partituras.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audioz.download/)
 
 ### 🌟 [4download](https://4download.net/softwares/windows/audio-tools-win/audio-plugins/)
 
-- Plugins de música.
+- Espaço para encontrar plugins e samples de graça. Contém ferramentas de vídeo também.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4download.net/)
 
 ### 🔗 [3ost](https://3ost.ru/) • Cadastre-se • Interface em russo
@@ -46,11 +45,6 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Uma seleção de músicas de videogame e algumas trilhas sonoras de anime que foi criada por voluntários para ser o mais acessível possível.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
-### 🔗 [Hikari no Akari](https://hikarinoakari.com/)
-
-- Lugar fantástico para baixar música japonesa em qualidade com e sem perdas, incluindo vocaloids, pop, anime e jogos.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/hikarinoakari.com/)
-
 ### 🔗 [KHInsider: Música de videogame](https://downloads.khinsider.com/)
 
 - Definitivamente, um excelente site para downloads de MP3 e sem perdas de trilhas sonoras de jogos de console e PC que, de outra forma, são bastante difíceis de encontrar.
@@ -61,54 +55,57 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Excelente coleção de trilhas sonoras com grande ênfase em videogames e anime japonês disponível nos principais hosts de arquivos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/sittingonclouds.net/)
 
+### 🔗 [Sharemania](https://sharemania.us/)
+
+- O melhor fórum para se encontrar performances em HD de artistas internacionais e álbuns lossless.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/sharemania.us/)
+
+### 🔗 [SquidWTF](https://us.qobuz.squid.wtf/)
+
+- Ripa áudios do Qobuz em formatos FLAC.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/us.qobuz.squid.wtf/)
+
 ### 🔗 [Sukidesuost](https://sukidesuost.info/)
 
 - Site maravilhoso e confiável para adquirir música asiática, principalmente utilizando o host de arquivos Mega.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/sukidesuost.info/)
 
-## 📑 2 ➜ Aplicativos para Navegador
-
-### 🌐 [BestMP3Converter](https://www.bestmp3converter.com/)
+### 🔗 [BestMP3Converter](https://www.bestmp3converter.com/)
 
 - Permite obter arquivos de áudio de vídeos do YouTube gratuitamente em qualidade de 320kbps.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bestmp3converter.com/)
 
-### 🌐 [downloadsound.cloud](https://downloadsound.cloud/)
+### 🔗 [downloadsound.cloud](https://downloadsound.cloud/)
 
 - Este projeto de aplicativo da web foi criado para baixar faixas e listas de reprodução do SoundCloud. Cole seu link e curta sua música!
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadsound.cloud/)
 
-### 🌐 [Spotify Downloader](https://spotdownloader.com/)
+### 🔗 [Spotify Downloader](https://spotdownloader.com/)
 
 - Aplicativo da Web simples que permite o download de músicas em uma faixa, álbum ou lista de reprodução.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/spotify-downloader.com/)
 
-### 🌐 [SpotifyMate](https://spotifymate.com/)
+### 🔗 [SpotifyMate](https://spotifymate.com/)
 
 - Basta colar seu link nesta ferramenta on-line rápida e gratuita para baixar músicas, listas de reprodução e álbuns do Spotify em formato mp3.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/spotifymate.com/)
 
-### 🌐 [TubeMP3](https://tubemp3.to/)
-
-- De forma rápida e incrivelmente simples, procure e baixe músicas MP3 gratuitas do YouTube com ótima qualidade.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/tubemp3.to/)
-
-### 🌐 [YTMP3Hub](https://ytmp3hub.com/)
-
-- Você pode pesquisar e baixar facilmente arquivos MP3 gratuitos do YouTube, que é rápido e muito simples de usar.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytmp3hub.com/)
-
-### 🌐 [doubledouble](https://doubledouble.top/)
+### 🌟 [doubledouble](https://doubledouble.top/)
 
 - Baixe músicas diretamente do Spotify, Apple Music, Amazon Music, Soundcloud, Qobuz, Deezer, Tidal, Napster, Beatport ou KKBOX gratuitamente.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doubledouble.top/)
 
-### 🌐 [Lucida.to](https://lucida.to/)
+### 🔗 [TubeMP3](https://tubemp3.to/)
 
-- Com Lucida, você pode baixar músicas diretamente do Spotify, Qobuz, Tidal, Soundcloud, Deezer, Amazon Music, Beatport e Yandex Music em alta qualidade gratuitamente. Sem pegadinhas e sem anúncios obrigatórios.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lucida.to/)
+- De forma rápida e incrivelmente simples, procure e baixe músicas MP3 gratuitas do YouTube com ótima qualidade.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/tubemp3.to/)
 
-## 📑 3 ➜ Aplicativos para Desktop
+### 🔗 [YTMP3Hub](https://ytmp3hub.com/)
+
+- Você pode pesquisar e baixar facilmente arquivos MP3 gratuitos do YouTube, que é rápido e muito simples de usar.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytmp3hub.com/)
+
+## 📑 ➜ Aplicativos para Desktop
 
 ### 🖥️ [ytDownloader](https://ytdn.netlify.app/)
 
@@ -199,7 +196,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - Bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial. Disponivel temas para o client e outras personalizações.
 
-## 📑 4 ➜ Ferramentas para transferir Playlists
+## 📑 ➜ Ferramentas para transferir Playlists
 
 ### 🌟 [Spot Transfer](https://spot-transfer.vercel.app/)
 

@@ -231,7 +231,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### ▶️ [Audio Books & Poetry](https://archive.org/details/audio_bookspoetry) 
 - Poesia gratuita e gravações de áudio de livros do Naropa Poetics Audio Archive, LibriVox, Project Gutenberg etc.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/) 
-### 🌟 [ÁudioAZ](https://audioaz.com/) 
+### 🌟 [AudioAZ](https://audioaz.com/) 
 - Fornece uma biblioteca considerável de audiolivros que podem ser baixados ou ouvidos na Internet por qualquer pessoa.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/audioaz.com/) 
 ### ▶️ [AudioBookLabs](https://audiobooklabs.com/) 
@@ -256,7 +256,10 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ## 📑 ➜ Fontes 
 ### 🌟 [FontsHub](https://fontshub.pro/) 
 - Obtenha fontes para criar títulos, citações, parágrafos, listas e outros componentes de texto para seus projetos de design.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fontshub.pro/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fontshub.pro/)
+### 🔗 [Nerd Fonts](https://www.nerdfonts.com/font-downloads) • Cadastre-se 
+- Agregador de fontes & patcher.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nerdfonts.com/) 
 ### 🔗 [CreativeFabrica](https://www.creativefabrica.com/freebies/free-fonts/) • Cadastre-se 
 - Esta seleção de fontes gratuitas para uso comercial ajudará você a escolher o tipo ideal para o seu próximo projeto.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/creativefabrica.com/) 
