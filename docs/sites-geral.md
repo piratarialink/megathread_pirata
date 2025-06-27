@@ -22,8 +22,18 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🌟 [SoftArchive](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
 
-- Um site de cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
+- Referência na cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
+
+### 🌟 [**TRaSH Guides**](https://trash-guides.info/) 
+
+- Aprenda a montar um media server, criar e organizar pastas no Sonarr/Bazarr/Radarr, configurar o qBittorrent e muito mais.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/trash-guides.info/)
+
+### 🌟 [**Hattered**](https://mefrraz.github.io/hattered/index.html) 
+
+- Site brasileiro com dicas, guias e uma biblioteca de conteúdo livre online.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mefrraz.github.io/hattered/)
 
 ### 🔗 [AlternativeTo](https://alternativeto.net/)
 
@@ -34,11 +44,6 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 - Portal focado em trazer as últimas notícias sobre direitos autorais, privacidade e tudo relacionado a compartilhamento de arquivos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentfreak.com/)
-
-### 🔗 [**Hattered**](https://mefrraz.github.io/hattered/index.html) 
-
-- Site brasileiro com dicas, guias e uma biblioteca de conteúdo livre online.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mefrraz.github.io/hattered/)
 
 ### 🔗 [4get](https://4get.ch/) 
 
