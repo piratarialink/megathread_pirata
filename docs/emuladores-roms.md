@@ -305,7 +305,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [RHDN](https://romhacking.net)
 
-- Explore ROM hacks e jogos homebrew para NES, Mega Drive, GBA, etc.
+- Explore ROM hacks e homebrews para jogos da geração 8, 16 e 64 bits.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhacking.net/)
 
 ### 🔗 [RomHack Plaza](https://romhackplaza.org)
