@@ -89,7 +89,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 ### 🧰 [Ferramentas](ferramentas.md)
 - Ferramentas para ativação, scripts de usuário, gerenciadores de download, assistentes, extensões e uma infinidade de outros softwares complementares.
 
-### 🧵 [Trackers](trackers.md)
+### 🌊 [Trackers](trackers.md)
 - Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos.
 
 ### 🏴‍☠️ [Warez](warez.md)
