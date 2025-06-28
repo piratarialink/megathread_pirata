@@ -36,7 +36,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Concentra-se em programas gratuitos, independentes e portáteis e dedica-se a fornecer constantemente software útil aos usuários.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/appnee.com/) 
 ### 🔗 [Audio wareZ](https://audioz.download/) 
-- Hiper focado em software de produção musical, como DAWs, atualizações de bibliotecas de samples, plugins VST, multitracks e muito mais.
+- Hiper focado em software de produção musical, como DAWs, atualizações de bibliotecas de samples, plugins VST, multitracks e conteúdo relacionado.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audioz.download/) 
 ### 🔗 [Cmacked](https://cmacked.com/) • MacOS 
 - Os melhores e mais populares aplicativos MacOS, incluindo jogos, estão disponíveis, além de serem atualizados diariamente.
@@ -45,7 +45,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Vasta seleção de software. Atualizações todos os dias; sempre a versão mais recente. Várias opções com hosts de arquivos simples.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/diakov.net/) 
 ### 🔗 [Download Pirate](https://www.downloadpirate.com/) 
-- Tonelada de mercadorias, incluindo LUTS, texturas, efeitos sonoros, edição de vídeo + plug-ins, gráficos em movimento e muito mais.
+- Tonelada de mercadorias, incluindo LUTS, texturas, efeitos sonoros, edição de vídeo + plug-ins e gráficos em movimento.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadpirate.com/) 
 ### 🔗 [Download Geral](https://www.downloadgeral.com/aplicativos/windows)
 - Cataloga mods para aplicativos, músicas, fontes gratuitas, jogos e especialmente, programas crackeados.
@@ -55,7 +55,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [FileCR](https://filecr.com/) 
 :::warning Embora muito prestativo para encontrar certos programas, contém [arquivos maliciosos](https://rentry.co/filecr_malware). Recomenda-se o uso do Windows Sandbox ou de [máquinas virtuais](https://massgrave.dev/genuine-installation-media) gratuitas como o VirtualBox ou QEMU para testar os softwares oferecidos pelo site.
 :::
-- Download gratuito de softwares para MacOs e Windows, jogos e muito mais.
+- Download gratuito de softwares para MacOS e Windows, jogos e demais utilitários.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/filecr.com/) 
 ### 🔗 [FileRiver](https://fileriver.net/) 
 - Fileriver é um site para baixar programas gratuitos e ativadores
@@ -105,7 +105,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Banco de dados com uma variedade de programas para Windows, Mac e Linux.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
 ### 🌟 [SoftArchive](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
-- Um site de cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
+- Referência na cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
 ### 🔗 [Soft Gozar](https://www.softgozar.com/) • Interface em persa 
 - Atualizado frequentemente, com versões completas e irrestritas apenas dos melhores aplicativos disponíveis.
@@ -114,7 +114,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Você precisará entrar no Discord do dono para conseguir os passwords de alguns programas.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/vfxmed.com/) 
 ### 🔗 [YasDL](https://www.yasdl.com/) • Interface em persa 
-- Belo catálogo de aplicativos gratuitos, jogos, software para Android, animação, utilitários e muito mais.
+- Belo catálogo de aplicativos gratuitos, jogos, software para Android, animação e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yasdl.com/) 
 
 ## 📑 ➜ Buscadores 
