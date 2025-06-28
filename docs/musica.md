@@ -105,7 +105,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Você pode pesquisar e baixar facilmente arquivos MP3 gratuitos do YouTube, que é rápido e muito simples de usar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytmp3hub.com/)
 
-## ⚙ ➜ Aplicativos para Desktop
+## 🎵 ➜ Aplicativos para Desktop
 
 ### 🖥️ [ytDownloader](https://ytdn.netlify.app/)
 
