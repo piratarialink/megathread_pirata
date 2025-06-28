@@ -196,7 +196,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Os usuários são ajudados pelo mecanismo de pesquisa a encontrar downloads gratuitos de e-books. Ele também permite alternar para uma função de pesquisa de Audiobook.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravebooksearch.com/) 
 
-## 🎬 ➜ Streaming 
+## 🔊 ➜ Streaming 
 ➜ Os sites abaixo são gringos e apenas oferecem conteúdos em inglês
 ➜ Caso você conheça algum site de livros e audiobooks em português, mande ele [aqui](https://lemmy.dbzer0.com/post/5116448). 
 ### ▶️ [LibriVox](https://librivox.org/) 
