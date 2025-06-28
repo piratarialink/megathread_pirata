@@ -259,7 +259,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🌟 [FontsHub](https://fontshub.pro/) 
 - Obtenha fontes para criar títulos, citações, parágrafos, listas e outros componentes de texto para seus projetos de design.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fontshub.pro/)
-### 🔗 [Nerd Fonts](https://www.nerdfonts.com/font-downloads) • Cadastre-se 
+### 🔗 [Nerd Fonts](https://www.nerdfonts.com/font-downloads) 
 - Agregador de fontes & patcher.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nerdfonts.com/) 
 ### 🔗 [CreativeFabrica](https://www.creativefabrica.com/freebies/free-fonts/) • Cadastre-se 
