@@ -157,9 +157,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
   
 ### 📂 [12.000 Livros Kindle!](https://drive.google.com/drive/folders/1EoF3QomxBsoMTBGMEc_J5JW6r6cC-oCy?usp=drive_link)
 
-### 📂 [Apostilas antigas do SENAI](https://drive.google.com/drive/folders/1cidsj7wAg4iGMAvyVQtzg8pxL5D569ZS)
-
 - Variedade de livros para kindle de maneira organizada.
+
+### 📂 [Apostilas antigas do SENAI](https://drive.google.com/drive/folders/1cidsj7wAg4iGMAvyVQtzg8pxL5D569ZS)
 
 ## 📣 ➜ No Telegram
 
