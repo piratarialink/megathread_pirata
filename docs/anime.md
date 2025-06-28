@@ -76,7 +76,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### 🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/tokyoinsider.com/)
 
-## 🌀 ➜ Torrents
+## 🧵 ➜ Torrents
 
 ### 🧲 [AniRena](https://www.anirena.com/)
 - Tracker simples para torrents de animes, dramas e músicas.
