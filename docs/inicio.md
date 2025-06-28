@@ -54,7 +54,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 # 🏆 ➜ Maiores Tesouros
 
 ### 🧭 [Uso Geral](sites-geral.md)
-- Sites de múltiplos propósitos desde buscadores de torrent, agregadores e rastreadores DHT para encontrar o máximo de conteúdo público possível.
+- Links de múltiplos propósitos desde buscadores de torrent, agregadores e rastreadores DHT para encontrar o máximo de conteúdo público possível.
 
 ### ⛩️ [Anime](anime.md)
 - Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora também possa ser aplicado a outras animações, como Donghua.
