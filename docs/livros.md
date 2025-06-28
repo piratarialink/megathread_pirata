@@ -81,18 +81,19 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ## 📑 ➜ Mangá 
 
 ### 🌟 [MangáFire](https://mangafire.to/) 
-- O portal oferece uma grande seleção de quadrinhos mangá para todos os leitores e um layout amigável e simples de navegar. (Só aplicar o Filtro para Português BR)
+- O portal oferece uma grande seleção de quadrinhos mangá para todos os leitores e um layout amigável e simples de navegar. (Aplique o Filtro para Português BR)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangafire.to/)
-### 🌸 [SlimeRead](https://slimeread.com/) 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/slimeread.com/)  
+### 🌸 [Sakura Mangás](https://sakuramangas.org/) 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sakuramangas.org/)  
 ### 🌸 [Ler Mangás](https://lermangas.me/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/lermangas.me/) 
-### 🌸 [ComicK](https://comick.app/) 
-- Leitor muito rápido e gratuito com um enorme banco de dados de quadrinhos, incluindo mangá, manhua e manhwa! Inclui Português Brasileiro
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comick.app/) 
-### 🌸 [MangáDex](https://mangadex.org/) 
-- Todo o conteúdo é fornecido por usuários, grupos de scanlation e editores, que suportam todos os idiomas. (Só aplicar o Filtro para Português BR)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangadex.org/) 
+### 🌸 [ComicK](https://comick.io/) 
+- Leitor muito rápido e gratuito com um enorme banco de dados de quadrinhos, incluindo mangá, manhua e manhwa! Inclui Português Brasileiro.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comick.io/)
+### 🌸 [MangaOnline](https://mangaonline.biz/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangaonline.biz/) 
+### 🌸 [Mangabr](https://mangabr.net/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangabr.net/) 
 ### 🌸 [BATO](https://bato.to/)
 - Atende leitores japoneses / coreanos com uma vasta coleção de mangás.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bato.to/) 
@@ -130,10 +131,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🌸 [Toonily](https://toonily.com/)
 - Acesso aos seus manhwas premium em inglês traduzidos de editores coreanos de topo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/toonily.com/) 
-### 🌸 [MangaOnline](https://mangaonline.biz/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangaonline.biz/) 
-### 🌸 [Mangabr](https://mangabr.net/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangabr.net/) 
 ### 🌸 [KindleOtaku](https://kindleotaku.blogspot.com/) 
 - Postagem de mangás no formato aceito pelo Kindle. Requer uma conta no Terabox para efetuar o download, algo que você pode criar através de um email descartável no Temp Mail ou semelhantes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kindleotaku.blogspot.com/) 
@@ -152,6 +149,11 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar. App removido da playstore, disponível apenas no discord. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/discord.com/)
+
+### 🔗 [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server)
+
+- Basicamente, a versão PC do Tachiyomi.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [Tachimanga](https://tachimanga.app/)
 
@@ -317,6 +319,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 📣 [Banca BR](https://t.me/BancaBR)
 ### 📣 [Tudo de Bom em AUDIOLIVROS](https://t.me/Tudo_de_BOM_em_AUDIOLIVROS)
 ### 📣 [ITSBooks](https://t.me/ITSBooks)
+### 📣 [QG - Baltigo mangás](https://t.me/MangasBrasil)
 ### 📣 [Audiolivros](https://t.me/audiolivros) 
 ### 📣 [Brasil Livros 📚](https://t.me/Brasil_Livros_Canal)
 ### 📣 [BIBLIOTECA VIRTUALBR 2](https://t.me/BIBLIOTECAVIRTUALBR2) 
