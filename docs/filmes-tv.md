@@ -15,7 +15,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## ▶️ Dublados 
 
-### 🌟 [Rede Canais](https://redecanais.ps/)
+### 🌟 [Rede Canais](https://redecanais.ps/) / [2](https://redecanais.fi/) / [3](https://redecanais.ps/) 
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.ps/)
  
@@ -150,7 +150,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/yassflix.net/) 
 
 ## 📺️ TV
-### 🌟 [Rede Canais TV](https://xn--90afacaz8cml9ac9f.xn--p1ai/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/) 
+### 🌟 [Rede Canais TV](https://redecanaistv.gl/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/) 
 - Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/) 
 ### 🌟 [TV a Cabo](https://tvacabo.free.nf/)
