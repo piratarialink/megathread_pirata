@@ -13,7 +13,7 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 📑 ➜ Traduções de Jogos
+## 🌎 ➜ Traduções de Jogos
 
 Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
@@ -32,7 +32,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 ### 🔗 [GGames](https://ggames.com.br/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gggames.com.br/)
   
-## 📑 ➜ Programas
+## ⚙ ➜ Programas
 
 ### 🌟 [Hydra](https://github.com/hydralauncher/hydra)
 
@@ -53,7 +53,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 - Ferramenta para iniciar e organizar jogos do online-fix-me no Linux.
 
-## 📑 ➜ Downloads diretos
+## 📥 ➜ Downloads diretos
 
 
 ### 🌟 [AnkerGames](https://ankergames.net/)
@@ -201,7 +201,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - Explore uma vasta coletânea de jogos para Windows, Linux e Mac.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/worldofpcgames.com/)
 
-## 📑 ➜ Launchers de jogos
+## ↗ ➜ Launchers de jogos
 
 ### 🚀 [Legacy Launcher](https://llaun.ch/pt-BR) 
 
@@ -228,44 +228,44 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 - Launcher de jogos da Epic e GOG para Linux
 
-## 📑 ➜ Jogos de navegador
+## 🌐 ➜ Jogos de navegador
 
-### 🌐 [Addicting Games](https://www.addictinggames.com/)
+### 🔗 [Addicting Games](https://www.addictinggames.com/)
 
 - Um dos sites de jogos mais populares, alcançando mais de dez milhões de usuários diferentes a cada mês.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/addictinggames.com/)
 
-### 🌐 [Arkadium Games](https://www.arkadium.com/)
+### 🔗 [Arkadium Games](https://www.arkadium.com/)
 
 - Um lugar onde você pode jogar jogos online gratuitos como cartas, quebra-cabeças, palavras cruzadas e muito mais.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/arkadium.com/)
 
-### 🌐 [Cool Math Games](https://www.coolmathgames.com/)
+### 🔗 [Cool Math Games](https://www.coolmathgames.com/)
 
 - Lógica, raciocínio e matemática são combinados com diversão neste site de treinamento cerebral para todos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/coolmathgames.com/)
 
-### 🌐 [CrazyGames](https://www.crazygames.com/)
+### 🔗 [CrazyGames](https://www.crazygames.com/)
 
 - Melhor site para jogar jogos de navegador de primeira linha gratuitamente. Todos os dias, novos jogos são upados!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/crazygames.com/)
 
-### 🌐 [Free Games Max](https://www.freegamesmax.com/)
+### 🔗 [Free Games Max](https://www.freegamesmax.com/)
 
 - Jogue os melhores jogos HTML5 no seu PC e dispositivo smart sem precisar baixar nada.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/freegamesmax.com/)
 
-### 🌐 [io Games](https://iogames.space/)
+### 🔗 [io Games](https://iogames.space/)
 
 - Divirta-se jogando alguns dos melhores jogos de uma vasta coleção que é atualizada todos os dias.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/iogames.space/)
 
-### 🌐 [Play Retro Games Online](https://www.playretrogames.com/)
+### 🔗 [Play Retro Games Online](https://www.playretrogames.com/)
 
 - Jogos online de seus clássicos retrô favoritos de SNES, NES, SEGA, GBA, GBX e muitos outros.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/playretrogames.com/)
 
-## 📑 ➜ Buscadores
+## 🔦 ➜ Buscadores
 
 ### 🔍 [Mecanismo de busca programável](https://cse.google.com/cse?cx=20c2a3e5f702049aa)
 
@@ -282,7 +282,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - Os usuários são ajudados pelo mecanismo de busca a encontrar downloads de videogames gratuitos. Inclui novos links, bem como uma lista de sites atualizados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravegamesearch.pages.dev/)
 
-## 📑 ➜ Torrents
+## 🧵 ➜ Torrents
 
 ### 🌟 [DODI Repacks](https://dodi-repacks.site/)
 
