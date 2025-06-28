@@ -61,7 +61,7 @@
 | Worldofpcgames   | worldof-pcgames-net         | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | cracked-games       | cracked-games-com                      | **Vírus** (_Detectado com malware_).                                                                |
 | Wifi4Games          | wifi4games-com                         | **Vírus** (_Detectado com malware_).                                                                |
-| 💩 IGG Games / Load Games | igg-games-com / loadgames-com         | **Comportamento antiético** (_Doxxou o dono de outro site e permitiu anúncios de clickjacking_).    |
+| 💩 IGG Games / Load Games | igg-games-com / loadgames-com         | **Comportamento antiético** (_Doxxou o dono de outro site e permite anúncios clickjacking_).    |
 | GameFabrique        | gamefabrique-com                       | **Adware** (_Instaladores com adware e uploads de IGG_).                                            |
 | 💩 SteamUnlocked       | steamunlocked-net                       | **Comportamento antiético** (_Uploads de IGG e NosTeam, e host de arquivos muito lento_).            |
 | game-repack         | game-repack-com                        | **Fraude** (_Botões de download falsos e remoção de comentários sobre isso_).                        |
@@ -79,6 +79,7 @@
 | :---------- | :-------------------------- | :----------------------------------------------------------------------------------------------------------- |
 | IPAOMTK         | ipaomtk-com                      |  **Vírus** (_Detectado com malware em várias ocasiões_). |
 | OceanOfApks         | oceanofapks-com                      |  **Vírus** (_Detectado com malware em várias ocasiões_). |
+| 💩 Happy Mod         | happymod-com (proxies)                    |  **Suspeito** (_Reposta apks modificados de outros sites e permite anúncios clickjacking em excesso_). |
 
 # ⚙️ ➜ Software
 
