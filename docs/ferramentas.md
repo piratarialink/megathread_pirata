@@ -182,7 +182,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 * [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
 * **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Plugin para acrescentar a opção de converter vídeos para MP4 no After Effects
-* [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases)
+* [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT
 
 ## ► Gerenciadores de download
 
