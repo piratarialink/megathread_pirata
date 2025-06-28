@@ -15,7 +15,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 📑 ➜ Streaming
+## 🖥 ➜ Streaming
 
 ### 🌟 [Better Anime](https://betteranime.net/)
 - **Better Anime** está com restrições de DMCA, mas funciona normalmente pelo app ou pelo site após login. Se não logar, ele não funcionará.
@@ -45,7 +45,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### ▶️ [Q1N](https://q1n.net/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/q1n.net/)
 
-## 📑 ➜ Downloads Diretos
+## 📥 ➜ Downloads Diretos
 
 ### 🌟 [Anitsu](https://anitsu.moe/#)
 - Grande catálogo, especialmente para animes obscuros com legenda PT-BR. **Use um media player de sua preferência no lugar do VLC.**
@@ -76,7 +76,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### 🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/tokyoinsider.com/)
 
-## 📑 ➜ Torrents
+## 🌀 ➜ Torrents
 
 ### 🧲 [AniRena](https://www.anirena.com/)
 - Tracker simples para torrents de animes, dramas e músicas.
@@ -106,7 +106,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
 - Tracker semi-privado.
 
-## 📑 ➜ No Telegram
+## 📣 ➜ No Telegram
 
 ### 🌟 [Algo Animes](https://t.me/algoanimes)
 - Mesmo criador do Algo Books.
