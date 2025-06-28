@@ -4,11 +4,9 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 ## ► Geral
 
+- [Existe alguma maneira de aumentar minha velocidade de seeding?](https://www.reddit.com/r/qBittorrent/comments/11d14hu/is_there_a_way_i_can_boost_my_seeding/) - Feito por [Equivalent-Ad-4490](https://www.reddit.com/user/Equivalent-Ad-4490/)
+
 - [Como usar um DNS Privado no Android e bloquear anúncios + desbloquear sites censurados](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/) - Feito por [u/YuriRosas](https://www.reddit.com/user/YuriRosas/)
-
-- [Como desbloquear sites bloqueados pelas operadoras](https://phtn.app/post/lemmy.dbzer0.com/146129) - Feito por [u/Dreadwhole](https://phtn.app/u/Dreadwhole@lemmy.dbzer0.com)
-
-- [Tutorial de como instalar uBlock Origin pre-configurado com Hagezi + TwitchAdSolutions](https://phtn.app/post/lemmy.dbzer0.com/146206) - Feito por [u/Dreadwhole](https://phtn.app/u/Dreadwhole@lemmy.dbzer0.com)
 
 - [Ah se eu pudesse traduzir conteúdos em tempo real!](https://phtn.app/post/lemmy.dbzer0.com/4186580) - Feito por [u/Dreadwhole](https://phtn.app/u/Dreadwhole@lemmy.dbzer0.com)
 
@@ -50,7 +48,5 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 ## ► Jogos
 
 - [Como baixar jogos usando 1337x e TorrentGalaxy](https://phtn.app/post/lemmy.dbzer0.com/2903152) - Feito por [u/Heus-Sueh](https://phtn.app/u/Heus_Sueh@lemmy.dbzer0.com)
-
-- [Como baixar jogos piratas de forma segura](guias/jogos-piratas) - Feito pela comunidade.
 
 - [Informações sobre funcionalidades e segurança de Launchers Minecraft](https://www.reddit.com/r/pirataria/s/Uig8dZ3aKa) - Feito por [M1chelon](https://www.reddit.com/u/M1chelon/s/peQmTKM3UE) 
