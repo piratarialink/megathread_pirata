@@ -44,14 +44,12 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► Downloads originais/intactos do Windows e do Office
 
-- [files.rg-adguard.net](https://files.rg-adguard.net/) - Substituto do tb.rg-adguard.net
-* [tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - Interface da Web para o site techbench da Microsoft. Windows 8.1+ / Office 2013+
-* [tb.rg-adguard.net/products.html](https://tb.rg-adguard.net/products.html) - Dump de produtos mais recentes da Microsoft
+* [files.rg-adguard.net](https://files.rg-adguard.net/) - Substituto do tb.rg-adguard.net
 * [arquivo corenoc.de](https://web.archive.org/web/20180711192755/http://mirror.corenoc.de/digitalrivercontent.net/) - Mirrors de torrent para isos do Windows 7 que estavam disponíveis no DigitalRiverContent da Microsoft CDN
 * [the-eye.eu/public/MSDN](https://archive.org/details/MSDNArchive) - O backup de 2,7 TB do olho do despejo do MSDN. Tem muitos ISOs difíceis de encontrar, Windows 7, etc.
 * [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors para LTSB, LTSC e ISOs do Windows 10 da edição do consumidor. [Postagem original](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431) em MyDigitalLife fóruns
 * [Windows ISOs em nnmclub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 10 da edição do consumidor
-* [OS.click](https://os.click/en/Windows)
+* [OS.click](https://os.click/en/Windows) - Download do Windows intacto
 * [pastebin de abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
 * [pastebin de abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
 * [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Ferramenta da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
