@@ -13,7 +13,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 📑 ➜ Downloads Diretos
+## 📥 ➜ Downloads Diretos
 
 ### 🔗 [Audio wareZ](https://audioz.download/)
 
@@ -105,7 +105,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Você pode pesquisar e baixar facilmente arquivos MP3 gratuitos do YouTube, que é rápido e muito simples de usar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytmp3hub.com/)
 
-## 📑 ➜ Aplicativos para Desktop
+## ⚙ ➜ Aplicativos para Desktop
 
 ### 🖥️ [ytDownloader](https://ytdn.netlify.app/)
 
@@ -196,7 +196,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - Bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial. Disponivel temas para o client e outras personalizações.
 
-## 📑 ➜ Ferramentas para transferir Playlists
+## 🔁 ➜ Ferramentas para transferir Playlists
 
 ### 🌟 [Spot Transfer](https://spot-transfer.vercel.app/)
 
