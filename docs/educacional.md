@@ -182,10 +182,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### 🔗 [Rumo ao ITA](https://t.me/rumoaoita)
 
 - Possui material e cartilha que irão te ensinar do zero a passar no ITA.
-  
-### 🔗 [MEDPIRATEX Clone](https://t.me/+amXzkYHJwYdjNjUx)
-
-- Reúne materiais do medicina livre, Estratégia MED, entre outros.
 
 ### 🔗 [ENEM SOLIDÁRIO 2025!⏳📚!](https://t.me/Enemmateriais2025)
 
