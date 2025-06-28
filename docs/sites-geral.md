@@ -1,6 +1,6 @@
 # 🧭 ➜ Uso Geral
 
-Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadores e trackers DHT para encontrar o máximo de conteúdo público possível.
+Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadores e trackers DHT para encontrar o máximo de conteúdo público possível.
 
 :::warning ⚠️ Aviso Rápido
 - ✔️ **Todos os links** disponíveis foram analisados e aprovados por contribuidores voluntários. No entanto, **sempre prossiga com cautela**.
@@ -69,10 +69,6 @@ Sites de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 ### 📣 [CopyrightBR](https://t.me/CopyrightBR)
 
 - Criado com o intuito de compartilhar notícias e releases da cena pirata brasileira. Contém avisos sobre warez/trackers abertos e muito mais.
-
-### 📣 [UnCopy Group](https://t.me/UnCopyGroup)
-
-- Grupo para quem busca material e papo de qualidade sobre p2p e a scene no geral.
 
 ### 🤖 [Search bot](https://t.me/en_SearchBot)
 
