@@ -15,7 +15,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ## 🖥 **Transmissão de canais ao vivo**
 
-### 🌟 [Rede Canais TV](https://redecanais.gs) / [2](https://redecanais.gl)
+### 🌟 [Rede Canais TV](https://redecanaistv.ps) / [2](https://redecanaistv.gl)
 
 - Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
@@ -40,7 +40,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ## 🏟 Esportes
 
-### 🌟 [Rede Canais](https://redecanais.gs/)
+### 🌟 [Rede Canais](https://redecanais.gs/) [2](https://redecanais.fi/) / [3](https://redecanais.ps/) 
 
 - Oferece Canais de Esportes também
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.gs/)
