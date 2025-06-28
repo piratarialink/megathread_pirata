@@ -32,7 +32,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🌟 [**Hattered**](https://mefrraz.github.io/hattered/index.html) 
 
-- Site brasileiro com dicas, guias e uma biblioteca de conteúdo livre online.
+- Site bilíngue com dicas, guias e uma biblioteca de conteúdo livre online.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mefrraz.github.io/hattered/)
 
 ### 🔗 [AlternativeTo](https://alternativeto.net/)
