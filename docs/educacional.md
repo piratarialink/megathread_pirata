@@ -167,11 +167,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🔗 [Meu Pato Clone](https://t.me/+UuFl_e1X01VkODMx)
 
-- Clone do canal Meu Pato
-
 ### 🔗 [Hydra Cursos Clone](https://t.me/+J_e3iO0gjPUwZjcx)
-
-- Coletânea do grupo do Picasso.
 
 ### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 
@@ -186,8 +182,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 - Substitui a busca nativa e obsoleta do Telegram. Excelente meio para encontrar arquivos e cursos que não são tão acessíveis dentro do app.
 
 ### 🔗 [Extreme Cursos](https://t.me/Extreme_CursosGratis)
-
--  Conteúdo diverso.
 
 ### 🔗 [Rumo ao ITA](https://t.me/rumoaoita)
 
