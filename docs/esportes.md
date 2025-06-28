@@ -13,7 +13,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## ► **Transmissão de canais ao vivo**
+## 🖥 **Transmissão de canais ao vivo**
 
 ### 🌟 [Rede Canais TV](https://redecanais.gs) / [2](https://redecanais.gl)
 
@@ -38,7 +38,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
   
 ### 🔗 [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) - Agregação de IPTV em massa
 
-## ► Esportes
+## 🏟 Esportes
 
 ### 🌟 [Rede Canais](https://redecanais.gs/)
 
@@ -133,7 +133,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - Replays. Basquetebol, futebol, F1
 
-## ► Subreddits
+## 🟠 Subreddits
 
 - /r/rugbystreams - Transmissões ao vivo. Links postados na hora do jogo
 - /r/MLBStreams - Transmissões ao vivo. Links postados na hora do jogo
