@@ -114,7 +114,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ---
 
-## 🌀 ➜ Torrents
+## 🧵 ➜ Torrents
 
 ### 🧲 [Download Cursos Top](https://downloadcursos.top/) - Cursos nacionais
 
