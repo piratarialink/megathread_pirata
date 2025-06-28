@@ -400,7 +400,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 
 ## ► **Ferramentas Diversas**
 
-- [Seedr](https://www.seedr.cc) - Converta links magnéticos em links HTTPS.
+- [Seedr](https://www.seedr.cc) - Converte links magnéticos em links HTTPS.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos com a ajuda de inteligência artificial.
 Para o melhor resultado, selecione o motor `Whisper` junto com o modelo `large-v2`.
 - [doc downloader](https://docdownloader.com/) - Downloader de Issuu e Slideshare.
