@@ -114,7 +114,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🖥️ [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-- Ferramenta para baixar imagens/vídeos/música/texto de vários sites e muito mais.
+- Ferramenta para baixar imagens/vídeos/música/texto de vários sites.
 
 ### 🖥️ [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui)
 
