@@ -2,6 +2,18 @@
 
 Guias úteis para ajudá-lo em suas viagens marítimas.
 
+## 📑 ➜ [Aumente seu ratio com Autobrr](guias/autobrr.md)
+
+Nesta guia, iremos mostrar o benefício de utilizar a ferramenta de automação Autobrr para baixar automaticamente torrents que são lançados nos trackers.
+
+## 📑 ➜ [Como bloquear os anúncios na Twitch](guias/twitch.md)
+
+Para uma experiência ainda melhor na Twitch. Tenha em mente que a qualidade da stream pode cair enquanto o ad passar.
+
+## 📑 ➜ [Burlando o Limite de Download do Mega](guias/burlando-limite-mega.md)
+
+Para evitar o limite de cota de download no Mega, siga estas etapas deste guia simples. Após baixar o programa necessário, configure sua conta Mega e explore opções como proxies e contas adicionais para desfrutar de downloads sem interrupções. Com essas técnicas, você poderá fazer download de arquivos no Mega sem restrições.
+
 ## 📑 ➜ [Guia de Privacidade para Paranoicos](guias/quero-privacidade.md)
 
 Título autoexplicativo.
@@ -37,11 +49,6 @@ Quer configurar o Jellyfin e a Família Arr de forma simples e eficiente? Este g
 ## 📑 ➜ [Guia de Download e Ativação do Windows e Office](guias/ativacao-office-win)
 
 Ative o Windows e o Office sem estresse? Este guia prático te mostra como. Descubra onde ativar esses programas de forma segura e aprenda a fazê-lo sem complicações. Seja configurando um novo PC ou atualizando seu software, este guia é o seu companheiro confiável para uma ativação tranquila.
-
-## 📑 ➜ [Guia Burlando Limite de Download do Mega](guias/burlando-limite-mega.md)
-
-Para evitar o limite de cota de download no Mega, siga estas etapas deste guia simples. Após baixar o programa necessário, configure sua conta Mega e explore opções como proxies e contas adicionais para desfrutar de downloads sem interrupções. Com essas técnicas, você poderá fazer download de arquivos no Mega sem restrições.
-
 
 ## 📑 ➜ [Guia de Como Baixar e Instalar pela FitGirl](guias/guia-fitgirl.md)
 
