@@ -40,7 +40,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à experiência moderna do Windows
 * [BleachBit](https://www.bleachbit.org/) - Limpador de arquivos open source que não é afiliado com a avast.
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Uma lista incrível e selecionada dos melhores aplicativos e ferramentas para Windows.
-- 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto.
+* 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto.
 
 ## ► Downloads originais/intactos do Windows e do Office
 
