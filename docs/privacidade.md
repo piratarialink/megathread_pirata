@@ -1,7 +1,6 @@
 # 🪶 ➜ Privacidade
 
-:::info 
-Essa página ainda é um esboço. Feito com base nas recomendações do [PrivacyGuides](https://www.privacyguides.org/).
+:::info Essa página ainda é um esboço. Feito com base nas recomendações do [PrivacyGuides](https://www.privacyguides.org/).
 :::
 
 ## Panorama da Segurança
@@ -63,8 +62,7 @@ O Cromite é um fork do Chromium baseado no fork do Bromite com bloqueio de anú
 - Adblock Plus
 - Chromium-based
 
-:::info 
-Disponível para Android, Windows e Linux.
+:::info Disponível para Android, Windows e Linux.
 ::: 
 
 ![Cromite](public/images/cromite.png)
@@ -75,8 +73,7 @@ Disponível para Android, Windows e Linux.
 
 O Bitwarden é um gerenciador de senhas de código aberto e plataforma de segurança de dados que permite armazenar de forma segura senhas, cartões de crédito e outros dados confidenciais. Ele oferece recursos como preenchimento automático de senhas, geração segura de senhas, compartilhamento seguro de senhas com outras pessoas e sincronização de dados entre dispositivos. O Bitwarden é acessível através de aplicativos para desktop, navegador e dispositivos móveis, garantindo acesso fácil e seguro às suas credenciais em qualquer lugar.
 
-:::info
-Você pode criar sua própria instância do Bitwarden, instalando o Vaultwarden em seu servidor. Somente para usúarios avançados.
+:::info Você pode criar sua própria instância do Bitwarden, instalando o Vaultwarden em seu servidor. Somente para usúarios avançados.
 :::
 
 ### [KeePassXC](https://keepassxc.org/)
@@ -108,8 +105,7 @@ Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que c
 - Suporta port-forwarding, fazendo suportar a rede P2P (peer-to-peer)
 - Suporta Monero
 
-:::warning
-AirVPN deve ser a última opção como VPN, seus servidores não são bons.
+:::warning AirVPN deve ser a última opção como VPN, seus servidores não são bons.
 ::: 
 
 ## Bloqueador de anúncios e trackers
@@ -118,8 +114,7 @@ AirVPN deve ser a última opção como VPN, seus servidores não são bons.
 
 O uBlock Origin é uma extensão de navegador popular projetada para bloquear anúncios, rastreadores e outros elementos indesejados em páginas da web. Ele funciona filtrando o conteúdo da página em tempo real, impedindo que anúncios sejam carregados, o que resulta em uma experiência de navegação mais rápida e limpa. Além de bloquear anúncios, o uBlock Origin também oferece opções avançadas de filtragem, permitindo que os usuários personalizem suas configurações conforme necessário. Esta extensão é conhecida por sua eficácia, baixo consumo de recursos e pela capacidade de proteger a privacidade dos usuários, bloqueando rastreadores e scripts maliciosos.
 
-:::info
-Adicionar a lista [oisd.nl](https://oisd.nl) como lista adicional.
+:::info Adicionar a lista [oisd.nl](https://oisd.nl) como lista adicional.
 ::: 
 
 ![uBlock Add](/images/ublock_oisd_add.png)
@@ -130,12 +125,10 @@ Adicionar a lista [oisd.nl](https://oisd.nl) como lista adicional.
 
 O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo baseada em rede, geralmente implementada em um Raspberry Pi ou em um servidor local. Funciona como um servidor DNS que intercepta solicitações de DNS feitas por dispositivos na rede e bloqueia solicitações para servidores de anúncios e domínios de conteúdo indesejado. Isso melhora a velocidade de navegação, reduz o consumo de largura de banda e aumenta a privacidade, já que muitos rastreadores e anúncios são bloqueados antes de serem carregados. O Pi-hole também fornece estatísticas detalhadas sobre o tráfego de rede e os domínios bloqueados, permitindo um controle mais preciso sobre o fluxo de dados na rede local.
 
-:::info 
-Utilizar somente a lista do [oisd.nl](https://oisd.nl).
+:::info Utilizar somente a lista do [oisd.nl](https://oisd.nl).
 ::: 
 
-:::warning 
-O Pi-hole é somente para usúarios avançados.
+:::warning O Pi-hole é somente para usúarios avançados.
 :::
 
 ## Provedores de E-mail
@@ -179,8 +172,7 @@ O Nextcloud é uma plataforma de colaboração e armazenamento em nuvem de códi
 
 Matrix.org é uma plataforma aberta e descentralizada de comunicação e colaboração em tempo real. Ela permite que os usuários se comuniquem através de mensagens instantâneas, chamadas de voz e vídeo, compartilhamento de arquivos e outros recursos colaborativos. O Matrix.org é construído em torno de um protocolo aberto e federado, o que significa que diferentes servidores podem se comunicar entre si, permitindo uma rede descentralizada de comunicação. Isso oferece maior segurança, privacidade e controle sobre os dados dos usuários, além de possibilitar a interoperabilidade entre diferentes aplicativos e plataformas. O Matrix.org é amplamente utilizado em diversos contextos, desde mensagens instantâneas entre indivíduos até salas de chat colaborativas em equipes de trabalho e comunidades online.
 
-:::info
-Existem várias outras instâncias, o Matrix.org é uma das instâncias disponíveis.
+:::info Existem várias outras instâncias, o Matrix.org é uma das instâncias disponíveis.
 :::
 
 ### [Element](https://element.io/)
