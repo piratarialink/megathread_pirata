@@ -13,7 +13,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## ▶️ Dublados 
+## 🗣 Dublados 
 
 ### 🌟 [Rede Canais](https://redecanais.ps/)
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/)
@@ -43,7 +43,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Contém Filmes e Séries Atualizados Dublados e Legendados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/) 
 
-## ▶️ Legendados 
+## 🆎 Legendados 
 
 ### 🌟 [Freek.to](https://freek.to/)
 - Freek.to aparentemente comprou o Binged
@@ -187,7 +187,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 📺️ [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) 
 - Agregação de IPTV em massa
 
-## 🧲 Torrents 
+## 🧵 Torrents 
 
 ### 🌟 [Starck Filmes](https://www.starckfilmes.com/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.starckfilmes.com/) 
@@ -204,7 +204,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 🧲 [Comando Filmes](https://comandofilmes.xyz/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmes.xyz/) 
 
-## 🖊️ Legendas 
+## 🖊 Legendas 
 ### 🌟 [OpenSubtitles](https://www.opensubtitles.com) / [2](https://www.opensubtitles.org) 
 
 - Vasto banco de dados com 2,6 bilhões de palavras em 60 idiomas que serve praticamente todos os filmes ou programas de TV que você possa imaginar.
@@ -223,7 +223,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/podnapisi.net/) 
 
 
-## 📑 No Telegram  
+## 📢 No Telegram  
 ### 🌟 [Polemic Filmes](https://t.me/polemicfilmes) 
 ### [Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)  
 
