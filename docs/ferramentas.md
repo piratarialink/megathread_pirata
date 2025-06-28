@@ -202,7 +202,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 - [seedr.cc](https://www.seedr.cc/) - Seedbox gratuito que permite baixar torrents de até 2 GiB de tamanho. Se você deseja se tornar premium, evite comprar de semeadores - eles são muito caros. Basta verificar /r/seedboxes para caixas de sementes pagas alternativas.
 - 🌟 **[Pago]** [**Real Debrid**](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o enxame do torrent, que é a principal causa de recebimento de cartas de violação de direitos autorais.
-- **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito que real-debrid
+- **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito do real-debrid
 - **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid
 - **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também
 - **[Teste pago / gratuito]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
@@ -400,6 +400,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 
 ## ► **Ferramentas Diversas**
 
+- [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
 - [Seedr](https://www.seedr.cc) - Converte links magnéticos em links HTTPS.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos com a ajuda de inteligência artificial.
 Para o melhor resultado, selecione o motor `Whisper` junto com o modelo `large-v2`.
