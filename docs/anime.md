@@ -118,7 +118,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ## 📰 ➜ Legendas
 
 ### 🔗 [AnimeDB](https://anidb.net/)
-- Base de dados internacional sobre animes e legendas.
+- Base de dados internacional sobre animes e legendas em inglês.
 
 ### 🔗 [InfoAnime](https://www.infoanime.com.br/)
 - Acompanhamento de projetos de fansubers e scanlators brasileiros.
