@@ -6,7 +6,7 @@
 2 - Clique com o botão direito do mouse no ícone do uBlock Origin na barra de ferramentas do navegador.
 3 - No menu suspenso, selecione a opção "Abrir painel de controle" ou "Opções".
 
-![](public/images/twitch1.png)
+![Twitch1](public/images/twitch1.png)
 
 ## Passo 2
 
