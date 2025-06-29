@@ -160,6 +160,11 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Leitor de mangá para IOS. É preciso adicionar as fontes dentro do app, as melhores são mangadex e mangafire.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tachimanga.app/)
 
+### 🔗 [Unyo](https://github.com/K3vinb5/Unyo) 
+
+- Aplicativo para desktop que funciona como leitor de mangás e plataforma de streaming de anime.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+  
 ### 🔗 [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) 
 
 - Fork do Aniyomi com a função de mangás restaurada e recursos extras.
