@@ -67,9 +67,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Skip Redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) - Extrai a url final de sites que funcionam como intermediários.
 - [SpotX - anteriormente BlockTheSpot](https://github.com/spotx-cli) - Bloqueia anúncios e permite pular músicas no aplicativo de desktop do Windows Spotify.
 - [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - executável leve que bloqueia e silencia os anúncios do Spotify no Windows.
-- [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Bloquear anúncios no site do Spotify
-- [Bypass-Paywalls-Firefox-Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) - Extensão do Firefox para bloquear paywalls. Os sites suportados estão listados na página do repositório.
-- [Bypass paywalls - Método 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o agente do usuário para o Google Bot.
+- [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Bloqueia anúncios no site do Spotify
 
 ## ► **Bypassers de sites de redirecionamento**
 
@@ -81,6 +79,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 - 🌟 [**Bypass Paywalls Clean**](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para Firefox para burlar Paywall.
 - [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
+- [Bypass paywalls - Método 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o agente do usuário para o Google Bot.
 - [Remove paywall](https://www.removepaywall.com/)
 - [12ft](https://12ft.io/)
 - [Smry](https://www.smry.ai/)
