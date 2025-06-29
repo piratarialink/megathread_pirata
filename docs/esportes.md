@@ -66,10 +66,6 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megacanais.com/)
 
-### 📺️ [Futemax](https://futemax.rent/) / [2](https://futemax.luxe/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.rent/)
-
 ### 📺️ [f1carreras.net](https://f1carreras.net/) - Necessário Cadastrar-se
 
 - Torrent de Formula 1 com gravações de treinos, qualificações, sprints e corridas em português, inglês, espanhol, alemão e opção sem narração
