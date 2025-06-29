@@ -383,6 +383,7 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 - [Open Cloud Saves](https://opencloudsaves.com/) - Open Cloud Save é um aplicativo gratuito que permitirá sincronizar seus dados salvos em todos os seus dispositivos. Roda em Windows, MacOS e Linux.
 - [Better xCloud](https://github.com/redphx/better-xcloud) - Userscript para melhorar a jogatina da Xbox Cloud e da Remote Play em navegadores.
 - [Smart Online Fix](https://github.com/BadKiko/steam-online-fix-launcher) - Ferramenta para iniciar e organizar jogos do online-fix-me no Linux.
+- [Free-games-claimer](https://github.com/vogler/free-games-claimer) - Automaticamente reinvidica jogos gratuitos da Epic Games.
 
 #### ► **Launchers de jogos**
 
