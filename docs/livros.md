@@ -145,11 +145,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Acesse facilmente mangás, webcomics e quadrinhos em seu dispositivo Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🌟 [Better Anime](https://discord.com/invite/betteranime) 
-
-- O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar. App removido da playstore, disponível apenas no discord. 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/discord.com/)
-
 ### 🔗 [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server)
 
 - Basicamente, a versão PC do Tachiyomi.
@@ -159,11 +154,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 - Leitor de mangá para IOS. É preciso adicionar as fontes dentro do app, as melhores são mangadex e mangafire.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tachimanga.app/)
-
-### 🔗 [Aniyomi](https://aniyomi.org/) 
-
-- Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/aniyomi.org/)
 
 ### 🔗 [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) 
 
