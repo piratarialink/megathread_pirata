@@ -44,6 +44,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 
 ### ▶️ [Anime Yabu](https://www.animeyabu.org/)
 - Em caso de bloqueio, use o [PopUpOFF](https://popupoff.org/).
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.animeyabu.org/)
 
 ### ▶️ [Q1N](https://q1n.net/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/q1n.net/)
