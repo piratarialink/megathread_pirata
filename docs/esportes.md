@@ -20,7 +20,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
 
-### 🌟 [Multicanais](https://multicanais.legal/)
+### 🌟 [Multicanais](https://multicanais.legal/) / [Multicanais](https://multicanais.forum/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
 
