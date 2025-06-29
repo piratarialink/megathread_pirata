@@ -33,12 +33,12 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * [Optimizer](https://github.com/hellzerg/optimizer) - Uma Ferramenta de configuração avançado projetado para aprimorar sua privacidade e segurança no Windows.
 * [Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Uma ferramenta para “consertar” o Windows 11
 * [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece)
+* [BleachBit](https://www.bleachbit.org/) - Limpador de arquivos open source que não é afiliado com a avast.
 * 🌟 [**Chocolatey**](https://chocolatey.org/) - Um instalador de linha de comando para o Windows.
 * [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Uma ferramenta leve que torna a barra de tarefas do Windows translúcida/transparente.
 * [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Centralize os ícones da barra de tarefas do Windows com uma variedade de animações e opções.
 * [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à experiência moderna do Windows
-* [BleachBit](https://www.bleachbit.org/) - Limpador de arquivos open source que não é afiliado com a avast.
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Uma lista incrível e selecionada dos melhores aplicativos e ferramentas para Windows.
 * 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto.
 
@@ -173,6 +173,8 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Sonarr](https://sonarr.tv/) - Download automático de programas de TV onde você pode adicionar novos programas para monitorar e baixará automaticamente todos os novos episódios assim que estiverem disponíveis em sites de torrent.
 - [Radarr](https://radarr.video/) - Igual ao Sonarr, mas para filmes.
 - [Prowlarr](https://prowlarr.com/) - Faz o mesmo papel do Jackett, só que melhor.
+- [Cross-Seed](https://github.com/cross-seed/cross-seed) - Ressuscita ou encontra arquivos elegíveis e os injeta diretamente no seu cliente torrent.
+- [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Automatiza tarefas que desperdiçam tempo no qBitTorrent.
 - [Medusa](https://pymedusa.com/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [SickChill](https://sickchill.github.io/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [Lidarr](https://lidarr.audio/) - Um Radarr para álbuns musicais.
