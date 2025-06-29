@@ -33,7 +33,7 @@ Após instalado siga para sessão **CONFIGURANDO AUTOBRR**.
 
 Aperte "Win+X" e selecione a opção "powershell admi"
 
-![](public/images/autobrr1.png)
+![autobrr1](public/images/autobrr1.png)
 
 execute o comando:
 
@@ -53,7 +53,7 @@ Realize a instalação e execute, irá abrir uma janela informando para aguardar
 
 **INTEGRANDO UBUNTU COM DOCKER**
 
-![](public/images/autobrr2.png)
+![autobrr2](public/images/autobrr2.png)
 
 Siga a instrução de acordo com o print acima. Caso a janela do ubuntu 20.04 esteja aberta, feche e abra novamente. Irá estar no seu menu iniciar, basta pesquisar.
 
@@ -65,7 +65,7 @@ Teste se o docker está funcionando, basta digitar:
 
 ` docker` 
 
-![](public/images/autobrr3.png)
+![autobrr3](public/images/autobrr3.png)
 
 A saída deverá ser como mostra na imagem acima.
 
@@ -91,7 +91,7 @@ Validado que o docker está funcionando. Copie e cole todo o comando a seguir:
 
 Aguarde e abra o docker desktop.
 
-![](public/images/autobrr4.png)
+![autobrr4](public/images/autobrr4.png)
 
 Se tudo ocorrer certo, estará conforme mostra a imagem acima.
 
@@ -100,19 +100,19 @@ Acesse: http://localhost:7474
 
 Deverá ver a seguinte tela:
 
-![](public/images/autobrr5.png)
+![autobrr5](public/images/autobrr5.png)
 
 Crie seu usuário e senha.
 
 **ADICIONE SEU CLIENT TORRENT**
 
-![](public/images/autobrr6.png)
+![autobrr6](public/images/autobrr6.png)
 
 Irá selecionar qual cliente deseja configurar, no exemplo usaremos o qbitorrent
 
-![](public/images/autobrr7.png)
+![autobrr7](public/images/autobrr7.png)
 
-![](public/images/autobrr8-1.png)
+![autobrr8](public/images/autobrr8-1.png)
 
 1. Você irá colocar o ip do seu computador, não utilize localhost.
 2. Clique em test para validar a conexão, se der ok. Clique em create
@@ -129,15 +129,15 @@ Busque no seu tracker como obter o RSS, não iremos citar trackers específicos 
 
 Após conseguir o RSS do seu tracker, vá em "INDEXERS" e siga o fluxo abaixo
 
-![](public/images/autobrr8.png)
+![autobrr9](public/images/autobrr8.png)
 
 **ATIVE O FEED E AJUSTE O TEMPO DE ATUALIZAÇÃO**
 
-![](public/images/autobrr9.png)
+![autobrr10](public/images/autobrr9.png)
 
 Siga a orientação conforme a imagem Feeds > Edit
 
-![](public/images/autobrr10.png)
+![autobrr11](public/images/autobrr10.png)
 
 1. Ative o feed
 2. Defina o tempo de atualização. (verifique as regras do seu tracker para não usar um tempo muito pequeno) sugerimos 5min.
@@ -146,20 +146,20 @@ Siga a orientação conforme a imagem Feeds > Edit
 **ATIVANDO FILTROS**
 Uma das principais funções do autobrr, são os filtros. Aqui que a "mágica acontece". Mostraremos um exemplo de configuração, mas não significa que irá funcionar no seu tracker. Caso não funcione, terá que ajustar para conseguir identificar. Use os logs para ver o que está acontecendo.
 
-![](public/images/autobrr11.png)
+![autobrr12](public/images/autobrr11.png)
 
 - Após clicar, defina um nome e salve.
 Selecione seu feed:
 
-![](public/images/autobrr12.png)
+![autobrr13](public/images/autobrr12.png)
 
-![](public/images/autobrr13.png)
+![autobrr14](public/images/autobrr13.png)
 
 Nos campos acima, você pode definir qual o tamanho mínimo/máximo que deseja baixar.
 
 **ABA "MOVIES & TV"**
 
-![](public/images/autobrr14.png)
+![autobrr15](public/images/autobrr14.png)
 
 No exemplo acima, está definido para baixar filmes entre os anos 2015 e 2024, com resolução 1080p e o tipo de arquivo sendo .mkv
 
@@ -167,7 +167,7 @@ No exemplo acima, está definido para baixar filmes entre os anos 2015 e 2024, c
 Esta aba possui vários filtros que você pode utilizar valores usando "," ou regex. 
 Abaixo está um exemplo para baixar filmes de todos os tipos **(aplicável somente em determinado tracker)** 
 
-![](public/images/autobrr15.png)
+![autobrr16](public/images/autobrr15.png)
 
 Reforçando... os filtros vão de acordo com cada tracker que você adiciona. Caso não esteja baixando algo que definiu ou não identificando corretamente. Analise os logs para.
 
@@ -176,11 +176,11 @@ Reforçando... os filtros vão de acordo com cada tracker que você adiciona. Ca
 :::
 Vamos começar testando, para isso defina de acordo com a imagem abaixo e salve:
 
-![](public/images/autobrr16.png)
+![autobrr17](public/images/autobrr16.png)
 
 Lembre-se de ativar o filtro:
 
-![](public/images/autobrr17.png)
+![autobrr18](public/images/autobrr17.png)
 
 :::info Você pode definir filtros para cada tracker que adicionar.
 :::
@@ -189,7 +189,7 @@ Deixe o autobrr ativo e aguarde novas atualizações do RSS, se tudo ocorrer cer
 
 Se estiver OK, volte na aba filtros para editar a ação de test e modificar para enviar para seu client torrent.
 
-![](public/images/autobrr18.png)
+![autobrr19](public/images/autobrr18.png)
 
 1. Mude o action type, para seu client torrent
 2. Selecione o seu cliente torrent que configurou no inicio
