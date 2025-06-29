@@ -112,6 +112,10 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytdn.netlify.app/)
 
+### 🖥️ [Murglar](https://murglar.app/docs/en/en-index.html)
+
+- Baixa músicas do Deezer e Spotify em diferentes formatos. Um ponto negativo seu é ser um aplicativo de código fechado.
+  
 ### 🖥️ [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
 - Ferramenta para baixar imagens/vídeos/música/texto de vários sites.
