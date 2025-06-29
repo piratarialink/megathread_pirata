@@ -20,13 +20,25 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
 
-### 📺️ [Multicanais](https://multicanais.legal/)
+### 📺️ [Multicanais](https://multicanais.legal/) / [2](https://multicanais.meme)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
+
+### 📺️ [PirataTV](https://piratatvs.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/piratatvs.com/)
 
 ### 📺️ [TV Online](https://tvonline.fan/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tvonline.fan/)
+
+### 📺️ [Futemax](https://futemax.rent/) / [2](https://futemax.luxe/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.rent/)
+
+### 📺️ [Buffsports](https://buffsports.io/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/buffsports.io/)
 
 ### 📺️ [Fútbol Libre TV](https://librefutbol.su/)
 
@@ -38,9 +50,9 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
   
 ### 🔗 [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) - Agregação de IPTV em massa
 
-## 🏟 Esportes
+## 🏟 **Esportes**
 
-### 🌟 [Rede Canais](https://redecanais.gs/) [2](https://redecanais.fi/) / [3](https://redecanais.ps/) 
+### 🌟 [Rede Canais TV](https://redecanaistv.gs/) [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/) 
 
 - Oferece Canais de Esportes também
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.gs/)
