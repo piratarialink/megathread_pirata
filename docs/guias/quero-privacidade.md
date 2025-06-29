@@ -6,6 +6,7 @@ Essa página ainda é um esboço. Feito com base nas recomendações do [orchest
 
 ## O básico para privacidade
 
+- Privacidade no Firefox: Betterfox ou Arkenfox
 - VPN: IVPN ou Mullvad
 - Email: Mailbox.org com Thunderbird + uBlock Origin
 - Gerenciador de senhas: Bitwarden ou KeePassXC
