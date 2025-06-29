@@ -13,20 +13,32 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## ► **Transmissão de canais ao vivo**
+## 🖥 **Transmissão de canais ao vivo**
 
-### 🌟 [Rede Canais TV](https://redecanais.gs) / [2](https://redecanais.gl)
+### 🌟 [Rede Canais TV](https://redecanaistv.gs/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/) 
 
 - Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
 
-### 📺️ [Multicanais](https://multicanais.legal/)
+### 🌟 [Multicanais](https://multicanais.legal/) / [2](https://multicanais.forum/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
+
+### 📺️ [PirataTV](https://piratatvs.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/piratatvs.com/)
 
 ### 📺️ [TV Online](https://tvonline.fan/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tvonline.fan/)
+
+### 📺️ [Futemax](https://futemax.rent/) / [2](https://futemax.luxe/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.rent/)
+
+### 📺️ [Buffsports](https://buffsports.io/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/buffsports.io/)
 
 ### 📺️ [Fútbol Libre TV](https://librefutbol.su/)
 
@@ -38,9 +50,9 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
   
 ### 🔗 [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) - Agregação de IPTV em massa
 
-## ► Esportes
+## 🏟 **Esportes**
 
-### 🌟 [Rede Canais](https://redecanais.gs/)
+### 🌟 [Rede Canais TV](https://redecanaistv.gs/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/) 
 
 - Oferece Canais de Esportes também
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.gs/)
@@ -54,10 +66,6 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/megacanais.com/)
 
-### 📺️ [Futemax](https://futemax.rent/) / [2](https://futemax.luxe/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.rent/)
-
 ### 📺️ [f1carreras.net](https://f1carreras.net/) - Necessário Cadastrar-se
 
 - Torrent de Formula 1 com gravações de treinos, qualificações, sprints e corridas em português, inglês, espanhol, alemão e opção sem narração
@@ -70,11 +78,6 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 :::info Acho que os sites abaixo só oferecem narrações em inglês 👇️
 :::
-
-### 📺️ [Rivestream](https://rivestream.live/livesports)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/rivestream.live/)
-- Transmissões ao vivo. Futebol, basquete e tênis.
   
 ### 📺️ [sportsurge.net](https://sportsurge.net/)
 
@@ -133,7 +136,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - Replays. Basquetebol, futebol, F1
 
-## ► Subreddits
+## 🟠 Subreddits
 
 - /r/rugbystreams - Transmissões ao vivo. Links postados na hora do jogo
 - /r/MLBStreams - Transmissões ao vivo. Links postados na hora do jogo

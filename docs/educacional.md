@@ -114,7 +114,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ---
 
-## 📑 ➜ Torrents
+## 🧮 ➜ Torrents
 
 ### 🧲 [Download Cursos Top](https://downloadcursos.top/) - Cursos nacionais
 
@@ -151,27 +151,21 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Pasta contendo as disciplinas fundamentais para concursos.
 
-### 📂 [Apostilas antigas do SENAI](https://drive.google.com/drive/folders/1cidsj7wAg4iGMAvyVQtzg8pxL5D569ZS)
-
 ### 📂 [Drive de Pobre](https://drivedepobre.com/)
 
+- Plataforma criada para facilitar o acesso gratuito a arquivos e conteúdos educacionais de diversas áreas de conhecimento.
+  
 ### 📂 [12.000 Livros Kindle!](https://drive.google.com/drive/folders/1EoF3QomxBsoMTBGMEc_J5JW6r6cC-oCy?usp=drive_link)
 
 - Variedade de livros para kindle de maneira organizada.
+
+### 📂 [Apostilas antigas do SENAI](https://drive.google.com/drive/folders/1cidsj7wAg4iGMAvyVQtzg8pxL5D569ZS)
 
 ## 📣 ➜ No Telegram
 
 ### 🔗 [Polemic Knowledge Clone](https://t.me/+-eUQNwLw9G5mNDUx)
 
 - Backup do canal do Polemic.
-
-### 🔗 [Meu Pato Clone](https://t.me/+UuFl_e1X01VkODMx)
-
-- Clone do canal Meu Pato
-
-### 🔗 [Hydra Cursos Clone](https://t.me/+J_e3iO0gjPUwZjcx)
-
-- Coletânea do grupo do Picasso.
 
 ### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 
@@ -185,25 +179,23 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Substitui a busca nativa e obsoleta do Telegram. Excelente meio para encontrar arquivos e cursos que não são tão acessíveis dentro do app.
 
-### 🔗 [Extreme Cursos](https://t.me/Extreme_CursosGratis)
-
--  Conteúdo diverso.
-
 ### 🔗 [Rumo ao ITA](https://t.me/rumoaoita)
 
 - Possui material e cartilha que irão te ensinar do zero a passar no ITA.
-  
-### 🔗 [MEDPIRATEX Clone](https://t.me/+amXzkYHJwYdjNjUx)
-
-- Reúne materiais do medicina livre, Estratégia MED, entre outros.
-
-### 🔗 [Árvore do Conhecimento - Canal](https://t.me/arveduconhecimentu)
-
-### 🔗 [Solidários](https://t.me/GrupoSolidarios)
 
 ### 🔗 [ENEM SOLIDÁRIO 2025!⏳📚!](https://t.me/Enemmateriais2025)
 
 - Comunidade ativa para compartilhamento de materiais para o ENEM.
+
+### 🔗 [Meu Pato Clone](https://t.me/+UuFl_e1X01VkODMx)
+
+### 🔗 [Hydra Cursos Clone](https://t.me/+J_e3iO0gjPUwZjcx)
+
+### 🔗 [Extreme Cursos](https://t.me/Extreme_CursosGratis)
+
+### 🔗 [Árvore do Conhecimento - Canal](https://t.me/arveduconhecimentu)
+
+### 🔗 [Solidários](https://t.me/GrupoSolidarios)
 
 ## Está buscando Livros?
 

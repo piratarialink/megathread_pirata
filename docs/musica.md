@@ -13,7 +13,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 📑 ➜ Downloads Diretos
+## 📥 ➜ Downloads Diretos
 
 ### 🔗 [Audio wareZ](https://audioz.download/)
 
@@ -105,16 +105,20 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Você pode pesquisar e baixar facilmente arquivos MP3 gratuitos do YouTube, que é rápido e muito simples de usar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytmp3hub.com/)
 
-## 📑 ➜ Aplicativos para Desktop
+## 🎵 ➜ Aplicativos para Desktop
 
 ### 🖥️ [ytDownloader](https://ytdn.netlify.app/)
 
 - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytdn.netlify.app/)
 
+### 🖥️ [Murglar](https://murglar.app/docs/en/en-index.html)
+
+- Baixa músicas do Deezer e Spotify em diferentes formatos. Um ponto negativo seu é ser um aplicativo de código fechado.
+  
 ### 🖥️ [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
-- Ferramenta para baixar imagens/vídeos/música/texto de vários sites e muito mais.
+- Ferramenta para baixar imagens/vídeos/música/texto de vários sites.
 
 ### 🖥️ [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui)
 
@@ -165,7 +169,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - O downloader de música multiplataforma sem anúncios não requer geração ou ajustes nas chaves de API para funcionar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🖥️ [Stacher](https://stacher.io/)
+### 🌟 [**Stacher**](https://stacher.io/)
 
 - Você pode modificar a impressionante GUI contemporânea para utilizar qualquer fork do YT-DLP, que é instalado imediatamente após o lançamento.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/stacher.io/)
@@ -196,7 +200,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - Bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial. Disponivel temas para o client e outras personalizações.
 
-## 📑 ➜ Ferramentas para transferir Playlists
+## 🔁 ➜ Ferramentas para transferir Playlists
 
 ### 🌟 [Spot Transfer](https://spot-transfer.vercel.app/)
 

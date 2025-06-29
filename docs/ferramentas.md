@@ -1,6 +1,6 @@
 # 🧰 ➜ Ferramentas
 
-Ferramentas para ativação, scripts de usuário, gerenciadores de download, assistentes, extensões e uma infinidade de outros softwares complementares.
+Ferramentas para ativação, scripts de usuário, gerenciadores de download, assistentes, sites, extensões e uma infinidade de outros utilitários complementares.
 
 :::warning ⚠️ Aviso Rápido
 - ✔️ **Todos os links** disponíveis foram analisados e aprovados por contribuidores voluntários. No entanto, **sempre prossiga com cautela**.
@@ -33,24 +33,23 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * [Optimizer](https://github.com/hellzerg/optimizer) - Uma Ferramenta de configuração avançado projetado para aprimorar sua privacidade e segurança no Windows.
 * [Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Uma ferramenta para “consertar” o Windows 11
 * [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece)
+* [BleachBit](https://www.bleachbit.org/) - Limpador de arquivos open source que não é afiliado com a avast.
 * 🌟 [**Chocolatey**](https://chocolatey.org/) - Um instalador de linha de comando para o Windows.
 * [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Uma ferramenta leve que torna a barra de tarefas do Windows translúcida/transparente.
 * [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Centralize os ícones da barra de tarefas do Windows com uma variedade de animações e opções.
 * [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à experiência moderna do Windows
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Uma lista incrível e selecionada dos melhores aplicativos e ferramentas para Windows.
-- 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto.
+* 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto.
 
 ## ► Downloads originais/intactos do Windows e do Office
 
-- [files.rg-adguard.net](https://files.rg-adguard.net/) - Substituto do tb.rg-adguard.net
-* [tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - Interface da Web para o site techbench da Microsoft. Windows 8.1+ / Office 2013+
-* [tb.rg-adguard.net/products.html](https://tb.rg-adguard.net/products.html) - Dump de produtos mais recentes da Microsoft
-* [arquivo corenoc.de](https://web.archive.org/web/20180711192755/http://mirror.corenoc.de/digitalrivercontent.net/) - Mirrors de torrent para isos do Windows 7 que estavam disponíveis no DigitalRiverContent da Microsoft CDN
+* [files.rg-adguard.net](https://files.rg-adguard.net/) - Substituto do tb.rg-adguard.net.
+* [arquivo corenoc.de](https://web.archive.org/web/20180711192755/http://mirror.corenoc.de/digitalrivercontent.net/) - Mirrors de torrent para isos do Windows 7 que estavam disponíveis no DigitalRiverContent da Microsoft CDN.
 * [the-eye.eu/public/MSDN](https://archive.org/details/MSDNArchive) - O backup de 2,7 TB do olho do despejo do MSDN. Tem muitos ISOs difíceis de encontrar, Windows 7, etc.
-* [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors para LTSB, LTSC e ISOs do Windows 10 da edição do consumidor. [Postagem original](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431) em MyDigitalLife fóruns
-* [Windows ISOs em nnmclub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 10 da edição do consumidor
-* [OS.click](https://os.click/en/Windows)
+* [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors para LTSB, LTSC e ISOs do Windows 10 da edição do consumidor. [Postagem original](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431) em MyDigitalLife fóruns.
+* [Windows ISOs em nnmclub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 10 da edição do consumidor.
+* [OS.click](https://os.click/en/Windows) - Fornece download intacto de versões mais recentes do Windows.
 * [pastebin de abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
 * [pastebin de abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
 * [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Ferramenta da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
@@ -114,6 +113,8 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Botão Sci-hub](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adiciona um botão sci-hub a inúmeros sites de artigos acadêmicos/acadêmicos para desbloquear o artigo que está sendo visualizado.
 - [AdsBypasser](https://adsbypasser.github.io/) - Ignore anúncios de contagem regressiva ou continue páginas e evite janelas pop-up de anúncios.
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Evite a instalação de download de aplicativos indesejados com software legítimo (por exemplo, McAfee com Adobe Flash).
+- [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript para baixar legendas do youtube.
+- [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript para baixar vídeos do youtube.
 - [Youtube share url si parameter remover](https://greasyfork.org/en/scripts/474050-youtube-share-url-si-parameter-remover) - Retira o parâmetro de rastreamento do link de compartilhamento do Youtube.
 - [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Ignore os paywalls de sites de jornais. Requer tampermonkey/greasemonkey para instalar.
 - [Obter informações de DLC do SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Cria automaticamente uma lista de DLC para ferramentas como CreamAPI, GreenLuma e SmartSteamEmu.
@@ -125,6 +126,10 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Weaplay](https://weaplay.net)
 - [Codelist](https://codelist.cc/v3/)
 - [SCRiPTMAFiA](https://scriptmafia.org/scripts/)
+
+## ► Filtros do uBO
+
+- 🌟 [**LegitimateURLShortener**](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt) - Deleta parâmetros de tracking de URLs, como Google AMP.
 
 ## ► Proxies / Desbloqueadores de sites piratas
 
@@ -170,10 +175,12 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 ## ► Gerenciadores de mídia / automação
 
 - [Jackett](https://github.com/Jackett/Jackett) - Indexador completo. Ele permite que você adicione muitos rastreadores de torrent diferentes ao aplicativo, no qual você pode fazer todas as suas pesquisas. Em conjunto com sonarr/radarr, você pode adicionar a Jackett como um indexador a eles, permitindo que eles pesquisem em qualquer um ou em todos os rastreadores de torrent que você adicionou à jaqueta.
-- 🌟 [**Autobrr**](https://autobrr.com) - É possível configurá-lo para baixar automaticamente. De qualquer feed, você define uma regra para adicionar uma categoria por exemplo e ele segue o que você definiu. [**Guia**](https://rentry.co/pirataria-digital_autobrr)
+- 🌟 [**Autobrr**](https://autobrr.com) - É possível configurá-lo para baixar automaticamente. De qualquer feed, você define uma regra para adicionar uma categoria por exemplo e ele segue o que você definiu. [**Guia**](guias/autobrr.md)
 - [Sonarr](https://sonarr.tv/) - Download automático de programas de TV onde você pode adicionar novos programas para monitorar e baixará automaticamente todos os novos episódios assim que estiverem disponíveis em sites de torrent.
 - [Radarr](https://radarr.video/) - Igual ao Sonarr, mas para filmes.
 - [Prowlarr](https://prowlarr.com/) - Faz o mesmo papel do Jackett, só que melhor.
+- [Cross-Seed](https://github.com/cross-seed/cross-seed) - Ressuscita ou encontra arquivos elegíveis e os injeta diretamente no seu cliente torrent.
+- [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Automatiza tarefas que desperdiçam tempo no qBitTorrent.
 - [Medusa](https://pymedusa.com/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [SickChill](https://sickchill.github.io/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [Lidarr](https://lidarr.audio/) - Um Radarr para álbuns musicais.
@@ -181,8 +188,8 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 ## ► Ferramentas de mídia
 
 * [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
-* **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Plugin para acrescentar a opção de converter vídeos para MP4 no After Effects
-* [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases)
+* **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Plugin para acrescentar a opção de converter vídeos para MP4 no After Effects.
+* [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
 
 ## ► Gerenciadores de download
 
@@ -202,7 +209,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 - [seedr.cc](https://www.seedr.cc/) - Seedbox gratuito que permite baixar torrents de até 2 GiB de tamanho. Se você deseja se tornar premium, evite comprar de semeadores - eles são muito caros. Basta verificar /r/seedboxes para caixas de sementes pagas alternativas.
 - 🌟 **[Pago]** [**Real Debrid**](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o enxame do torrent, que é a principal causa de recebimento de cartas de violação de direitos autorais.
-- **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito que real-debrid
+- **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito do real-debrid
 - **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid
 - **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também
 - **[Teste pago / gratuito]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
@@ -233,16 +240,18 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 * **[Pago]** [Tubedigger](https://www.tubedigger.com/) - Baixa vídeos da hotmart em alguns casos apenas.
 * 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente. 
 * [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6.
+* [Parabolic](https://github.com/NickvisionApps/Parabolic) - Frontend para o yt-dlp.
+* 🌟 [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até 8k e em Flac sem perder qualidade.
 * [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos.
+* [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy.
 * [Allvasoft](https://www.allavsoft.com/) - Downloader de vídeos.
-* [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript para baixar vídeos do youtube
-* [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript para baixar legendas do youtube
 * [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injetor para despejar aplicativos UWP.
 * [gallery-dl](https://github.com/mikf/gallery-dl) - gallery-dl é um programa de linha de comando para baixar galerias e coleções de imagens de vários sites de hospedagem de imagens.
 * [Fetchv](https://fetchv.net/pt-br) - Downloader de vídeos
 * [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Download em massa de episódios de anime para vários sites, em várias resoluções, com ou sem episódios de preenchimento.
 * [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp.
 * [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download.
+* [Download Manager](https://github.com/amir1376/ab-download-manager) - Aplicativo para desktop que o ajuda a organizar e manter seus downloads.
 * [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar vídeos de várias plataformas.
 * **[Pago]** [StreamFab](https://streamfab.com/) - Focado em download para plataformas de streaming.
 * [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 GiB por 6 horas do Mega.
@@ -299,6 +308,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 - [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
 - [PopUpOFF](https://popupoff.org/) - Burla pop-ups e bloqueadores.
+- [WVG](https://github.com/FoxRefire/wvg) - Recupera chaves encriptadas de conteúdo protegido com Widevinw.
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
 - [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados.
 - [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site.
@@ -361,7 +371,7 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 - [STEAM7](https://steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas steam. 
 - [Cracking.org](https://cracking.org/forums/premium-accounts.11/) - Contas de streaming.
 - [Crackia](https://crackia.com/forum/45-premium-accounts/) - Combolists e contas de streaming.
-- [CrackingX](https://crackingx.com) - Outro site de combolists.
+- [CrackingX](https://crackingx.com) - Outro site de combolists e contas de streaming também.
 
 ## ► Ferramentas para Jogos
 
@@ -371,6 +381,9 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 - [Open Cloud Saves](https://opencloudsaves.com/) - Open Cloud Save é um aplicativo gratuito que permitirá sincronizar seus dados salvos em todos os seus dispositivos. Roda em Windows, MacOS e Linux.
+- [Better xCloud](https://github.com/redphx/better-xcloud) - Userscript para melhorar a jogatina da Xbox Cloud e da Remote Play em navegadores.
+- [Smart Online Fix](https://github.com/BadKiko/steam-online-fix-launcher) - Ferramenta para iniciar e organizar jogos do online-fix-me no Linux.
+- [Free-games-claimer](https://github.com/vogler/free-games-claimer) - Automaticamente reinvidica jogos gratuitos da Epic Games.
 
 #### ► **Launchers de jogos**
 
@@ -400,6 +413,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 
 ## ► **Ferramentas Diversas**
 
+- [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos com a ajuda de inteligência artificial.
 Para o melhor resultado, selecione o motor `Whisper` junto com o modelo `large-v2`.
 - [doc downloader](https://docdownloader.com/) - Downloader de Issuu e Slideshare.

@@ -13,7 +13,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 📑 ➜ Downloads diretos 
+## 📥 ➜ Downloads diretos 
 ### 🔗 [elivros](https://elivros.love/) 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/elivros.love/) 
 ### 🔗 [Baixe Livros](https://www.baixelivros.com.br/) 
@@ -53,7 +53,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, textos acadêmicos e livros de interesse geral.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/z-library.sk/) 
 
-## 📑 ➜ Quadrinhos 
+## 💥 ➜ Quadrinhos 
 
 ### 🔗 [Darkseid Club](https://site.ds-club.net/)     
 - O Darkseid Club é um grupo formado por fãs da nona arte e em especial pelo universo da editora DC Comic 
@@ -66,33 +66,39 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🔗 [Baixar Quadrinhos](https://baixarquadrinhos.net) 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarquadrinhos.net/)
 
-## 📑➜ Aplicativos para Computador 
+## 🖱 ➜ Aplicativos para Computador 
+### 🔗 [Libation](https://github.com/rmcrackan/Libation)
+- Ripe audiolivros da Audible e PDFs de companhia sem se preocupar com DRM.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com) 
 ### 🔗 [HakuNeko](https://hakuneko.download/) 
 - O downloader de mangá e anime multiplataforma permite que você salve material para uso offline de uma variedade de sites.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hakuneko.download/) 
+### 🔗 [Calibre](https://github.com/kovidgoyal/calibre) (Multiplataforma) 
+- Leitor e conversor de ebooks. Funciona com formatos diversos e tem integração com leitor de ebook (Kindle, Kobo, etc.)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com) 
+### 🔗 [DeDRM tools](https://github.com/apprenticeharper/DeDRM_tools) (Multiplataforma) 
+- Plugin para o Calibre para remover DRM de livros comprados na Amazon ou Google Books. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hakuneko.download/) 
 ### 🔗 [Komikku](https://valos.gitlab.io/Komikku/) (Linux) 
 - Com sua interface simples, elegante e adaptável, este leitor de mangá permite pesquisar, classificar e ler todos os seus mangás favoritos com facilidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/valos.gitlab.io/) 
-### 🔗 [Calibre](https://github.com/kovidgoyal/calibre) (Multiplataforma) 
-- Leitor e conversor de ebooks. Funciona com formatos diversos e tem integração com leitor de ebook (Kindle, Kobo, etc.) 
-### 🔗 [DeDRM tools](https://github.com/apprenticeharper/DeDRM_tools) (Multiplataforma) 
-- Plugin para o Calibre para remover DRM de livros comprados na Amazon ou Google Books. 
 
-## 📑 ➜ Mangá 
+## 💢 ➜ Mangá 
 
 ### 🌟 [MangáFire](https://mangafire.to/) 
-- O portal oferece uma grande seleção de quadrinhos mangá para todos os leitores e um layout amigável e simples de navegar. (Só aplicar o Filtro para Português BR)
+- O portal oferece uma grande seleção de quadrinhos mangá para todos os leitores e um layout amigável e simples de navegar. (Aplique o Filtro para Português BR)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangafire.to/)
-### 🌸 [SlimeRead](https://slimeread.com/) 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/slimeread.com/)  
+### 🌸 [Sakura Mangás](https://sakuramangas.org/) 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sakuramangas.org/)  
 ### 🌸 [Ler Mangás](https://lermangas.me/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/lermangas.me/) 
-### 🌸 [ComicK](https://comick.app/) 
-- Leitor muito rápido e gratuito com um enorme banco de dados de quadrinhos, incluindo mangá, manhua e manhwa! Inclui Português Brasileiro
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comick.app/) 
-### 🌸 [MangáDex](https://mangadex.org/) 
-- Todo o conteúdo é fornecido por usuários, grupos de scanlation e editores, que suportam todos os idiomas. (Só aplicar o Filtro para Português BR)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangadex.org/) 
+### 🌸 [ComicK](https://comick.io/) 
+- Leitor muito rápido e gratuito com um enorme banco de dados de quadrinhos, incluindo mangá, manhua e manhwa! Inclui Português Brasileiro.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comick.io/)
+### 🌸 [MangaOnline](https://mangaonline.biz/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangaonline.biz/) 
+### 🌸 [Mangabr](https://mangabr.net/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangabr.net/) 
 ### 🌸 [BATO](https://bato.to/)
 - Atende leitores japoneses / coreanos com uma vasta coleção de mangás.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bato.to/) 
@@ -130,15 +136,11 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🌸 [Toonily](https://toonily.com/)
 - Acesso aos seus manhwas premium em inglês traduzidos de editores coreanos de topo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/toonily.com/) 
-### 🌸 [MangaOnline](https://mangaonline.biz/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangaonline.biz/) 
-### 🌸 [Mangabr](https://mangabr.net/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangabr.net/) 
 ### 🌸 [KindleOtaku](https://kindleotaku.blogspot.com/) 
 - Postagem de mangás no formato aceito pelo Kindle. Requer uma conta no Terabox para efetuar o download, algo que você pode criar através de um email descartável no Temp Mail ou semelhantes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kindleotaku.blogspot.com/) 
 
-## 📑 ➜ Leitores de Mangá
+## 🎌 ➜ Leitores de Mangá
 
 :::info Planilha no Docs com informações das extensões para ser usado em apps como Aniyomi, Tachiyomi, Dantotsu e etc. [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
 :::
@@ -148,21 +150,21 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Acesse facilmente mangás, webcomics e quadrinhos em seu dispositivo Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🌟 [Better Anime](https://discord.com/invite/betteranime) 
+### 🔗 [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server)
 
-- O famoso **Better Anime** que está com DMCA mas está funcionando normalmente pelo app ou pelo site logando com sua conta, se não logar ele não vai funcionar. App removido da playstore, disponível apenas no discord. 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/discord.com/)
+- Basicamente, a versão PC do Tachiyomi.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [Tachimanga](https://tachimanga.app/)
 
 - Leitor de mangá para IOS. É preciso adicionar as fontes dentro do app, as melhores são mangadex e mangafire.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tachimanga.app/)
 
-### 🔗 [Aniyomi](https://aniyomi.org/) 
+### 🔗 [Unyo](https://github.com/K3vinb5/Unyo) 
 
-- Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/aniyomi.org/)
-
+- Aplicativo para desktop que funciona como leitor de mangás e plataforma de streaming de anime.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+  
 ### 🔗 [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi) 
 
 - Fork do Aniyomi com a função de mangás restaurada e recursos extras.
@@ -183,7 +185,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-## 📑 ➜ Buscadores 
+## 🔦 ➜ Buscadores 
 ### 🌟 [Arquivo da Anna](https://pt.annas-archive.org/) 
 - Library Genesis, Sci-Hub e Z-Library estão entre os sites incluídos neste resiliente mecanismo de pesquisa de bibliotecas de sombra.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/annas-archive.org/) 
@@ -194,7 +196,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Os usuários são ajudados pelo mecanismo de pesquisa a encontrar downloads gratuitos de e-books. Ele também permite alternar para uma função de pesquisa de Audiobook.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravebooksearch.com/) 
 
-## 📑 ➜ Streaming 
+## 🔊 ➜ Streaming 
 ➜ Os sites abaixo são gringos e apenas oferecem conteúdos em inglês
 ➜ Caso você conheça algum site de livros e audiobooks em português, mande ele [aqui](https://lemmy.dbzer0.com/post/5116448). 
 ### ▶️ [LibriVox](https://librivox.org/) 
@@ -210,7 +212,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Histórias de áudio feitas para crianças. Relaxe e deixe a imaginação dos seus filhos vagar por reinos fantásticos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/storynory.com/) 
 
-## 📑 ➜ Torrents 
+## 🧵 ➜ Torrents 
 ### 🧲 [Academic Torrents](https://academictorrents.com/) 
 - Enormes conjuntos de dados compartilhados por meio de um sistema distribuído, dando aos pesquisadores acesso a um repositório de dados escalável, seguro e tolerante a falhas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/academictorrents.com/) 
@@ -224,7 +226,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Para obter um convite, [veja esta página](https://www.myanonamouse.net/inviteapp.php) para mais detalhes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/myanonamouse.net/) 
 
-## 📑 ➜ Sites de Audiolivros
+## 🎧 ➜ Sites de Audiolivros
 ### ▶️ [AppAudioBooks](https://appaudiobooks.com/) 
 - Design fácil de usar que facilita a localização do audiolivro que você deseja ouvir.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/appaudiobooks.com/) 
@@ -253,11 +255,11 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Você pode desfrutar de todos os seus audiolivros favoritos gratuitamente online. Basta clicar para ouvir!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hotaudiobooks.com/) 
 
-## 📑 ➜ Fontes 
+## 🆎 ➜ Fontes 
 ### 🌟 [FontsHub](https://fontshub.pro/) 
 - Obtenha fontes para criar títulos, citações, parágrafos, listas e outros componentes de texto para seus projetos de design.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fontshub.pro/)
-### 🔗 [Nerd Fonts](https://www.nerdfonts.com/font-downloads) • Cadastre-se 
+### 🔗 [Nerd Fonts](https://www.nerdfonts.com/font-downloads) 
 - Agregador de fontes & patcher.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nerdfonts.com/) 
 ### 🔗 [CreativeFabrica](https://www.creativefabrica.com/freebies/free-fonts/) • Cadastre-se 
@@ -317,6 +319,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 📣 [Banca BR](https://t.me/BancaBR)
 ### 📣 [Tudo de Bom em AUDIOLIVROS](https://t.me/Tudo_de_BOM_em_AUDIOLIVROS)
 ### 📣 [ITSBooks](https://t.me/ITSBooks)
+### 📣 [QG - Baltigo mangás](https://t.me/MangasBrasil)
 ### 📣 [Audiolivros](https://t.me/audiolivros) 
 ### 📣 [Brasil Livros 📚](https://t.me/Brasil_Livros_Canal)
 ### 📣 [BIBLIOTECA VIRTUALBR 2](https://t.me/BIBLIOTECAVIRTUALBR2) 

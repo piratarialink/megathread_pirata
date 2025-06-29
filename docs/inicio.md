@@ -54,7 +54,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 # 🏆 ➜ Maiores Tesouros
 
 ### 🧭 [Uso Geral](sites-geral.md)
-- Sites de múltiplos propósitos desde buscadores de torrent, agregadores e rastreadores DHT para encontrar o máximo de conteúdo público possível.
+- Links de múltiplos propósitos desde buscadores de torrent, agregadores e rastreadores DHT para encontrar o máximo de conteúdo público possível.
 
 ### ⛩️ [Anime](anime.md)
 - Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora também possa ser aplicado a outras animações, como Donghua.
@@ -87,9 +87,9 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 - Esporte refere-se à atividade física ou jogo, geralmente competitivo, que utiliza as habilidades e habilidades de uma pessoa enquanto entretém os espectadores.
 
 ### 🧰 [Ferramentas](ferramentas.md)
-- Ferramentas para ativação, scripts de usuário, gerenciadores de download, assistentes, extensões e uma infinidade de outros softwares complementares.
+- Ferramentas para ativação, scripts de usuário, gerenciadores de download, assistentes, sites, extensões e uma infinidade de outros utilitários complementares.
 
-### 🧵 [Trackers](trackers.md)
+### 🌊 [Trackers](trackers.md)
 - Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos.
 
 ### 🏴‍☠️ [Warez](warez.md)

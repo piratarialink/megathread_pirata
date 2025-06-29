@@ -13,7 +13,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 📑 ➜ Android
+## 🤖 ➜ Android
 
 ### 🔗 [APK Editor Studio](https://qwertycube.com/apk-editor-studio/)
 
@@ -61,7 +61,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Aplicativo Android para baixar Video/Audio usando yt-dlp.
 
-## 📑 ➜ IOS
+## 🍎 ➜ IOS
 
 ### 🌟 [Sidestore](https://sidestore.io/) / [AlStore](https://altstore.io/) / [Scarlet](https://usescarlet.com/)
 
@@ -71,7 +71,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Executa apps em alguns modelos de IOS sem lidar com restrições de assinatura de código.
 
-## 📑 ➜ Catálogo e Lojas
+## 🛍 ➜ Catálogo e Lojas
 
 ### 🔗 [Accrescent](https://accrescent.app/)
 
@@ -113,7 +113,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Serve como um centro para distribuição de software direcionado principalmente ao sistema operacional Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/onyxbits.de/)
 
-## 📑 ➜ Apps Vanilla
+## 🍨 ➜ Apps Vanilla
 
 ### 🔗 [APK Amp](https://apkamp.com/)
 
@@ -170,7 +170,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Loja de aplicativos multiplataforma para Android, oferecendo acesso irrestrito a uma variedade de aplicativos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/uptodown.com/)
 
-## 📑 ➜ Apps Modificados
+## 🔨 ➜ Apps Modificados
 
 ### 🔗 [A2ZAPK](https://a2zapk.io/)
 
@@ -305,7 +305,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Site brasileiro, acesse o chat do telegram para sugerir novos mods ou atualizações.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/tekmods.com/)
 
-## 📑 ➜ Música
+## 🎧 ➜ Música
 
 ### 🔗 [Nuvem Music](https://nuvemazul.org/NuvemMusic/index.html)
 
@@ -403,7 +403,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - App para instalar Spotify sem anúncios.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xmanagerapp.com/)
 
-## 📑 ➜ No Telegram
+## 📢 ➜ No Telegram
 
 ### 🔗 [AlveeMods](https://t.me/AlveeMods) 
 - Apks modificados
@@ -423,19 +423,24 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 ### 🔗 [MCPE APK Releases](https://t.me/mcperelease) 
 - APKs do Minecraft PE com Xbox Live funcional apenas versões estáveis, sem betas
 
-## 📑 ➜ Filmes e TV
+## 🎬 ➜ Filmes e TV
 
 ### 🌟 [Stremio](https://www.stremio.com/) + [Add-on de dublagem PT-BR](https://27a5b2bfe3c0-stremio-brazilian-addon.baby-beamup.club/) - [Nota Importante!](https://rentry.co/_stremio) 
 
 - Aplicativo de streaming que permite assistir vídeos, filmes e séries de TV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)
 
+### 🌟 [Streamyfin](https://github.com/streamyfin/streamyfin)
+
+- Cliente do Jellyfin para gerenciar arquivos com facilidade.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
 ### 🔗 [Comp Study](https://apps.apple.com/br/app/comp-study/id6742147905) 
 
 - Biblioteca de filmes e séries para assistir no IOS.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apps.apple.com/)
 
-## 📑 ➜ Buscadores
+## 🔦 ➜ Buscadores
 
 ### 🔍 [Advanced Google Play Search](https://playsearch.kaki87.net/)
 

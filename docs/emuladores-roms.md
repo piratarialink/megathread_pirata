@@ -26,29 +26,29 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tcrf.net/)
   
 ---
-## 📑 ➜ Emulação no Navegador
+## 🌐 ➜ Emulação no Navegador
 
-### 🌐 [Classic games online](https://playclassic.games/)
+### 🔗 [Classic games online](https://playclassic.games/)
 
 - Jogue os melhores jogos antigos de DOS ou consoles antigos agora mesmo em seu navegador e traga boas lembranças.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/playclassic.games/)
 
-### 🌐 [ClassicReload](https://classicreload.com/)
+### 🔗 [ClassicReload](https://classicreload.com/)
 
 - Jogos DOS no seu navegador graças à preservação de mais de 6.000 jogos antigos de abandonware retro.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/classicreload.com/)
 
-### 🌐 [Free 80s Arcade](https://www.free80sarcade.com/)
+### 🔗 [Free 80s Arcade](https://www.free80sarcade.com/)
 
 - Jogos online gratuitos do passado, como Atari, NES, Colecovision e Sega no seu navegador ou telefone.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/free80sarcade.com/)
 
-### 🌐 [RetroGames](https://www.retrogames.cz/)
+### 🔗 [RetroGames](https://www.retrogames.cz/)
 
 - Preserva os videogames das décadas de 1980 e 1990, desenvolvidos para consoles e plataformas que não estão mais disponíveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/retrogames.cz/)
 
-### 🌐 [Retro Games](https://retrogamesonline.io/)
+### 🔗 [Retro Games](https://retrogamesonline.io/)
 
 - Reconhece e manter a herança de numerosos videogames retro de vários sistemas e géneros.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/retrogamesonline.io/)
@@ -58,12 +58,12 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Jogue todos os jogos clássicos SEGA Genesis/Mega Drive de 16 bits disponíveis online em seu navegador.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ssega.com/)
 
-### 🌐 [webЯcade](https://www.webrcade.com/)
+### 🔗 [webЯcade](https://www.webrcade.com/)
 
 - Em uma ampla variedade de plataformas, os jogos são executados nativamente no navegador, sob o controle de feeds de jogos baseados em nuvem.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/webarcade.com/)
 
-## 📑 ➜ Multissistema
+## 👾 ➜ Multissistema
 
 ### 🔗 [ares](https://ares-emu.net/)
 
@@ -89,7 +89,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Sua interface gráfica elegante permite que você jogue jogos antigos em uma variedade de PCs e consoles.
 
-## 📑 ➜ Microsoft
+## 📦 ➜ Microsoft
 
 ### 🔗 [xemu](https://xemu.app/) • Xbox
 
@@ -101,7 +101,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Ótimo projeto que simula jogos amados em PCs modernos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xenia.jp/)
 
-## 📑 ➜ Nintendo
+## 🟥 ➜ Nintendo
 
 ### 🔗 [Cemu](https://cemu.info/) • Wii U
 
@@ -173,7 +173,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - **Não é mais desenvolvido.** Os Jogos podem ser jogados usando esse emulador de código aberto.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/krakenfiles.com/)
 
-## 📑 ➜ Sega
+## 🔵 ➜ Sega
 
 ### 🔗 [Flycast](https://github.com/flyinghead/flycast) • Dreamcast
 
@@ -190,7 +190,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Este pequeno pacote, com menos de 4 MB, pode criar uma experiência suave de 60 Hz.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redream.io/)
 
-## 📑 ➜ Sony
+## ❓ ➜ Sony
 
 ### 🔗 [DuckStation](https://www.duckstation.org/) • PlayStation 1
 
@@ -222,7 +222,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Emulador bom, experimental e de código aberto, disponível para todas as plataformas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vita3k.org/)
 
-## 📑 ➜ ROMs/ISOs
+## 💾 ➜ ROMs/ISOs
 
 ### 🌟 [Internet Archive](https://archive.org/)
 
@@ -305,7 +305,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [RHDN](https://romhacking.net)
 
-- Explore ROM hacks e jogos homebrew para NES, Mega Drive, GBA, etc.
+- Explore ROM hacks e homebrews para jogos da geração 8, 16 e 64 bits.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhacking.net/)
 
 ### 🔗 [RomHack Plaza](https://romhackplaza.org)
@@ -338,7 +338,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Dedicado a boas lembranças de vários sistemas e a milhares de jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
-## 📑 ➜ Projetos de decompilação
+## 🧩 ➜ Projetos de decompilação
 
 ### 📒 [Decompedia](https://wiki.decomp.dev/)
 
@@ -350,7 +350,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Relatórios de progresso de projetos do github.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/decomp.dev/)
 
-## 📑 ➜ Traduções de Jogos
+## 🌎 ➜ Traduções de Jogos
 
 ### 🔗 [RomsPortugues](https://romsportugues.com/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romsportugues.com/)
@@ -369,7 +369,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🔗 [GGames](https://ggames.com.br/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gggames.com)
 
-## 📑 ➜ Projetos de tradução
+## ❤ ➜ Projetos de tradução
 
 ### 🌟 [Jacutem Sabão](https://jacutemsabao.bitbucket.io/download.html)
 
@@ -383,7 +383,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Tradução do jogo Gunnm (Battle Angel Alita) de PS1 para o inglês.
 
-## 📑 ➜ Torrents
+## 🧵 ➜ Torrents
 
 ### 🧲 [BlueRoms](https://www.blueroms.ws/)
 

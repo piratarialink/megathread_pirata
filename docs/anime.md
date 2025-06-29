@@ -15,11 +15,16 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 📑 ➜ Streaming
+## 🖥 ➜ Streaming
 
 ### 🌟 [Better Anime](https://betteranime.net/)
 - **Better Anime** está com restrições de DMCA, mas funciona normalmente pelo app ou pelo site após login. Se não logar, ele não funcionará.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/betteranime.net/)
+
+### ▶️ [Aniyomi](https://aniyomi.org/) 
+
+- Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/aniyomi.org/)
 
 ### ▶️ [Anroll](https://www.anroll.net/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anroll.net/)
@@ -42,10 +47,14 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### ▶️ [Animesonlinecc](https://animesonlinecc.org/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesonlinecc.org/)
 
+### ▶️ [Anime Yabu](https://www.animeyabu.org/)
+- Em caso de bloqueio, use o [PopUpOFF](https://popupoff.org/).
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.animeyabu.org/)
+
 ### ▶️ [Q1N](https://q1n.net/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/q1n.net/)
 
-## 📑 ➜ Downloads Diretos
+## 📥 ➜ Downloads Diretos
 
 ### 🌟 [Anitsu](https://anitsu.moe/#)
 - Grande catálogo, especialmente para animes obscuros com legenda PT-BR. **Use um media player de sua preferência no lugar do VLC.**
@@ -76,7 +85,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### 🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/tokyoinsider.com/)
 
-## 📑 ➜ Torrents
+## 🧵 ➜ Torrents
 
 ### 🧲 [AniRena](https://www.anirena.com/)
 - Tracker simples para torrents de animes, dramas e músicas.
@@ -106,7 +115,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
 - Tracker semi-privado.
 
-## 📑 ➜ No Telegram
+## 📣 ➜ No Telegram
 
 ### 🌟 [Algo Animes](https://t.me/algoanimes)
 - Mesmo criador do Algo Books.
@@ -118,7 +127,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ## 📰 ➜ Legendas
 
 ### 🔗 [AnimeDB](https://anidb.net/)
-- Base de dados internacional sobre animes e legendas.
+- Base de dados internacional sobre animes e legendas em inglês.
 
 ### 🔗 [InfoAnime](https://www.infoanime.com.br/)
 - Acompanhamento de projetos de fansubers e scanlators brasileiros.
@@ -126,7 +135,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ## 🧰 ➜ Programas
 
 ### 🔗 [GoAnime](https://github.com/alvarorichard/GoAnime)
-- Ferramenta CLI que baixa e reproduz animes em PT-BR (Dublado ou legendado).
+- Ferramenta CLI que baixa animes em PT-BR (Dublado ou legendado).
 
 **Está buscando apps para assistir ou baixar animes no celular?**  
 Confira nosso tópico sobre 📱 [Mobile](mobile#📑-➜-anime-e-manga)

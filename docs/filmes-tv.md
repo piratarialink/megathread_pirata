@@ -13,9 +13,9 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## ▶️ Dublados 
+## 🗣 Dublados 
 
-### 🌟 [Rede Canais](https://redecanais.ps/)
+### 🌟 [Rede Canais](https://redecanais.ps/) / [2](https://redecanais.fi/) / [3](https://redecanais.ps/) 
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.ps/)
  
@@ -43,7 +43,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Contém Filmes e Séries Atualizados Dublados e Legendados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/) 
 
-## ▶️ Legendados 
+## 🆎 Legendados 
 
 ### 🌟 [Freek.to](https://freek.to/)
 - Freek.to aparentemente comprou o Binged
@@ -150,7 +150,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/yassflix.net/) 
 
 ## 📺️ TV
-### 🌟 [Rede Canais TV](https://xn--90afacaz8cml9ac9f.xn--p1ai/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/) 
+### 🌟 [Rede Canais TV](https://redecanaistv.gl/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/) 
 - Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/) 
 ### 🌟 [TV a Cabo](https://tvacabo.free.nf/)
@@ -159,12 +159,15 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 🌟 [HT Fórum](https://htforum.net/) 
 - Fórum geral mais focado em TV onde os usuários oferecem listas IPTV.
 - Aqui estãos algumas threads populares com listas IPTV grátis: [1](https://htforum.net/forums/iptv-e-servicos-de-streaming.96/), [2](https://htforum.net/threads/lista-iptv-gratis.4288/) e [3](https://htforum.net/threads/iptv-gratis-tv-aberta.86/#).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/htforum.net/) 
-### 🌟 [Rei dos Canais](https://reidoscanais.vip/) 
-- Oferece Canais ao vivo com alta qualidade
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/htforum.net/)
+### 🌟 [Multicanais](https://multicanais.legal/) / [2](https://multicanais.forum/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
+- Oferece Canais ao vivo
+### 📺️ [Pirata TV](https://piratatvs.com/) 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/piratatvs.com/)  
+### 📺️ [Rei dos Canais](https://reidoscanais.vip/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/reidoscanais.app/)   
 ### 📺️ [TV0800](https://tv0800.pro/) 
-- Oferece Canais ao vivo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.pro/)   
 ### 📺️ [CXTV](https://www.cxtv.com.br/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cxtv.com.br/) 
@@ -187,7 +190,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 📺️ [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) 
 - Agregação de IPTV em massa
 
-## 🧲 Torrents 
+## 🧵 Torrents 
 
 ### 🌟 [Starck Filmes](https://www.starckfilmes.com/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.starckfilmes.com/) 
@@ -204,7 +207,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 🧲 [Comando Filmes](https://comandofilmes.xyz/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmes.xyz/) 
 
-## 🖊️ Legendas 
+## 🖊 Legendas 
 ### 🌟 [OpenSubtitles](https://www.opensubtitles.com) / [2](https://www.opensubtitles.org) 
 
 - Vasto banco de dados com 2,6 bilhões de palavras em 60 idiomas que serve praticamente todos os filmes ou programas de TV que você possa imaginar.
@@ -223,7 +226,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/podnapisi.net/) 
 
 
-## 📑 No Telegram  
+## 📢 No Telegram  
 ### 🌟 [Polemic Filmes](https://t.me/polemicfilmes) 
 ### [Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)  
 
