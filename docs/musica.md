@@ -169,7 +169,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - O downloader de música multiplataforma sem anúncios não requer geração ou ajustes nas chaves de API para funcionar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🖥️ [Stacher](https://stacher.io/)
+### 🌟 [**Stacher**](https://stacher.io/)
 
 - Você pode modificar a impressionante GUI contemporânea para utilizar qualquer fork do YT-DLP, que é instalado imediatamente após o lançamento.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/stacher.io/)
