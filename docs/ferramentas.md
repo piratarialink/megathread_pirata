@@ -130,6 +130,8 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 ## ► Filtros do uBO
 
 - 🌟 [**LegitimateURLShortener**](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt) - Deleta parâmetros de tracking de URLs, como Google AMP.
+- [Fanboy Annoyances List](https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt) - Remove Pop-Ups e outros incômodos.
+- [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - Tira os anúncios da Twitch.
 
 ## ► Proxies / Desbloqueadores de sites piratas
 
