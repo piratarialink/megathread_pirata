@@ -52,7 +52,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ## 🏟 **Esportes**
 
-### 🌟 [Rede Canais TV](https://redecanaistv.gs/) [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/) 
+### 🌟 [Rede Canais TV](https://redecanaistv.gs/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/) 
 
 - Oferece Canais de Esportes também
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.gs/)
