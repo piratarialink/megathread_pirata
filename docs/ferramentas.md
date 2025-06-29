@@ -113,6 +113,8 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Botão Sci-hub](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adiciona um botão sci-hub a inúmeros sites de artigos acadêmicos/acadêmicos para desbloquear o artigo que está sendo visualizado.
 - [AdsBypasser](https://adsbypasser.github.io/) - Ignore anúncios de contagem regressiva ou continue páginas e evite janelas pop-up de anúncios.
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Evite a instalação de download de aplicativos indesejados com software legítimo (por exemplo, McAfee com Adobe Flash).
+- [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript para baixar legendas do youtube.
+- [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript para baixar vídeos do youtube.
 - [Youtube share url si parameter remover](https://greasyfork.org/en/scripts/474050-youtube-share-url-si-parameter-remover) - Retira o parâmetro de rastreamento do link de compartilhamento do Youtube.
 - [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Ignore os paywalls de sites de jornais. Requer tampermonkey/greasemonkey para instalar.
 - [Obter informações de DLC do SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Cria automaticamente uma lista de DLC para ferramentas como CreamAPI, GreenLuma e SmartSteamEmu.
@@ -234,10 +236,9 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 * **[Pago]** [Tubedigger](https://www.tubedigger.com/) - Baixa vídeos da hotmart em alguns casos apenas.
 * 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente. 
 * [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6.
+* [Parabolic](https://github.com/NickvisionApps/Parabolic) - Front-end para o yt-dlp.
 * [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos.
 * [Allvasoft](https://www.allavsoft.com/) - Downloader de vídeos.
-* [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript para baixar vídeos do youtube
-* [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript para baixar legendas do youtube
 * [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injetor para despejar aplicativos UWP.
 * [gallery-dl](https://github.com/mikf/gallery-dl) - gallery-dl é um programa de linha de comando para baixar galerias e coleções de imagens de vários sites de hospedagem de imagens.
 * [Fetchv](https://fetchv.net/pt-br) - Downloader de vídeos
@@ -300,6 +301,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 - [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
 - [PopUpOFF](https://popupoff.org/) - Burla pop-ups e bloqueadores.
+- [WVG](https://github.com/FoxRefire/wvg) - Recupera chaves encriptadas de conteúdo protegido com Widevinw.
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
 - [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados.
 - [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site.
@@ -402,7 +404,6 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 ## ► **Ferramentas Diversas**
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
-- [Seedr](https://www.seedr.cc) - Converte links magnéticos em links HTTPS.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos com a ajuda de inteligência artificial.
 Para o melhor resultado, selecione o motor `Whisper` junto com o modelo `large-v2`.
 - [doc downloader](https://docdownloader.com/) - Downloader de Issuu e Slideshare.
