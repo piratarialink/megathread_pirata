@@ -160,14 +160,14 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Fórum geral mais focado em TV onde os usuários oferecem listas IPTV.
 - Aqui estãos algumas threads populares com listas IPTV grátis: [1](https://htforum.net/forums/iptv-e-servicos-de-streaming.96/), [2](https://htforum.net/threads/lista-iptv-gratis.4288/) e [3](https://htforum.net/threads/iptv-gratis-tv-aberta.86/#).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/htforum.net/)
-### 📺️ [Pirata TV](https://piratatvs.com/) 
+### 🌟 [Multicanais](https://multicanais.legal/) 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
 - Oferece Canais ao vivo
+### 📺️ [Pirata TV](https://piratatvs.com/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/piratatvs.com/)  
 ### 📺️ [Rei dos Canais](https://reidoscanais.vip/) 
-- Oferece Canais ao vivo com alta qualidade
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/reidoscanais.app/)   
 ### 📺️ [TV0800](https://tv0800.pro/) 
-- Oferece Canais ao vivo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.pro/)   
 ### 📺️ [CXTV](https://www.cxtv.com.br/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cxtv.com.br/) 
