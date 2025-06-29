@@ -127,6 +127,10 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Codelist](https://codelist.cc/v3/)
 - [SCRiPTMAFiA](https://scriptmafia.org/scripts/)
 
+## ► Filtros do uBO
+
+- 🌟 [**LegitimateURLShortener**](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt) - Deleta parâmetros de tracking de URLs, como Google AMP.
+
 ## ► Proxies / Desbloqueadores de sites piratas
 
 - [Knaben](https://knaben.info/) - Lista de proxies conhecidos oferecidos por vários sites piratas populares
