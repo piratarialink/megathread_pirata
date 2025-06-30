@@ -316,7 +316,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ## 📑 ➜ No Telegram 
 ### 🤖 [Lestrad - Bibliotecário](https://t.me/lestrad_repost_bot)
-### 📣 [Banca BR](https://t.me/BancaBR)
+### 📣 [JORNAIS & REVISTAS ONLINE](https://t.me/onjornal)
 ### 📣 [Tudo de Bom em AUDIOLIVROS](https://t.me/Tudo_de_BOM_em_AUDIOLIVROS)
 ### 📣 [ITSBooks](https://t.me/ITSBooks)
 ### 📣 [QG - Baltigo mangás](https://t.me/MangasBrasil)
