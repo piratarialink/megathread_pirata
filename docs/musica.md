@@ -221,7 +221,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## 📢 ➜ No Telegram
 
-### 🤖 [Deezloader](https://t.me/deezload2bot)
+### 🤖 [DeezLoad](https://t.me/deezload2bot)
 
 - Bot que consegue baixar playlist toda, mesmo sendo playlist nacional ou personalizada do Deezer.
 
