@@ -105,6 +105,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [userscripts-mirror.org](https://userscripts-mirror.org/) - Repositório alternativo de scripts. Espelho para Userscripts.org.
 - [openuserjs.org](https://openuserjs.org/) - repositório alternativo de scripts.
 - [musescore-downloader](https://github.com/Xmader/musescore-downloader) - Baixe partituras de musescore gratuitamente.
+- [TinyShield](https://cdn.jsdelivr.net/npm/@list-kr/tinyshield@latest/dist/tinyShield.user.js) - Defuser para os sites não saberem que você está usando adblock.
 - [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adiciona botão ao lado de URLs encurtados que resolve o URL para sua localização verdadeira.
 - [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Permite a cópia de texto de sites que tentam impedir a cópia.
 - [absolute-enable-right-click-and-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) - Permite clicar com o botão direito e copiar em sites que tentam evitar clicar com o botão direito, pode remover também proteções anti cópia para vídeos e imagens.
