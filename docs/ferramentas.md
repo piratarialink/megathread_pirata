@@ -91,10 +91,8 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 - [predb.org](http://predb.org/) - Rastreador de cena
 - [predb.me](https://predb.me/) - Rastreador de cena
-- [predb.ovh](https://predb.ovh/) - Rastreador de cenas. Operadores de pesquisa muito úteis para filtrar resultados. Release group: `@team group_name` para saber se um determinado grupo é Scene ou não; categoria: `@cat games`, `@cat tv`, `@cat tv-HD`, `@cat tv-HD-x264`
-- [pre.c-burns.co.uk/pre.php](http://pre.c-burns.co.uk/pre.php) - Rastreador de cena
+- [https://predb.net/](http://pre.c-burns.co.uk/predb.net) - Rastreador de cena
 - [xrel.to/releases.html](https://www.xrel.to/releases.html) - Rastreador de cena
-- **[P2P]** [pre.c-burns.co.uk/p2ptrace.php](http://pre.c-burns.co.uk/p2ptrace.php) - Rastreador para versões P2P
 - **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para versões P2P
 
 ## ► **Scripts de usuário úteis**
@@ -417,7 +415,6 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos com a ajuda de inteligência artificial.
-Para o melhor resultado, selecione o motor `Whisper` junto com o modelo `large-v2`.
 - [doc downloader](https://docdownloader.com/) - Downloader de Issuu e Slideshare.
 - [Unddit](https://undelete.pullpush.io/) - Veja posts removidos do reddit.
 - [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries.
