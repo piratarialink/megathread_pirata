@@ -92,7 +92,11 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [predb.org](http://predb.org/) - Rastreador de cena
 - [predb.me](https://predb.me/) - Rastreador de cena
 - [predb.net](https://predb.net/) - Rastreador de cena
-- [srrdb.com](http://srrdb.com/) - Rastreador de cena
+- [srrdb.com](http://srrdb.com/) - Rastreador de cenas.
+Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
+`r:palavra_chave_da_busca`;
+`nfo:yes` ou `no` para saber se um determinado item é  um arquivo NFO ou não; 
+`category: cat games`, `cat tv`, `cat tv-HD`, `cat tv-HD-x264`.
 - [xrel.to/releases.html](https://www.xrel.to/releases.html) - Rastreador de cena
 - **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para versões P2P
 
