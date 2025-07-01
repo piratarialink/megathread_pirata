@@ -149,7 +149,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 * 🌟 [**Motrix**](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 * [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent
 * [Transmission](https://transmissionbt.com/about/) - Bem simples de usar e com grandes quantidades de torrents (5k-10k+), é bem estável na versão CLI.
-* 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que pesquisa rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/Guia-plugins-qbittorrrent.md)
+* 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que procura rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/Guia-plugins-qbittorrrent.md)
 * [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei
 * [PicoTorrent](https://picotorrent.org/) - Cliente de torrent simples e leve
 * [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto
