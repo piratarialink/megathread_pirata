@@ -87,11 +87,12 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► Sites de rastreamento de cena / P2P
 
-Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritamente como quadros de avisos e não oferecem downloads de nenhum conteúdo postado.
+Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritamente como quadros de avisos e não oferecem downloads de nenhum conteúdo postado. [Guia](guias/lancamentos-predbs)
 
 - [predb.org](http://predb.org/) - Rastreador de cena
 - [predb.me](https://predb.me/) - Rastreador de cena
 - [predb.net](https://predb.net/) - Rastreador de cena
+- [srrdb.com](http://srrdb.com/) - Rastreador de cena
 - [xrel.to/releases.html](https://www.xrel.to/releases.html) - Rastreador de cena
 - **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para versões P2P
 
