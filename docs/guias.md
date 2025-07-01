@@ -14,7 +14,7 @@ Para uma experiência ainda melhor na Twitch. Tenha em mente que a qualidade da 
 
 Para evitar o limite de cota de download no Mega, siga estas etapas deste guia simples. Após baixar o programa necessário, configure sua conta Mega e explore opções como proxies e contas adicionais para desfrutar de downloads sem interrupções. Com essas técnicas, você poderá fazer download de arquivos no Mega sem restrições.
 
-## 📑 ➜ [Guia de como instalar plugins no qBitTorrent](guias/guia-plugins-qbittorrrent.md)
+## 📑 ➜ [Passos para instalar plugins de pesquisa no qBitTorrent](guias/guia-plugins-qbittorrrent.md)
 
 Guia para instalar plugins ao qBitTorrent, permitindo fazer buscas de fontes seguras de diversos indexadores. 
 
