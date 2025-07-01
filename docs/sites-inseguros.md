@@ -19,7 +19,6 @@
 
 | 📋 **NOME**     | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                                              |
 | :-------------- | :-------------------------- | :----------------------------------------------------------------------------------------------------------- |
-| 💩 "piratariadigital" | pirataria-digital     | **Clone falso** (_Criado para enganar usuários de propósito_). |
 | 💩 BrSociety      | brsociety-pro                 | **Fraude** (_Utiliza o nome do antigo BrSociety para pedir transferências em dinheiro_). |
 | 💩 4shared      | 4shared-com                 | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | 💩 Baixaki      | baixaki-com-br              | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |     
