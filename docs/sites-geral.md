@@ -17,7 +17,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🌟 [Internet Archive](https://archive.org/)
 
-- Milhões de livros gratuitos, filmes, músicas e muito mais estão disponíveis nesta biblioteca sem fins lucrativos.
+- Milhões de livros gratuitos, filmes, músicas e outros tipos de arquivos estão disponíveis nesta biblioteca sem fins lucrativos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
 ### 🌟 [SoftArchive](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
