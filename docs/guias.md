@@ -14,6 +14,10 @@ Para uma experiência ainda melhor na Twitch. Tenha em mente que a qualidade da 
 
 Para evitar o limite de cota de download no Mega, siga estas etapas deste guia simples. Após baixar o programa necessário, configure sua conta Mega e explore opções como proxies e contas adicionais para desfrutar de downloads sem interrupções. Com essas técnicas, você poderá fazer download de arquivos no Mega sem restrições.
 
+## 📑 ➜ [Guia de como instalar plugins no qBitTorrent](guias/guia-plugins-qbittorrrent.md)
+
+Guia para instalar plugins ao qBitTorrent, permitindo fazer buscas de fontes seguras de diversos indexadores. 
+
 ## 📑 ➜ [Guia de Privacidade para Paranoicos](guias/quero-privacidade.md)
 
 Título autoexplicativo.
@@ -57,10 +61,6 @@ Se você é um entusiasta dos jogos de PC, provavelmente já ouviu falar da FitG
 ## 📑 ➜ [Guia de como burlar restrição de download Archive.org](guias/como-burlar-restrição-de-download-archive-org.md)
 
 Guia completa sobre como burlar restrição de download Archive.org, alguns livros do Archive.org não podem ser baixados diretamente no site, fica disponivel apenas para ler (por 1h ou 14 dias a depender do livro). esse guia mostra como burlar e conseguir baixar esse livro em formato PDF ou EPUB.
-
-## 📑 ➜ [Guia de como instalar plugins no qBitTorrent](guias/guia-plugins-qbittorrrent.md)
-
-Guia para instalar plugins ao qBitTorrent, permitindo fazer buscas de fontes seguras de diversos indexadores. 
 
 ## 📑 ➜ [Guia do Orchestralblend](guias/orchestralblend.md)
 
