@@ -68,7 +68,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 📣 [CopyrightBR](https://t.me/CopyrightBR)
 
-- Criado com o intuito de compartilhar notícias e releases da cena pirata brasileira. Contém avisos sobre warez/trackers abertos e muito mais.
+- Criado com o intuito de compartilhar notícias e releases da cena pirata brasileira. Contém avisos sobre warez/trackers abertos.
 
 ### 🤖 [Search bot](https://t.me/en_SearchBot)
 
@@ -206,6 +206,6 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 📒 [xREL](https://www.xrel.to/) • Interface em Alemão
 
-- Quadro de mensagens onde os usuários discutem os lançamentos de cenas mais recentes, análises de jogos e filmes e muito mais.
+- Quadro de mensagens onde os usuários discutem os lançamentos de cenas mais recentes, análises de jogos e filmes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xrel.to/)
 
