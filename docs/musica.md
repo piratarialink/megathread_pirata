@@ -69,7 +69,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [SquidWTF](https://us.qobuz.squid.wtf/)
 
-- Ripa áudios do Qobuz em formatos FLAC.
+- Ripa áudios do Qobuz em FLAC (para transcodar em qualquer formato lossy).
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/us.qobuz.squid.wtf/)
 
 ### 🔗 [Sukidesuost](https://sukidesuost.info/)
