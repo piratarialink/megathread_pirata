@@ -91,7 +91,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 - [predb.org](http://predb.org/) - Rastreador de cena
 - [predb.me](https://predb.me/) - Rastreador de cena
-- [https://predb.net/](http://pre.c-burns.co.uk/predb.net) - Rastreador de cena
+- [predb.net](https://predb.net/) - Rastreador de cena
 - [xrel.to/releases.html](https://www.xrel.to/releases.html) - Rastreador de cena
 - **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para versões P2P
 
