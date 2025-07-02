@@ -18,11 +18,11 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 **[9xbuddy](https://9xbuddy.site/)** — Faz o download de vídeos de quase todos os sites adultos.
 
+**[Only Fans Data Scrapper](https://github.com/DIGITALCRIMINAL/OnlyFans)**
+
 **[PriivaC Downloader](https://t.me/tgDownPrivacyBot)** - Download de mídias de assinaturas do Privacy.
 
 **[Hottok](https://t.me/hottoknowbot)** — Bot do Telegram que desnuda fotos.
-
-**[Only Fans Data Scrapper](https://github.com/DIGITALCRIMINAL/OnlyFans)**
 
 **[Just another library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion)** — Scan de revistas pornô, acesso somente na rede onion.
 
