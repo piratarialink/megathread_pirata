@@ -66,6 +66,12 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🔗 [Baixar Quadrinhos](https://baixarquadrinhos.net) 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarquadrinhos.net/)
 
+## ☁️ ➜ Pastas na Nuvem
+
+### 📂 [12.000 Livros Kindle!](https://drive.google.com/drive/folders/1EoF3QomxBsoMTBGMEc_J5JW6r6cC-oCy?usp=drive_link)
+
+- Variedade de livros para kindle de maneira organizada.
+
 ## 🖱 ➜ Aplicativos para Computador 
 ### 🔗 [Libation](https://github.com/rmcrackan/Libation)
 - Ripe audiolivros da Audible e PDFs de companhia sem se preocupar com DRM.
