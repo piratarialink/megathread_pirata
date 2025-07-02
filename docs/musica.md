@@ -13,6 +13,13 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
+## 📑 ➜ Arquivo
+
+### 📒 [MusicBrainz](https://musicbrainz.org/)
+
+- Database de música e provider de capas de álbuns, eps e singles. Também desenvolve o aplicativo [Picard](https://picard.musicbrainz.org/) para desktop.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/musicbrainz.org/)
+
 ## 📥 ➜ Downloads Diretos
 
 ### 🔗 [Audio wareZ](https://audioz.download/)
@@ -62,7 +69,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [SquidWTF](https://us.qobuz.squid.wtf/)
 
-- Ripa áudios do Qobuz em formatos FLAC.
+- Ripa áudios do Qobuz em FLAC (para transcodar em qualquer formato lossy).
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/us.qobuz.squid.wtf/)
 
 ### 🔗 [Sukidesuost](https://sukidesuost.info/)
@@ -211,6 +218,12 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - Outra ferramenta alternativa para transferir músicas do Spotify para o YouTube.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/wemor.vercel.app/)
+
+## 📢 ➜ No Telegram
+
+### 🤖 [DeezLoad](https://t.me/deezload2bot)
+
+- Bot que consegue baixar playlist toda, mesmo sendo playlist nacional ou personalizada do Deezer.
 
 ## Está buscando apps para ouvir/baixar **Música** no Celular?
 

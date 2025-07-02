@@ -67,9 +67,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Skip Redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) - Extrai a url final de sites que funcionam como intermediários.
 - [SpotX - anteriormente BlockTheSpot](https://github.com/spotx-cli) - Bloqueia anúncios e permite pular músicas no aplicativo de desktop do Windows Spotify.
 - [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - executável leve que bloqueia e silencia os anúncios do Spotify no Windows.
-- [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Bloquear anúncios no site do Spotify
-- [Bypass-Paywalls-Firefox-Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) - Extensão do Firefox para bloquear paywalls. Os sites suportados estão listados na página do repositório.
-- [Bypass paywalls - Método 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o agente do usuário para o Google Bot.
+- [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Bloqueia anúncios no site do Spotify
 
 ## ► **Bypassers de sites de redirecionamento**
 
@@ -81,6 +79,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 - 🌟 [**Bypass Paywalls Clean**](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para Firefox para burlar Paywall.
 - [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
+- [Bypass paywalls - Método 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o agente do usuário para o Google Bot.
 - [Remove paywall](https://www.removepaywall.com/)
 - [12ft](https://12ft.io/)
 - [Smry](https://www.smry.ai/)
@@ -88,14 +87,17 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► Sites de rastreamento de cena / P2P
 
-Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritamente como quadros de avisos e não oferecem downloads de nenhum conteúdo postado.
+Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritamente como quadros de avisos e não oferecem downloads de nenhum conteúdo postado. [Guia](guias/lancamentos-predbs.md)
 
 - [predb.org](http://predb.org/) - Rastreador de cena
 - [predb.me](https://predb.me/) - Rastreador de cena
-- [predb.ovh](https://predb.ovh/) - Rastreador de cenas. Operadores de pesquisa muito úteis para filtrar resultados. Release group: `@team group_name` para saber se um determinado grupo é Scene ou não; categoria: `@cat games`, `@cat tv`, `@cat tv-HD`, `@cat tv-HD-x264`
-- [pre.c-burns.co.uk/pre.php](http://pre.c-burns.co.uk/pre.php) - Rastreador de cena
+- [predb.net](https://predb.net/) - Rastreador de cena
+- [srrdb.com](http://srrdb.com/) - Rastreador de cenas.
+Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
+`r:palavra_chave_da_busca`;
+`nfo:yes` ou `no` para saber se um determinado item é  um arquivo NFO ou não; 
+`category: cat games`, `cat tv`, `cat tv-HD`, `cat tv-HD-x264`.
 - [xrel.to/releases.html](https://www.xrel.to/releases.html) - Rastreador de cena
-- **[P2P]** [pre.c-burns.co.uk/p2ptrace.php](http://pre.c-burns.co.uk/p2ptrace.php) - Rastreador para versões P2P
 - **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para versões P2P
 
 ## ► **Scripts de usuário úteis**
@@ -106,6 +108,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [userscripts-mirror.org](https://userscripts-mirror.org/) - Repositório alternativo de scripts. Espelho para Userscripts.org.
 - [openuserjs.org](https://openuserjs.org/) - repositório alternativo de scripts.
 - [musescore-downloader](https://github.com/Xmader/musescore-downloader) - Baixe partituras de musescore gratuitamente.
+- [TinyShield](https://cdn.jsdelivr.net/npm/@list-kr/tinyshield@latest/dist/tinyShield.user.js) - Defuser para os sites não saberem que você está usando adblock.
 - [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adiciona botão ao lado de URLs encurtados que resolve o URL para sua localização verdadeira.
 - [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Permite a cópia de texto de sites que tentam impedir a cópia.
 - [absolute-enable-right-click-and-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) - Permite clicar com o botão direito e copiar em sites que tentam evitar clicar com o botão direito, pode remover também proteções anti cópia para vídeos e imagens.
@@ -129,7 +132,9 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 ## ► Filtros do uBO
 
-- 🌟 [**LegitimateURLShortener**](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt) - Deleta parâmetros de tracking de URLs, como Google AMP.
+- 🌟 [**LegitimateURLShortener**](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt) - Deleta parâmetros de tracking de URLs do Google, YouTube, etc.
+- [Fanboy Annoyances List](https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt) - Remove Pop-Ups e outros incômodos.
+- [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - Tira os anúncios da Twitch.
 
 ## ► Proxies / Desbloqueadores de sites piratas
 
@@ -149,7 +154,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 * 🌟 [**Motrix**](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 * [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent
 * [Transmission](https://transmissionbt.com/about/) - Bem simples de usar e com grandes quantidades de torrents (5k-10k+), é bem estável na versão CLI.
-* 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que pesquisa rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/Guia-plugins-qbittorrrent.md)
+* 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que procura rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/Guia-plugins-qbittorrrent.md)
 * [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei
 * [PicoTorrent](https://picotorrent.org/) - Cliente de torrent simples e leve
 * [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto
@@ -241,7 +246,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 * 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente. 
 * [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6.
 * [Parabolic](https://github.com/NickvisionApps/Parabolic) - Frontend para o yt-dlp.
-* 🌟 [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até 8k e em Flac sem perder qualidade.
+* 🌟 [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até 8k e em flac sem perder qualidade.
 * [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos.
 * [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy.
 * [Allvasoft](https://www.allavsoft.com/) - Downloader de vídeos.
@@ -295,7 +300,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 ## ► Renomeação de arquivo
 
-- **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Movie.Name.2005.1080p.BluRay.DD5.x264). [Versão marítima.](https://github.com/barry-allen07/FB-Mod/releases)
+- **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Movie.Name.2005.1080p.BluRay.DD5.x264).
 - [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Mesmo conceito do filebot, mas gratuito.
 - [AdvancedRenamer](https://www.advancedrenamer.com/) - Mesmo conceito do filebot, mas gratuito.
 - [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Permite renomear por RegEx
@@ -308,7 +313,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 - [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
 - [PopUpOFF](https://popupoff.org/) - Burla pop-ups e bloqueadores.
-- [WVG](https://github.com/FoxRefire/wvg) - Recupera chaves encriptadas de conteúdo protegido com Widevinw.
+- [WVG](https://github.com/FoxRefire/wvg) - Recupera chaves encriptadas de conteúdo protegido com Widevine.
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
 - [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados.
 - [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site.
@@ -415,7 +420,6 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos com a ajuda de inteligência artificial.
-Para o melhor resultado, selecione o motor `Whisper` junto com o modelo `large-v2`.
 - [doc downloader](https://docdownloader.com/) - Downloader de Issuu e Slideshare.
 - [Unddit](https://undelete.pullpush.io/) - Veja posts removidos do reddit.
 - [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries.

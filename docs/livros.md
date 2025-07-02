@@ -66,22 +66,11 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🔗 [Baixar Quadrinhos](https://baixarquadrinhos.net) 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarquadrinhos.net/)
 
-## 🖱 ➜ Aplicativos para Computador 
-### 🔗 [Libation](https://github.com/rmcrackan/Libation)
-- Ripe audiolivros da Audible e PDFs de companhia sem se preocupar com DRM.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com) 
-### 🔗 [HakuNeko](https://hakuneko.download/) 
-- O downloader de mangá e anime multiplataforma permite que você salve material para uso offline de uma variedade de sites.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hakuneko.download/) 
-### 🔗 [Calibre](https://github.com/kovidgoyal/calibre) (Multiplataforma) 
-- Leitor e conversor de ebooks. Funciona com formatos diversos e tem integração com leitor de ebook (Kindle, Kobo, etc.)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com) 
-### 🔗 [DeDRM tools](https://github.com/apprenticeharper/DeDRM_tools) (Multiplataforma) 
-- Plugin para o Calibre para remover DRM de livros comprados na Amazon ou Google Books. 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hakuneko.download/) 
-### 🔗 [Komikku](https://valos.gitlab.io/Komikku/) (Linux) 
-- Com sua interface simples, elegante e adaptável, este leitor de mangá permite pesquisar, classificar e ler todos os seus mangás favoritos com facilidade.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/valos.gitlab.io/) 
+## ☁️ ➜ Pastas na Nuvem
+
+### 📂 [12.000 Livros Kindle!](https://drive.google.com/drive/folders/1EoF3QomxBsoMTBGMEc_J5JW6r6cC-oCy?usp=drive_link)
+
+- Variedade de livros para kindle de maneira organizada.
 
 ## 💢 ➜ Mangá 
 
@@ -195,6 +184,23 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🔍 [Buscador de Livros Rave](https://ravebooksearch.com/) 
 - Os usuários são ajudados pelo mecanismo de pesquisa a encontrar downloads gratuitos de e-books. Ele também permite alternar para uma função de pesquisa de Audiobook.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravebooksearch.com/) 
+
+## 🖱 ➜ Aplicativos para Computador 
+### 🔗 [Libation](https://github.com/rmcrackan/Libation)
+- Ripe audiolivros da Audible e PDFs de companhia sem se preocupar com DRM.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com) 
+### 🔗 [HakuNeko](https://hakuneko.download/) 
+- O downloader de mangá e anime multiplataforma permite que você salve material para uso offline de uma variedade de sites.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hakuneko.download/) 
+### 🔗 [Calibre](https://github.com/kovidgoyal/calibre) (Multiplataforma) 
+- Leitor e conversor de ebooks. Funciona com formatos diversos e tem integração com leitor de ebook (Kindle, Kobo, etc.)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com) 
+### 🔗 [DeDRM tools](https://github.com/apprenticeharper/DeDRM_tools) (Multiplataforma) 
+- Plugin para o Calibre para remover DRM de livros comprados na Amazon ou Google Books. 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hakuneko.download/) 
+### 🔗 [Komikku](https://valos.gitlab.io/Komikku/) (Linux) 
+- Com sua interface simples, elegante e adaptável, este leitor de mangá permite pesquisar, classificar e ler todos os seus mangás favoritos com facilidade.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/valos.gitlab.io/)
 
 ## 🔊 ➜ Streaming 
 ➜ Os sites abaixo são gringos e apenas oferecem conteúdos em inglês
@@ -316,7 +322,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ## 📑 ➜ No Telegram 
 ### 🤖 [Lestrad - Bibliotecário](https://t.me/lestrad_repost_bot)
-### 📣 [Banca BR](https://t.me/BancaBR)
+### 📣 [JORNAIS & REVISTAS ONLINE](https://t.me/onjornal)
 ### 📣 [Tudo de Bom em AUDIOLIVROS](https://t.me/Tudo_de_BOM_em_AUDIOLIVROS)
 ### 📣 [ITSBooks](https://t.me/ITSBooks)
 ### 📣 [QG - Baltigo mangás](https://t.me/MangasBrasil)

@@ -154,12 +154,10 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### 📂 [Drive de Pobre](https://drivedepobre.com/)
 
 - Plataforma criada para facilitar o acesso gratuito a arquivos e conteúdos educacionais de diversas áreas de conhecimento.
-  
-### 📂 [12.000 Livros Kindle!](https://drive.google.com/drive/folders/1EoF3QomxBsoMTBGMEc_J5JW6r6cC-oCy?usp=drive_link)
-
-- Variedade de livros para kindle de maneira organizada.
 
 ### 📂 [Apostilas antigas do SENAI](https://drive.google.com/drive/folders/1cidsj7wAg4iGMAvyVQtzg8pxL5D569ZS)
+
+- Sobre automação, gestão, eletricidade predial e outras áreas.
 
 ## 📣 ➜ No Telegram
 

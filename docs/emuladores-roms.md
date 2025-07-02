@@ -13,7 +13,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 📑 ➜ Arquivo de Conhecimento
+## 📑 ➜ Arquivo
 
 ### 📒 [Wiki geral de emulação](https://emulation.gametechwiki.com/index.php/Main_Page)
 
@@ -305,7 +305,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [RHDN](https://romhacking.net)
 
-- Explore ROM hacks e homebrews para jogos da geração 8, 16 e 64 bits.
+- Explore ROM hacks e homebrews para jogos da era 8, 16, 32 e 64 bits.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhacking.net/)
 
 ### 🔗 [RomHack Plaza](https://romhackplaza.org)
