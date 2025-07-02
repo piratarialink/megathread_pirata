@@ -104,7 +104,12 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 - Construído por jogadores dedicados que tomam muito cuidado para incluir detalhes sobre cada lançamento do jogo, incluindo seu gênero, ano de lançamento e descrição.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/g4u.to/)
+- 
+### 🔗 [EpicRoms](https://epicroms.net/)
 
+- Explore uma vasta coleção de jogos para PC, ROMs e ISOs para Nintendo, PlayStation e Windows.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/epicroms.net/)
+ 
 ### 🔗 [Gamedie](https://gamdie.com/)
 
 - Ótima fonte para a mais nova seleção de jogos gratuitos pré-instalados. Os termos "jogo" e "indie" são combinados para criar o nome.
