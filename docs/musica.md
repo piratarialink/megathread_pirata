@@ -57,6 +57,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Definitivamente, um excelente site para downloads de MP3 e sem perdas de trilhas sonoras de jogos de console e PC que, de outra forma, são bastante difíceis de encontrar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloads.khinsider.com/)
 
+### 🔗 [Scnlog](https://scnlog.me/) 
+
+- Uma infinidade de músicas de quase todos os genêros possíveis, incluindo em FLAC.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
+
 ### 🔗 [Sitting on Clouds](https://www.sittingonclouds.net/)
 
 - Excelente coleção de trilhas sonoras com grande ênfase em videogames e anime japonês disponível nos principais hosts de arquivos.
