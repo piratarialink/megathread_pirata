@@ -214,7 +214,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## 🔁 ➜ Ferramentas diversas
 
-### 🔗 [LibreScore](https://github.com/LibreScore/dl-librescore)
+### 🌟 [LibreScore](https://github.com/LibreScore/dl-librescore)
 
 - Baixa partituras consideradas "oficiais" dentro do MuseScore.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
