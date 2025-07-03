@@ -207,9 +207,14 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - Bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial. Disponivel temas para o client e outras personalizações.
 
-## 🔁 ➜ Ferramentas para transferir Playlists
+## 🔁 ➜ Ferramentas diversas
 
-### 🌟 [Spot Transfer](https://spot-transfer.vercel.app/)
+### 🔗 [LibreScore](https://github.com/LibreScore/dl-librescore)
+
+- Baixa partituras consideradas "oficiais" dentro do MuseScore.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [Spot Transfer](https://spot-transfer.vercel.app/)
 
 - Uma ferramenta para transferir músicas do Spotify para o YouTube.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/spot-transfer.vercel.app/)
