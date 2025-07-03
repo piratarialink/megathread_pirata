@@ -51,12 +51,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Cataloga mods para aplicativos, músicas, fontes gratuitas, jogos e especialmente, programas crackeados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadgeral.com/) 
 ### 🔗 [Ecológica Verde](https://bsky.app/profile/ecologica.bsky.social)  
-- Se não tiverem postado o programa que você procura, peça no twitter ou no grupo do discord que em algum momento eles providenciam. 
-### 🔗 [FileCR](https://filecr.com/) 
-:::warning Embora muito prestativo para encontrar certos programas, contém [arquivos maliciosos](https://rentry.co/filecr_malware). Recomenda-se o uso do Windows Sandbox ou de [máquinas virtuais](https://massgrave.dev/genuine-installation-media) gratuitas como o VirtualBox ou QEMU para testar os softwares oferecidos pelo site.
-:::
-- Download gratuito de softwares para MacOS e Windows, jogos e demais utilitários.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/filecr.com/) 
+- Se não tiverem postado o programa que você procura, peça no bsky ou no grupo do discord que em algum momento eles providenciam. 
 ### 🔗 [FileRiver](https://fileriver.net/) 
 - Fileriver é um site para baixar programas gratuitos e ativadores
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fileriver.net/) 
