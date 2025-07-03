@@ -15,12 +15,12 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ## 📑 ➜ Diversos
 
-### 🌟 [Internet Archive](https://archive.org/)
+### 🌟 [**Internet Archive**](https://archive.org/)
 
 - Milhões de livros gratuitos, filmes, músicas e outros tipos de arquivos estão disponíveis nesta biblioteca sem fins lucrativos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
-### 🌟 [SoftArchive](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
+### 🌟 [**SoftArchive**](https://softarchive.is/) / [**2**](https://sanet.lc/) / [**3**](https://sanet.st/) / [4](https://sanet.ws/)
 
 - Referência na cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
