@@ -46,7 +46,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 * 🌟[**GIM**](https://massgrave.dev/genuine-installation-media) - ISO do Windows para rodar máquinas virtuais e verificar se um programa é malicioso ou não.
 * [files.rg-adguard.net](https://files.rg-adguard.net/) - Substituto do tb.rg-adguard.net.
-* [arquivo corenoc.de](https://web.archive.org/web/20180711192755/http://mirror.corenoc.de/digitalrivercontent.net/) - Mirrors de torrent para isos do Windows 7 que estavam disponíveis no DigitalRiverContent da Microsoft CDN.
+* [arquivo corenoc.de](https://archive.org/details/digital_river) - ISOs do Windows 7 que estavam disponíveis no DigitalRiverContent da Microsoft CDN.
 * [the-eye.eu/public/MSDN](https://archive.org/details/MSDNArchive) - O backup de 2,7 TB do olho do despejo do MSDN. Tem muitos ISOs difíceis de encontrar, Windows 7, etc.
 * [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors para LTSB, LTSC e ISOs do Windows 10 da edição do consumidor. [Postagem original](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431) em MyDigitalLife fóruns.
 * [Windows ISOs em nnmclub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 10 da edição do consumidor.
