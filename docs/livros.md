@@ -14,8 +14,10 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 :::
 
 ## 📥 ➜ Downloads diretos 
-### 🔗 [elivros](https://elivros.love/) 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/elivros.love/) 
+### 🔗 [elivros](https://elivros.info/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/elivros.info/)
+### 🔗 [dlivros](https://dlivros.com/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/dlivros.com/) 
 ### 🔗 [Baixe Livros](https://www.baixelivros.com.br/) 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixelivros.com.br/) 
 ### 🔗 [Info Livros](https://www.infolivros.org/) 
