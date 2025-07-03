@@ -98,7 +98,7 @@
 | SadeemPC / SadeemAPK   | sadeempc-com / sadeemapk-com           | **Vírus** (_Detectado com malware em várias ocasiões_).                                             |
 | KaranPC               | karanpc-com                           | **Vírus** (_Detectado com malware em várias ocasiões_).                                             |
 | AliTPB / AliPak / b4tman | alitpb-com / alipak-com / b4tman-com   | **Vírus** (_Detectado com malware em várias ocasiões_).                                             |
-| FileCR                |                                              | **Vírus** (_Detectado com malware múltiplas vezes_).                                                |
+| FileCR                | filecr-com                                              | **Vírus** (_Detectado com malware múltiplas vezes_).                                                |
 | FTUApps               | ftuapps-com                           | **Vírus** (_Detectado com malware_).                                                                |
 | S0ft4PC / Portable4PC  | soft4pc-com / portable4pc-com          | **Vírus**: (_Detectado com malware_).                                                                |
 | CrackingCity          | crackingcity-com                      | **Vírus** (_Detectado com malware_).                                                                |
@@ -110,7 +110,6 @@
 | AllPCWorld            | allpcworld-com                        | **Vírus** (_Carregou o KMS Matrix, conhecido malware_).                                             |
 | RSLOAD                | rsload-net                            | **Vírus** (_Carregou versão de malwarebytes com problemas de segurança_).                           |
 | Taiwebs               | taiwebs-com                           | **Vírus** (_Carregou versão de stardock com problemas de segurança_).                               |
-| Appnee                |                            | **Suspeito** (_Carregou ativadores inseguros em várias ocasiões_).                                     |
 | AppValley / TutuBox / Ignition | appvalley-com / tutubox-com / ignition-com | **Comportamento antiético** (_Histórico de ataques DDoS_).                                          |
 | CNET / Download-com / ZDNET / Softonic | cnet-com / download-com / zdnet-com / softonic-com | **Adware** (_Histórico de adware_).                                                                  |
 | IObit                 | iobit-com                             | **Adware** (_Histórico de adware e produtos duvidosos_).                                            |
