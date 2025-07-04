@@ -1,6 +1,6 @@
 # Como Configurar o DNS no Windows e Android
 
-![DNS](/images/dns.png)
+![DNS](/images/dns1.png)
 
  Ajustar as configurações de DNS pode oferecer diversos benefícios, como:
 
