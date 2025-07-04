@@ -11,9 +11,6 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 :::info ℹ️ Dicas Úteis
 - 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](guias/dns.md).
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
-:::
-
-::: note Extras:
 - Tutorias disponíveis em [Pirataria - Guias](guias.md).
 - Links em cache estão disponíveis para permitir que você visualize a página sem precisar fazer login.
 - Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal, são falsos positivos.
