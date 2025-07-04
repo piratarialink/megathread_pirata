@@ -374,7 +374,7 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 :::warning O pirataria digital não responde pelo compartilhamento de dados pessoais por terceiros. 
 :::
 
-- [Doxbin](https://t.me/findeveryoneBot) - Bot que coleta credenciais de usuários de diversas plataformas.
+- [TTM](https://t.me/Ttmlog_bot) - Bot que coleta credenciais de usuários de diversas plataformas.
 - [STEAM7](https://steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas steam. 
 - [Cracking.org](https://cracking.org/forums/premium-accounts.11/) - Contas de streaming.
 - [Crackia](https://crackia.com/forum/45-premium-accounts/) - Combolists e contas de streaming.
