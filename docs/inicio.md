@@ -12,7 +12,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 :::tip ⌛ Antes de começar, siga estas etapas:
 1. **Ferramentas essenciais:**
    - Navegador: [Firefox](https://mozilla.org/firefox/new/).  
-   - Extensões: [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) + [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) junto desse [script](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated).  
+   - Extensões: [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) + [PopUpOFF](https://popupoff.org) + [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) junto desse [script](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated).  
    - Configurações recomendadas: [Veja aqui](https://take-me-to.space/UShoGZ7.png). (*Bloqueia anúncios e malware*).  
 
 2. **Melhore seu DNS:**
