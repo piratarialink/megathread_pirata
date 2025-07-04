@@ -16,7 +16,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
    - Configurações recomendadas: [Veja aqui](https://take-me-to.space/UShoGZ7.png). (*Bloqueia anúncios e malware*).  
 
 2. **Melhore seu DNS:**
-   - Siga este [Guia](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/) para desbloquear sites, aumentar sua privacidade e reduzir a exibição de anúncios.
+   - Siga este [Guia](guias/dns.md) para desbloquear sites, aumentar sua privacidade e reduzir a exibição de anúncios.
 
 3. **Cliente de torrent confiável:**
    - Recomendação: [qBittorrent](https://www.qbittorrent.org/) com *kill switch habilitado* e [plugins de pesquisa](https://pirataria.link/guias/guia-plugins-qbittorrrent) 
