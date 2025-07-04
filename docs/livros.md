@@ -189,7 +189,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ## 🖱 ➜ Aplicativos para Computador 
 ### 🔗 [Libation](https://github.com/rmcrackan/Libation)
-- Ripe audiolivros da Audible e PDFs de companhia sem se preocupar com DRM.
+- Faça o download de audiolivros da Audible e PDFs de acompanhamento sem se preocupar com DRM.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com) 
 ### 🔗 [HakuNeko](https://hakuneko.download/) 
 - O downloader de mangá e anime multiplataforma permite que você salve material para uso offline de uma variedade de sites.
@@ -278,7 +278,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cufonfonts.com/) 
 ### 🔗 [Dafont Free](https://www.dafontfree.io/) 
 - Obtenha mais de 12.000 das melhores fontes gratuitas em categorias de alta qualidade, incluindo sem serifa, serifa, script, caligrafia, exibição e muito mais.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/dafontfree.io/) 
+- [Resulatados de Segurança da URL](https://www.urlvoid.com/scan/dafontfree.io/) 
 ### 🔗 [Dfonts](https://www.dfonts.org/) 
 - Impressionantes estilos de fonte gratuitos estão disponíveis para download em uma variedade de fontes, incluindo Instagram, Adobe e Google.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/dfonts.org/) 
