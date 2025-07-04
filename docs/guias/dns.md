@@ -23,7 +23,7 @@ Cloudflare DNS
 
 - Nome do host: security.cloudflare-dns.com
 
-- Observação: Excelente desempenho, mas não bloqueia anúncios em sites e apps.
+- Excelente desempenho, mas não bloqueia anúncios em sites e apps.
 
 AdGuard DNS
 
@@ -31,7 +31,7 @@ AdGuard DNS
 
 - Nome do host: dns.adguard-dns.com
 
-- Observação: Especializado em bloquear anúncios e rastreadores, ideal para uma navegação mais limpa.
+- Especializado em bloquear anúncios e rastreadores, ideal para uma navegação mais limpa.
 
 NextDNS
 
@@ -113,7 +113,7 @@ Esse método utiliza o protocolo IPv4 usado no Windows e altera a configuração
 
 ![DNS5](/images/dns5.png)
 
-:::info Observação:
+:::info Nota:
 O método de DNS Privado altera a configuração para todo o sistema, incluindo a rede móvel, enquanto a configuração manual na rede Wi-Fi altera apenas essa conexão específica. 
 :::
 
