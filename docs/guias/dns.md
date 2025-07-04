@@ -21,7 +21,7 @@ Cloudflare DNS
 
 - IPv4: `1.1.1.1` e `1.0.0.1`
 
-- Nome do host: security.cloudflare-dns.com
+- Nome do host: `security.cloudflare-dns.com`
 
 - Excelente desempenho, mas não bloqueia anúncios em sites e apps.
 
@@ -29,7 +29,7 @@ AdGuard DNS
 
 - IPv4: `94.140.14.14` e `94.140.15.15`
 
-- Nome do host: dns.adguard-dns.com
+- Nome do host: `dns.adguard-dns.com`
 
 - Especializado em bloquear anúncios e rastreadores, ideal para uma navegação mais limpa.
 
@@ -71,7 +71,7 @@ A alteração do DNS no Windows afeta todo o sistema – todos os navegadores e 
 
 ## 3 - Configurando o DNS no Android:
 
-A configuração do DNS no Android pode variar conforme a interface – seja a One UI da Samsung, o HyperOS da Xiaomi ou versões mais próximas do Android puro. A seguir, detalhamos dois métodos usando o endereço DNS Over TLS, que é o Hostname DoT ao invés do IPv4 ou IPv6 usado no Windows, nesse caso, dns.adguard-dns.com ou security.cloudflare-dns.com.
+A configuração do DNS no Android pode variar conforme a interface – seja a One UI da Samsung, o HyperOS da Xiaomi ou versões mais próximas do Android puro. A seguir, detalhamos dois métodos usando o endereço DNS Over TLS, que é o Hostname DoT ao invés do IPv4 ou IPv6 usado no Windows, nesse caso, `dns.adguard-dns.com` ou `security.cloudflare-dns.com`.
 
 **BÔNUS**: Configuração no HyperOS (Xiaomi):
 
@@ -83,9 +83,9 @@ A configuração do DNS no Android pode variar conforme a interface – seja a O
 
    4. Inserir o Nome do Host: Em Nome do host do provedor de DNS privado, digite:
 
-        - Para Cloudflare: security.cloudflare-dns.com
+        - Para Cloudflare: `security.cloudflare-dns.com`
 
-        - Para AdGuard: dns.adguard-dns.com
+        - Para AdGuard: `dns.adguard-dns.com`
 
 ![DNS3](/images/dns3.png)
 
@@ -93,7 +93,7 @@ A configuração do DNS no Android pode variar conforme a interface – seja a O
 
    1. Acessar Configurações de Rede: Abra Configurações e toque em Rede e Internet.
 
-   2. Configurar DNS Privado: Selecione a opção DNS Privado, e em ...Provedor Hostname digite o endereço DNS desejado.
+   2. Configurar DNS Privado: Selecione a opção DNS Privado, e em `...Provedor Hostname` digite o endereço DNS desejado.
 
    3. Salvar a Configuração: Toque em Salvar para confirmar a alteração
 
