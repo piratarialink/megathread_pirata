@@ -45,7 +45,7 @@ Os servidores públicos do Cloudflare e do AdGuard não apresentam esses inconve
 
 Embora esses provedores bloqueiem a maioria dos anúncios, eles podem não ser 100% eficazes (por exemplo, no YouTube). Para uma remoção mais completa de propagandas em páginas web, a extensão uBlock continua sendo a melhor opção.
 
-## 2. Configurando o DNS no Windows 10
+## 2 - Configurando o DNS no Windows 10
 
 A alteração do DNS no Windows afeta todo o sistema – todos os navegadores e aplicativos utilizarão os novos servidores.
 
@@ -69,19 +69,19 @@ A alteração do DNS no Windows afeta todo o sistema – todos os navegadores e 
 
 ![DNS2](/images/dns2.png)
 
-## 3. Configurando o DNS no Android:
+## 3 - Configurando o DNS no Android:
 
 A configuração do DNS no Android pode variar conforme a interface – seja a One UI da Samsung, o HyperOS da Xiaomi ou versões mais próximas do Android puro. A seguir, detalhamos dois métodos usando o endereço DNS Over TLS, que é o Hostname DoT ao invés do IPv4 ou IPv6 usado no Windows, nesse caso, dns.adguard-dns.com ou security.cloudflare-dns.com.
 
-4. Configuração no HyperOS (Xiaomi)
+**BÔNUS**: Configuração no HyperOS (Xiaomi):
 
-    1. Acesse as Configurações: Abra o menu Configurações do dispositivo.
+   1. Acesse as Configurações: Abra o menu Configurações do dispositivo.
 
-    2. Opções de Conectividade: Selecione Mais opções de conectividade.
+   2. Opções de Conectividade: Selecione Mais opções de conectividade.
 
-    3. Ativar DNS Privado: Toque em DNS Privado.
+   3. Ativar DNS Privado: Toque em DNS Privado.
 
-    4. Inserir o Nome do Host: Em Nome do host do provedor de DNS privado, digite:
+   4. Inserir o Nome do Host: Em Nome do host do provedor de DNS privado, digite:
 
         - Para Cloudflare: security.cloudflare-dns.com
 
@@ -89,17 +89,17 @@ A configuração do DNS no Android pode variar conforme a interface – seja a O
 
 ![DNS3](/images/dns3.png)
 
-5. Configuração no Android Puro (ex.: Motorola, Google Pixel, OnePlus, Custom ROMs)
+## 5 - Configuração no Android Puro (ex.: Motorola, Google Pixel, OnePlus, Custom ROMs)
 
-    1. Acessar Configurações de Rede: Abra Configurações e toque em Rede e Internet.
+   1. Acessar Configurações de Rede: Abra Configurações e toque em Rede e Internet.
 
-    2. Configurar DNS Privado: Selecione a opção DNS Privado, e em ...Provedor Hostname digite o endereço DNS desejado.
+   2. Configurar DNS Privado: Selecione a opção DNS Privado, e em ...Provedor Hostname digite o endereço DNS desejado.
 
-    3. Salvar a Configuração: Toque em Salvar para confirmar a alteração
+   3. Salvar a Configuração: Toque em Salvar para confirmar a alteração
 
 ![DNS4](/images/dns4.png)
 
-## Configuração Manual para Redes Wi-Fi
+## 6 - Configuração Manual para Redes Wi-Fi
 
 Esse método utiliza o protocolo IPv4 usado no Windows e altera a configuração apenas para a rede Wi-Fi atual:
 
