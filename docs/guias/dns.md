@@ -17,6 +17,7 @@ Este guia apresenta o passo a passo de como configurar o DNS tanto no Windows qu
 ## 1 - Principais Provedores de DNS
 
 A seguir, listamos os provedores de DNS com servidores no Brasil, que não bloqueiam sites piratas e oferecem bom desempenho para usuários brasileiros:
+
 Cloudflare DNS
 
 - IPv4: `1.1.1.1` e `1.0.0.1`
