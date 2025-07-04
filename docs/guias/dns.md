@@ -37,9 +37,10 @@ NextDNS
 
 - IPv4: Obtido diretamente pelo site nextdns.io
 
-- Observação: Funciona de maneira similar ao AdGuard, mas possui limitações no plano gratuito. Ao utilizar listas de bloqueios adicionais, alguns redirecionadores podem deixar de funcionar – inclusive o histórico do app YouTube – sendo necessário incluir o domínio s.youtube.com na whitelist.
+- Funciona de maneira similar ao AdGuard, mas possui limitações no plano gratuito. Ao utilizar listas de bloqueios adicionais, alguns redirecionadores podem deixar de funcionar – inclusive o histórico do app YouTube – sendo necessário incluir o domínio s.youtube.com na whitelist.
 
-:::info Nota: Os servidores públicos do Cloudflare e do AdGuard não apresentam esses inconvenientes, por isso serão o foco deste guia. Para testar a velocidade dos servidores DNS e conhecer mais opções, experimente o app Teste Velocidade DNS.
+:::info Nota: 
+Os servidores públicos do Cloudflare e do AdGuard não apresentam esses inconvenientes, por isso serão o foco deste guia. Para testar a velocidade dos servidores DNS e conhecer mais opções, experimente o app Teste Velocidade DNS.
 :::
 
 Embora esses provedores bloqueiem a maioria dos anúncios, eles podem não ser 100% eficazes (por exemplo, no YouTube). Para uma remoção mais completa de propagandas em páginas web, a extensão uBlock continua sendo a melhor opção.
