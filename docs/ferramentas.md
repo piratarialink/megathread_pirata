@@ -378,7 +378,7 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 - [STEAM7](https://steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas steam. 
 - [Cracking.org](https://cracking.org/forums/premium-accounts.11/) - Contas de streaming.
 - [Crackia](https://crackia.com/forum/45-premium-accounts/) - Combolists e contas de streaming.
-- [CrackingX](https://crackingx.com) - Outro site de combolists e contas de streaming também.
+- [CrackingX](https://crackingx.com) - Outro site de combolists e contas de streaming.
 
 ## ► Ferramentas para Jogos
 
