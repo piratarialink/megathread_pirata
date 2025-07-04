@@ -33,6 +33,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/datassette.org/) 
 ### 🌟 [Library Genesis](https://libgen.is/) / [2](https://libgen.rs/) / [3](https://libgen.st/) 
 - Livros de engenharia e ciências naturais estão sendo colecionados pela comunidade científica.
+- O site constantemente fica fora do ar. Para checar qualquer proxy que esteja funcionando, acesse o [SLUM](https://open-slum.org/).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/libgen.is/)  
 ### 🔗 [OceanofPDF](https://oceanofpdf.com/category/languages/portuguese-language-books/?id=000192234242) 
 - Aqui mesmo, você pode obter conhecimentos e informações de livre acesso a todos.
