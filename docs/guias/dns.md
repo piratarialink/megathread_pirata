@@ -89,7 +89,7 @@ A configuração do DNS no Android pode variar conforme a interface – seja a O
 
 ![DNS3](/images/dns3.png)
 
-## 5 - Configuração no Android Puro (ex.: Motorola, Google Pixel, OnePlus, Custom ROMs)
+## 4 - Configuração no Android Puro (ex.: Motorola, Google Pixel, OnePlus, Custom ROMs)
 
    1. Acessar Configurações de Rede: Abra Configurações e toque em Rede e Internet.
 
@@ -99,7 +99,7 @@ A configuração do DNS no Android pode variar conforme a interface – seja a O
 
 ![DNS4](/images/dns4.png)
 
-## 6 - Configuração Manual para Redes Wi-Fi
+## 5 - Configuração Manual para Redes Wi-Fi
 
 Esse método utiliza o protocolo IPv4 usado no Windows e altera a configuração apenas para a rede Wi-Fi atual:
 
