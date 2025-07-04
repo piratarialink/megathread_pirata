@@ -54,6 +54,10 @@ Quer configurar o Jellyfin e a Família Arr de forma simples e eficiente? Este g
 
 Ative o Windows e o Office sem estresse? Este guia prático te mostra como. Descubra onde ativar esses programas de forma segura e aprenda a fazê-lo sem complicações. Seja configurando um novo PC ou atualizando seu software, este guia é o seu companheiro confiável para uma ativação tranquila.
 
+## 📑 ➜ [Como configurar o DNS no Windows e Android](guias/dns.md)
+
+Desenvolvido para oferecer uma visão clara e prática sobre como configurar o DNS em diferentes dispositivos. Ele é um ponto de partida sólido, mas sabemos que sempre há espaço para melhorias.
+
 ## 📑 ➜ [Guia de Como Baixar e Instalar pela FitGirl](guias/guia-fitgirl.md)
 
 Se você é um entusiasta dos jogos de PC, provavelmente já ouviu falar da FitGirl. Conhecida por suas compactações inteligentes e instalações simplificadas, a FitGirl é uma referência quando se trata de baixar e instalar jogos. Neste guia abrangente, mergulharemos no mundo da FitGirl, revelando os passos essenciais para baixar e instalar seus jogos favoritos de forma rápida, eficiente e sem complicações.
