@@ -1,4 +1,4 @@
-# Como Trocar o DNS no Windows e Android
+# Como Configurar o DNS no Windows e Android
 
 ![DNS](/images/dns.png)
 
