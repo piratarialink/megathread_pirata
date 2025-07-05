@@ -71,7 +71,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► **Bypassers de sites de redirecionamento**
 
-- 🌟 [**Bypass All Shortlinks Debloated**](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) - Consegue acelerar o timer e extrair o link original de páginas que te fazem esperar como a linkvertise, ad-maven, adf-ly, adfoc-us, adshrink-it, boost-ink, entre outras.
+- 🌟 [**Bypass All Shortlinks Debloated**](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) - Consegue acelerar o timer e extrair o link final de páginas que te fazem esperar como a linkvertise, ad-maven, adf-ly, adfoc-us, adshrink-it, boost-ink, entre outras.
 - [Bypass-vip](https://bypass.vip) - Outro bypasser com a mesma função.
 - [Bypass FileCrypt](https://greasyfork.org/en/scripts/403170) - Burla o FileCrypt.
 
