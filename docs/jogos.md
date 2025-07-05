@@ -226,6 +226,11 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ## 🌐 ➜ Jogos de navegador
 
+### 🌟 [CrazyGames](https://www.crazygames.com/)
+
+- Melhor site para jogar jogos de navegador de primeira linha gratuitamente. Todos os dias, novos jogos são upados!
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/crazygames.com/)
+
 ### 🔗 [Addicting Games](https://www.addictinggames.com/)
 
 - Um dos sites de jogos mais populares, alcançando mais de dez milhões de usuários diferentes a cada mês.
@@ -241,11 +246,11 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - Lógica, raciocínio e matemática são combinados com diversão neste site de treinamento cerebral para todos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/coolmathgames.com/)
 
-### 🔗 [CrazyGames](https://www.crazygames.com/)
+### 🔗 [Friv](https://www.friv.com/)
 
-- Melhor site para jogar jogos de navegador de primeira linha gratuitamente. Todos os dias, novos jogos são upados!
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/crazygames.com/)
-
+- Portal clássico contendo sempre os melhores jogos, inclusive para smartphones. Tudo isso, sem interrupções por anúncios.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/friv.com/)
+  
 ### 🔗 [Free Games Max](https://www.freegamesmax.com/)
 
 - Jogue os melhores jogos HTML5 no seu PC e dispositivo smart sem precisar baixar nada.
