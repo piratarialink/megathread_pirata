@@ -72,8 +72,9 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 ## ► **Bypassers de sites de redirecionamento**
 
 - 🌟 [**Bypass All Shortlinks Debloated**](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) - Consegue acelerar o timer e extrair o link final de páginas que te fazem esperar como a linkvertise, ad-maven, adf-ly, adfoc-us, adshrink-it, boost-ink, entre outras.
+- [AdsBypasser](https://adsbypasser.github.io/) - Ignore anúncios de contagem regressiva ou continue páginas e evite janelas pop-up de anúncios.
 - [Bypass-vip](https://bypass.vip) - Outro bypasser com a mesma função.
-- [Bypass FileCrypt](https://greasyfork.org/en/scripts/403170) - Burla o FileCrypt.
+- [adLBypasser](https://greasyfork.org/en/scripts/439469-adlbypasser-v1-6-ouo-io-uii-io-exe-io-bc-vc-adf-ly-more-no-ads/code)
 
 ## ► **Burladores de paywall**
 
@@ -113,7 +114,6 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [absolute-enable-right-click-and-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) - Permite clicar com o botão direito e copiar em sites que tentam evitar clicar com o botão direito, pode remover também proteções anti cópia para vídeos e imagens.
 - [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Permite selecionar/realçar links em vez do comportamento padrão de arrastá-los.
 - [Botão Sci-hub](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adiciona um botão sci-hub a inúmeros sites de artigos acadêmicos/acadêmicos para desbloquear o artigo que está sendo visualizado.
-- [AdsBypasser](https://adsbypasser.github.io/) - Ignore anúncios de contagem regressiva ou continue páginas e evite janelas pop-up de anúncios.
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Evite a instalação de download de aplicativos indesejados com software legítimo (por exemplo, McAfee com Adobe Flash).
 - [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript para baixar legendas do youtube.
 - [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript para baixar vídeos do youtube.
