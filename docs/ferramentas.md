@@ -79,6 +79,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 ## ► **Burladores de paywall**
 
 - 🌟 [**Bypass Paywalls Clean**](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para Firefox para burlar Paywall.
+- [BrainlyBypassPaywall](https://gitlab.com/Dwyriel/Greasyfork-Scripts/-/tree/main/BrainlyBypassPaywall?ref_type=heads) - Reseta a contagem diária do Brainly para evadir o paywall de limite diário.
 - [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
 - [Bypass paywalls - Método 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o agente do usuário para o Google Bot.
 - [Remove paywall](https://www.removepaywall.com/)
@@ -108,7 +109,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [greasyfork.org](https://greasyfork.org/) - Repo para incontáveis ​​userscripts úteis.
 - [userscripts-mirror.org](https://userscripts-mirror.org/) - Repositório alternativo de scripts. Espelho para Userscripts.org.
 - [openuserjs.org](https://openuserjs.org/) - repositório alternativo de scripts.
-- [TinyShield](https://cdn.jsdelivr.net/npm/@list-kr/tinyshield@latest/dist/tinyShield.user.js) - Defuser para os sites não saberem que você está usando adblock.
+- [TinyShield](https://cdn.jsdelivr.net/npm/@list-kr/tinyshield@latest/dist/tinyShield.user.js) - Defuser para os sites não saberem que você está usando adblock. 
 - [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adiciona botão ao lado de URLs encurtados que resolve o URL para sua localização verdadeira.
 - [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Permite a cópia de texto de sites que tentam impedir a cópia.
 - [absolute-enable-right-click-and-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) - Permite clicar com o botão direito e copiar em sites que tentam evitar clicar com o botão direito, pode remover também proteções anti cópia para vídeos e imagens.
