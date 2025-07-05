@@ -41,7 +41,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► Downloads modificados/intactos do Windows e do Office
 
-* 🌟 [**GIM**](https://massgrave.dev/genuine-installation-media) - ISO do Windows para rodar máquinas virtuais e verificar se um programa é malicioso ou não.
+* 🌟 [**GIM**](https://massgrave.dev/genuine-installation-media) - ISO do Windows para rodar máquinas virtuais.
 * [files.rg-adguard.net](https://files.rg-adguard.net/) - Substituto do tb.rg-adguard.net.
 * [arquivo corenoc.de](https://archive.org/details/digital_river) - ISOs do Windows 7 que estavam disponíveis no DigitalRiverContent da Microsoft CDN.
 * [the-eye.eu/public/MSDN](https://archive.org/details/MSDNArchive) - O backup de 2,7 TB do olho do despejo do MSDN. Tem muitos ISOs difíceis de encontrar, Windows 7, etc.
