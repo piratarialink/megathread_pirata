@@ -74,7 +74,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - 🌟 [**Bypass All Shortlinks Debloated**](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) - Consegue acelerar o timer e extrair o link final de páginas que te fazem esperar como a linkvertise, ad-maven, adf-ly, adfoc-us, adshrink-it, boost-ink, entre outras.
 - [AdsBypasser](https://adsbypasser.github.io/) - Burla anúncios do tipo contagem regressiva ou continue na página e evita janelas pop-up de anúncios.
 - [Bypass-vip](https://bypass.vip) - Outro bypasser com a mesma função.
-- [adLBypasser](https://greasyfork.org/en/scripts/439469-adlbypasser-v1-6-ouo-io-uii-io-exe-io-bc-vc-adf-ly-more-no-ads/code) - Burla links de tráfego pago rapidamente.
+- [adLBypasser](https://greasyfork.org/en/scripts/439469-adlbypasser-v1-6-ouo-io-uii-io-exe-io-bc-vc-adf-ly-more-no-ads/code) - Pode burlar links de tráfego pago rapidamente.
 
 ## ► **Burladores de paywall**
 
