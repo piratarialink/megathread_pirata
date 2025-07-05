@@ -74,7 +74,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - 🌟 [**Bypass All Shortlinks Debloated**](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) - Consegue acelerar o timer e extrair o link final de páginas que te fazem esperar como a linkvertise, ad-maven, adf-ly, adfoc-us, adshrink-it, boost-ink, entre outras.
 - [AdsBypasser](https://adsbypasser.github.io/) - Burla anúncios do tipo contagem regressiva ou continue na página e evita janelas pop-up de anúncios.
 - [Bypass-vip](https://bypass.vip) - Outro bypasser com a mesma função.
-- [adLBypasser](https://greasyfork.org/en/scripts/439469-adlbypasser-v1-6-ouo-io-uii-io-exe-io-bc-vc-adf-ly-more-no-ads/code)
+- [adLBypasser](https://greasyfork.org/en/scripts/439469-adlbypasser-v1-6-ouo-io-uii-io-exe-io-bc-vc-adf-ly-more-no-ads/code) - Burla links de tráfego pago rapidamente.
 
 ## ► **Burladores de paywall**
 
@@ -122,12 +122,6 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [Obter informações de DLC do SteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Cria automaticamente uma lista de DLC para ferramentas como CreamAPI, GreenLuma e SmartSteamEmu.
 - [Desbloqueie as etapas do Symbolabs e verifique as soluções](https://pastebin.com/wA3QQkCj) - Userscript: [archive](https://web.archive.org/web/20200818154537/https://pastebin.com/wA3QQkCj)
 - [Unlimiteddownloader](https://github.com/A-SunsetMkt-Forks/Tampermonkey-Script/blob/main/Unlimited_downloader.js) - Baixa vídeos HLS.
-
-## ► **Scripts e Códigos Premium**
-
-- [Weaplay](https://weaplay.net)
-- [Codelist](https://codelist.cc/v3/)
-- [SCRiPTMAFiA](https://scriptmafia.org/scripts/)
 
 ## ► Filtros do uBO
 
@@ -365,7 +359,7 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 - [HTTP Injector](https://httpinjector.com/)
 - [NetMod VPN Client](https://sourceforge.net/projects/netmodhttp/)
 
-## ► **Contas premium**
+## ► **Contas Premium**
 
 :::warning O pirataria digital não responde pelo compartilhamento de dados pessoais por terceiros. 
 :::
@@ -376,6 +370,12 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 - [Crackia](https://crackia.com/forum/45-premium-accounts/) - Combolists e contas de streaming.
 - [CrackingX](https://crackingx.com) - Outro site de combolists e contas de streaming.
 
+## ► **Scripts e Códigos Premium**
+
+- [Weaplay](https://weaplay.net)
+- [Codelist](https://codelist.cc/v3/)
+- [SCRiPTMAFiA](https://scriptmafia.org/scripts/)
+  
 ## ► Ferramentas para Jogos
 
 #### ► **Geral**
