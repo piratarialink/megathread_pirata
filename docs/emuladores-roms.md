@@ -63,7 +63,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Em uma ampla variedade de plataformas, os jogos são executados nativamente no navegador, sob o controle de feeds de jogos baseados em nuvem.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/webarcade.com/)
 
-## 👾 ➜ Multissistema
+## 👾 ➜ Multisistema
 
 ### 🔗 [ares](https://ares-emu.net/)
 
