@@ -48,7 +48,7 @@ Para muitos entusiastas de torrents, alcançar e manter um ratio saudável pode 
 
 ## 📑 ➜ [Como Verificar um Arquivo no Virus Total corretamente](guias/virustotal)
 
-Garanta a segurança de seus arquivos? Este guia prático te mostra como verificar corretamente qualquer arquivo no VirusTotal. Aprenda os passos simples para analisar seus arquivos em busca de ameaças de forma rápida e eficiente. Com este guia, você pode ter certeza de que seus arquivos estão protegidos contra vírus e malware.
+Quer garantir a segurança de seus arquivos? Este guia prático te mostra como verificar corretamente qualquer arquivo no VirusTotal. Aprenda os passos simples para analisar seus arquivos em busca de ameaças de forma rápida e eficiente. Com este guia, você pode ter certeza de que seus arquivos estão protegidos contra vírus e malware.
 
 ## 📑 ➜ [Jellyfin e Familia Arr - Docker Compose](guias/jellyfin-arr)
 
