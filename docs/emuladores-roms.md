@@ -138,7 +138,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Emulador do Nintendo Entertainment System desenvolvido com Qt.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🔗 [Projeto64](https://www.pj64-emu.com/) • 64
+### 🔗 [Project64](https://www.pj64-emu.com/) • 64
 
 - Emulador C++ gratuito e de código aberto atualmente apenas para Windows.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pj64-emu.com/)
@@ -231,7 +231,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [Crocdb](https://crocdb.net/)
 
-- ROMs para multiplos sistemas com download direto do site.
+- ROMs para múltiplos sistemas com download direto do site.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/crocdb.net/)
 
 ### 🔗 [PSX Downloads](https://psxdownloads.us/) - Necessário Registrar-se
