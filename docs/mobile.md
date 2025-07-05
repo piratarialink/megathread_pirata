@@ -54,7 +54,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [Shizuku](https://github.com/RikkaApps/Shizuku) 
 
-- Escala privilégios no android sem a necessidade de realizar root. 
+- Escala privilégios no android sem a necessidade de root/CFW.
 - [Apps que funcionam com o shizuku.](https://technastic-com.translate.goog/best-shizuku-apps-mods-android/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)
 
 ### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis) 
