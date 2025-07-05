@@ -148,10 +148,10 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Front-end mupen64plus baseado em C++ com uma interface de usuário simples.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🌟 [Ryujinx](https://ryujinx.org/) • Switch
+### 🌟 [Ryujinx](https://git.ryujinx.app/ryubing/ryujinx) • Switch
 
-- Este emulador se esforça para oferecer precisão e desempenho excelentes, com uma interface de usuário simples.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ryujinx.org/)
+- Fork feito pelo GreemDev com base no emulador original que foi descontinuado.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ryujinx.app/)
 
 ### 🔗 [SameBoy](https://sameboy.github.io/) • Game Boy + Color + Super
 
