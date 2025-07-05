@@ -181,12 +181,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/upnovelas.com/) 
 ### 📺️ [Pluto TV](https://pluto.tv/) 
 - Serviço gratuito de Streaming de televisão da Paramount.
-
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pluto.tv/) 
 ### 📺️ **[Pago]** [UniTV](https://unitvnet.com) 
 - Entre no site com um DNS configurada. IPTV bem completa.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/unitvnet.com/) 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mefrraz.github.io/hattered/) 
+
 ### 📺️ [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) 
 - Agregação de IPTV em massa
 
