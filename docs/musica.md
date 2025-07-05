@@ -59,7 +59,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [Scnlog](https://scnlog.me/) 
 
-- Uma infinidade de músicas de quase todos os genêros possíveis, incluindo em FLAC.
+- Uma infinidade de músicas de quase todos os genêros possíveis, inclusive em FLAC.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
 
 ### 🔗 [Sitting on Clouds](https://www.sittingonclouds.net/)
