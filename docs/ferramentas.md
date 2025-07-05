@@ -359,7 +359,7 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 - [HTTP Injector](https://httpinjector.com/)
 - [NetMod VPN Client](https://sourceforge.net/projects/netmodhttp/)
 
-## ► **Contas Premium**
+## ► **Contas Ilimitadas**
 
 :::warning O pirataria digital não responde pelo compartilhamento de dados pessoais por terceiros. 
 :::
