@@ -41,7 +41,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► Downloads modificados/intactos do Windows e do Office
 
-* 🌟 [**GIM**](https://massgrave.dev/genuine-installation-media) - ISO do Windows para rodar máquinas virtuais.
+* 🌟 [**GIM**](https://massgrave.dev/genuine-installation-media) - ISOs do Windows para rodar máquinas virtuais.
 * [files.rg-adguard.net](https://files.rg-adguard.net/) - Substituto do tb.rg-adguard.net.
 * [arquivo corenoc.de](https://archive.org/details/digital_river) - ISOs do Windows 7 que estavam disponíveis no DigitalRiverContent da Microsoft CDN.
 * [the-eye.eu/public/MSDN](https://archive.org/details/MSDNArchive) - O backup de 2,7 TB do olho do despejo do MSDN. Tem muitos ISOs difíceis de encontrar, Windows 7, etc.
@@ -51,7 +51,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * [pastebin de abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
 * [pastebin de abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
 * [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Ferramenta da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
-* [Imagens do Office para Mac](https://macadmins.software/) - Página bem organizada para downloads fornecidos pela MSFT de imagens do Mac Office.
+* [Pacotes do Office para Mac](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac) - Página bem organizada para downloads fornecidos pela MSFT de imagens do Mac Office.
 
 ## ► **Adblockers & Bypassers**
 
