@@ -41,7 +41,7 @@ Catálogos disponibilizam os filmes, series, e outros que irão aparecer na tela
 Cinemeta já vem pre instalado com o Stremio, e não é removível, ele somente possui informações em inglês, que podem estar desatualizadas, contudo, é interessante ter outro add-on de catálogo. 
 
 :::info Rating Poster Database (RPDB).
-Alguns add-ons fornecem suporte ao RPDB, que fornece avaliações nas capas do catálogo. Use a chave ==t0-free-rpdb== para usar o tier gratuito.
+Alguns add-ons fornecem suporte ao RPDB, que fornece avaliações nas capas do catálogo. Use a chave **t0-free-rpdb** para usar o tier gratuito.
 :::
 
 - [🎬 Cyberflix Catalog](https://stremio-addons.com/cyberflix-catalog.html) — Fornece o catálogo de várias fontes. 
