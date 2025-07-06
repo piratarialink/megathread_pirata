@@ -24,8 +24,6 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 **[Hottok](https://t.me/hottoknowbot)** — Bot do Telegram que desnuda fotos.
 
-**[Just another library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion)** — Scan de revistas pornô, acesso somente na rede onion.
-
 **[Os Reformados](https://osreformados.com/)** — Já existe streaming para isso, mas pode baixar sem assistir primeiro se estiver carente.
 
 
