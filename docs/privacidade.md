@@ -33,7 +33,6 @@ O Navegador Mullvad é uma versão do Navegador Tor com as integrações da rede
 
 - Anti-Fingerprinting
 - Modo de navegação privata
-- uBlock Origin
 
 :::info Disponível para Windows e Linux.
 :::
@@ -58,9 +57,9 @@ Todavia requer que o usuário configure de maneira manual, para uma privacidade 
 
 O Cromite é um fork do Chromium baseado no fork do Bromite com bloqueio de anúncios e aprimoramentos de privacidade.
 
-- Anti-Fingerprinting (Enhanced)
+- Anti-Fingerprinting
 - Adblock Plus
-- Chromium-based
+- Baseado em Chromium
 
 :::info Disponível para Android, Windows e Linux.
 ::: 
