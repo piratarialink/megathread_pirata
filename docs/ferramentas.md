@@ -251,7 +251,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 * [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download.
 * [Download Manager](https://github.com/amir1376/ab-download-manager) - Aplicativo para desktop que o ajuda a organizar e manter seus downloads.
 * [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar vídeos de várias plataformas.
-* **[Pago]** [StreamFab](https://streamfab.com/) - Focado em download para plataformas de streaming.
+* [StreamFab](https://streamfab.com/) - Focado em download para plataformas de streaming. Baixa vídeos da Globoplay.
 * [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 GiB por 6 horas do Mega.
 * [Skillshare-dl](https://github.com/mrwnwttk/skillshare-dl) - Baixe do skillshare. [Tópico original.](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/)
 * [Outro Skillshare-dl](https://github.com/KENWAY/Skillshare-DL) - Baixe do skillshare
