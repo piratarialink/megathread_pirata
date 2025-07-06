@@ -21,7 +21,11 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 ### 🔗 [Baixe Livros](https://www.baixelivros.com.br/) 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixelivros.com.br/) 
 ### 🔗 [Info Livros](https://www.infolivros.org/) 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/infolivros.org/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/infolivros.org/)
+### 🔗 [Meulivro.biz](https://www.meulivro.biz/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/www.meulivro.biz/)
+### 🔗 [PDF Room](https://pdfroom.com)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/pdfroom.com/)
 ### 🔗 [Docero](https://doceru.com/) 
 - Após apertar F12, na aba console, aperte "Ctrl+F" e procure por getpdf, encontrará isso: `https://stream.doceru.com/getpdf/...` só copiar e colar em outra aba.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doceru.com/) 
@@ -324,7 +328,6 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 
 ## 📑 ➜ No Telegram 
 ### 🤖 [Lestrad - Bibliotecário](https://t.me/lestrad_repost_bot)
-### 📣 [JORNAIS & REVISTAS ONLINE](https://t.me/onjornal)
 ### 📣 [Tudo de Bom em AUDIOLIVROS](https://t.me/Tudo_de_BOM_em_AUDIOLIVROS)
 ### 📣 [ITSBooks](https://t.me/ITSBooks)
 ### 📣 [QG - Baltigo mangás](https://t.me/MangasBrasil)
