@@ -183,12 +183,6 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [SickChill](https://sickchill.github.io/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [Lidarr](https://lidarr.audio/) - Um Radarr para álbuns musicais.
 
-## ► Ferramentas de mídia
-
-* [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
-* **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Plugin para acrescentar a opção de converter vídeos para MP4 no After Effects.
-* [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
-
 ## ► Gerenciadores de download
 
 > São úteis para sites DDL. Gerenciadores de download como esses destinam-se a ajudar a acelerar os downloads, geralmente aumentando o número de conexões com o servidor ou tentando dividir o download em partes. Eles também são especialmente úteis ao obter vários links de uma só vez, o que é típico de sites DDL, onde eles dividem grandes downloads em várias pequenas partes `.rar`, além de ignorar captchas e eliminar os riscos de clicar no link errado botão de download em vários hosts de arquivo. Eles também ajudam a retomar downloads pausados ​​ou expirados que seu navegador pode não ser capaz de fazer em alguns casos.
@@ -210,25 +204,13 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito do real-debrid
 - **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid
 - **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também
-- **[Teste pago / gratuito]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
+- **[Trialware / gratuito]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
 - [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd
 - [Reevown](https://reevown.com/) - Este é um "serviço de download gratuito com o qual você pode realizar downloads premium".
 - [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium
 - **[Pago]** [Linksnappy](https://linksnappy.com/) - Agregador de conteúdo que "permite extrair arquivos de vários serviços de armazenamento em nuvem"
 
-## ► Ferramentas de download on-line
-
-- [Cobalt](https://cobalt.tools/) - Baixe vídeos/áudios do youtube, tiktok, reddit, twitter e mais.
-- [Vidall](https://vidall.mobi/) - Baixe vídeos/áudios do youtube, tiktok, reddit, twitter e mais.
-- [y2mate](https://www.y2mate.com/) - Baixe o vídeo/áudio do youtube. (Não funciona mais nos EUA)
-- [9xbuddy](https://9xbuddy.online/) - Youtube / site de download de vários sites
-- [sasrip](https://sasrip.cf/) - Downloader de vídeo / mp3
-- [tomato](https://tomato.to/) - Downloader de fotos. Shutterstock, getty, adobestock, etc.
-- [calameodownload](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento Calameo público como imagens ou PDF otimizado
-- [Cnvmp3](https://cnvmp3.com/) - Converta vídeos do YouTube para MP3 ou MP4 e baixe-os com este conversor rápido e gratuito do YouTube. O CnvMP3 é livre de anúncios, seguro e suporta qualidade de até 320 kbps.
-- [Ezmp3](https://ezmp3.co/) - EzMP3 é o conversor de YouTube para MP3 sem anúncios que permite converter vídeos de até 12 horas de duração. Você pode cortar o áudio e escolher uma taxa de bits de 64 kbps a 320 kbps.
-
-## ► Outras ferramentas de download
+## ► Ferramentas de download
 
 * [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
 * [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto de vários sites e muito mais.
@@ -260,6 +242,25 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 * **[Pago]** [Katomart](https://katomart.com/) - Aplicativo em fase de testes que faz o download de vídeos de plataformas EAD, tudo dentro da lei.
 * [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de GetComics.info facilmente
 * [get_iplayer](https://github.com/get-iplayer/get_iplayer) - Para baixar o vídeo do iPlayer da BBC
+
+## ► Ferramentas de download on-line
+
+- [Cobalt](https://cobalt.tools/) - Baixe vídeos/áudios do youtube, tiktok, reddit, twitter e mais.
+- [Vidall](https://vidall.mobi/) - Baixe vídeos/áudios do youtube, tiktok, reddit, twitter e mais.
+- [y2mate](https://www.y2mate.com/) - Baixe o vídeo/áudio do youtube. (Não funciona mais nos EUA)
+- [9xbuddy](https://9xbuddy.online/) - Youtube / site de download de vários sites
+- [sasrip](https://sasrip.cf/) - Downloader de vídeo / mp3
+- [tomato](https://tomato.to/) - Downloader de fotos. Shutterstock, getty, adobestock, etc.
+- [calameodownload](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento Calameo público como imagens ou PDF otimizado
+- [Cnvmp3](https://cnvmp3.com/) - Converta vídeos do YouTube para MP3 ou MP4 e baixe-os com este conversor rápido e gratuito do YouTube. O CnvMP3 é livre de anúncios, seguro e suporta qualidade de até 320 kbps.
+- [Ezmp3](https://ezmp3.co/) - EzMP3 é o conversor de YouTube para MP3 sem anúncios que permite converter vídeos de até 12 horas de duração. Você pode cortar o áudio e escolher uma taxa de bits de 64 kbps a 320 kbps.
+
+## ► Ferramentas de mídia
+
+* [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
+* **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Plugin para acrescentar a opção de converter vídeos para MP4 no After Effects.
+* [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
+* [Dash-MPD-File](https://github.com/emarsden/dash-mpd-cli) - Uma aplicação cli para download de mídia em manifests MPD (MPEG_DASH).
 
 ## ► **Segurança**
 
