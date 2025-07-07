@@ -47,13 +47,17 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [Freek.to](https://freek.to/)
 - Freek.to aparentemente comprou o Binged
-- Uma infinidade de filmes, séries e animes. Aceita legenda que vc baixou de outros sites.
+- Infinidade de filmes, séries e animes. Aceita legenda que vc baixou de outros sites.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/freek.to/) 
 
 ### 🌟 [HydraHD](https://hydrahd.me/)
 - Sem precisar se inscrever, aproveite filmes e séries gratuitos em streaming na maior biblioteca.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hydrahd.me/)
 
+### 🌟 [P-Stream](https://pstream.org/)
+- Filmes e séries em alta qualidade
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pstream.org/)
+  
 ### 🌟 [Cinema Deck](https://cinemadeck.com/)
 - Mergulhe em um mundo de entretenimento ilimitado com milhares de filmes e programas de TV abrangendo vários gêneros.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cinemadeck.com/) 
