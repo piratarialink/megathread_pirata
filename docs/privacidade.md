@@ -42,7 +42,7 @@ O Navegador Mullvad é uma versão do Navegador Tor com as integrações da rede
 O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Habilita o recurso upstreamed do RFP pelo projeto Tor Uplift e já vem com o Ublock Origin pré-instalado.
 
 - Tecnologia Anti-Fingerprinting (Forte)
-- Não é afiliado com a Mozila Foundation
+- Não é afiliado com a Mozilla Foundation
 - Sem telemetria (coleta de dados sobre o uso do usuário)
 
 ![Librewolf](public/images/librewolf.png)
