@@ -13,7 +13,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 🖥 **Transmissão de canais ao vivo**
+## 🖥 **Transmissão ao vivo**
 
 ### 🌟 [Rede Canais TV](https://redecanaistv.gs/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/) 
 
@@ -50,7 +50,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
   
 ### 🔗 [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) - Agregação de IPTV em massa
 
-## 🏟 **Esportes**
+## 🏟 **Gravações**
 
 ### 🌟 [Rede Canais TV](https://redecanaistv.gs/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/) 
 
