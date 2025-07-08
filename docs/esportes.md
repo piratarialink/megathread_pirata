@@ -32,7 +32,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tvonline.fan/)
 
-### 📺️ [Futemax](https://futemax.moi/) [2](https://futemax.rent/) / [3](https://futemax.luxe/)
+### 📺️ [Futemax](https://futemax.moi/) / [2](https://futemax.rent/) / [3](https://futemax.luxe/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.rent/)
 
