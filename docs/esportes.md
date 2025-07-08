@@ -24,7 +24,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
 
-### 📺️ [PirataTV](https://piratatvs.com/)
+### 📺️ [Tv0800](https://tv0800.pro/esportes/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/piratatvs.com/)
 
@@ -32,7 +32,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tvonline.fan/)
 
-### 📺️ [Futemax](https://futemax.rent/) / [2](https://futemax.luxe/)
+### 📺️ [Futemax](https://futemax.moi/) [2](https://futemax.rent/) / [3](https://futemax.luxe/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.rent/)
 
@@ -50,26 +50,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
   
 ### 🔗 [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) - Agregação de IPTV em massa
 
-## 🏟 **Gravações**
-
-### 🌟 [Rede Canais TV](https://redecanaistv.gs/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/) 
-
-- Oferece Canais de Esportes também
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.gs/)
-
-### 📺️ [TV0800](https://tv0800.pro/)
-
-- Oferece Canais ao vivo
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.pro/)
-
-### 📺️ [MegaCanais](https://megacanais.com/ao-vivo/esportes-ao-vivo_/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/megacanais.com/)
-
-### 📺️ [f1carreras.net](https://f1carreras.net/) - Necessário Cadastrar-se
-
-- Torrent de Formula 1 com gravações de treinos, qualificações, sprints e corridas em português, inglês, espanhol, alemão e opção sem narração
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/f1carreras.net/)
+## 🏟 **Reprises**
 
 ### 📺️ [Footballia](https://footballia.net/)
 
