@@ -88,7 +88,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🧲 [Bitsearch](https://bitsearch.to/)
 
-- Mecanismo de pesquisa avançado que simplesmente reúne metadados de torrent, como títulos de arquivo, tamanhos de arquivo e um link magnético para fornecer ao visitante.
+- Mecanismo de pesquisa avançado que coleta metadados de torrent, como títulos de arquivo, tamanhos de arquivo e um link magnético para fornecer ao visitante.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bitsearch.to/)
 
 ### 🧲 [BT4G](https://bt4g.org/)
@@ -113,17 +113,17 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🧲 [Knaben Database](https://knaben.eu/)
 
-- Reino do domínio da web e do Linux por meio da evolução da impressionante ferramenta de indexação de múltiplas pesquisas.
+- Reúne torrents por meio de uma impressionante ferramenta de indexação de múltiplos trackers.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/knaben.eu/)
 
 ### 🧲 [LimeTorrents](https://www.limetorrents.lol/)
 
-- Um serviço de compartilhamento de arquivos ponto a ponto que oferece aos usuários uma variedade de conteúdo, como arquivos de música, arquivos de vídeo e arquivos de software.
+- Um serviço peer-to-peer de compartilhamento de arquivos que oferece aos usuários uma variedade de conteúdo, como arquivos de música, vídeo e arquivos de software.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/limetorrents.lol/)
 
 ### 🧲 [RARBG Dump Index](https://rarbgdump.com/)
 
-- Como um diretório de índice, o RARBG caído é preservado, com todos os rastreadores públicos novos e antigos adicionados.
+- Como forma de manter o seu legado, o RARBG caído é preservado, com todos os rastreadores públicos novos e antigos adicionados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rarbgdump.com/)
 
 ### 🧲 [Rustorka](https://rustorka.com/forum/index.php) • Interface em russo
