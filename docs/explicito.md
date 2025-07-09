@@ -24,7 +24,7 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 **[Hottok](https://t.me/hottoknowbot)** — Bot do Telegram que desnuda fotos.
 
-**[Os Reformados](https://osreformados.com/)** — Já existe streaming para isso, mas pode baixar sem assistir primeiro se estiver carente.
+**[Os Reformados](https://osreformados.com/)**.
 
 
 
