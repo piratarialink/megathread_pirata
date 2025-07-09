@@ -54,7 +54,18 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/openlibrary.org/) 
 ### 🌟 [Projeto Z-Library](https://z-library.sk/) • Necessário Cadastrar-se 
 - Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, textos acadêmicos e livros de interesse geral.
+- [Checar URLs atualizadas](https://www.reddit.com/r/zlibrary/wiki/index/access/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/z-library.sk/) 
+- A melhor forma para usar o Z-Library é via Bot no Telegram, após se cadastrar no site, siga as etapasde criação do BOT para usufruir sem a necessidade de entrar no site para pesquisar e baixar a maioria dos livros (só precisará baixar pelo site os arquivos maiores que 50 Mb). Caso saiba inglês, você pode seguir [esse guia](https://www.reddit.com/r/zlibrary/wiki/index/access/#wiki_how_to_access_zlibrary_through_your_personal_telegram_bot) do próprio reddit deles, ou siga o passo a passo a seguir, de preferência na rede Tor para não ter dificuldade em entrar no site devido restrições de DNS. [Link 1](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) ou [Link 2](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/)
+1. No Telegram, chame o @BotFather e rode o comando /newbot em seguida defina um nome, usuário (deve ter BOT no sufixo). No final do processo ele vai te dar uma API, copie essa API e cole no site do Z-Library conforme a próxima etapa
+2. Uma vez logado no site, abra o menu lateral (ao lado do ícone do perfil), vá em Z-Access e na janela que se abrir, escolha a opção Telegram BOT, faça o login e siga os passos indicados e pule para o passo 4. Caso não consiga realizar por lá, vá para o próximo passo.
+3. No site que você realizou o cadastro, vá para o final da página até localizar o rodapé, lá terá alguns ícones. Acima dos ícones **Z-Library Desktop App** e **Z-Library Tor version**, terá o ícone **Official Channel** (X/Twitter) e ao lado o ícone do Telegram. Clique nele e vai aparecer uma janela com as instruções para a criação do bot conforme já explicado anteriormente, no final há um campo para você inserir a última mensagem que o @BotFather encaminhou (a que tem o TOKEN de acesso), copie e cole a mensagem completa e clique em **Connect**. Pronto, seu bot já está conectado.
+4. Na própria mensagem do @BotFather em que ele te fornece a API, ele já te dá o link para o seu bot. CClique nele para cair na página do bot.
+5. O uso é simples, para pesquisar o nome de qualquer livro, basta mandar uma mensagem com o nome do livro que ele já vai te retornar com o resultado da pesquisa exibindo o nome do livro, formato, idioma e autor. Ao clicar no link da versão desejada ele te encaminha o arquivo. Lembrando que há uma cota para baixar até 10 livros por dia, mas, utilizando o bot eles dobram esse limite, podendo baixar até 20 arquivos, então não exagere clicando em várias versões do mesmo livro se não terá que aguardar 24h para resetar a contagem.
+
+
+Caso você opte por usá-lo atravês do navegador, é aconselhável sempre consultar o endereço atualizado do site, para isso, utilize a página do [Reddit](https://www.reddit.com/r/zlibrary/wiki/index/access/#wiki_how_to_access_zlibrary_through_your_browser). Até por esse tipo de restrição e bloqueio que as operadoras realizam, encorajamos o uso do Bot do Telegram, que não sofre com essas restrições e bloqueios.
+- Lembrando que o bot é válido apenas para seu usuário, ou seja, não adianta compartilhar ele com outras pessoas pois ele só responde aos seus comandos.
 
 ## 💥 ➜ Quadrinhos 
 
