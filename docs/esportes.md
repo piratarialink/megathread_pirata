@@ -24,7 +24,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
 
-### 📺️ [Tv0800](https://tv0800.pro/esportes/)
+### 📺️ [TV0800](https://tv0800.pro/esportes/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/piratatvs.com/)
 
