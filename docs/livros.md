@@ -147,6 +147,11 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - Basicamente, a versão PC do Tachiyomi.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
+### ▶️ [Aniyomi](https://aniyomi.org/) 
+
+- Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de mangá! Instalando as extensões ele vira o melhor app para assistir e baixar mangás (e animes também).
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/aniyomi.org/)
+
 ### 🔗 [Tachimanga](https://tachimanga.app/)
 
 - Leitor de mangá para IOS. É preciso adicionar as fontes dentro do app, as melhores são mangadex e mangafire.
