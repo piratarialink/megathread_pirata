@@ -69,7 +69,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [Sharemania](https://sharemania.us/)
 
-- O melhor fórum para se encontrar performances em HD de artistas internacionais e álbuns lossless.
+- O melhor fórum para se encontrar performances em HD de artistas internacionais, álbuns lossless e sons em AC3 (Dolby Atmos).
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/sharemania.us/)
 
 ### 🔗 [SquidWTF](https://us.qobuz.squid.wtf/)
