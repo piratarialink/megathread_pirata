@@ -21,6 +21,10 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 - **Better Anime** está com restrições de DMCA, mas funciona normalmente pelo app ou pelo site após login. Se não logar, ele não funcionará.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/betteranime.net/)
 
+### 🌟 [Rede Canais](https://redecanais.gl/browse-animes-videos-1-date.html)
+- Incrível coleção de animes em excelente qualidade e dublados em PT-BR.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/redecanais.gl/)
+  
 ### ▶️ [Aniyomi](https://aniyomi.org/) 
 
 - Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
