@@ -119,6 +119,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## 🎵 ➜ Aplicativos para Desktop
 
+### 🖥️ [Deemix](https://github.com/bambanah/deemix)
+
+- Revival do projeto do deemix team que pode baixar qualquer arquivo do deezer.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
 ### 🖥️ [ytDownloader](https://ytdn.netlify.app/)
 
 - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
