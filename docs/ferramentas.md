@@ -183,6 +183,14 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [SickChill](https://sickchill.github.io/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [Lidarr](https://lidarr.audio/) - Um Radarr para álbuns musicais.
 
+## ► Ferramentas de mídia
+
+* [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente audio codec AC3.
+* [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
+* **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Plugin para acrescentar a opção de converter vídeos para MP4 no After Effects.
+* [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
+* [Dash-MPD-File](https://github.com/emarsden/dash-mpd-cli) - Uma aplicação cli para download de mídia em manifests MPD (MPEG_DASH).
+
 ## ► Gerenciadores de download
 
 > São úteis para sites DDL. Gerenciadores de download como esses destinam-se a ajudar a acelerar os downloads, geralmente aumentando o número de conexões com o servidor ou tentando dividir o download em partes. Eles também são especialmente úteis ao obter vários links de uma só vez, o que é típico de sites DDL, onde eles dividem grandes downloads em várias pequenas partes `.rar`, além de ignorar captchas e eliminar os riscos de clicar no link errado botão de download em vários hosts de arquivo. Eles também ajudam a retomar downloads pausados ​​ou expirados que seu navegador pode não ser capaz de fazer em alguns casos.
@@ -254,13 +262,6 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [calameodownload](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento Calameo público como imagens ou PDF otimizado
 - [Cnvmp3](https://cnvmp3.com/) - Converta vídeos do YouTube para MP3 ou MP4 e baixe-os com este conversor rápido e gratuito do YouTube. O CnvMP3 é livre de anúncios, seguro e suporta qualidade de até 320 kbps.
 - [Ezmp3](https://ezmp3.co/) - EzMP3 é o conversor de YouTube para MP3 sem anúncios que permite converter vídeos de até 12 horas de duração. Você pode cortar o áudio e escolher uma taxa de bits de 64 kbps a 320 kbps.
-
-## ► Ferramentas de mídia
-
-* [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
-* **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Plugin para acrescentar a opção de converter vídeos para MP4 no After Effects.
-* [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
-* [Dash-MPD-File](https://github.com/emarsden/dash-mpd-cli) - Uma aplicação cli para download de mídia em manifests MPD (MPEG_DASH).
 
 ## ► **Segurança**
 
