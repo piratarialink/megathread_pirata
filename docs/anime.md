@@ -24,11 +24,6 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### 🌟 [Rede Canais](https://redecanais.gl/browse-animes-videos-1-date.html)
 - Incrível coleção de animes em excelente qualidade e dublados em PT-BR.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/redecanais.gl/)
-  
-### ▶️ [Aniyomi](https://aniyomi.org/) 
-
-- Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de anime! Instalando as extensões ele vira o melhor app para assistir e baixar animes.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/aniyomi.org/)
 
 ### ▶️ [Anroll](https://www.anroll.net/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anroll.net/)
