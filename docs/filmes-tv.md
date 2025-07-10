@@ -18,7 +18,13 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 🌟 [Rede Canais](https://redecanais.ps/) / [2](https://redecanais.fi/) / [3](https://redecanais.ps/) 
 - Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.ps/)
- 
+
+### ▶️ [NetCine](https://netcinehd.si/) 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcinehd.si/)
+
+### ▶️ [Seu Seriado](https://seuseriados.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/seuseriados.com/)
+  
 ### ▶️ [Encontrei.tv](https://encontre.tv/) 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/) 
 
