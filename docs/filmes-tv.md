@@ -201,7 +201,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 📺️ [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) 
 - Agregação de IPTV em massa
 
-## 📱 ➜ Celular
+## 📱 Celular
 
 ### 🌟 [Stremio](https://www.stremio.com/) + [Add-ons de dublagem PT-BR](/guias/guia-stremio) - [Nota Importante!](/outros/stremio.md) 
 
