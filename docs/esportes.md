@@ -52,6 +52,10 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ## 🏟 **Reprises**
 
+### 🌟 [FullReplays](https://www.fullreplays.com/)
+
+- Reassista na íntegra jogos de futebol, com narração em português brasileiro para algumas ocasiões apenas.
+  
 ### 📺️ [Footballia](https://footballia.net/)
 
 - Footballia é um site gringo onde você pode assistir a replays de jogos de futebol completos gratuitamente. Uma partida estará disponível no site 30 dias após ser transmitida.
@@ -61,10 +65,6 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 :::info Acho que os sites abaixo só oferecem narrações em inglês 👇️
 :::
-
-### 🌟 [FullReplays](https://www.fullreplays.com/)
-
-- Reassista na íntegra jogos de futebol, com narração em português brasileiro para algumas ocasiões apenas.
 
 ### 📺️ [FullFights](https://watchmmafull.com/)
 
