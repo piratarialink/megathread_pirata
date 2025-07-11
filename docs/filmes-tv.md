@@ -201,6 +201,23 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 📺️ [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) 
 - Agregação de IPTV em massa
 
+## 📱 ➜ Celular
+
+### 🌟 [Stremio](https://www.stremio.com/) + [Add-ons de dublagem PT-BR](/guias/guia-stremio) - [Nota Importante!](/outros/stremio.md) 
+
+- Aplicativo de streaming que permite assistir vídeos, filmes e séries de TV.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/stremio.com/)
+
+### 🌟 [Streamyfin](https://github.com/streamyfin/streamyfin)
+
+- Cliente do Jellyfin para gerenciar arquivos com facilidade.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [Comp Study](https://apps.apple.com/br/app/comp-study/id6742147905) 
+
+- Biblioteca de filmes e séries para assistir no IOS.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apps.apple.com/)
+  
 ## 🧵 Torrents 
 
 ### 🌟 [Starck Filmes](https://www.starckfilmes.com/) 
