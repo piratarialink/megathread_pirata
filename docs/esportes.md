@@ -62,47 +62,23 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 :::info Acho que os sites abaixo só oferecem narrações em inglês 👇️
 :::
   
-### 📺️ [sportsurge.net](https://sportsurge.net/)
+### 📺️ [Sportsurge](https://sportsurge.net/)
 
-- Transmissões ao vivo. MMA, boxe, automobilismo, basquete, futebol americano, hóquei
+- Transmissões ao vivo. MMA, boxe, automobilismo, basquete, futebol português, hóquei.
 
-### 📺️ [sporthd.live](https://sporthd.live/)
-
-- Transmissões ao vivo. Futebol, MMA, handebol, basquete, rúgbi, futebol americano, tênis e outros
-
-### 📺️ [sportsbay.sx](https://sportsbay.sx/)
-
-- Transmissões ao vivo. Futebol, futebol americano, basquete, hóquei, beisebol, NCAA, tênis, críquete, esportes motorizados
-
-### 📺️ [worldcupfootball.me](https://www.worldcupfootball.me/)
+### 📺️ [SportsHD](https://www.worldcupfootball.me/)
 
 - Transmissões ao vivo. MMA, beisebol, basquete, futebol americano, hóquei, NCAAF, NCAAM
 
-### 📺️ [6stream.xyz](https://6stream.xyz/)
-
-- Transmissões ao vivo. MMA, beisebol, basquete, futebol americano, hóquei, NCAAF
-
-### 📺️ [bilasport.net](https://bilasport.net/index.html)
-
-- Transmissões ao vivo. MMA, beisebol, basquete, futebol americano, hóquei
-
-### 📺️ [720pstream.me](https://www.720pstream.me/)
-
-- Transmissões ao vivo. MMA, beisebol, basquete, futebol americano, hóquei, NCAAF, NCAAM
-
-### 📺️ [ripple.is](https://ripple.is/)
-
-- Transmissões ao vivo. Futebol, MMA, boxe, automobilismo, basquete, futebol americano
-
-### 📺️ [nflbite.com](https://home.nflbite.com/)
+### 📺️ [NFLBite](https://home.nflbite.com/)
 
 - Transmissões ao vivo. Futebol americano
 
-### 📺️ [nbabite.com](https://nbabite.com/)
+### 📺️ [NBABite](https://nbabite.com/)
 
 - Transmissões ao vivo. MMA (UFC)
 
-### 📺️ [mmastreams.cc](https://tonight.mmastreams.cc/)
+### 📺️ [MMA Streams](https://tonight.mmastreams.cc/)
 
 
 - Transmissões ao vivo. Basquetebol
@@ -111,13 +87,9 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - Torrents. Subfórum de esportes no rutracker
 
-### [sport-video.org.ua](https://www.sport-video.org.ua/)
+### [Sport Video](https://www.sport-video.org.ua/)
 
 - Torrent futebol, automobilismo, beisebol, basquete, futebol, hóquei, rugby, outros
-
-### [nbafullhd.com](https://www.nbafullhd.com/)
-
-- Replays. Basquetebol, futebol, F1
 
 ## 🟠 Subreddits
 
