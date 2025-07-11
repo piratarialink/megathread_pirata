@@ -95,17 +95,17 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - Transmissões ao vivo. Basquetebol
 
-### [rutracker.org > Esportes](https://rutracker.org/forum/index.php?c=28)
+### 📺️ [rutracker.org > Esportes](https://rutracker.org/forum/index.php?c=28)
 
 - Torrents. Subfórum de esportes no rutracker
 
-### [Sport Video](https://www.sport-video.org.ua/)
+### 📺️ [Sport Video](https://www.sport-video.org.ua/)
 
 - Torrent futebol, automobilismo, beisebol, basquete, futebol, hóquei, rugby, outros
 
 ## ▶️ Add-ons para o Stremio
 
-### [Formulio](https://formulio.hayd.uk/) 
+### 🔗 [Formulio](https://formulio.hayd.uk/) 
 
 - É possível assistir replays de Fórmula 1 via o sinal da Sky Sports Britânica. **Use-o com o Stremio no computador.**
 
