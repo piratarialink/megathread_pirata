@@ -234,6 +234,98 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Outra ferramenta alternativa para transferir músicas do Spotify para o YouTube.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/wemor.vercel.app/)
 
+## 📱 ➜ Mobile
+
+### 🔗 [Namida](https://github.com/namidaco/namida) 
+
+- Um reprodutor de música e vídeo bonito e rico em recursos com suporte para Youtube, feito em Flutter.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🌟 [Gyawun](https://jhelumcorp.github.io/)
+
+- Streaming de música de alta qualidade diretamente do seu telefone com facilidade.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/jhelumcorp.github.io/)
+
+### 🌟 [RiMusic](https://fast4x.github.io/RiMusic/)
+
+- Aplicativo Android multilíngue e de código aberto projetado para streaming de música diretamente do YouTube.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/fast4x.github.io/)
+
+### 🔗 [Musify](https://gokadzev.github.io/Musify/) 
+
+- Aplicativo de streaming e download de músicas feito em Flutter!
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gokadzev.github.io/) 
+
+### 🔗 [LibreTube](https://libre-tube.github.io/) 
+
+- Assista, ouça e baixe vídeos do youtube. Também oferece a capacidade de baixar do soundcloud.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/libre-tube.github.io/)
+
+### 🌟 [Newpipe](https://newpipe.net/) 
+
+- Assista e baixe vídeos do youtube. Também oferece a capacidade de baixar do soundcloud.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/newpipe.net/)
+
+### 🔗 [SongTube](https://github.com/SongTube/SongTube-App) 
+
+- App Simples e Bonito feito em Flutter para Baixar Mídia do YouTube
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [SpMp](https://github.com/toasterofbread/spmp) 
+
+- Um cliente do YouTube Music com foco na personalização de idioma e metadados.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [Vibe You](https://github.com/SuhasDissa/VibeYou)
+
+- Reprodução de música do dispositivo e músicas do Piped, com modo escuro.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🌟 [Spotube](https://spotube.krtirtho.dev/) 
+
+- Cliente Spotify de código aberto que não requer Premium nem usa Electron! Disponível para desktop e celular!
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/spotube.krtirtho.dev/)
+
+### 🔗 [InnerTune](https://github.com/z-huang/InnerTune) 
+
+- Um cliente Material 3 para YouTube Music no Android.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [Harmony Music](https://github.com/anandnet/Harmony-Music)
+
+- Aplicativo de streaming de música multiplataforma criado com Flutter para Android, Windows e Linux.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [LimeMP3](https://limemp3.com/)
+
+- Explore suas músicas preferidas para aqueles dias chuvosos ou quando não há internet.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/limemp3.com/)
+
+### 🔗 [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler/)
+
+- Cliente Android versátil com suporte para Last.fm, ListenBrainz, Libre.fm e GNU FM.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [SimpMusic](https://simpmusic.tech/)
+
+- Transmita facilmente músicas, vídeos, podcasts e rádio de forma totalmente gratuita.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/simpmusic.tech/)
+
+### 🔗 [Soundbound](https://soundbound.app/)
+
+- Media player que suporta consumo contínuo de música com sua biblioteca de música centralizada.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/soundbound.app/)
+
+### 🔗 [Spowlo](https://github.com/BobbyESP/Spowlo)
+
+- Downloader do Spotify utilizando o poder do Jetpack Compose, Material You e a biblioteca spotDL Python.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🌟 [xManager](https://www.xmanagerapp.com/) 
+
+- App para instalar Spotify sem anúncios.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/xmanagerapp.com/)
+  
 ## 📢 ➜ No Telegram
 
 ### 🤖 [DeezLoad](https://t.me/deezload2bot)
