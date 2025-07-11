@@ -57,10 +57,22 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - Footballia é um site gringo onde você pode assistir a replays de jogos de futebol completos gratuitamente. Uma partida estará disponível no site 30 dias após ser transmitida.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/footballia.net/)
 
-#
+---
 
 :::info Acho que os sites abaixo só oferecem narrações em inglês 👇️
 :::
+
+### 🌟 [FullReplays](https://www.fullreplays.com/)
+
+- Reassista na íntegra jogos de futebol, com narração em português brasileiro para alguns jogos apenas.
+
+### 📺️ [FullFights](https://watchmmafull.com/)
+
+- Permite rever lutas do UFC 317 e PFL.
+
+### 📺️ [Watch F1 Full](https://watchf1full.com/)
+
+- Replays gratuitos da Fórmula 1 e MotoGP.
   
 ### 📺️ [Sportsurge](https://sportsurge.net/)
 
@@ -95,7 +107,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### [Formulio](https://formulio.hayd.uk/) 
 
-- Sinal da Sky Sports Britânica.
+- É possível assistir replays de Fórmula 1 via o sinal da Sky Sports Britânica. **Use-o com o Stremio no computador.**
 
 ## Quer saber mais sobre transmissões ao vivo?
 
