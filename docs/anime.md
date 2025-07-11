@@ -137,5 +137,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 ### 🔗 [GoAnime](https://github.com/alvarorichard/GoAnime)
 - Ferramenta CLI que baixa animes em PT-BR (Dublado ou legendado).
 
+---
+
 **Está buscando apps para assistir ou baixar animes no celular?**  
 Confira nosso tópico sobre 📱 [Mobile](mobile#📑-➜-anime-e-manga)
