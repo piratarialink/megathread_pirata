@@ -23,6 +23,7 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 
 ### 🌟 [Rede Canais](https://redecanais.gl/browse-animes-videos-1-date.html)
 - Incrível coleção de animes em excelente qualidade e dublados em PT-BR.
+- Muda constantemente de domínio, para se manter atualizado confira o [discord oficial](https://discord.com/invite/5CPyVb4V).
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/redecanais.gl/)
 
 ### ▶️ [Anroll](https://www.anroll.net/)
