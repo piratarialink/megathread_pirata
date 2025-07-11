@@ -163,7 +163,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Possui diversos recursos, como GUI, netplay e atualizador automatizado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/simple64.github.io/)
 
-### 🔗 [Sudaci](https://github.com/emuplace/sudachi.emuplace.app)
+### 🔗 [Sudachi](https://github.com/emuplace/sudachi.emuplace.app)
 
 - Outro emulador de Switch.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
