@@ -234,7 +234,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Outra ferramenta alternativa para transferir músicas do Spotify para o YouTube.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/wemor.vercel.app/)
 
-## 📱 ➜ Mobile
+## 📱 ➜ Celular
 
 ### 🔗 [Namida](https://github.com/namidaco/namida) 
 
