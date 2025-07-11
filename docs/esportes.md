@@ -112,6 +112,4 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ## Quer saber mais sobre transmissões ao vivo?
 
-➜ Confira a Megathread do [FREEMEDIAHECKYEAH Esportes / transmissão ao vivo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_sports_streaming)
-
-➜ Confira a Megathread do [Champagne Piracy Wiki - Full Replays & Downloads](https://champagne.pages.dev/online-streaming--dl/live-sports/#full-replays--downloads)
+➜ Confira a Megathread do [Champagne Piracy Wiki - Full Replays & Downloads](https://champagne.pages.dev/docs/getting-started/entertainment/live-sports)
