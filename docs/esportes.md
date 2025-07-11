@@ -91,14 +91,11 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - Torrent futebol, automobilismo, beisebol, basquete, futebol, hóquei, rugby, outros
 
-## 🟠 Subreddits
+## ▶️ Add-ons para o Stremio
 
-- /r/rugbystreams - Transmissões ao vivo. Links postados na hora do jogo
-- /r/MLBStreams - Transmissões ao vivo. Links postados na hora do jogo
-- /r/ncaaBBallStreams - Transmissões ao vivo. Links postados na hora do jogo
-- /r/WWEstreams - Transmissões ao vivo. Links postados na hora do jogo
-- /r/mmafights - Transmissões ao vivo. Links postados na hora do jogo
-- /r/motorsportsstreams - Transmissões ao vivo. Links postados na hora do jogo
+### [Formulio](https://formulio.hayd.uk/) 
+
+- Sinal da Sky Sports Britânica.
 
 ## Quer saber mais sobre transmissões ao vivo?
 
