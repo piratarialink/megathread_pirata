@@ -64,7 +64,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### 🌟 [FullReplays](https://www.fullreplays.com/)
 
-- Reassista na íntegra jogos de futebol, com narração em português brasileiro para alguns jogos apenas.
+- Reassista na íntegra jogos de futebol, com narração em português brasileiro para algumas ocasiões apenas.
 
 ### 📺️ [FullFights](https://watchmmafull.com/)
 
