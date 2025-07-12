@@ -290,7 +290,6 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [File Kiwi](https://file.kiwi/) -  Alternativa para o Mega.
 - **[Pago]** [Filedot](https://filedot.to/) - Hospedagem na nuvem.
 - [Take me to space](https://take-me-to.space/) - Hospeda imagens.
-- [Jpg fish](https://jpg5.su/) - Também hospeda imagens.
 
 ## ► Renomeação de arquivos
 
