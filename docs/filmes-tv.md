@@ -204,7 +204,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Aplicativo de streaming que permite assistir vídeos, filmes e séries de TV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/stremio.com/)
 
-### 🌟 [Streamyfin](https://github.com/streamyfin/streamyfin)
+### 🌟 [Ford Browser](https://play.google.com/store/apps/details?id=com.ford.fordbrowser&hl=pt)
+
+- Aplicativo para android com um extenso catálogo de filmes e séries.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)
+  
+### 🔗 [Streamyfin](https://github.com/streamyfin/streamyfin)
 
 - Cliente do Jellyfin para gerenciar arquivos com facilidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
