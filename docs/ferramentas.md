@@ -198,7 +198,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 
 * [JDownloader2](http://jdownloader.org/jdownloader2) - Gerenciador de download que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites.
-* [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente reinicie a avaliação [com isto](https://rentry.org/installidm).
+* **[Trialware]** [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente [faça isso](https://rentry.org/installidm).
 * [Gerenciador de downloads XTREME](https://subhra74.github.io/xdm/) - Outro gerenciador de downloads muito bom
 * [pyLoad](https://pyload.net/) - Gerenciador de downloads leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
 * [aria2](https://aria2.github.io/) - Utilitário de download baseado em linha de comando.
@@ -241,7 +241,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 * [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download.
 * [Download Manager](https://github.com/amir1376/ab-download-manager) - Aplicativo para desktop que o ajuda a organizar e manter seus downloads.
 * [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar vídeos de várias plataformas.
-* [StreamFab](https://streamfab.com/) - Focado em download para plataformas de streaming. Baixa vídeos da Globoplay.
+* **[Trialware]** [StreamFab](https://streamfab.com/) - Focado em download para plataformas de streaming. Baixa vídeos da Globoplay.
 * [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 GiB por 6 horas do Mega.
 * [Skillshare-dl](https://github.com/mrwnwttk/skillshare-dl) - Baixe do skillshare. [Tópico original.](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/)
 * [Outro Skillshare-dl](https://github.com/KENWAY/Skillshare-DL) - Baixe do skillshare
@@ -347,7 +347,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 Para hospedar servidores próprios de rust, minecraft, bot do telegram, storage e outros projetos.
 
 - [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter.
-- [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado na China para burlar o firewall.
+- [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado principalmente na China para burlar o firewall.
 
 ## ► SSH
 
