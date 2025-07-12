@@ -54,7 +54,7 @@ Livros, como mangás, quadrinhos e romances, são um meio de registro de informa
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/openlibrary.org/) 
 ### 🌟 [Projeto Z-Library](https://z-library.sk/) • Necessário Cadastrar-se 
 
-:::info Dica: A melhor forma de se usar o Z-Library é via [bot do Telegram](/outros/zlibrary.md)
+:::info **Dica:** A melhor forma de se usar o Z-Library é via [bot do Telegram](/outros/zlibrary.md)
 :::
 
 - Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, textos acadêmicos e livros de interesse geral.
