@@ -388,16 +388,6 @@ São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de d
 - [Smart Online Fix](https://github.com/BadKiko/steam-online-fix-launcher) - Ferramenta para iniciar e organizar jogos do online-fix-me no Linux.
 - [Free-games-claimer](https://github.com/vogler/free-games-claimer) - Automaticamente reinvidica jogos gratuitos da Epic Games.
 
-#### ► **Launchers de jogos**
-
-- [Legacy Launcher](https://llaun.ch/pt-br)- Launcher seguro para Minecraft, ao contrário do TLauncher
-- [Prism Launcher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked?tab=readme-ov-file) - Desbloqueia o uso de contas offline no Minecraft
-- [Playnite](https://playnite.link/) - Launcher universal de jogos para Windows
-- [GOG Galaxy](https://www.gog.com/galaxy) - Launcher universal de jogos para Windows/MacOS
-- [Lutris](https://lutris.net/) - Launcher universal de jogos para Linux
-- [Bottles](https://flathub.org/apps/com.usebottles.bottles) - Launcher universal de jogos para Linux
-- [Heroic Games Launcher](https://heroicgameslauncher.com/) - Launcher de jogos da Epic e GOG para Linux
-
 #### ► **Ferramentas para Steam**
 
 - [Steam Content Packager](https://cs.rin.ru/forum/viewtopic.php?f=29&t=77526) - Ferramenta para limpar arquivos Steam. Empacota seus arquivos do jogo Steam enquanto remove informações de identificação com o objetivo de compartilhá-los com o subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) de cs.rin.ru
