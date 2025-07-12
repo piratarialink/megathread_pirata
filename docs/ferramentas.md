@@ -26,11 +26,11 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado. Também automatiza funções.
 * 🌟 [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário Windows de Chris Titus Tech - Instalar programas, ajustes, correções e atualizações.
 * [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Uma ferramenta para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 10+.
-* 🌟 [**SophiApp**](https://github.com/Sophia-Community/SophiApp) - A ferramenta de código aberto mais poderoso no GitHub para configurar e fazer debloat do Windows 10 e Windows 11
+* 🌟 [**SophiApp**](https://github.com/Sophia-Community/SophiApp) - A ferramenta de código aberto mais poderosa no GitHub para configurar e fazer debloat do Windows 10 e Windows 11
 * [Optimizer](https://github.com/hellzerg/optimizer) - Uma Ferramenta de configuração avançado projetado para aprimorar sua privacidade e segurança no Windows.
 * [Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Uma ferramenta para “consertar” o Windows 11
 * [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece)
-* [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos open source que não é afiliado com a avast.
+* [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade e que não é afiliado com a avast.
 * 🌟 [**Chocolatey**](https://chocolatey.org/) - Um instalador de linha de comando para o Windows.
 * [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Uma ferramenta leve que torna a barra de tarefas do Windows translúcida/transparente.
