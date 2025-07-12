@@ -70,6 +70,10 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 - Criado com o intuito de compartilhar notícias e releases da cena pirata brasileira. Contém avisos sobre warez/trackers abertos.
 
+### 📣 [UnCopy Group](https://t.me/UnCopyGroup)
+
+- Grupo para quem busca material e papo de qualidade sobre Trackers, Warez e Usenet. Não importa a fonte, seja p2p ou scene.
+  
 ### 🤖 [Search bot](https://t.me/en_SearchBot)
 
 - Substitui a busca nativa e obsoleta do Telegram.
@@ -88,17 +92,17 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🧲 [Bitsearch](https://bitsearch.to/)
 
-- Mecanismo de pesquisa avançado que coleta metadados de torrent, como títulos de arquivo, tamanhos de arquivo e um link magnético para fornecer ao visitante.
+- Procura avançada que coleta metadados de torrent, como títulos de arquivo, tamanhos de arquivo e um link magnético para fornecer ao visitante.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bitsearch.to/)
 
 ### 🧲 [BT4G](https://bt4g.org/)
 
-- Um mecanismo de busca de torrents que usa DHT e o objetivo é facilitar a localização e o download de torrents para todos.
+- Uma forma de busca de torrents que usa DHT, o seu objetivo é facilitar a localização e o download de torrents para todos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bt4g.org/)
 
 ### 🧲 [BTDigg](https://btdig.com/)
 
-- Excelente mecanismo de busca BitTorrent DHT que reúne metadados e retorna links magnéticos em vez de armazenar qualquer material.
+- Excelente motor de busca BitTorrent DHT que reúne metadados e retorna links magnéticos em vez de armazenar material.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/btdig.com/)
 
 ### 🧲 [EXT Torrents](https://ext.to/)
@@ -139,12 +143,12 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🧲 [snowfl](https://snowfl.com/)
 
-- Este agregador de torrent distribui software, filmes, jogos, e-books, programas de TV e música por meio de outros mecanismos de busca de torrent.
+- Este agregador de torrent distribui software, filmes, jogos, e-books, programas de TV e música por meio de outros métodos de busca de torrent.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/snowfl.com/)
 
 ### 🧲 [Torrent Downloads](https://www.torrentdownloads.pro/)
 
-- Banco de dados de torrent considerável com um extenso catálogo apresentando uma gama diversificada de mídia e bem semeado.
+- Banco de dados considerável de torrents com um extenso catálogo, apresentando uma gama diversificada de mídia. Bem semeado.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentdownloads.pro/)
 
 ### 🌟 [TorrentGalaxy](https://torrentgalaxy.to/) / [2](https://torrends.to/proxy/torrentgalaxy)
@@ -159,7 +163,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🧲 [TorrentLite](https://torrentlite.org/)
 
-- Mecanismo de busca contemporâneo que cataloga todas as formas de mídia de entretenimento em todas as categorias.
+- Cataloga todas as formas de mídia de entretenimento em todas as categorias.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentlite.org/)
 
 ### 🧲 [Torrentz2](https://torrentz2.nz/)
