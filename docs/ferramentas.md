@@ -151,7 +151,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 * [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei
 * [PicoTorrent](https://picotorrent.org/) - Cliente de torrent simples e leve
 * [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto
-* [Tixati](https://www.tixati.com/download/) - Extremamente personalizável. Todos os menus podem ser reorganizados e o esquema de cores pode ser alterado completamente.
+* 🌟 [Tixati](https://www.tixati.com/download/) - Extremamente personalizável. Todos os menus podem ser reorganizados e o esquema de cores pode ser alterado completamente.
 * [BiglyBT](https://www.biglybt.com/) - Cliente bittorrent repleto de recursos, código aberto, sem anúncios. Uma continuação do popular cliente anteriormente conhecido como Vuze
 * [Pikatorrent](https://www.pikatorrent.com/) - Ideal para smartphones
 * [kTorrent](https://apps.kde.org/ktorrent/) - cliente Torrent para linux
