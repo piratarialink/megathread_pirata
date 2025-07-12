@@ -306,7 +306,6 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 
 - [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
 - [PopUpOFF](https://popupoff.org/) - Burla pop-ups e bloqueadores.
-- [WVG](https://github.com/FoxRefire/wvg) - Recupera chaves encriptadas de conteúdo protegido com Widevine.
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
 - [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados.
 - [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site.
