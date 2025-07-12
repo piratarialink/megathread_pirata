@@ -163,9 +163,14 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Possui diversos recursos, como GUI, netplay e atualizador automatizado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/simple64.github.io/)
 
+### 🔗 [Snes9x](https://github.com/snes9xgit/snes9x)
+
+- Desenvolvido para jogos do Super Famicom, é atualizado todos os anos e é compatível com linux.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+  
 ### 🔗 [Sudachi](https://github.com/emuplace/sudachi.emuplace.app)
 
-- Outro emulador de Switch.
+- Outro emulador de Switch. Uma boa alternativa para o Ryujinx.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [VisualBoyAdvance-M](https://vba-m.com/) • Game Boy + Advance
@@ -282,11 +287,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - ROMs para Nintendo Switch e outras plataformas são o foco principal.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nesgm.net/)
-
-### 🔗 [nsw2u](https://nsw2u.com/)
-
-- Número de ROMs de switch que você pode baixar com facilidade e segurança.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/nsw2u.com/)
 
 ### 🔗 [NXBrew](https://nxbrew.net/)
 
