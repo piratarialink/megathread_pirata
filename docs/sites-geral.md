@@ -132,7 +132,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🧲 [Rustorka](https://rustorka.com/forum/index.php) • Interface em russo
 
-- Fórum warez proeminente com notícias, discussões sobre muitos gêneros de mídia, torrents e links magnéticos também está disponível para download.
+- Fórum warez proeminente com notícias, discussões sobre muitos gêneros de mídia, torrents e links magnéticos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rustorka.com/)
 
 ### 🌟 [RuTracker](https://rutracker.net/) • Interface em russo
