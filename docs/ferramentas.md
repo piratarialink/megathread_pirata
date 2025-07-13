@@ -265,7 +265,8 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 
 ## ► **Segurança**
 
-- [av-comparatives.org](https://www.av-comparatives.org/) - Testes de proteção antivírus.
+- [av-comparatives.org](https://www.av-comparatives.org/) - Análises de proteção antivírus.
+- [Windows Sandbox](https://learn.microsoft.com/pt-br/windows/security/application-security/application-isolation/windows-sandbox/) - Ambiente de testes.
 - [VirusTotal.com](https://www.virustotal.com/) / [Metadefender](https://metadefender.com/) - Serviços da Web que verificam arquivos e URLs.
 - [Sandboxie](https://sandboxie-plus.com/) - "Sandbox" para PC fraco.
 - [Guia do r/techsupport sobre remoção de malware](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/)
