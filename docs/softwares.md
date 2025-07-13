@@ -100,7 +100,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Banco de dados com uma variedade de programas para Windows, Mac e Linux.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
 ### 🌟 [SoftArchive](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
-- Referência na cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
+- Site referência na cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
 ### 🔗 [Soft Gozar](https://www.softgozar.com/) • Interface em persa 
 - Atualizado frequentemente, com versões completas e irrestritas apenas dos melhores aplicativos disponíveis.
