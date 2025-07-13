@@ -111,15 +111,19 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### 🌟 [DaddyLive](https://www.wirelesshack.org/how-to-install-daddy-live-kodi-addon.html)
 
-- Transmite partidas ao vivo de futebol do Brasil e de outros países.
+- Transmite partidas ao vivo de futebol do Brasil e de outros países com narração em português brasileiro.
 
 ### 🔗 [F1 Rewind](https://mylostsoulspace.co.uk/repo)
 
 - Add-on de reprises da F1TV localizado no repositório do grupo Z3RO. Mesmo método de instalação do DaddyLive.
-  
+
+### 🔗 [Fights On Demand](https://mylostsoulspace.co.uk/repo)
+
+- Outro add-on do grupo Z3R0, replays e lutas em tempo real pelo UFC Fight Pass.
+ 
 ### 🔗 [Formulio](https://formulio.hayd.uk/) 
 
-- É possível assistir replays de Fórmula 1 via o sinal da Sky Sports Britânica. **Use-o com o Stremio no computador.**
+- É possível assistir replays de Fórmula 1 via o sinal da Sky Sports Britânica. **Use-o com o Stremio no desktop.**
 
 ## Quer saber mais sobre transmissões ao vivo?
 
