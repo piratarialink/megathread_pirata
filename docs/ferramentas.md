@@ -406,7 +406,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos com a ajuda de inteligência artificial.
-- [Terabox Downloader](https://t.me/TeraboxDownloader_aBot) - Burla o limite da taxa de donwload do Terabox.
+- [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Burla o limite da taxa de donwload do Terabox.
 - [doc downloader](https://docdownloader.com/) - Downloader de Issuu e Slideshare.
 - [Unddit](https://undelete.pullpush.io/) - Veja posts removidos do reddit.
 - [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries.
