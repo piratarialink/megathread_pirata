@@ -166,8 +166,8 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - 🌟 [**Plex Media Server**](https://www.plex.tv/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
 - 🌟 [**Jellyfin Media Server**](https://jellyfin.org/) - Netflix auto-hospedado de código aberto. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
 - [Plexamp](https://plexamp.com/) - Plex, mas para música. Disponível em ios, mac, windows, linux e android
-- 🌟 [**Emby Media Server**](https://emby.media/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
-- 🌟 [**Kodi**](https://kodi.tv/) - Centro de mídia de home theater. Hospede seu próprio conteúdo ou adicione fontes de conteúdo online [Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/)
+- 🌟 [**Emby Media Server**](https://emby.media/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante a Netflix.
+- 🌟 [**Kodi**](https://kodi.tv/) - Centro de mídia de home theater. Hospeda seu próprio conteúdo ou adicione fontes de conteúdo online [Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/).
 - [OSMC](https://osmc.tv/) - Centro de mídia de home theater. Bifurcado do Kodi, fornece uma interface do usuário simples para Raspberry Pi e Apple TV
 
 ## ► Gerenciadores de mídia / automação
@@ -406,6 +406,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos com a ajuda de inteligência artificial.
+- [Terabox Downloader](https://t.me/TeraboxDownloader_aBot) - Burla o limite da taxa de donwload do Terabox.
 - [doc downloader](https://docdownloader.com/) - Downloader de Issuu e Slideshare.
 - [Unddit](https://undelete.pullpush.io/) - Veja posts removidos do reddit.
 - [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries.
