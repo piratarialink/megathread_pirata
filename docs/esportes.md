@@ -104,13 +104,19 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - Torrent futebol, automobilismo, beisebol, basquete, futebol, hóquei, rugby, outros
 
-## ▶️ Add-ons para o Stremio
+## ▶️ Add-ons
+
+:::info Real Debrid pode ser necessário em alguns casos
+:::
 
 ### 🌟 [DaddyLive](https://www.wirelesshack.org/how-to-install-daddy-live-kodi-addon.html)
 
 - Transmite partidas ao vivo de futebol do Brasil e de outros países.
 
-### 🔗 [F1 Rewind](
+### 🔗 [F1 Rewind](https://mylostsoulspace.co.uk/repo)
+
+- Add-on de reprises da F1TV localizado no repositório do grupo Z3RO. Mesmo método de instalação do DaddyLive.
+  
 ### 🔗 [Formulio](https://formulio.hayd.uk/) 
 
 - É possível assistir replays de Fórmula 1 via o sinal da Sky Sports Britânica. **Use-o com o Stremio no computador.**
