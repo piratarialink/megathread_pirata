@@ -317,7 +317,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 ## ► Telegram
 
 - [Vidsender](https://github.com/viniped/vidsender) - Método mais fácil para upar vários vídeos de uma vez só de forma organizada.
-- [Plus messenger](https://plusmessenger.org/) - Melhoria "visível" na velocidade de upload e download.
+- [Plus messenger](https://plusmessenger.org/) - Melhoria "visível" na velocidade de upload e download em dispositivos móveis.
 - [tg-archive](https://github.com/knadh/tg-archive) - Arquiva grupos no formato HTML estático.
 - [Scanbitbot](https://t.me/scanbitbot) - Mostra o ID de qualquer canal/grupo, seja ele privado ou não.
 - **[Pago]** [SMSPVA](https://smspva.com) - Número virtual internacional para usar o Telegram com segurança e contornar restrições a nível regional. Utilize uma VPN do país escolhido quando for se registrar.
