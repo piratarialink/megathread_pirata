@@ -77,7 +77,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### 🔗 [Fights On Demand](https://mylostsoulspace.co.uk/repo)
 
-- Outro add-on do grupo Z3R0, replays e lutas em tempo real pelo UFC Fight Pass.
+- Outro add-on do grupo Z3R0, replays e lutas em tempo real pelo UFC Fight Pass. **Procure por "Non Debrid UFC Replays.**
  
 ### 🔗 [Formulio](https://formulio.hayd.uk/) 
 
