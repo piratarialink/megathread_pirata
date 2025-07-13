@@ -106,6 +106,11 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ## ▶️ Add-ons para o Stremio
 
+### 🌟 [DaddyLive](https://www.wirelesshack.org/how-to-install-daddy-live-kodi-addon.html)
+
+- Transmite partidas ao vivo de futebol do Brasil e de outros países.
+
+### 🔗 [F1 Rewind](
 ### 🔗 [Formulio](https://formulio.hayd.uk/) 
 
 - É possível assistir replays de Fórmula 1 via o sinal da Sky Sports Britânica. **Use-o com o Stremio no computador.**
