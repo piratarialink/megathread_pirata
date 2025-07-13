@@ -22,7 +22,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🌟 [**SoftArchive**](https://softarchive.is/) / [**2**](https://sanet.lc/) / [**3**](https://sanet.st/) / [4](https://sanet.ws/)
 
-- Referência na cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
+- Site referência na cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
 
 ### 🌟 [**TRaSH Guides**](https://trash-guides.info/) 
@@ -32,7 +32,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🌟 [**Hattered**](https://mefrraz.github.io/hattered/index.html) 
 
-- Site bilíngue com dicas, guias e uma biblioteca de conteúdo livre online.
+- Página bilíngue com dicas, guias e uma biblioteca de conteúdo livre online.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mefrraz.github.io/hattered/)
 
 ### 🔗 [AlternativeTo](https://alternativeto.net/)
