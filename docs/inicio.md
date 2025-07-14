@@ -1,4 +1,4 @@
-# 📜 ➜ Bem-vindo à Megathread do c/Pirataria
+# 📜 ➜ Bem-vindo à Megathread Pirata
 
 ---
 
