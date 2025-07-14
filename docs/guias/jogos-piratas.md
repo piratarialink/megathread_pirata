@@ -258,7 +258,7 @@ Observe que nenhum desses sites fornece downloads, apenas informações sobre la
 
 - [Myrient](https://myrient.erista.me/)
 
-- [NXBrew](https://nxbrew.com) - Nintendo Switch
+- [NXBrew](https://nxbrew.net) - Nintendo Switch
 
 - [TheRomDepot](https://theromdepot.com)
 
