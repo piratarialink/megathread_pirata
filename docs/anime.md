@@ -15,9 +15,9 @@ Anime é um estilo de animação originário do Japão, desenhado à mão ou por
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 🖥 ➜ Streaming
+### 🖥 ➜ Streaming
 
-### 🌟 [Better Anime](https://betteranime.net/)
+#### 🌟 [Better Anime](https://betteranime.net/)
 - **Better Anime** está com restrições de DMCA, mas funciona normalmente pelo app ou pelo site após login. Se não logar, ele não funcionará.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/betteranime.net/)
 
