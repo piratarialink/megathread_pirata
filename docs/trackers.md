@@ -188,4 +188,4 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ➜ **[Veja a lista completa de trackers privados aqui](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)**
 
 **Está buscando sites para download de filmes e séries via torrent?**  
-Confira nossos tópicos sobre 🎦 [Filmes e TV](filmes-tv#🧲-torrents) e ⭐ [Anime](anime#📑-3-➜-torrents)
+Confira nossos tópicos sobre 🎦 [Filmes e TV](filmes-tv#🧲-torrents) e ⛩️ [Otaku](otaku#📑-3-➜-torrents)
