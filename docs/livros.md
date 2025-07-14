@@ -1,6 +1,6 @@
 # 📚 ➜ Livros
 
-Livros, como mangás, quadrinhos e romances, são um meio de registro de informações que incluem páginas compostas de texto, imagens ou ambos.
+Livros, como quadrinhos e romances, são um meio de registro de informações que incluem páginas compostas de texto, imagens ou ambos.
 
 :::warning ⚠️ Aviso Rápido
 - ✔️ **Todos os links** disponíveis foram analisados e aprovados por contribuidores voluntários. No entanto, **sempre prossiga com cautela**.
