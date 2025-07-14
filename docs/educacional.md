@@ -3,16 +3,17 @@
 A educação é o processo de adquirir conhecimento, habilidades e valores fundamentais para o desenvolvimento pessoal e social.
 
 :::warning ⚠️ Aviso Rápido
+
 - ✔️ **Todos os links** disponíveis foram analisados e aprovados por contribuidores voluntários. No entanto, **sempre prossiga com cautela**.
 - ⚠️ **Atenção:** Links confiáveis podem, ocasionalmente, se tornar perigosos, mesmo em fontes verificadas como a Megathread.
 - 🛡️ **Nosso compromisso:** Os colaboradores fazem o máximo para garantir sua segurança, mas é indispensável **navegar com cuidado**.
-:::
+  :::
 
 :::info ℹ️ Dicas Úteis
+
 - 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](guias/dns.md).
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
-:::
-
+  :::
 
 ## 🎓 ➜ Streaming
 
@@ -132,8 +133,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🧲 [Docspedia](https://docspedia.world/signup.php) - Cursos / Inscrição Necessária
 
-### 🧲 [Download Cursos Gratis](https://www.downloadcursos.org/) - Cursos nacionais  
-***Use o [PopUpOFF](https://popupoff.org/) e desative o JS***
+### 🧲 [Download Cursos Gratis](https://www.downloadcursos.org/) - Cursos nacionais
+
+**_Use o [PopUpOFF](https://popupoff.org/) e desative o JS_**
 
 ### 🧲 [Online Free Course](https://www.onlinefreecourse.net/) - Cursos da Udemy
 
@@ -194,6 +196,12 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### 🔗 [Árvore do Conhecimento - Canal](https://t.me/arveduconhecimentu)
 
 ### 🔗 [Solidários](https://t.me/GrupoSolidarios)
+
+### 🔗 [ENEM SOLIDÁRIO 2024!⏳📚!](https://t.me/Enemmateriais2023)
+
+- Comunidade ativa para compartilhamento de materiais para o ENEM.
+
+### 🔗 [Minerva's Project](https://mnrv.lat)
 
 ## Está buscando Livros?
 
