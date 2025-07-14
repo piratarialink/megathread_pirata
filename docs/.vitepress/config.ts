@@ -74,7 +74,7 @@ export default {
         collapsible: true,
         items: [
           { text: "🧭 Uso Geral", link: "sites-geral" },
-          { text: "⛩️ Anime", link: "anime" },
+          { text: "⛩️ Otaku", link: "otaku" },
           { text: "📚 Livros", link: "livros" },
           { text: "🧠 Educacional", link: "educacional" },
           { text: "🕹️ Emuladores e ROMs", link: "emuladores-roms" },
