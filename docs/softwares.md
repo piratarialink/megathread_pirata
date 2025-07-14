@@ -17,9 +17,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🌟 [LRepacks](https://lrepacks.net/) • Interface em russo 
 - Numerosos aplicativos portáteis e utilitários que são apreciados pelos usuários por mais de dez anos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lrepacks.net/)
-### 🌟 [CyberMania](https://www.cybermania.ws/)
-- Descubra uma vasta coleção de aplicativos e utilitários portáteis, aprimorada e amada pelos usuários há mais de 5 anos.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cybermania.ws/) 
 ### 🌟 [CRACKSurl](https://cracksurl.com/) 
 - Software atualizado diariamente com o objetivo de proporcionar uma experiência rápida todos os dias.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/) 
@@ -102,7 +99,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [Scnlog](https://scnlog.me/) 
 - Banco de dados com uma variedade de programas para Windows, Mac e Linux.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
-### 🌟 [SoftArchive](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
+### 🌟 [Sanet](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
 - Site referência na cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
 ### 🔗 [Soft Gozar](https://www.softgozar.com/) • Interface em persa 
