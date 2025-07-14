@@ -57,7 +57,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 - Links de múltiplos propósitos desde buscadores de torrent, agregadores e rastreadores DHT para encontrar o máximo de conteúdo público possível.
 
 ### ⛩️ [Otaku](otaku.md)
-- Lista que engloba tudo referente a cultura japonesa, embora, possa haver também domínios para consumir obras e produções de outros países, como Donghua (China) e Manhwa (Coreia do Sul).
+- Lista que engloba tudo referente à cultura japonesa, embora, possa haver também domínios para consumir obras e produções de outros países, como Donghua (China) e Manhwa (Coreia do Sul).
 
 ### 📚 [Livros](livros.md)
 - Livros, como quadrinhos e romances, são um meio de registro de informações que incluem páginas compostas de texto, imagens ou ambos.
