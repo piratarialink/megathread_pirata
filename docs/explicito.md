@@ -12,21 +12,21 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 **[CPG repacks](https://cpgrepacks.site/)** — Repacks de jogos +18.
 
-**[Empornium](https://empornium.is/)** — Tracker de conteúdo explícito.
-
-**[Exoticaz](https://exoticaz.to/)** — Tracker com foco em JAV sem ou com censura (possui photobooks também).
-
-**[9xbuddy](https://9xbuddy.site/)** — Faz o download de vídeos de quase todos os sites adultos.
-
 **[Only Fans Data Scrapper](https://github.com/DIGITALCRIMINAL/OnlyFans)**
 
 **[PriivaC Downloader](https://t.me/tgDownPrivacyBot)** - Download de mídias de assinaturas do Privacy.
 
 **[Hottok](https://t.me/hottoknowbot)** — Bot do Telegram que desnuda fotos.
 
+**[Empornium](https://empornium.is/)** — Tracker de conteúdo explícito.
+
+**[Exoticaz](https://exoticaz.to/)** — Tracker com foco em JAV sem ou com censura (possui photobooks também).
+
+**[9xbuddy](https://9xbuddy.site/)** — Faz o download de vídeos de quase todos os sites adultos.
+
 **[Os Reformados](https://osreformados.com/)**
 
-**🌟[COOMER](https://coomer.su/)** - Backup gratuito de todos os Onlyfans e Fansly
+**[COOMER](https://coomer.su/)** - Backup gratuito de todos os Onlyfans e Fansly.
 
 
 ---
