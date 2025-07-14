@@ -265,8 +265,8 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 
 ## ► Seedboxes
 
-- [ultra.cc](https://ultra.cc/)
-- [whatbox.ca](https://whatbox.ca/plans)
+- **[Pago]** [ultra.cc](https://ultra.cc/) - Estabeleça um limite de semeação dentro do qBit para não prejudicar outros usuários. [Leia a documentação](https://docs.ultra.cc/applications/qbittorrent).
+- **[Pago]** [whatbox.ca](https://whatbox.ca/plans) - Maior tráfego e servidor localizado nos EUA. (excelente para brasileiros)
 
 ## ► **Segurança**
 
@@ -329,6 +329,14 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - **[Pago]** [SMSPVA](https://smspva.com) - Número virtual internacional para usar o Telegram com segurança e contornar restrições a nível regional. Utilize uma VPN do país escolhido quando for se registrar.
 - [Tg mirror](https://github.com/viniped/tg_mirror) - Clona canais/grupos de maneira automatizada. Inicie o script com o foward_module.py.
 - [Save restricted content bot](https://t.me/Saverestrictedcont_Bot) - Use apenas em última hipótese caso não consiga salvar conteúdo protegido com o tg mirror.
+
+## ► **Inteligência Artifical**
+
+- 🌟 [LM Arena](https://lmarena.ai/?mode=direct) - Todos os chatbots pagos totalmente gratuitos e ilimitados.
+- [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos.
+- [Napkin Ai](https://www.napkin.ai/) - Cria fluxogramas.
+- [FreedomGPT](https://chat.freedomgpt.com/pt) - Sem censura (pode não funcionar na maior parte das vezes).
+- [Roo Code](https://roocode.com) - Gerador de código no Visual Studio.
 
 ## ► **Tor**
 
@@ -412,7 +420,6 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 ## ► **Ferramentas Diversas**
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
-- [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos com a ajuda de inteligência artificial.
 - [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Burla o limite da taxa de donwload do Terabox.
 - [Czkawka](https://github.com/qarmin/czkawka) - Varredura de duplicatas no PC. Ótima ferramenta para o Linux.
 - [doc downloader](https://docdownloader.com/) - Downloader de Issuu e Slideshare.
