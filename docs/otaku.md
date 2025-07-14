@@ -16,8 +16,6 @@ Lista que engloba tudo referente à cultura japonesa, embora, possa haver també
 :::
 
 ## 🎎 Anime
-
-‎ 
 ‎ 
 
 ### 🖥 ➜ Streaming
@@ -164,6 +162,8 @@ Lista que engloba tudo referente à cultura japonesa, embora, possa haver també
 
 ### 🧰 ➜ Programas - Anime
 
+---
+
 #### 🔗 [GoAnime](https://github.com/alvarorichard/GoAnime)
 - Ferramenta CLI que baixa animes em PT-BR (Dublado ou legendado).
 
@@ -171,9 +171,10 @@ Lista que engloba tudo referente à cultura japonesa, embora, possa haver també
 ‎ 
 
 ## 💢 Mangá 
+‎ 
+### 🈚 ➜ Leitura no navegador
 
 ---
-
 #### 🌟 [MangáFire](https://mangafire.to/) 
 - O portal oferece uma grande seleção de quadrinhos mangá para todos os leitores e um layout amigável e simples de navegar. (Aplique o Filtro para Português BR)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangafire.to/)
@@ -295,7 +296,8 @@ Lista que engloba tudo referente à cultura japonesa, embora, possa haver també
 
 #### 🔗 [QG - Baltigo mangás](https://t.me/MangasBrasil)
 
----
+‎ 
+‎ 
 
 **Está buscando apps para assistir ou baixar animes no celular?**  
 Confira nosso tópico sobre 📱 [Mobile](mobile#📑-➜-anime-e-manga)
