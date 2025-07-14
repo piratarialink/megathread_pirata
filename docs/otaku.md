@@ -1,6 +1,6 @@
 # ⛩️ Otaku
 
-Lista que engloba tudo referente a cultura japonesa, embora, possa haver também domínios para consumir obras e produções de outros países, como Donghua (China) e Manhwa (Coreia do Sul).
+Lista que engloba tudo referente à cultura japonesa, embora, possa haver também domínios para consumir obras e produções de outros países, como Donghua (China) e Manhwa (Coreia do Sul).
 
 ---
 
@@ -17,7 +17,11 @@ Lista que engloba tudo referente a cultura japonesa, embora, possa haver também
 
 ## 🎎 Anime
 
+---
+
 ### 🖥 ➜ Streaming
+
+---
 
 #### 🌟 [Better Anime](https://betteranime.net/)
 - **Better Anime** está com restrições de DMCA, mas funciona normalmente pelo app ou pelo site após login. Se não logar, ele não funcionará.
@@ -56,7 +60,11 @@ Lista que engloba tudo referente a cultura japonesa, embora, possa haver também
 #### ▶️ [Q1N](https://q1n.net/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/q1n.net/)
 
+--- 
+
 ### 📥 ➜ Downloads Diretos
+
+---
 
 #### 🌟 [Anitsu](https://anitsu.moe/#)
 - Grande catálogo, especialmente para animes obscuros com legenda PT-BR. **Use um media player de sua preferência no lugar do VLC.**
@@ -87,7 +95,11 @@ Lista que engloba tudo referente a cultura japonesa, embora, possa haver também
 #### 🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/tokyoinsider.com/)
 
+---
+
 ### 🧵 ➜ Torrents
+
+---
 
 #### 🧲 [AniRena](https://www.anirena.com/)
 - Tracker simples para torrents de animes, dramas e músicas.
@@ -117,7 +129,11 @@ Lista que engloba tudo referente a cultura japonesa, embora, possa haver também
 #### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
 - Tracker semi-privado.
 
-### 📣 ➜ No Telegram
+---
+
+### 📣 ➜ No Telegram - Anime
+
+---
 
 #### 🌟 [Algo Animes](https://t.me/algoanimes)
 - Mesmo criador do Algo Books.
@@ -126,7 +142,11 @@ Lista que engloba tudo referente a cultura japonesa, embora, possa haver também
 
 #### 🔗 [Central dos Animes](https://t.me/Centraldeanimes_Baltigo)
 
+---
+
 ### 📰 ➜ Legendas
+
+---
 
 #### 🔗 [AnimeDB](https://anidb.net/)
 - Base de dados internacional sobre animes e legendas em inglês.
@@ -134,12 +154,18 @@ Lista que engloba tudo referente a cultura japonesa, embora, possa haver também
 #### 🔗 [InfoAnime](https://www.infoanime.com.br/)
 - Acompanhamento de projetos de fansubers e scanlators brasileiros.
 
-### 🧰 ➜ Programas
+---
+
+### 🧰 ➜ Programas - Anime
 
 #### 🔗 [GoAnime](https://github.com/alvarorichard/GoAnime)
 - Ferramenta CLI que baixa animes em PT-BR (Dublado ou legendado).
 
+---
+
 ## 💢 ➜ Mangá 
+
+---
 
 #### 🌟 [MangáFire](https://mangafire.to/) 
 - O portal oferece uma grande seleção de quadrinhos mangá para todos os leitores e um layout amigável e simples de navegar. (Aplique o Filtro para Português BR)
@@ -196,6 +222,8 @@ Lista que engloba tudo referente a cultura japonesa, embora, possa haver também
 - Postagem de mangás no formato aceito pelo Kindle. Requer uma conta no Terabox para efetuar o download, algo que você pode criar através de um email descartável no Temp Mail ou semelhantes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kindleotaku.blogspot.com/) 
 
+---
+
 ### 🎌 ➜ Leitores de Mangá
 
 :::info Planilha no Docs com informações das extensões para ser usado em apps como Aniyomi, Tachiyomi, Dantotsu e etc. [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
@@ -245,7 +273,16 @@ Lista que engloba tudo referente a cultura japonesa, embora, possa haver também
 
 - TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-  
+
+---
+
+### 📣 No Telegram - Mangá
+
+---
+
+#### 🔗 [Mangás da Depressão](https://t.me/mangasdepressao) 
+#### 🔗 [QG - Baltigo mangás](https://t.me/MangasBrasil)
+
 ---
 
 **Está buscando apps para assistir ou baixar animes no celular?**  
