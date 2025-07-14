@@ -7,7 +7,7 @@ hero:
   text: Pirataria
   image:
     src: /logo.svg
-  tagline: Bem-vindo a Megathread Pirata
+  tagline: Bem-vindo à Megathread Pirata
   actions:
     - theme: brand
       text: Explorar
