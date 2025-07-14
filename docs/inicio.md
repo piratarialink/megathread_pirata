@@ -56,11 +56,11 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 ### 🧭 [Uso Geral](sites-geral.md)
 - Links de múltiplos propósitos desde buscadores de torrent, agregadores e rastreadores DHT para encontrar o máximo de conteúdo público possível.
 
-### ⛩️ [Anime](anime.md)
-- Anime é um tipo de trabalho animado desenhado à mão criado no Japão, embora também possa ser aplicado a outras animações, como Donghua.
+### ⛩️ Otaku
+- Lista que engloba tudo referente a cultura japonesa, embora, possa haver também domínios para consumir obras e produções de outros países, como Donghua (China) e Manhwa (Coreia do Sul).
 
 ### 📚 [Livros](livros.md)
-- Livros, como mangás, quadrinhos e romances, são um meio de registro de informações que incluem páginas compostas de texto, imagens ou ambos.
+- Livros, como quadrinhos e romances, são um meio de registro de informações que incluem páginas compostas de texto, imagens ou ambos.
 
 ### 🧠 [Educacional](educacional.md)
 - A educação é o processo de adquirir conhecimento, habilidades e valores fundamentais para o desenvolvimento pessoal e social. Aqui você encontrará Cursos, Documentários e Recursos de Aprendizagem.
