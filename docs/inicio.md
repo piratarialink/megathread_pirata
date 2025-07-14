@@ -56,7 +56,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 ### 🧭 [Uso Geral](sites-geral.md)
 - Links de múltiplos propósitos desde buscadores de torrent, agregadores e rastreadores DHT para encontrar o máximo de conteúdo público possível.
 
-### ⛩️ Otaku
+### ⛩️ [Otaku](otaku.md)
 - Lista que engloba tudo referente a cultura japonesa, embora, possa haver também domínios para consumir obras e produções de outros países, como Donghua (China) e Manhwa (Coreia do Sul).
 
 ### 📚 [Livros](livros.md)
