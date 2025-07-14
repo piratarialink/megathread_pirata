@@ -17,6 +17,9 @@ Lista que engloba tudo referente à cultura japonesa, embora, possa haver també
 
 ## 🎎 Anime
 
+‎ 
+‎ 
+
 ### 🖥 ➜ Streaming
 
 ---
@@ -94,7 +97,8 @@ Lista que engloba tudo referente à cultura japonesa, embora, possa haver també
 #### 🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/tokyoinsider.com/)
 
----
+‎ 
+‎ 
 
 ### 🧵 ➜ Torrents
 
@@ -128,7 +132,8 @@ Lista que engloba tudo referente à cultura japonesa, embora, possa haver també
 #### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
 - Tracker semi-privado.
 
----
+‎ 
+‎ 
 
 ### 📣 ➜ No Telegram - Anime
 
@@ -141,7 +146,8 @@ Lista que engloba tudo referente à cultura japonesa, embora, possa haver també
 
 #### 🔗 [Central dos Animes](https://t.me/Centraldeanimes_Baltigo)
 
----
+‎ 
+‎ 
 
 ### 📰 ➜ Legendas
 
@@ -153,16 +159,18 @@ Lista que engloba tudo referente à cultura japonesa, embora, possa haver també
 #### 🔗 [InfoAnime](https://www.infoanime.com.br/)
 - Acompanhamento de projetos de fansubers e scanlators brasileiros.
 
----
+‎ 
+‎ 
 
 ### 🧰 ➜ Programas - Anime
 
 #### 🔗 [GoAnime](https://github.com/alvarorichard/GoAnime)
 - Ferramenta CLI que baixa animes em PT-BR (Dublado ou legendado).
 
----
+‎ 
+‎ 
 
-## 💢 ➜ Mangá 
+## 💢 Mangá 
 
 ---
 
@@ -221,12 +229,15 @@ Lista que engloba tudo referente à cultura japonesa, embora, possa haver també
 - Postagem de mangás no formato aceito pelo Kindle. Requer uma conta no Terabox para efetuar o download, algo que você pode criar através de um email descartável no Temp Mail ou semelhantes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kindleotaku.blogspot.com/) 
 
----
+‎ 
+‎ 
 
 ### 🎌 ➜ Leitores de Mangá
 
 :::info Planilha no Docs com informações das extensões para ser usado em apps como Aniyomi, Tachiyomi, Dantotsu e etc. [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
 :::
+
+---
 
 #### 🌟 [Mihon](https://github.com/mihonapp/mihon) 
 
@@ -273,13 +284,15 @@ Lista que engloba tudo referente à cultura japonesa, embora, possa haver també
 - TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
----
+‎ 
+‎ 
 
 ### 📣 No Telegram - Mangá
 
 ---
 
 #### 🔗 [Mangás da Depressão](https://t.me/mangasdepressao) 
+
 #### 🔗 [QG - Baltigo mangás](https://t.me/MangasBrasil)
 
 ---
