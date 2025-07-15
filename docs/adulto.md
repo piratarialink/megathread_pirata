@@ -10,4 +10,4 @@
 
 ---
 
-**[ou continue (por sua conta e risco)](explicito.md)**
+[**ou prossiga para o diretório**](explicito.md)
