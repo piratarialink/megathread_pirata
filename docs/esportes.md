@@ -1,6 +1,6 @@
 # ⚽ ➜ Esportes
 
-Esporte refere-se à atividade física ou jogo, geralmente competitivo, que utiliza as habilidades e habilidades de uma pessoa enquanto entretém os espectadores.
+Esporte refere-se à atividade física ou jogo, geralmente competitivo, que utiliza as habilidades de um grupo ou de uma pessoa para entreter espectadores.
 
 :::warning ⚠️ Aviso Rápido
 - ✔️ **Todos os links** disponíveis foram analisados e aprovados por contribuidores voluntários. No entanto, **sempre prossiga com cautela**.
