@@ -227,7 +227,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/badnoise.net/)
 
 ## 📑 ➜ No Telegram 
-### 🤖 [Lestrad - Bibliotecário](https://t.me/lestrad_repost_bot)
+
 ### 📣 [Tudo de Bom em AUDIOLIVROS](https://t.me/Tudo_de_BOM_em_AUDIOLIVROS)
 ### 📣 [ITSBooks](https://t.me/ITSBooks)
 ### 📣 [Audiolivros](https://t.me/audiolivros) 
