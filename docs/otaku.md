@@ -288,7 +288,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 ‎ 
 ‎ 
 
-### 📣 No Telegram - Mangá
+### 📣 ➜ No Telegram - Mangá
 
 ---
 
