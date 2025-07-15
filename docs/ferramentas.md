@@ -364,7 +364,7 @@ Para hospedar servidores próprios de rust, minecraft, bot do telegram, storage 
 
 ## ► SSH
 
-São VPNS que usam o protocolo SSH para transmitir uma conexão de franquia de dados ilimitada.
+São VPNs que usam o protocolo SSH para transmitir uma conexão de dados móveis sem limites.
 
 - [FastSSH](https://www.fastssh.com/page/ssh-over-websocket-servers)
 - [SSHconnect](https://sshconect.com.br/) 
