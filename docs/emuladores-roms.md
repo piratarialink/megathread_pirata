@@ -236,7 +236,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [Internet Archive](https://archive.org/)
 
--  Milhares de rom-sets e homebrews.
+-  Milhares de rom-sets e jogos clássicos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
 ### 🌟 [Crocdb](https://crocdb.net/)
@@ -315,7 +315,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [RHDN](https://romhacking.net)
 
-- Explore ROM hacks e homebrews para jogos da era 8, 16, 32 e 64 bits.
+- Explore ROM hacks, QoLs e homebrews para jogos da era 8, 16, 32 e 64 bits.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhacking.net/)
 
 ### 🔗 [RomHack Plaza](https://romhackplaza.org)
