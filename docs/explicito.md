@@ -4,7 +4,7 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 ---
 
-**🌟 [Ublock Origin](https://github.com/gorhill/uBlock)** — Nunca se esqueça deste add-on.
+**🌟 [Ublock Origin](https://github.com/gorhill/uBlock)** — Nunca se esqueça desta extensão.
 
 **[Redisex](https://redisex.club)** — Do mesmo dono do redecanais.
 
