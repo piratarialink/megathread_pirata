@@ -1,6 +1,6 @@
 # ⛩️ Otaku
 
-Lista que engloba tudo referente à cultura japonesa, embora, possa haver também domínios para consumir obras e produções de outros países, como Donghua (China) e Manhwa (Coreia do Sul).
+Lista que engloba tudo referente à cultura japonesa, embora possa haver também sites para obras e produções de outros países, como Donghua (China) e Manhwa (Coreia do Sul).
 
 ---
 
