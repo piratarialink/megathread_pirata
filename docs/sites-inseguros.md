@@ -20,12 +20,11 @@
 | 📋 **NOME**     | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                                              |
 | :-------------- | :-------------------------- | :----------------------------------------------------------------------------------------------------------- |
 | 💩 BrSociety      | brsociety-pro                 | **Fraude** (_Utiliza o nome do antigo BrSociety para pedir transferências em dinheiro_). |
-| 💩 4shared      | 4shared-com                 | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
-| 💩 Baixaki      | baixaki-com-br              | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |     
-| 💩 1377x        | 1377x-to                    |  **Clone falso** (_Criado para enganar usuários de propósito_). |
-| Notz SMS | notz-net-br          |  **Bot do Telegram** (_Vende números de telefone banidos ou com autentificação em dois fatores_). |
-| KickassTorrents | kickasstorrents-to          |  **Clone falso** (_Criado para enganar usuários de propósito_). |
 | The Pirate Bay  | thepiratebay-org            | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                |
+| 💩 4shared      | 4shared-com                 | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
+| KickassTorrents | kickasstorrents-to          |  **Clone falso** (_Criado para enganar usuários de propósito_). |
+| 💩 Baixaki      | baixaki-com-br              | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). | 
+| Notz SMS | notz-net-br          |  **Bot do Telegram** (_Vende números de telefone banidos ou com autentificação em dois fatores_). |
 | 💩 TheRarBg     | therarbg-com/therarbg-to    |  **Clone falso** (_Criado para enganar usuários de propósito_). | 
 
 # ⛩️ ➜ Anime
@@ -89,7 +88,7 @@
 | HaxPC          | haxpc-net                   | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | KoLomPC        | kolompc-com                 | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | Portable4PC    | portable4pc-com             | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
-| Cybermania   | cybermania-ws            | **Comportamento antiético** (_Inserção de trojan de acesso remoto de forma planejada_). | 
+| 💩 Cybermania   | cybermania-ws            | **Comportamento antiético** (_Inserção de trojan de acesso remoto de forma planejada_). | 
 | Sample Drive   | sampledrive-in              | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | VFXdownload    | vfxdownload-com             | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | VFXDownloads   | vfxdownloads-net            | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
