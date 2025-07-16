@@ -20,7 +20,7 @@
 | 📋 **NOME**     | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                                              |
 | :-------------- | :-------------------------- | :----------------------------------------------------------------------------------------------------------- |
 | 💩 BrSociety      | brsociety-pro                 | **Fraude** (_Utiliza o nome do antigo BrSociety para pedir transferências em dinheiro_). |
-| The Pirate Bay  | thepiratebay-org            | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                |
+| The Pirate Bay  | thepiratebay-org (proxies)            | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                |
 | 💩 4shared      | 4shared-com                 | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | KickassTorrents | kickasstorrents-to          |  **Clone falso** (_Criado para enganar usuários de propósito_). |
 | 💩 Baixaki      | baixaki-com-br              | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). | 
