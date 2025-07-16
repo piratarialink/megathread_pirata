@@ -9,7 +9,7 @@ Essa página ainda é um esboço. Feito com base nas recomendações do [orchest
 - Privacidade no Firefox: Betterfox ou Arkenfox
 - uBlock Origin: Javascript sempre desativado em sites novos
 - Não cruzar nomes em logins: sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
-- Trocar a senha do roteador que vem de fábrica
+- Trocar a senha do wi-fi e roteador colando seu endereço IP na barra de URL do seu navegador
 - Criar passwords com espaços e caracteres próprios da língua portuguesa como `ç`, `~`, `'`
 - VPN: IVPN ou Mullvad
 - Email: Mailbox.org com Thunderbird + uBlock Origin
