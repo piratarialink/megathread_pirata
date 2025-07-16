@@ -148,9 +148,9 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Ampla biblioteca de filmes e séries com toda a emoção dos sucessos de bilheteria.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/broflix.cc/)
 
-### ▶️ [Cineby](https://www.cineby.app/)
+### 🌟 [Cineby](https://www.cineby.app/)
 
-- Biblioteca de filmes e programas de TV que fazem deste serviço de streaming uma escolha fantástica.
+- Biblioteca de filmes e programas de TV que fazem deste serviço de streaming uma escolha fantástica. Legendas e áudio em pt-br disponíveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cineby.app/)
 
 ### ▶️ [Cinema Unlocked](https://cinemaunlocked.com/)
