@@ -54,6 +54,8 @@ Nós não possuímos nenhuma afiliação a essas plataformas de venda, compra e 
 - Pesquisa: DuckDuckGo.com
 - Roteador: Qualquer um com OpenWRT, recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 - Não cruzar nomes: Sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
+- Trocar a senha do roteador que vem de fábrica.
+- Criar passwords com espaços e caracteres próprios da língua portuguesa como `ç`, `~`, `'`.
 
 :::info
 Onde comprar moeda: Prestando serviços online que pagam em Monero ou comprar pessoalmente (sempre receber numa wallet disposable e transferir para a sua)
