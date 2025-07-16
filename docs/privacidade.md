@@ -189,3 +189,9 @@ O VeraCrypt adiciona segurança aprimorada aos algoritmos usados ​para criptog
 ### [Cryptomator](https://cryptomator.org/)
 
 O Cryptomator fornece criptografia transparente client-side para sua nuvem. Protege seus documentos contra acesso não autorizado. O Cryptomator é um software gratuito e de código aberto, então você pode ter certeza de que não há backdoors.
+
+---
+
+Recomendado:
+
+[Guia de privacidade para paranoicos](/guia/quero-privacidade.md)
