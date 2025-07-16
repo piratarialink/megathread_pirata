@@ -30,7 +30,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * [Optimizer](https://github.com/hellzerg/optimizer) - Uma Ferramenta de configuração avançado projetado para aprimorar sua privacidade e segurança no Windows.
 * [Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Uma ferramenta para “consertar” o Windows 11
 * [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece)
-* [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade e que não é afiliado com a avast.
+* [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
 * 🌟 [**Chocolatey**](https://chocolatey.org/) - Um instalador de linha de comando para o Windows.
 * [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Uma ferramenta leve que torna a barra de tarefas do Windows translúcida/transparente.
@@ -51,7 +51,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * [pastebin de abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
 * [pastebin de abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
 * [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Ferramenta da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
-* [Pacotes do Office para Mac](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac) - Página bem organizada para downloads fornecidos pela MSFT de imagens do Mac Office.
+* [Pacotes do Office para Mac](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac) - Página bem organizada para downloads de imagens do Mac Office.
 
 ## ► **Adblockers & Bypassers**
 
