@@ -16,10 +16,6 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 - [Porque é que não se pode confiar no Discord](outros/discord) - Traduzido por [u/Broering](https://phtn.app/u/broering@lemmy.eco.br)
 
-- [Como abrir portas no roteador em rede CGNAT](guias/cgnat-portas) - Feito por Smeagol e [u/Wandrey](https://lemmy.eco.br/u/wandrey)
-
-- [Um Guia Simples Para Um Ratio Melhor](guias/ratio-melhor) - Feito por [u/Wandrey](https://lemmy.eco.br/u/wandrey)
-
 - [Streaming Doméstico Automatizado (Sonarr, Radarr e Plex)](https://www.reddit.com/r/pirataria/s/xzkgWdj1E1) - Feito por [u/lolado06](https://www.reddit.com/user/lolado06/)
 
 - [Como ativar Windows 10](https://www.reddit.com/r/pirataria/s/eaNUQ4V21B) - Feito por [u/Ozamatheus](https://www.reddit.com/u/Ozamatheus/s/dmrdBnmFz2)
