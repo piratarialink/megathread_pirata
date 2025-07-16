@@ -163,14 +163,14 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Possui diversos recursos, como GUI, netplay e atualizador automatizado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/simple64.github.io/)
 
-### 🔗 [Snes9x](https://github.com/snes9xgit/snes9x)
+### 🔗 [Snes9x](https://github.com/snes9xgit/snes9x) • Super Famicom
 
-- Desenvolvido para jogos do Super Famicom, é atualizado todos os anos e é compatível com linux.
+- Compativel com Linux e atualizado todos os anos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
   
-### 🔗 [Sudachi](https://github.com/emuplace/sudachi.emuplace.app)
+### 🔗 [Sudachi](https://github.com/emuplace/sudachi.emuplace.app) • Switch
 
-- Outro emulador de Switch. Uma boa alternativa para o Ryujinx.
+- Uma boa alternativa para o Ryujinx.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [VisualBoyAdvance-M](https://vba-m.com/) • Game Boy + Advance
