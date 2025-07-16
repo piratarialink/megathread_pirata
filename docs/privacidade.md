@@ -194,4 +194,4 @@ O Cryptomator fornece criptografia transparente client-side para sua nuvem. Prot
 
 Leitura recomendada:
 
-[Guia de privacidade para paranoicos](/guia/quero-privacidade.md)
+[Guia de privacidade para paranoicos](/guias/quero-privacidade.md)
