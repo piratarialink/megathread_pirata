@@ -50,4 +50,4 @@ O download parcial consiste em baixar apenas um certo número de arquivos de um 
 
 Os torrents Freeleech podem ser encontrados na maioria dos rastreadores. Um torrent (ou em casos de sites inteiros) pode ser especificado como 'freeleech' por um certo tempo, ocasionalmente permanentemente, e quaisquer dados baixados não contam para o uso, mas o upload sim.
 
-_[Texto original:](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/)_
+_[Texto original](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/)_
