@@ -46,11 +46,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
 
-### ▶️ [NovelasFlix](https://novelasflixbr.net/)
-
-- O Novelasflix é o melhor site para ver novelas nacionais, com um vasto catálogo de tramas antigas e atuais. Simples, gratuito e perfeito para fãs de teledramaturgia brasileira.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/novelasflixbr.net/)
-
 ### ▶️ [Vizer](https://novizer.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/novizer.com/)
@@ -259,6 +254,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
 - Oferece Canais ao vivo
+
+### 📺️ [NovelasFlix](https://novelasflixbr.net/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/novelasflixbr.net/)
 
 ### 📺️ [Pirata TV](https://piratatvs.com/)
 
