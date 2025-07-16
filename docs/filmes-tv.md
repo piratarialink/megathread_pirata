@@ -44,8 +44,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
 
-### ▶️ [Encontrei.tv](https://encontre.tv/)
-
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
 
 ### ▶️ [NovelasFlix](https://novelasflixbr.net/)
