@@ -14,18 +14,18 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 :::
 
 ## 📥 ➜ Downloads diretos 
-### 🔗 [elivros](https://elivros.info/) 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/elivros.info/)
-### 🔗 [dlivros](https://dlivros.com/) 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/dlivros.com/) 
-### 🔗 [Baixe Livros](https://www.baixelivros.com.br/) 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixelivros.com.br/) 
-### 🔗 [Info Livros](https://www.infolivros.org/) 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/infolivros.org/)
-### 🔗 [Meulivro.biz](https://www.meulivro.biz/) 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/www.meulivro.biz/)
-### 🔗 [PDF Room](https://pdfroom.com)
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/pdfroom.com/)
+### 🌟 [Projeto Z-Library](https://z-library.sk/) • Necessário Cadastrar-se 
+
+:::info **Dica:** A melhor forma de se usar o Z-Library é via [bot do Telegram](/outros/zlibrary.md)
+:::
+
+- Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, textos acadêmicos e livros de interesse geral.
+- [Checar URLs atualizadas](https://www.reddit.com/r/zlibrary/wiki/index/access/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/z-library.sk/)
+### 🌟 [Library Genesis](https://libgen.is/) / [2](https://libgen.rs/) / [3](https://libgen.st/) 
+- Mega coleção de livros organizados pela comunidade.
+- O site constantemente fica fora do ar. Para checar qualquer proxy que esteja funcionando, acesse o [SLUM](https://open-slum.org/).
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/libgen.is/)  
 ### 🔗 [Docero](https://doceru.com/) 
 - Após apertar F12, na aba console, aperte "Ctrl+F" e procure por getpdf, encontrará isso: `https://stream.doceru.com/getpdf/...` só copiar e colar em outra aba.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doceru.com/) 
@@ -35,10 +35,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 ### 🔗 [Datassette](https://datassette.org/) 
 - Livros, Manuais e Revistas antigas sobre informática, videogames e diversos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/datassette.org/) 
-### 🌟 [Library Genesis](https://libgen.is/) / [2](https://libgen.rs/) / [3](https://libgen.st/) 
-- Mega variedade de livros organizados pela comunidade.
-- O site constantemente fica fora do ar. Para checar qualquer proxy que esteja funcionando, acesse o [SLUM](https://open-slum.org/).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/libgen.is/)  
+
 ### 🔗 [OceanofPDF](https://oceanofpdf.com/category/languages/portuguese-language-books/?id=000192234242) 
 - Aqui mesmo, você pode obter conhecimentos e informações de livre acesso a todos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/oceanofpdf.com/) 
@@ -52,14 +49,19 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 ### 🔗 [Open Library](https://openlibrary.org/) 
 - Open Library é uma iniciativa da [Internet Archive](https://archive.org/), uma organização sem fins lucrativos, que constrói uma biblioteca digital de sites da Internet e outros artefatos culturais em formato digital.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/openlibrary.org/) 
-### 🌟 [Projeto Z-Library](https://z-library.sk/) • Necessário Cadastrar-se 
 
-:::info **Dica:** A melhor forma de se usar o Z-Library é via [bot do Telegram](/outros/zlibrary.md)
-:::
-
-- Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, textos acadêmicos e livros de interesse geral.
-- [Checar URLs atualizadas](https://www.reddit.com/r/zlibrary/wiki/index/access/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/z-library.sk/) 
+### 🔗 [elivros](https://elivros.info/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/elivros.info/)
+### 🔗 [dlivros](https://dlivros.com/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/dlivros.com/) 
+### 🔗 [Baixe Livros](https://www.baixelivros.com.br/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixelivros.com.br/) 
+### 🔗 [Info Livros](https://www.infolivros.org/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/infolivros.org/)
+### 🔗 [Meulivro.biz](https://www.meulivro.biz/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/www.meulivro.biz/)
+### 🔗 [PDF Room](https://pdfroom.com)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/pdfroom.com/)
 
 ## 💥 ➜ Quadrinhos 
 
