@@ -60,7 +60,8 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Pi-hole](https://pi-hole.net/) - Bloqueio de anúncios em toda a rede
 - [AdAway](https://adaway.org/) - AdAway é um bloqueador de anúncios de código aberto para Android que usa o arquivo hosts.
 - [Blokada 5](https://blokada.org/) - Blokada é um popular bloqueador de anúncios e aplicativo de privacidade para Android.
-- [AdGuard Home](https://adguard.com/pt_br/adguard-home/overview.html) - O AdGuard Home é um servidor de DNS para bloqueio de anúncios e rastreamento em toda a rede.
+- [AdGuard](https://adguard-dns.io/pt_br/public-dns.html) - O AdGuard é um servidor de DNS para bloqueio de anúncios e rastreamento em toda a rede.
+- [ControlD](https://controld.com/free-dns?freeResolverType=blockMalwareAndAds&helpPane=dns) - Servidor de DNS semelhante ao AdGuard que bloqueia anúncios até mesmo dentro de aplicativos.
 - [FastForward](https://github.com/FastForwardTeam/FastForward) - Extensão de navegador de código aberto para "contornar sites que fazem você esperar (como adf.ly), fazem você fazer algo (por exemplo, show.co e sub2unlock .com) e até rastreadores (como bit.ly e t.co)"
 - [Skip Redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) - Extrai a url final de sites que funcionam como intermediários.
 - [Unpaywall](https://unpaywall.org/products/extension) - Verifica se o artigo científico que você estiver lendo está disponivel para baixar gratuitamente.
