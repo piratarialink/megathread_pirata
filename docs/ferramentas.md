@@ -331,14 +331,6 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [Tg mirror](https://github.com/viniped/tg_mirror) - Clona canais/grupos de maneira automatizada. Inicie o script com o foward_module.py.
 - [Save restricted content bot](https://t.me/Saverestrictedcont_Bot) - Use apenas em última hipótese caso não consiga salvar conteúdo protegido com o tg mirror.
 
-## ► **Inteligência Artifical**
-
-- 🌟 [**LM Arena**](https://lmarena.ai/?mode=direct) - Todos os chatbots pagos totalmente gratuitos e ilimitados.
-- [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos.
-- [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas.
-- [FreedomGPT](https://chat.freedomgpt.com/pt) - Sem censura (pode não funcionar na maior parte das vezes).
-- [Roo Code](https://roocode.com) - Gerador de código no Visual Studio.
-
 ## ► **Tor**
 
 :::warning  O pirataria digital não se responsabiliza por links, endereços de phishing, conteúdo ou eventuais perdas causadas dentro da rede.
@@ -350,6 +342,14 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [Portlain](http://laingg42wznukvzjn52cos6bj6brgyiwtxf5rpq3bu5pad56volhe2qd.onion/portlain/)
 - [Suprbay](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/)
 - [Autodefesa digital](http://tdtf5fdpfjgpxci4pqrtr5cvmsytqu25c2kdbflllz37k5glz6bexcyd.onion/)
+  
+## ► **Inteligência Artifical**
+
+- 🌟 [**LM Arena**](https://lmarena.ai/?mode=direct) - Todos os chatbots pagos totalmente gratuitos e ilimitados.
+- [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos.
+- [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas.
+- [FreedomGPT](https://chat.freedomgpt.com/pt) - Sem censura (pode não funcionar na maior parte das vezes).
+- [Roo Code](https://roocode.com) - Gerador de código no Visual Studio.
 
 ## ► **Motores de busca**
 - [Meawfy](https://meawfy.com/) - Um mecanismo de busca especializado em encontrar arquivos hospedados no Mega.nz.
