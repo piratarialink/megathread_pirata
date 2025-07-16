@@ -23,10 +23,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Muda constantemente de domínio, para se manter atualizado confira o [discord oficial](https://discord.com/invite/kydZZBGwTy).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.ps/)
 
-### ▶️ [NetCine](https://netcinex.si/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcinex.si/)
-
 ### 🌟 [Hypeflix](https://hypeflix.sbs/)
 
 - Site com muitos conteúdos grátis de filmes e séries para assistir gratuitamente.
@@ -36,6 +32,15 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Site com vasto conteúdo de séries para assistir gratuitamente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/seuseriados.com/)
+
+### 🌟 [Cineby](https://www.cineby.app/)
+
+- Biblioteca de filmes e programas de TV que fazem deste serviço de streaming uma escolha fantástica. Legendas e áudio em pt-br disponíveis.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cineby.app/)
+
+### ▶️ [NetCine](https://netcinex.si/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcinex.si/)
 
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
 
@@ -147,11 +152,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Ampla biblioteca de filmes e séries com toda a emoção dos sucessos de bilheteria.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/broflix.cc/)
-
-### 🌟 [Cineby](https://www.cineby.app/)
-
-- Biblioteca de filmes e programas de TV que fazem deste serviço de streaming uma escolha fantástica. Legendas e áudio em pt-br disponíveis.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cineby.app/)
 
 ### ▶️ [Cinema Unlocked](https://cinemaunlocked.com/)
 
