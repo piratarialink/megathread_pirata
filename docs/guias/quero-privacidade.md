@@ -60,7 +60,3 @@ Nós não possuímos nenhuma afiliação a essas plataformas de venda, compra e 
 :::info
 Onde comprar moeda: Prestando serviços online que pagam em Monero ou comprar pessoalmente (sempre receber numa wallet disposable e transferir para a sua)
 :::
-
-## O avançado para privacidade
-
-Se você está lendo isso aqui, você não tem capacidade de chegar no avançado. Boa sorte.
