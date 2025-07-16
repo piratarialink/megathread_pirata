@@ -26,7 +26,8 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 **[Os Reformados](https://osreformados.com/)**
 
-**[COOMER](https://coomer.su/)** - Backup gratuito de todos os Onlyfans e Fansly.
+**[COOMER](https://coomer.su/)** - Backup gratuito de todos os Onlyfans e Fansly, o Porto Maldito.
 
+**[TPB](https://theporndude.com/pt)** - Centro de sites e páginas de conteúdo adulto, basicamente o Covil das Sereias, jovens piratas!.
 
 ---
