@@ -8,6 +8,9 @@ Essa página ainda é um esboço. Feito com base nas recomendações do [orchest
 
 - Privacidade no Firefox: Betterfox ou Arkenfox
 - uBlock Origin: Javascript sempre desativado em sites novos.
+- Não cruzar nomes em logins: Sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
+- Trocar a senha do roteador que vem de fábrica.
+- Criar passwords com espaços e caracteres próprios da língua portuguesa como `ç`, `~`, `'`.
 - VPN: IVPN ou Mullvad
 - Email: Mailbox.org com Thunderbird + uBlock Origin
 - Gerenciador de senhas: Bitwarden ou KeePassXC
@@ -53,9 +56,6 @@ Nós não possuímos nenhuma afiliação a essas plataformas de venda, compra e 
 - Hospedagem: Servers.guru ou Njalla
 - Pesquisa: DuckDuckGo.com
 - Roteador: Qualquer um com OpenWRT, recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
-- Não cruzar nomes: Sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
-- Trocar a senha do roteador que vem de fábrica.
-- Criar passwords com espaços e caracteres próprios da língua portuguesa como `ç`, `~`, `'`.
 
 :::info
 Onde comprar moeda: Prestando serviços online que pagam em Monero ou comprar pessoalmente (sempre receber numa wallet disposable e transferir para a sua)
