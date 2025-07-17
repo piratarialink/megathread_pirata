@@ -345,7 +345,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
   
 ## ► **Inteligência Artifical**
 
-- 🌟 [**LM Arena**](https://lmarena.ai/?mode=direct) - Todos os chatbots pagos totalmente gratuitos e ilimitados.
+- 🌟 [**LMArena**](https://lmarena.ai/?mode=direct) - Todos os chatbots pagos totalmente gratuitos e ilimitados.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Sem censura (pode não funcionar na maior parte das vezes).
