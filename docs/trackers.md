@@ -185,6 +185,8 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ### 🧲 [Rutracker](https://rutracker.net/) 
 -  Tracker generalista russo.
 
+---
+
 ➜ **[Veja a lista completa de trackers privados aqui](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)**
 
 **Está buscando sites para download de filmes e séries via torrent?**  
