@@ -1,6 +1,6 @@
 # 🪶 ➜ Privacidade
 
-:::info Essa página ainda é um esboço. Feito com base nas recomendações do [PrivacyGuides](https://www.privacyguides.org/) e do [Spyware Watchdog](https://spyware.neocities.org/).
+:::info Essa página ainda é um esboço. Feito com base nas recomendações do [PrivacyGuides](https://www.privacyguides.org/) e [Spyware Watchdog](https://spyware.neocities.org/).
 :::
 
 ## Panorama da Segurança
