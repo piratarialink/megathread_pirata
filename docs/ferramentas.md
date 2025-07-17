@@ -27,7 +27,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * 🌟 [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário Windows de Chris Titus Tech - Instalar programas, ajustes, correções e atualizações.
 * [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Uma ferramenta para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 10+.
 * 🌟 [**SophiApp**](https://github.com/Sophia-Community/SophiApp) - A ferramenta de código aberto mais poderosa no GitHub para configurar e fazer debloat do Windows 10 e Windows 11
-* [Optimizer](https://github.com/hellzerg/optimizer) - Uma utilitário de configuração avançada projetado para aprimorar sua privacidade e segurança no Windows.
+* [Optimizer](https://github.com/hellzerg/optimizer) - Um utilitário de configuração avançada projetado para aprimorar sua privacidade e segurança no Windows.
 * [Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Uma ferramenta para “consertar” o Windows 11
 * [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece)
 * [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
