@@ -18,22 +18,22 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► Ferramentas para Windows/Office
 
-* 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Essa ferramenta ativa o Windows e o Office. [**Guia**](guias/ativacao-office-win.md)
+* 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. [**Guia**](guias/ativacao-office-win.md)
 * [Office C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte as instalações do Office Retail em licenças de volume.
 * [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Ativa instalações de licença de volume do Office e Windows. (Ativa o Windows e Office)
 * [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL.
 * [HWIDGEN](https://github.com/TheMCHK/HWIDGEN) - Ativa o Windows 10. Use o modo KMS38 para LTSC/Enterprise ou HWID para ativação permanente.
 * [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado. Também automatiza funções.
 * 🌟 [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário Windows de Chris Titus Tech - Instalar programas, ajustes, correções e atualizações.
-* [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Uma ferramenta para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 10+.
+* [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Feito para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 10+.
 * 🌟 [**SophiApp**](https://github.com/Sophia-Community/SophiApp) - A ferramenta de código aberto mais poderosa no GitHub para configurar e fazer debloat do Windows 10 e Windows 11
-* [Optimizer](https://github.com/hellzerg/optimizer) - Um utilitário de configuração avançada projetado para aprimorar sua privacidade e segurança no Windows.
-* [Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Uma ferramenta para “consertar” o Windows 11
+* [Optimizer](https://github.com/hellzerg/optimizer) - Projetado para aprimorar sua privacidade e segurança no Windows.
+* [Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer) - “Conserta” o Windows 11
 * [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece)
 * [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
 * 🌟 [**Chocolatey**](https://chocolatey.org/) - Um instalador de linha de comando para o Windows.
 * [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
-* [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Uma ferramenta leve que torna a barra de tarefas do Windows translúcida/transparente.
+* [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows translúcida/transparente.
 * [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Centralize os ícones da barra de tarefas do Windows com uma variedade de animações e opções.
 * [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à experiência moderna do Windows
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Uma lista incrível e selecionada dos melhores aplicativos e ferramentas para Windows.
