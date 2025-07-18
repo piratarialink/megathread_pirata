@@ -112,7 +112,8 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ## 🔊 ➜ Streaming 
 ➜ Os sites abaixo são gringos e apenas oferecem conteúdos em inglês
-➜ Caso você conheça algum site de livros e audiobooks em português, mande ele [aqui](https://lemmy.dbzer0.com/post/5116448). 
+
+➜ Caso você conheça algum site de livros e audiobooks em português, mande ele no chat desse canal [aqui](https://t.me/trackerslist/). 
 ### ▶️ [LibriVox](https://librivox.org/) 
 - Liberação acústica de obras de domínio público, permitindo download e audição
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/librivox.org/) 
