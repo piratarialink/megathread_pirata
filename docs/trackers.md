@@ -198,11 +198,12 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Como pesquisar: `No filter` > `Non-English-translated` > `pt br`.
 
 ### 🧲 [Sktorrent](https://sktorrent.org/) 
--  Tracker semi-privado focado em games.
+- Tracker semi-privado focado em games.
+- O cadastro é sempre aberto e obrigatório.
 
-### 🧲 [Rutracker](https://rutracker.net/) 
--  Tracker generalista russo.
--  Para usar a função de pesquisa, você precisa se cadastrar.
+### 🧲 [Rutracker](https://rutracker.net/) / [2](https://rutracker.org/) 
+- Tracker generalista russo.
+- Quantidade razoável de torrents sendo upados todos os dias.
 
 ‎ 
 ‎ 
