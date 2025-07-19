@@ -78,6 +78,13 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 :::info **PU = Power User (usuário avançado):** primeira classificação quando você sobe de nível. Você precisa ter essa classificação para poder acessar o fórum de convites de um tracker.
 :::
 
+### 🧲 [AvistaZ](https://avistaz.to/) | AZ
+- Concentrado em mídia asiática no idioma original somente, como doramas por exemplo.
+- O discord serve para avisar caso o tracker esteja com registro aberto.
+- Semelhante aos demais trackers privados, possui sistema de H&R.
+- É preciso logar a cada 30 dias e semear a cada 90 dias.
+- Você pode comprar uma seedbox de uma das empresas afiliadas para conseguir convite (o que pode não ser vantajoso para brasileiros, já que são seedboxes localizadas no Canadá ou na Europa).
+  
 ### 🧲 [AlphaRatio](https://alpharatio.cc/) | AR
 - Tracker generalista
 - Abrem para novos cadastros anualmente
