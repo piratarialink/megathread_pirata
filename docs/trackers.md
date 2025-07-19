@@ -185,6 +185,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
   
 ### 🧲 [Linuxtracker](https://linuxtracker.org/) 
 - Focado em ISOs Linux.
+- Quantidade razoável de torrents upados todos os dias.
 
 ### 🧲 [Extremlymtorrents](https://extremlymtorrents.ws/) 
 -  Tracker generalista semi-privado romeno.
@@ -203,8 +204,8 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [Rutracker](https://rutracker.net/) / [2](https://rutracker.org/) 
 - Tracker generalista russo.
-- Quantidade razoável de torrents sendo upados todos os dias.
-
+- Desde 2004 em atividade.
+- Para usar a função de pesquisa, é necessário se cadastrar.
 ‎ 
 ‎ 
 
