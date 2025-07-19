@@ -124,7 +124,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Pode ser acessado por meio do OPS ou RED. Ambos exigem PU e conta com 3 meses. 
 
 ### 🧲 [HD-Torrents](https://hd-torrents.org/register.php) | HDT | €35
-- Focado em filmes e séries.
+- Filmes e séries.
 - Há opção de pagar para obter convite.
 
 ### 🧲 HDBits | HDB 
@@ -135,6 +135,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ### 🧲 [IPTorrents](https://iptorrents.com/signup.php) | IPT | $20
 - Tracker generalista.
 - Há opção de pagar para obter convite.
+- Não serve como meio para se ter convites de outros trackers por estar na lista negra do r/OpenSignups.
   
 ### 🧲 [JPopsuki ](https://jpopsuki.eu/) | JPOP
 - Não há recrutamento no momento.
@@ -147,8 +148,13 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Focado em e-learning .
 
 ### 🧲 [Nebulance](https://nebulance.io) | NBL 
-- Focado em séries de TV.
+- Séries de TV.
 - Pode ser acessado por meio do MAM. O único requisito é ser PU.
+
+### 🧲 [OnlyEncodes+](https://onlyencodes.cc/application)
+
+- Encodes x265 e AV1 para streaming.
+- Lançamento da cena tracker.
 
 ### 🧲 [Orpheus](https://orpheus.network) | OPS | [Entrevista](https://interview.orpheus.network/)
 - Focado em músicas.
