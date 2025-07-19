@@ -93,7 +93,6 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Pode ser acessado por meio do GGn ou RED.
 
 ### 🧲 [AudioNews](https://audionews.org/) | AN
-
 - AudioNews é um tracker de torrents projetado para produtores musicais, em vez de consumidores de música.
 - Possui programas e utilitários portáteis relacionados a áudio.
 - Códigos de convites são oferecidos frequentemente pelo telegram oficial.
@@ -150,6 +149,10 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ### 🧲 [Nebulance](https://nebulance.io) | NBL 
 - Focado em séries de TV.
 - Pode ser acessado por meio do MAM. O único requisito é ser PU.
+
+#### 🧲 [Nyaa.si](https://nyaa.si/) / [Nyaa.land](https://nyaa.land/)
+- Referência quando o assunto é anime e obras asiáticas (_em japonês, mandarim, cantonês, coreano_).
+- Como pesquisar: `No filter` > `Non-English-translated` > `pt br`.
 
 ### 🧲 [Orpheus](https://orpheus.network) | OPS | [Entrevista](https://interview.orpheus.network/)
 - Focado em músicas.
