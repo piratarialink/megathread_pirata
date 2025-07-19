@@ -75,21 +75,21 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🆎 Legendados
 
-### 🌟 [Freek.to](https://freek.to/)
+### 🌟 [MovieMaze](https://moviemaze.cc/)
 
-- Freek.to aparentemente comprou o Binged
+- Moviemaze aparentemente comprou o Freek.to
 - Infinidade de filmes, séries e animes. Aceita legenda que vc baixou de outros sites.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/freek.to/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/moviemaze.cc/)
 
 ### 🌟 [HydraHD](https://hydrahd.me/)
 
 - Sem precisar se inscrever, aproveite filmes e séries gratuitos em streaming na maior biblioteca.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hydrahd.me/)
 
-### 🌟 [P-Stream](https://pstream.org/)
+### 🌟 [P-Stream](https://pstream.mov/)
 
 - Filmes e séries em 1080p ou em até 4k com o token do Real Debrid, extensão ou proxy personalizado.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pstream.org/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pstream.mov/)
 
 ### 🌟 [Cinema Deck](https://cinemadeck.com/)
 
