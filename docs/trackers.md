@@ -168,7 +168,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Pode ser acessado por meio do MAM. VIP + 50 GB de upload + conta com 6 meses.
 
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
-- Tracker generalista.
+- Tracker generalista com uma reputação estimada.
 - Abrem para novos cadastros anualmente.
 - Assim como os demais trackers privados, também possui sistema de H&R.
  
