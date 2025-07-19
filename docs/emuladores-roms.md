@@ -236,7 +236,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [Internet Archive](https://archive.org/)
 
--  Milhares de rom-sets.
+-  Milhares de rom-sets e dumps de CD-ROMs em formato de ISO.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
 ### 🌟 [Crocdb](https://crocdb.net/)
