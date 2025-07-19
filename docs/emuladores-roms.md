@@ -409,4 +409,4 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ➜ Confira nosso tópico sobre 🎮 [Jogos](jogos)
 
-➜ Para saber mais sobre o assunto confira a Megathread do [r/Roms](https://r-roms.github.io/)
+➜ Para saber mais sobre emuladores confira a Megathread do [r/Roms](https://r-roms.github.io/)
