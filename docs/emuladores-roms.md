@@ -298,7 +298,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Espaço voltado à preservação de romhacks da franquia super mario.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.smwcentral.net/)
 
-### 🔗 [r/Roms Megathread](https://r-roms.github.io/) / [2](https://r-roms.gitlab.io/megathread/)
+### 🌟 [**r/Roms Megathread**](https://r-roms.github.io/) / [2](https://r-roms.gitlab.io/megathread/)
 
 - Dump fantástico de ROMs para muitos sistemas diferentes para começar a jogar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/r-roms.github.io/)
@@ -408,5 +408,3 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ## Está buscando Jogos de Computador?
 
 ➜ Confira nosso tópico sobre 🎮 [Jogos](jogos)
-
-➜ Para saber mais sobre emuladores confira a Megathread do [r/Roms](https://r-roms.github.io/)
