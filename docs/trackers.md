@@ -150,10 +150,6 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Focado em séries de TV.
 - Pode ser acessado por meio do MAM. O único requisito é ser PU.
 
-#### 🧲 [Nyaa.si](https://nyaa.si/) / [Nyaa.land](https://nyaa.land/)
-- Referência quando o assunto é anime e obras asiáticas (_em japonês, mandarim, cantonês, coreano_).
-- Como pesquisar: `No filter` > `Non-English-translated` > `pt br`.
-
 ### 🧲 [Orpheus](https://orpheus.network) | OPS | [Entrevista](https://interview.orpheus.network/)
 - Focado em músicas.
 - Caso você não queira fazer a entrevista, devido ao longo tempo de espera ou por qualquer outro motivo, a OPS também pode ser acessada por meio do MAM, pois este último tem um processo muito mais rápido e fácil. O único requisito é ser PU.
@@ -193,6 +189,10 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [NNMClub](https://nnmclub.to/)
 - Tracker semi-privado russo.
+
+### 🧲 [Nyaa.si](https://nyaa.si/) / [Nyaa.land](https://nyaa.land/)
+- Referência quando o assunto é anime e obras asiáticas (_em japonês, mandarim, cantonês, coreano_).
+- Como pesquisar: `No filter` > `Non-English-translated` > `pt br`.
 
 ### 🧲 [Sktorrent](https://sktorrent.org/) 
 -  Tracker semi-privado focado em games.
