@@ -6,27 +6,29 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 **🌟 [Ublock Origin](https://github.com/gorhill/uBlock)** — Nunca se esqueça desta extensão.
 
-**[Redisex](https://redisex.club)** — Do mesmo dono do redecanais.
+[Redisex](https://redisex.club) — Do mesmo dono do redecanais.
 
-**[Sleazyfork](https://sleazyfork.org)**
+[Sleazyfork](https://sleazyfork.org)
 
-**[CPG repacks](https://cpgrepacks.site/)** — Repacks de jogos +18.
+[CPG repacks](https://cpgrepacks.site/) — Repacks de jogos +18.
 
-**[Only Fans Data Scrapper](https://github.com/DIGITALCRIMINAL/OnlyFans)**
+[Only Fans Data Scrapper](https://github.com/DIGITALCRIMINAL/OnlyFans)
 
-**[PriivaC Downloader](https://t.me/tgDownPrivacyBot)** - Download de mídias de assinaturas do Privacy.
+[PriivaC Downloader](https://t.me/tgDownPrivacyBot) - Download de mídias de assinaturas do Privacy.
 
-**[Hottok](https://t.me/hottoknowbot)** — Bot do Telegram que desnuda fotos.
+[Better Repack](https://dl.betterrepack.com/)
 
-**[Empornium](https://empornium.is/)** — Tracker de conteúdo explícito.
+[Hottok](https://t.me/hottoknowbot) — Bot do Telegram que desnuda fotos.
 
-**[ExoticaZ](https://exoticaz.to/)** — Tracker com foco em JAV sem ou com censura (possui photobooks também).
+[Empornium](https://empornium.is/) — Tracker de conteúdo explícito.
 
-**[9xbuddy](https://9xbuddy.site/)** — Faz o download de vídeos de quase todos os sites adultos.
+[ExoticaZ](https://exoticaz.to/) — Tracker com foco em JAV sem ou com censura (possui photobooks também).
 
-**[Os Reformados](https://osreformados.com/)**
+[9xbuddy](https://9xbuddy.site/) — Faz o download de vídeos de quase todos os sites adultos.
 
-**[COOMER](https://coomer.su/)** - Backup gratuito de todos os Onlyfans e Fansly.
+[Os Reformados](https://osreformados.com/)
+
+[COOMER](https://coomer.su/) - Backup gratuito de todos os Onlyfans e Fansly.
 
 
 ---
