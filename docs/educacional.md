@@ -197,10 +197,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🔗 [Solidários](https://t.me/GrupoSolidarios)
 
-### 🔗 [ENEM SOLIDÁRIO 2025!⏳📚!](https://t.me/Enemmateriais2025)
-
-- Comunidade ativa para compartilhamento de materiais para o ENEM.
-
 ### 🔗 [Minerva's Project](https://mnrv.lat)
 
 ## Está buscando Livros?
