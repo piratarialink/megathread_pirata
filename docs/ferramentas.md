@@ -127,7 +127,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 ## ► Filtros do uBO
 
 - 🌟 [**LegitimateURLShortener**](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt) - Deleta parâmetros de rastreamento de URLs do Google, YouTube, etc.
-- 🌟 [**oisd**](https://oisd.nl/) - Previne que seu aparelho se conecte a domínios não solicitados/maliciosos.
+- 🌟 [**OISD**](https://oisd.nl/) - Previne que seu aparelho se conecte a domínios não solicitados/maliciosos.
 - [Fanboy Annoyances List](https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt) - Remove Pop-Ups e outros incômodos.
 - [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - Tira os anúncios da Twitch.
 
