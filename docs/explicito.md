@@ -24,8 +24,6 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 [ExoticaZ](https://exoticaz.to/) — Tracker com foco em JAV sem ou com censura (possui photobooks também).
 
-[9xbuddy](https://9xbuddy.site/) — Faz o download de vídeos de quase todos os sites adultos.
-
 [Os Reformados](https://osreformados.com/)
 
 [COOMER](https://coomer.su/) - Backup gratuito de todos os Onlyfans e Fansly.
