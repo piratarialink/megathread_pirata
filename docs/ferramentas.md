@@ -258,7 +258,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [Cobalt](https://cobalt.tools/) - Baixe vídeos/áudios do youtube, tiktok, reddit, twitter e mais.
 - [Vidall](https://vidall.mobi/) - Baixe vídeos/áudios do youtube, tiktok, reddit, twitter e mais.
 - [y2mate](https://www.y2mate.com/) - Baixe o vídeo/áudio do youtube. (Não funciona mais nos EUA)
-- [9xbuddy](https://9xbuddy.online/) - Youtube / site de download de vários sites
+- [9xbuddy](https://9xbuddy.com/) - Youtube / site de download de vários sites
 - [sasrip](https://sasrip.cf/) - Downloader de vídeo / mp3
 - [tomato](https://tomato.to/) - Downloader de fotos. Shutterstock, getty, adobestock, etc.
 - [calameodownload](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento Calameo público como imagens ou PDF otimizado
