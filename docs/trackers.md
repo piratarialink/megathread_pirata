@@ -81,7 +81,6 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ### 🧲 [AvistaZ](https://avistaz.to/) | AZ
 - Concentrado em mídia asiática no idioma original somente, como doramas por exemplo.
 - O discord serve para avisar caso o tracker esteja com registro aberto.
-- Semelhante aos demais trackers privados, possui sistema de H&R.
 - É preciso logar a cada 30 dias e semear a cada 90 dias.
 - Você pode comprar uma seedbox de uma das empresas afiliadas para conseguir convite (o que pode não ser vantajoso para brasileiros, já que são seedboxes localizadas no Canadá ou na Europa).
   
@@ -172,6 +171,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
 - Tracker generalista.
 - Abrem para novos cadastros anualmente.
+- Semelhante aos demais trackers privados, também possui sistema de H&R.
  
 ---
 ## 🚪 ➜ Trackers Públicos e semi-privados
