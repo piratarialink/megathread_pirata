@@ -231,7 +231,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 * 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente. 
 * [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6.
 * [Parabolic](https://github.com/NickvisionApps/Parabolic) - Frontend para o yt-dlp.
-* 🌟 [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até 8k e em flac sem perder qualidade.
+* 🌟 [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade.
 * [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos.
 * [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy.
 * [Allvasoft](https://www.allavsoft.com/) - Downloader de vídeos.
