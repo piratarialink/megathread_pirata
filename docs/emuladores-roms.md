@@ -343,10 +343,14 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Jogos de console retrô no seu PC. Reviva sua infância agora mesmo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romulation.org/)
 
-### 🌟 [Vimm's Lair](https://vimm.net/)
+### 🔗 [Vimm's Lair](https://vimm.net/)
 
 - Dedicado a boas lembranças de vários sistemas e a milhares de jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
+
+### 🌟 [Ziperto](https://www.ziperto.com/home/)
+
+- Excelente para obter roms do Switch, apenas tome cuidado para não sair clicando em qualquer coisa e tenha o bom senso de usar ublock origin.
 
 ## 🧩 ➜ Projetos de decompilação
 
