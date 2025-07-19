@@ -319,6 +319,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Biblioteca de filmes e séries para assistir no IOS.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apps.apple.com/)
 
+### 🔗 [Fuzz TV](https://play.google.com/store/apps/details?id=com.zzuf.fuzz&hl=pt_BR)
+
+- Aplicativo com um extenso catálogo de filmes e séries de plataformas de streaming.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)
+
 ## 🧵 Torrents
 
 ### 🌟 [Starck Filmes](https://www.starckfilmes.com/)
