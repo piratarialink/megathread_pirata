@@ -170,7 +170,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
 - Tracker generalista.
 - Abrem para novos cadastros anualmente.
-- Semelhante aos demais trackers privados, também possui sistema de H&R.
+- Assim como os demais trackers privados, também possui sistema de H&R.
  
 ---
 ## 🚪 ➜ Trackers Públicos e semi-privados
