@@ -109,6 +109,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [CGpeers](https://www.cgpeers.to/login.php) | CGP
 - Tracker privado do blog CGPersia.com.
+- Um lugar comum para discutir sobre pirataria de produtos da Adobe.
 
 ### 🧲 Cinematik | TIK 
 - Não há recrutamento no momento.
