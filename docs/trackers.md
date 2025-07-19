@@ -95,6 +95,10 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [AudioNews](https://audionews.org/) | AN
 
+- AudioNews é um tracker de torrents projetado para produtores musicais, em vez de consumidores de música.
+- Possui programas e utilitários portáteis relacionados a áudio.
+- Códigos de convites são oferecidos frequentemente pelo telegram oficial.
+
 ### 🧲 [BakaBT](https://bakabt.me) | BBT
 - Tracker de anime muito antigo, conhecido por sua incrível retenção, mas não tem tanto conteúdo quanto o AB ou o Nyaa. Tem entrevistas para participar.
 
