@@ -88,7 +88,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [P-Stream](https://pstream.org/)
 
-- Filmes e séries em alta qualidade
+- Filmes e séries em 1080p ou em até 4k com o token do Real Debrid, extensão ou proxy personalizado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pstream.org/)
 
 ### 🌟 [Cinema Deck](https://cinemadeck.com/)
