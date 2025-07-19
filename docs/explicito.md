@@ -8,7 +8,7 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 **[Redisex](https://redisex.club)** — Do mesmo dono do redecanais.
 
-**[Sleazyfork](https://sleazyfork.org)** — Repositório de scripts para sites adultos.
+**[Sleazyfork](https://sleazyfork.org)**
 
 **[CPG repacks](https://cpgrepacks.site/)** — Repacks de jogos +18.
 
@@ -20,7 +20,7 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 **[Empornium](https://empornium.is/)** — Tracker de conteúdo explícito.
 
-**[Exoticaz](https://exoticaz.to/)** — Tracker com foco em JAV sem ou com censura (possui photobooks também).
+**[ExoticaZ](https://exoticaz.to/)** — Tracker com foco em JAV sem ou com censura (possui photobooks também).
 
 **[9xbuddy](https://9xbuddy.site/)** — Faz o download de vídeos de quase todos os sites adultos.
 
