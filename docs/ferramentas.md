@@ -267,7 +267,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 
 ## ► Seedboxes
 
-- **[Pago]** [ultra.cc](https://ultra.cc/) - Estabeleça um limite de semeação dentro do qBit para não prejudicar outros usuários: [**leia a documentação primeiro**](https://docs.ultra.cc/applications/qbittorrent).
+- **[Pago]** [ultra.cc](https://ultra.cc/) - De 1 até 50 Gbps de bandwidth, estabeleça um limite de semeação dentro do qBit para não prejudicar outros usuários: [**leia a documentação primeiro**](https://docs.ultra.cc/applications/qbittorrent).
 - **[Pago]** [whatbox.ca](https://whatbox.ca/plans) - Servidor localizado nos EUA (excelente para brasileiros) e maior tráfego se comparado com o ultra seedbox.
 
 ## ► **Segurança**
