@@ -348,7 +348,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Dedicado a boas lembranças de vários sistemas e a milhares de jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
-### 🌟 [**Ziperto**](https://www.ziperto.com/home/)
+### 🌟 [**Ziperto**](https://www.ziperto.com)
 
 - Excelente para obter roms do Switch, apenas tome cuidado para não sair clicando em qualquer coisa e tenha o bom senso de usar adblock.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ziperto.com/)
@@ -408,3 +408,5 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ## Está buscando Jogos de Computador?
 
 ➜ Confira nosso tópico sobre 🎮 [Jogos](jogos)
+
+➜ Para saber mais sobre o assunto confira a Megathread do [r/Roms](https://r-roms.github.io/)
