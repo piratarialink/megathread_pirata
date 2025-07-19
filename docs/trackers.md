@@ -82,7 +82,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Concentrado em mídia asiática no idioma original somente, como doramas por exemplo.
 - O discord serve para avisar caso o tracker esteja com registro aberto.
 - É preciso logar a cada 30 dias e semear a cada 90 dias.
-- Você pode comprar uma seedbox de uma das empresas afiliadas para conseguir convite (o que pode não ser vantajoso para brasileiros, já que são seedboxes localizadas no Canadá ou na Europa).
+- Com opção de comprar uma seedbox afiliada para conseguir convite (o que pode não ser vantajoso para brasileiros, já que são seedboxes localizadas no Canadá ou Europa).
   
 ### 🧲 [AlphaRatio](https://alpharatio.cc/) | AR
 - Tracker generalista
@@ -177,10 +177,12 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [Academic Torrents](https://academictorrents.com/)
 - Tracker público focado em educação.
+- Repositório com mais de 6 TB de papers e dados de pesquisa.
 
 ### 🧲 [Tracker2.Postman](http://tracker2.postman.i2p) 
 - Tracker público na rede I2P.
-
+- Experimental, grande parte dos torrents é filme.
+  
 ### 🧲 [Linuxtracker](https://linuxtracker.org/) 
 - Focado em ISOs Linux.
 
@@ -189,9 +191,10 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [NNMClub](https://nnmclub.to/)
 - Tracker semi-privado russo.
+- Versões de lançamento do Windows podem ser encontradas por aqui.
 
 ### 🧲 [Nyaa.si](https://nyaa.si/) / [Nyaa.land](https://nyaa.land/)
-- Referência quando o assunto é anime e obras asiáticas (_em japonês, mandarim, cantonês, coreano_).
+- Referência quando o assunto é anime e obras asiáticas.
 - Como pesquisar: `No filter` > `Non-English-translated` > `pt br`.
 
 ### 🧲 [Sktorrent](https://sktorrent.org/) 
@@ -199,6 +202,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [Rutracker](https://rutracker.net/) 
 -  Tracker generalista russo.
+-  Para usar a função de pesquisa, você precisa se cadastrar.
 
 ‎ 
 ‎ 
