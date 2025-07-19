@@ -117,7 +117,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/darkmahou.org/)
   
 #### 🌟 [Nyaa.si](https://nyaa.si/) / [Nyaa.land](https://nyaa.land/)
-- Referência quando o assunto é anime e obras asiáticas (_em japonês, chinês, coreano_).
+- Referência quando o assunto é anime e obras asiáticas (_em japonês, mandarim, cantonês, coreano_).
 - Como pesquisar: `No filter` > `Non-English-translated` > `pt br`.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/nyaa.si/)
 
