@@ -350,7 +350,8 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [Ziperto](https://www.ziperto.com/home/)
 
-- Excelente para obter roms do Switch, apenas tome cuidado para não sair clicando em qualquer coisa e tenha o bom senso de usar ublock origin.
+- Excelente para obter roms do Switch, apenas tome cuidado para não sair clicando em qualquer coisa e tenha o bom senso de usar adblock.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ziperto.com/)
 
 ## 🧩 ➜ Projetos de decompilação
 
