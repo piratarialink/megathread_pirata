@@ -53,7 +53,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Reconhece e manter a herança de numerosos videogames retro de vários sistemas e géneros.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/retrogamesonline.io/)
 
-### 🌟 [SSega](https://www.ssega.com/)
+### 🌟 [**SSega**](https://www.ssega.com/)
 
 - Jogue todos os jogos clássicos SEGA Genesis/Mega Drive de 16 bits disponíveis online em seu navegador.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ssega.com/)
@@ -108,7 +108,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Jogue a maioria dos jogos enquanto é continuamente atualizado com novos recursos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cemu.info/)
 
-### 🌟 [Dolphin](https://dolphin-emu.org/) • GameCube + Wii
+### 🌟 [**Dolphin**](https://dolphin-emu.org/) • GameCube + Wii
 
 - Excelente compatibilidade com a grande maioria dos jogos para ambos os sistemas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/dolphin-emu.org/)
@@ -148,7 +148,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Front-end mupen64plus baseado em C++ com uma interface de usuário simples.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🌟 [Ryujinx](https://git.ryujinx.app/ryubing/ryujinx) • Switch
+### 🌟 [**Ryujinx**](https://git.ryujinx.app/ryubing/ryujinx) • Switch
 
 - Fork feito pelo GreemDev com base no emulador original de Switch que foi descontinuado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ryujinx.app/)
@@ -190,7 +190,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Bom emulador multiplataforma que também suporta Naomi, Naomi 2 e Atomiswave.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🌟 [Kega Fusion](https://www.carpeludum.com/kega-fusion/) / [2](https://segaretro.org/Kega_Fusion) • Todos os consoles **lançados antes** Sega Saturn
+### 🌟 [**Kega Fusion**](https://www.carpeludum.com/kega-fusion/) / [2](https://segaretro.org/Kega_Fusion) • Todos os consoles **lançados antes** Sega Saturn
 
 - Uma enorme ênfase na precisão, altamente otimizada e funciona muito bem.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/carpeludum.com/)
@@ -207,12 +207,12 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Emulador de console com ênfase em jogabilidade, velocidade e acessibilidade de longo prazo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/duckstation.org/)
 
-### 🌟 [ePSXe](https://www.epsxe.com/) • PlayStation 1
+### 🌟 [**ePSXe**](https://www.epsxe.com/) • PlayStation 1
 
 - Emulador incrível que é rápido e fácil para começar a jogar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/epsxe.com/)
 
-### 🌟 [PCSX2](https://pcsx2.net/) • PlayStation 2
+### 🌟 [**PCSX2**](https://pcsx2.net/) • PlayStation 2
 
 - Um projeto de mais de 20 anos capaz de rodar a maioria dos jogos a toda velocidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pcsx2.net/)
@@ -234,12 +234,12 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## 💾 ➜ ROMs/ISOs
 
-### 🌟 [Internet Archive](https://archive.org/)
+### 🌟 [**Internet Archive**](https://archive.org/)
 
 -  Milhares de rom-sets e dumps de CD-ROMs em formato de ISO.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
-### 🌟 [Crocdb](https://crocdb.net/)
+### 🌟 [**Crocdb**](https://crocdb.net/)
 
 - ROMs para múltiplos sistemas com download direto do site.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/crocdb.net/)
@@ -293,7 +293,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - NSPs, XCIs e NSZs mais recentes para Nintendo Switch com apenas um clique.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nxbrew.net/)
 
-### 🌟 [SMWC](https://www.smwcentral.net/?p=main) 
+### 🌟 [**SMWC**](https://www.smwcentral.net/?p=main) 
 
 - Espaço voltado à preservação de romhacks da franquia super mario.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.smwcentral.net/)
@@ -313,7 +313,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Pretende fornecer todos os arquivos ROM ou ISO concebíveis para um jogo antigo arquivado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/retrostic.com/)
 
-### 🌟 [RHDN](https://romhacking.net)
+### 🌟 [**RHDN**](https://romhacking.net)
 
 - Explore ROM hacks, QoLs e homebrews para jogos da era 8, 16, 32 e 64 bits.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhacking.net/)
@@ -323,7 +323,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Mesmo conceito do RHDN.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhackplaza.org/)
 
-### 🌟 [Rom Hustler](https://romhustler.org/)
+### 🌟 [**Rom Hustler**](https://romhustler.org/)
 
 - Gama mais abrangente de ROMs excelentes disponíveis para download gratuito.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhustler.org/)
@@ -338,7 +338,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Explore mais de 30.000 roms verificadas, incluindo 3.000 pré-atualizadas e 5.000 traduções de fãs.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romspure.cc/)
 
-### 🌟 [RomUlation](https://www.romulation.org/)
+### 🌟 [**RomUlation**](https://www.romulation.org/)
 
 - Jogos de console retrô no seu PC. Reviva sua infância agora mesmo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romulation.org/)
@@ -348,7 +348,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Dedicado a boas lembranças de vários sistemas e a milhares de jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
-### 🌟 [Ziperto](https://www.ziperto.com/home/)
+### 🌟 [**Ziperto**](https://www.ziperto.com/home/)
 
 - Excelente para obter roms do Switch, apenas tome cuidado para não sair clicando em qualquer coisa e tenha o bom senso de usar adblock.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ziperto.com/)
@@ -386,7 +386,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## ❤ ➜ Projetos de tradução
 
-### 🌟 [Jacutem Sabão](https://jacutemsabao.bitbucket.io/download.html)
+### 🌟 [**Jacutem Sabão**](https://jacutemsabao.bitbucket.io/download.html)
 
 - Phoenix Wright / Ryūichi Naruhodō em português brasileiro, por fãs para fãs.
 
