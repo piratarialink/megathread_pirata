@@ -87,6 +87,7 @@
 | :------------- | :-------------------------- | :-------------------------------------------------------------------------------------------- |
 | CrackedFully   | crackedfully-com            | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | Ventoy          | ventoy-net                   | **Comportamento antiético** (_Detectado com backdoor_). |
+| 💩 Raton Downloads        | ratondownload-net-br                 | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_). |
 | HaxPC          | haxpc-net                   | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | KoLomPC        | kolompc-com                 | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | Portable4PC    | portable4pc-com             | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
