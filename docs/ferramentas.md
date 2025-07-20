@@ -23,7 +23,6 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Ativa instalações de licença de volume do Office e Windows. (Ativa o Windows e Office)
 * [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL.
 * [HWIDGEN](https://github.com/TheMCHK/HWIDGEN) - Ativa o Windows 10. Use o modo KMS38 para LTSC/Enterprise ou HWID para ativação permanente.
-* [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado. Também automatiza funções.
 * 🌟 [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário Windows de Chris Titus Tech - Instalar programas, ajustes, correções e atualizações.
 * [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Feito para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 10+.
 * 🌟 [**SophiApp**](https://github.com/Sophia-Community/SophiApp) - A ferramenta de código aberto mais poderosa no GitHub para configurar e fazer debloat do Windows 10 e Windows 11
@@ -31,6 +30,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * [Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer) - “Conserta” o Windows 11
 * [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece)
 * [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
+* [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado. Também automatiza funções.
 * 🌟 [**Chocolatey**](https://chocolatey.org/) - Um instalador de linha de comando para o Windows.
 * [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows translúcida/transparente.
@@ -366,7 +366,7 @@ Para hospedar servidores próprios de rust, minecraft, bot do telegram, storage 
 
 ## ► SSH
 
-São VPNs que usam o protocolo SSH para transmitir uma conexão de dados móveis sem limites.
+São VPNs que usam o protocolo SSH para transmitir uma conexão de dados móveis ilimitada.
 
 - [FastSSH](https://www.fastssh.com/page/ssh-over-websocket-servers)
 - [SSHconnect](https://sshconect.com.br/) 
@@ -374,7 +374,7 @@ São VPNs que usam o protocolo SSH para transmitir uma conexão de dados móveis
 - [HTTP Injector](https://httpinjector.com/)
 - [NetMod VPN Client](https://sourceforge.net/projects/netmodhttp/)
 
-## ► **Contas Ilimitadas**
+## ► **Contas & Vazamentos**
 
 :::warning O pirataria digital não responde pelo compartilhamento de dados pessoais por terceiros. 
 :::
