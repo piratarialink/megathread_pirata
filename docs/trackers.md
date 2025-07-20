@@ -213,8 +213,11 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Desde 2004 em atividade.
 - Para usar a função de pesquisa, é necessário se cadastrar.
 ‎ 
+
+‎‎ 
 ‎ 
 
+‎
 ---
 
 ➜ **[Veja a lista completa de trackers privados aqui](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)**
