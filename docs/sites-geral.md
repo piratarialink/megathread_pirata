@@ -179,7 +179,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 ### 🧲 [TorrentFunk](https://www.torrentfunk.com/)
 
 - Buscador rápido com as séries de TV, filmes, jogos, software e torrents de anime mais atualizados.
-- [URL Safety Results](https://www.urlvoid.com/scan/torrentfunk.com/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentfunk.com/)
 
 
 ### 🧲 [TorrentSeeker](https://www.torrentseeker.com/)
