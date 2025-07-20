@@ -226,6 +226,10 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ## 🌐 ➜ Jogos de navegador
 
+### 🌟 [Flashpoint Archive](https://flashpointproject.github.io/flashpoint-database/search/)
+
+- Projeto criado para preservar jogos e animações da web. A maioria das animações são gringas, mas muitos games que faziam parte da antiga click jogos estão presentes nesta lista.
+
 ### 🌟 [CrazyGames](https://www.crazygames.com/)
 
 - Melhor site para jogar jogos de navegador de primeira linha gratuitamente. Todos os dias, novos jogos são upados!
