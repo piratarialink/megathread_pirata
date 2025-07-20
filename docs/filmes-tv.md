@@ -290,7 +290,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 📺️ **[Pago]** [UniTV](https://unitvnet.com)
 
-- Entre no site com um DNS configurada. IPTV bem completa.
+- Entre no site com um DNS configurado. IPTV bem completa.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/unitvnet.com/)
 
 ### 📺️ [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023)
