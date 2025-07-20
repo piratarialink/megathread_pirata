@@ -228,7 +228,8 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🌟 [Flashpoint Archive](https://flashpointproject.github.io/flashpoint-database/search/)
 
-- Projeto criado para preservar jogos e animações da web. A maioria das animações são gringas, mas muitos games que faziam parte da antiga click jogos estão presentes nesta lista.
+- Projeto criado para preservar jogos e animações da web.
+A maioria das animações são gringas, mas muitos games que faziam parte da antiga click jogos estão presentes nesta lista.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/flashpointproject.github.io/)
   
 ### 🌟 [CrazyGames](https://www.crazygames.com/)
@@ -236,6 +237,16 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - Melhor site para jogar jogos de navegador de primeira linha gratuitamente. Todos os dias, novos jogos são upados!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/crazygames.com/)
 
+### 🔗 [Friv](https://www.friv.com/)
+
+- Portal clássico contendo sempre os melhores jogos, inclusive para smartphones. Tudo isso, sem interrupções por anúncios.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/friv.com/)
+
+### 🔗 [Nitrome](https://www.nitrome.com/all-games/)
+
+- Página pertencente aos produtores de Shovel Knight e Magic Touch, com games pensados para celulares e games em HTML5.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.nitrome.com/)
+  
 ### 🔗 [Addicting Games](https://www.addictinggames.com/)
 
 - Um dos sites de jogos mais populares, alcançando mais de dez milhões de usuários diferentes a cada mês.
@@ -248,13 +259,8 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [Cool Math Games](https://www.coolmathgames.com/)
 
-- Lógica, raciocínio e matemática são combinados com diversão neste site de treinamento cerebral para todos.
+- Criado com o propósito de passar uma aparência de site "didático" para quando você estiver fazendo nada na aula ou no trabalho.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/coolmathgames.com/)
-
-### 🔗 [Friv](https://www.friv.com/)
-
-- Portal clássico contendo sempre os melhores jogos, inclusive para smartphones. Tudo isso, sem interrupções por anúncios.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/friv.com/)
   
 ### 🔗 [Free Games Max](https://www.freegamesmax.com/)
 
@@ -270,6 +276,12 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 - Jogos online de seus clássicos retrô favoritos de SNES, NES, SEGA, GBA, GBX e muitos outros.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/playretrogames.com/)
+
+### 🔗 [Iguinho](https://iguinho.com.br/jogos-m.html)
+
+- Famoso site nacional dos anos 2000/2010 que ainda proporciona lazer e educação por meio de uma quantidade considerável de jogos.
+Episódios da série animada Gui & Estopa também podem ser vistos gratuitamente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/iguinho.com.br/)
 
 ## 🔦 ➜ Buscadores
 
