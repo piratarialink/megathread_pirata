@@ -246,6 +246,12 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Downloads de jogos e aplicativos Android mais recentes e seguros com mods testados incluídos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/farsroid.com/)
 
+### 🔗 [IOSGods](https://iosgods.com/)
+
+- Conhecido por trazer sempre os últimos lançamentos quando a questão é desbloquear aplicativos no IOS.
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/iosgods.com/)
+  
 ### 🔗 [iHackedit](https://ihackedit.com/)
 
 - Grande variedade de jogos, aplicativos e mods gratuitos, tornando-o uma ótima escolha.
