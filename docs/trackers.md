@@ -81,7 +81,6 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ### 🧲 [AvistaZ](https://avistaz.to/) | AZ
 - Concentrado em mídia asiática no idioma original somente, como doramas por exemplo.
 - O discord serve para avisar caso o tracker esteja com registro aberto.
-- É preciso logar a cada 30 dias e semear a cada 90 dias.
 - Existe a opção de comprar uma seedbox afiliada para conseguir convite.
   
 ### 🧲 [AlphaRatio](https://alpharatio.cc/) | AR
