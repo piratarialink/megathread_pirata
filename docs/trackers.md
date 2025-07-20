@@ -151,7 +151,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Séries de TV.
 - Pode ser acessado por meio do MAM. O único requisito é ser PU.
 
-### 🧲 [OnlyEncodes+](https://onlyencodes.cc/application)
+### 🧲 [OnlyEncodes+](https://onlyencodes.cc/application) | OE
 
 - Encodes x265 e AV1 para streaming.
 - Lançamento da cena tracker.
