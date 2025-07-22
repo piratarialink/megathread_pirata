@@ -279,7 +279,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [Sandboxie+](https://sandboxie-plus.com/) - "Sandbox" para computador fraco.
 - [Guia do r/techsupport sobre remoção de malware](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/)
 - [Passos preliminares para evitar contaminações por malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide/)
-- [Guia de segurança do MediaSavvy em PT-BR](https://mediasavvy-pages-dev.translate.goog/Wiki/Security?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)
+- [Guia do u/orchestralband](/posts/antivirus.md)
 
 ## ► Compartilhamento de arquivos
 
