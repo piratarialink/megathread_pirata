@@ -50,8 +50,8 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 * [OS.click](https://os.click/en/Windows) - Fornece download intacto de versões mais recentes do Windows.
 * [pastebin de abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
 * [pastebin de abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
-* [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Ferramenta da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
-* [Pacotes do Office para Mac](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac) - Página bem organizada para downloads de imagens do Mac Office.
+* [Microsoft Media Creation Tool](https://www.microsoft.com/pt-br/software-download/windows10) - Página da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
+* [Pacotes do Office para Mac](https://learn.microsoft.com/pt-br/officeupdates/update-history-office-for-mac) - Página bem organizada para downloads de imagens do Mac Office.
 
 ## ► **Adblockers & Bypassers**
 
@@ -305,7 +305,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Movie.Name.2005.1080p.BluRay.DD5.x264).
 - [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Mesmo conceito do filebot, mas gratuito.
 - [AdvancedRenamer](https://www.advancedrenamer.com/) - Mesmo conceito do filebot, mas gratuito.
-- [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Permite renomear por RegEx
+- [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Permite renomear por RegEx
 - [Ant Renamer](https://antp.be/software/renamer) - Ótimo para gerenciamento rápido de strings em massa (para Plex, por exemplo).
 
 ## ► **Extensões**
