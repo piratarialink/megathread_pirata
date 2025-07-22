@@ -11,17 +11,7 @@ Eu trabalho com engenharia reversa desde 2018, e a maioria do meu trabalho é ma
 
 O termo "malware" define vírus, trojans e afins. No geral, são arquivos maliciosos com o único objetivo de prejudicar você.
 
-Desde 2013, época em que eu pegava malware a cada segundo, sendo um jovem querendo baixar seu Minecraft e jogar na paz, fui aprendendo com o tempo qual era o botão correto de download, já que não sabia da existência dos bloqueadores de anúncios. Experimentei diferentes antivírus, até me tornar um antivírus rs.
-
-Norton, Avast, AVG, Avira, Kaspersky, BitDefender, McAfee, TotalAV, Windows Defender (Windows 7, 8 e 8.1) e MalwareBytes. Esses são os que eu lembro.
-
-## AdwCleaner e MalwareBytes
-
-Quando eu sabia que tinha pegado algum malware, desconectava a internet e procurava no "regedit" as pastas "Run", deletava o inicializador dos malwares. Depois reiniciava o computador e rodava o AdwCleaner. O sistema ficava como novo.
-
-O AdwCleaner foi comprado pela MalwareBytes em 2016.
-
-Desde então, comecei a escanear os computadores com o MalwareBytes, visando somente remover os malwares. Após isso, eu desinstalava o MalwareBytes.
+Desde 2013, época em que eu pegava malware a cada segundo, sendo um jovem querendo só jogar na paz, fui aprendendo com o tempo qual era o botão correto de download, já que não sabia da existência dos bloqueadores de anúncios. Experimentei diferentes antivírus como Norton, Avast, AVG, Avira, Kaspersky, BitDefender, McAfee, TotalAV, Windows Defender (Windows 7, 8 e 8.1) e MalwareBytes. Esses são os que eu lembro.
 
 ## Avira
 
@@ -55,9 +45,10 @@ McAfee é meh.
 
 ## Resumo
 
+- **BitDefender**: Use a versão de teste gratuita e, quando o teste estiver prestes a terminar, basta reiniciá-lo com outra conta.
 - **MalwareBytes**: somente para efetuar remoção de malware, não usar no dia a dia.
 - **Windows Defender (Windows 10 e 11)**: usar no dia a dia.
-
-Utilize uBlock Origin no navegador, preferência para Firefox ou LibreWolf (fork do Firefox).
+  
+Utilize o VirusTotal no navegador, dê preferência para a análise de antivírus com reputaçãon no mercado pois antivírus desconhecidos geralmente só detectam falsos positivos.
 
 O senso comum também ajuda, e conhecimentos básicos sobre sistemas operacionais ajudam a se prevenir de malwares.
