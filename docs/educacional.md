@@ -19,17 +19,19 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🌟 **[Cursos de programação Dev Samurai](https://class.devsamurai.com.br/)** - A plataforma encerrou as vendas e liberou o download gratuitamente de todos os conteúdos até dezembro de 2025.
 
-### 🌟 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode assistir aos cursos pelo Telegram
+### 🌟 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode assistir aos cursos pelo Telegram.
 
 ### ▶️ **[curso em vídeo](https://www.cursoemvideo.com/)** - Cursos
 
 ### ▶️ **[kultivi](https://app.kultivi.com/)** - Cursos
 
+### ▶️ **[mente binária](https://www.mentebinaria.com.br/cursos/)** - Cursos de engenharia reversa
+
 ### ▶️ **[primecursos](https://www.primecursos.com.br/)** - Cursos
 
 ### ▶️ **[cursa](https://cursa.app/pt)** - Cursos
 
-### ▶️ **[integra univesp](https://apps.univesp.br/integra/)** - Cursos
+### ▶️ **[integra univesp](https://apps.univesp.br/integra/)** - Cursos de ensino superior
 
 ### ▶️ **[canaldoensino](https://canaldoensino.com.br/blog/)** - Cursos
 
@@ -65,7 +67,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[ticemtrilhas](https://ticemtrilhas.org.br/)** - Cursos
 
-### ▶️ **[portal da matemática](https://portaldaobmep.impa.br/index.php/site/index?a=1)** - Cursos
+### ▶️ **[portal da matemática](https://portaldaobmep.impa.br/index.php/site/index?a=1)** - Cursos para a OBMEP
 
 ### ▶️ **[tecpop minas](https://tecpop.mg.gov.br/)** - Cursos
 
