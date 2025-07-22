@@ -276,7 +276,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [av-comparatives.org](https://www.av-comparatives.org/) - Análises de proteção antivírus.
 - [Windows Sandbox](https://learn.microsoft.com/pt-br/windows/security/application-security/application-isolation/windows-sandbox/) - Ambiente de testes.
 - [VirusTotal.com](https://www.virustotal.com/) / [Metadefender](https://metadefender.com/) - Serviços da Web que verificam arquivos e URLs.
-- [Sandboxie+](https://sandboxie-plus.com/) - "Sandbox" para PC fraco.
+- [Sandboxie+](https://sandboxie-plus.com/) - "Sandbox" para computador fraco.
 - [Guia do r/techsupport sobre remoção de malware](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/)
 - [Passos preliminares para evitar contaminações por malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide/)
 - [Guia de segurança do MediaSavvy em PT-BR](https://mediasavvy-pages-dev.translate.goog/Wiki/Security?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)
@@ -323,7 +323,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Protege contra tracking.
 - [LocalCDN](https://www.localcdn.org/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
 
-## ► Telegram
+## ► **Telegram**
 
 - [Vidsender](https://github.com/viniped/vidsender) - Método mais fácil para upar vários vídeos de uma vez só de forma organizada.
 - [Plus messenger](https://plusmessenger.org/) - Melhoria "visível" na velocidade de upload e download em dispositivos móveis.
@@ -333,6 +333,10 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [Tg mirror](https://github.com/viniped/tg_mirror) - Clona canais/grupos de maneira automatizada. Inicie o script com o foward_module.py.
 - [Save restricted content bot](https://t.me/Saverestrictedcont_Bot) - Use apenas em última hipótese caso não consiga salvar conteúdo protegido com o tg mirror.
 
+## ► **Discord**
+
+- [Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - Diretório de clientes não-oficiais, como o Aliucord (Android) e BetterDiscord (PC).
+  
 ## ► **Tor**
 
 :::warning  O pirataria digital não se responsabiliza por links, endereços de phishing, conteúdo ou eventuais perdas causadas dentro da rede.
@@ -358,14 +362,14 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [Mediafire Trend](https://mediafiretrend.com/) - Ferramenta de pesquisa para o Mediafire.
 - [File Pursuit](https://filepursuit.com/) - Milhões de arquivos em servidores da Web.
 
-## ► VPS grátis
+## ► **VPS grátis**
 
 Para hospedar servidores próprios de rust, minecraft, bot do telegram, storage e outros projetos.
 
 - [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter.
 - [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado principalmente na China para burlar o firewall.
 
-## ► SSH
+## ► **SSH**
 
 São VPNs que usam o protocolo SSH para transmitir uma conexão de dados móveis ilimitada.
 
@@ -392,7 +396,7 @@ São VPNs que usam o protocolo SSH para transmitir uma conexão de dados móveis
 - [Codelist](https://codelist.cc/v3/)
 - [SCRiPTMAFiA](https://scriptmafia.org/scripts/)
   
-## ► Ferramentas para Jogos
+## ► **Ferramentas para Jogos**
 
 #### ► **Geral**
 
