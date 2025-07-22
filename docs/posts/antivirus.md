@@ -1,4 +1,4 @@
-# 🪶 ➜ Os melhores antivírus ou menos piores?
+# 🪶 ➜ Os melhores e os "menos piores" antivírus
 
 :::info 
 Essa página foi um post tirado do Lemmy. 
