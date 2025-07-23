@@ -25,11 +25,11 @@ O Norton já tinha uma péssima reputação, vinha com os computadores da Samsun
 
 Com o lançamento do Windows 10, surgiu o Windows Defender, um antivírus para o dia a dia, simples, robusto, gratuito, eficaz e sem ofertas de pacotes pagos.
 
-## Kaspersky
+## Kaspersky (Desktop)
 
 O Kaspersky (russo) ganhou uma reputação no mercado e mudou os servidores para a Suécia. [Fonte](https://en.wikipedia.org/wiki/Kaspersky_Lab)
 
-Kaspersky foi banido dos Estados Unidos em 2024 [Fonte](https://www.pcmag.com/news/kaspersky-shutting-down-us-operations-following-nationwide-ban) e poderá continuar suas atividades até 29 de setembro de 2024. A razão:
+Kaspersky foi banido dos Estados Unidos em 2024 [Fonte](https://www.pcmag.com/news/kaspersky-shutting-down-us-operations-following-nationwide-ban). A razão:
 
 > Os reguladores dos EUA estão principalmente preocupados com o fato de que os laços da empresa de antivírus com a Rússia a expõem a possíveis explorações e podem permitir que o Kremlin (o governo russo) colete dados dos EUA ou, de outra forma, ganhe acesso aos computadores americanos.
 
