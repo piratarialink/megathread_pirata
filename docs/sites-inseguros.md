@@ -22,6 +22,7 @@
 | 💩 BrSociety      | brsociety-pro                 | **Fraude** (_Utiliza o nome do antigo BrSociety para pedir transferências em dinheiro_). |
 | "13**77**x" | 13**77**x-to                |  **Clone falso** (_Criado para enganar usuários de propósito_). |
 | 💩 The Pirate Bay  | thepiratebay-org (proxies)            | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                |
+| "9xbuddy" | 9xbuddy-online / 9xbuddy-site          |  **Clone Falso** (_Criado para enganar usuários de propósito_). |
 | 💩 4shared      | 4shared-com                 | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | KickassTorrents | kickasstorrents-to          |  **Clone falso** (_Criado para enganar usuários de propósito_). |
 | 💩 Baixaki      | baixaki-com-br              | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). | 
@@ -54,7 +55,7 @@
 | GOG Unlocked     | gogunlocked-com             | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | NexusGames       | nexus-games-net             | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | nosTeam          | nosteamgames-ro             | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
-| Ovagames     | ovagames-net            | **Clone falso**: (_Criado para enganar usuários de propósito_). |
+| "Ovagames"     | ovagames-net            | **Clone falso**: (_Criado para enganar usuários de propósito_). |
 | Repack-Games     | repack-games-com            | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
 | 💩 TLauncher     | tlauncher-org/            | **Comportamento antiético** (_Provável spyware de origem suspeita_). |
 | Steam-Repacks    | steam-repacks-com           | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_). |
