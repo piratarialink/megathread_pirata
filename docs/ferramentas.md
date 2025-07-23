@@ -84,7 +84,6 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
 - [Bypass paywalls - Método 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o agente do usuário para o Google Bot.
 - [Remove paywall](https://www.removepaywall.com/)
-- [12ft](https://12ft.io/)
 - [Smry](https://www.smry.ai/)
 - [ArchiveIs](https://archive.is/)
 
@@ -431,6 +430,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 - [Czkawka](https://github.com/qarmin/czkawka) - Varredura de duplicatas no Windows e Linux.
 - [doc downloader](https://docdownloader.com/) - Downloader de Issuu e Slideshare.
 - [Unddit](https://undelete.pullpush.io/) - Veja posts removidos do reddit.
+- [Rufus](https://rufus.ie/pt_BR/) - Grava imagens ISO em pendrive bootloader. 
 - [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries.
 - [Rewind](https://github.com/Neo23x0/Rewind) - Medidas imediatas contra infecção por vírus.
 - [Vdownloaders](https://scribd.vdownloaders.com/) - Visualize e baixe documentos do Scribd sem logar ou ter conta premium.
