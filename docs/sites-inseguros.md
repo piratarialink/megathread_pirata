@@ -39,7 +39,7 @@
 
 | 📋 \*_NOME_       | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                                              |
 | :---------------- | :-------------------------- | :----------------------------------------------------------------------------------------------------------- |
-| Z-Library Project | zlibrary-to                 |  **Clone falso** (_Criado para enganar usuários de propósito_). |
+| "Z-Library Project" | zlibrary-to                 |  **Clone falso** (_Criado para enganar usuários de propósito_). |
 
 
 # 🎮 ➜ Jogos
