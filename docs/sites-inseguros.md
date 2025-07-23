@@ -33,7 +33,7 @@
 
 | 📋 **NOME** | 🪢 **URL** (_Não clicável_)                                                                                                         | 🚩 **PERIGOSO**                                                                                     |
 | :---------- | :---------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
-| Zoro        | zorox-to / zoro-se / zoroanime-se / zoro-tv-site / zoro-uno / zoroto-online / zoroanime-org / zoroo-net / zoro-com-de / zorotv-city | **Clone falso**: (_Criado para enganar usuários de propósito_). |
+| "Zoro"        | zorox-to / zoro-se / zoroanime-se / zoro-tv-site / zoro-uno / zoroto-online / zoroanime-org / zoroo-net / zoro-com-de / zorotv-city | **Clone falso**: (_Criado para enganar usuários de propósito_). |
 
 # 📚 ➜ Livros
 
