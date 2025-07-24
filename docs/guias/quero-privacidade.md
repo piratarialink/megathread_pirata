@@ -12,7 +12,6 @@ Essa página ainda é um esboço. Feito com base nas recomendações do [orchest
 - Trocar a senha do wi-fi e roteador colando seu endereço IP na barra de URL do navegador
 - Criar passwords com espaços e caracteres próprios da língua portuguesa como `ç`, `~`, `'`
 - VPN: IVPN ou Mullvad
-- Email: Mailbox.org com Thunderbird + uBlock Origin
 - Gerenciador de senhas: Bitwarden ou KeePassXC
 - Armazenamento: HD ou SSD com Veracrypt, sem nuvem
 - Criptografia: Cryptomator e Veracrypt
@@ -41,7 +40,7 @@ Nós não possuímos nenhuma afiliação a essas plataformas de venda, compra e 
 ## O intermediário para privacidade
 
 - VPN: IVPN com Multihop
-- Email: mailbox.org + systemli.org com Thunderbird + uBlock Origin
+- Email: mailbox.org + systemli.org com Thunderbird + uBlock Origin ou Cock.li (Servidor XMPP)
 - Gerenciador de senhas: KeePassXC + systemli.org NextCloud
 - Armazenamento: HD ou SSD com Veracrypt
 - Criptografia: Cryptomator e Veracrypt
