@@ -136,10 +136,6 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 
 Mailbox.org é um serviço de e-mail baseado na Alemanha que oferece recursos avançados de privacidade e segurança. Ele fornece aos usuários endereços de e-mail personalizáveis, armazenamento de e-mail criptografado, filtro de spam eficiente e uma interface de usuário amigável. Além disso, o Mailbox.org oferece recursos como calendário, contatos, armazenamento de arquivos e ferramentas de colaboração, tornando-se uma solução abrangente para comunicação e produtividade. Sua ênfase na privacidade inclui criptografia de ponta a ponta, políticas rígidas de proteção de dados e opções de pagamento anônimo.
 
-### [ProtonMail](https://proton.me/mail)
-
-ProtonMail é um serviço de e-mail seguro e privado, desenvolvido na Suíça. Ele oferece criptografia de ponta a ponta para proteger a privacidade dos usuários, o que significa que apenas os remetentes e destinatários podem ler o conteúdo das mensagens. Além disso, ProtonMail não armazena as chaves de criptografia dos usuários em seus servidores, garantindo que mesmo em caso de violação de dados, as mensagens permaneçam seguras. Outros recursos incluem autenticação de dois fatores, capacidade de definir mensagens com prazo de validade e a opção de enviar mensagens criptografadas para usuários que não utilizam o ProtonMail.
-
 ## Sistema Operacional Android
 
 ### [GrapheneOS](https://grapheneos.org/)
