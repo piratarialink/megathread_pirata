@@ -172,6 +172,26 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - Jogos pré-instalados totalmente gratuitos! Nenhum conteúdo foi removido ou compactado e a fonte é confiável.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamrip.com/)
 
+### 🔗 [STEAMTURN](https://steamturn.com/)
+
+- Jogos pré-instalados totalmente gratuitos! Nenhum conteúdo foi removido ou compactado e a fonte é confiável.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamrturn.com/)
+
+### 🔗 [GAMERROOF](https://gamerroof.com/)
+
+- Jogos pré-instalados totalmente gratuitos! Nenhum conteúdo foi removido ou compactado e a fonte é confiável.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamerroof.com/)
+
+### 🔗 [EPINGI](https://epingi.com/)
+
+- Jogos pré-instalados totalmente gratuitos! Nenhum conteúdo foi removido ou compactado e a fonte é confiável.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/epingi.com/)
+
+### 🔗 [GAMEDEVID](https://gamedevid.com/)
+
+- Jogos pré-instalados totalmente gratuitos! Nenhum conteúdo foi removido ou compactado e a fonte é confiável.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamedevid.com/)
+  
 ### 🔗 [Reloaded Steam](https://reloadedsteam.com/)
 
 - Jogos pré-instalados, incluindo links diretos, juntamente com conteúdo DLC completo.
