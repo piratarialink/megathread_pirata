@@ -135,7 +135,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🧲 [Docspedia](https://docspedia.world/signup.php) - Cursos / Inscrição Necessária
 
-### 🧲 [Download Cursos Gratis](https://www.downloadcursos.org/) - Cursos nacionais
+### 🧲 [Download Cursos Gratis](https://downloadcursos.gratis/) - Cursos nacionais
 
 **_Use o [PopUpOFF](https://popupoff.org/) e desative o JS_**
 
