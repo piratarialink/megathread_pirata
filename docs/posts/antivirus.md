@@ -7,7 +7,7 @@ Essa página foi um post tirado do Lemmy.
 
 **Se quiser um resumo dos melhores antivírus, ele está no final do post. Grato.**
 
-Eu trabalho com engenharia reversa desde 2018, e a maioria do meu trabalho é manual, analiso "binaries", como chamamos no Brasil, executáveis. Utilizo o que há de mais recente no mercado para análise de malwares, como dnSpy, IDA Pro, Ghidra, x96dbg, entre outros programas.
+Eu trabalho com engenharia reversa desde 2018, e a maioria do meu trabalho é manual, analiso "binaries", como chamamos no Brasil, executáveis. Utilizo o que há de mais recente no mercado para análise de malwares, como **dnSpy**, **IDA Pro**, **Ghidra**, **x96dbg**, entre outros programas.
 
 O termo "malware" define vírus, trojans e afins. No geral, são arquivos maliciosos com o único objetivo de prejudicar você.
 
@@ -17,9 +17,15 @@ Desde 2013, época em que eu pegava malware a cada segundo, sendo um jovem quere
 
 Usei o Avira para os computadores que eu não virtualizava. Foi bom, até a Norton comprar a empresa. [Fonte](https://www.pcmag.com/news/nortonlifelock-buys-avira-to-expand-into-freemium-antivirus-protection)
 
-## Norton, Avast e AVG
+## Norton e AVG
 
-O Norton já tinha uma péssima reputação, vinha com os computadores da Samsung e ficava oferecendo pacotes. Mesmo modelo do AVG/Avast. "Funky bloatware".
+O Norton já tinha uma péssima reputação, vinha com os computadores da Samsung e ficava oferecendo pacotes. Mesmo modelo do AVG. "Funky bloatware".
+
+## Avast
+
+Não recomendo, especialmente após a Avast ser pega [roubando dados](https://www.cisoadvisor.com.br/avast-e-multada-em-us-165-mi-por-venda-de-dados-de-usuarios/) de usuários.
+
+_Nota: CCleaner é propriedade da mesma empresa._
 
 ## Windows Defender
 
