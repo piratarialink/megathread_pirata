@@ -39,6 +39,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Excelentes trilhas sonoras sem perdas e com perdas (_FLAC e MP3 320kbps_) de jogos, filmes e desenhos animados estão incluídas nesta coleção.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/3ost.ru/)
 
+### 🔗 [BitMidi](https://bitmidi.com/)
+
+- Ouça e compartilhe faixas de áudio MIDI de filmes, jogos e séries.
+- [Resultados de Segurança da URL](https://bitmidi.com/)
+
 ### 🔗 [AnimeThemes](https://animethemes.moe/)
 
 - Uma coleção impressionante e confiável de temas de OPs e EDs de anime com links diretos para conteúdo para download de alta qualidade.
@@ -119,9 +124,9 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Você pode pesquisar e baixar facilmente arquivos MP3 gratuitos do YouTube, que é rápido e muito simples de usar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytmp3hub.com/)
 
-### 🌐 [ytify](https://ytify.netlify.app/)
+### 🔗 [ytify](https://ytify.netlify.app/)
 
-- ytify é um cliente de streaming gratuito de áudio com eficiência de recursos para o YouTube e o YouTube Music
+- ytify é um cliente de streaming gratuito de áudio com eficiência de recursos para o YouTube e o YouTube Music.
 
 ## 🎵 ➜ Aplicativos para Desktop
 
@@ -222,7 +227,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Baixe músicas diretamente do Spotify, Apple Music, Amazon Music, Soundcloud, Qobuz, Deezer, Tidal, Napster, Beatport ou KKBOX gratuitamente.
 
 - Bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial. Disponivel temas para o client e outras personalizações.
-
+  
 ## 🔁 ➜ Ferramentas diversas
 
 ### 🌟 [LibreScore](https://github.com/LibreScore/dl-librescore)
