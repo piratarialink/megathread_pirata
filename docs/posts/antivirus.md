@@ -55,6 +55,6 @@ McAfee é meh.
 - **MalwareBytes**: somente para efetuar remoção de malware, não usar no dia a dia.
 - **Windows Defender (Windows 10 e 11)**: usar no dia a dia.
   
-Utilize o [VirusTotal](https://www.virustotal.com/gui/) e [Kaspersky Cloud](https://opentip.kaspersky.com/) no navegador, dê preferência para a análise de programas antivírus com reputação no mercado pois antivírus desconhecidos (como o Arcabit) geralmente só detectam falsos positivos.
+Utilize o [Hypatia](https://f-droid.org/en/packages/us.spotco.malwarescanner/) no Android e [VirusTotal](https://www.virustotal.com/gui/) / [Kaspersky Cloud](https://opentip.kaspersky.com/) no navegador, dê preferência para a análise de programas antivírus com reputação no mercado pois antivírus desconhecidos (como o Arcabit) geralmente só detectam falsos positivos.
 
 O senso comum também ajuda, e conhecimentos básicos sobre sistemas operacionais ajudam a te prevenir de malwares.
