@@ -40,6 +40,11 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Lista links oficiais de download de programas, com um destaque maior para os de código aberto.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/alternativeto.net/)
 
+### 🔗 [VirusTotal](https://virustotal.com/)
+
+- Inspeciona items e executáveis em cerca de setenta programas antivírus diferentes, dentro de um ambiente virtualizado e seguro.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/virustotal.com/)
+
 ### 🔗 [Torrentfreak](https://torrentfreak.com/)
 
 - Portal focado em trazer as últimas notícias sobre direitos autorais, privacidade e tudo relacionado a compartilhamento de arquivos.
