@@ -4,6 +4,8 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 ## ► Geral
 
+- [Como jogar jogos com Denuvo DRM de maneira offline gratuita](https://www.reddit.com/r/pirataria/comments/1lsnswb/como_jogar_jogos_com_denuvo_drm_offline_gratuito/?share_id=FMajA2wQvfeSRY_w8xv4C) - Feito por [u/Eduardo1502](https://www.reddit.com/user/Eduardo1502/)
+
 - [Existe alguma maneira de aumentar minha velocidade de seeding?](https://www.reddit.com/r/qBittorrent/comments/11d14hu/is_there_a_way_i_can_boost_my_seeding/) - Feito por [u/Equivalent-Ad-4490](https://www.reddit.com/user/Equivalent-Ad-4490/)
 
 - [Como usar um DNS Privado no Android e bloquear anúncios + desbloquear sites censurados](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/) - Feito por [u/YuriRosas](https://www.reddit.com/user/YuriRosas/)
