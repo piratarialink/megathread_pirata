@@ -42,7 +42,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🔗 [VirusTotal](https://virustotal.com/)
 
-- Inspeciona items e executáveis em cerca de setenta programas antivírus diferentes, dentro de um ambiente virtualizado e seguro.
+- Inspeciona items e executáveis em cerca de setenta programas antivírus diferentes, dentro de um ambiente completamente virtualizado e seguro.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/virustotal.com/)
 
 ### 🔗 [Torrentfreak](https://torrentfreak.com/)
