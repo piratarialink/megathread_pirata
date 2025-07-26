@@ -43,11 +43,11 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 * 🌟 [**GIM**](https://massgrave.dev/genuine-installation-media) - ISOs do Windows para rodar máquinas virtuais. Versões antigas do Office (2016/2013) também podem ser baixadas gratuitamente.
 * [files.rg-adguard.net](https://files.rg-adguard.net/) - Substituto do tb.rg-adguard.net.
+* [OS.click](https://os.click/en/Windows) - Fornece download intacto de versões mais recentes do Windows.
 * [arquivo corenoc.de](https://archive.org/details/digital_river) - ISOs do Windows 7 que estavam disponíveis no DigitalRiverContent da Microsoft CDN.
 * [the-eye.eu/public/MSDN](https://archive.org/details/MSDNArchive) - O backup de 2,7 TB do despejo MSDN do antigo The Eye. Tem muitas ISOs difíceis de encontrar, Windows 7, etc.
 * [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors para LTSB, LTSC e ISOs do Windows 10 da edição do consumidor. [Postagem original](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431) em MyDigitalLife fóruns.
 * [Windows ISOs em NNMClub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 11 da edição do consumidor.
-* [OS.click](https://os.click/en/Windows) - Fornece download intacto de versões mais recentes do Windows.
 * [pastebin de abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
 * [pastebin de abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Original [post em MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
 * [Microsoft Media Creation Tool](https://www.microsoft.com/pt-br/software-download/windows10) - Página da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
@@ -109,11 +109,12 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [greasyfork.org](https://greasyfork.org/) - Repo para incontáveis ​​userscripts úteis.
 - [userscripts-mirror.org](https://userscripts-mirror.org/) - Repositório alternativo de scripts. Espelho para Userscripts.org.
 - [openuserjs.org](https://openuserjs.org/) - repositório alternativo de scripts.
-- [TinyShield](https://cdn.jsdelivr.net/npm/@list-kr/tinyshield@latest/dist/tinyShield.user.js) - Defuser para os sites não saberem que você está usando adblock. 
-- [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adiciona botão ao lado de URLs encurtados que resolve o URL para sua localização verdadeira.
+- [TinyShield](https://cdn.jsdelivr.net/npm/@list-kr/tinyshield@latest/dist/tinyShield.user.js) - Defuser para os sites não saberem que você está usando adblock.
+- [Doceru Userscript](https://github.com/etoshy/Doceru-Userscript) - Extrai livros e documentos do docer.ar, docubra.com e doceru.com sem a necessidade de abrir o menu do inspecionar — com botão de download e barra de progresso. 
 - [Passei Direto Bypass](https://greasyfork.org/en/scripts/480840-passei-direto-bypass) - Desembaça respostas no site da Passei Direto.
 - [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Permite a cópia de texto de sites que tentam impedir a cópia.
-- [absolute-enable-right-click-and-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) - Permite clicar com o botão direito e copiar em sites que tentam evitar clicar com o botão direito, pode remover também proteções anti cópia para vídeos e imagens.
+- [absolute-enable-right-click-and-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) - Permite clicar com o botão direito e copiar em sites que tentam impedir isso, pode remover também proteções anti cópia para vídeos e imagens.
+- [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adiciona botão ao lado de links encurtados que resolve o URL para sua localização verdadeira.
 - [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Permite selecionar/realçar links em vez do comportamento padrão de arrastá-los.
 - [Botão Sci-hub](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adiciona um botão sci-hub a inúmeros sites de artigos acadêmicos/acadêmicos para desbloquear o artigo que está sendo visualizado.
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Evite a instalação de aplicativos indesejados.
