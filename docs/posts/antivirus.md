@@ -31,7 +31,7 @@ _Nota: CCleaner é propriedade da mesma empresa._
 
 Com o lançamento do Windows 10, surgiu o Windows Defender, um antivírus para o dia a dia, simples, robusto, gratuito, eficaz e sem ofertas de pacotes pagos.
 
-## Kaspersky (Desktop)
+## Panda e Kaspersky (Desktop)
 
 O Kaspersky (russo) ganhou uma reputação no mercado e mudou os servidores para a Suécia. [Fonte](https://en.wikipedia.org/wiki/Kaspersky_Lab)
 
@@ -41,7 +41,7 @@ Kaspersky foi banido dos Estados Unidos em 2024 [Fonte](https://www.pcmag.com/ne
 
 A Rússia tem acesso direto a eles, mas visa apenas agentes do governo. "You're safe kiddo."
 
-O Kaspersky construiu sua reputação através de anúncios, patrocinando grandes canais do YouTube. Mas é um antivírus russo, "funky" e "garbage".
+Conclusão: Assim como o Panda, o Kaspersky construiu sua reputação através de anúncios, patrocinando grandes canais do YouTube. Mas é um antivírus russo, "funky" e "garbage".
 
 ## Outros antivírus
 
