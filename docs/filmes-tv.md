@@ -73,6 +73,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Contém Filmes e Séries Atualizados Dublados e Legendados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
 
+### ▶️ [Clube do Dual](https://clubedodual.com/index.php?app=core&module=system&controller=login)
+
+- Forum de compartilhamento de faixas de dublagem em português brasileiro, é necessário ter um convite para se cadastrar.
+- [Resultados de segurança da URL](https://clubedodual.com/)
+
 ## 🆎 Legendados
 
 ### 🌟 [MovieMaze](https://moviemaze.cc/)
