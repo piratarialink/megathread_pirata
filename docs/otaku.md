@@ -31,12 +31,17 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Muda constantemente de domínio, para se manter atualizado confira o [discord oficial](https://discord.com/invite/kydZZBGwTy).
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/redecanais.gl/)
 
-#### ▶️ [Anroll](https://www.anroll.net/)
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/anroll.net/)
+#### ▶️ [AnimeDays](https://animedays.org/)
+
+- Site seguro para assistir animes **sem interrupções ou anúncios**.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animedays.org/)
 
 #### ▶️ [4anime](https://4anime.gg/)
 - Alternativa rápida após o encerramento do 4anime original. Os animes populares têm legendas em PT-BR.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/4anime.gg/)
+
+#### ▶️ [Anroll](https://www.anroll.net/)
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/anroll.net/)
 
 #### ▶️ [AnimeFire](https://animefire.plus/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animefire.plus/)
@@ -46,7 +51,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/hinatasoul.com/)
 
 #### ▶️ [Animes Digital](https://animesdigital.org/)
-- Site seguro para assistir animes **sem interrupções ou anúncios**.
+
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesdigital.org/)
 
 #### ▶️ [Animesonlinecc](https://animesonlinecc.org/)
