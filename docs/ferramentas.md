@@ -189,6 +189,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 
 * [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente audio codec AC3.
 * [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
+* [VLsub](https://github.com/opensubtitles/vlsub-opensubtitles-com) - Baixa legendas diretamente pelo vlc sem precisar ter que abrir o site do opensubtitles.
 * **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Plugin para acrescentar a opção de converter vídeos para MP4 no After Effects.
 * [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
 * [Dash-MPD-File](https://github.com/emarsden/dash-mpd-cli) - Uma aplicação cli para download de mídia em manifests MPD (MPEG_DASH).
@@ -428,7 +429,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
 - [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Burla o limite da taxa de donwload do Terabox.
 - [Czkawka](https://github.com/qarmin/czkawka) - Varredura de duplicatas no Windows e Linux.
-- [doc downloader](https://docdownloader.com/) - Downloader de Issuu e Slideshare.
+- [SlideSaver](https://slidesaver.app/) - Downloader de Slideshare.
 - [Unddit](https://undelete.pullpush.io/) - Veja posts removidos do reddit.
 - [Rufus](https://rufus.ie/pt_BR/) - Bootloader que armazena imagens ISO em um pendrive.
 - [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries.
