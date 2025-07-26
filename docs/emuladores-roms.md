@@ -333,6 +333,11 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Enciclopédia para ROMs e ISOs, onde você pode baixar vários jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romspedia.com/)
 
+### 🔗 [ROMSFUN](https://romsfun.com/)
+
+- Diretório com ISOs do PS3 e XBOX360 difíceis de se encontrar. Relativamente estável.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/romsfun.com/)
+
 ### 🔗 [ROMSPURE.CC](https://romspure.cc/)
 
 - Explore mais de 30.000 roms verificadas, incluindo 3.000 pré-atualizadas e 5.000 traduções de fãs.
