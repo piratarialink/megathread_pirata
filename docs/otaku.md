@@ -253,6 +253,11 @@ Na sidebar > `Guides` > `Extension Repos`.
 - Acesse facilmente mangás, webcomics e quadrinhos em seu dispositivo Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
+#### 🔗 [Komikku](https://github.com/komikku-app/komikku)
+
+- Um leitor de mangá FOSS baseado no TachiyomiSY e Mihon. 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
 #### 🔗 [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server)
 
 - Basicamente, a versão PC do Tachiyomi.
