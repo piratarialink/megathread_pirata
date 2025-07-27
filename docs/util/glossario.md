@@ -29,7 +29,7 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **Torrent**: Extensão de arquivos utilizados por um protocolo de transferência do tipo P2P.
 
-## Termos utilizados em títulos de filmes
+## Termos utilizados em títulos/trackers de filmes
 
 > Exemplos: Cinderela.Baiana.2022.1080p.web-dl.h264.dual-copy
 
@@ -221,7 +221,7 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **Pre-Tool**: usado para pré-lançar simultaneamente em vários sites.                 
 
-**PlayReady**: Ferramenta criada pela Microsoft para prevenção de cópia de mídia.
+**PlayReady**: Tecnologia criada pela Microsoft para prevenção de cópia de mídia.
 
 **Proxy**: Gateway que permite aos usuários se conectar à internet sem revelar seu IP real.     
 
