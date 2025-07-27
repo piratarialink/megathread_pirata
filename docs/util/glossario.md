@@ -131,7 +131,7 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **0-DAY [2]**: software, vídeos, músicas ou informações divulgadas ou obtidas no dia da divulgação pública.                  
 
-**1337**: Leetspeak, uma linguagem digital usada por gamers e também em cenas.
+**1337**: LEET ou Leetspeak, uma linguagem digital usada por gamers e também em cenas.
 
 **Abandonware**: Software não mais comercializado ou distribuído pela empresa que o criou, livre de direitos autorais.         
 
@@ -140,10 +140,6 @@ Desfrute da leitura e expanda seu conhecimento!
 **Affiliate**: grupo de liberação que faz seus pré-lançamentos em um site específico.       
 
 **AIO**: All-In-One, um pacote de software tudo-em-um.                
-
-**Ataque DDoS**: ataque distribuído de negação de serviço usando vários sistemas comprometidos para sobrecarregar um servidor. l
-
-**Ataque DoS**: tentativa de tornar um recurso de computador indisponível para seus usuários.
 
 **Arte ANSI**: arte gráfica construída a partir de um conjunto maior de 256 letras, números e símbolos.   
 
