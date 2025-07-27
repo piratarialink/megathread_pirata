@@ -129,7 +129,7 @@ Desfrute da leitura e expanda seu conhecimento!
 **0-DAY**: acesso a um lançamento dentro de um dia após o seu pré-lançamento.                                  
 **0-DAY [2]**: software, vídeos, músicas ou informações divulgadas ou obtidas no dia da divulgação pública.                  |
 
-**1337**: Leetspeak, uma linguagem digital usada por gamers e também em cenas.                                          |
+**1337**: Leetspeak, uma linguagem digital usada por gamers e também em cenas.                                          
 **Abandonware**: Software não mais comercializado ou distribuído pela empresa que o criou, livre de direitos autorais.         
 
 **Addline**: linha de texto contendo informações de registro usada para adicionar alguém a um site.                   
@@ -151,38 +151,39 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **CD**: compact Disc, disco de um lado que pode conter até 650-700Mb de dados.                                     
 **CDR****: Disco compacto gravável.                                   
-| Chanserv                | Serviço fornecido por muitas redes de IRC para permitir que você registre um canal.                           |
-| CLONECD / CLONEDVD      | Imagem completa de um CD/DVD original, não contém crack e é uma cópia fiel.                                   |
-| Crack                   | Modificação do software para remover a prevenção de cópia codificada.                                         |
+**Chanserv**: serviço fornecido por muitas redes de IRC para permitir que você registre um canal.                           
+**CLONECD / CLONEDVD**: imagem completa de um CD/DVD original, não contém crack e é uma cópia fiel.                                   
+**Crack**: modificação do software para remover a prevenção de cópia codificada.                                         |
 **Cracktro**: pequena sequência de introdução adicionada ao software crackeado para identificar o grupo de lançamento.   
 
 **DRM**: _Digital Rights Millennium_ é uma espécie de proteção extra contra cópia ou download. O DRM pode ter múltiplas chaves de descriptografia.
 
-**Eggdrop Bots**: bots de IRC que podem executar scripts, anúncios de sites, saída de RSS, entre outros.                        |
-| EMUDVD                  | Emulação DVD, requer um programa auxiliar em segundo plano para ignorar a proteção.                           |
-| Encoding                | Processo de conversão de um formato digital para outro.                                                       |
-| Exploit                 | Programa ou sequência de comandos que aproveita um bug, falha ou vulnerabilidade no software.                 |
-| Filling                 | Pessoas que colocam releases em um servidor FTP.                                                              |
-| Fserve                  | Sistema de negociação para IRC que permite que os usuários compartilhem arquivos diretamente.                 |
-| FTP                     | Protocolo de transferência de arquivos usado para mover arquivos entre computadores conectados à internet.    |
-| FXP                     | Protocolo de troca de arquivos, permite a transferência entre dois servidores FTP.                            |
-| FXP Boards              | Pessoas que exploram computadores vulneráveis e os preenchem com warez.                                       |
-| Hammer                  | Tentar novamente se conectar a um FTP sem timeout entre as tentativas quando o servidor está cheio.           |
-| IMG File                | Imagem de CD/DVD que pode ser gravada diretamente em um CD/DVD.                                               |
-| iND                     | Termo para categorizar usuários que não são membros de um grupo de lançamento.                                |
-| Internal                | Release feito internamente e disponível apenas para um número limitado de pessoas.                            |
-| IRC                     | Internet Relay Chat, uma enorme rede de canais de bate-papo baseados em texto.                                |
-| IRC Trading             | Usuários de IRC que baixam de "XDCC Bots" ou "Fserves".                                                       |
-| ISO File                | Imagem de CD/DVD que pode ser gravada diretamente em um CD/DVD.                                               |
-| Keygen                  | Programa que gera chaves de software aleatoriamente. Muito popular entre a scene antiga.                                  
-| Mount                   | Criar uma unidade de CD/DVD virtual com o conteúdo de um arquivo de imagem.                                   |
-| NickServ                | Serviço de IRC que permite registrar um apelido para protegê-lo de roubo.                                     |
-| NFO File                | Arquivo de texto com informações sobre o lançamento.                                            
-| NTSC                    | Padrão de formato de vídeo americano.                                                  
-| OS                      | Sistema operacional de um computador, como Windows ou Mac.                                                    
-| Partner Site            | Servidores FTP que hospedam lançamentos não oficiais da Scene e exigem pagamento para acesso.                 |
-| Peer-to-Peer            | Sistema de compartilhamento onde usuários podem baixar arquivos diretamente uns dos outros.                   |
-| PPF                     | Arquivo patch usado para corrigir CDs/DVDs corrompidos.                                                       |                |
+**Eggdrop Bots**: bots de IRC que podem executar scripts, anúncios de sites, saída de RSS, entre outros.                        
+**Encoding**: processo de conversão de um formato digital para outro.                                                       |
+**Exploit**: programa ou sequência de comandos que aproveita um bug, falha ou vulnerabilidade no software.                 |
+**Filling**: pessoas que colocam releases em um servidor FTP.                                                              
+**Fserve**: sistema de negociação para IRC que permite que os usuários compartilhem arquivos diretamente.      
+
+**FTP**: protocolo de transferência de arquivos usado para mover arquivos entre computadores conectados à internet.    
+
+**FXP**: protocolo de troca de arquivos, permite a transferência entre dois servidores FTP.                            
+**FXP Boards**: pessoas que exploram computadores vulneráveis e os preenchem com warez.                                       
+**Hammer**: tentar novamente se conectar a um FTP sem timeout quando o servidor está cheio.                                                    
+**iND**: termo para categorizar usuários que não são membros de um grupo de lançamento.                                
+**Internal**: release feito internamente e disponível apenas para um número limitado de pessoas.                            
+**IRC**: Internet Relay Chat, uma enorme rede de canais de bate-papo baseados em texto.                                
+**IRC Trading**: usuários de IRC que baixam de "XDCC Bots" ou "Fserves".                                   
+**ISO**: Imagem de CD/DVD que pode ser gravada diretamente em um CD/DVD.                                               |
+**Keygen**: programa que gera chaves de software aleatoriamente. Muito popular entre a scene antiga.                                  
+**Mount**: criar uma unidade de CD/DVD virtual com o conteúdo de um arquivo de imagem.                                   |
+**NickServ**: serviço de IRC que permite registrar um apelido para protegê-lo de roubo.                                     
+**NFO File**: arquivo de texto com informações sobre o lançamento.                                            
+**NTSC**: padrão de formato de vídeo americano.                                                  
+**OS**: sistema operacional de um computador, como Windows ou Mac.                                                    
+**Partner Site**: servidores FTP que hospedam lançamentos não oficiais da Scene e exigem pagamento para acesso.                 
+**Peer-to-Peer**: sistema de compartilhamento onde usuários podem baixar arquivos diretamente uns dos outros. 
+
+**PPF**: arquivo patch usado para corrigir CDs/DVDs corrompidos.                                                   
 **Pre-Database**: banco de dados com registros de títulos de lançamento, mas não para download.                                 |       |
 **Pre-Tool**: usado para pré-lançar simultaneamente em vários sites.                 
 
@@ -210,8 +211,7 @@ Desfrute da leitura e expanda seu conhecimento!
 **SSL**: protocolo de criptografia de camada de aplicação para transmissões seguras de mensagens em rede.            
 **Top Sites**: servidores FTP muito rápidos onde os grupos de lançamento compartilham seus releases.
 
-**Trainer**: programas feitos para modificar o comportamento de um jogo para permitir trapaças.                        
-**UMDRip**: aplicado apenas a jogos de PSP, algumas coisas são extraídas do jogo original.
+**Trainer**: programas feitos para modificar o comportamento de um jogo para permitir trapaças.                   
 
 **Widevine**: Proteção aprimorada criada pela Google contra cópia de arquivos em vídeo e áudio.
 
