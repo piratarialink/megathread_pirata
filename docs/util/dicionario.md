@@ -74,7 +74,7 @@
 
 **Download** - Tudo que você baixa da internet
 
-**Double Upload** - São períodos determinados pela staff dos trackers quando o seu upload para outros _peers_ vale por dois, o que, por conseguinte, aumenta o seu ratio signitificamente.
+**Double Upload** - São períodos em que o seu upload para outros _peers_ vale por dois, o que, por conseguinte, aumenta o seu ratio significativamente.
 
 **Freeleech** - Termo de sites trackers para torrents que não contam o download, ou seja, você pode baixar que não vai ser contabilizado o tanto que tu baixou, só o que upar
 
