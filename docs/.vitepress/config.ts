@@ -96,7 +96,6 @@ export default {
         collapsible: true,
         items: [
           { text: "ℹ️ Sobre", link: "sobre" },
-          { text: "📖 Dicionário", link: "util/dicionario" },
           { text: "📚 Glossário", link: "util/glossario" },
           { text: "🔗 Publicações úteis", link: "publicacoes" },
           { text: "🗺️ Guias", link: "guias" },
