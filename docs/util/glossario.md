@@ -161,7 +161,7 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **CD**: compact Disc, disco de um lado que pode conter até 650-700Mb de dados. 
 
-**CDR****: Disco compacto gravável.             
+**CDR**: Disco compacto gravável.             
 
 **Chanserv**: serviço fornecido por muitas redes de IRC para permitir que você registre um canal.     
 
