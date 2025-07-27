@@ -1,6 +1,8 @@
 # 🪶 ➜ Glossário dos Piratas
 
-- Bem-vindo ao nosso Glossário! Aqui, descubra os termos mais comuns utilizados na pirataria. Vamos facilitar o entendimento para que você se familiarize com as expressões frequentes neste espaço. Desfrute da leitura e expanda seu conhecimento!
+- Bem-vindo ao nosso Glossário! Aqui, descubra os termos mais comuns utilizados na pirataria.
+Vamos facilitar o entendimento para que você se familiarize com as expressões frequentes neste espaço.
+Desfrute da leitura e expanda seu conhecimento!
 
 ::: info Créditos ao FMHY pela ideia.
 :::
@@ -130,18 +132,24 @@
 **1337**: Leetspeak, uma linguagem digital usada por gamers e também em cenas.                                          |
 **Abandonware**: Software não mais comercializado ou distribuído pela empresa que o criou, livre de direitos autorais.         
 
-** Addline**: linha de texto contendo informações de registro usada para adicionar alguém a um site.                        |
-| Affiliate               | Grupo de liberação que faz seus pré-lançamentos em um site específico.                                        |
-| AIO                     | All-In-One, um pacote de software tudo-em-um.                                                                 |
-| Ataque DDoS             | Ataque distribuído de negação de serviço usando vários sistemas comprometidos para sobrecarregar um servidor. |
-| Ataque DoS              | Tentativa de tornar um recurso de computador indisponível para seus usuários.       
-| Arte ANSI               | Arte gráfica construída a partir de um conjunto maior de 256 letras, números e símbolos.                      |                    |
-| Backdoor                | Software oculto que permite o acesso remoto ao computador, ignorando a autenticação normal.                   |
-| BitTorrent              | Tipo especial de sistema Peer-to-Peer usado para downloads coordenados de várias peças de usuários.           |
-| Blu-Ray                 | Formato de disco óptico de alta definição para vídeo e armazenamento de dados de alta densidade.              |
-| BNC                     | Bouncer, um servidor que oculta o endereço IP real de um usuário em um servidor IRC.                          |
-| Buffer Overflow         | Erro causado quando um programa ou exploração tenta armazenar muitos dados em um buffer do que ele suporta.   |
-| CD                      | Compact Disc, disco de um lado que pode conter até 650-700Mb de dados.                                        |
+**Addline**: linha de texto contendo informações de registro usada para adicionar alguém a um site.                   
+**Affiliate**: grupo de liberação que faz seus pré-lançamentos em um site específico.                                        |
+**AIO**: All-In-One, um pacote de software tudo-em-um.                                                        **Ataque DDoS**: ataque distribuído de negação de serviço usando vários sistemas comprometidos para sobrecarregar um servidor. l
+
+**Ataque DoS**: tentativa de tornar um recurso de computador indisponível para seus usuários.
+
+**Arte ANSI**: arte gráfica construída a partir de um conjunto maior de 256 letras, números e símbolos.                                     
+**Backdoor**: Programa oculto que permite o acesso remoto a um dispositivo, ignorando a autenticação normal.                   
+
+**BitTorrent**: tipo especial de sistema Peer-to-Peer usado para downloads coordenados de vários materiais.
+
+**Blu-Ray**: Formato de disco óptico de alta definição para vídeo e armazenamento de dados de alta densidade.   
+
+**BNC**: bouncer, um servidor que oculta o endereço IP real de um usuário em um servidor IRC.                          
+
+**Buffer Overflow**: erro causado quando um programa ou exploração tenta armazenar muitos dados em um buffer do que ele suporta.   
+
+**CD**: compact Disc, disco de um lado que pode conter até 650-700Mb de dados.                                     
 **CDR****: Disco compacto gravável.                                   
 | Chanserv                | Serviço fornecido por muitas redes de IRC para permitir que você registre um canal.                           |
 | CLONECD / CLONEDVD      | Imagem completa de um CD/DVD original, não contém crack e é uma cópia fiel.                                   |
@@ -166,7 +174,7 @@
 | IRC                     | Internet Relay Chat, uma enorme rede de canais de bate-papo baseados em texto.                                |
 | IRC Trading             | Usuários de IRC que baixam de "XDCC Bots" ou "Fserves".                                                       |
 | ISO File                | Imagem de CD/DVD que pode ser gravada diretamente em um CD/DVD.                                               |
-| Keygen                  | Programa que gera chaves de software aleatoriamente. Muito popular entre a scene antigamente.                                  
+| Keygen                  | Programa que gera chaves de software aleatoriamente. Muito popular entre a scene antiga.                                  
 | Mount                   | Criar uma unidade de CD/DVD virtual com o conteúdo de um arquivo de imagem.                                   |
 | NickServ                | Serviço de IRC que permite registrar um apelido para protegê-lo de roubo.                                     |
 | NFO File                | Arquivo de texto com informações sobre o lançamento.                                            
@@ -175,14 +183,18 @@
 | Partner Site            | Servidores FTP que hospedam lançamentos não oficiais da Scene e exigem pagamento para acesso.                 |
 | Peer-to-Peer            | Sistema de compartilhamento onde usuários podem baixar arquivos diretamente uns dos outros.                   |
 | PPF                     | Arquivo patch usado para corrigir CDs/DVDs corrompidos.                                                       |                |
-| Pre-Database            | Banco de dados com registros de títulos de lançamento, mas não para download.                                 |       |
-| Pre-Tool                | Ferramenta usada para pré-lançar simultaneamente em vários sites.                                             |
-| Proxy                   | Gateway que permite aos usuários se conectar à internet sem revelar seu IP real.                              |
-| Proper                  | Versão corrigida de um lançamento anterior feito pelo mesmo grupo.                          |
-**Pubstro**: computador hackeado com servidor FTP para compartilhar warez entre a Comunidade FXP.                          |
-| R5                      | DVD lançado na Rússia antes de serem vendidos em outros lugares.                                              |
-| Rip                     | Filme lançado anteriormente que foi filtrado para corrigir cores, remover legendas etc.                       |
-| Rehack                  | Hackear um computador/pubstro que outra pessoa já hackeou e substituir o servidor FTP por outro.              |
+**Pre-Database**: banco de dados com registros de títulos de lançamento, mas não para download.                                 |       |
+**Pre-Tool**: usado para pré-lançar simultaneamente em vários sites.                 
+
+**PlayReady**: Ferramenta criada pela Microsoft para prevenção de cópia de mídia.
+
+**Proxy**: Gateway que permite aos usuários se conectar à internet sem revelar seu IP real.            
+
+**Proper**: versão corrigida de um lançamento anterior feito pelo mesmo grupo.                          
+**Pubstro**: computador hackeado com servidor FTP para compartilhar warez entre a Comunidade FXP.                          
+**R5**: DVD lançado na Rússia antes de ser vendido em outros lugares.                                           
+**Rehack**: hackear um computador/pubstro que outra pessoa já hackeou e substituir o servidor FTP por outro.              
+
 **Release**: rip de software, música, filmes etc., liberado por grupos especializados em lançamentos.        
 
 **Release Group**: grupos de pessoas que pirateiam e liberam software, música e filmes.                                          |
