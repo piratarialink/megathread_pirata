@@ -41,9 +41,7 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **BD-R**: Ripagem em totalidade do disco, contendo filme, extras, menu, trailers e tudo o que tiver no disco pode vir em .ISO ou aberto em BDMV
 
-**BLU-RAY REMUX**: Ripagem sem diminuir o tamanho ou os bitrates (esse processo de redução é também conhecido como encode)
-
-**BLU-RAY**: Conta com encode, mas é uma ripagem respeitando um limite mínimo para não perder tanta qualidade em telas de maiores resoluções, geralmente acha filmes entre 8 GB e 15 GB
+**BLU-RAY REMUX**: Ripagem de discos Blu-Ray sem diminuir o tamanho ou os bitrates (esse processo de redução é também conhecido como encode)
 
 **BRRIP**: Conta com muito encode, é buscado por pessoas com pouco espaço disponível para baixar, acha filmes na faixa dos 1 GB aos 5 GB
 
@@ -153,7 +151,7 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **BitTorrent**: tipo especial de sistema Peer-to-Peer usado para downloads coordenados de vários materiais.
 
-**Blu-Ray**: Formato de disco óptico de alta definição para vídeo e armazenamento de dados de alta densidade.   
+**Blu-Ray**: Formato de disco óptico de alta definição para vídeo e armazenamento de dados de alta densidade. Criado com o intuito de ofuscar a pirataria dos CDROMs.
 
 **BNC**: bouncer, um servidor que oculta o endereço IP real de um usuário em um servidor IRC.                          
 
@@ -199,7 +197,7 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **ISO**: Imagem de CD/DVD que pode ser gravada diretamente em um CD/DVD.         
 
-**Keygen**: programa que gera chaves de software aleatoriamente. Muito popular entre a scene antiga.   
+**Keygen**: programa que gera chaves de software aleatoriamente. Muito popular entre a scene, antigamente.   
 
 **Mount**: criar uma unidade de CD/DVD virtual com o conteúdo de um arquivo de imagem.           
 
