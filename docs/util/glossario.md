@@ -87,7 +87,7 @@ Desfrute da leitura e expanda seu conhecimento!
 
 > O ratio é usado para controlar o quanto você pode baixar, para isso existe o "mínimo ratio aceitável", mas busque sempre ter seu ratio acima de 1
 
-**Internal**: release feito internamente e disponível apenas para um número limitado de pessoas.    
+**Internal**: Release feito internamente e disponível apenas para um número limitado de pessoas.    
 
 **Buffer**: O quanto que você pode baixar até que seu Ratio seja o mínimo aceitável em um tracker
 
@@ -142,6 +142,8 @@ Desfrute da leitura e expanda seu conhecimento!
 **AIO**: All-In-One, um pacote de software tudo-em-um.                
 
 **Arte ANSI**: arte gráfica construída a partir de um conjunto maior de 256 letras, números e símbolos.   
+
+**Arte ASCII**: Arte gráfica construída a partir dos 95 caracteres imprimíveis definidos pelo ASCII.
 
 **Backdoor**: Programa oculto que permite o acesso remoto a um dispositivo, ignorando a autenticação normal.                   
 
@@ -214,6 +216,8 @@ Desfrute da leitura e expanda seu conhecimento!
 **Pre-Database**: banco de dados com registros de títulos de lançamento, mas não para download.    
 
 **Pre-Tool**: usado para pré-lançar simultaneamente em vários sites.                 
+
+**Playbook**: Servidor FTP onde os releases são armazenados.
 
 **PlayReady**: Tecnologia criada pela Microsoft para prevenção de cópia de mídia.
 
