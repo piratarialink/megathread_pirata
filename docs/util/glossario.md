@@ -4,7 +4,7 @@
 Vamos facilitar o entendimento para que você se familiarize com as expressões frequentes neste espaço.
 Desfrute da leitura e expanda seu conhecimento!
 
-::: info Créditos ao FMHY pela ideia.
+::: info Créditos ao [FMHY](https://rentry.org/The-Piracy-Glossary) pela ideia.
 :::
 
 ## Básico
