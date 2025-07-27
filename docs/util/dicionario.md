@@ -1,4 +1,9 @@
-# 🪶 ➜ Dicionário dos Piratas
+# 🪶 ➜ Glossário dos Piratas
+
+- Bem-vindo ao nosso Glossário! Aqui, descubra os termos mais comuns utilizados na pirataria. Vamos facilitar o entendimento para que você se familiarize com as expressões frequentes neste espaço. Desfrute da leitura e expanda seu conhecimento!
+
+::: info Créditos ao FMHY pela ideia.
+:::
 
 ## Básico
 
@@ -116,4 +121,87 @@
 
 **yEnc**: formato de codificação binária projetado para Usenet. Mais eficiente que o uuencode, reduz o tamanho do arquivo e o tempo de transmissão. Usa um conjunto de caracteres maior para representam dados binários. Amplamente adotado em comunidades Usenet. Requer Software compatível com yEnc para codificação e decodificação. Melhora o compartilhamento de arquivos Usenet experiência.
 
-> Guia feito por [u/anombaiano](https://www.reddit.com/user/anombaiano/) e [u/Wandrey](https://lemmy.eco.br/u/wandrey)
+## Outros
+
+**0-SEC**: acesso imediato a um lançamento após o seu pré-lançamento.                                                
+**0-DAY**: acesso a um lançamento dentro de um dia após o seu pré-lançamento.                                  
+**0-DAY [2]**: software, vídeos, músicas ou informações divulgadas ou obtidas no dia da divulgação pública.                  |
+
+**1337**: Leetspeak, uma linguagem digital usada por gamers e também em cenas.                                          |
+**Abandonware**: Software não mais comercializado ou distribuído pela empresa que o criou, livre de direitos autorais.         
+
+** Addline**: linha de texto contendo informações de registro usada para adicionar alguém a um site.                        |
+| Affiliate               | Grupo de liberação que faz seus pré-lançamentos em um site específico.                                        |
+| AIO                     | All-In-One, um pacote de software tudo-em-um.                                                                 |
+| Ataque DDoS             | Ataque distribuído de negação de serviço usando vários sistemas comprometidos para sobrecarregar um servidor. |
+| Ataque DoS              | Tentativa de tornar um recurso de computador indisponível para seus usuários.       
+| Arte ANSI               | Arte gráfica construída a partir de um conjunto maior de 256 letras, números e símbolos.                      |                    |
+| Backdoor                | Software oculto que permite o acesso remoto ao computador, ignorando a autenticação normal.                   |
+| BitTorrent              | Tipo especial de sistema Peer-to-Peer usado para downloads coordenados de várias peças de usuários.           |
+| Blu-Ray                 | Formato de disco óptico de alta definição para vídeo e armazenamento de dados de alta densidade.              |
+| BNC                     | Bouncer, um servidor que oculta o endereço IP real de um usuário em um servidor IRC.                          |
+| Buffer Overflow         | Erro causado quando um programa ou exploração tenta armazenar muitos dados em um buffer do que ele suporta.   |
+| CD                      | Compact Disc, disco de um lado que pode conter até 650-700Mb de dados.                                        |
+**CDR****: Disco compacto gravável.                                   
+| Chanserv                | Serviço fornecido por muitas redes de IRC para permitir que você registre um canal.                           |
+| CLONECD / CLONEDVD      | Imagem completa de um CD/DVD original, não contém crack e é uma cópia fiel.                                   |
+| Crack                   | Modificação do software para remover a prevenção de cópia codificada.                                         |
+**Cracktro**: pequena sequência de introdução adicionada ao software crackeado para identificar o grupo de lançamento.   
+
+**DRM**: _Digital Rights Millennium_ é uma espécie de proteção extra contra cópia ou download. O DRM pode ter múltiplas chaves de descriptografia.
+
+**Eggdrop Bots**: bots de IRC que podem executar scripts, anúncios de sites, saída de RSS, entre outros.                        |
+| EMUDVD                  | Emulação DVD, requer um programa auxiliar em segundo plano para ignorar a proteção.                           |
+| Encoding                | Processo de conversão de um formato digital para outro.                                                       |
+| Exploit                 | Programa ou sequência de comandos que aproveita um bug, falha ou vulnerabilidade no software.                 |
+| Filling                 | Pessoas que colocam releases em um servidor FTP.                                                              |
+| Fserve                  | Sistema de negociação para IRC que permite que os usuários compartilhem arquivos diretamente.                 |
+| FTP                     | Protocolo de transferência de arquivos usado para mover arquivos entre computadores conectados à internet.    |
+| FXP                     | Protocolo de troca de arquivos, permite a transferência entre dois servidores FTP.                            |
+| FXP Boards              | Pessoas que exploram computadores vulneráveis e os preenchem com warez.                                       |
+| Hammer                  | Tentar novamente se conectar a um FTP sem timeout entre as tentativas quando o servidor está cheio.           |
+| IMG File                | Imagem de CD/DVD que pode ser gravada diretamente em um CD/DVD.                                               |
+| iND                     | Termo para categorizar usuários que não são membros de um grupo de lançamento.                                |
+| Internal                | Release feito internamente e disponível apenas para um número limitado de pessoas.                            |
+| IRC                     | Internet Relay Chat, uma enorme rede de canais de bate-papo baseados em texto.                                |
+| IRC Trading             | Usuários de IRC que baixam de "XDCC Bots" ou "Fserves".                                                       |
+| ISO File                | Imagem de CD/DVD que pode ser gravada diretamente em um CD/DVD.                                               |
+| Keygen                  | Programa que gera chaves de software aleatoriamente. Muito popular entre a scene antigamente.                                  
+| Mount                   | Criar uma unidade de CD/DVD virtual com o conteúdo de um arquivo de imagem.                                   |
+| NickServ                | Serviço de IRC que permite registrar um apelido para protegê-lo de roubo.                                     |
+| NFO File                | Arquivo de texto com informações sobre o lançamento.                                            
+| NTSC                    | Padrão de formato de vídeo americano.                                                  
+| OS                      | Sistema operacional de um computador, como Windows ou Mac.                                                    
+| Partner Site            | Servidores FTP que hospedam lançamentos não oficiais da Scene e exigem pagamento para acesso.                 |
+| Peer-to-Peer            | Sistema de compartilhamento onde usuários podem baixar arquivos diretamente uns dos outros.                   |
+| PPF                     | Arquivo patch usado para corrigir CDs/DVDs corrompidos.                                                       |                |
+| Pre-Database            | Banco de dados com registros de títulos de lançamento, mas não para download.                                 |       |
+| Pre-Tool                | Ferramenta usada para pré-lançar simultaneamente em vários sites.                                             |
+| Proxy                   | Gateway que permite aos usuários se conectar à internet sem revelar seu IP real.                              |
+| Proper                  | Versão corrigida de um lançamento anterior feito pelo mesmo grupo.                          |
+**Pubstro**: computador hackeado com servidor FTP para compartilhar warez entre a Comunidade FXP.                          |
+| R5                      | DVD lançado na Rússia antes de serem vendidos em outros lugares.                                              |
+| Rip                     | Filme lançado anteriormente que foi filtrado para corrigir cores, remover legendas etc.                       |
+| Rehack                  | Hackear um computador/pubstro que outra pessoa já hackeou e substituir o servidor FTP por outro.              |
+**Release**: rip de software, música, filmes etc., liberado por grupos especializados em lançamentos.        
+
+**Release Group**: grupos de pessoas que pirateiam e liberam software, música e filmes.                                          |
+**Repacker**: entidade ou grupo que faz Repacks e os libera.                                        
+**ReScene**: versão corrigida de um lançamento anterior feito pelo mesmo grupo.                                          
+**Rip**: extrair ou copiar dados de um CD/DVD para outro formato.                                  
+**ROM**: imagem de software usada para emulação em hardware diferente.                                     
+**Sceneban**: indivíduo ou grupo banido da cena por fazer algo seriamente errado.            
+**Serial**: chave única para o software, funciona como segurança extra.                                       
+**SFV File**: usado para verificar se os arquivos foram corrompidos após a transferência.         
+
+**SQL Injection**: exploit que permite executar instruções SQL através de um navegador da internet.                              
+**SSL**: protocolo de criptografia de camada de aplicação para transmissões seguras de mensagens em rede.            
+**Top Sites**: servidores FTP muito rápidos onde os grupos de lançamento compartilham seus releases.
+
+**Trainer**: programas feitos para modificar o comportamento de um jogo para permitir trapaças.                        
+**UMDRip**: aplicado apenas a jogos de PSP, algumas coisas são extraídas do jogo original.
+
+**Widevine**: Proteção aprimorada criada pela Google contra cópia de arquivos em vídeo e áudio.
+
+**XDCC**: computador hackeado que serve como servidor de arquivos para IRC.                                             
+> Glossário feito por [u/anombaiano](https://www.reddit.com/user/anombaiano/), [u/Wandrey](https://lemmy.eco.br/u/wandrey) e [u/orchestralblend](https://www.reddit.com/user/orchestralblend/).
