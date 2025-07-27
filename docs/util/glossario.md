@@ -169,7 +169,7 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **Cracktro**: pequena sequência de introdução adicionada ao software crackeado para identificar o grupo de lançamento.   
 
-**DRM**: _Digital Rights Millennium_ é uma espécie de proteção extra contra cópia ou download. O DRM pode ter múltiplas chaves de descriptografia.
+**DRM**: _Digital Rights Millennium_ é uma espécie de proteção extra contra cópia ou download. O DRM pode ter múltiplas chaves de descriptografia dependendo do sistema (Playready, Widevine, entre outros).
 
 **Eggdrop Bots**: bots de IRC que podem executar scripts, anúncios de sites, saída de RSS, entre outros.
 
