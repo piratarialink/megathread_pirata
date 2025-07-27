@@ -73,7 +73,9 @@ Desfrute da leitura e expanda seu conhecimento!
 
 > Exemplo: magnet:?xt=urn:sha1:YNCKHTQCWBTRNJIV4WNAE52SJUQCZO5C
 
-**Semear (Seed)**: Estar disponibilizando o arquivo para demais pessoas baixarem
+**Semear**: Estar disponibilizando o arquivo para demais pessoas baixarem
+
+**Seed**: Quantidade de _peers_ semeando determinado torrent.
 
 **Upload**: Tudo que você envia pela internet
 
