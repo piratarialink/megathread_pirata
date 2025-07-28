@@ -51,7 +51,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Cataloga mods para aplicativos, músicas, fontes gratuitas, jogos e especialmente, programas crackeados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadgeral.com/) 
 ### 🔗 [Ecológica Verde](https://bsky.app/profile/ecologica.bsky.social)  
-- Se não tiverem postado o programa que você procura, peça no bsky ou no grupo do discord que em algum momento eles providenciam. 
+- Repackers brasileiros com conta do bluesky e grupo no discord bem ativo.
 ### 🔗 [FileRiver](https://fileriver.net/) 
 - Fileriver é um site para baixar programas gratuitos e ativadores
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fileriver.net/) 
