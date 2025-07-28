@@ -318,7 +318,7 @@ Episódios da série animada Gui & Estopa também podem ser vistos gratuitamente
 
 ### 🌟 [Ecológica Verde](https://bsky.app/profile/ecologica.bsky.social)
 
-- Perfil que divulga links confiáveis para jogos via torrent.
+- Perfil que divulga links confiáveis para jogos via torrent, também possui um grupo no discord bem movimentado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/x.com/)
 
 ### 🌟 [Steam Verde](https://steamverde.net/)
