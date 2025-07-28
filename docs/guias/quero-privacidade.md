@@ -40,7 +40,7 @@ Nós não possuímos nenhuma afiliação a essas plataformas de venda, compra e 
 ## O intermediário para privacidade
 
 - VPN: IVPN com Multihop
-- Email: mailbox.org + systemli.org com Thunderbird + uBlock Origin ou Cock.li (Servidor XMPP)
+- Email: mailbox.org + systemli.org com Thunderbird + uBlock Origin ou Cock.li (Servidor XMPP) + TailOS
 - Gerenciador de senhas: KeePassXC + systemli.org NextCloud
 - Armazenamento: HD ou SSD com Veracrypt
 - Criptografia: Cryptomator e Veracrypt
