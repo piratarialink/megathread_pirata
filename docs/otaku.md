@@ -64,7 +64,9 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### ▶️ [Q1N](https://q1n.net/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/q1n.net/)
 
-‎ 
+ #### ▶️ [Animes Totais](https://animestotais.xyz/)
+- Necessário cadastrar para acessar o site.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animestotais.xyz/)
 ‎ 
 
 ### 📥 ➜ Downloads Diretos
