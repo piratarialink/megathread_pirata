@@ -83,6 +83,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [BrainlyBypassPaywall](https://gitlab.com/Dwyriel/Greasyfork-Scripts/-/tree/main/BrainlyBypassPaywall?ref_type=heads) - Reseta a contagem diária do Brainly para evadir o paywall de limite diário.
 - [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
 - [Bypass paywalls - Método 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o agente do usuário para o Google Bot.
+- [Marreta](https://marreta.pcdomanual.com/)
 - [Remove paywall](https://www.removepaywall.com/)
 - [Smry](https://www.smry.ai/)
 - [ArchiveIs](https://archive.is/)
