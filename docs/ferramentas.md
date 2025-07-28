@@ -314,15 +314,15 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 :::warning Add-ons podem quebrar algumas páginas.
 :::
 
-- [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site. Também protege contra ataques XSS.
-- [PopUpOFF](https://popupoff.org/) - Burla pop-ups e bloqueadores.
+- [PopUpOFF](https://popupoff.org/) - Impede que pop-ups e bloqueadores carreguem, componente essencial para quem detesta anúncios.
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
-- [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados.
-- [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site.
-- [Port Authority](https://github.com/ACK-J/Port_Authority/) - Protege contra ataques port scan.
-- [Auto Referer](https://github.com/garywill/autoReferer?tab=readme-ov-file) - Controla o que é mandado como HTTP Referer em cada site.
-- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Protege contra tracking.
 - [LocalCDN](https://www.localcdn.org/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
+- [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados. Na minha opinião, melhor ferramenta para customizar e escurecer páginas.
+- [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site. Inspirado na extensão "I Don't Care about Cookies" e melhor.
+- [Auto Referer](https://github.com/garywill/autoReferer?tab=readme-ov-file) - Controla o que é mandado como HTTP Referer em cada site.
+- [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site. Também previne ataques XSS.
+- [Port Authority](https://github.com/ACK-J/Port_Authority/) - Defesa contra ataques port scan.
+- [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Protege contra tracking.
 
 ## ► **Telegram**
 
@@ -429,7 +429,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 ## ► **Ferramentas Diversas**
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
-- [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Burla o limite da taxa de donwload do Terabox.
+- [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de donwload do Terabox.
 - [Czkawka](https://github.com/qarmin/czkawka) - Varredura de duplicatas no Windows e Linux.
 - [SlideSaver](https://slidesaver.app/) - Downloader de Slideshare.
 - [Unddit](https://undelete.pullpush.io/) - Veja posts removidos do reddit.
