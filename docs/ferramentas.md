@@ -311,9 +311,6 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 
 ## ► **Extensões**
 
-:::warning Add-ons podem quebrar algumas páginas.
-:::
-
 - [PopUpOFF](https://popupoff.org/) - Impede que pop-ups e bloqueadores carreguem, componente essencial para quem detesta anúncios.
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
 - [LocalCDN](https://www.localcdn.org/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
