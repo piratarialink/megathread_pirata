@@ -12,7 +12,7 @@ Para evitar o limite de cota de download no Mega, siga estas etapas deste guia s
 
 ## 📑 ➜ [Download e Ativação do Windows e Office](guias/ativacao-office-win.md)
 
-Ative o Windows e o Office sem estresse? Este guia prático te mostra como. Descubra onde ativar esses programas de forma segura e aprenda a fazê-lo sem complicações. Seja configurando um novo PC ou atualizando seu software, este guia é o seu companheiro confiável para uma ativação tranquila.
+Quer ativar o Windows e o Office sem estresse? Este guia prático te mostra como. Descubra onde ativar esses programas de forma segura e aprenda a fazê-lo sem complicações. Seja configurando um novo PC ou atualizando seu software, este guia é o seu companheiro confiável para uma ativação tranquila.
 
 ## 📑 ➜ [Como bloquear os anúncios na Twitch](guias/twitch.md)
 
