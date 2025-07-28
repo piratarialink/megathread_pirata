@@ -12,7 +12,8 @@
 
 ## Passo 2
 
-Disclaimer: habilitar a opção 'Eu sou um usuário avançado', saiba que configurações deste tipo é por conta e risco do usuário, o r/pirataria se compromete em disponibilizar conteúdos que na nossa visão são seguros e confiáveis.
+Disclaimer: Partindo do pressuposto de que você já tenha experiência com a extensão, habilite a opção: 'Eu sou um usuário avançado'.
+O r/pirataria se compromete em disponibilizar conteúdos que na nossa visão são seguros e confiáveis.
 
 ![Twitch2](/images/twitch2.png)
 
