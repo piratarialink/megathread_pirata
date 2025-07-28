@@ -95,6 +95,8 @@ Desfrute da leitura e expanda seu conhecimento!
 
 > Interessante: Quando buffer está negativo, ele significa o quanto vc precisa upar (fazer upload) para que seu ratio seja igual ao mínimo aceitável.
 
+**Gazelle** / **UNIT3D**: Frameworks para tracker privado.
+
 ## Usenet
 
 **Usenet:** sistema de discussão pré-web (1979). Rede distribuída para baseado em texto compartilhamento de mensagens. Organizado em grupos de notícias. Popular entre as universidades. Usando protocolos como NNTP. Acesso através de software/serviços especializados. Texto, arquivos compartilhado.
