@@ -29,9 +29,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [4DOWNLOAD](https://4download.net/) 
 - Softwares completos, amostras de áudio, tutoriais, e-books e vídeos podem ser encontrados aqui.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4download.net/) 
-### 🔗 [Aedownload](https://aedownload.com/) 
-- Estão disponíveis centenas de novos modelos After Effects e Premiere Pro, incluindo efeitos sonoros.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/aedownload.com/) 
 ### 🔗 [AppNee](https://appnee.com/) 
 :::warning Carregou ativadores inseguros em várias ocasiões, navegue com cautela.
 :::
@@ -56,9 +53,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [FileRiver](https://fileriver.net/) 
 - Fileriver é um site para baixar programas gratuitos e ativadores
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fileriver.net/) 
-### 🔗 [Freepreset](https://freepreset.net/) 
-- Dedicado a ajudá-lo a obter predefinições de lightroom premium, luts, ações de photoshop e uma infinidade de outros materiais de design.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/freepreset.net/) 
 ### 🔗 [G-MEH](https://g-meh.com/) 
 - Dedicado a ferramentas de produção musical, incluindo DAWs e plugins. As bibliotecas de amostra só podem ser acessadas por membros premium.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/g-meh.com/) 
@@ -80,10 +74,8 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - DAWs, bibliotecas de samples, plug-ins VST, multitracks e outros softwares de produção musical são fortemente enfatizados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/magesy.blog/) 
 ### 🔗 [MicroTech](https://programs.themicrotech.net/) 
-- Visa simplificar o acesso aos arquivos das versões mais recentes, melhorando continuamente e mantendo-se atualizado com a tecnologia.
+- Visa simplificar o acesso aos programas mais recentes, melhorando continuamente e mantendo-se atualizado com a tecnologia mais moderna.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/programs.themicrotech.net/) 
-### 🔗 [motka](https://motka.net/) 
-- Projetado para fornecer ferramentas gratuitas de alta qualidade para designers, incluindo LUTs, mecanismos de som, software Adobe e plug-ins.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/motka.net/) 
 ### 🔗 [Mutaz](https://www.mutaz.pro/) 
 - Fornece downloads de software para dispositivos Windows, Mac e Android e não requer registro.
@@ -104,9 +96,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [Soft Gozar](https://www.softgozar.com/) • Interface em persa 
 - Atualizado frequentemente, com versões completas e irrestritas apenas dos melhores aplicativos disponíveis.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softgozar.com/) 
-### 🔗 [Vfxmed](https://www.vfxmed.com/) 
-- Add-ons para jogos, presets, modelos 3d para o blender, plugins _visual effects_.
-- Você precisará entrar no Discord do dono para conseguir os passwords de alguns programas.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/vfxmed.com/) 
 ### 🔗 [YasDL](https://www.yasdl.com/) • Interface em persa 
 - Belo catálogo de aplicativos gratuitos, jogos, software para Android, animação e muito mais.
@@ -121,7 +110,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Se estiver com alguma suspeita, rode o patcher dentro de uma VM ou [tente isso aqui](https://github.com/lstprjct/IDM-Activation-Script).
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/)
 
-## 🎨 ➜ Packs de recursos
+## 🎨 ➜ Pacotes de recursos
 
 ::: info Créditos vão para o [u/meffraz](https://mefrraz.github.io/hattered/pages/categories/graphics/graphic.html)
 :::
@@ -131,7 +120,16 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/aeriver.com/) 
 ### 🌟 [GFX Hub](https://gfx-hub.co/)
 - Apresenta uma mega coleção de assets para Unity, Adobe e design gráfico no geral.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gfx-hub.co/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gfx-hub.co/)
+### 🔗 [Aedownload](https://aedownload.com/) 
+- Estão disponíveis centenas de novos modelos After Effects e Premiere Pro, incluindo efeitos sonoros.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/aedownload.com/)
+### 🔗 [Freepreset](https://freepreset.net/) 
+- Dedicado a ajudá-lo a obter predefinições de lightroom premium, luts, ações de photoshop e uma infinidade de outros materiais de design.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/freepreset.net/)
+### 🔗 [motka](https://motka.net/) 
+- Projetado para fornecer ferramentas gratuitas de alta qualidade para designers, incluindo LUTs, mecanismos de som, software Adobe e plug-ins.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/motka.net/)
 ### 🔗 [PSD Keys](https://psdkeys.com/)
 - Templates para flyers, mockups para Photoshop, e quantidade enorme de tutoriais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/psdkeys.com/) 
@@ -140,7 +138,11 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadpirate.com/) 
 ### 🔗 [GraphicEx](https://graphicex.com/)
 - Vetores, imagens de stock, fontes gratuitas e centenas de brochuras.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/graphicex.com/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/graphicex.com/)
+### 🔗 [Vfxmed](https://www.vfxmed.com/) 
+- Add-ons para jogos, presets, modelos 3d para o blender, plugins _visual effects_.
+- Você precisará entrar no Discord do dono para conseguir os passwords de alguns programas.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/vfxmed.com/)
 ### 🔗 [Codelist](https://codelist.cc/v3/)
 - Temas e plugins para o WordPress.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/codelist.cc/) 
