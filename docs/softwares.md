@@ -112,27 +112,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Belo catálogo de aplicativos gratuitos, jogos, software para Android, animação e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yasdl.com/) 
 
-## 🎨 ➜ Packs de recursos
-
-::: info Créditos vão para o [u/meffraz](https://mefrraz.github.io/hattered/pages/categories/graphics/graphic.html)
-:::
-
-### 🔗 [AERiver](https://aeriver.com/)
-- Utilitários para _After Effects_ e templates Premiere Pro do VideoHive.
-### 🔗 [GFX Hub](https://gfx-hub.co/)
-- Apresenta uma mega coleção de assets para Unity, Adobe e design gráfico no geral.
-### 🔗 [PSD Keys](https://psdkeys.com/)
-- Templates para flyers, mockups para Photoshop, e mais de 
-### 🔗 [Download Pirate](https://www.downloadpirate.com/) 
-- Tonelada de mercadorias, incluindo LUTS, texturas, efeitos sonoros, edição de vídeo + plugins e gráficos em movimento.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadpirate.com/) 
-### 🔗 [GraphicEx](https://graphicex.com/)
-- Vetores, imagens de stock e fontes gratuitas e mais de 
-### 🔗 [Codelist](https://codelist.cc/v3/)
-- Temas e plugins para o WordPress. 
-### 🔗 [Weaplay](https://weaplay.net/)
-### 🔗 [SCRiPTMAFiA](https://scriptmafia.org/scripts/)
-
 ## 🧩 ➜ Patchers
 ### 🌟 [GenP](https://gen.paramore.su/)
 - Usado para estender a versão trial de aplicativos da Creative Cloud no Windows. [**Guia**](https://wiki.dbzer0.com/genp-guides/guide/)
@@ -141,6 +120,33 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Tutorial que ensina a ativar o Internet Download Manager.
 - Se estiver com alguma suspeita, rode o patcher dentro de uma VM ou [tente isso aqui](https://github.com/lstprjct/IDM-Activation-Script).
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/)
+
+## 🎨 ➜ Packs de recursos
+
+::: info Créditos vão para o [u/meffraz](https://mefrraz.github.io/hattered/pages/categories/graphics/graphic.html)
+:::
+
+### 🌟 [AERiver](https://aeriver.com/)
+- Utilitários para _After Effects_ e templates Premiere Pro do VideoHive.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/aeriver.com/) 
+### 🌟 [GFX Hub](https://gfx-hub.co/)
+- Apresenta uma mega coleção de assets para Unity, Adobe e design gráfico no geral.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gfx-hub.co/) 
+### 🔗 [PSD Keys](https://psdkeys.com/)
+- Templates para flyers, mockups para Photoshop, e mais de uma centena de tutoriais.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/psdkeys.com/) 
+### 🔗 [Download Pirate](https://www.downloadpirate.com/) 
+- Tonelada de mercadorias, incluindo LUTS, texturas, efeitos sonoros, edição de vídeo + plugins e gráficos em movimento.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadpirate.com/) 
+### 🔗 [GraphicEx](https://graphicex.com/)
+- Vetores, imagens de stock e fontes gratuitas e uma quantidade grande de tutoriais
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/graphicex.com/) 
+### 🔗 [Codelist](https://codelist.cc/v3/)
+- Temas e plugins para o WordPress.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/codelist.cc/) 
+### 🔗 [SCRiPTMAFiA](https://scriptmafia.org/) - Outro site com temas e plug-ins para WorPress.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scriptmafia.org/)
+  
 ## 🧵 ➜ Torrents 
 ### 🌟 [M0nkrus](https://w16.monkrus.ws/) | [📣](https://t.me/m0nkrus/) • Interface em russo 
 - Repacker Monkrus para diferentes aplicativos; altamente classificado, confiável e mais conhecido por seus repacks relacionados à Adobe.
