@@ -22,7 +22,10 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/) 
 ### 🌟 [Mobilism](https://forum.mobilism.org/index.php) • Necessário Cadastro 
 - Recurso obrigatório para aplicativos e livros. Muitas pessoas confiam nele e fornecem acesso às versões mais recentes dos arquivos.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/)
+### 🌟 [Sanet](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
+- Site referência na cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/) 
 ### 🔗 [4DOWNLOAD](https://4download.net/) 
 - Downloads completos de software, amostras de áudio, tutoriais, e-books e vídeos podem ser encontrados aqui.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4download.net/) 
@@ -100,8 +103,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [Scnlog](https://scnlog.me/) 
 - Banco de dados com uma variedade de programas para Windows, Mac e Linux.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
-### 🌟 [Sanet](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
-- Site referência na cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
 ### 🔗 [Soft Gozar](https://www.softgozar.com/) • Interface em persa 
 - Atualizado frequentemente, com versões completas e irrestritas apenas dos melhores aplicativos disponíveis.
@@ -115,8 +116,18 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ## 🔦 ➜ Buscadores 
 ### 🔍 [Buscador de Software Rave](https://ravesoftwaresearch.pages.dev/) 
-- Os usuários são ajudados pelo mecanismo de busca a encontrar downloads de software gratuito. InclInterface em novos links, bem como uma lista de sites atualizados.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ravesoftwaresearch.pages.dev/) 
+- Os usuários são ajudados pelo mecanismo de busca a encontrar downloads de software gratuito. Inclui interface com novos links, bem como uma lista de sites atualizados.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ravesoftwaresearch.pages.dev/)
+
+## 🎨 ➜ Gráficos e Vetores
+
+::: info Créditos vão para o [u/meffraz](https://mefrraz.github.io/hattered/pages/categories/graphics/graphic.html)
+:::
+
+### 🔗 [AERiver]()
+### 🔗 [GFX Hub]()
+### 🔗 [PSD Keys]()
+### 🔗 [GraphicEx]()
 
 ## 🧩 ➜ Patchers
 ### 🌟 [GenP](https://gen.paramore.su/)
