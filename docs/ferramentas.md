@@ -213,7 +213,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 
 > Alguns sites DDL podem oferecer apenas downloads por meio de links premium, o que significa que o download estará disponível por meio de um host de arquivo que bloquearia o download, a menos que você pagasse uma assinatura para esse host de arquivo. Os preços podem ser um pouco extravagantes, especialmente quando você considera que muitos sites DDL podem usar hosts de arquivos diferentes, portanto, não seria viável pagar por várias dessas assinaturas.
 
-- 🌟 **[Pago]** [**Real Debrid**](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o enxame do torrent, que é a principal causa de recebimento de cartas de violação de direitos autorais.
+- 🌟 **[Pago]** [**Real Debrid**](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o _torrent swarm_, que é a principal causa de recebimento de cartas de violação de direitos autorais.
 - **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito do real-debrid
 - **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid
 - **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também
