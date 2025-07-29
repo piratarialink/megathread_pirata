@@ -7,7 +7,7 @@ hero:
   text: Pirataria
   image:
     src: /logo.svg
-  tagline: Bem-vindo à Megathread Pirata
+  tagline: Guias e links recomendados pela comunidade do r/pirataria
   actions:
     - theme: brand
       text: Explorar
