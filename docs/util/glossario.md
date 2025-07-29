@@ -203,6 +203,8 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **Keygen**: programa que gera chaves de software aleatoriamente. Muito popular entre a scene, antigamente.   
 
+**Links premium**: Quando o download de um arquivo está disponível somente por meio de um host (NitroFlare, Rapidgator...) que bloqueia o seu acesso, a menos que você esteja disposto a pagar uma assinatura para esse host.   
+
 **Mount**: criar uma unidade de CD/DVD virtual com o conteúdo de um arquivo de imagem.           
 
 **NickServ**: serviço de IRC que permite registrar um apelido para protegê-lo de roubo.        
