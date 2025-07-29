@@ -76,7 +76,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [MicroTech](https://programs.themicrotech.net/) 
 - Visa simplificar o acesso aos programas mais recentes, melhorando continuamente e mantendo-se atualizado com a tecnologia mais moderna.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/programs.themicrotech.net/) 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/motka.net/) 
 ### 🔗 [Mutaz](https://www.mutaz.pro/) 
 - Fornece downloads de software para dispositivos Windows, Mac e Android e não requer registro.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mutaz.pro/) 
@@ -92,11 +91,9 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [Scnlog](https://scnlog.me/) 
 - Banco de dados com uma variedade de programas para Windows, Mac e Linux.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
 ### 🔗 [Soft Gozar](https://www.softgozar.com/) • Interface em persa 
 - Atualizado frequentemente, com versões completas e irrestritas apenas dos melhores aplicativos disponíveis.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softgozar.com/) 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/vfxmed.com/) 
 ### 🔗 [YasDL](https://www.yasdl.com/) • Interface em persa 
 - Belo catálogo de aplicativos gratuitos, jogos, software para Android, animação e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yasdl.com/) 
