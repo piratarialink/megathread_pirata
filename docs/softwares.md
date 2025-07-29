@@ -116,7 +116,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 :::
 
 ### 🌟 [AERiver](https://aeriver.com/)
-- Utilitários para _After Effects_ e templates Premiere Pro do VideoHive.
+- Utilitários para _After Effects_ e templates Premiere Pro "extraídos" do VideoHive.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/aeriver.com/) 
 ### 🌟 [GFX Hub](https://gfx-hub.co/)
 - Apresenta uma mega coleção de assets para Unity, Adobe e design gráfico no geral.
