@@ -133,13 +133,13 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Apresenta uma mega coleção de assets para Unity, Adobe e design gráfico no geral.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gfx-hub.co/) 
 ### 🔗 [PSD Keys](https://psdkeys.com/)
-- Templates para flyers, mockups para Photoshop, e mais de uma centena de tutoriais.
+- Templates para flyers, mockups para Photoshop, e quantidade enorme de tutoriais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/psdkeys.com/) 
 ### 🔗 [Download Pirate](https://www.downloadpirate.com/) 
 - Tonelada de mercadorias, incluindo LUTS, texturas, efeitos sonoros, edição de vídeo + plugins e gráficos em movimento.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadpirate.com/) 
 ### 🔗 [GraphicEx](https://graphicex.com/)
-- Vetores, imagens de stock e fontes gratuitas e uma quantidade grande de tutoriais
+- Vetores, imagens de stock, fontes gratuitas e centenas de brochuras.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/graphicex.com/) 
 ### 🔗 [Codelist](https://codelist.cc/v3/)
 - Temas e plugins para o WordPress.
