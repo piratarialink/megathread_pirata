@@ -199,7 +199,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 
 ## ► Gerenciadores de download
 
-> São úteis para sites DDL. Gerenciadores de download como esses destinam-se a ajudar a acelerar os downloads, geralmente aumentando o número de conexões com o servidor ou tentando dividir o download em partes. Eles também são especialmente úteis ao obter vários links de uma só vez, o que é típico de sites DDL, onde eles dividem grandes downloads em várias pequenas partes `.rar`, além de ignorar captchas e eliminar os riscos de clicar no link errado botão de download em vários hosts de arquivo. Eles também ajudam a retomar downloads pausados ​​ou expirados que seu navegador pode não ser capaz de fazer em alguns casos.
+> São úteis para sites DDL. Gerenciadores de download como estes abaixo destinam-se a ajudar a acelerar os downloads, geralmente aumentando o número de conexões com o servidor ou tentando dividir o download em partes. Eles também são especialmente úteis ao obter vários links de uma só vez, o que é típico de sites DDL, onde eles dividem grandes downloads em várias pequenas partes `.rar`, além de ignorar captchas e eliminar os riscos de clicar no link errado botão de download em vários hosts de arquivo. Eles também ajudam a retomar downloads pausados ​​ou expirados que seu navegador pode não ser capaz de fazer em alguns casos.
 
 - [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 
@@ -217,7 +217,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito do real-debrid
 - **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid
 - **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também
-- **[Trialware / gratuito]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
+- **[Trialware]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
 - [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd
 - [leechpremium](https://leechpremium.net/) - Este é um serviço de download gratuito com o qual você pode realizar downloads premium.
 **Desative o seu adblock e o ative novamente quando o site carregar.**
