@@ -390,12 +390,6 @@ São serviços de tunelamento que usam o protocolo SSH para transmitir uma conex
 - [Cracking.org](https://cracking.org/forums/premium-accounts.11/) - Contas de streaming.
 - [Crackia](https://crackia.com/forum/45-premium-accounts/) - Combolists e contas de streaming.
 - [CrackingX](https://crackingx.com) - Outro site de combolists e contas de streaming.
-
-## ► **Scripts e Códigos Premium**
-
-- [Weaplay](https://weaplay.net)
-- [Codelist](https://codelist.cc/v3/)
-- [SCRiPTMAFiA](https://scriptmafia.org/scripts/)
   
 ## ► **Ferramentas para Jogos**
 
