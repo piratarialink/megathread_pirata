@@ -56,8 +56,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [G-MEH](https://g-meh.com/) 
 - Dedicado a ferramentas de produção musical, incluindo DAWs e plugins. As bibliotecas de amostra só podem ser acessadas por membros premium.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/g-meh.com/) 
-### 🔗 [GFXDomain](https://gfxdomain.co/) 
-- Foco em recursos de uma variedade de programas para modelagem 3D, animação, gráficos em movimento, edição de vídeo e texturização.
 ### 🔗 [GetintoWAY](https://getintoway.com/) 
 - Oferece repacks pré-ativados, inclusive para os softwares da Adobe.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gfxdomain.co/) 
@@ -118,6 +116,9 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🌟 [GFX Hub](https://gfx-hub.co/)
 - Apresenta uma mega coleção de assets para Unity, Adobe e design gráfico no geral.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gfx-hub.co/)
+### 🔗 [GFXDomain](https://gfxdomain.co/) 
+- Foco em recursos de uma variedade de programas para modelagem 3D, animação, gráficos em movimento, edição de vídeo e texturização.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gfxdomain.co/) 
 ### 🔗 [Aedownload](https://aedownload.com/) 
 - Estão disponíveis centenas de novos modelos After Effects e Premiere Pro, incluindo efeitos sonoros.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/aedownload.com/)
