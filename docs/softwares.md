@@ -144,7 +144,8 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [Codelist](https://codelist.cc/v3/)
 - Temas e plugins para o WordPress.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/codelist.cc/) 
-### 🔗 [SCRiPTMAFiA](https://scriptmafia.org/) - Outro site com temas e plug-ins para WorPress.
+### 🔗 [SCRiPTMAFiA](https://scriptmafia.org/) 
+- Outro site com temas e plug-ins para WorPress.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scriptmafia.org/)
   
 ## 🧵 ➜ Torrents 
