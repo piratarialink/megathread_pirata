@@ -34,7 +34,11 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 :::
 
 - Concentra-se em programas gratuitos, independentes e portáteis e dedica-se a fornecer constantemente software útil aos usuários.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/appnee.com/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/appnee.com/)
+### 🔗 [Apps Torrent](https://appstorrent.ru/) • MacOS
+- Blog russo extremamente útil para usuários da Apple.
+**Use tradutor.**
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/appstorrent.ru/)
 ### 🔗 [Audio wareZ](https://audioz.download/) 
 - Hiper focado em software de produção musical, como DAWs, atualizações de bibliotecas de samples, plugins VST, multitracks e conteúdo relacionado.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audioz.download/) 
@@ -61,7 +65,10 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/getintoway.com/) 
 ### 🔗 [Gustavortech](https://gustavortech.com/)
 - Disponibiliza alguns cracks gratuitos de programas.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gustavortech.com/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gustavortech.com/)
+### 🔗 [Haxmac](https://haxmac.cc/) • MacOS
+- Distribui aplicativos desbloqueados da Apple e da Adobe.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/haxmac.cc)
 ### 🔗 [MSJ](https://www.macserialjunkie.com/forum/) • Cadastre-se • MacOS 
 - Bom fórum de discussão onde os membros da comunidade discutem tudo sobre o MacOS e trocam softwares e jogos crackeados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/macserialjunkie.com/) 
@@ -141,12 +148,12 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Add-ons para jogos, presets, modelos 3d para o blender, plugins _visual effects_.
 - Você precisará entrar no Discord do dono para conseguir os passwords de alguns programas.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/vfxmed.com/)
+### 🔗 [SCRiPTMAFiA](https://scriptmafia.org/) 
+- e-books, coleções GFX e scripts premium.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scriptmafia.org/)
 ### 🔗 [Codelist](https://codelist.cc/v3/)
 - Temas e plugins para o WordPress.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/codelist.cc/) 
-### 🔗 [SCRiPTMAFiA](https://scriptmafia.org/) 
-- Outro site com temas e plugins para WordPress.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scriptmafia.org/)
 
 ## 🔦 ➜ Buscadores 
 ### 🔍 [Buscador de Software Rave](https://ravesoftwaresearch.pages.dev/) 
