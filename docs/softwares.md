@@ -147,7 +147,11 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [SCRiPTMAFiA](https://scriptmafia.org/) 
 - Outro site com temas e plugins para WordPress.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scriptmafia.org/)
-  
+
+## 🔦 ➜ Buscadores 
+### 🔍 [Buscador de Software Rave](https://ravesoftwaresearch.pages.dev/) 
+- Os usuários são ajudados pelo mecanismo de busca a encontrar downloads de software gratuito. Inclui interface com novos links, bem como uma lista de sites atualizados.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ravesoftwaresearch.pages.dev/) 
 ## 🧵 ➜ Torrents 
 ### 🌟 [M0nkrus](https://w16.monkrus.ws/) | [📣](https://t.me/m0nkrus/) • Interface em russo 
 - Repacker Monkrus para diferentes aplicativos; altamente classificado, confiável e mais conhecido por seus repacks relacionados à Adobe.
