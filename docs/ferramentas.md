@@ -211,7 +211,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 
 ## ► Serviços de download
 
-> Alguns sites DDL podem oferecer apenas downloads através de links premium, o que significa que o download estará disponível por meio de um host de arquivo (Nitroflare, Rapidgator...) que bloqueia o download, a menos que você pague uma assinatura para esse host de arquivo. Os preços podem ser um pouco extravagantes, especialmente quando você considera que muitos sites DDL podem usar hosts de arquivos diferentes, portanto, não seria viável pagar por várias dessas assinaturas.
+> Alguns sites DDL podem oferecer apenas downloads através de links premium, o que significa que o download do arquivo estará disponível somente por meio de um host (Nitroflare, Rapidgator...) que bloqueia o seu acesso, a menos que você esteja disposto a pagar uma assinatura para esse mesmo host. Os preços podem ser um pouco extravagantes, especialmente quando você considera que muitos sites DDL podem usar hosts de arquivos diferentes, portanto, não seria viável pagar por várias dessas assinaturas.
 
 - 🌟 **[Pago]** [**Real Debrid**](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o _torrent swarm_, que é a principal causa de recebimento de cartas de violação de direitos autorais.
 - **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito do real-debrid
