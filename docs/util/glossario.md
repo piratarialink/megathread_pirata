@@ -161,7 +161,7 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **CD**: compact Disc, disco de um lado que pode conter até 650-700Mb de dados. 
 
-**CDM**: Chave de descriptografia para conteúdo protegido por DRM.
+**CDM**: Chave de descriptografia para conteúdo protegido por DRM. 
 
 **CDR**: Disco compacto gravável.             
 
@@ -203,7 +203,7 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **Keygen**: programa que gera chaves de software aleatoriamente. Muito popular entre a scene, antigamente.   
 
-**Links premium**: Quando o download de um arquivo está disponível somente por meio de um host (NitroFlare, Rapidgator...) que bloqueia o seu acesso, a menos que você esteja disposto a pagar uma assinatura para esse host.   
+**Links premium**: Quando o download de um arquivo está disponível somente por meio de um host (NitroFlare, Rapidgator...) que bloqueia o seu acesso, a menos que você esteja disposto a pagar uma assinatura para esse mesmo host.   
 
 **Mount**: criar uma unidade de CD/DVD virtual com o conteúdo de um arquivo de imagem.           
 
