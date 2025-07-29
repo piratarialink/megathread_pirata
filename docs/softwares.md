@@ -51,7 +51,8 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Cataloga mods para aplicativos, músicas, fontes gratuitas, jogos e especialmente, programas crackeados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadgeral.com/) 
 ### 🔗 [Ecológica Verde](https://bsky.app/profile/ecologica.bsky.social)  
-- Repackers brasileiros com conta do bluesky e grupo no discord bem ativo.
+- Perfil no bluesky com links confiáveis e grupo no discord bem ativo.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bsky.app/) 
 ### 🔗 [FileRiver](https://fileriver.net/) 
 - Fileriver é um site para baixar programas gratuitos e ativadores
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fileriver.net/) 
@@ -122,7 +123,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Usado para estender a versão trial de aplicativos da Creative Cloud no Windows. [**Guia**](https://wiki.dbzer0.com/genp-guides/guide/)
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gen.paramore.su/)
 ### 🔗 [Install IDM](https://rentry.org/installidm)
-- Tutorial que ensina a ativar o Internet Download Manager.
+- Tutorial que ensina a ativar o Internet Download Manager. Se estiver com alguma suspeita, rode o patcher dentro de uma VM ou [tente isso aqui](https://github.com/lstprjct/IDM-Activation-Script).
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/)
 ## 🧵 ➜ Torrents 
 ### 🌟 [M0nkrus](https://w16.monkrus.ws/) | [📣](https://t.me/m0nkrus/) • Interface em russo 
