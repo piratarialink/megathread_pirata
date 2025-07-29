@@ -58,7 +58,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/g-meh.com/) 
 ### 🔗 [GetintoWAY](https://getintoway.com/) 
 - Oferece repacks pré-ativados, inclusive para os softwares da Adobe.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gfxdomain.co/) 
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/getintoway.com/) 
 ### 🔗 [Gustavortech](https://gustavortech.com/)
 - Disponibiliza alguns cracks gratuitos de programas.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gustavortech.com/) 
