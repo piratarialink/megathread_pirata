@@ -13,7 +13,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 :::
 
-## 📥 ➜ Downloads Diretos 
+## 🛠 ➜ Crackers
 ### 🌟 [LRepacks](https://lrepacks.net/) • Interface em russo 
 - Numerosos aplicativos portáteis e utilitários que são apreciados pelos usuários por mais de dez anos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lrepacks.net/)
@@ -27,7 +27,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Site referência na cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/) 
 ### 🔗 [4DOWNLOAD](https://4download.net/) 
-- Downloads completos de software, amostras de áudio, tutoriais, e-books e vídeos podem ser encontrados aqui.
+- Softwares completos, amostras de áudio, tutoriais, e-books e vídeos podem ser encontrados aqui.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4download.net/) 
 ### 🔗 [Aedownload](https://aedownload.com/) 
 - Estão disponíveis centenas de novos modelos After Effects e Premiere Pro, incluindo efeitos sonoros.
@@ -47,9 +47,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [DIAKOV](https://diakov.net/) • Interface em russo 
 - Vasta seleção de software. Atualizações todos os dias; sempre a versão mais recente. Várias opções com hosts de arquivos simples.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/diakov.net/) 
-### 🔗 [Download Pirate](https://www.downloadpirate.com/) 
-- Tonelada de mercadorias, incluindo LUTS, texturas, efeitos sonoros, edição de vídeo + plug-ins e gráficos em movimento.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadpirate.com/) 
 ### 🔗 [Download Geral](https://www.downloadgeral.com/aplicativos/windows)
 - Cataloga mods para aplicativos, músicas, fontes gratuitas, jogos e especialmente, programas crackeados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadgeral.com/) 
@@ -108,33 +105,41 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Atualizado frequentemente, com versões completas e irrestritas apenas dos melhores aplicativos disponíveis.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softgozar.com/) 
 ### 🔗 [Vfxmed](https://www.vfxmed.com/) 
+- Add-ons para jogos, presets, modelos 3d para o blender, plugins _visual effects_.
 - Você precisará entrar no Discord do dono para conseguir os passwords de alguns programas.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/vfxmed.com/) 
 ### 🔗 [YasDL](https://www.yasdl.com/) • Interface em persa 
 - Belo catálogo de aplicativos gratuitos, jogos, software para Android, animação e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yasdl.com/) 
 
-## 🔦 ➜ Buscadores 
-### 🔍 [Buscador de Software Rave](https://ravesoftwaresearch.pages.dev/) 
-- Os usuários são ajudados pelo mecanismo de busca a encontrar downloads de software gratuito. Inclui interface com novos links, bem como uma lista de sites atualizados.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ravesoftwaresearch.pages.dev/)
-
-## 🎨 ➜ Gráficos e Vetores
+## 🎨 ➜ Packs de recursos
 
 ::: info Créditos vão para o [u/meffraz](https://mefrraz.github.io/hattered/pages/categories/graphics/graphic.html)
 :::
 
-### 🔗 [AERiver]()
-### 🔗 [GFX Hub]()
-### 🔗 [PSD Keys]()
-### 🔗 [GraphicEx]()
+### 🔗 [AERiver](https://aeriver.com/)
+- Utilitários para _After Effects_ e templates Premiere Pro do VideoHive.
+### 🔗 [GFX Hub](https://gfx-hub.co/)
+- Apresenta uma mega coleção de assets para Unity, Adobe e design gráfico no geral.
+### 🔗 [PSD Keys](https://psdkeys.com/)
+- Templates para flyers, mockups para Photoshop, e mais de 
+### 🔗 [Download Pirate](https://www.downloadpirate.com/) 
+- Tonelada de mercadorias, incluindo LUTS, texturas, efeitos sonoros, edição de vídeo + plugins e gráficos em movimento.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadpirate.com/) 
+### 🔗 [GraphicEx](https://graphicex.com/)
+- Vetores, imagens de stock e fontes gratuitas e mais de 
+### 🔗 [Codelist](https://codelist.cc/v3/)
+- Temas e plugins para o WordPress. 
+### 🔗 [Weaplay](https://weaplay.net/)
+### 🔗 [SCRiPTMAFiA](https://scriptmafia.org/scripts/)
 
 ## 🧩 ➜ Patchers
 ### 🌟 [GenP](https://gen.paramore.su/)
 - Usado para estender a versão trial de aplicativos da Creative Cloud no Windows. [**Guia**](https://wiki.dbzer0.com/genp-guides/guide/)
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gen.paramore.su/)
 ### 🔗 [Install IDM](https://rentry.org/installidm)
-- Tutorial que ensina a ativar o Internet Download Manager. Se estiver com alguma suspeita, rode o patcher dentro de uma VM ou [tente isso aqui](https://github.com/lstprjct/IDM-Activation-Script).
+- Tutorial que ensina a ativar o Internet Download Manager.
+- Se estiver com alguma suspeita, rode o patcher dentro de uma VM ou [tente isso aqui](https://github.com/lstprjct/IDM-Activation-Script).
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/)
 ## 🧵 ➜ Torrents 
 ### 🌟 [M0nkrus](https://w16.monkrus.ws/) | [📣](https://t.me/m0nkrus/) • Interface em russo 
