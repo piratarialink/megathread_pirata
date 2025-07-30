@@ -27,7 +27,7 @@ features:
   - icon:
       dark: /matrix-logo-dark.svg
       light: /matrix-logo.svg
-    title: Comunidade no Matrix
+    title: Chat no Matrix
     details: O Matrix é uma plataforma de rede social de comunicação por chat descentralizada. Estilo Telegram e WhatsApp.
     link: "https://matrix.to/#/#deck_pirata:matrix.org"
   - icon: ⭐
