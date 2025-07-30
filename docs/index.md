@@ -7,7 +7,7 @@ hero:
   text: Pirataria
   image:
     src: /logo.svg
-  tagline: Contribuições em prol da comunidade
+  tagline: Uma fonte valiosa de recursos excepcionais
   actions:
     - theme: brand
       text: Explorar
