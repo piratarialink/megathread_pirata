@@ -46,7 +46,7 @@
 - Pesquisa: DuckDuckGo.com
 - Roteador: Qualquer um com OpenWRT, recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 
-:::info Onde comprar moeda: [Onramper](https://cakewallet.com/), [Guardarian](https://guardarian.com/), [ChangeNow](https://changenow.io/), [Ramp Network](https://ramp.network/) ou qualquer lugar que não precise de identidade.
+:::tip Onde comprar moeda: [Onramper](https://cakewallet.com/), [Guardarian](https://guardarian.com/), [ChangeNow](https://changenow.io/), [Ramp Network](https://ramp.network/) ou qualquer lugar que não precise de identidade.
 Como conseguir: prestando serviços online que pagam em Monero ou comprar pessoalmente (sempre receber numa wallet disposable e transferir para a sua).
 É possível comprar outra moeda e fazer exchange para Monero (XMR), por exemplo, você pode comprar Litecoin (LTC) via bancos nacionais (que você já possua conta) e fazer exchange para Monero. Exchange deixa rastros insignificativos.
 :::
