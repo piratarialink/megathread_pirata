@@ -16,7 +16,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 ## 📥 ➜ Downloads diretos 
 ### 🌟 [Projeto Z-Library](https://z-library.sk/) • Necessário Cadastrar-se 
 
-:::info **Dica:** A melhor forma de se usar o Z-Library é via [bot do Telegram](/outros/zlibrary.md)
+::: tip **Dica:** A melhor forma de se usar o Z-Library é via [bot do Telegram](/outros/zlibrary.md)
 :::
 
 - Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, textos acadêmicos e livros de interesse geral.
