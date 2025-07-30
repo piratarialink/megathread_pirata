@@ -11,6 +11,7 @@ Essa página ainda é um esboço. Feito com base nas recomendações do [orchest
 - Não cruzar nomes em logins: sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
 - Trocar a senha do wi-fi e roteador colando seu endereço IP na barra de URL do navegador
 - Criar passwords com espaços e caracteres próprios da língua portuguesa como `ç`, `~`, `'`
+- Sempre que possìvel, use um email temporário de um provedor como o emailnator.com ou guerrilla mail quando for se cadastrar na web
 - VPN: IVPN ou Mullvad
 - Gerenciador de senhas: Bitwarden ou KeePassXC
 - Armazenamento: HD ou SSD com Veracrypt, sem nuvem
