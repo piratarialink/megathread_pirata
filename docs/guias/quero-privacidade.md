@@ -26,17 +26,7 @@ Essa página ainda é um esboço. Feito com base nas recomendações do [orchest
 - Moeda: Litecoin e Monero
 - Hospedagem: Servers.guru
 - Pesquisa: DuckDuckGo.com
-- Não cruzar nomes: Sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
 - Roteador: Qualquer um com suporte do OpenWRT
-
-:::info 
-Onde comprar moeda: [Onramper](https://cakewallet.com/), [Guardarian](https://guardarian.com/), [ChangeNow](https://changenow.io/), [Ramp Network](https://ramp.network/) ou qualquer lugar que não precise de identidade.
-É possível  comprar outra moeda e fazer exchange para Monero (XMR), por exemplo, você pode comprar Litecoin (LTC) via bancos nacionais (que você já possua conta) e fazer exchange para Monero. Exchange deixa rastros insignificativos.
-:::
-
-:::warning 
-Nós não possuímos nenhuma afiliação a essas plataformas de venda, compra e exchange de criptomoedas. Use por sua própria conta e risco.
-:::
 
 ## O intermediário para privacidade
 
@@ -57,6 +47,12 @@ Nós não possuímos nenhuma afiliação a essas plataformas de venda, compra e 
 - Pesquisa: DuckDuckGo.com
 - Roteador: Qualquer um com OpenWRT, recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 
-:::info
-Onde comprar moeda: Prestando serviços online que pagam em Monero ou comprar pessoalmente (sempre receber numa wallet disposable e transferir para a sua)
+:::info 
+Onde comprar moeda: [Onramper](https://cakewallet.com/), [Guardarian](https://guardarian.com/), [ChangeNow](https://changenow.io/), [Ramp Network](https://ramp.network/) ou qualquer lugar que não precise de identidade.
+Como conseguir: prestando serviços online que pagam em Monero ou comprar pessoalmente (sempre receber numa wallet disposable e transferir para a sua).
+É possível comprar outra moeda e fazer exchange para Monero (XMR), por exemplo, você pode comprar Litecoin (LTC) via bancos nacionais (que você já possua conta) e fazer exchange para Monero. Exchange deixa rastros insignificativos.
+:::
+
+:::warning 
+Nós não possuímos nenhuma afiliação a essas plataformas de venda, compra e exchange de criptomoedas. Use por sua própria conta e risco.
 :::
