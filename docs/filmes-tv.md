@@ -38,10 +38,16 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Biblioteca de filmes e programas de TV que fazem deste serviço de streaming uma escolha fantástica. Legendas e áudio em pt-br disponíveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cineby.app/)
 
-### ▶️ [NetCine](https://netcinex.si/)
+### 🌟 [NetCine](https://netcinex.si/)
 
+- Lançamentos com resolução 1080p, 720p ou até em HDCAM. Em caso de anti-adblock, use o PopUpOFF.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcinex.si/)
 
+### ▶️ [Clube do Dual](https://clubedodual.com/index.php?app=core&module=system&controller=login)
+
+- Fórum de compartilhamento de faixas de dublagem em português brasileiro, é necessário ter um convite para se cadastrar.
+- [Resultados de segurança da URL](https://clubedodual.com/)
+  
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
@@ -60,23 +66,15 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [MemoriadaTV](https://www.memoriadatv.com/)
 
-- Contém um acervo incrível de obras antigas, principalmente se tratando de conteúdo nacional. Além disso, o site disponibiliza diversos servidores para download, contendo também vários formatos e dublagens incluso.
 - [Resultados de segurança da URL](https://www.urlvoid.com/pscan/memoriadatv.com/)
 
 ### ▶️ [Overflix](https://overflixtv.app/)
 
-- Contém Filmes e Séries Atualizados Dublados e Legendados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/overflixtv.app/)
 
 ### ▶️ [Pobreflix](https://pobreflixtv.cc/)
 
-- Contém Filmes e Séries Atualizados Dublados e Legendados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
-
-### ▶️ [Clube do Dual](https://clubedodual.com/index.php?app=core&module=system&controller=login)
-
-- Fórum de compartilhamento de faixas de dublagem em português brasileiro, é necessário ter um convite para se cadastrar.
-- [Resultados de segurança da URL](https://clubedodual.com/)
 
 ## 🆎 Legendados
 
