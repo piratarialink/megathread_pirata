@@ -57,4 +57,4 @@ McAfee é meh.
   
 Use o [Hypatia](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia/) / [Bitdefender Mobile](https://www.bitdefender.com/pt-br/consumer/mobile-security-android) no Android e [VirusTotal](https://www.virustotal.com/gui/) / [Kaspersky Cloud](https://opentip.kaspersky.com/) no navegador, dê preferência para a análise de programas antivírus com reputação no mercado pois antivírus desconhecidos (como o Arcabit) geralmente só detectam falsos positivos.
 
-O senso comum também ajuda, e conhecimentos básicos sobre sistemas operacionais ajudam a te prevenir de malwares.
+O senso comum também ajuda, e conhecimentos básicos sobre sistemas operacionais te afastam de malwares.
