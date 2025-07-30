@@ -7,7 +7,7 @@ hero:
   text: Pirataria
   image:
     src: /logo.svg
-  tagline: Contribuições do r/pirataria em prol da comunidade
+  tagline: Contribuições em prol da comunidade
   actions:
     - theme: brand
       text: Explorar
