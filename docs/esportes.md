@@ -112,20 +112,25 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### 📺️ [NBABite](https://nbabite.com/)
 
-- Transmissões ao vivo. MMA (UFC)
+- Transmissões ao vivo. Basquetebol
 
 ### 📺️ [MMA Streams](https://tonight.mmastreams.cc/)
 
+- Transmissões ao vivo. MMA (UFC)
 
-- Transmissões ao vivo. Basquetebol
+## 🧲 Torrent
 
-### 📺️ [rutracker.org > Esportes](https://rutracker.org/forum/index.php?c=28)
+### 🔗 [rutracker.org > Esportes](https://rutracker.org/forum/index.php?c=28)
 
-- Torrents. Subfórum de esportes no rutracker
+- Subfórum de esportes no rutracker.
 
-### 📺️ [Sport Video](https://www.sport-video.org.ua/)
+### 🔗 [Sport Video](https://www.sport-video.org.ua/)
 
-- Torrent futebol, automobilismo, beisebol, basquete, futebol, hóquei, rugby, outros
+- Torrent de futebol, automobilismo, beisebol, basquete, futebol, hóquei, rugby, e outros esportes.
+
+### 🔗 [F1Carreras](https://f1carreras.xyz/application)
+
+- Tracker privado focado em streaming 4k para fãs de corridas.
 
 ---
 
