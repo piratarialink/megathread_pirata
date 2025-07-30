@@ -319,7 +319,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
 - [LocalCDN](https://www.localcdn.org/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
 - [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados. Na minha opinião, a melhor ferramenta para customizar e escurecer sites.
-- [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site. Aprimoramento da extensão "I Don't Care about Cookies".
+- [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site. Fork da extensão "I Don't Care about Cookies".
 - [Auto Referer](https://github.com/garywill/autoReferer?tab=readme-ov-file) - Controla o que é mandado como HTTP Referer em cada site.
 - [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site. Também previne ataques XSS.
 - [Port Authority](https://github.com/ACK-J/Port_Authority/) - Defesa contra ataques port scan.
@@ -338,7 +338,7 @@ Também clona mensagens com a função "encaminhar sem citar".
 
 ## ► **Discord**
 
-- [Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - Diretório de clientes não-oficiais, como o Aliucord (Android) e BetterDiscord (PC).
+- [Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - Diretório de clientes não-oficiais, como o Revenge (Android) e BetterDiscord (PC).
   
 ## ► **Tor**
 
