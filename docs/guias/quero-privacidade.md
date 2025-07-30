@@ -1,7 +1,6 @@
 # 🪶 ➜ Guia de Privacidade para Paranoicos
 
-:::info 
-Essa página ainda é um esboço. Feito com base nas recomendações do [orchestralblend](https://github.com/orchestralblend) / [orchestralblend@systemli.org](mailto:orchestralblend@systemli.org)
+:::info Essa página ainda é um esboço. Feito com base nas recomendações do [orchestralblend](https://github.com/orchestralblend) / [orchestralblend@systemli.org](mailto:orchestralblend@systemli.org)
 :::
 
 ## O básico para privacidade
@@ -47,12 +46,10 @@ Essa página ainda é um esboço. Feito com base nas recomendações do [orchest
 - Pesquisa: DuckDuckGo.com
 - Roteador: Qualquer um com OpenWRT, recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 
-::: info 
-Onde comprar moeda: [Onramper](https://cakewallet.com/), [Guardarian](https://guardarian.com/), [ChangeNow](https://changenow.io/), [Ramp Network](https://ramp.network/) ou qualquer lugar que não precise de identidade.
+:::info Onde comprar moeda: [Onramper](https://cakewallet.com/), [Guardarian](https://guardarian.com/), [ChangeNow](https://changenow.io/), [Ramp Network](https://ramp.network/) ou qualquer lugar que não precise de identidade.
 Como conseguir: prestando serviços online que pagam em Monero ou comprar pessoalmente (sempre receber numa wallet disposable e transferir para a sua).
 É possível comprar outra moeda e fazer exchange para Monero (XMR), por exemplo, você pode comprar Litecoin (LTC) via bancos nacionais (que você já possua conta) e fazer exchange para Monero. Exchange deixa rastros insignificativos.
 :::
 
-::: warning 
-Nós não possuímos nenhuma afiliação a essas plataformas de venda, compra e exchange de criptomoedas. Use por sua própria conta e risco.
+:::warning Nós não possuímos nenhuma afiliação a essas plataformas de venda, compra e exchange de criptomoedas. Use por sua própria conta e risco.
 :::
