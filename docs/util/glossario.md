@@ -17,7 +17,7 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **Convites**: Geralmente os melhores sites para achar os arquivos precisam de convites para entrar, pois são privados, dito isto toda compra, venda, troca de convites é proibida na comunidade BR e na estrangeira, caso te peguem cometendo uma dessas ações terá sua conta banida. Busque por doações, e para facilitar busque fazer amizades e conhecer as pessoas que possam te convidar.
 
-**Torrent**: Termo direcionado ao arquivo que tu baixa do site, com ele tu conseguirá carregar no programa e assim poder baixar o conteúdo.
+**Torrent**: Termo referente à uma extensão de arquivos utilizados por um protocolo de transferência do tipo P2P.
 
 **Nuvem**: Local para armazenar virtualmente os seus arquivos sem ser no seu PC, como Google Drive, dropbox, onedrive, entre outros.
 
@@ -26,8 +26,6 @@ Desfrute da leitura e expanda seu conhecimento!
 **Servidor**: Computador no qual foi configurado em uma rede para oferecer algum tipo de serviço, como distribuir arquivos por exemplo.
 
 **Cliente**: Computador que está do outro lado, configurado para utilizar o serviço oferecido pelo servidor, como receber os arquivos solicitados.
-
-**Torrent**: Extensão de arquivos utilizados por um protocolo de transferência do tipo P2P.
 
 ## Termos utilizados em títulos/trackers de filmes
 
