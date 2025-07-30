@@ -339,6 +339,7 @@ Também clona mensagens com a função "encaminhar sem citar".
 ## ► **Discord**
 
 - [Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - Diretório de clientes não-oficiais, como o Revenge (Android) e BetterDiscord (PC).
+- [Porque é que não se pode confiar no Discord](/outros/discord.md)
   
 ## ► **Tor**
 
@@ -367,14 +368,14 @@ Também clona mensagens com a função "encaminhar sem citar".
 
 ## ► **VPS grátis**
 
-Para hospedar servidores próprios de rust, minecraft, bot do telegram, storage e outros projetos.
+> Para hospedar servidores próprios de rust, minecraft, bot do telegram, storage e outros projetos.
 
 - [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter.
-- [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado principalmente na China para burlar o firewall.
+- [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado na China para burlar o firewall. A velocidade pode variar muito por ser usado principalmente como proxy.
 
 ## ► **SSH**
 
-São serviços de tunelamento que usam o protocolo SSH para transmitir uma conexão de dados móveis ilimitada.
+> São serviços de tunelamento que usam o protocolo SSH para transmitir uma conexão de dados móveis ilimitada.
 
 - [FastSSH](https://www.fastssh.com/page/ssh-over-websocket-servers)
 - [SSHconnect](https://sshconect.com.br/) 
