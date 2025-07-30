@@ -40,15 +40,24 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Alternativa rápida após o encerramento do 4anime original. Os animes populares têm legendas em PT-BR.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/4anime.gg/)
 
+#### ▶️ [Animes Totais](https://animestotais.xyz/)
+- Necessário se cadastrar para acessar o site.
+ 
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animestotais.xyz/)
+
+#### ▶️ [Hinata Soul](https://www.hinatasoul.com/)
+- Oferece animes em **HD e Full HD** para assistir.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/hinatasoul.com/)
+
+#### ▶️ [Anime Yabu](https://www.animeyabu.org/)
+- Em caso de bloqueio, use o [PopUpOFF](https://popupoff.org/).
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.animeyabu.org/)
+
 #### ▶️ [Anroll](https://www.anroll.net/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anroll.net/)
 
 #### ▶️ [AnimeFire](https://animefire.plus/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animefire.plus/)
-
-#### ▶️ [Hinata Soul](https://www.hinatasoul.com/)
-- Oferece **HD e Full HD** para assistir.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/hinatasoul.com/)
 
 #### ▶️ [Animes Digital](https://animesdigital.org/)
 
@@ -57,24 +66,16 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### ▶️ [Animesonlinecc](https://animesonlinecc.org/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesonlinecc.org/)
 
-#### ▶️ [Anime Yabu](https://www.animeyabu.org/)
-- Em caso de bloqueio, use o [PopUpOFF](https://popupoff.org/).
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.animeyabu.org/)
-
 #### ▶️ [Q1N](https://q1n.net/)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/q1n.net/)
-
- #### ▶️ [Animes Totais](https://animestotais.xyz/)
-- Necessário cadastrar para acessar o site.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animestotais.xyz/)
-‎ 
 
 ### 📥 ➜ Downloads Diretos
 
 ---
 
 #### 🌟 [Anitsu](https://anitsu.moe/#)
-- Grande catálogo, especialmente para animes obscuros com legenda PT-BR. **Use um media player de sua preferência no lugar do VLC.**
+- Grande catálogo, especialmente se tratando de animes obscuros com legenda PT-BR. Ademais, o site disponibiliza diversos servidores para download, contendo também vários formatos e faixas de dublagem.
+**Use um media player de sua preferência no lugar do VLC.**
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anitsu.moe/)
   
 #### 🔗 [Anime Tosho](https://animetosho.org/)
