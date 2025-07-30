@@ -48,7 +48,7 @@ DNS público do Google
 
 - IPv6 [2]: `2001:4860:4860:0:0:0:0:8888` e `2001:4860:4860:0:0:0:0:8844`
 
-- Aproveite uma navegação com velocidade rápida (em alguns casos, até mais rápida que VPS) sem restrições de ISP e local.
+- Aproveite uma navegação com velocidade rápida (às vezes, até mais rápida que VPS) sem restrições de ISP e local.
   
 :::info Nota: 
 Os servidores públicos do Cloudflare e do AdGuard não apresentam esses inconvenientes, por isso serão o foco deste guia. Para testar a velocidade dos servidores DNS e conhecer mais opções, experimente o app Teste Velocidade DNS.
