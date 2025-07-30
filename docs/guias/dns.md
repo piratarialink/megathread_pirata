@@ -16,7 +16,7 @@ Este guia apresenta o passo a passo de como configurar o DNS tanto no Windows qu
 
 ## 1 - Principais Provedores de DNS
 
-A seguir, listamos os provedores de DNS com servidores no Brasil, que não bloqueiam sites piratas e oferecem bom desempenho para usuários brasileiros:
+A seguir, listamos os provedores de DNS com servidores no Brasil, que não bloqueiam sites piratas e/ou oferecem bom desempenho para usuários brasileiros:
 
 Cloudflare DNS
 
@@ -40,6 +40,16 @@ NextDNS
 
 - Funciona de maneira similar ao AdGuard, mas possui limitações no plano gratuito. Ao utilizar listas de bloqueios adicionais, alguns redirecionadores podem deixar de funcionar – inclusive o histórico do app YouTube – sendo necessário incluir o domínio s.youtube.com na whitelist.
 
+DNS público do Google
+
+- IPv4:  `8.8.8.4` e `8.8.4.4`
+
+- IPv6: `2001:4860:4860::8888` e `2001:4860:4860::8844`
+
+- IPv6 [2]: `2001:4860:4860:0:0:0:0:8888` e `2001:4860:4860:0:0:0:0:8844`
+
+- Aproveite uma navegação com velocidade rápida (em alguns casos, até mais rápida que VPS) sem restrições de ISP e local.
+  
 :::info Nota: 
 Os servidores públicos do Cloudflare e do AdGuard não apresentam esses inconvenientes, por isso serão o foco deste guia. Para testar a velocidade dos servidores DNS e conhecer mais opções, experimente o app Teste Velocidade DNS.
 :::
