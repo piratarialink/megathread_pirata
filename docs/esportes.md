@@ -62,29 +62,6 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - Footballia é um site gringo onde você pode assistir a replays de jogos de futebol completos gratuitamente. Uma partida estará disponível no site 30 dias após ser transmitida.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/footballia.net/)
 
-## 🥊 Add-ons do Kodi
-
-:::info Real Debrid pode ser necessário em alguns casos
-:::
-
-### 🌟 [DaddyLive](https://www.wirelesshack.org/how-to-install-daddy-live-kodi-addon.html)
-
-- Transmite partidas ao vivo de futebol do Brasil e de outros países com narração em português brasileiro.
-
-### 🔗 [F1 Rewind](https://mylostsoulspace.co.uk/repo)
-
-- Add-on do Kodi de reprises da F1TV localizado no repositório do grupo Z3R0. Mesmo método de instalação do DaddyLive.
-
-### 🔗 [Fights On Demand](https://mylostsoulspace.co.uk/repo)
-
-- Outro add-on do grupo Z3R0, replays e lutas em tempo real pelo UFC Fight Pass. **Procure por "Non Debrid UFC Replays".**
-
-## ▶️ Add-ons do Stremio
-
-### 🔗 [Formulio](https://formulio.hayd.uk/) 
-
-- É possível assistir replays de Fórmula 1 via o sinal da Sky Sports Britânica. **Use-o no desktop.**
-
 ---
 
 :::info Acho que os sites abaixo só oferecem narrações em inglês 👇️
@@ -117,6 +94,29 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 📺️ [MMA Streams](https://tonight.mmastreams.cc/)
 
 - Transmissões ao vivo. MMA (UFC)
+  
+## 🥊 Add-ons do Kodi
+
+:::info Real Debrid pode ser necessário em alguns casos
+:::
+
+### 🌟 [DaddyLive](https://www.wirelesshack.org/how-to-install-daddy-live-kodi-addon.html)
+
+- Transmite partidas ao vivo de futebol do Brasil e de outros países com narração em português brasileiro.
+
+### 🔗 [F1 Rewind](https://mylostsoulspace.co.uk/repo)
+
+- Add-on do Kodi de reprises da F1TV localizado no repositório do grupo Z3R0. Mesmo método de instalação do DaddyLive.
+
+### 🔗 [Fights On Demand](https://mylostsoulspace.co.uk/repo)
+
+- Outro add-on do grupo Z3R0, replays e lutas em tempo real pelo UFC Fight Pass. **Procure por "Non Debrid UFC Replays".**
+
+## ▶️ Add-ons do Stremio
+
+### 🔗 [Formulio](https://formulio.hayd.uk/) 
+
+- É possível assistir replays de Fórmula 1 via o sinal da Sky Sports Britânica. **Use-o no desktop.**
 
 ## 🧲 Torrent
 
