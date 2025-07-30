@@ -121,7 +121,8 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🧲 [Anime no Sekai](https://www.ansktracker.net/)
 - Tracker semi-privado de anime.
 
-#### 🧲 [Dark Mahou](https://darkmahou.org/)
+#### 🌟 [Dark Mahou](https://darkmahou.org/)
+- Site brasileiro de anime com arquivos torrent para baixar de graça.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/darkmahou.org/)
   
 #### 🌟 [Nyaa.si](https://nyaa.si/) / [Nyaa.land](https://nyaa.land/)
