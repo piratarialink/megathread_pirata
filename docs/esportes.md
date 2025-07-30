@@ -126,11 +126,11 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### 🔗 [Sport Video](https://www.sport-video.org.ua/)
 
-- Torrent de futebol, automobilismo, beisebol, basquete, futebol, hóquei, rugby, e outros esportes.
+- Torrent de futebol, corrida, beisebol, basquete, futebol, hóquei, rugby, e outros esportes.
 
 ### 🔗 [F1Carreras](https://f1carreras.xyz/application)
 
-- Tracker privado focado em streaming 4k para fãs de corridas.
+- Tracker privado focado em streaming 4k para fãs de automobilismo.
 
 ---
 
