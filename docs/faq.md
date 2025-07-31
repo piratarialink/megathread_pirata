@@ -9,7 +9,7 @@
 
 ### Como a pirataria digital realmente começou?
 
-- Assim que a tecnologia [corte, copiar e colar](https://pt.wikipedia.org/wiki/Cortar,_copiar_e_colar) foi introduzida. Isso possibilitou transmitir ou copiar facilmente dados digitais. Os detentores de direitos autorais estão correndo como goblins sem cabeça tentando consertar as coisas, até então a pirataria se provou ser uma força formidável.
+- Assim que a tecnologia [corte, copiar e colar](https://pt.wikipedia.org/wiki/Cortar,_copiar_e_colar) foi introduzida. Isso possibilitou transmitir ou copiar facilmente dados digitais.
 
 ### Vou ter problemas se visitar um site pirata ou baixar um determinado arquivo?
 
