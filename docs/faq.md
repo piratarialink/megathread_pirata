@@ -16,15 +16,10 @@
 - Não no Brasil.
 - Simplesmente visitar a Web ou baixar um arquivo normalmente não representará um problema com o seu ISP (Operadora). Isso está sendo declarado, tenha cuidado ao usar a Internet. Sua melhor linha de defesa sempre será o bom senso.
 
-### Como posso acessar sites que meu ISP (Operadora) bloqueou?
+### Como eu posso acessar sites que minha operadora bloqueou?
 
 - O Sistema de Nomes de Domínio (DNS) é um serviço essencial para a navegação na internet. Ele funciona como um "catálogo telefônico" da web, traduzindo nomes de domínio (como exemplo.com) em endereços IP que os computadores usam para se conectar aos servidores. Sem o DNS, teríamos que memorizar longas sequências de números para acessar sites.
 - Por padrão, seu provedor de internet (ISP) atribui um DNS próprio, que muitas vezes é lento e sujeito a restrições, bloqueando o acesso a determinados sites. Para melhorar a velocidade da sua navegação e evitar censura, é recomendável alterar seu DNS. Você pode fazer isso seguindo este guia: [Como trocar o DNS no Windows e Android.](/guias/dns)
-
-### Qual é a diferença entre downloads diretos (DDL) e torrents?
-
-- Downloads diretos são mantidos no servidor a partir do qual você está recuperando o material. Um navegador seguro como [Firefox](https://mozilla.org/firefox/new/) + [Ublock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) é tudo o que você precisa.
-- Os torrents são sistemas de compartilhamento de arquivos ponto a ponto que precisam de semente (_usuários que baixaram anteriormente o arquivo_). Para iniciar arquivos torrent, é necessário um aplicativo separado.
 
 ### O download do conteúdo pirateado está realmente errado?
 
