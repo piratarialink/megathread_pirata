@@ -36,7 +36,7 @@
 - Dependendo da estrutura legal da sua nação, mas de modo geral, sob a lei humana, alguns argumentam que é.
 - Isso, no entanto, é distinto dos princípios morais de uma pessoa. Há muitos casos em que as empresas usam técnicas antiéticas que privam os clientes do que desejam ou fornecem opções ruins, tornando moralmente justificável a pirataria.
 
-# Como eu posso evitar malware indesejado?
+### Como eu posso evitar malware indesejado?
 
 - Evite fontes não confiáveis: Baixe softwares apenas de fontes confiáveis e oficiais. Sites como estes podem ser encontrado na Megathread do subreddit.
 - Use antivírus atualizado: Mantenha um antivírus atualizado para detectar possíveis ameaças. Alguns softwares piratas podem conter malware, e um antivírus eficiente pode ajudar a identificá-los. O próprio Windows Defender da Microsoft já basta.
