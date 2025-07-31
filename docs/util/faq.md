@@ -1,4 +1,4 @@
-# 🪶 ➜ **FAQ** (_Perguntas frequentes_)
+# ⚓️ ➜ **FAQ** (_Perguntas frequentes_)
 
 ---
 
