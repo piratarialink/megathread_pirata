@@ -8,24 +8,11 @@
 - Privacidade no Firefox: Betterfox ou Arkenfox
 - uBlock Origin: Javascript sempre desativado em sites novos
 - Não cruzar nomes em logins: sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
-- Trocar a senha do wi-fi e roteador colando seu endereço IP na barra de URL do navegador
-- Criar passwords com espaços e caracteres próprios da língua portuguesa como `ç`, `~`, `'`
-- Sempre que possìvel, use um email temporário de um provedor como o emailnator.com ou guerrilla mail quando for se cadastrar na web
+- Trocar a senha do wi-fi e roteador: cole seu endereço IP na barra de URL do navegador
+- Criar passwords com espaços e caracteres próprios da língua portuguesa: como `ç`, `~`, `'`
+- Sempre que possìvel, usar um email temporário: de um provedor como o emailnator.com ou guerrilla mail quando for se cadastrar na web
 - VPN: IVPN ou Mullvad
-- Gerenciador de senhas: Bitwarden ou KeePassXC
-- Armazenamento: HD ou SSD com Veracrypt, sem nuvem
-- Criptografia: Cryptomator e Veracrypt
-- Navegador: Firefox + uBlock Origin + oisd.nl + Containers
 - Navegador baseado em Chromium: Cromite
-- Rede social: Lemmy, Mastodon, XMPP e Matrix
-- Android: GrapheneOS ou LineageOS sem Google
-- Desktop: Windows com Veracrypt + SophiApp ou Linux com LUKS
-- Provedor dominio: Njalla, Sarek Oy, Porkbun ou Cloudflare
-- Meet: Jitsi
-- Moeda: Litecoin e Monero
-- Hospedagem: Servers.guru
-- Pesquisa: DuckDuckGo.com
-- Roteador: Qualquer um com suporte do OpenWRT
 
 ## O intermediário para privacidade
 
@@ -37,7 +24,7 @@
 - Nuvem: systemli.org NextCloud (chaves PGP, backup e armazenar KeePassXC)
 - Navegador: Firefox + uBlock Origin + oisd.nl + Containers + arkenfox.js
 - Rede social: Lemmy, Mastodon, XMPP e systemli.org Matrix
-- Android: GrapheneOS
+- Android: GrapheneOS ou LineageOS
 - Desktop: Linux com LUKS
 - Provedor dominio: Njalla, Sarek Oy, Porkbun ou Cloudflare
 - Meet: systemli.org Jitsi
