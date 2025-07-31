@@ -14,7 +14,7 @@
 ### Vou ter problemas se visitar um site pirata ou baixar um determinado arquivo?
 
 - Não no Brasil.
-- Simplesmente visitar a Web ou baixar um arquivo normalmente não representará um problema com o seu ISP (Operadora). Isso está sendo declarado, tenha cuidado ao usar a Internet. Sua melhor linha de defesa sempre será o bom senso.
+- Simplesmente visitar a Web ou baixar um arquivo normalmente não representará um problema com o seu ISP, isso não precisa ser declarado para sua operadora. Mas é sempre bom tomar cuidado ao usar a Internet, sua melhor linha de defesa sempre será o bom senso.
 
 ### Como eu posso acessar sites que minha operadora bloqueou?
 
