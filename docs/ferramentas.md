@@ -186,7 +186,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - 🌟 [**Plex Media Server**](https://www.plex.tv/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
 - 🌟 [**Jellyfin Media Server**](https://jellyfin.org/) - Netflix auto-hospedado de código aberto. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
 - [Plexamp](https://plexamp.com/) - Plex, mas para música. Disponível em ios, mac, windows, linux e android
-- 🌟 [**Emby Media Server**](https://emby.media/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante a Netflix.
+- **[Pago]** [Emby Media Server](https://emby.media/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante a Netflix.
 - 🌟 [**Kodi**](https://kodi.tv/) - Centro de mídia de home theater. Hospeda seu próprio conteúdo ou adicione fontes de conteúdo online [Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/).
 - [OSMC](https://osmc.tv/) - Centro de mídia de home theater. Bifurcado do Kodi, fornece uma interface do usuário simples para Raspberry Pi e Apple TV
 
