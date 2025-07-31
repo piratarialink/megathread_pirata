@@ -313,8 +313,4 @@ Na sidebar > `Guides` > `Extension Repos`.
 
 #### 🔗 [QG - Baltigo mangás](https://t.me/MangasBrasil)
 
-‎ 
-‎ 
-
-**Está buscando apps para assistir ou baixar animes no celular?**  
-Confira nosso tópico sobre 📱 [Mobile](mobile#📑-➜-anime-e-manga)
+‎
