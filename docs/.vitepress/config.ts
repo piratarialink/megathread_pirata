@@ -73,6 +73,7 @@ export default {
         text: "Tópicos",
         collapsible: true,
         items: [
+             { text: "⚓️ FAQ", link: "faq" },
           { text: "🧭 Uso Geral", link: "sites-geral" },
           { text: "⛩️ Otaku", link: "otaku" },
           { text: "📚 Livros", link: "livros" },
