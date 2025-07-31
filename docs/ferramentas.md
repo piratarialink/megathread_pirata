@@ -64,8 +64,8 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [ControlD](https://controld.com/free-dns?freeResolverType=blockMalwareAndAds&helpPane=dns) - Servidor de DNS semelhante ao AdGuard que bloqueia anúncios até mesmo dentro de aplicativos.
 - [Unpaywall](https://unpaywall.org/products/extension) - Verifica se o artigo científico que você estiver lendo está disponivel para baixar gratuitamente.
 - [Mendeley Web Importer](https://www.mendeley.com/reference-management/web-importer) - Consegue fazer o mesmo que o Unpaywall faz.
-- [SpotX - anteriormente BlockTheSpot](https://github.com/spotx-cli) - Bloqueia anúncios e permite pular músicas no aplicativo de desktop do Windows Spotify.
-- [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - executável leve que bloqueia e silencia os anúncios do Spotify no Windows.
+- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Bloqueia anúncios e permite pular músicas no aplicativo de desktop do Windows Spotify.
+- [EZblocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) - executável leve que bloqueia e silencia os anúncios do Spotify no Windows.
 - [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Bloqueia anúncios no site do Spotify
 
 ## ► **Bypassers de sites de redirecionamento**
@@ -77,7 +77,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Skip Redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) - Extrai a url final de sites que funcionam como intermediários.
 - [adLBypasser](https://greasyfork.org/en/scripts/439469-adlbypasser-v1-6-ouo-io-uii-io-exe-io-bc-vc-adf-ly-more-no-ads/code) - Pode burlar links de tráfego pago rapidamente.
 
-## ► **Burladores de paywall**
+## ► Burladores de paywall
 
 - 🌟 [**Bypass Paywalls Clean**](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para Firefox para burlar Paywall.
 - [BrainlyBypassPaywall](https://gitlab.com/Dwyriel/Greasyfork-Scripts/-/tree/main/BrainlyBypassPaywall?ref_type=heads) - Reseta a contagem diária do Brainly para evadir o paywall de limite diário.
@@ -88,6 +88,21 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Remove paywall](https://www.removepaywall.com/)
 - [Smry](https://www.smry.ai/)
 - [ArchiveIs](https://archive.is/)
+
+## ► Burladores de links premium
+
+> Alguns sites DDL podem oferecer apenas downloads através de links premium, o que significa que o download do arquivo estará disponível somente por meio de um host (Nitroflare, Rapidgator...) que bloqueia o seu acesso, a menos que você esteja disposto a pagar uma assinatura para esse mesmo host. Os preços podem ser um pouco extravagantes, especialmente quando você considera que muitos sites DDL podem usar hosts de arquivos diferentes, portanto, não seria viável pagar por várias dessas assinaturas.
+
+- 🌟 **[Pago]** [**Real Debrid**](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o _torrent swarm_, que é a principal causa de recebimento de cartas de violação de direitos autorais.
+- **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito do real-debrid
+- **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid
+- **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também
+- **[Trialware]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
+- [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd
+- [leechpremium](https://leechpremium.net/) - Este é um serviço de download gratuito com o qual você pode realizar downloads premium.
+**Desative o seu adblock e o ative novamente quando o site carregar.**
+- [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium
+- **[Pago]** [Linksnappy](https://linksnappy.com/) - Agregador de conteúdo que permite extrair arquivos de vários serviços de armazenamento em nuvem.
 
 ## ► Sites de rastreamento de cena / P2P
 
@@ -208,21 +223,6 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 * [Gerenciador de downloads XTREME](https://subhra74.github.io/xdm/) - Outro gerenciador de downloads muito bom
 * [pyLoad](https://pyload.net/) - Gerenciador de downloads leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
 * [aria2](https://aria2.github.io/) - Utilitário de download baseado em linha de comando.
-
-## ► Serviços de download
-
-> Alguns sites DDL podem oferecer apenas downloads através de links premium, o que significa que o download do arquivo estará disponível somente por meio de um host (Nitroflare, Rapidgator...) que bloqueia o seu acesso, a menos que você esteja disposto a pagar uma assinatura para esse mesmo host. Os preços podem ser um pouco extravagantes, especialmente quando você considera que muitos sites DDL podem usar hosts de arquivos diferentes, portanto, não seria viável pagar por várias dessas assinaturas.
-
-- 🌟 **[Pago]** [**Real Debrid**](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o _torrent swarm_, que é a principal causa de recebimento de cartas de violação de direitos autorais.
-- **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito do real-debrid
-- **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid
-- **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também
-- **[Trialware]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
-- [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd
-- [leechpremium](https://leechpremium.net/) - Este é um serviço de download gratuito com o qual você pode realizar downloads premium.
-**Desative o seu adblock e o ative novamente quando o site carregar.**
-- [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium
-- **[Pago]** [Linksnappy](https://linksnappy.com/) - Agregador de conteúdo que "permite extrair arquivos de vários serviços de armazenamento em nuvem"
 
 ## ► Ferramentas de download
 
