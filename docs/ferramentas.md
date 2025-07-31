@@ -371,7 +371,7 @@ Também clona mensagens com a função "encaminhar sem citar".
 > Para hospedar servidores próprios de rust, minecraft, bot do telegram, storage e outros projetos.
 
 - [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter.
-- [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado na China para burlar o firewall. A velocidade pode variar muito por ser usado principalmente como proxy.
+- [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado na China para burlar o firewall. A velocidade pode variar muito por ser utilizada principalmente como proxy.
 
 ## ► **SSH**
 
