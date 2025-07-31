@@ -351,3 +351,9 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 ## Está buscando Programas para Computador?
 
 ➜ Confira nosso tópico sobre ⚙️ [Softwares](softwares)
+
+---
+
+Quer saber mais sobre smartphones?
+
+➜ Confira essa Megathread do [MediaSavvy - Mobile](https://mediasavvy.pages.dev/Wiki/Mobile.html)
