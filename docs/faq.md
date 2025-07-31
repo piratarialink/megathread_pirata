@@ -38,8 +38,8 @@
 
 ### Como eu posso evitar malware indesejado?
 
-- Evite fontes não confiáveis: Baixe softwares apenas de fontes confiáveis e oficiais. Sites como estes podem ser encontrado na Megathread do subreddit.
-- Use antivírus atualizado: Mantenha um antivírus atualizado para detectar possíveis ameaças. Alguns softwares piratas podem conter malware, e um antivírus eficiente pode ajudar a identificá-los. O próprio Windows Defender da Microsoft já basta.
+- Evite fontes não confiáveis: Baixe softwares apenas de fontes confiáveis e oficiais. Sites como estes podem ser encontrados na Megathread do nosso subreddit.
+- Use antivírus atualizado: Mantenha um antivírus atualizado para detectar possíveis ameaças. Alguns softwares piratas podem conter malware, e um antivírus eficiente pode ajudar a identificá-los. O próprio Windows Defender da Microsoft já basta. [Leitura importante](/posts/antivirus).
 - Pesquise sobre o site em que está baixando: Antes de baixar qualquer software, pesquise e sobre o site em que irá baixar o software, e preferencialmente procure se o site se encontra na Megathread.
 - Verifique a autenticidade: Se possível, confirme a autenticidade do arquivo comparando checksums ou hashes fornecidos pelo site oficial com os do arquivo que você baixou.
 - Atualize regularmente: Mantenha todos os softwares, incluindo o sistema operacional e programas piratas, atualizados. As atualizações muitas vezes corrigem vulnerabilidades de segurança.
