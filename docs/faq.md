@@ -16,11 +16,6 @@
 - Não no Brasil.
 - Simplesmente visitar a Web ou baixar um arquivo normalmente não representará um problema com o seu ISP (Operadora). Isso está sendo declarado, tenha cuidado ao usar a Internet. Sua melhor linha de defesa sempre será o bom senso.
 
-### Qual é a diferença entre um tracker público e privado?
-
-- Os trackers públicos não exigem nenhum registro ou login e são acessíveis para todo mundo. Como os trackers públicos estão abertos, qualquer pessoa com o endereço pode utilizá-los.
-- Os trackers privados são frequentemente usados para se referir a sites de torrent, onde é necessário o registro para baixar seus torrents. Em contraste com os trackers públicos, estes não são um banquete livre para todos. Você deve contribuir (_fazendo upload_) uma quantidade igual à soma que você retirou do tracker. Um método de proporção é usado por trackers privados para acompanhar esse saldo de contribuição.
-
 ### Como posso acessar sites que meu ISP (Operadora) bloqueou?
 
 - O Sistema de Nomes de Domínio (DNS) é um serviço essencial para a navegação na internet. Ele funciona como um "catálogo telefônico" da web, traduzindo nomes de domínio (como exemplo.com) em endereços IP que os computadores usam para se conectar aos servidores. Sem o DNS, teríamos que memorizar longas sequências de números para acessar sites.
