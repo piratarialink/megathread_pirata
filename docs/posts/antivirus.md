@@ -55,7 +55,7 @@ McAfee é meh.
 - **MalwareBytes**: somente para efetuar remoção de malware, não usar no dia a dia.
 - **Windows Defender (Windows 10 e 11)**: usar no dia a dia.
   
-Use o [Hypatia](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia/) / [Bitdefender Mobile](https://www.bitdefender.com/pt-br/consumer/mobile-security-android) no Android e [VirusTotal](https://www.virustotal.com/gui/) / [Kaspersky Cloud](https://opentip.kaspersky.com/) no navegador, dê preferência para a análise de programas antivírus com reputação no mercado pois antivírus desconhecidos (como o Arcabit) geralmente só detectam falsos positivos.
+Use o [Hypatia](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia/) / [Bitdefender Mobile](https://www.bitdefender.com/pt-br/consumer/mobile-security-android) no Android e [VirusTotal](https://www.virustotal.com/gui/) / [Triage](https://tria.ge/) para arquivos menores que 650 mb, dê preferência para a análise de programas antivírus com reputação no mercado pois antivírus desconhecidos (como o Arcabit) geralmente só detectam falsos positivos.
 
 O senso comum também ajuda, e conhecimentos básicos sobre sistemas operacionais te afasta de malwares.
 
