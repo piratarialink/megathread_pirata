@@ -2,6 +2,11 @@
 
 ---
 
+### A megathread foi feita para quem? E por que ela é tão parecida com a megathread do r/Piracy?
+
+Seu propósito é ser um repositório de ferramentas, aplicativos e dicas úteis do meio pirata da internet, essa coleção é atualizada e mantida por colaboradores do github.
+Basicamente, é como se fosse um 'fork' da megathread conceituada do r/piracy, porém, tendo em mente a comunidade lusófona como um todo (Brasil, Portugal, Cabo Verde, Angola, etc.); por isso alguns trechos podem parecer bastante semelhantes à primeira vista.
+
 ### Como a pirataria digital realmente começou?
 
 - Assim que a tecnologia [corte, copiar e colar](https://pt.wikipedia.org/wiki/Cortar,_copiar_e_colar) foi introduzida. Isso possibilitou transmitir ou copiar facilmente dados digitais. Os detentores de direitos autorais estão correndo como goblins sem cabeça tentando consertar as coisas, até então a pirataria se provou ser uma força formidável.
