@@ -81,7 +81,6 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 - 🌟 [**Bypass Paywalls Clean**](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para Firefox para burlar Paywall.
 - [BrainlyBypassPaywall](https://gitlab.com/Dwyriel/Greasyfork-Scripts/-/tree/main/BrainlyBypassPaywall?ref_type=heads) - Reseta a contagem diária do Brainly para evadir o paywall de limite diário.
-- [13ft](https://13ft.wasimaster.me/) - Sucessor do 12ft.io.
 - [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
 - [Bypass paywalls - Método 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o agente do usuário para o Google Bot.
 - [Marreta](https://marreta.pcdomanual.com/)
@@ -97,10 +96,10 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito do real-debrid
 - **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid
 - **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também
-- **[Trialware]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
-- [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd
 - [leechpremium](https://leechpremium.net/) - Este é um serviço de download gratuito com o qual você pode realizar downloads premium.
 **Desative o seu adblock e o ative novamente quando o site carregar.**
+- **[Trialware]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
+- [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd
 - [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium
 - **[Pago]** [Linksnappy](https://linksnappy.com/) - Agregador de conteúdo que permite extrair arquivos de vários serviços de armazenamento em nuvem.
 
