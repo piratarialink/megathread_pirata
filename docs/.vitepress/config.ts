@@ -73,7 +73,7 @@ export default {
         text: "Tópicos",
         collapsible: true,
         items: [
-          { text: "⚓️ FAQ", link: "faq" },
+          { text: "⚓️ Perguntas Frequentes", link: "faq" },
           { text: "🧭 Uso Geral", link: "sites-geral" },
           { text: "⛩️ Otaku", link: "otaku" },
           { text: "📚 Livros", link: "livros" },
@@ -96,7 +96,7 @@ export default {
         text: "Recomendado",
         collapsible: true,
         items: [ 
-          { text: "📚 Glossário", link: "util/glossario" },
+          { text: "📚 Nomenclatura", link: "util/nomenclatura" },
           { text: "🔗 Publicações úteis", link: "publicacoes" },
           { text: "🗺️ Guias", link: "guias" },
           { text: "🔒 Privacidade", link: "privacidade" }
