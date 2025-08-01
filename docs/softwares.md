@@ -114,9 +114,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ## 🎨 ➜ Pacotes de recursos
 
-::: info Créditos vão para o [u/meffraz](https://mefrraz.github.io/hattered/pages/categories/graphics/graphic.html)
-:::
-
 ### 🌟 [AERiver](https://aeriver.com/)
 - Utilitários para _After Effects_ e templates Premiere Pro "extraídos" do VideoHive.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/aeriver.com/) 
@@ -172,6 +169,12 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🧲 [NNMClub](https://nnmclub.to/forum/portal.php?c=19) • Interface em russo
 - Tracker semi-privado russo.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nnm-club.me/) 
+
+### Créditos:
+
+- [Diretório Hattered](https://mefrraz.github.io/hattered/pages/categories/graphics/graphic.html).
+
+---
 
 ## Está buscando Aplicativos para Celular?
 
