@@ -73,7 +73,7 @@ export default {
         text: "Tópicos",
         collapsible: true,
         items: [
-             { text: "⚓️ FAQ", link: "faq" },
+          { text: "⚓️ FAQ", link: "faq" },
           { text: "🧭 Uso Geral", link: "sites-geral" },
           { text: "⛩️ Otaku", link: "otaku" },
           { text: "📚 Livros", link: "livros" },
@@ -93,10 +93,9 @@ export default {
         ],
       },
       {
-        text: "📑 Recomendado",
+        text: "Recomendado",
         collapsible: true,
-        items: [
-          { text: "ℹ️ Sobre", link: "sobre" },
+        items: [ 
           { text: "📚 Glossário", link: "util/glossario" },
           { text: "🔗 Publicações úteis", link: "publicacoes" },
           { text: "🗺️ Guias", link: "guias" },
@@ -104,7 +103,7 @@ export default {
         ],
       },
       {
-        text: "💰 Outros Tesouros",
+        text: "Outros Tesouros",
         collapsible: true,
         items: [
           {
