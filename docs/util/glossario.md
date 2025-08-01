@@ -129,6 +129,8 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **CDM**: Chave de descriptografia para conteúdo protegido por DRM. 
 
+**DDL**: _Direct Download_ ou 'Download Direto' em tradução livre.
+
 **DRM**: _Digital Rights Millennium_ é uma espécie de proteção extra contra cópia ou download. O DRM pode ter múltiplas chaves de descriptografia dependendo do sistema (L1, L2 e L3 no caso do Widevine).
 
 **Hosts de link premium**: São intermediários que bloqueiam o link DDL de um arquivo através de um upgrade para conta premium ou limite diário/por tempo.
