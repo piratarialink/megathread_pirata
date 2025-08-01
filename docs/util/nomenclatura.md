@@ -4,9 +4,6 @@
 Vamos facilitar o entendimento para que você se familiarize com as expressões frequentes neste espaço.
 Desfrute da leitura e expanda seu conhecimento!
 
-::: info Créditos ao [FMHY](https://rentry.org/The-Piracy-Glossary) pela ideia.
-:::
-
 ## Básico
 
 **Warez**: Fórum de compartilhamento via link de um servidor em nuvem, como Google Drive, MEGA, Mediafire, entre outros
@@ -136,5 +133,7 @@ Desfrute da leitura e expanda seu conhecimento!
 **Hosts de link premium**: São intermediários que bloqueiam o link DDL de um arquivo através de um upgrade para conta premium ou limite diário/por tempo.
 
 **PlayReady**: Tecnologia semelhante ao Widevine criada pela Microsoft para prevenção de cópia de mídia.
-                        
-> Feita por [u/anombaiano](https://www.reddit.com/user/anombaiano/), [u/Wandrey](https://lemmy.eco.br/u/wandrey) e [u/orchestralblend](https://www.reddit.com/user/orchestralblend/).
+
+### Créditos:                        
+> [u/anombaiano](https://www.reddit.com/user/anombaiano/), [u/Wandrey](https://lemmy.eco.br/u/wandrey) e [u/orchestralblend](https://www.reddit.com/user/orchestralblend/).
+> [Glossário do FMHY](https://rentry.org/The-Piracy-Glossary).
