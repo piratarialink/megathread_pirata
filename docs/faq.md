@@ -4,8 +4,9 @@
 
 ### A megathread foi feita para quem? E por que ela é tão parecida com a megathread do r/piracy?
 
-- Seu propósito é ser um repositório de ferramentas, aplicativos e dicas úteis do meio pirata da internet para outras pessoas, essa coleção é atualizada e mantida por colaboradores do github.
-- Basicamente, é como se fosse um 'fork' da megathread conceituada do r/piracy, porém, tendo em mente a comunidade lusófona como um todo (Brasil, Portugal, Cabo Verde, Angola, etc.); por isso alguns trechos podem parecer bastante semelhantes à primeira vista.
+- O projeto 'Pirataria' foi fundado em novembro de 2023 visando atuar como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas, etc.
+- Esta coleção é atualizada e mantida por voluntários do github e atualmente está hospedada no domínio [pirataria.link](https://pirataria.link).
+- Basicamente, é como se fosse um 'fork' da megathread conceituada do r/piracy, porém, tendo em mente a comunidade lusófona como um todo; por isso alguns trechos podem parecer bastante semelhantes à primeira vista.
 
 ### Como a pirataria digital realmente começou?
 
@@ -36,3 +37,7 @@
 - Esteja ciente dos riscos: Reconheça que o uso de softwares piratas envolve riscos significativos, incluindo a exposição a malware e perda de dados.
 - Considere alternativas legais: Em vez de recorrer a softwares piratas, explore alternativas legais, como softwares de código aberto.
 
+### Como eu posso remover um site da megathread?
+
+- A forma preferida de relatar conteúdo é através de um e-mail para [dmca@pirataria.link](mailto:dmca@pirataria.link) ou [abuse@pirataria.link](mailto:abuse@pirataria.link) Ao enviar um e-mail, por favor descreva brevemente por que o material relatado deve ser removido.
+- Após enviar seu relatório, por favor, não espere uma resposta por escrito. Todos os relatórios serão investigados e tratados de acordo, mas devido a recursos humanos limitados e à possibilidade de relatórios duplicados, normalmente não conseguimos encontrar tempo para mantê-lo atualizado sobre o status dos seus relatórios.
