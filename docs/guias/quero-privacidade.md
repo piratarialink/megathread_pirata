@@ -10,7 +10,7 @@
 - Não cruzar nomes em logins: sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
 - Trocar a senha do wi-fi e roteador: cole seu endereço IP na barra de URL do navegador
 - Criar passwords com espaços e caracteres próprios da língua portuguesa: como `ç`, `~`, `'`
-- Sempre que possìvel, usar um email temporário: de um provedor como o emailnator.com ou guerrilla mail quando for se cadastrar na web
+- Sempre que possìvel usar um email temporário: de um provedor como o emailnator.com ou guerrilla mail quando for se cadastrar na web
 - VPN: IVPN ou Mullvad
 - Navegador baseado em Chromium: Cromite
 
