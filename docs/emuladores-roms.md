@@ -404,11 +404,17 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Tradução do jogo Gunnm (Battle Angel Alita) de PS1 para o inglês.
 
+## 📢 ➜ Telegram
+
+### 🤖 [NSW Torrent Library](https://t.me/@Switch_library_bot)
+
+- Fonte confiável de roms para NSW, por ser um bot do telegram é uma opção viável caso o seu site favorito de roms de Switch seja derrubado.
+
 ## 🧵 ➜ Torrents
 
 ### 🧲 [BlueRoms](https://www.blueroms.ws/)
 
-- Explore uma vasta coleção de ROMs para PS1, PS2, PS3, PSP, Wii, 3DS e muito mais!
+- Desfrute de uma vasta coleção de ROMs para PS1, PS2, PS3, PSP, Wii, 3DS e muito mais!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/blueroms.ws/)
 
 ## Está buscando Jogos de Computador?
