@@ -352,6 +352,13 @@ Também clona mensagens com a função "encaminhar sem citar".
 - [Portlain](http://laingg42wznukvzjn52cos6bj6brgyiwtxf5rpq3bu5pad56volhe2qd.onion/portlain/)
 - [Suprbay](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/)
 - [Autodefesa digital](http://tdtf5fdpfjgpxci4pqrtr5cvmsytqu25c2kdbflllz37k5glz6bexcyd.onion/)
+
+## ► **VPS grátis**
+
+> Para hospedar servidores próprios de rust, minecraft, bot do telegram, storage e outros projetos.
+
+- [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter.
+- [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado na China para burlar o firewall. A velocidade pode variar muito por ser utilizado principalmente como proxy.
   
 ## ► **Inteligência Artifical**
 
@@ -365,13 +372,6 @@ Também clona mensagens com a função "encaminhar sem citar".
 - [Meawfy](https://meawfy.com/) - Um mecanismo de busca especializado em encontrar arquivos hospedados no Mega.nz.
 - [Mediafire Trend](https://mediafiretrend.com/) - Ferramenta de pesquisa para o Mediafire.
 - [File Pursuit](https://filepursuit.com/) - Milhões de arquivos em servidores da Web.
-
-## ► **VPS grátis**
-
-> Para hospedar servidores próprios de rust, minecraft, bot do telegram, storage e outros projetos.
-
-- [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter.
-- [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado na China para burlar o firewall. A velocidade pode variar muito por ser utilizado principalmente como proxy.
 
 ## ► **SSH**
 
