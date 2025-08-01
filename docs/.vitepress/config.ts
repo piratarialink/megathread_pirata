@@ -96,7 +96,7 @@ export default {
         text: "Recomendado",
         collapsible: true,
         items: [ 
-          { text: "📚 Nomenclatura", link: "util/nomenclatura" },
+          { text: "📚 Nomenclatura", link: "nomenclatura" },
           { text: "🔗 Publicações úteis", link: "publicacoes" },
           { text: "🗺️ Guias", link: "guias" },
           { text: "🔒 Privacidade", link: "privacidade" }
