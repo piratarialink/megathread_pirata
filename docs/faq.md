@@ -41,3 +41,7 @@
 
 - A forma preferida de relatar conteúdo é através de um e-mail para [dmca@pirataria.link](mailto:dmca@pirataria.link) ou [abuse@pirataria.link](mailto:abuse@pirataria.link) Ao enviar um e-mail, por favor descreva brevemente por que o material relatado deve ser removido.
 - Após enviar seu relatório, por favor, não espere uma resposta por escrito. Todos os relatórios serão investigados e tratados de acordo, mas devido a recursos humanos limitados e à possibilidade de relatórios duplicados, normalmente não conseguimos encontrar tempo para mantê-lo atualizado sobre o status dos seus relatórios.
+
+---
+
+**Agradecemos a participação de todos na construção e manutenção de nossa megathread.**
