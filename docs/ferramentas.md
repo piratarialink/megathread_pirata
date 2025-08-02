@@ -307,7 +307,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 
 ## ► Renomeação de arquivos
 
-- **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Movie.Name.2005.1080p.BluRay.DD5.x264).
+- **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Cinderela.Baiana.2005.1080p.BluRay.DD5.x264).
 - [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Mesmo conceito do filebot, mas gratuito.
 - [AdvancedRenamer](https://www.advancedrenamer.com/) - Mesmo conceito do filebot, mas gratuito.
 - [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Permite renomear por RegEx
