@@ -170,6 +170,9 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Tracker semi-privado russo.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nnm-club.me/) 
 
+‎ 
+‎ 
+
 ### Créditos:
 
 - [Diretório Hattered](https://mefrraz.github.io/hattered/pages/categories/graphics/graphic.html).
