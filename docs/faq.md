@@ -28,14 +28,14 @@
 
 ### Como eu posso evitar malware indesejado?
 
-- Baixe softwares apenas de fontes confiáveis e oficiais. Sites como estes podem ser encontrados na Megathread do nosso subreddit.
+- Baixe softwares apenas de fontes confiáveis e oficiais. Estas fontes podem ser encontrados na Megathread do nosso subreddit.
 - Mantenha um antivírus atualizado para detectar possíveis ameaças. Alguns softwares piratas podem conter malware, e um antivírus eficiente pode ajudar a identificá-los. O próprio Windows Defender da Microsoft já basta. [Leitura importante](/posts/antivirus).
 - Antes de baixar qualquer software, pesquise e sobre o site em que irá baixar o software, e preferencialmente procure se o site se encontra na Megathread.
 - Se possível, confirme a autenticidade do arquivo comparando checksums ou hashes fornecidos pelo site oficial com os do arquivo que você baixou.
 - Mantenha todos os softwares, incluindo o sistema operacional e programas piratas, atualizados. As atualizações muitas vezes corrigem vulnerabilidades de segurança.
 - Se você deseja testar um software pirata, considere fazê-lo em uma máquina virtual. Isso isola o sistema principal de possíveis ameaças.
 - Esteja ciente dos riscos: Reconheça que o uso de softwares piratas envolve riscos significativos, incluindo a exposição a malware e perda de dados.
-- Considere alternativas legais: Em vez de recorrer a softwares piratas, explore alternativas legais, como softwares de código aberto.
+- Em vez de recorrer a softwares piratas, explore alternativas legais, como softwares de código aberto.
 
 ### Como eu posso remover um site da megathread?
 
