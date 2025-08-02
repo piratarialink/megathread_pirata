@@ -6,6 +6,8 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 **🌟 [**Ublock Origin**](https://github.com/gorhill/uBlock)** — Nunca se esqueça desta extensão.
 
+[Urban VPN proxy](https://www.urban-vpn.com/free-products/free-browser-extension/) / [Urban Shield](https://addons.mozilla.org/pt-BR/firefox/addon/urban-shield/) — VPN para você navegar no sigilo.
+
 [Redisex](https://redisex.club) — Do mesmo dono do redecanais.
 
 [Sleazyfork](https://sleazyfork.org)
