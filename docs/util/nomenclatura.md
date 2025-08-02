@@ -1,11 +1,12 @@
 # 🪶 ➜ Nomenclatura
 
 ‎ 
-‎ 
 
 - Descubra aqui os termos mais comuns utilizados na pirataria.
 Vamos facilitar o entendimento para que você se familiarize com as expressões frequentes neste espaço.
 Desfrute da leitura e expanda seu conhecimento!
+
+‎ 
 
 ## Básico
 
