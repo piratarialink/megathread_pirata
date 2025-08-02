@@ -177,8 +177,6 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 - [Diretório Hattered](https://mefrraz.github.io/hattered/pages/categories/graphics/graphic.html).
 
----
-
 ## Está buscando Aplicativos para Celular?
 
 ➜ Confira nosso tópico sobre 📱 [Mobile](mobile)
