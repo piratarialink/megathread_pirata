@@ -134,6 +134,9 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **PlayReady**: Tecnologia semelhante ao Widevine criada pela Microsoft para prevenção de cópia de mídia.
 
+‎ 
+‎ 
+
 ### Créditos:                        
 - [u/anombaiano](https://www.reddit.com/user/anombaiano/), [u/Wandrey](https://lemmy.eco.br/u/wandrey) e [u/orchestralblend](https://www.reddit.com/user/orchestralblend/).
 - [Glossário do FMHY](https://rentry.org/The-Piracy-Glossary).
