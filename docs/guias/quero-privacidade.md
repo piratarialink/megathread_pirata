@@ -16,6 +16,7 @@
 
 ## O intermediário para privacidade
 
+- Configure o navegador para excluir todos os dados sempre que você fechar o navegador (histórico, cookies, senhas, etc.): isso diminui a possibilidade de ter as contas invadidas e você não precisa se preocupar em caso de acesso não autorizado ao seu dispositivo
 - VPN: IVPN com Multihop
 - Email: mailbox.org + systemli.org com Thunderbird + uBlock Origin ou Cock.li (Servidor XMPP) + TailOS
 - Gerenciador de senhas: KeePassXC + systemli.org NextCloud
