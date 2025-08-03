@@ -8,10 +8,6 @@
 - Esta coleção é atualizada e mantida por voluntários do github e atualmente está hospedada no domínio [pirataria.link](https://pirataria.link).
 - Basicamente, é como se fosse um 'fork' da megathread conceituada do r/piracy, porém, tendo em mente a comunidade lusófona como um todo; por isso alguns trechos podem parecer bastante semelhantes à primeira vista.
 
-### Como a pirataria digital realmente começou?
-
-- Assim que a tecnologia [corte, copiar e colar](https://pt.wikipedia.org/wiki/Cortar,_copiar_e_colar) foi introduzida. Isso possibilitou transmitir ou copiar facilmente dados digitais.
-
 ### Vou ter problemas se visitar um site pirata ou baixar um determinado arquivo?
 
 - Não no Brasil, mas é sempre bom tomar cuidado, pois os provedores de internet são obrigados a guardar os logs de acesso dos clientes por 1 ano por determinação da Anatel. Portanto, se você for investigado algum dia, seu provedor será obrigado a compartilhar esses logs e não te informará sobre isso.
