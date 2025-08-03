@@ -100,13 +100,13 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 :::info Real Debrid pode ser necessário em alguns casos
 :::
 
-### 🌟 [DaddyLive](https://www.wirelesshack.org/how-to-install-daddy-live-kodi-addon.html)
+### 🌟 [Brazuca Play](https://telegra.ph/Brazuca-Community-09-13)
 
 - Transmite partidas ao vivo de futebol do Brasil e de outros países com narração em português brasileiro.
 
 ### 🔗 [F1 Rewind](https://mylostsoulspace.co.uk/repo)
 
-- Add-on do Kodi de reprises da F1TV localizado no repositório do grupo Z3R0. Mesmo método de instalação do DaddyLive.
+- Add-on do Kodi de reprises da F1TV localizado no repositório do grupo Z3R0. Mesmo método de instalação do Brazuca Play.
 
 ### 🔗 [Fights On Demand](https://mylostsoulspace.co.uk/repo)
 
