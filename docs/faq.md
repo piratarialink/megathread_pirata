@@ -17,11 +17,6 @@
 - O Sistema de Nomes de Domínio (DNS) é um serviço essencial para a navegação na internet. Ele funciona como um "catálogo telefônico" da web, traduzindo nomes de domínio (como exemplo.com) em endereços IP que os computadores usam para se conectar aos servidores. Sem o DNS, teríamos que memorizar longas sequências de números para acessar sites.
 - Por padrão, seu provedor de internet (ISP) atribui um DNS próprio, que muitas vezes é lento e sujeito a restrições, bloqueando o acesso a determinados sites. Para melhorar a velocidade da sua navegação e evitar censura, é recomendável alterar seu DNS. Você pode fazer isso seguindo este guia: [Como trocar o DNS no Windows e Android.](/guias/dns)
 
-### O download do conteúdo pirateado está realmente errado?
-
-- Dependendo da estrutura legal da sua nação, mas de modo geral, sob a lei humana, alguns argumentam que é.
-- Isso, no entanto, é distinto dos princípios morais de uma pessoa. Há muitos casos em que as empresas usam técnicas antiéticas que privam os clientes do que desejam ou fornecem opções ruins, tornando moralmente justificável a pirataria.
-
 ### Como eu posso evitar malware indesejado?
 
 - Baixe softwares apenas de fontes confiáveis e oficiais. Estas fontes podem ser encontradas na Megathread do nosso subreddit.
