@@ -23,9 +23,14 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Muda constantemente de domínio, para se manter atualizado confira o [discord oficial](https://discord.com/invite/kydZZBGwTy).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.ps/)
 
+### 🌟 [Suite](https://suite.vg/)
+
+- Experimente o melhor do streaming nacional e internacional ao alcance do seu celular ou televisão.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/suite.vg/)
+  
 ### 🌟 [Hypeflix](https://hypeflix.sbs/)
 
-- Site com muitos conteúdos grátis de filmes e séries para assistir gratuitamente.
+- Muito conteúdo gratuito relacionado a filmes e séries.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hypeflix.sbs/)
 
 ### 🌟 [Seu Seriado](https://seuseriados.com/)
@@ -307,12 +312,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Aplicativo de streaming que permite assistir vídeos, filmes e séries de TV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/stremio.com/)
 
-### 🌟 [Ford Browser](https://play.google.com/store/apps/details?id=com.ford.fordbrowser&hl=pt)
-
-- Aplicativo para android com um extenso catálogo de filmes e séries.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/play.google.com/)
-
-### 🔗 [Streamyfin](https://github.com/streamyfin/streamyfin)
+### 🌟 [Streamyfin](https://github.com/streamyfin/streamyfin)
 
 - Cliente do Jellyfin para gerenciar arquivos com facilidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
