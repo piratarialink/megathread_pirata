@@ -19,11 +19,15 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 [Better Repack](https://dl.betterrepack.com/)
 
+[Eroge Download](https://erogedownload.com/) - VNs eróticas + links "importantes" no fim da página.
+
 [Hottok](https://t.me/hottoknowbot) — Bot do Telegram que desnuda fotos.
 
 [Empornium](https://empornium.is/) — Tracker de conteúdo explícito.
 
 [ExoticaZ](https://exoticaz.to/) — Tracker com foco em JAV sem ou com censura (possui photobooks também).
+
+[Sukebei](https://sukebei.nyaa.si/) - Área +18 do Nyaa.
 
 [9xbuddy](https://9xbuddy.com/pt) - Faz o download de vídeos de uma variedade de sites adultos.
 
