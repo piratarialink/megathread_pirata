@@ -392,4 +392,13 @@ Na sidebar > `Guides` > `Extension Repos`.
 
 #### 🔗 [QG - Baltigo mangás](https://t.me/MangasBrasil)
 
+## 🎮 ➜ Visual Novels
+
+#### [VNBD](https://vndb.org/)
+
+- Projetado para ser um banco dados imenso de visual novels (inclusive de vns em português).
+
+
+
+
 ‎
