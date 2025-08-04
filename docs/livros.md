@@ -155,37 +155,6 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Plugin para o Calibre para remover DRM de livros comprados na Amazon ou Google Books.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hakuneko.download/)
 
-### 🔗 [Komikku](https://valos.gitlab.io/Komikku/) (Linux)
-
-- Com sua interface simples, elegante e adaptável, este leitor de mangá permite pesquisar, classificar e ler todos os seus mangás favoritos com facilidade.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/valos.gitlab.io/)
-
-## 🔊 ➜ Streaming
-
-➜ Os sites abaixo são gringos e apenas oferecem conteúdos em inglês
-
-➜ Caso você conheça algum site de livros e audiobooks em português, mande ele no chat desse canal [aqui](https://t.me/trackerslist/).
-
-### ▶️ [LibriVox](https://librivox.org/)
-
-- Liberação acústica de obras de domínio público, permitindo download e audição
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/librivox.org/)
-
-### ▶️ [Digitalbook](https://www.digitalbook.io/)
-
-- Narração digital do século XXI, disponível para download direto ou streaming.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/digitalbook.io/)
-
-### ▶️ [LearnOutLoud](https://www.learnoutloud.com/)
-
-- Local central para aprendizado de vídeo e áudio com mais de 50.000 títulos instrucionais.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/learnoutloud.com/)
-
-### ▶️ [Storynory](https://www.storynory.com/)
-
-- Histórias de áudio feitas para crianças. Relaxe e deixe a imaginação dos seus filhos vagar por reinos fantásticos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/storynory.com/)
-
 ## 🧵 ➜ Torrents
 
 ### 🧲 [Academic Torrents](https://academictorrents.com/)
@@ -206,8 +175,18 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Para obter um convite, [veja esta página](https://www.myanonamouse.net/inviteapp.php) para mais detalhes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/myanonamouse.net/)
 
-## 🎧 ➜ Sites de Audiolivros
+## 🎧 ➜ Audiolivros
 
+### 🌟 [LibriVox](https://librivox.org/)
+
+- Liberação acústica de obras de domínio público, permitindo download e audição.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/librivox.org/)
+
+### 🌟 [VisionVox](https://visionvox.com.br/)
+
+- Criado para facilitar o acesso a livros de diversos gêneros para brasileiros com deficiência visual. 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/visionvox.com.br/)
+  
 ### ▶️ [AppAudioBooks](https://appaudiobooks.com/)
 
 - Design fácil de usar que facilita a localização do audiolivro que você deseja ouvir.
@@ -218,7 +197,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Poesia gratuita e gravações de áudio de livros do Naropa Poetics Audio Archive, LibriVox, Project Gutenberg etc.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
-### 🌟 [AudioAZ](https://audioaz.com/)
+### ▶️ [AudioAZ](https://audioaz.com/)
 
 - Fornece uma biblioteca considerável de audiolivros que podem ser baixados ou ouvidos na Internet por qualquer pessoa.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/audioaz.com/)
@@ -252,6 +231,21 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 - Você pode desfrutar de todos os seus audiolivros favoritos gratuitamente online. Basta clicar para ouvir!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hotaudiobooks.com/)
+
+### ▶️ [Digitalbook](https://www.digitalbook.io/)
+
+- Narração digital do século XXI, disponível para download direto ou streaming.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/digitalbook.io/)
+
+### ▶️ [LearnOutLoud](https://www.learnoutloud.com/)
+
+- Local central para aprendizado de vídeo e áudio com mais de 50.000 títulos instrucionais.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/learnoutloud.com/)
+
+### ▶️ [Storynory](https://www.storynory.com/)
+
+- Histórias de áudio feitas para crianças. Relaxe e deixe a imaginação dos seus filhos vagar por reinos fantásticos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/storynory.com/)
 
 ## 🆎 ➜ Fontes
 
