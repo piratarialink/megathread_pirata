@@ -8,14 +8,14 @@
 
 3 - No menu suspenso, selecione a opção "Abrir painel de controle" ou "Opções".
 
-![Twitch1](/images/twitch1.png)
+![Twitch1](./images/twitch1.png)
 
 ## Passo 2
 
 Disclaimer: Partindo do pressuposto de que você já tenha experiência com a extensão, habilite a opção: 'Eu sou um usuário avançado'.
 O r/pirataria se compromete em disponibilizar conteúdos que na nossa visão são seguros e confiáveis.
 
-![Twitch2](/images/twitch2.png)
+![Twitch2](./images/twitch2.png)
 
 ## Passo 3
 
@@ -23,7 +23,7 @@ O r/pirataria se compromete em disponibilizar conteúdos que na nossa visão sã
 
 2 - Clique no botão aplicar alterações e sem seguida Atualizar filtros
 
-![Twitch3](/images/twitch3.png)
+![Twitch3](./images/twitch3.png)
 
 Lembre-se de que é importante confiar na [fonte do backup](https://web.archive.org/web/20231026142118/https://raw.githubusercontent.com/Dreadwhole/ublock-hagezi-list/60c0f8a3768b919627480a89a20e577648723123/ublock-rogin-hagezi-list-activated.txt) e verificar se o URL fornecido é confiável antes de importar qualquer backup. Espero que este tutorial tenha sido útil!
 

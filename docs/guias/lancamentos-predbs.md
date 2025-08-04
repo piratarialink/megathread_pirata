@@ -1,6 +1,7 @@
 ---
 title: "Verificando lançamentos de jogos usando PreDBs"
 ---
+
 É bastante comum aqui e em outros grupos surgirem dúvidas sobre lançamentos de jogos, como o exemplo que encontrei hoje:
 
 > Alguém já baixou o The Forest piratão?

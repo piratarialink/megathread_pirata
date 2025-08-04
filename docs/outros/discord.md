@@ -61,10 +61,10 @@ Em seguida, o Go Live foi lançado e, no início, era péssimo. Originalmente, e
 
 Discord é um aplicativo de comunicação. Você acha que isso permitiria que a equipe comunicasse informações importantes de maneira eficaz para você e talvez você pudesse ativar ou desativar canais específicos, como notas de atualização, anúncios de desenvolvedores, análises técnicas e coisas assim. Não é assim. Comunicação com Discord é incrivelmente desorganizado.
 
-
 O Discord tem um blog. O Discord tem o repórter de interrupções. O Discord tem listas de e-mail. O Discord tem o Twitter. O Discord escreve no GitHub. O Discord tem praticamente tudo, exceto, bem, o Discord. As únicas mensagens que você pode ter certeza de receber são as mensagens do SISTEMA se eles decidirem que é hora de mostrar seu passaporte. As informações enviadas por essas diferentes rotas de comunicação também são diferentes, então você precisa se inscrever em todas elas. Há também cerca de um bilhão de servidores satélites aos quais você precisa se associar para obter informações importantes informações, especialmente se você for um desenvolvedor de bot. Muitas informações importantes sobre verificação de bot, uma medida que _literalmente bloqueará as pessoas fora da plataforma se elas não entenderem o que fazer,_ eu só descubro quando pessoas aleatórias poste-o em servidores onde eu esteja. Aparentemente há um servidor "Discord Developers" onde eles postam anúncios sobre isso. Não tenho ideia de como entrar nesse servidor.
 
 ## Tempo de inatividade
+
 O Discord quer ser a via de comunicação que você pode usar para tudo. Isso é um pouco difícil quando eles estão tendo problemas técnicos em momentos cruciais. Se os servidores caírem, você não consegue fazer login, não consegue ler nenhum arquivo antigo. mensagens, você não pode enfileirar mensagens para enviar mais tarde e muitas vezes não pode receber atualizações sobre o que está acontecendo. Tudo o que você pode fazer é esperar e torcer para que isso volte eventualmente.
 
 [Confira a página de status.](https://status.discord.com/)
@@ -215,8 +215,8 @@ Aqui estão algumas opções que posso pensar:
 - Anúncios para todos, ou pelo menos para pessoas que não pagam. Isso provavelmente não funcionará relativamente bem, pois as pessoas provavelmente migrarão rapidamente para uma plataforma que não tem anúncios. Ou a maioria dos usuários receberá anúncios bloqueadores, o que novamente significa nenhum dinheiro.
 - Gerenciar mineradores de criptomoedas, eu acho?Isso lhes traria relações públicas muito ruins e provavelmente não muito dinheiro, mas é uma opção.
 - Faça com que todos paguem apenas para fazer login. Não tenho certeza de como isso funcionaria, então deixarei isso para o leitor considerar. Obviamente, sua reputação seria totalmente destruída, mas para a fração de usuários que permaneceram, Acho que o Discord poderia mudar para um serviço somente pago e sobreviver.
-- Empacote os metadados e o conteúdo das mensagens de todos e venda tudo ao licitante que pagar mais ou forneça um serviço de assinatura onde outras empresas possam pagar por consulta ao banco de dados para essas 
-informações.
+- Empacote os metadados e o conteúdo das mensagens de todos e venda tudo ao licitante que pagar mais ou forneça um serviço de assinatura onde outras empresas possam pagar por consulta ao banco de dados para essas
+  informações.
 
 Esse último ponto é provavelmente o mais provável.
 
@@ -257,8 +257,9 @@ Pessoas que não conseguem ver canais privados podem ver anexos que foram postad
 Exclua sua conta. Brincadeirinha. O Tracr/Discool não removerá suas informações, nem o Discord, na verdade. Veja o que excluir sua conta faz:
 
 -Remove sua foto de perfil
+
 - Define seu nome de exibição para "Usuário excluído XXXXXX".
--...
+  -...
 
 Sim, é isso. [Ele não exclui nenhuma de suas mensagens.](https://www.reddit.com/r/discordapp/comments/d90yzq/a_small_rant_on_privacy_issues_disregarding_of/f1etv3t) Ele não remove nem substitui o usuário permanente identificador que sua conta possui. Todos os seus dados permanecem no Discord e ainda podem ser lidos por qualquer pessoa.
 
@@ -298,11 +299,11 @@ Demorei 4,5 horas e 4.986 palavras para escrever a postagem inicial, mas editei 
 
 — [Cadence](https://cadence.moe)
 
--   [Discord Hold the Keys to Your Heart - Artemis Everfree](https://artemis.sh/2022/01/30/discord-holds-the-keys-to-your-heart.html)
--   [My view on the issues of Discord - Austin Huang](https://austinhuang.me/discord-issues)
--   [How to get any bot, no matter the size, permanently deleted from Discord in such a way that the creator cannot do anything to prevent it. - r/discordapp](https://www.reddit.com/r/discordapp/comments/fermo3/how_to_get_any_bot_no_matter_the_size_permanently/)
--   [This classic post - r/discordapp](https://www.reddit.com/r/discordapp/comments/debr97/open_letter_to_discord/)
--   [The cub drama](https://ganker.com/discord-has-a-furry-pedophile-problem/)
--   [More about the cub drama](https://www.polygon.com/2019/1/30/18203692/discord-nsfw-policy-furry-cub)
+- [Discord Hold the Keys to Your Heart - Artemis Everfree](https://artemis.sh/2022/01/30/discord-holds-the-keys-to-your-heart.html)
+- [My view on the issues of Discord - Austin Huang](https://austinhuang.me/discord-issues)
+- [How to get any bot, no matter the size, permanently deleted from Discord in such a way that the creator cannot do anything to prevent it. - r/discordapp](https://www.reddit.com/r/discordapp/comments/fermo3/how_to_get_any_bot_no_matter_the_size_permanently/)
+- [This classic post - r/discordapp](https://www.reddit.com/r/discordapp/comments/debr97/open_letter_to_discord/)
+- [The cub drama](https://ganker.com/discord-has-a-furry-pedophile-problem/)
+- [More about the cub drama](https://www.polygon.com/2019/1/30/18203692/discord-nsfw-policy-furry-cub)
 
 [https://cadence.moe/blog/2020-06-06-why-you-shouldnt-trust-discord#does-not-care-about-you](https://cadence.moe/blog/2020-06-06-why-you-shouldnt-trust-discord#does-not-care-about-you)

@@ -79,10 +79,11 @@ Há diversas formas de enviar o arquivo .mobi para seu Kindle:
 Agora seu mangá está pronto para ser lido no Kindle. Aproveite a experiência de leitura com qualidade e organização.
 
 ---
+
 **Créditos**: Este guia foi baseado em uma contribuição do usuário **u/hurricanesteaktoast** no Reddit. Confira o comentário original [aqui](https://www.reddit.com/r/pirataria/comments/18fu7b6/comment/kcxjbn3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
 
 **Links úteis:**
+
 - [Hakuneko](https://hakuneko.download/)
 - [Kindle Comic Converter (KCC)](https://github.com/ciromattia/kcc)
 - [Calibre](https://calibre-ebook.com/)
-

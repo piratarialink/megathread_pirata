@@ -45,13 +45,12 @@ O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Hab
 - Não é afiliado com a Mozilla Foundation
 - Sem telemetria (coleta de dados sobre o uso do usuário)
 
-![Librewolf](public/images/librewolf.png)
+![Librewolf](./images/librewolf.png)
 
 ### [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 
 É um projeto opensource (código aberto), baseado em Chromium, mas sem manipulação do Google: remove os serviços e rastreamento do Google e telemetria.
 Todavia requer que o usuário configure de maneira manual, para uma privacidade ainda mais robusta.
-
 
 ### [Cromite](https://github.com/uazo/cromite)
 
@@ -62,9 +61,9 @@ O Cromite é um fork do Chromium baseado no fork do Bromite com bloqueio de anú
 - Baseado em Chromium
 
 :::info Disponível para Android, Windows e Linux.
-::: 
+:::
 
-![Cromite](public/images/cromite.png)
+![Cromite](./images/cromite.png)
 
 ## Gerenciador de Senhas
 
@@ -89,7 +88,7 @@ Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que c
 - Mullvad Leta
 - Suporta Monero
 
-![Mullvad](/images/mullvad_vpn.png)
+![Mullvad](./images/mullvad_vpn.png)
 
 ### [IVPN](https://www.ivpn.net/)
 
@@ -105,7 +104,7 @@ Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que c
 - Suporta Monero
 
 :::warning AirVPN deve ser a última opção como VPN, seus servidores não são bons.
-::: 
+:::
 
 ## Bloqueador de anúncios e trackers
 
@@ -114,18 +113,18 @@ Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que c
 O uBlock Origin é uma extensão de navegador popular projetada para bloquear anúncios, rastreadores e outros elementos indesejados em páginas da web. Ele funciona filtrando o conteúdo da página em tempo real, impedindo que anúncios sejam carregados, o que resulta em uma experiência de navegação mais rápida e limpa. Além de bloquear anúncios, o uBlock Origin também oferece opções avançadas de filtragem, permitindo que os usuários personalizem suas configurações conforme necessário. Esta extensão é conhecida por sua eficácia, baixo consumo de recursos e pela capacidade de proteger a privacidade dos usuários, bloqueando rastreadores e scripts maliciosos.
 
 :::info Adicionar a lista [oisd.nl](https://oisd.nl) como lista adicional.
-::: 
+:::
 
-![uBlock Add](/images/ublock_oisd_add.png)
+![uBlock Add](./images/ublock_oisd_add.png)
 
-![uBlock Done](/images/ublock_oisd_done.png)
+![uBlock Done](./images/ublock_oisd_done.png)
 
 ### [Pi-hole](https://pi-hole.net/)
 
 O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo baseada em rede, geralmente implementada em um Raspberry Pi ou em um servidor local. Funciona como um servidor DNS que intercepta solicitações de DNS feitas por dispositivos na rede e bloqueia solicitações para servidores de anúncios e domínios de conteúdo indesejado. Isso melhora a velocidade de navegação, reduz o consumo de largura de banda e aumenta a privacidade, já que muitos rastreadores e anúncios são bloqueados antes de serem carregados. O Pi-hole também fornece estatísticas detalhadas sobre o tráfego de rede e os domínios bloqueados, permitindo um controle mais preciso sobre o fluxo de dados na rede local.
 
 :::info Utilizar somente a lista do [oisd.nl](https://oisd.nl).
-::: 
+:::
 
 :::warning O Pi-hole é somente para usúarios avançados.
 :::
@@ -149,7 +148,7 @@ Um sistema operacional mobile privado e seguro com compatibilidade de aplicativo
 - Suporta celulares antigos que não recebem mais atualizações de segurança
 - A linha da Motorola é a mais acessível no Brasil
 
-![LineageOS](/images/lineage_os.jpg)
+![LineageOS](./images/lineage_os.jpg)
 
 ## Provedor de Armazenamento em Nuvem
 

@@ -31,7 +31,7 @@ Agradecemos a participação de todos na construção e manutenção de nossa me
 
 A Megathread atualmente roda no [Vitepress](https://vitepress.dev/) com o tema [FMHY](https://github.com/fmhy/FMHYedit). 💖
 
-## Doações 
+## Doações
 
 https://livepix.gg/galamoth
 

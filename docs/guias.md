@@ -20,7 +20,7 @@ Para uma experiência ainda melhor na Twitch. Tenha em mente que a qualidade da 
 
 ## 📑 ➜ [Passos para instalar plugins de pesquisa no qBitTorrent](guias/guia-plugins-qbittorrrent.md)
 
-Guia para instalar plugins ao qBitTorrent, permitindo fazer buscas de fontes seguras de diversos indexadores. 
+Guia para instalar plugins ao qBitTorrent, permitindo fazer buscas de fontes seguras de diversos indexadores.
 
 ## 📑 ➜ [Como baixar arquivos de bots IRC/XDCC](guias/guia-xdcc)
 

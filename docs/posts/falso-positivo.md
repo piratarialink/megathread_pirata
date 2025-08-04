@@ -1,7 +1,7 @@
 # 🪶 ➜ Compreendendo Falso-Positivo em Softwares
 
-:::info 
-Essa página foi um post tirado do Lemmy. 
+:::info
+Essa página foi um post tirado do Lemmy.
 [orchestralblend](https://github.com/orchestralblend) / [orchestralblend@systemli.org](mailto:orchestralblend@systemli.org)
 :::
 
@@ -17,4 +17,4 @@ O falso-positivo em softwares pirateados ocorre quando sistemas de segurança, c
 
 Quando um software é desenvolvido e distribuído de maneira ilegal, ou seja, sem a devida autorização e pagamento ao detentor dos direitos autorais, ele é considerado pirata. Os desenvolvedores de antivírus e sistemas de segurança implementam mecanismos para detectar e bloquear esses softwares piratas. O objetivo do antivírus é evitar "impactos injustos" em softwares que seguem as normas legais de propriedade intelectual; eles são obrigados por lei a fazerem isso.
 
-*Não é injusto, as empresas focam em ter lucros absurdos ao invés de tornar seus programas mais acessíveis. Um exemplo de empresa que faz isso é a Adobe: "Foda-se o bolso dos nossos consumidores, queremos é lucro!"*
+_Não é injusto, as empresas focam em ter lucros absurdos ao invés de tornar seus programas mais acessíveis. Um exemplo de empresa que faz isso é a Adobe: "Foda-se o bolso dos nossos consumidores, queremos é lucro!"_

@@ -2,6 +2,7 @@
 title: "Como baixar arquivos de bots IRC/XDCC"
 description: "Guia sobre como usar Fservers para baixar animes"
 ---
+
 # Baixando arquivos de bots IRC/XDCC
 
 Dentro da chamada **"pirâmide da pirataria"**, no mesmo nível dos trackers de torrent públicos, existem canais de IRC com bots que compartilham arquivos via XDCC, os chamados Fservers, bastante populares principalmente entre os fãs de animes. Neste tutorial, irei explicar o básico de como baixar animes legendados através destes Fservers, e darei algumas referências ao final para quem quiser se aprofundar mais sobre como usar o IRC.
@@ -40,26 +41,30 @@ Muitas vezes, na própria packlist, já é fornecida a informação do servidor 
 
 ## Na prática
 
-Para um exemplo prático, faremos o download do 1º episódio do anime *New Game!* no tracker brasileiro *Anime no Sekai*, que possui uma packlist e bot xdcc em funcionamento, utilizando o client HexChat.
+Para um exemplo prático, faremos o download do 1º episódio do anime _New Game!_ no tracker brasileiro _Anime no Sekai_, que possui uma packlist e bot xdcc em funcionamento, utilizando o client HexChat.
 
 1. Primeiramente, visitamos a tracklist na internet:
 
-   ![Packlist do Anime no Sekai (ANSK)](/images/guia-xdcc-1.png)
+   ![Packlist do Anime no Sekai (ANSK)](./images/guia-xdcc-1.png)
 
    Podemos notar que na tracklist consta o servidor (Rizon - irc.rizon.net) e o canal \#AnimeNSK com o qual devemos nos conectar.
+
 2. Abrimos então nosso client IRC e nos conectamos a este servidor e canal, como segue:
 
-   ![Lista de redes do HexChat](/images/guia-xdcc-2.png)
-   ![Conexão completa no HexChat](/images/guia-xdcc-3.png)
-3. Voltamos à tracklist e procuramos o anime que desejamos, no caso, o episódio 1 de *New Game!*.
+   ![Lista de redes do HexChat](./images/guia-xdcc-2.png)
+   ![Conexão completa no HexChat](./images/guia-xdcc-3.png)
 
-   ![Pack do Anime New Game! Selecionado](/images/guia-xdcc-4.png)
+3. Voltamos à tracklist e procuramos o anime que desejamos, no caso, o episódio 1 de _New Game!_.
+
+   ![Pack do Anime New Game! Selecionado](./images/guia-xdcc-4.png)
+
 4. Copiamos o comando na coluna "comando" da packlist, no caso, `msg ANSK|Sora xdcc send \#1257`.
 
-   ![Enviando um comando para o bot](/images/guia-xdcc-5.png)
+   ![Enviando um comando para o bot](./images/guia-xdcc-5.png)
+
 5. Será aberta esta janela perguntando onde você deseja salvar o arquivo. Basta clicar em aceitar e ele já começará a ser baixado.
 
-   ![HexChat recebendo arquivo](/images/guia-xdcc-6.png)
+   ![HexChat recebendo arquivo](./images/guia-xdcc-6.png)
 
 ## Notas
 

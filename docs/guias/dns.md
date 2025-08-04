@@ -1,8 +1,8 @@
 # Como Configurar o DNS no Windows e Android
 
-![DNS](/images/dns1.png)
+![DNS](./images/dns1.png)
 
- Ajustar as configurações de DNS pode oferecer diversos benefícios, como:
+Ajustar as configurações de DNS pode oferecer diversos benefícios, como:
 
 - Melhoria na velocidade da navegação (embora não aumente a velocidade de download);
 
@@ -42,15 +42,15 @@ NextDNS
 
 DNS público do Google
 
-- IPv4:  `8.8.8.4` e `8.8.4.4`
+- IPv4: `8.8.8.4` e `8.8.4.4`
 
 - IPv6: `2001:4860:4860::8888` e `2001:4860:4860::8844`
 
 - IPv6 [2]: `2001:4860:4860:0:0:0:0:8888` e `2001:4860:4860:0:0:0:0:8844`
 
 - Aproveite uma navegação com velocidade rápida (às vezes, até mais rápida que VPS) sem restrições de ISP e local.
-  
-:::info Nota: 
+
+:::info Nota:
 Os servidores públicos do Cloudflare e do AdGuard não apresentam esses inconvenientes, por isso serão o foco deste guia. Para testar a velocidade dos servidores DNS e conhecer mais opções, experimente o app Teste Velocidade DNS.
 :::
 
@@ -63,6 +63,7 @@ A alteração do DNS no Windows afeta todo o sistema – todos os navegadores e 
 1. Abrir Conexões de Rede: Pressione Alt+S e pesquise por Exibir Conexões de Rede.
 2. Selecionar a Interface: Escolha a interface utilizada (Wi-Fi ou Ethernet), clique com o botão direito e selecione Propriedades. (Print abaixo).
 3. Configurar IPv4:
+
    - Selecione Protocolo IP Versão 4 (TCP/IPv4) com dois cliques.
    - Marque a opção Usar os seguintes endereços de servidores DNS e insira os endereços do DNS escolhido (IPs IPv4 primário e secundário do tópico 1). (Print abaixo).
 
@@ -78,7 +79,7 @@ A alteração do DNS no Windows afeta todo o sistema – todos os navegadores e 
 
 - Recapitulando: Acesse Exibir Conexões de Rede > Selecione o seu adaptador de rede WiFi ou por cabo Ethernet > Propriedades > Dois cliques em (TCP/IPv4) e coloque o DNS IPv4 > Volte e vá em (TCP/IPv6) > coloque o endereço IPv6 do DNS desejado > Salve com OK.
 
-![DNS2](/images/dns2.png)
+![DNS2](./images/dns2.png)
 
 ## 3 - Configurando o DNS no Android:
 
@@ -86,48 +87,48 @@ A configuração do DNS no Android pode variar conforme a interface – seja a O
 
 **BÔNUS**: Configuração no HyperOS (Xiaomi):
 
-   1. Acesse as Configurações: Abra o menu Configurações do dispositivo.
+1. Acesse as Configurações: Abra o menu Configurações do dispositivo.
 
-   2. Opções de Conectividade: Selecione Mais opções de conectividade.
+2. Opções de Conectividade: Selecione Mais opções de conectividade.
 
-   3. Ativar DNS Privado: Toque em DNS Privado.
+3. Ativar DNS Privado: Toque em DNS Privado.
 
-   4. Inserir o Nome do Host: Em Nome do host do provedor de DNS privado, digite:
+4. Inserir o Nome do Host: Em Nome do host do provedor de DNS privado, digite:
 
-        - Para Cloudflare: `security.cloudflare-dns.com`
+   - Para Cloudflare: `security.cloudflare-dns.com`
 
-        - Para AdGuard: `dns.adguard-dns.com`
+   - Para AdGuard: `dns.adguard-dns.com`
 
-![DNS3](/images/dns3.png)
+![DNS3](./images/dns3.png)
 
 ## 4 - Configuração no Android Puro (ex.: Motorola, Google Pixel, OnePlus, Custom ROMs)
 
-   1. Acessar Configurações de Rede: Abra Configurações e toque em Rede e Internet.
+1.  Acessar Configurações de Rede: Abra Configurações e toque em Rede e Internet.
 
-   2. Configurar DNS Privado: Selecione a opção DNS Privado, e em `...Provedor Hostname` digite o endereço DNS desejado.
+2.  Configurar DNS Privado: Selecione a opção DNS Privado, e em `...Provedor Hostname` digite o endereço DNS desejado.
 
-   3. Salvar a Configuração: Toque em Salvar para confirmar a alteração
+3.  Salvar a Configuração: Toque em Salvar para confirmar a alteração
 
-![DNS4](/images/dns4.png)
+![DNS4](./images/dns4.png)
 
 ## 5 - Configuração Manual para Redes Wi-Fi
 
 Esse método utiliza o protocolo IPv4 usado no Windows e altera a configuração apenas para a rede Wi-Fi atual:
 
-  1. Acesse as Configurações de Wi-Fi: Vá em Configurações > Wi-Fi.
+1. Acesse as Configurações de Wi-Fi: Vá em Configurações > Wi-Fi.
 
-  2. Editar a Rede Conectada: Toque na seta ou ícone de configurações da rede Wi-Fi em uso.
+2. Editar a Rede Conectada: Toque na seta ou ícone de configurações da rede Wi-Fi em uso.
 
-  3. Configurar IP Estático: Em Configuração de IP, selecione Estático.
+3. Configurar IP Estático: Em Configuração de IP, selecione Estático.
 
-  4. Inserir os Endereços de DNS: Preencha os campos DNS 1 e DNS 2 com os endereços desejados.
+4. Inserir os Endereços de DNS: Preencha os campos DNS 1 e DNS 2 com os endereços desejados.
 
-![DNS5](/images/dns5.png)
+![DNS5](./images/dns5.png)
 
 :::info Nota:
-O método de DNS Privado altera a configuração para todo o sistema, incluindo a rede móvel, enquanto a configuração manual na rede Wi-Fi altera apenas essa conexão específica. 
+O método de DNS Privado altera a configuração para todo o sistema, incluindo a rede móvel, enquanto a configuração manual na rede Wi-Fi altera apenas essa conexão específica.
 :::
 
-Em outros sistemas operacionais, como iOS e Linux, o processo de configuração do DNS é semelhante ao descrito neste guia. Embora as etapas específicas possam variar, os princípios fundamentais permanecem os mesmos, permitindo que você adapte as instruções para esses sistemas. 
+Em outros sistemas operacionais, como iOS e Linux, o processo de configuração do DNS é semelhante ao descrito neste guia. Embora as etapas específicas possam variar, os princípios fundamentais permanecem os mesmos, permitindo que você adapte as instruções para esses sistemas.
 
 > Guia feito por [u/YuriRosas](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/)

@@ -3,19 +3,21 @@
 Esporte refere-se à atividade física ou jogo, geralmente competitivo, que utiliza as habilidades de um grupo ou de uma pessoa para entreter espectadores.
 
 :::warning ⚠️ Aviso Rápido
+
 - ✔️ **Todos os links** disponíveis foram analisados e aprovados por contribuidores voluntários. No entanto, **sempre prossiga com cautela**.
 - ⚠️ **Atenção:** Links confiáveis podem, ocasionalmente, se tornar perigosos, mesmo em fontes verificadas como a Megathread.
 - 🛡️ **Nosso compromisso:** Os colaboradores fazem o máximo para garantir sua segurança, mas é indispensável **navegar com cuidado**.
-:::
+  :::
 
 :::info ℹ️ Dicas Úteis
+
 - 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](guias/dns.md).
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
-:::
+  :::
 
 ## 🖥 **Transmissão ao vivo**
 
-### 🌟 [Rede Canais TV](https://redecanaistv.gs/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/) 
+### 🌟 [Rede Canais TV](https://redecanaistv.gs/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/)
 
 - Oferece Canais ao vivo com alta qualidade
 - Muda constantemente de domínio, para se manter atualizado confira o [discord oficial](https://discord.com/invite/kydZZBGwTy).
@@ -48,7 +50,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 📺️ [CXTV](https://www.cxtv.com.br/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cxtv.com.br/)
-  
+
 ### 🔗 [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) - Agregação de IPTV em massa
 
 ## 🏟 **Reprises**
@@ -56,7 +58,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 🌟 [FullReplays](https://www.fullreplays.com/)
 
 - Reassista na íntegra jogos de futebol, com narração em português brasileiro para algumas ocasiões apenas.
-  
+
 ### 📺️ [Footballia](https://footballia.net/)
 
 - Footballia é um site gringo onde você pode assistir a replays de jogos de futebol completos gratuitamente. Uma partida estará disponível no site 30 dias após ser transmitida.
@@ -74,7 +76,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 📺️ [Watch F1 Full](https://watchf1full.com/)
 
 - Replays gratuitos da Fórmula 1 e MotoGP.
-  
+
 ### 📺️ [Sportsurge](https://sportsurge.net/)
 
 - Transmissões ao vivo. MMA, boxe, automobilismo, basquete, futebol português, hóquei.
@@ -94,7 +96,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 📺️ [MMA Streams](https://tonight.mmastreams.cc/)
 
 - Transmissões ao vivo. MMA (UFC)
-  
+
 ## 🥊 Add-ons do Kodi
 
 :::info Real Debrid pode ser necessário em alguns casos
@@ -114,7 +116,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ## ▶️ Add-ons do Stremio
 
-### 🔗 [Formulio](https://formulio.hayd.uk/) 
+### 🔗 [Formulio](https://formulio.hayd.uk/)
 
 - É possível assistir replays de Fórmula 1 via o sinal da Sky Sports Britânica. **Use-o no desktop.**
 

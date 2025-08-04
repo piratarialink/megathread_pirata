@@ -1,5 +1,4 @@
-
-**Menores de idade não estão autorizados a entrar em qualquer um dos sites abaixo. 
+**Menores de idade não estão autorizados a entrar em qualquer um dos sites abaixo.
 Ao acessá-los você garante que atingiu a maioridade civil.**
 
 ---
@@ -31,6 +30,5 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 [Os Reformados](https://osreformados.com/)
 
 [COOMER](https://coomer.su/) - Backup gratuito de todos os Onlyfans e Fansly.
-
 
 ---

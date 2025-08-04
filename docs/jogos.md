@@ -3,35 +3,50 @@
 Os jogos requerem interação com uma interface de usuário ou dispositivo de entrada, como um controlador ou teclado, para produzir feedback audiovisual divertido.
 
 :::warning ⚠️ Aviso Rápido
+
 - ✔️ **Todos os links** disponíveis foram analisados e aprovados por contribuidores voluntários. No entanto, **sempre prossiga com cautela**.
 - ⚠️ **Atenção:** Links confiáveis podem, ocasionalmente, se tornar perigosos, mesmo em fontes verificadas como a Megathread.
 - 🛡️ **Nosso compromisso:** Os colaboradores fazem o máximo para garantir sua segurança, mas é indispensável **navegar com cuidado**.
-:::
+  :::
 
 :::info ℹ️ Dicas Úteis
+
 - 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](guias/dns.md).
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
-:::
+  :::
 
 ## 🌎 ➜ Traduções de Jogos
 
 Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [GAMEVICIO](https://www.gamevicio.com/traducoes/) • Fora de atividade
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamevicio.com/)
+
 ### 🔗 [Brazil Alliance](https://brazilalliance.com.br/)
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/brazilalliance.com.br/)
+
 ### 🔗 [Tribo Gamer](https://tribogamer.com/traducoes/)
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tribogamer.com/)
-### 🔗 [Central de Traduções](https://www.centraldetraducoes.net.br/) [📣](https://t.me/CentralDeTraducoes) 
+
+### 🔗 [Central de Traduções](https://www.centraldetraducoes.net.br/) [📣](https://t.me/CentralDeTraducoes)
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/centraldetraducoes.net.br/)
-### 🔗 [Fórum RHDNBR](https://www.romhacking.net.br/) 
+
+### 🔗 [Fórum RHDNBR](https://www.romhacking.net.br/)
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhacking.net.br/)
+
 ### 🔗 [Jogos Legendados e Dublados](https://jogostraduzidos.com/)
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/jogostraduzidos.com/)
-### 🔗 [GGames](https://ggames.com.br/) 
+
+### 🔗 [GGames](https://ggames.com.br/)
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gggames.com.br/)
-  
+
 ## ⚙ ➜ Programas
 
 ### 🌟 [Hydra](https://github.com/hydralauncher/hydra)
@@ -55,7 +70,6 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ## 📥 ➜ Downloads diretos
 
-
 ### 🌟 [AnkerGames](https://ankergames.net/)
 
 - Jogos populares pré-instalados.
@@ -73,7 +87,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 - Burla o Denuvo de alguns jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/skidrowcodex.net/)
-  
+
 ### 🔗 [online-fix.me](https://online-fix.me/)
 
 - Jogue jogos online pirata com seus amigos, de forma gratuita com suporte de convite via Steam.
@@ -203,28 +217,31 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ## ↗ ➜ Launchers de jogos
 
-### 🚀 [Legacy Launcher](https://llaun.ch/pt-BR) 
+### 🚀 [Legacy Launcher](https://llaun.ch/pt-BR)
 
 - Launcher seguro para Minecraft, ao contrário do TLauncher
- 
-### 🚀 [Prism Launcher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked?tab=readme-ov-file) 
+
+### 🚀 [Prism Launcher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked?tab=readme-ov-file)
 
 - Desbloqueia o uso de contas offline no Minecraft
 
-### 🚀 [Playnite](https://playnite.link/) 
+### 🚀 [Playnite](https://playnite.link/)
 
 - Launcher universal de jogos para Windows
-### 🚀 [GOG Galaxy](https://www.gog.com/galaxy) 
+
+### 🚀 [GOG Galaxy](https://www.gog.com/galaxy)
 
 - Launcher universal de jogos para Windows/MacOS
-### 🚀 [Lutris](https://lutris.net/) 
+
+### 🚀 [Lutris](https://lutris.net/)
 
 - Launcher universal de jogos para Linux
-### 🚀 [Bottles](https://flathub.org/apps/com.usebottles.bottles) 
+
+### 🚀 [Bottles](https://flathub.org/apps/com.usebottles.bottles)
 
 - Launcher universal de jogos para Linux
 
-### 🚀 [Heroic Games Launcher](https://heroicgameslauncher.com/) 
+### 🚀 [Heroic Games Launcher](https://heroicgameslauncher.com/)
 
 - Launcher de jogos da Epic e GOG para Linux
 
@@ -233,9 +250,9 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 ### 🌟 [Flashpoint Archive](https://flashpointproject.github.io/flashpoint-database/search/)
 
 - Projeto criado para preservar jogos e animações da web.
-A maioria das animações são gringas, mas muitos games que faziam parte da antiga click jogos estão presentes nesta lista.
+  A maioria das animações são gringas, mas muitos games que faziam parte da antiga click jogos estão presentes nesta lista.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/flashpointproject.github.io/)
-  
+
 ### 🌟 [CrazyGames](https://www.crazygames.com/)
 
 - Melhor site para jogar jogos de navegador de primeira linha gratuitamente. Todos os dias, novos jogos são upados!
@@ -250,7 +267,7 @@ A maioria das animações são gringas, mas muitos games que faziam parte da ant
 
 - Página pertencente aos produtores de Shovel Knight e Magic Touch, com games pensados para celulares e games em HTML5.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.nitrome.com/)
-  
+
 ### 🔗 [Addicting Games](https://www.addictinggames.com/)
 
 - Um dos sites de jogos mais populares, alcançando mais de dez milhões de usuários diferentes a cada mês.
@@ -265,7 +282,7 @@ A maioria das animações são gringas, mas muitos games que faziam parte da ant
 
 - Criado com o propósito de passar uma aparência de site "didático" para quando você estiver fazendo nada na aula ou no trabalho.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/coolmathgames.com/)
-  
+
 ### 🔗 [Free Games Max](https://www.freegamesmax.com/)
 
 - Jogue os melhores jogos HTML5 no seu PC e dispositivo smart sem precisar baixar nada.
@@ -284,7 +301,7 @@ A maioria das animações são gringas, mas muitos games que faziam parte da ant
 ### 🔗 [Iguinho](https://iguinho.com.br/jogos-m.html)
 
 - Famoso site nacional dos anos 2000/2010 que ainda proporciona lazer e educação por meio de uma quantidade considerável de jogos.
-Episódios da série animada Gui & Estopa também podem ser vistos gratuitamente.
+  Episódios da série animada Gui & Estopa também podem ser vistos gratuitamente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/iguinho.com.br/)
 
 ## 🔦 ➜ Buscadores

@@ -3,55 +3,57 @@
 Ferramentas para ativação, scripts de usuário, gerenciadores de download, assistentes, sites, extensões e uma infinidade de outros utilitários complementares.
 
 :::warning ⚠️ Aviso Rápido
+
 - ✔️ **Todos os links** disponíveis foram analisados e aprovados por contribuidores voluntários. No entanto, **sempre prossiga com cautela**.
 - ⚠️ **Atenção:** Links confiáveis podem, ocasionalmente, se tornar perigosos, mesmo em fontes verificadas como a Megathread.
 - 🛡️ **Nosso compromisso:** Os colaboradores fazem o máximo para garantir sua segurança, mas é indispensável **navegar com cuidado**.
-:::
+  :::
 
 :::info ℹ️ Dicas Úteis
+
 - 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](guias/dns.md).
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
 - Tutorias disponíveis em [Pirataria - Guias](guias.md).
 - Links em cache estão disponíveis para permitir que você visualize a página sem precisar fazer login.
 - Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal, são falsos positivos.
-:::
+  :::
 
 ## ► Ferramentas para Windows/Office
 
-* 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. [**Guia**](guias/ativacao-office-win.md)
-* [Office C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte as instalações do Office Retail em licenças de volume.
-* [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Ativa instalações de licença de volume do Office e Windows. (Ativa o Windows e Office)
-* [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL.
-* [HWIDGEN](https://github.com/TheMCHK/HWIDGEN) - Ativa o Windows 10. Use o modo KMS38 para LTSC/Enterprise ou HWID para ativação permanente.
-* 🌟 [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário Windows de Chris Titus Tech - Instalar programas, ajustes, correções e atualizações.
-* [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Feito para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 10+.
-* 🌟 [**SophiApp**](https://github.com/Sophia-Community/SophiApp) - A ferramenta de código aberto mais poderosa no GitHub para configurar e fazer debloat do Windows 10 e Windows 11
-* [Optimizer](https://github.com/hellzerg/optimizer) - Projetado para aprimorar sua privacidade e segurança no Windows.
-* [Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer) - “Conserta” o Windows 11
-* [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece)
-* [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
-* [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado. Também automatiza funções.
-* 🌟 [**Chocolatey**](https://chocolatey.org/) - Um instalador de linha de comando para o Windows.
-* [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
-* [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows translúcida/transparente.
-* [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Centralize os ícones da barra de tarefas do Windows com uma variedade de animações e opções.
-* [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à experiência moderna do Windows
-* [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Uma lista incrível e selecionada dos melhores aplicativos e ferramentas para Windows.
-* 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto.
+- 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. [**Guia**](guias/ativacao-office-win.md)
+- [Office C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte as instalações do Office Retail em licenças de volume.
+- [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Ativa instalações de licença de volume do Office e Windows. (Ativa o Windows e Office)
+- [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL.
+- [HWIDGEN](https://github.com/TheMCHK/HWIDGEN) - Ativa o Windows 10. Use o modo KMS38 para LTSC/Enterprise ou HWID para ativação permanente.
+- 🌟 [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário Windows de Chris Titus Tech - Instalar programas, ajustes, correções e atualizações.
+- [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Feito para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 10+.
+- 🌟 [**SophiApp**](https://github.com/Sophia-Community/SophiApp) - A ferramenta de código aberto mais poderosa no GitHub para configurar e fazer debloat do Windows 10 e Windows 11
+- [Optimizer](https://github.com/hellzerg/optimizer) - Projetado para aprimorar sua privacidade e segurança no Windows.
+- [Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer) - “Conserta” o Windows 11
+- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece)
+- [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
+- [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado. Também automatiza funções.
+- 🌟 [**Chocolatey**](https://chocolatey.org/) - Um instalador de linha de comando para o Windows.
+- [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows translúcida/transparente.
+- [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Centralize os ícones da barra de tarefas do Windows com uma variedade de animações e opções.
+- [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à experiência moderna do Windows
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Uma lista incrível e selecionada dos melhores aplicativos e ferramentas para Windows.
+- 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto.
 
 ## ► Downloads modificados/intactos do Windows e do Office
 
-* 🌟 [**GIM**](https://massgrave.dev/genuine-installation-media) - ISOs do Windows para rodar máquinas virtuais. Versões antigas do Office (2016/2013) também podem ser baixadas gratuitamente.
-* [files.rg-adguard.net](https://files.rg-adguard.net/) - Substituto do tb.rg-adguard.net.
-* [OS.click](https://os.click/en/Windows) - Fornece download intacto de versões mais recentes do Windows.
-* [arquivo corenoc.de](https://archive.org/details/digital_river) - ISOs do Windows 7 que estavam disponíveis no DigitalRiverContent da Microsoft CDN.
-* [the-eye.eu/public/MSDN](https://archive.org/details/MSDNArchive) - O backup de 2,7 TB do despejo MSDN do antigo The Eye. Tem muitas ISOs difíceis de encontrar, Windows 7, etc.
-* [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors para LTSB, LTSC e ISOs do Windows 10 da edição do consumidor. Post original em [MyDigitalLife](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431)
-* [Windows ISOs em NNMClub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 11 da edição do consumidor.
-* [pastebin de abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
-* [pastebin de abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
-* [Microsoft Media Creation Tool](https://www.microsoft.com/pt-br/software-download/windows10) - Página da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
-* [Pacotes do Office para Mac](https://learn.microsoft.com/pt-br/officeupdates/update-history-office-for-mac) - Página bem organizada para downloads de imagens do Mac Office.
+- 🌟 [**GIM**](https://massgrave.dev/genuine-installation-media) - ISOs do Windows para rodar máquinas virtuais. Versões antigas do Office (2016/2013) também podem ser baixadas gratuitamente.
+- [files.rg-adguard.net](https://files.rg-adguard.net/) - Substituto do tb.rg-adguard.net.
+- [OS.click](https://os.click/en/Windows) - Fornece download intacto de versões mais recentes do Windows.
+- [arquivo corenoc.de](https://archive.org/details/digital_river) - ISOs do Windows 7 que estavam disponíveis no DigitalRiverContent da Microsoft CDN.
+- [the-eye.eu/public/MSDN](https://archive.org/details/MSDNArchive) - O backup de 2,7 TB do despejo MSDN do antigo The Eye. Tem muitas ISOs difíceis de encontrar, Windows 7, etc.
+- [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors para LTSB, LTSC e ISOs do Windows 10 da edição do consumidor. Post original em [MyDigitalLife](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431)
+- [Windows ISOs em NNMClub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 11 da edição do consumidor.
+- [pastebin de abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
+- [pastebin de abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
+- [Microsoft Media Creation Tool](https://www.microsoft.com/pt-br/software-download/windows10) - Página da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
+- [Pacotes do Office para Mac](https://learn.microsoft.com/pt-br/officeupdates/update-history-office-for-mac) - Página bem organizada para downloads de imagens do Mac Office.
 
 ## ► **Adblockers & Bypassers**
 
@@ -97,7 +99,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid
 - **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também
 - [leechpremium](https://leechpremium.net/) - Este é um serviço de download gratuito com o qual você pode realizar downloads premium.
-**Desative o seu adblock e o ative novamente quando o site carregar.**
+  **Desative o seu adblock e o ative novamente quando o site carregar.**
 - **[Trialware]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
 - [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd
 - [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium
@@ -111,10 +113,10 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [predb.me](https://predb.me/) - Rastreador de cena
 - [predb.net](https://predb.net/) - Rastreador de cena
 - [srrdb.com](http://srrdb.com/) - Rastreador de cenas.
-Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
-`r:palavra_chave_da_busca`;
-`nfo:yes` ou `no` para saber se um determinado item é  um arquivo NFO ou não; 
-`category: cat games`, `cat tv`, `cat tv-HD`, `cat tv-HD-x264`.
+  Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
+  `r:palavra_chave_da_busca`;
+  `nfo:yes` ou `no` para saber se um determinado item é um arquivo NFO ou não;
+  `category: cat games`, `cat tv`, `cat tv-HD`, `cat tv-HD-x264`.
 - [xrel.to/releases.html](https://www.xrel.to/releases.html) - Rastreador de cena
 - **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para versões P2P
 
@@ -126,7 +128,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [userscripts-mirror.org](https://userscripts-mirror.org/) - Repositório alternativo de scripts. Espelho para Userscripts.org.
 - [openuserjs.org](https://openuserjs.org/) - repositório alternativo de scripts.
 - [TinyShield](https://cdn.jsdelivr.net/npm/@list-kr/tinyshield@latest/dist/tinyShield.user.js) - Defuser para os sites não saberem que você está usando adblock.
-- [Doceru Userscript](https://github.com/etoshy/Doceru-Userscript) - Extrai livros e documentos do docer.ar, docubra.com e doceru.com sem a necessidade de abrir o menu do inspecionar — com botão de download e barra de progresso. 
+- [Doceru Userscript](https://github.com/etoshy/Doceru-Userscript) - Extrai livros e documentos do docer.ar, docubra.com e doceru.com sem a necessidade de abrir o menu do inspecionar — com botão de download e barra de progresso.
 - [Passei Direto Bypass](https://greasyfork.org/en/scripts/480840-passei-direto-bypass) - Desembaça respostas no site da Passei Direto.
 - [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Permite a cópia de texto de sites que tentam impedir a cópia.
 - [absolute-enable-right-click-and-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) - Permite clicar com o botão direito e copiar em sites que tentam impedir isso, pode remover também proteções anti cópia para vídeos e imagens.
@@ -163,19 +165,19 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 :::warning Cliente Bitlord torrent [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
 :::
 
-* 🌟 [**Motrix**](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
-* [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent.
-* [Transmission](https://transmissionbt.com/about/) - Bem simples de usar e com grandes quantidades de torrents (5k-10k+), é bem estável na versão CLI.
-* 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que procura rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/guia-plugins-qbittorrrent.md)
-* [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei
-* [Libre Torrent](https://github.com/proninyaroslav/libretorrent) - Ideal para smartphones.
-* [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto.
-* 🌟 [**Tixati**](https://www.tixati.com/download/) - Extremamente personalizável. Todos os menus podem ser reorganizados e o esquema de cores pode ser alterado completamente.
-* [BiglyBT](https://www.biglybt.com/) - Cliente bittorrent repleto de recursos, código aberto, sem anúncios. Uma continuação do popular cliente anteriormente conhecido como Vuze.
-* [kTorrent](https://apps.kde.org/ktorrent/) - cliente Torrent para linux.
-* [rTorrent](https://github.com/rakshasa/rtorrent) - Cliente de torrent baseado em terminal para linux.
-* [ruTorrent para rTorrent](https://github.com/Novik/ruTorrent) - IU de gerenciamento da Web para rtorrent.
-* [Flood for rTorrent](https://github.com/Flood-UI/flood) - Interface de usuário elegante de gerenciamento da web para rtorrent.
+- 🌟 [**Motrix**](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
+- [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent.
+- [Transmission](https://transmissionbt.com/about/) - Bem simples de usar e com grandes quantidades de torrents (5k-10k+), é bem estável na versão CLI.
+- 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que procura rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/guia-plugins-qbittorrrent.md)
+- [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei
+- [Libre Torrent](https://github.com/proninyaroslav/libretorrent) - Ideal para smartphones.
+- [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto.
+- 🌟 [**Tixati**](https://www.tixati.com/download/) - Extremamente personalizável. Todos os menus podem ser reorganizados e o esquema de cores pode ser alterado completamente.
+- [BiglyBT](https://www.biglybt.com/) - Cliente bittorrent repleto de recursos, código aberto, sem anúncios. Uma continuação do popular cliente anteriormente conhecido como Vuze.
+- [kTorrent](https://apps.kde.org/ktorrent/) - cliente Torrent para linux.
+- [rTorrent](https://github.com/rakshasa/rtorrent) - Cliente de torrent baseado em terminal para linux.
+- [ruTorrent para rTorrent](https://github.com/Novik/ruTorrent) - IU de gerenciamento da Web para rtorrent.
+- [Flood for rTorrent](https://github.com/Flood-UI/flood) - Interface de usuário elegante de gerenciamento da web para rtorrent.
 
 ## ► Centros de Mídia / Clientes
 
@@ -203,12 +205,12 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 
 ## ► Ferramentas de mídia
 
-* [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente audio codec AC3.
-* [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
-* [VLsub](https://github.com/opensubtitles/vlsub-opensubtitles-com) - Baixa legendas diretamente pelo vlc sem precisar ter que abrir o site do opensubtitles.
-* **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Plugin para acrescentar a opção de converter vídeos para MP4 no After Effects.
-* [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
-* [Dash-MPD-File](https://github.com/emarsden/dash-mpd-cli) - Uma aplicação cli para download de mídia em manifests MPD (MPEG_DASH).
+- [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente audio codec AC3.
+- [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
+- [VLsub](https://github.com/opensubtitles/vlsub-opensubtitles-com) - Baixa legendas diretamente pelo vlc sem precisar ter que abrir o site do opensubtitles.
+- **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Plugin para acrescentar a opção de converter vídeos para MP4 no After Effects.
+- [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
+- [Dash-MPD-File](https://github.com/emarsden/dash-mpd-cli) - Uma aplicação cli para download de mídia em manifests MPD (MPEG_DASH).
 
 ## ► Gerenciadores de download
 
@@ -224,38 +226,38 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 
 ## ► Ferramentas de download
 
-* [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
-* [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto de vários sites e muito mais.
-* [Côc Côc](https://coccoc.com/) - Navegador vietnamita que baixa vídeos da hotmart/kiwify apenas no PC.
-* [Cleverget](https://cleverget.org/) - Baixa vídeos de diversas plataformas no PC.
-* [1DM](https://www.apps2sd.info/idmp/faq) - Baixa vídeos de diversas plataformas no Android.
-* **[Pago]** [1DM+](https://tekmods.com/1dm-browser-video-audio-torrent-downloader/) - Pode obter documentos maiores que 1MB do Doceru.
-* **[Pago]** [Tubedigger](https://www.tubedigger.com/) - Baixa vídeos da hotmart em alguns casos apenas.
-* 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente. 
-* [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6.
-* [Parabolic](https://github.com/NickvisionApps/Parabolic) - Frontend para o yt-dlp.
-* 🌟 [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade.
-* [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos.
-* [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy.
-* [Allvasoft](https://www.allavsoft.com/) - Downloader de vídeos.
-* [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injetor para despejar aplicativos UWP.
-* [gallery-dl](https://github.com/mikf/gallery-dl) - gallery-dl é um programa de linha de comando para baixar galerias e coleções de imagens de vários sites de hospedagem de imagens.
-* [Fetchv](https://fetchv.net/pt-br) - Downloader de vídeos
-* [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Download em massa de episódios de anime para vários sites, em várias resoluções, com ou sem episódios de preenchimento.
-* [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp.
-* [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download.
-* [Download Manager](https://github.com/amir1376/ab-download-manager) - Aplicativo para desktop que o ajuda a organizar e manter seus downloads.
-* [MPMux](https://mpmux.com/) - Pode baixar vídeos no formato HLS, .m3u8, MP4 e WebM.
-* [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar vídeos de várias plataformas.
-* **[Trialware]** [StreamFab](https://streamfab.com/) - Focado em download para plataformas de streaming. Baixa vídeos da Globoplay.
-* [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 GiB por 6 horas do Mega.
-* [Skillshare-dl](https://github.com/mrwnwttk/skillshare-dl) - Baixe do skillshare. [Tópico original.](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/)
-* [Outro Skillshare-dl](https://github.com/KENWAY/Skillshare-DL) - Baixe do skillshare
-* [Firedown](https://www.firedown.app/) - Downloader de vídeos.
-* [Baixar do Soundcloud](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/) - Extensão do Firefox. Tópico original [aqui](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/). Por /u/ImTwain.
-* **[Pago]** [Katomart](https://katomart.com/) - Aplicativo em fase de testes que faz o download de vídeos de plataformas EAD, tudo dentro da lei.
-* [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de GetComics.info facilmente
-* [get_iplayer](https://github.com/get-iplayer/get_iplayer) - Para baixar o vídeo do iPlayer da BBC
+- [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto de vários sites e muito mais.
+- [Côc Côc](https://coccoc.com/) - Navegador vietnamita que baixa vídeos da hotmart/kiwify apenas no PC.
+- [Cleverget](https://cleverget.org/) - Baixa vídeos de diversas plataformas no PC.
+- [1DM](https://www.apps2sd.info/idmp/faq) - Baixa vídeos de diversas plataformas no Android.
+- **[Pago]** [1DM+](https://tekmods.com/1dm-browser-video-audio-torrent-downloader/) - Pode obter documentos maiores que 1MB do Doceru.
+- **[Pago]** [Tubedigger](https://www.tubedigger.com/) - Baixa vídeos da hotmart em alguns casos apenas.
+- 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente.
+- [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6.
+- [Parabolic](https://github.com/NickvisionApps/Parabolic) - Frontend para o yt-dlp.
+- 🌟 [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade.
+- [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos.
+- [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy.
+- [Allvasoft](https://www.allavsoft.com/) - Downloader de vídeos.
+- [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injetor para despejar aplicativos UWP.
+- [gallery-dl](https://github.com/mikf/gallery-dl) - gallery-dl é um programa de linha de comando para baixar galerias e coleções de imagens de vários sites de hospedagem de imagens.
+- [Fetchv](https://fetchv.net/pt-br) - Downloader de vídeos
+- [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Download em massa de episódios de anime para vários sites, em várias resoluções, com ou sem episódios de preenchimento.
+- [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp.
+- [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download.
+- [Download Manager](https://github.com/amir1376/ab-download-manager) - Aplicativo para desktop que o ajuda a organizar e manter seus downloads.
+- [MPMux](https://mpmux.com/) - Pode baixar vídeos no formato HLS, .m3u8, MP4 e WebM.
+- [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar vídeos de várias plataformas.
+- **[Trialware]** [StreamFab](https://streamfab.com/) - Focado em download para plataformas de streaming. Baixa vídeos da Globoplay.
+- [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 GiB por 6 horas do Mega.
+- [Skillshare-dl](https://github.com/mrwnwttk/skillshare-dl) - Baixe do skillshare. [Tópico original.](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/)
+- [Outro Skillshare-dl](https://github.com/KENWAY/Skillshare-DL) - Baixe do skillshare
+- [Firedown](https://www.firedown.app/) - Downloader de vídeos.
+- [Baixar do Soundcloud](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/) - Extensão do Firefox. Tópico original [aqui](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/). Por /u/ImTwain.
+- **[Pago]** [Katomart](https://katomart.com/) - Aplicativo em fase de testes que faz o download de vídeos de plataformas EAD, tudo dentro da lei.
+- [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de GetComics.info facilmente
+- [get_iplayer](https://github.com/get-iplayer/get_iplayer) - Para baixar o vídeo do iPlayer da BBC
 
 ## ► Ferramentas de download on-line
 
@@ -272,7 +274,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 ## ► Seedboxes
 
 - **[Trialware]** [seedr.cc](https://www.seedr.cc/) - Seedbox gratuito que permite baixar torrents de até 2 GiB de tamanho. Se você deseja se tornar premium, evite comprar de semeadores - eles são muito caros.
-- **[Pago]** [ultra.cc](https://ultra.cc/) - De 1 até 50 Gbps de bandwidth no plano básico, estabeleça um [limite](/images/ultra.png) de semeação dentro do qBit para não prejudicar outros usuários.
+- **[Pago]** [ultra.cc](https://ultra.cc/) - De 1 até 50 Gbps de bandwidth no plano básico, estabeleça um [limite](./images/ultra.png) de semeação dentro do qBit para não prejudicar outros usuários.
 - **[Pago]** [whatbox.ca](https://whatbox.ca/plans) - Servidor localizado nos EUA (excelente para brasileiros) e maior tráfego se comparado com o ultra seedbox.
 
 ## ► **Segurança**
@@ -300,8 +302,9 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [Tailscale](https://tailscale.com/) - Acesse seu computador remotamente sem precisar abrir portas no roteador.
 
 ## ► Hospedagem de arquivos
+
 - [Catbox](https://catbox.moe/) - Upload de vídeos e imagens.
-- [File Kiwi](https://file.kiwi/) -  Alternativa para o Mega.
+- [File Kiwi](https://file.kiwi/) - Alternativa para o Mega.
 - **[Pago]** [Filedot](https://filedot.to/) - Hospedagem na nuvem.
 - [Take me to space](https://take-me-to.space/) - Hospeda imagens.
 
@@ -339,10 +342,10 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 
 - [Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - Diretório de clientes não-oficiais, como o Revenge (Android) e BetterDiscord (PC).
 - [Porque é que não se pode confiar no Discord](/outros/discord.md)
-  
+
 ## ► **Tor**
 
-:::warning  O pirataria digital não se responsabiliza por links, endereços de phishing, conteúdo ou eventuais perdas causadas dentro da rede.
+:::warning O pirataria digital não se responsabiliza por links, endereços de phishing, conteúdo ou eventuais perdas causadas dentro da rede.
 :::
 
 - [Weird Log](http://laingg42wznukvzjn52cos6bj6brgyiwtxf5rpq3bu5pad56volhe2qd.onion/blog/index.php/2024/01/31/prolegomenos-de-lain-na-rede-cebola/#more-6768)
@@ -358,7 +361,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 
 - [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter.
 - [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado na China para burlar o firewall. A velocidade pode variar muito por ser utilizado principalmente como proxy.
-  
+
 ## ► **Inteligência Artifical**
 
 - 🌟 [**LMArena**](https://lmarena.ai/?mode=direct) - Todos os chatbots pagos totalmente gratuitos e ilimitados.
@@ -368,6 +371,7 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 - [Roo Code](https://roocode.com) - Gerador de código no Visual Studio.
 
 ## ► **Motores de busca**
+
 - [Meawfy](https://meawfy.com/) - Um mecanismo de busca especializado em encontrar arquivos hospedados no Mega.nz.
 - [Mediafire Trend](https://mediafiretrend.com/) - Ferramenta de pesquisa para o Mediafire.
 - [File Pursuit](https://filepursuit.com/) - Milhões de arquivos em servidores da Web.
@@ -377,22 +381,22 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 > São serviços de tunelamento que usam o protocolo SSH para transmitir uma conexão de dados móveis ilimitada.
 
 - [FastSSH](https://www.fastssh.com/page/ssh-over-websocket-servers)
-- [SSHconnect](https://sshconect.com.br/) 
+- [SSHconnect](https://sshconect.com.br/)
 - [Rev Hunter](https://www.revhuntervpn.xyz/)
 - [HTTP Injector](https://httpinjector.com/)
 - [NetMod VPN Client](https://sourceforge.net/projects/netmodhttp/)
 
 ## ► **Contas & Vazamentos**
 
-:::warning O pirataria digital não responde pelo compartilhamento de dados pessoais por terceiros. 
+:::warning O pirataria digital não responde pelo compartilhamento de dados pessoais por terceiros.
 :::
 
 - [TTM](https://t.me/Ttmlog_bot) - Bot que coleta credenciais de usuários de diversas plataformas.
-- [STEAM7](https://t.me/steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas steam. 
+- [STEAM7](https://t.me/steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas steam.
 - [Cracking.org](https://cracking.org/forums/premium-accounts.11/) - Contas de streaming.
 - [Crackia](https://crackia.com/forum/45-premium-accounts/) - Combolists e contas de streaming.
 - [CrackingX](https://crackingx.com) - Outro site de combolists e contas de streaming.
-  
+
 ## ► **Ferramentas para Jogos**
 
 #### ► **Geral**

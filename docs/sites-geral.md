@@ -3,15 +3,17 @@
 Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadores e trackers DHT para encontrar o máximo de conteúdo público possível.
 
 :::warning ⚠️ Aviso Rápido
+
 - ✔️ **Todos os links** disponíveis foram analisados e aprovados por contribuidores voluntários. No entanto, **sempre prossiga com cautela**.
 - ⚠️ **Atenção:** Links confiáveis podem, ocasionalmente, se tornar perigosos, mesmo em fontes verificadas como a Megathread.
 - 🛡️ **Nosso compromisso:** Os colaboradores fazem o máximo para garantir sua segurança, mas é indispensável **navegar com cuidado**.
-:::
+  :::
 
 :::info ℹ️ Dicas Úteis
+
 - 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](guias/dns.md).
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
-:::
+  :::
 
 ## 📑 ➜ Diversos
 
@@ -25,12 +27,12 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Site referência na cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
 
-### 🌟 [**TRaSH Guides**](https://trash-guides.info/) 
+### 🌟 [**TRaSH Guides**](https://trash-guides.info/)
 
 - Aprenda a montar um media server, criar e organizar pastas nos programas Arr, configurar o qBittorrent e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/trash-guides.info/)
 
-### 🌟 [**Hattered**](https://mefrraz.github.io/hattered/index.html) 
+### 🌟 [**Hattered**](https://mefrraz.github.io/hattered/index.html)
 
 - Página bilíngue com dicas, guias e uma biblioteca de conteúdo livre online.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mefrraz.github.io/hattered/)
@@ -50,7 +52,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Portal focado em trazer as últimas notícias sobre direitos autorais, privacidade e tudo relacionado a compartilhamento de arquivos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentfreak.com/)
 
-### 🔗 [4get](https://4get.ch/) 
+### 🔗 [4get](https://4get.ch/)
 
 - Não esconde resultados de navegação por DRM com o Yandex selecionado.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4get.ch/)
@@ -78,7 +80,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 ### 📣 [UnCopy Group](https://t.me/UnCopyGroup)
 
 - Grupo para quem busca material e papo de qualidade sobre Trackers, Warez e Usenet. Não importa a fonte, seja p2p ou scene.
-  
+
 ### 🤖 [Search bot](https://t.me/en_SearchBot)
 
 - Substitui a busca nativa e obsoleta do Telegram.
@@ -186,7 +188,6 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Buscador rápido com as séries de TV, filmes, jogos, software e torrents de anime mais atualizados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentfunk.com/)
 
-
 ### 🧲 [TorrentSeeker](https://www.torrentseeker.com/)
 
 - Faz buscas nos sites mais populares de torrent e demais sites específicos.
@@ -217,4 +218,3 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 - Quadro de mensagens onde os usuários discutem os lançamentos de cenas mais recentes, análises de jogos e filmes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xrel.to/)
-

@@ -1,7 +1,7 @@
 # 🪶 ➜ Como esconder seu endereço de casa
 
-:::info 
-Essa página foi um post tirado do Lemmy. 
+:::info
+Essa página foi um post tirado do Lemmy.
 [orchestralblend](https://github.com/orchestralblend) / [orchestralblend@systemli.org](mailto:orchestralblend@systemli.org)
 :::
 

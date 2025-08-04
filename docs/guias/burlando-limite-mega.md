@@ -9,28 +9,27 @@ description: "Burlando limite do mega"
 A utilização de proxy, VPN ou múltiplas contas para contornar a limitação diária de transferências do MEGA pode violar os seus Termos de Utilização. UTILIZE ESSA GUIA POR SUA PRÓPRIA CONTA E RISCO
 :::
 
-
 1. Faça o download do programa [MegaBasterd](https://github.com/tonikelope/megabasterd). Após clicar no link acima, basta clicar em "Download latest build" para selecionar o arquivo para o seu sistema operacional e baixá-lo.
 
 2. Após fazer o download e descompactar, abra a pasta MegaBasterdWINDOWS e encontre o arquivo MegaBasterd.bat (No Windows, caso seu sistema operacional seja diferente, procure o arquivo equivalente) e execute.
 
 3. Logo veremos a interface do programa:
 
-![Imagem](/images/burlando-limite-mega-1.png)
+![Imagem](./images/burlando-limite-mega-1.png)
 
 4. Vamos adicionar a conta Mega ao programa indo em Edit > Settings e vai deve abrir essa interface:
 
-![](/images/burlando-limite-mega-2.png)
+![](./images/burlando-limite-mega-2.png)
 
 5. Clique em Accounts
 
-![Imagem](/images/burlando-limite-mega-3.png)
+![Imagem](./images/burlando-limite-mega-3.png)
 
 Aqui você deve colocar sua conta Mega no formato email#senha. Essas credenciais devem estar em um arquivo .txt ou você pode adicioná-las manualmente clicando em "Add account".
 
 6. Em Downloads temos:
 
-![Imagem](/images/burlando-limite-mega-4.png)
+![Imagem](./images/burlando-limite-mega-4.png)
 
 Aqui você pode definir a pasta de downloads. Recomendo deixar a opção "Verify file integrity" para verificar os downloads após o download deles. Nessa mesma seção temos:
 
@@ -48,7 +47,7 @@ Vamos para a opção de proxy:
 
 > Em Settings, na opção de Downloads, role para baixo que vai aparecer a seguinte interface:
 
-![Imagem](/images/burlando-limite-mega-5.png)
+![Imagem](./images/burlando-limite-mega-5.png)
 
 Vamos ativar a opção "Use SmartProxy" e deixar marcada a opção "Sequential". Em "Proxy list refresh (minutes)", deixe em 10.
 

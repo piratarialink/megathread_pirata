@@ -3,15 +3,17 @@
 Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são cópias digitais de videogames extraídas de um cartucho ou disco (que passam a se chamar ISOs.)
 
 :::warning ⚠️ Aviso Rápido
+
 - ✔️ **Todos os links** disponíveis foram analisados e aprovados por contribuidores voluntários. No entanto, **sempre prossiga com cautela**.
 - ⚠️ **Atenção:** Links confiáveis podem, ocasionalmente, se tornar perigosos, mesmo em fontes verificadas como a Megathread.
 - 🛡️ **Nosso compromisso:** Os colaboradores fazem o máximo para garantir sua segurança, mas é indispensável **navegar com cuidado**.
-:::
+  :::
 
 :::info ℹ️ Dicas Úteis
+
 - 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](guias/dns.md).
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
-:::
+  :::
 
 ## 📑 ➜ Arquivo
 
@@ -24,8 +26,9 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Dedicado a desvendar e pesquisar conteúdo removido ou inutilizado de jogos antigos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tcrf.net/)
-  
+
 ---
+
 ## 🌐 ➜ Emulação no Navegador
 
 ### 🔗 [Classic games online](https://playclassic.games/)
@@ -167,7 +170,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Compativel com Linux e atualizado todos os anos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-  
+
 ### 🔗 [Sudachi](https://github.com/emuplace/sudachi.emuplace.app) • Switch
 
 - Uma boa alternativa para o Ryujinx.
@@ -237,7 +240,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**Internet Archive**](https://archive.org/)
 
--  Milhares de rom-sets e dumps de CD-ROMs em formato de ISO.
+- Milhares de rom-sets e dumps de CD-ROMs em formato de ISO.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
 ### 🌟 [**Crocdb**](https://crocdb.net/)
@@ -256,6 +259,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
 ### 🔗 [CDRomance](https://cdromance.com/)
+
 - Coleção de jogos da era de 128 bits da sexta geração de consoles, bem como títulos de 8 bits.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cdromance.com/)
 
@@ -273,7 +277,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Roms para Nintendo Switch disponíveis em formato NCP e XCI.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/eggnsemulator.com/)
- 
+
 ### 🔗 [Emu Games](https://www.emugames.net/)
 
 - Uma extensa variedade de ROMs para vários sistemas diferentes.
@@ -294,7 +298,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - NSPs, XCIs e NSZs mais recentes para Nintendo Switch com apenas um clique.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nxbrew.net/)
 
-### 🌟 [**SMWC**](https://www.smwcentral.net/?p=main) 
+### 🌟 [**SMWC**](https://www.smwcentral.net/?p=main)
 
 - Espaço voltado à preservação de romhacks da franquia super mario.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.smwcentral.net/)
@@ -374,20 +378,35 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ## 🌎 ➜ Traduções de Jogos
 
 ### 🔗 [RomsPortugues](https://romsportugues.com/)
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romsportugues.com/)
+
 ### 🔗 [GAMEVICIO](https://www.gamevicio.com/traducoes/) • Fora de atividade
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamevicio.com/)
+
 ### 🔗 [Brazil Alliance](https://brazilalliance.com.br/)
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/brazilalliance.com.br/)
+
 ### 🔗 [Tribo Gamer](https://tribogamer.com/traducoes/)
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tribogamer.com/)
-### 🔗 [Central de Traduções](https://www.centraldetraducoes.net.br/) [📣](https://t.me/CentralDeTraducoes) 
+
+### 🔗 [Central de Traduções](https://www.centraldetraducoes.net.br/) [📣](https://t.me/CentralDeTraducoes)
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/centraldetraducoes.net.br/)
-### 🔗 [Fórum RHDNBR](https://www.romhacking.net.br/) 
+
+### 🔗 [Fórum RHDNBR](https://www.romhacking.net.br/)
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhacking.net.br/)
+
 ### 🔗 [Jogos Legendados e Dublados](https://jogostraduzidos.com/)
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/jogostraduzidos.com/)
-### 🔗 [GGames](https://ggames.com.br/) 
+
+### 🔗 [GGames](https://ggames.com.br/)
+
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gggames.com)
 
 ## ❤ ➜ Projetos de tradução

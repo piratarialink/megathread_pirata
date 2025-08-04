@@ -1,12 +1,14 @@
- 🪶 ➜ Guia do Orchestralblend
+🪶 ➜ Guia do Orchestralblend
 
 ## Windows
 
 ### Desbostificando
+
 - [SophiApp](https://github.com/Sophia-Community/SophiApp)
 - [FuckWindowsHistory.reg](https://gist.github.com/orchestralblend/38b024d42f22b2f13b6525a273f498b5)
 
 ### Softwares
+
 - Veracrypt (Disk Encryption)
 - Bitwarden (Password Manager)
 - Librewolf (Browser)

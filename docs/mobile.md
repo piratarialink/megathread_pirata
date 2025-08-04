@@ -3,15 +3,17 @@
 Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalidade de computação e telefone em um único sistema operacional, como Android ou iOS.
 
 :::warning ⚠️ Aviso Rápido
+
 - ✔️ **Todos os links** disponíveis foram analisados e aprovados por contribuidores voluntários. No entanto, **sempre prossiga com cautela**.
 - ⚠️ **Atenção:** Links confiáveis podem, ocasionalmente, se tornar perigosos, mesmo em fontes verificadas como a Megathread.
 - 🛡️ **Nosso compromisso:** Os colaboradores fazem o máximo para garantir sua segurança, mas é indispensável **navegar com cuidado**.
-:::
+  :::
 
 :::info ℹ️ Dicas Úteis
+
 - 🚨 **Problemas de acesso?** Se algum site não carregar, tente mudar o seu DNS. Confira [opções de DNS aqui](https://www.privacyguides.org/en/dns/) e [um guia completo aqui](guias/dns.md).
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
-:::
+  :::
 
 ## 🤖 ➜ Android
 
@@ -31,16 +33,16 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Módulo para Android 12 a 14, permitindo aos usuários contornar a restrição do sistema ao downgrade de aplicativos.
 
-### 🌟 [Lucky Patcher](https://www.luckypatchers.com/) 
+### 🌟 [Lucky Patcher](https://www.luckypatchers.com/)
 
 - Desbloqueia compras em aplicativos Android e retira anúncios.
 
-### 🌟 [ReVanced](https://revanced.app) 
+### 🌟 [ReVanced](https://revanced.app)
 
 - Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário o APK do Youtube)
 - [Guia para aplicar ReVanced no YT (Instale a versão sugerida do youtube via ADB)](https://www.reddit.com/r/revancedapp/comments/159zbb6/guide_youtube_revanced/)
 
-### 🔗 [Seal](https://github.com/JunkFood02/Seal) 
+### 🔗 [Seal](https://github.com/JunkFood02/Seal)
 
 - Aplicativo para baixar Video/Audio para Android, baseado em yt-dlp, desenvolvido com Material You.
 
@@ -50,14 +52,14 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Shelter](https://github.com/PeterCxy/Shelter)
 
-- Fornece um Perfil de Trabalho (Sandbox) para instalar e clonar apps. 
+- Fornece um Perfil de Trabalho (Sandbox) para instalar e clonar apps.
 
-### 🌟 [Shizuku](https://github.com/RikkaApps/Shizuku) 
+### 🌟 [Shizuku](https://github.com/RikkaApps/Shizuku)
 
 - Escala privilégios no android sem a necessidade de root/CFW.
 - [Apps que funcionam com o shizuku.](https://technastic-com.translate.goog/best-shizuku-apps-mods-android/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)
 
-### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis) 
+### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis)
 
 - Aplicativo Android para baixar Video/Audio usando yt-dlp.
 
@@ -98,7 +100,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Plataforma amigável para instalação de aplicativos de software gratuito e de código aberto.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/f-droid.org/)
 
-### 🌟 [Droid-Ify](https://github.com/Droid-ify/client) 
+### 🌟 [Droid-Ify](https://github.com/Droid-ify/client)
 
 - Ótimo cliente F-Droid com Material UI.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
@@ -251,7 +253,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Conhecido por trazer sempre os últimos lançamentos quando a questão é desbloquear aplicativos no IOS.
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/iosgods.com/)
-  
+
 ### 🔗 [iHackedit](https://ihackedit.com/)
 
 - Grande variedade de jogos, aplicativos e mods gratuitos, tornando-o uma ótima escolha.
@@ -273,6 +275,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apps.themicrotech.net/)
 
 ### 🌟 [Mobilism](https://forum.mobilism.org/index.php) • Necessário Cadastro
+
 - Recurso obrigatório para aplicativos e livros. Muitas pessoas confiam nele e fornecem acesso direto às versões mais recentes dos arquivos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/)
 
@@ -313,22 +316,28 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ## 📢 ➜ No Telegram
 
-### 🔗 [AlveeMods](https://t.me/AlveeMods) 
+### 🔗 [AlveeMods](https://t.me/AlveeMods)
+
 - Apks modificados
 
 ### 🔗 [Droid Haven](https://t.me/droidhaven) • Em russo
-- Aplicativos modificados para Android 
 
-### 🔗 [IPA Softs HUB](https://t.me/ipasoftsbot) • Em russo 
+- Aplicativos modificados para Android
+
+### 🔗 [IPA Softs HUB](https://t.me/ipasoftsbot) • Em russo
+
 - IPAs modificados
 
-### 🔗 [RVX Lite](https://t.me/rvx_lite) 
+### 🔗 [RVX Lite](https://t.me/rvx_lite)
+
 - Mods ReVanced Advanced (Youtube, Reddit, Twitter...) modificados usando o ReVancify
 
-### 🔗 [Re𝕍ɑnced Brasil](https://t.me/revancedbrasil) 
+### 🔗 [Re𝕍ɑnced Brasil](https://t.me/revancedbrasil)
+
 - Mods ReVanced Advanced (Youtube, Reddit, Twitter...)
 
-### 🔗 [MCPE APK Releases](https://t.me/mcperelease) 
+### 🔗 [MCPE APK Releases](https://t.me/mcperelease)
+
 - APKs do Minecraft PE com Xbox Live funcional apenas versões estáveis, sem betas
 
 ## 🔦 ➜ Buscadores
@@ -338,7 +347,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Espelhando o Google Play, os usuários podem pesquisar nele, proporcionando uma experiência simples.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/playsearch.kaki87.net/)
 
-### 🔍 [APK Mods Search](https://apkmodsearch.pages.dev/) 
+### 🔍 [APK Mods Search](https://apkmodsearch.pages.dev/)
 
 - Para APKs modificados, agilizando o acesso de boas fontes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmodsearch.pages.dev/)

@@ -1,7 +1,7 @@
 # 🪶 ➜ Os piores e "menos piores" antivírus
 
-:::info 
-Essa página foi um post tirado do Lemmy. 
+:::info
+Essa página foi um post tirado do Lemmy.
 [orchestralblend](https://github.com/orchestralblend) / [orchestralblend@systemli.org](mailto:orchestralblend@systemli.org)
 :::
 
@@ -45,8 +45,8 @@ Conclusão: Assim como o Panda, o Kaspersky construiu sua reputação através d
 
 ## Outros antivírus
 
-BitDefender é caro, McAfee e TotalAV também. 
-BitDefender e TotalAV são decentes. 
+BitDefender é caro, McAfee e TotalAV também.
+BitDefender e TotalAV são decentes.
 McAfee é meh.
 
 ## Resumo
@@ -54,7 +54,7 @@ McAfee é meh.
 - **BitDefender**: Use a versão de teste gratuita e, quando o teste estiver prestes à terminar, basta reiniciá-lo com outra conta.
 - **MalwareBytes**: somente para efetuar remoção de malware, não usar no dia a dia.
 - **Windows Defender (Windows 10 e 11)**: usar no dia a dia.
-  
+
 Use o [Hypatia](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia/) / [Bitdefender Mobile](https://www.bitdefender.com/pt-br/consumer/mobile-security-android) no Android e [VirusTotal](https://www.virustotal.com/gui/) / [Triage](https://tria.ge/) para arquivos menores que 650 mb, dê preferência para a análise de programas antivírus com reputação no mercado pois antivírus desconhecidos (como o Arcabit) geralmente só detectam falsos positivos.
 
 O senso comum também ajuda, e conhecimentos básicos sobre sistemas operacionais te afasta de malwares.

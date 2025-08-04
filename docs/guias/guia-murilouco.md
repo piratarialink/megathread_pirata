@@ -1,4 +1,3 @@
-
 # 🪶 ➜ As diferentes maneiras de consumir filmes piratas e por que nenhuma delas presta
 
 O propósito desse post é introduzir às pessoas inexperientes todas as formas que se pirateia mídia atualmente, e explicar um lado técnico de tudo isso.
@@ -77,6 +76,6 @@ Guia original: https://www.reddit.com/r/pirataria/comments/1e0yd4z/todas_as_mane
 
 Autor do guia: https://www.reddit.com/user/Murilouco/
 
---- 
+---
 
 Modificações por https://github.com/orchestralblend / [orchestralblend@systemli.org](mailto:orchestralblend@systemli.org)

@@ -9,9 +9,9 @@ Dependendo do tipo de alocação de portas e com a colaboração do provedor, é
 
 ## Verificando configurações no próprio sistema
 
-![Habilitar UPnP ou UPnP/NAT no cliente torrent e no roteador](/images/cgnat-portas-1.png)
+![Habilitar UPnP ou UPnP/NAT no cliente torrent e no roteador](./images/cgnat-portas-1.png)
 
-![UPnP roteador](/images/cgnat-portas-2.png)
+![UPnP roteador](./images/cgnat-portas-2.png)
 
 > As opções acima podem ser diferentes em seu cliente torrent e/ou roteador.
 
@@ -19,9 +19,9 @@ Dependendo do tipo de alocação de portas e com a colaboração do provedor, é
 
 Verifique no firewall do sistema operacional se o cliente torrent tem permissão... Caso use soft de terceiros com firewall, verifique também e cuidado com esses anti-vírus cheio de frescuras, com vários módulos inúteis que bloqueiam tudo... menos os vírus.
 
-![Firewall do Windows (1)](/images/cgnat-portas-3.png)
+![Firewall do Windows (1)](./images/cgnat-portas-3.png)
 
-![Firewall do Windows (2)](/images/cgnat-portas-4.png)
+![Firewall do Windows (2)](./images/cgnat-portas-4.png)
 
 Com o cliente torrent aberto acesse o site https://portchecker.co ou outro de sua preferência, digite a porta usada no cliente e clique para verificar (o ideal é aparecer aberta). Se o resultado for fechada ou inacessível, precisará abrir essa porta.
 
@@ -33,9 +33,9 @@ Acesse o roteador e abra a porta do cliente torrent para o IP interno fixo que d
 
 Alguns provedores fornecem acesso limitado ao roteador... consegue alterar coisas básicas como nome e senha de Wi-Fi, etc, mas Port Forwarding, Servidores Virtuais (dependendo da marca do roteador tem nomes diferentes) não está disponível para acesso limitado... verifique se tem acesso completo ao roteador, caso não tenha solicite com o provedor.
 
-![Acesso limitado](/images/cgnat-portas-5.png)
+![Acesso limitado](./images/cgnat-portas-5.png)
 
-![Acesso completo](/images/cgnat-portas-6.png)
+![Acesso completo](./images/cgnat-portas-6.png)
 
 É o mesmo equipamento, no caso um Fiberhome... só mudou o login e senha de acesso. Notem a opção Port Forwanding (nesse modelo Fiberhome é onde abre a porta do cliente torrent).
 
@@ -48,9 +48,9 @@ Acesse seu roteador e veja se o IP na WAN é o mesmo que aparece no site [MeuIP]
 
 Abaixo exemplo de CGNAT. Os IPs são diferentes:
 
-![IP na WAN](/images/cgnat-portas-7.png)
+![IP na WAN](./images/cgnat-portas-7.png)
 
-![Site Meu IP](/images/cgnat-portas-8.png)
+![Site Meu IP](./images/cgnat-portas-8.png)
 
 Em uma rede CGNAT o alocação de portas para os clientes pode ocorrer de duas formas: dinâmica ou estática. Normalmente o provedor que define.
 
@@ -73,15 +73,15 @@ Se passarem sua faixa de porta, ex, 30401 a 30600, escolha uma porta dentro da f
 
 ## CGNAT com porta aberta
 
-![IP na WAN](/images/cgnat-portas-9.png)
+![IP na WAN](./images/cgnat-portas-9.png)
 
 ## Site Meu IP
 
-![](/images/cgnat-portas-10.png)
+![](./images/cgnat-portas-10.png)
 
 ## Site Teste de Portas
 
-![](/images/cgnat-portas-11.png)
+![](./images/cgnat-portas-11.png)
 
 Pronto! Rede CGNAT com a porta aberta. Sua conexão está perfeita.
 

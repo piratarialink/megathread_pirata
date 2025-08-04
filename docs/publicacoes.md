@@ -24,10 +24,9 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 - [Como instalar apps de terceiro e YouTube Mod na LG TV - WebOS](https://www.reddit.com/r/pirataria/s/RuZk6MrzMa) - Feito por [u/FunDirect1128](https://www.reddit.com/u/FunDirect1128/s/oGbRRue7ak)
 
-- [Guia de Jellyfin e família Arr em Docker Compose](https://www.reddit.com/r/pirataria/s/xzkgWdj1E1) - Feito por [u/PedroBt_](https://www.reddit.com/u/PedroBt_/s/rSGbIvs3xw)
+- [Guia de Jellyfin e família Arr em Docker Compose](https://www.reddit.com/r/pirataria/s/xzkgWdj1E1) - Feito por [u/PedroBt\_](https://www.reddit.com/u/PedroBt_/s/rSGbIvs3xw)
 
 - [Utilizando a ferramenta de automação Autobrr para baixar automaticamente torrents que são lançados nos trackers.](https://copyrightbr.com/CFPpqO-yjNL)
-
 
 ## ► Livros
 
@@ -47,4 +46,4 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 - [Como baixar jogos usando 1337x e TorrentGalaxy](https://phtn.app/post/lemmy.dbzer0.com/2903152) - Feito por [u/Heus-Sueh](https://phtn.app/u/Heus_Sueh@lemmy.dbzer0.com)
 
-- [Informações sobre funcionalidades e segurança de Launchers Minecraft](https://www.reddit.com/r/pirataria/s/Uig8dZ3aKa) - Feito por [M1chelon](https://www.reddit.com/u/M1chelon/s/peQmTKM3UE) 
+- [Informações sobre funcionalidades e segurança de Launchers Minecraft](https://www.reddit.com/r/pirataria/s/Uig8dZ3aKa) - Feito por [M1chelon](https://www.reddit.com/u/M1chelon/s/peQmTKM3UE)

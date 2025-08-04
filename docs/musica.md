@@ -227,7 +227,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Baixe músicas diretamente do Spotify, Apple Music, Amazon Music, Soundcloud, Qobuz, Deezer, Tidal, Napster, Beatport ou KKBOX gratuitamente.
 
 - Bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial. Disponivel temas para o client e outras personalizações.
-  
+
 ## 🔁 ➜ Ferramentas diversas
 
 ### 🌟 [LibreScore](https://github.com/LibreScore/dl-librescore)

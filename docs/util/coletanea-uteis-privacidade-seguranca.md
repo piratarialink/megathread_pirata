@@ -12,7 +12,7 @@ Aqui está uma Coletânea de coisas úteis para privacidade e segurança que fui
 
 - [Shell](https://github.com/moudey/Shell) - Gerenciador poderoso para o menu de contexto do Windows File Explorer.
 
-- [Everything](https://www.voidtools.com/) com [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Para encontrar pastas rapidamente. 
+- [Everything](https://www.voidtools.com/) com [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Para encontrar pastas rapidamente.
 
 - [ueli](https://ueli.app/#/) - Um iniciador de pressionamento de tecla.
 
@@ -96,4 +96,4 @@ Aqui está uma Coletânea de coisas úteis para privacidade e segurança que fui
 
 ### Menção honrosa
 
-- Lista feita a partir do modelo do [u/mkoreddit.](https://www.reddit.com/user/mkoreddit/) 
+- Lista feita a partir do modelo do [u/mkoreddit.](https://www.reddit.com/user/mkoreddit/)

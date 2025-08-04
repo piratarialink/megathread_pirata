@@ -1,12 +1,12 @@
 # 🪶 ➜ Nomenclatura
 
-‎ 
+‎
 
 - Descubra aqui os termos mais comuns utilizados na pirataria.
-Vamos facilitar o entendimento para que você se familiarize com as expressões frequentes neste espaço.
-Desfrute da leitura e expanda seu conhecimento!
+  Vamos facilitar o entendimento para que você se familiarize com as expressões frequentes neste espaço.
+  Desfrute da leitura e expanda seu conhecimento!
 
-‎ 
+‎
 
 ## Básico
 
@@ -88,7 +88,7 @@ Desfrute da leitura e expanda seu conhecimento!
 
 > O ratio é usado para controlar o quanto você pode baixar, para isso existe o "mínimo ratio aceitável", mas busque sempre ter seu ratio acima de 1
 
-**Internal**: Release feito internamente e disponível apenas para um número limitado de pessoas.    
+**Internal**: Release feito internamente e disponível apenas para um número limitado de pessoas.
 
 **Buffer**: O quanto que você pode baixar até que seu Ratio seja o mínimo aceitável em um tracker
 
@@ -128,7 +128,7 @@ Desfrute da leitura e expanda seu conhecimento!
 
 ## Outros
 
-**CDM**: Chave de descriptografia para conteúdo protegido por DRM. 
+**CDM**: Chave de descriptografia para conteúdo protegido por DRM.
 
 **DDL**: _Direct Download_ ou 'Download Direto' em tradução livre.
 
@@ -138,9 +138,10 @@ Desfrute da leitura e expanda seu conhecimento!
 
 **PlayReady**: Tecnologia semelhante ao Widevine criada pela Microsoft para prevenção de cópia de mídia.
 
-‎ 
-‎ 
+‎
+‎
 
-### Créditos:                        
+### Créditos:
+
 - [u/anombaiano](https://www.reddit.com/user/anombaiano/), [u/Wandrey](https://lemmy.eco.br/u/wandrey) e [u/orchestralblend](https://www.reddit.com/user/orchestralblend/).
 - [Glossário do FMHY](https://rentry.org/The-Piracy-Glossary).

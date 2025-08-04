@@ -7,13 +7,13 @@ description: "Baixando livros com restrição do Archive.org"
 
 > Esse guia busca ajudar a burlar a restrição de download do Archive.org, os livros que possuem essa restrição fica com as Download options como: "No suitable files to display here." e/ou "PDF access not available for this item." como mostra a imagem abaixo:
 
-![](/images/como-burlar-restrição-de-download-archive-org-1.png)
+![](./images/como-burlar-restrição-de-download-archive-org-1.png)
 
 ## Primeiro passo
 
 Faca login/crie sua conta no Archive.org e certifique-se de clicar no botão "Borrow for 1 hour".
 
-![](/images/como-burlar-restrição-de-download-archive-org-2.png)
+![](./images/como-burlar-restrição-de-download-archive-org-2.png)
 
 Após clicar você terá acesso a esse livro por 1h ou 14 dias a depender do livro, fazer isso é **OBRIGATÓRIO** pois caso não pegue esse livro "emprestado" o tutorial vai dar **ERRADO**!!!
 
@@ -23,7 +23,7 @@ Irei usar a url do livro de exemplo: https://archive.org/details/engineeringillu
 
 A primeira forma é pegando texto após o /details/ ou indo no link e procurando por _**Identifier**_ nas propiedades do livro, como mostra a imagem abaixo:
 
-![](/images/como-burlar-restrição-de-download-archive-org-3.png)
+![](./images/como-burlar-restrição-de-download-archive-org-3.png)
 
 ## Terceiro passo
 

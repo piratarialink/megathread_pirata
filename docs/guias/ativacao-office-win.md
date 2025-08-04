@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste tutorial, você aprenderá como baixar e ativar o Windows e o Office utilizando os métodos gratuitos “HWID” (para Windows 10/11) e “Ohook” (para Office). Pule para a etapa 2, caso já tenha o Office ou Windows instalado. 
+Neste tutorial, você aprenderá como baixar e ativar o Windows e o Office utilizando os métodos gratuitos “HWID” (para Windows 10/11) e “Ohook” (para Office). Pule para a etapa 2, caso já tenha o Office ou Windows instalado.
 
 ## 1. Download do Windows ou Office
 
@@ -20,17 +20,19 @@ Neste tutorial, você aprenderá como baixar e ativar o Windows e o Office utili
 
 ### Executando o Script de Ativação
 
-1. Com o PowerShell aberto, copie e cole o comando e pressione **Enter**: ```irm https://massgrave.dev/get | iex```
-> **Observação:** Esse comando baixa e executa um script que apresentará as opções de ativação disponíveis.
+1. Com o PowerShell aberto, copie e cole o comando e pressione **Enter**: `irm https://massgrave.dev/get | iex`
+
+   > **Observação:** Esse comando baixa e executa um script que apresentará as opções de ativação disponíveis.
 
 2. O script exibirá uma lista de opções:
+
 - **HWID:** Para ativar o Windows 10 ou 11.
 - **Ohook:** Para ativar o Office.
 
 3. Escolha a opção desejada digitando o número correspondente.
 
-*Exemplo da interface apresentada:*  
-![Exemplo de Seleção](/images/ativacao-office-win-2.png)  
+_Exemplo da interface apresentada:_
+![Exemplo de Seleção](./images/ativacao-office-win-2.png)
 
 ## 3. Conclusão da Ativação
 
@@ -39,8 +41,8 @@ Neste tutorial, você aprenderá como baixar e ativar o Windows e o Office utili
 
 ## Considerações Finais
 
-- **Riscos:**  
-Este método de ativação se destaca pela sua abordagem inovadora e segura. Ao contrário de outros métodos que alteram arquivos críticos do sistema, ele não modifica nenhuma parte do Windows, garantindo a integridade e estabilidade do seu ambiente. Utilizando uma falha específica, o método permite obter uma chave autêntica diretamente da Microsoft, proporcionando uma ativação legítima e permanente. Por conta desse processo não invasivo e eficaz, é considerado atualmente o método de ativação mais seguro e confiável.
+- **Riscos:**
+  Este método de ativação se destaca pela sua abordagem inovadora e segura. Ao contrário de outros métodos que alteram arquivos críticos do sistema, ele não modifica nenhuma parte do Windows, garantindo a integridade e estabilidade do seu ambiente. Utilizando uma falha específica, o método permite obter uma chave autêntica diretamente da Microsoft, proporcionando uma ativação legítima e permanente. Por conta desse processo não invasivo e eficaz, é considerado atualmente o método de ativação mais seguro e confiável.
 
-- **Fonte de Origem:**  
-Este guia foi elaborado com base no post de [Ok_Table7457](https://www.reddit.com/r/Piracy/comments/1814gmp/guide_how_to_pirate_microsoft_office_properly/).
+- **Fonte de Origem:**
+  Este guia foi elaborado com base no post de [Ok_Table7457](https://www.reddit.com/r/Piracy/comments/1814gmp/guide_how_to_pirate_microsoft_office_properly/).

@@ -27,7 +27,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Experimente o melhor do streaming nacional e internacional ao alcance do seu celular ou televisão.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/suite.vg/)
-  
+
 ### 🌟 [Hypeflix](https://hypeflix.sbs/)
 
 - Muito conteúdo gratuito relacionado a filmes e séries.
@@ -52,7 +52,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Fórum de compartilhamento de faixas de dublagem em português brasileiro, é necessário ter um convite para se cadastrar.
 - [Resultados de segurança da URL](https://clubedodual.com/)
-  
+
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
