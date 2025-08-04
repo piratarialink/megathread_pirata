@@ -164,19 +164,18 @@ Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
 :::
 
 * 🌟 [**Motrix**](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
-* [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent
+* [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent.
 * [Transmission](https://transmissionbt.com/about/) - Bem simples de usar e com grandes quantidades de torrents (5k-10k+), é bem estável na versão CLI.
 * 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que procura rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/guia-plugins-qbittorrrent.md)
 * [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei
-* [PicoTorrent](https://picotorrent.org/) - Cliente de torrent simples e leve
-* [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto
+* [Libre Torrent](https://github.com/proninyaroslav/libretorrent) - Ideal para smartphones.
+* [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto.
 * 🌟 [**Tixati**](https://www.tixati.com/download/) - Extremamente personalizável. Todos os menus podem ser reorganizados e o esquema de cores pode ser alterado completamente.
-* [BiglyBT](https://www.biglybt.com/) - Cliente bittorrent repleto de recursos, código aberto, sem anúncios. Uma continuação do popular cliente anteriormente conhecido como Vuze
-* [Pikatorrent](https://www.pikatorrent.com/) - Ideal para smartphones
-* [kTorrent](https://apps.kde.org/ktorrent/) - cliente Torrent para linux
-* [rTorrent](https://github.com/rakshasa/rtorrent) - Cliente de torrent baseado em terminal para linux
-* [ruTorrent para rTorrent](https://github.com/Novik/ruTorrent) - IU de gerenciamento da Web para rtorrent
-* [Flood for rTorrent](https://github.com/Flood-UI/flood) - Interface de usuário elegante de gerenciamento da web para rtorrent
+* [BiglyBT](https://www.biglybt.com/) - Cliente bittorrent repleto de recursos, código aberto, sem anúncios. Uma continuação do popular cliente anteriormente conhecido como Vuze.
+* [kTorrent](https://apps.kde.org/ktorrent/) - cliente Torrent para linux.
+* [rTorrent](https://github.com/rakshasa/rtorrent) - Cliente de torrent baseado em terminal para linux.
+* [ruTorrent para rTorrent](https://github.com/Novik/ruTorrent) - IU de gerenciamento da Web para rtorrent.
+* [Flood for rTorrent](https://github.com/Flood-UI/flood) - Interface de usuário elegante de gerenciamento da web para rtorrent.
 
 ## ► Centros de Mídia / Clientes
 
