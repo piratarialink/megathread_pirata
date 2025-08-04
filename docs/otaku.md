@@ -178,7 +178,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Ferramenta CLI que baixa animes em PT-BR (Dublado ou legendado).
 
 #### 🔗 [Ani-cli](https://github.com/pystardust/ani-cli)
-- Ferrameta CLI similar ao GoAnime porém em Inglês
+- Ferramenta CLI similar ao GoAnime porém em Inglês
 
 ‎ 
 ‎ 
