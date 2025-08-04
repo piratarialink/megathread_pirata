@@ -396,7 +396,7 @@ Na sidebar > `Guides` > `Extension Repos`.
 
 #### 🔗 [VNBD](https://vndb.org/)
 
-- Projetado para ser um banco dados imenso de visual novels (inclusive de vns em português).
+- Projetado para ser um banco de dados imenso de visual novels (inclusive de VNs em português).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vndb.org/)
 
 
