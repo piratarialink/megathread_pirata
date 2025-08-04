@@ -190,6 +190,22 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - Jogos pré-instalados totalmente gratuitos! Nenhum conteúdo foi removido ou compactado e a fonte é confiável.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamrip.com/)
 
+### 🔗 [STEAMTURN](https://steamturn.com/)
+
+- Ótima seleção de videojogos da Steam para instalação sem restrições de DRM.
+- Como é um site novo, é necessário tomar o devido cuidado como baixar primeiro na VM ou na Área Restrita do Windows.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamrturn.com/)
+
+### 🔗 [GAMERROOF](https://gamerroof.com/)
+
+- Baixe games sem complicação alguma neste diretório de jogos 0800.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamerroof.com/)
+
+### 🔗 [EPINGI](https://epingi.com/)
+
+- Outro site novo, sempre tome o devido cuidado ao fazer download como, por exemplo, baixar primeiro na VM ou na Área Restrita.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/epingi.com/)
+  
 ### 🔗 [Reloaded Steam](https://reloadedsteam.com/)
 
 - Jogos pré-instalados, incluindo links diretos, juntamente com conteúdo DLC completo.
