@@ -394,7 +394,7 @@ Na sidebar > `Guides` > `Extension Repos`.
 
 ## 🎮 ➜ Visual Novels
 
-#### [VNBD](https://vndb.org/)
+#### 🔗 [VNBD](https://vndb.org/)
 
 - Projetado para ser um banco dados imenso de visual novels (inclusive de vns em português).
 
