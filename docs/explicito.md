@@ -9,25 +9,25 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 [Redisex](https://redisex.club) — Do mesmo dono do redecanais.
 
-[Sleazyfork](https://sleazyfork.org)
+[Sukebei](https://sukebei.nyaa.si/) - Clone +18 do Nyaa.
 
 [CPG repacks](https://cpgrepacks.site/)
 
-[Only Fans Data Scrapper](https://github.com/DIGITALCRIMINAL/OnlyFans)
-
 [PriivaC Downloader](https://t.me/tgDownPrivacyBot) - Download de mídias de assinaturas do Privacy.
 
-[Better Repack](https://dl.betterrepack.com/)
+[Only Fans Data Scrapper](https://github.com/DIGITALCRIMINAL/OnlyFans)
 
 [Eroge Download](https://erogedownload.com/) - VNs eróticas + links "importantes" no fim da página.
 
 [Hottok](https://t.me/hottoknowbot) — Bot do Telegram que desnuda fotos.
 
+[Better Repack](https://dl.betterrepack.com/)
+
 [Empornium](https://empornium.is/) — Tracker de conteúdo explícito.
 
 [ExoticaZ](https://exoticaz.to/) — Tracker com foco em JAV sem ou com censura (possui photobooks também).
 
-[Sukebei](https://sukebei.nyaa.si/) - Clone +18 do Nyaa.
+[Sleazyfork](https://sleazyfork.org)
 
 [9xbuddy](https://9xbuddy.com/pt) - Faz o download de vídeos de uma variedade de sites adultos.
 
