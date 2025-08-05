@@ -134,6 +134,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [DigitalCore](https://digitalcore.club/signup/) | DC
 
+- Generalista.
 - De longe, um dos trackers mais fáceis para aprender a usar apesar de pecar na falta de conteúdo de ponta.
 
 ### 🧲 [FileList](https://filelist.io/login.php?returnto=%2F) | FL
@@ -211,7 +212,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 - Tracker generalista com uma reputação estimada.
 - Abrem para novos cadastros anualmente.
-- Assim como os demais trackers privados, também possui sistema de H&R.
+- Sistema de H&R de 10 dias.
 
 ---
 
