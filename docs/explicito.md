@@ -27,7 +27,7 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 [ExoticaZ](https://exoticaz.to/) — Tracker com foco em JAV sem ou com censura (possui photobooks também).
 
-[Sukebei](https://sukebei.nyaa.si/) - Área +18 do Nyaa.
+[Sukebei](https://sukebei.nyaa.si/) - Clone +18 do Nyaa.
 
 [9xbuddy](https://9xbuddy.com/pt) - Faz o download de vídeos de uma variedade de sites adultos.
 
