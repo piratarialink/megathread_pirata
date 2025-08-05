@@ -11,7 +11,7 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 [Sleazyfork](https://sleazyfork.org)
 
-[CPG repacks](https://cpgrepacks.site/) — Repacks de jogos +18.
+[CPG repacks](https://cpgrepacks.site/)
 
 [Only Fans Data Scrapper](https://github.com/DIGITALCRIMINAL/OnlyFans)
 
