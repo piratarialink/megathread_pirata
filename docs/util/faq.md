@@ -11,6 +11,13 @@
 
 - Não no Brasil, mas é sempre bom tomar cuidado, pois os provedores de internet são obrigados a guardar os logs de acesso dos clientes por 1 ano por determinação da Anatel. Portanto, se você for investigado algum dia, seu provedor será obrigado a compartilhar esses logs e não te informará sobre isso.
 
+### Onde é que eu posso encontrar material pirata?
+
+- Em grupos do Telegram e, como o próprio r/piracy recomenda, no Yandex.
+- Uma estratégia interessante caso as demais venham a falhar é vasculhar no VK e OK.RU pelo o que você procura.
+- O Odnoklassniki é onde o pessoal carrega filmes e reprises de partidas de futebol enquanto que o VK é uma rede social que não obedece a diretrizes internacionais de _copyright_ por justamente ter sede na Rússia.
+- Dica importantíssima: Evite se cadastrar com seus dados pessoais nos sites citados acima; use chips pré-pagos ou números temporários do smspva e onlinesim.io em troca de _pennies_. **Em hipótese alguma esqueça de ativar o 2FA.**
+  
 ### Como eu posso acessar sites que minha operadora bloqueou?
 
 - O Sistema de Nomes de Domínio (DNS) é um serviço essencial para a navegação na internet. Ele funciona como um "catálogo telefônico" da web, traduzindo nomes de domínio (como exemplo.com) em endereços IP que os computadores usam para se conectar aos servidores. Sem o DNS, teríamos que memorizar longas sequências de números para acessar sites.
