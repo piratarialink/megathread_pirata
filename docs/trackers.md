@@ -223,6 +223,10 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Tracker público focado em educação.
 - Repositório com mais de 6 TB de papers e dados de pesquisa.
 
+### 🧲 [DocsPedia](https://docspedia.world/)
+
+- Outro tracker público focado em educação.
+  
 ### 🧲 [Tracker2.Postman](http://tracker2.postman.i2p)
 
 - Tracker público na rede I2P.
