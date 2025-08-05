@@ -15,7 +15,7 @@
 ### Onde é que eu posso encontrar material pirata?
 
 - Em grupos do Telegram e, como o próprio r/piracy recomenda, no Yandex.
-- Uma estratégia interessante caso as demais venham a falhas é vasculhar no VK é OK.RU pelo o que você procura.
+- Uma estratégia interessante caso as demais venham a falhar é vasculhar no VK e OK.RU pelo o que você procura.
 - O Odnoklassniki é onde o pessoal carrega filmes e reprises de partidas de futebol enquanto que o VK é uma rede social que não obedece a diretrizes internacionais de _copyright_ por justamente ter sede na Rússia.
 - Dica importantíssima: Evite se cadastrar com seus dados pessoais nos sites citados acima; use chips pré-pagos ou números temporários do smspva e onlinesim.io em troca de _pennies_. **Em hipótese alguma esqueça de ativar o 2FA.**
 
