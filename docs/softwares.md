@@ -71,6 +71,11 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Vasta seleção de software. Atualizações todos os dias; sempre a versão mais recente. Várias opções com hosts de arquivos simples.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/diakov.net/)
 
+### 🔗 [Downloadly.IR](https://downloadlynet.ir/)
+
+- Grande quantidade de programas de engenharia, além de outras dezenas de informações e add-ons úteis para o dia-a-dia.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadlynet.ir/)
+  
 ### 🔗 [Download Geral](https://www.downloadgeral.com/aplicativos/windows)
 
 - Cataloga mods para aplicativos, músicas, fontes gratuitas, jogos e especialmente, programas crackeados.
