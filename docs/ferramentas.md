@@ -136,6 +136,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Permite selecionar/realçar links em vez do comportamento padrão de arrastá-los.
 - [Botão Sci-hub](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adiciona um botão sci-hub a inúmeros sites de artigos acadêmicos/acadêmicos para desbloquear o artigo que está sendo visualizado.
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Evite a instalação de aplicativos indesejados.
+- [VK Without Limit](https://greasyfork.org/en/scripts/441310-vk-com-without-limit-v-2-0) - Faça buscas no VKontakte sem precisar se cadastrar ou estar logado.
 - [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript para baixar legendas do youtube.
 - [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript para baixar vídeos do youtube.
 - [Youtube share url si parameter remover](https://greasyfork.org/en/scripts/474050-youtube-share-url-si-parameter-remover) - Retira o parâmetro de rastreamento do link de compartilhamento do Youtube.
