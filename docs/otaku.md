@@ -392,7 +392,7 @@ Na sidebar > `Guides` > `Extension Repos`.
 
 #### 🔗 [QG - Baltigo mangás](https://t.me/MangasBrasil)
 
-## 🎮 Visual Novels
+## 🎮 Visual Novel
 
 #### 🔗 [VNBD](https://vndb.org/)
 
