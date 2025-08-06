@@ -28,7 +28,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🌟 [Library Genesis](https://libgen.is/) / [2](https://libgen.rs/) / [3](https://libgen.st/)
 
-- Mega coleção de livros organizados pela comunidade.
+- Mega volume de obras novas e antigas organizadas pela comunidade.
 - O site constantemente fica fora do ar. Para checar qualquer proxy que esteja funcionando, acesse o [SLUM](https://open-slum.org/).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/libgen.is/)
 
