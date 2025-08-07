@@ -91,7 +91,8 @@
 
 | 📋 **NOME**                    | 🪢 **URL** (_Não clicável_)                | 🚩 **PERIGOSO**                                                                         |
 | :----------------------------- | :----------------------------------------- | :-------------------------------------------------------------------------------------- |
-| CrackedFully                   | crackedfully-com                           | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).    |
+| KMSpico                   |                           | **Ativador** (_O projeto original foi descontinuado, qualquer site que o disponibilize é fraude_).    |
+| CrackedFully                   | crackedfully-com                          | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).    |
 | Ventoy                         | ventoy-net                                 | **Comportamento antiético** (_Detectado com backdoor_).                                 |
 | 💩 Raton Downloads             | ratondownload-net-br                       | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).    |
 | HaxPC                          | haxpc-net                                  | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).    |
