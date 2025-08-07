@@ -209,8 +209,9 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente audio codec AC3.
 - [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
 - [VLsub](https://github.com/opensubtitles/vlsub-opensubtitles-com) - Baixa legendas diretamente pelo vlc sem precisar ter que abrir o site do opensubtitles.
-- **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Plugin para acrescentar a opção de converter vídeos para MP4 no After Effects.
+- **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Acrescenta a opção de converter vídeos para MP4 no After Effects.
 - [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
+- [eCut](http://eng.e-cut.ru/) - Plugin para otimizar o CorelDraw.
 - [Dash-MPD-File](https://github.com/emarsden/dash-mpd-cli) - Uma aplicação cli para download de mídia em manifests MPD (MPEG_DASH).
 
 ## ► Gerenciadores de download
@@ -412,6 +413,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 
 #### ► **Ferramentas para Steam**
 
+- 🌟 [SteamDB](https://steamdb.info/extension/) - Obtém informações de DLC para ferramentas como CreamAPI, GreenLuma e SmartSteamEmu.
 - [Steam Content Packager](https://cs.rin.ru/forum/viewtopic.php?f=29&t=77526) - Ferramenta para limpar arquivos Steam. Empacota seus arquivos do jogo Steam enquanto remove informações de identificação com o objetivo de compartilhá-los com o subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) de cs.rin.ru
 - [Goldberg Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - Emulador Steam. Crack seu próprio jogo Steam ou os arquivos Steam limpos compartilhados no subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) de cs.rin.ru
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Emulador Steam. Crack seus próprios jogos Steam ou os arquivos Steam limpos compartilhados no subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) de cs.rin.ru
