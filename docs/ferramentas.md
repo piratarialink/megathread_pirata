@@ -427,6 +427,8 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Desbloqueador de DLC para o Epic Online Services. Funciona apenas para jogos que você possui. Recursos como multijogador, conquistas, etc. permanecem totalmente funcionais.
 - [Free-games-claimer](https://github.com/vogler/free-games-claimer) - Automaticamente reinvidica jogos gratuitos da Epic Games.
 
+#### ► **Ferramentas para Emuladores**
+- [Wii U USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) - Ferramenta para baixar jogos de Wii U e mais (coloque titlekeys.ovh no campo de Para o Wii U)
 Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=29).
 
 ## ► **Ferramentas Diversas**
