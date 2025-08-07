@@ -174,6 +174,10 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ## 🔨 ➜ Apps Modificados
 
+### 🔗 [9MOD](https://9mod.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/9mod.com/)
+
 ### 🔗 [A2ZAPK](https://a2zapk.io/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/a2zapk.io/)
