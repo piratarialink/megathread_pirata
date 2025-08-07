@@ -29,6 +29,7 @@ Lembre-se de que é importante confiar na [fonte do backup](https://web.archive.
 
 #### BÔNUS:
 
+- https://github.com/younesaassila/ttv-lol-pro
 - https://github.com/pixeltris/TwitchAdSolutions
 - https://altplayer.carrd.co/
 
