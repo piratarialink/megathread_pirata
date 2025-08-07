@@ -416,7 +416,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Steam Content Packager](https://cs.rin.ru/forum/viewtopic.php?f=29&t=77526) - Ferramenta para limpar arquivos Steam. Empacota seus arquivos do jogo Steam enquanto remove informações de identificação com o objetivo de compartilhá-los com o subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) de cs.rin.ru
 - [Goldberg Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - Emulador Steam. Crack seu próprio jogo Steam ou os arquivos Steam limpos compartilhados no subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) de cs.rin.ru
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Emulador Steam. Crack seus próprios jogos Steam ou os arquivos Steam limpos compartilhados no subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) de cs.rin.ru
-- [GreenLuma 2020](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Emulador Steam
+- [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Emulador Steam
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Desbloqueie todos os DLCs em jogos Steam legítimos
 - [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) - Instala e configura automaticamente o CreamAPI para jogos Steam
 - [Steamless](https://github.com/atom0s/Steamless) - Remove o SteamStub DRM dos executáveis ​​do jogo Steam se eles o contiverem. Para ser usado em conjunto com um emulador Steam se o emulador sozinho não for suficiente para quebrar o jogo
