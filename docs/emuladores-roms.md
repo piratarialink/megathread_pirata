@@ -15,19 +15,18 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
   :::
 
-## 📑 ➜ Arquivo
+## 📒 ➜ Arquivo
 
-### 📒 [Wiki geral de emulação](https://emulation.gametechwiki.com/index.php/Main_Page)
+### 🌟 [Wiki geral de emulação](https://emulation.gametechwiki.com/index.php/Main_Page)
 
 - Lista incrível de emuladores que ainda estão ativos e atualizados regularmente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/emulation.gametechwiki.com/)
 
-### 📒 [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor/pt-br)
+## 📂 Diversos
+### 🔗 [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor/pt-br)
 
 - Dedicado a desvendar e pesquisar conteúdo removido ou inutilizado de jogos antigos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tcrf.net/)
-
----
 
 ## 🌐 ➜ Emulação no Navegador
 
@@ -320,7 +319,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**RHDN**](https://romhacking.net)
 
-- Explore ROM hacks, QoLs e homebrews para jogos da era 8, 16, 32 e 64 bits.
+- Explore ROM hacks, _Quality of Life_ roms e homebrews para jogos da era 8, 16, 32 e 64 bits.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhacking.net/)
 
 ### 🔗 [RomHack Plaza](https://romhackplaza.org)
