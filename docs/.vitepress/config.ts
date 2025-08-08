@@ -56,10 +56,6 @@ export default {
         text: "Privacidade",
         link: "privacidade",
       },
-      {
-        text: "Sobre",
-        link: "sobre",
-      },
     ],
     // Social Icons
     socialLinks: [
