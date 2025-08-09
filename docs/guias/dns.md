@@ -56,7 +56,7 @@ DNS público do Google
 Os servidores públicos do Cloudflare e do AdGuard não apresentam tantos inconvenientes, por isso serão o foco deste guia.
 :::
 
-Embora esses provedores bloqueiem a maioria dos anúncios, eles podem não ser 100% eficazes (por exemplo, no YouTube). Para uma remoção mais completa de propagandas em páginas web, a extensão uBlock continua sendo a melhor opção.
+Embora alguns desses provedores bloqueiem a maioria dos anúncios, eles podem não ser 100% eficazes (por exemplo, no YouTube). Para uma remoção mais completa de propagandas em páginas web, a extensão uBlock continua sendo a melhor opção.
 
 ## 2 - Configurando o DNS no Windows 10
 
