@@ -22,7 +22,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Lista incrível de emuladores que ainda estão ativos e atualizados regularmente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/emulation.gametechwiki.com/)
 
-## 📂 Diversos
+## 📂 ➜ Diversos
 
 ### 🔗 [RetroSix Wiki](https://www.retrosix.wiki/)
 
