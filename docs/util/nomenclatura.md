@@ -136,7 +136,7 @@
 
 **Hosts de link premium**: São intermediários que bloqueiam o link DDL de um arquivo através de um upgrade para conta premium ou limite diário/por tempo.
 
-**IPTV**: Nada mais é que televisão sobre _internet protocol_, ao invés vez de cabo coxial ou antenas.
+**IPTV**: Nada mais é que televisão sobre _internet protocol_, ao invés vez de cabo coaxial ou antenas.
 UniTv / BTV / Brasil TV / outros - são iptvs tradicionais, estas empresas têm os arquivos hosteados nos servidores delas e fazem a curatela do conteúdo, costumam incluir canais de tv, contudo elas utilizam compressão máxima fazendo a qualidade ficar duvidosa.
 
 **Lista .m3u**: Trata-se de uma lista que você assina (índice um repositório de arquivos) após instalar um player como tivimate ou um add-on de IPTV no Kodi, caso você tenha uma android TV na sua casa. Se não for a sua situação, logo será necessário comprar uma TV Box (hardware com sistema operacional que já vem com listas _.m3u_ configuradas) dos provedores de IPTV já citados anteriormente.
