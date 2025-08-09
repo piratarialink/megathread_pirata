@@ -4,7 +4,7 @@
 
 Ajustar as configurações de DNS pode oferecer diversos benefícios, como:
 
-- Melhoria na velocidade da navegação (embora não aumente a velocidade de download);
+- Melhoria na velocidade da navegação.
 
 - Aumento da privacidade;
 
@@ -48,10 +48,12 @@ DNS público do Google
 
 - IPv6 [2]: `2001:4860:4860:0:0:0:0:8888` e `2001:4860:4860:0:0:0:0:8844`
 
-- Aproveite uma navegação com velocidade rápida (às vezes, até mais rápida que VPS) sem restrições de ISP e local.
+- Aproveite uma internet com download e upload rápidos (às vezes, até mais rápido que VPS) sem restrições de ISP.
+
+- Não bloqueia anúncios.
 
 :::info Nota:
-Os servidores públicos do Cloudflare e do AdGuard não apresentam esses inconvenientes, por isso serão o foco deste guia. Para testar a velocidade dos servidores DNS e conhecer mais opções, experimente o app Teste Velocidade DNS.
+Os servidores públicos do Cloudflare e do AdGuard não apresentam tantos inconvenientes, por isso serão o foco deste guia.
 :::
 
 Embora esses provedores bloqueiem a maioria dos anúncios, eles podem não ser 100% eficazes (por exemplo, no YouTube). Para uma remoção mais completa de propagandas em páginas web, a extensão uBlock continua sendo a melhor opção.
