@@ -296,11 +296,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Serviço gratuito de Streaming de televisão da Paramount.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pluto.tv/)
 
-### 📺️ [Cliente simples de IPTV para o Kodi](https://kodi.tv/addons/omega/pvr.iptvsimple/)
-
-- Não é difícil de configurar, porém pode falhar bastante em comparação com provedores tradicionais de IPTV. [Lista.](http://dns.ortotrauma.online/get.php?username=henriquearaujo&password=torre121212&type=m3u_plus)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kodi.tv/)
-
 ### 📺️ [Iptv-Brasil-2025](https://github.com/Ramys/Iptv-Brasil-2023)
 
 - Agregação de IPTV em massa
