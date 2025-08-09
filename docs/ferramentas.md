@@ -429,7 +429,7 @@ Estes são sites que rastreiam os lançamentos do Scene. Eles servem estritament
 - [Free-games-claimer](https://github.com/vogler/free-games-claimer) - Automaticamente reinvidica jogos gratuitos da Epic Store.
 
 #### ► **Ferramentas para Emuladores**
-- [Wii U USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) - Ferramenta para baixar jogos de Wii U e muito o mais (coloque titlekeys.ovh no campo de Para o Wii U)
+- [Wii U USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) - Ferramenta para baixar jogos de Wii U e muito e mais (coloque titlekeys.ovh no campo de Para o Wii U)
 - [Wii U Downloader](https://github.com/Xpl0itU/WiiUDownloader/releases/tag/v2.66) - Feito para baixar jogos de WiiU diretamente dos servidores da Nintendo. É atualizado quase que diariamente ao contrário do USB Helper.
   
 Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=29).
