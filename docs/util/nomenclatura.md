@@ -10,9 +10,9 @@
 
 ## Básico
 
-**Warez**: Fórum de compartilhamento via link de um servidor em nuvem, como Google Drive, MEGA, Mediafire, entre outros
+**Warez**: Fórum de compartilhamento de arquivos via link de um servidor em nuvem, como Google Drive, MEGA, Mediafire, entre outros.
 
-**P2P**: Peer to Peer (pessoa para pessoa ou ponto a ponto), uma rede de distribuída de computadores em que cada computador é um cliente e servidor ao mesmo tempo.
+**P2P**: Peer to Peer (pessoa para pessoa ou ponto a ponto), uma rede distribuída de computadores em que cada computador é um cliente e servidor ao mesmo tempo.
 
 **Tracker**: Organizador de toda a distribuição que contém todas as informações necessárias para que os pares se conectem usando o protocolo BitTorrent, comumente associamos tracker à sites torrents que compartilham via torrent.
 
