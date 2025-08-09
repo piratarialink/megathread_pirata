@@ -60,9 +60,9 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - Utiliza o navegador Rclone personalizado, desenvolvido pelo grupo repacker ARMGDDN Games, que possibilita o download direto de jogos para PC, VR e não-VR. Seu código-fonte foi auditado e possui uma reputação consolidada na comunidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cs.rin.ru/)
 
-### 🔗 [Steam Ticket Generator](https://github.com/denuvosanctuary/steam-ticket-generator) /	 [Discord](https://discord.gg/anti-denuvo-sanctuary)
+### 🔗 [Steam Ticket Generator](https://github.com/denuvosanctuary/steam-ticket-generator)
 
-- Método já recomendado pelo cs.rin.ru que consiste no compartilhamento do token denuvo de uma pessoa para outra.
+- Método já recomendado pelo cs.rin.ru que consiste no compartilhamento do token denuvo de uma pessoa para outra. /	 [Discord](https://discord.gg/anti-denuvo-sanctuary) 
 
 ### 🔗 [Steam Auto Crack](https://github.com/SteamAutoCracks/Steam-auto-crack)
 
