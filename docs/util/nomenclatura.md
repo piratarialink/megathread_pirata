@@ -137,12 +137,12 @@
 **Hosts de link premium**: São intermediários que bloqueiam o link DDL de um arquivo através de um upgrade para conta premium ou limite diário/por tempo.
 
 **IPTV**: Nada mais é que televisão sobre _internet protocol_, ao invés vez de cabo coxial ou antenas.
-Unitv / BTV / Brasil tv / outros - sao iptvs tradicionais , estas empresas têm os arquivos hosteado no servidores deles e fazem a curatela do conteúdo , costuma incluir canais de tv, contudo eles utilizam compressão máxima fazendo a qualidade ficar duvidosa.
+UniTv / BTV / Brasil TV / outros - são iptvs tradicionais, estas empresas têm os arquivos hosteados nos servidores delas e fazem a curatela do conteúdo, costumam incluir canais de tv, contudo eles utilizam compressão máxima fazendo a qualidade ficar duvidosa.
 
-**Lista .m3u**: Trata-se de uma lista que você assina (índice um repositório de arquivos) após instalar um player como tivimate ou um add-on de IPTV no Kodi, caso você tenha uma android TV na sua casa. Se não for a sua situação, logo será necessário comprar uma TV Box (hardware com sistema operacional que ja vem com lista _.m3u_) dos provedores de IPTV já citados anteriormente.
+**Lista .m3u**: Trata-se de uma lista que você assina (índice um repositório de arquivos) após instalar um player como tivimate ou um add-on de IPTV no Kodi, caso você tenha uma android TV na sua casa. Se não for a sua situação, logo será necessário comprar uma TV Box (hardware com sistema operacional que já vem com listas _.m3u_ configuradas) dos provedores de IPTV já citados anteriormente.
 Se você já possui uma android tv, a box torna-se completamente opcional, no entanto, isso pode levar à qualidades inferiores.
 
-> Observação: Nunca aceite a opinião de revendedores, consulte nosso [grupo do Telegram para listas de IPTV gratuitas.](https://t.me/trackerlist)
+> Observação: Nunca aceite IPTVs de revendedores, consulte nosso [grupo do telegram para listas de IPTV gratuitas.](https://t.me/trackerlist)
 
 **PlayReady**: Tecnologia semelhante ao Widevine criada pela Microsoft para prevenção de cópia de mídia.
 
@@ -151,5 +151,5 @@ Se você já possui uma android tv, a box torna-se completamente opcional, no en
 
 ### Créditos:
 
-- [u/anombaiano](https://www.reddit.com/user/anombaiano/), [u/Wandrey](https://lemmy.eco.br/u/wandrey) e [u/orchestralblend](https://www.reddit.com/user/orchestralblend/).
+- [u/vadioxy](https://www.reddit.com/r/pirataria/comments/1mcrkwm/comment/n5wmgwu/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button), [u/anombaiano](https://www.reddit.com/user/anombaiano/), [u/Wandrey](https://lemmy.eco.br/u/wandrey) e [u/orchestralblend](https://www.reddit.com/user/orchestralblend/).
 - [Glossário do FMHY](https://rentry.org/The-Piracy-Glossary).
