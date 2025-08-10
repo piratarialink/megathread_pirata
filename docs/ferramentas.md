@@ -399,7 +399,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [STEAM7](https://t.me/steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas steam.6
 - **[Pago]** [Cakto](https://www.cakto.com.br/) - Plataforma de pagamento de serviços como [Canva pro](https://pay.cakto.com.br/HcbRGq9) por exemplo. 
 - [CrackingX](https://crackingx.com) - Combolists e contas de streaming.
-- **[Pago]** [Kotas](https://www.kotas.com.br/servico/kotas) - Divida logins da netflix, qconcursos e alura com outros usuários.
+- **[Pago]** [Kotas](https://www.kotas.com.br/servico/kotas) - Divida logins da netflix, qconcursos e alura com outros usuários da web.
 
 ## ► **Ferramentas para Jogos**
 
