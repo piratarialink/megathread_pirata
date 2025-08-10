@@ -4,7 +4,7 @@ layout: home
 # Hero section
 hero:
   name: Megathread
-  text: Pirataria
+  text: Pirata
   image:
     src: /logo.svg
   tagline: Uma fonte valiosa de recursos excepcionais
