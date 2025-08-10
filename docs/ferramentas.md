@@ -396,10 +396,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 :::
 
 - [TTM](https://t.me/Ttmlog_bot) - Bot que coleta credenciais de usuários de diversas plataformas.
-- [STEAM7](https://t.me/steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas steam.
-- [Cracking.org](https://cracking.org/forums/premium-accounts.11/) - Contas de streaming.
-- [Crackia](https://crackia.com/forum/45-premium-accounts/) - Combolists e contas de streaming.
-- [CrackingX](https://crackingx.com) - Outro site de combolists e contas de streaming.
+- [STEAM7](https://t.me/steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas steam.6
+- [Cackto](https://www.cakto.com.br/) - Plataforma de pagamento de serviços como [Canva pro](https://pay.cakto.com.br/HcbRGq9?affiliate=cpZpLpkQ) por exemplo.
+- [CrackingX](https://crackingx.com) - Combolists e contas de streaming.
 
 ## ► **Ferramentas para Jogos**
 
