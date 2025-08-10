@@ -349,7 +349,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► **Tor**
 
-:::warning O pirataria digital não se responsabiliza por links, endereços de phishing, conteúdo ou eventuais perdas causadas dentro da rede.
+:::warning O pirataria.link não se responsabiliza por links, endereços de phishing, conteúdo ou eventuais perdas causadas dentro da rede.
 :::
 
 - [Weird Log](http://laingg42wznukvzjn52cos6bj6brgyiwtxf5rpq3bu5pad56volhe2qd.onion/blog/index.php/2024/01/31/prolegomenos-de-lain-na-rede-cebola/#more-6768)
@@ -392,7 +392,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► **Contas & Vazamentos**
 
-:::warning O pirataria digital não responde pelo compartilhamento de dados pessoais por terceiros.
+:::warning O pirataria.link não responde pelo compartilhamento de dados pessoais por terceiros.
 :::
 
 - [TTM](https://t.me/Ttmlog_bot) - Bot que coleta credenciais de usuários de diversos sites.
