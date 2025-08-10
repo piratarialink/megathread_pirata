@@ -15,9 +15,9 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
   :::
 
-## 📑 ➜ Arquivo
+## 📒 ➜ Arquivo
 
-### 📒 [MusicBrainz](https://musicbrainz.org/)
+### 🌟 [MusicBrainz](https://musicbrainz.org/)
 
 - Database de música e provider de capas de álbuns, eps e singles. Também desenvolve o aplicativo [Picard](https://picard.musicbrainz.org/) para desktop.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/musicbrainz.org/)
