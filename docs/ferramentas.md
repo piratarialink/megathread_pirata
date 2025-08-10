@@ -26,6 +26,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL.
 - [HWIDGEN](https://github.com/TheMCHK/HWIDGEN) - Ativa o Windows 10. Use o modo KMS38 para LTSC/Enterprise ou HWID para ativação permanente.
 - [Microsoft Toolkit](https://gitlab.com/-/project/11037551/uploads/f73eea2588a1ba5e81e529658089b20d/MTKV274.7z) - Utilitário de multipropósito: pode ativar o Windows, editar componentes e gerir a licença. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
+- [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Conjunto destinado a usuários avançados que permite renomear arquivos por RegEx e melhorar o UX para uma maior produtividade.
 - 🌟 [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário Windows de Chris Titus Tech - Instalar programas, ajustes, correções e atualizações.
 - [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Feito para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 10+.
 - 🌟 [**SophiApp**](https://github.com/Sophia-Community/SophiApp) - A ferramenta de código aberto mais poderosa no GitHub para configurar e fazer debloat do Windows 10 e Windows 11
@@ -316,7 +317,6 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Cinderela.Baiana.2005.1080p.BluRay.DD5.x264).
 - [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Mesmo conceito do filebot, mas gratuito.
 - [AdvancedRenamer](https://www.advancedrenamer.com/) - Mesmo conceito do filebot, mas gratuito.
-- [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Permite renomear por RegEx
 - [Ant Renamer](https://antp.be/software/renamer) - Ótimo para gerenciamento rápido de strings em massa (para Plex, por exemplo).
 
 ## ► **Extensões**
