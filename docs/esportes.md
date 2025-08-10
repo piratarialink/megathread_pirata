@@ -51,8 +51,6 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cxtv.com.br/)
 
-### 🔗 [Iptv-Brasil-2023](https://github.com/Ramys/Iptv-Brasil-2023) - Agregação de IPTV em massa
-
 ## 🏟 **Reprises**
 
 ### 🌟 [FullReplays](https://www.fullreplays.com/)
