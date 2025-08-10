@@ -395,10 +395,11 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 :::warning O pirataria digital não responde pelo compartilhamento de dados pessoais por terceiros.
 :::
 
-- [TTM](https://t.me/Ttmlog_bot) - Bot que coleta credenciais de usuários de diversas plataformas.
+- [TTM](https://t.me/Ttmlog_bot) - Bot que coleta credenciais de usuários de diversos sites.
 - [STEAM7](https://t.me/steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas steam.6
-- [Cackto](https://www.cakto.com.br/) - Plataforma de pagamento de serviços como [Canva pro](https://pay.cakto.com.br/HcbRGq9?affiliate=cpZpLpkQ) por exemplo.
+- **[Pago]** [Cakto](https://www.cakto.com.br/) - Plataforma de pagamento de serviços como [Canva pro](https://pay.cakto.com.br/HcbRGq9) por exemplo. 
 - [CrackingX](https://crackingx.com) - Combolists e contas de streaming.
+- **[Pago]** [Kotas](https://www.kotas.com.br/servico/kotas) - Divida logins da netflix, qconcursos e alura com outros usuários.
 
 ## ► **Ferramentas para Jogos**
 
