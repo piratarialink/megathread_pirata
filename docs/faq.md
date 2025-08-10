@@ -6,7 +6,7 @@
 
 - O projeto 'Pirataria' foi fundado em novembro de 2023 visando atuar como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas, etc.
 - Esta coleção é atualizada e mantida por voluntários do github e atualmente está hospedada no domínio [pirataria.link](https://pirataria.link).
-- Basicamente, é como se fosse um 'fork' da megathread conceituada do r/piracy, porém, tendo em mente a comunidade lusófona como um todo; por isso alguns trechos podem parecer bastante semelhantes à primeira vista.
+- Basicamente, é como se fosse um 'fork' da megathread conceituada do r/piracy, porém, tendo em mente a comunidade lusófona como um todo; por isso alguns trechos podem parecer bastante reminiscentes à primeira vista.
 
 ### Vou ter problemas se visitar um site pirata ou baixar um determinado arquivo?
 
