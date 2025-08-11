@@ -56,7 +56,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 🌟 [VK Video](https://m.vkvideo.ru/)
 
 - Reassista na íntegra jogos de futebol com narração em português brasileiro sem se preocupar com remoções por DMCA.
-- O aplicativo não funciona corretamente.
+- O aplicativo para dispositivos móveis não funciona corretamente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/m.vkvideo.ru/)
   
 ### 📺️ [FullReplays](https://www.fullreplays.com/)
