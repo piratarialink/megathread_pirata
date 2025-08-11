@@ -396,8 +396,8 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 :::
 
 - [TTM](https://t.me/Ttmlog_bot) - Bot que coleta credenciais de usuários de diversos sites.
-- **[Pago]** [Xinyuu](https://t.me/Xinyuu_bot) - Fornece assinaturas **compartilhadas** da alura, qconcursos e estratégia para você estudar a preços justos e acessíveis!
 - [STEAM7](https://t.me/steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas steam.
+- **[Pago]** [Xinyu](https://t.me/Xinyuu_bot) - Fornece assinaturas **compartilhadas** da alura, qconcursos e estratégia para você estudar a preços justos e acessíveis.
 - **[Pago]** [Cakto](https://www.cakto.com.br/) - Plataforma de pagamento de serviços como [canva pro](https://pay.cakto.com.br/HcbRGq9) por exemplo. 
 - [CrackingX](https://crackingx.com) - Combolists e contas de streaming.
 - **[Pago]** [Kotas](https://www.kotas.com.br/servico/kotas) - Divida logins da udemy, babbel e capcut com outros usuários da web.
