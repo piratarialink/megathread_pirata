@@ -53,14 +53,20 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ## 🏟 **Reprises**
 
-### 🌟 [FullReplays](https://www.fullreplays.com/)
+### 🌟 [VK Video](https://m.vkvideo.ru/)
 
-- Reassista na íntegra jogos de futebol, com narração em português brasileiro para algumas ocasiões apenas.
+- Reassista na íntegra jogos de futebol com narração em português brasileiro sem se preocupar com remoções por DMCA.
+- O aplicativo não funciona corretamente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/m.vkvideo.ru/)
+  
+### 📺️ [FullReplays](https://www.fullreplays.com/)
+
+-  Site gringo para acompanhar jogos da premier league assim que as partidas acabarem.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.fullreplays.com/)
   
 ### 📺️ [Footballia](https://footballia.net/)
 
-- Footballia é um site gringo onde você pode assistir a replays de jogos de futebol completos gratuitamente. Uma partida estará disponível no site 30 dias após ser transmitida.
+- Footballia é outro site gringo onde você pode assistir a replays de jogos de futebol completos gratuitamente. Uma partida estará disponível no site 30 dias após ser transmitida.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/footballia.net/)
 
 ---
