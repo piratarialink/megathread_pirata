@@ -5,7 +5,7 @@
 ### A megathread foi feita para quem? E por que ela é tão parecida com a megathread do r/piracy?
 
 - Seu propósito é ser um repositório de ferramentas, aplicativos e dicas úteis do meio pirata da internet para outras pessoas, essa coleção é atualizada e mantida por colaboradores do github.
-- Basicamente, é como se fosse um 'fork' da megathread conceituada do r/piracy, porém, tendo em mente a comunidade lusófona como um todo; por isso alguns trechos podem parecer bastante semelhantes à primeira vista.
+- Basicamente, é como se fosse um 'fork' da megathread conceituada do r/piracy, porém, tendo em mente a comunidade lusófona como um todo; por isso alguns trechos podem parecer bastante reminiscentes à primeira vista.
 
 ### Vou ter problemas se visitar um site pirata ou baixar um determinado arquivo?
 
@@ -16,7 +16,7 @@
 - Em grupos do Telegram e, como o próprio r/piracy recomenda, no Yandex.
 - Uma estratégia interessante caso as demais venham a falhar é vasculhar no VK e OK.RU pelo o que você procura. (Uma pesquisa rápida com o google pode mostrar resultados na maior parte das vezes)
 - O Odnoklassnik é onde o pessoal carrega filmes e reprises de partidas de futebol enquanto que o VK é uma rede social que não obedece a diretrizes internacionais de _copyright_ por justamente ter sede na Rússia.
-- Dica importantíssima: Evite se cadastrar com seus dados pessoais nos sites citados acima; use chips pré-pagos ou números temporários do smspva e onlinesim.io. **Em hipótese alguma se esqueça de ativar o 2FA.**
+- Entre nos sites citados acima com uma VPN configurada.
   
 ### Como eu posso acessar sites que minha operadora bloqueou?
 
