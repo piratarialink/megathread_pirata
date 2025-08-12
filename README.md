@@ -31,10 +31,6 @@ Agradecemos a participação de todos na construção e manutenção de nossa me
 
 A Megathread atualmente roda no [Vitepress](https://vitepress.dev/) com o tema [FMHY](https://github.com/fmhy/FMHYedit). 💖
 
-## Doações
-
-https://livepix.gg/galamoth
-
 ## Licença
 
 Este projeto é licenciado sob a WTFPL (Do What The Fuck You Want To Public License) ou CC0. Veja o arquivo [LICENSE](LICENSE) e o arquivo [LICENSE_ALT](LICENSE_ALT) para mais detalhes.
