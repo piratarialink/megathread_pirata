@@ -337,7 +337,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Forkgram](https://github.com/Forkgram/TelegramAndroid) - Melhoria visível na velocidade de upload e download em dispositivos Android.
 - [tg-archive](https://github.com/knadh/tg-archive) - Arquiva grupos no formato HTML estático.
 - [Scanbitbot](https://t.me/scanbitbot) - Mostra o ID de qualquer canal/grupo, seja ele privado ou não.
-- **[Pago]** [SMSPVA](https://smspva.com) - Número virtual internacional para usar o Telegram com segurança e contornar restrições a nível regional. Utilize uma VPN do país escolhido quando for se registrar.
+- **[Pago]** [SMSPVA](https://smspva.com) - Número virtual internacional para contornar restrições a nível regional. Utilize uma VPN do país escolhido quando for se registrar.
 - [Tg mirror](https://github.com/viniped/tg_mirror) - Clona canais/grupos de maneira automatizada. Inicie o script com o foward_module.py.
 - [Save restricted content bot](https://t.me/Saverestrictedcont_Bot) - Use apenas em última hipótese caso não consiga salvar conteúdo protegido com o tg mirror.
 
