@@ -42,8 +42,9 @@ Melhor caminho: p2p ➜ BTC ➜ LTC/XMR ➜ Cold Wallet (sempre receber numa wal
 
 **Como conseguir: prestando serviços online que pagam em Monero ou comprar pessoalmente.**
 
-**O IDEAL É RODAR MONERO NO SEU PRÓPRIO NODE LOCAL mas aqui vai uma lista de nodes seguros como uma garantia: https://xmr.ditatompel.com/remote-nodes/ban-list-enabled.**
+**O IDEAL É RODAR MONERO NO SEU PRÓPRIO NODE LOCAL PARA NÃO CORRER O RISCO DE SER RASTREADO, mas caso você esteja usando um dispositivo móvel uma abordagem interessante de OPSEC seria filtrar e usar nodes conectados à rede TOR deste site aqui: https://monero.fail/.**
 :::
+
 
 :::warning O projeto pirataria se compromete em recomendar serviços que na nossa visão são seguros e confiáveis.
 :::
