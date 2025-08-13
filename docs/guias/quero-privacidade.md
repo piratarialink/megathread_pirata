@@ -7,13 +7,14 @@
 
 - Privacidade no Firefox: Betterfox ou Arkenfox
 - uBlock Origin: Javascript sempre desativado em sites novos
+- VPN: IVPN ou Mullvad
+- Navegador baseado em Chromium: Cromite
 - Não cruzar nomes em logins: sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
 - Trocar a senha do wi-fi e roteador: cole seu endereço IP na barra de URL do navegador
 - Criar passwords com espaços e caracteres próprios da língua portuguesa: como `ç`, `~`, `'`
 - **Jamais** salvar senhas pelo navegador: você pode ser vítima de infostealers, utilize um gerenciador como Bitwarden ou KeePassXC
 - Sempre que possìvel usar um email temporário: de um provedor como o emailnator.com ou guerrilla mail quando for se cadastrar na web
-- VPN: IVPN ou Mullvad
-- Navegador baseado em Chromium: Cromite
+- Verifique a procedência: quando estiver navegando em URLs suspeitas, confira o tempo de registro, selo SSL e certifique-se de que o CNPJ/CPF informado na página bate com as informações repassadas através de serviços como [registro.br](https://registro.br/tecnologia/ferramentas/), siteconfiavel.com.br ou pelo próprio WHOIS do terminal de comando do seu computador
 
 ## O intermediário para privacidade
 
@@ -42,7 +43,7 @@ Melhor caminho: p2p ➜ BTC ➜ LTC/XMR ➜ Cold Wallet (sempre receber numa wal
 
 **Como conseguir: prestando serviços online que pagam em Monero ou comprar pessoalmente.**
 
-**O IDEAL É RODAR MONERO LOCALMENTE NO SEU PRÓPRIO NODE PARA NÃO CORRER O RISCO DE SER RASTREADO. Caso você esteja usando um dispositivo móvel, uma abordagem interessante de OPSEC é filtrar e usar nodes conectados à rede TOR (via [ORBOT](https://github.com/guardianproject/orbot-android)) deste site aqui: https://monero.fail/.**
+**O IDEAL É RODAR MONERO LOCALMENTE NO SEU PRÓPRIO NODE PARA NÃO CORRER O RISCO DE SER RASTREADO. Caso você esteja usando um dispositivo móvel, uma abordagem interessante pensando no OPSEC é filtrar e usar nodes conectados à rede TOR (via [ORBOT](https://github.com/guardianproject/orbot-android)) deste site aqui: https://monero.fail/.**
 :::
 
 
