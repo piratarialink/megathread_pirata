@@ -44,7 +44,7 @@
 **O IDEAL É RODAR MONERO NO SEU PRÓPRIO NODE LOCAL mas aqui vai uma lista de nodes seguros como uma garantia: https://xmr.ditatompel.com/remote-nodes/ban-list-enabled.**
 :::
 
-:::warning O r/pirataria se compromete em recomendar serviços que na nossa visão são seguros e confiáveis.
+:::warning O projeto pirataria se compromete em recomendar serviços que na nossa visão são seguros e confiáveis.
 :::
 
 Créditos:
