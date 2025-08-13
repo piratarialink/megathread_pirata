@@ -14,7 +14,7 @@
 - Criar passwords com espaços e caracteres próprios da língua portuguesa: como `ç`, `~`, `'`
 - **Jamais** salvar senhas pelo navegador: você pode ser vítima de infostealers, utilize um gerenciador como Bitwarden ou KeePassXC
 - Sempre que possìvel usar um email temporário: de um provedor como o emailnator.com ou guerrilla mail quando for se cadastrar na web
-- Verifique a procedência: quando estiver navegando em URLs suspeitas, confira o tempo de registro, selo SSL e certifique-se de que o CNPJ/CPF informado na página bate com as informações repassadas através de serviços como [registro.br](https://registro.br/tecnologia/ferramentas/), siteconfiavel.com.br ou pelo próprio WHOIS da linha de comando do seu computador
+- Verifique a procedência de URLs suspeitas: Confira o tempo de registro, selo SSL e certifique-se de que o CNPJ/CPF informado na página bate com informações repassadas por serviços como [registro.br](https://registro.br/tecnologia/ferramentas/), siteconfiavel.com.br ou pelo próprio WHOIS da linha de comando do seu computador
 
 ## O intermediário para privacidade
 
