@@ -36,8 +36,11 @@
 - Roteador: Qualquer um com OpenWRT, recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 
 :::tip Onde comprar moeda: [Telegram](https://t.me/MoneroPagamentosBot?start=ref_e5874ba0587c9630), [Cake Wallet](https://github.com/cake-tech/cake_wallet/), [Monerujo](https://github.com/m2049r/xmrwallet/), [ChangeNow](https://changenow.io/), [Ramp Network](https://ramp.network/) ou qualquer lugar que não precise de identidade (KYC).
+
 **Como conseguir: prestando serviços online que pagam em Monero ou comprar pessoalmente (sempre receber numa wallet disposable e transferir para a sua).**
+
 **É possível comprar outra moeda e fazer exchange para Monero (XMR), por exemplo, você pode comprar Litecoin (LTC) via bancos nacionais (que você já possua conta) e fazer exchange para Monero. Exchange deixa rastros insignificativos.**
+
 **O IDEAL É RODAR MONERO NO SEU PRÓPRIO NODE LOCAL mas aqui vai uma lista de nodes seguros como uma garantia: https://xmr.ditatompel.com/remote-nodes/ban-list-enabled.**
 :::
 
