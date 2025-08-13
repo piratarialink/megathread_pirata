@@ -46,3 +46,7 @@
 
 :::warning O r/pirataria se compromete em recomendar serviços que na nossa visão são seguros e confiáveis.
 :::
+
+Créditos:
+
+- [Reddit](https://www.reddit.com/r/Monero/comments/1juzt0g/public_monero_remote_nodes_list_xmrditatompelcom/)
