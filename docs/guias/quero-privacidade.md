@@ -37,11 +37,10 @@
 
 :::tip Onde comprar moeda: [Bisq](https://bisq.network/), [Telegram](https://t.me/MoneroPagamentosBot?start=ref_e5874ba0587c9630), [Cake Wallet](https://github.com/cake-tech/cake_wallet/), [Monerujo](https://github.com/m2049r/xmrwallet/), [ChangeNow](https://changenow.io/), [Ramp Network](https://ramp.network/) ou qualquer lugar que não precise de identidade (KYC).
 
-**Evite comprar XMR e LTC diretamente com BRL, caminho: p2p ➜ BTC ➜ Litecoin/Monero ➜ Cold Wallet (sempre receber numa wallet disposable e transferir para a sua).**
+****É possível comprar outra moeda e fazer exchange para Monero (XMR), por exemplo, você pode comprar outras moedas digitais e fazer exchange para Monero & Litecoin, esse tipo de exchange deixa rastros insignificantes. 
+Melhor caminho: p2p ➜ BTC ➜ LTC/XMR ➜ Cold Wallet (sempre receber numa wallet disposable e transferir para a sua).**
 
 **Como conseguir: prestando serviços online que pagam em Monero ou comprar pessoalmente.**
-
-**É possível comprar outra moeda e fazer exchange para Monero (XMR), por exemplo, você pode comprar Litecoin (LTC) via bancos nacionais (que você já possua conta) e fazer exchange para Monero. Exchange deixa rastros insignificativos.**
 
 **O IDEAL É RODAR MONERO NO SEU PRÓPRIO NODE LOCAL mas aqui vai uma lista de nodes seguros como uma garantia: https://xmr.ditatompel.com/remote-nodes/ban-list-enabled.**
 :::
