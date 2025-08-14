@@ -21,7 +21,6 @@
 - Configurar o navegador para excluir todos os dados sempre que você for fechá-lo (histórico, cookies, senhas, etc.): isso diminui a possibilidade de ter as contas invadidas e você não precisa se preocupar em caso de acesso não autorizado ao seu dispositivo
 - VPN: IVPN com Multihop
 - Email: mailbox.org + systemli.org com Thunderbird + uBlock Origin ou Cock.li (Servidor XMPP) + TailOS
-- Gerenciador de senhas: KeePassXC + systemli.org NextCloud
 - Armazenamento: HD ou SSD com Veracrypt
 - Criptografia: Cryptomator e Veracrypt
 - Nuvem: systemli.org NextCloud (chaves PGP, backup e armazenar KeePassXC)
@@ -30,7 +29,7 @@
 - Android: GrapheneOS ou LineageOS
 - Desktop: Linux com LUKS
 - Provedor dominio: Njalla, Sarek Oy, Porkbun ou Cloudflare
-- Meet: systemli.org Jitsi
+- Meet: systemli.org, Jitsi
 - Moeda: Monero 
 - Hospedagem: Servers.guru ou Njalla
 - Pesquisa: DuckDuckGo.com
