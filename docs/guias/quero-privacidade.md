@@ -34,15 +34,13 @@
 - Pesquisa: DuckDuckGo.com
 - Roteador: Qualquer um com OpenWRT, recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 
-:::tip Onde comprar moeda: [Bisq](https://github.com/bisq-network/bisq), [Cake Wallet](https://github.com/cake-tech/cake_wallet/), [Monerujo](https://github.com/m2049r/xmrwallet/), [Telegram](https://t.me/MoneroPagamentosBot?start=ref_e5874ba0587c9630) ou qualquer lugar que não precise de identidade (KYC).
+## O avançado para privacidade
 
-**É possível comprar outra moeda e fazer exchange para Monero, esse tipo de troca deixa rastros insignificantes. 
-Melhor caminho: p2p ➜ BRL ➜ BTC ➜ XMR ➜ [Cold Wallet](https://www.getmonero.org/pt-br/downloads/index.html) (sempre receber numa wallet disposable e transferir para a sua).**
-
-**Cobrar e receber por serviços: pessoalmente ou através de plataformas de escrows.**
-
-**O IDEAL É RODAR MONERO LOCALMENTE NO SEU PRÓPRIO NODE PARA NÃO CORRER O RISCO DE SER RASTREADO. Caso você esteja usando um dispositivo móvel, uma abordagem interessante pensando no OPSEC é filtrar e usar nodes conectados à rede TOR (via [ORBOT](https://github.com/guardianproject/orbot-android)) deste site aqui: https://xmr.ditatompel.com/.**
-:::
+- Onde comprar moeda: [Bisq](https://github.com/bisq-network/bisq), [Cake Wallet](https://github.com/cake-tech/cake_wallet/), [Monerujo](https://github.com/m2049r/xmrwallet/), [Telegram](https://t.me/MoneroPagamentosBot?start=ref_e5874ba0587c9630) ou qualquer lugar que não precise de identidade (KYC).
+- É possível comprar outra moeda e fazer exchange para Monero, esse tipo de troca deixa rastros insignificantes. 
+Melhor caminho: p2p ➜ BRL ➜ BTC ➜ XMR ➜ [Cold Wallet](https://www.getmonero.org/pt-br/downloads/index.html) (sempre receber numa wallet disposable e transferir para a sua).
+- Cobrar e receber por serviços: pessoalmente ou através de plataformas de escrow.
+- O IDEAL É RODAR MONERO LOCALMENTE NO SEU PRÓPRIO NODE PARA NÃO CORRER O RISCO DE SER RASTREADO. Caso você esteja usando um dispositivo móvel, uma abordagem interessante pensando no OPSEC é filtrar e usar nodes conectados à rede TOR (via [ORBOT](https://github.com/guardianproject/orbot-android)) deste site aqui: https://xmr.ditatompel.com/.
 
 
 :::warning O projeto pirataria se compromete em recomendar serviços que na nossa visão são seguros e confiáveis.
