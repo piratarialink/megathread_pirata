@@ -7,7 +7,6 @@
 
 - Privacidade no Firefox: Betterfox ou Arkenfox
 - uBlock Origin: Javascript sempre desativado em sites novos
-- VPN: IVPN ou Mullvad
 - Navegador baseado em Chromium: Cromite
 - Não cruzar nomes em logins: sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
 - Trocar a senha do wi-fi e roteador: cole seu endereço IP na barra de URL do navegador
@@ -19,13 +18,13 @@
 ## O intermediário para privacidade
 
 - Configurar o navegador para excluir todos os dados sempre que você for fechá-lo (histórico, cookies, senhas, etc.): isso diminui a possibilidade de ter as contas invadidas e você não precisa se preocupar em caso de acesso não autorizado ao seu dispositivo
-- VPN: IVPN com Multihop
+- VPN: IVPN com Multihop ou Mullvad
 - Email: mailbox.org + systemli.org com Thunderbird + uBlock Origin ou Cock.li (Servidor XMPP) + TailOS
 - Armazenamento: HD ou SSD com Veracrypt
 - Criptografia: Cryptomator e Veracrypt
 - Nuvem: systemli.org NextCloud (chaves PGP, backup e armazenar KeePassXC)
 - Navegador: Firefox + uBlock Origin + oisd.nl + Containers + arkenfox.js
-- Rede social: Lemmy, Mastodon, XMPP e systemli.org Matrix
+- Chat: Lemmy, SimpleX, Mastodon, XMPP e systemli.org Matrix
 - Android: GrapheneOS ou LineageOS
 - Desktop: Linux com LUKS
 - Provedor dominio: Njalla, Sarek Oy, Porkbun ou Cloudflare
@@ -40,9 +39,9 @@
 **É possível comprar outra moeda e fazer exchange para Monero, esse tipo de troca deixa rastros insignificantes. 
 Melhor caminho: p2p ➜ BRL ➜ BTC ➜ XMR ➜ [Cold Wallet](https://www.getmonero.org/pt-br/downloads/index.html) (sempre receber numa wallet disposable e transferir para a sua).**
 
-**Como conseguir: prestando serviços online que pagam em Monero ou comprar pessoalmente.**
+**Cobrar e receber por serviços: pessoalmente ou através de plataformas de escrows.**
 
-**O IDEAL É RODAR MONERO LOCALMENTE NO SEU PRÓPRIO NODE PARA NÃO CORRER O RISCO DE SER RASTREADO. Caso você esteja usando um dispositivo móvel, uma abordagem interessante pensando no OPSEC é filtrar e usar nodes conectados à rede TOR (via [ORBOT](https://github.com/guardianproject/orbot-android)) deste site aqui: https://monero.fail/.**
+**O IDEAL É RODAR MONERO LOCALMENTE NO SEU PRÓPRIO NODE PARA NÃO CORRER O RISCO DE SER RASTREADO. Caso você esteja usando um dispositivo móvel, uma abordagem interessante pensando no OPSEC é filtrar e usar nodes conectados à rede TOR (via [ORBOT](https://github.com/guardianproject/orbot-android)) deste site aqui: https://xmr.ditatompel.com/.**
 :::
 
 
