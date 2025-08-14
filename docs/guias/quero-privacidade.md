@@ -38,7 +38,7 @@
 :::tip Onde comprar moeda: [Bisq](https://github.com/bisq-network/bisq), [Cake Wallet](https://github.com/cake-tech/cake_wallet/), [Monerujo](https://github.com/m2049r/xmrwallet/), [Telegram](https://t.me/MoneroPagamentosBot?start=ref_e5874ba0587c9630) ou qualquer lugar que não precise de identidade (KYC).
 
 **É possível comprar outra moeda e fazer exchange para Monero, por exemplo, você pode comprar outras moedas digitais e fazer exchange para XMR, esse tipo de troca deixa rastros insignificantes. 
-Melhor caminho: p2p ➜ BRL ➜ BTC ➜ XMR ➜ Cold Wallet (sempre receber numa wallet disposable e transferir para a sua).**
+Melhor caminho: p2p ➜ BRL ➜ BTC ➜ XMR ➜ [Cold Wallet](https://www.getmonero.org/pt-br/downloads/index.html) (sempre receber numa wallet disposable e transferir para a sua).**
 
 **Como conseguir: prestando serviços online que pagam em Monero ou comprar pessoalmente.**
 
