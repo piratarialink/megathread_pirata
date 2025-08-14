@@ -52,6 +52,9 @@ O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Hab
 É um projeto opensource (código aberto), baseado em Chromium, mas sem manipulação do Google: remove os serviços e rastreamento do Google e telemetria.
 Todavia requer que o usuário configure de maneira manual, para uma privacidade ainda mais robusta.
 
+:::tip É fundamental que você use [isso](https://github.com/NeverDecaf/chromium-web-store).
+:::
+
 ### [Cromite](https://github.com/uazo/cromite)
 
 O Cromite é um fork do Chromium baseado no fork do Bromite com bloqueio de anúncios e aprimoramentos de privacidade.
