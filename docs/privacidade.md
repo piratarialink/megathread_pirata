@@ -126,10 +126,10 @@ O uBlock Origin é uma extensão de navegador popular projetada para bloquear an
 
 O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo baseada em rede, geralmente implementada em um Raspberry Pi ou em um servidor local. Funciona como um servidor DNS que intercepta solicitações de DNS feitas por dispositivos na rede e bloqueia solicitações para servidores de anúncios e domínios de conteúdo indesejado. Isso melhora a velocidade de navegação, reduz o consumo de largura de banda e aumenta a privacidade, já que muitos rastreadores e anúncios são bloqueados antes de serem carregados. O Pi-hole também fornece estatísticas detalhadas sobre o tráfego de rede e os domínios bloqueados, permitindo um controle mais preciso sobre o fluxo de dados na rede local.
 
-:::info Utilizar a lista do [PerfLyst](https://github.com/Perflyst/PiHoleBlocklist) para bloquear anúncios na SmartTV.
+:::info Utilizar a lista do [PerfLyst](https://github.com/Perflyst/PiHoleBlocklist) para bloquear anúncios na SmartTV
 :::
 
-:::warning O Pi-hole é somente para usúarios avançados.
+:::warning O Pi-hole é somente para usúarios avançados
 :::
 
 ## Provedores de E-mail
@@ -157,7 +157,7 @@ Um sistema operacional mobile privado e seguro com compatibilidade de aplicativo
 
 Matrix.org é uma plataforma aberta e descentralizada de comunicação e colaboração em tempo real. Ela permite que os usuários se comuniquem através de mensagens instantâneas, chamadas de voz e vídeo, compartilhamento de arquivos e outros recursos colaborativos. O Matrix.org é construído em torno de um protocolo aberto e federado, o que significa que diferentes servidores podem se comunicar entre si, permitindo uma rede descentralizada de comunicação. Isso oferece maior segurança, privacidade e controle sobre os dados dos usuários, além de possibilitar a interoperabilidade entre diferentes aplicativos e plataformas. O Matrix.org é amplamente utilizado em diversos contextos, desde mensagens instantâneas entre indivíduos até salas de chat colaborativas em equipes de trabalho e comunidades online.
 
-:::info Existem várias outras instâncias, o Matrix.org é uma das instâncias disponíveis.
+:::info Existem várias outras instâncias, o Matrix.org é uma das instâncias disponíveis
 :::
 
 ### [Element](https://element.io/)
@@ -179,8 +179,6 @@ O Cryptomator fornece criptografia transparente client-side para sua nuvem. Prot
 ### [Nextcloud](https://nextcloud.com/)
 
 O Nextcloud é uma plataforma de colaboração e armazenamento em nuvem de código aberto, projetada para permitir que indivíduos e organizações gerenciem e compartilhem seus arquivos de forma segura e eficiente. Ele oferece uma ampla gama de recursos, incluindo armazenamento de arquivos, calendário, contatos, compartilhamento de documentos e colaboração em tempo real. O Nextcloud é altamente personalizável e pode ser instalado em **servidores locais ou em provedores de nuvem de terceiros**, oferecendo assim maior controle sobre os dados e garantindo conformidade com requisitos de segurança e privacidade.
-
-### [Tresorit](https://tresorit.com/)
 
 ## Leitura recomendada
 
