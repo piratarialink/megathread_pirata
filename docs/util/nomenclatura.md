@@ -146,7 +146,7 @@ Se você já possui uma android tv ou um dos sticks, a box torna-se completament
 
 **PlayReady**: Tecnologia semelhante ao Widevine criada pela Microsoft para prevenção de cópia de mídia.
 
-**Port-forwarding**: É uma maneira de fazer com que o seu aparelho se conecte à rede mundial de computadores sem experimentar quedas abruptas de bandwidth, isso mesmo estando sob uma rede P2P.
+**Port-forwarding**: É uma maneira que as VPNs tem de fazer com que o seu aparelho se conecte à rede P2P sem experimentar quedas abruptas de bandwidth.
 ‎
 ‎
 
