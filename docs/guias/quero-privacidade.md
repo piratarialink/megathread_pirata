@@ -11,7 +11,7 @@
 - Não cruzar nomes em logins: sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
 - Trocar a senha do wi-fi e roteador: cole seu endereço IP na barra de URL do navegador
 - Criar passwords com espaços e caracteres próprios da língua portuguesa: como `ç`, `~`, `'`
-- **Jamais** salvar senhas pelo navegador: você pode ser vítima de infostealers, utilize um gerenciador como Bitwarden ou KeePassXC
+- Atente-se ao [OPSEC](https://pt.m.wikipedia.org/wiki/OPSEC): **Jamais** salve senhas pelo navegador, você pode ser vítima de infostealers, utilize um gerenciador como Bitwarden ou KeePassXC
 - Sempre que possìvel usar um email temporário em sites que não sejam importantes: use de um provedor como o emailnator.com ou guerrilla mail
 - Fotos, vídeos e outros arquivos: remover metadados (informações adicionais que revelam sua localização) com o exiftool ou online com o metadata2go
 - Verifique a procedência de URLs suspeitas: Confira o tempo de registro, selo SSL e certifique-se de que o CNPJ/CPF fornecido na página bate com o que é repassado por sites como [registro.br](https://registro.br/tecnologia/ferramentas/), siteconfiavel.com.br ou pelo próprio WHOIS da linha de comando do seu computador
@@ -20,7 +20,7 @@
 
 - Configurar o navegador para excluir todos os dados sempre que você for fechá-lo (histórico, cookies, senhas, etc.): isso diminui a possibilidade de ter as contas invadidas e você não precisa se preocupar em caso de acesso não autorizado ao seu dispositivo
 - VPN: IVPN com Multihop ou Mullvad
-- Email: mailbox.org + systemli.org com Thunderbird + uBlock Origin ou Cock.li (Servidor XMPP) + TailOS
+- Email: systemli.org, mailbox.org + systemli.org com Thunderbird + uBlock Origin ou Cock.li (Servidor XMPP) + TailOS
 - Armazenamento: HD ou SSD com Veracrypt
 - Criptografia: Cryptomator e Veracrypt
 - Nuvem: systemli.org, NextCloud (chaves PGP, backup e armazenar KeePassXC)
