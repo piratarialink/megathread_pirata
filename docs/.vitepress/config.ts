@@ -119,8 +119,8 @@ export default {
             link: "https://champagne.pages.dev/",
           },
           {
-            text: "📁 PiracyBG-PTBR",
-            link: "https://rentry.org/PiracyBG-PTBR/",
+            text: "📁 Piracy Index",
+            link: "https://piracy.vercel.app/",
           },
           { text: "📁 MediaSavvy", link: "https://mediasavvy.pages.dev/" },
           { text: "📁 EverythingMoe", link: "https://everythingmoe.com/" },
