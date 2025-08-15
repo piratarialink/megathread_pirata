@@ -136,7 +136,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
 ### 📁 [MediaSavvy](https://mediasavvy.pages.dev/)
 
-### 📁 [PiracyBG-PTBR](https://rentry.org/PiracyBG-PTBR)
+### 📁 [Piracy Index](https://piracy.vercel.app/)
 
 ### 📁 [Champagne Piracy Wiki](https://champagne.pages.dev/)
 
