@@ -23,7 +23,7 @@
 - Email: systemli.org, mailbox.org + systemli.org com Thunderbird + uBlock Origin ou Cock.li (Servidor XMPP) + TailOS
 - Armazenamento: HD ou SSD com Veracrypt
 - Criptografia: Cryptomator e Veracrypt
-- Criptografia de unidade de SSD: AES-128-GCM, XChaCha20-Poly1305 [[1]](https://github.com/piratarialink/megathread_pirata/blob/main/docs/guias/quero-privacidade.md#--1-post-do-usu%C3%A1rio-margaret-no-ex%C3%ADlio-endere%C3%A7o-onion)
+- Criptografia de unidade de SSD: AES-128-GCM, XChaCha20-Poly1305 [[1]](https://pirataria.link/guias/quero-privacidade#_1-post-do-usuario-margaret-no-exilio-endereco-onion)
 - Nuvem: systemli.org, NextCloud (chaves PGP, backup e armazenar KeePassXC)
 - Navegador: Firefox + uBlock Origin + oisd.nl + Containers + arkenfox.js
 - Chat: Lemmy, SimpleX, Mastodon, XMPP e systemli.org Matrix
@@ -44,7 +44,7 @@
 Melhor caminho: **p2p** ➜ **BRL** ➜ **BTC** ➜ **XMR** ➜ [**Cold Wallet**](https://www.getmonero.org/pt-br/downloads/index.html) (sempre receber numa wallet disposable e transferir para a sua).
 - Cobrar e receber por serviços: pessoalmente ou através de plataformas de escrow como o [FairTrade](http://fairfffoxrgxgi6tkcaxhxre2hpwiuf6autt75ianjkvmcn65dxxydad.onion/escrow) por exemplo.
 - **O IDEAL É RODAR MONERO LOCALMENTE NO SEU PRÓPRIO NODE PARA NÃO CORRER O RISCO DE SER RASTREADO.**
-Mas caso você esteja usando um dispositivo móvel, uma abordagem interessante é filtrar e usar nodes conectados à rede TOR (via [ORBOT](https://github.com/guardianproject/orbot-android)) deste site aqui: https://xmr.ditatompel.com/ [[2]](https://github.com/piratarialink/megathread_pirata/edit/main/docs/guias/quero-privacidade.md#--2-reddit).
+Mas caso você esteja usando um dispositivo móvel, uma abordagem interessante é filtrar e usar nodes conectados à rede TOR (via [ORBOT](https://github.com/guardianproject/orbot-android)) deste site aqui: https://xmr.ditatompel.com/ [[2]](https://pirataria.link/guias/quero-privacidade#_2-reddit).
 
 
 :::warning O projeto pirataria se compromete em recomendar apenas o que na nossa visão é seguro e confiável.
