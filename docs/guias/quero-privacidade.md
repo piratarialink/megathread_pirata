@@ -56,8 +56,7 @@ Mas caso você esteja usando um dispositivo móvel, uma abordagem interessante �
 ‎ 
 
 ##### - [1] [Post do usuário Margaret no Exílio (endereço onion)](http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion/7608/apagamento-seguro-de-dados-ssd-2)
-‎ 
-
+‎
 ##### - [2] [Reddit](https://www.reddit.com/r/Monero/comments/1juzt0g/public_monero_remote_nodes_list_xmrditatompelcom/)
 
 ‎ 
