@@ -23,7 +23,7 @@
 - Email: systemli.org, mailbox.org + systemli.org com Thunderbird + uBlock Origin ou Cock.li (Servidor XMPP) + TailOS
 - Armazenamento: HD ou SSD com Veracrypt
 - Criptografia: Cryptomator e Veracrypt
-- Criptografia de unidade de SSD: AES-128-GCM, XChaCha20-Poly1305 [[1]](https://pirataria.link/guias/quero-privacidade#_1-post-do-usuario-margaret-no-exilio-endereco-onion)
+- Criptografia de unidade: AES-128-GCM, XChaCha20-Poly1305 [[1]](https://pirataria.link/guias/quero-privacidade#_1-post-do-usuario-margaret-no-exilio-endereco-onion)
 - Nuvem: systemli.org, NextCloud (chaves PGP, backup e armazenar KeePassXC)
 - Navegador: Firefox + uBlock Origin + oisd.nl + Containers + arkenfox.js
 - Chat: Lemmy, SimpleX, Mastodon, XMPP e systemli.org Matrix
