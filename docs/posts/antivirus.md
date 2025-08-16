@@ -7,7 +7,7 @@ Essa página foi um post tirado do Lemmy.
 
 **Se quiser um resumo dos melhores antivírus, ele está no final do post. Grato.**
 
-Eu trabalho com engenharia reversa desde 2018, e a maioria do meu trabalho é manual, analiso "binaries", como chamamos no Brasil, executáveis. Utilizo o que há de mais recente no mercado para análise de malwares, como **dnSpy**, **IDA Pro**, **Ghidra**, **x96dbg**, entre outros programas.
+Eu trabalho com engenharia reversa desde 2018, e a maioria do meu trabalho é manual, analiso "binaries", como chamamos no Brasil, executáveis. Utilizo o que há de mais recente no mercado para análise de malwares, como **dnSpy**, **IDA Pro**, **Ghidra**, **x96dbg**, **Frida**, entre outros programas.
 
 O termo "malware" define vírus, trojans e afins. No geral, são arquivos maliciosos com o único objetivo de prejudicar você.
 
