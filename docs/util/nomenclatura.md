@@ -150,7 +150,7 @@ Se você já possui uma android tv ou um dos sticks, a box torna-se completament
 ‎
 ‎
 
-**Torrent Swarm**: É a lista de endereços IP dos peers que é mostrada pelo cliente torrent. **É essencial que você esteja conectado à uma VPN enquanto semeia/baixa para que essa informação não se torne visível para outras pessoas dentro da mesma rede P2P.**
+**Torrent Swarm**: É a lista de endereços IP dos peers que é mostrada pelo cliente torrent. **É essencial que você esteja conectado à uma VPN enquanto semeia/baixa para que o seu endereço não se torne visível para outras pessoas dentro da mesma rede P2P.**
 
 ### Créditos:
 
