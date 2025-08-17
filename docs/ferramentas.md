@@ -18,7 +18,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal, são falsos positivos.
   :::
 
-## ► Ferramentas para Windows/Office
+## ► **Ferramentas para Windows/Office**
 
 - 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. [**Guia**](guias/ativacao-office-win.md)
 - [Office C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte as instalações do Office Retail em licenças de volume.
@@ -43,7 +43,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Uma lista incrível e selecionada dos melhores aplicativos e ferramentas para Windows.
 - 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto.
 
-## ► Downloads modificados/intactos do Windows e do Office
+## ► **Downloads modificados/intactos do Windows e do Office**
 
 - 🌟 [**GIM**](https://massgrave.dev/genuine-installation-media) - ISOs do Windows para rodar máquinas virtuais. Versões antigas do Office (2016/2013) também podem ser baixadas gratuitamente.
 - [files.rg-adguard.net](https://files.rg-adguard.net/) - Substituto do tb.rg-adguard.net.
@@ -51,11 +51,21 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [arquivo corenoc.de](https://archive.org/details/digital_river) - ISOs do Windows 7 que estavam disponíveis no DigitalRiverContent da Microsoft CDN.
 - [the-eye.eu/public/MSDN](https://archive.org/details/MSDNArchive) - O backup de 2,7 TB do despejo MSDN do antigo The Eye. Tem muitas ISOs difíceis de encontrar, Windows 7, etc.
 - [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors para LTSB, LTSC e ISOs do Windows 10 da edição do consumidor. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431)
-- [Windows ISOs em NNMClub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 11 da edição do consumidor.
+- [ISOs do Windows no NNMClub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 11 da edição do consumidor.
 - [pastebin de abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
 - [pastebin de abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
 - [Microsoft Media Creation Tool](https://www.microsoft.com/pt-br/software-download/windows10) - Página da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
 - [Pacotes do Office para Mac](https://massgrave.dev/office_for_mac) - Página bem organizada para downloads de imagens do Mac Office.
+
+## ► **Ferramentas para MacOS**
+
+- [PKGs do Appstorrent](https://appstorrent.ru/os/) - Imagens de diferentes versões do Mac para criar pendrives bootáveis com hackintosh.
+- [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
+- [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - Script do Macked para crackear apps CC.
+- **[Trialware]** [Crossover](https://www.codeweavers.com/crossover) - Faz o papel de rodar jogos do Windows no MacOS.
+- **[Trialware]** [AlDente](https://apphousekitchen.com/) -
+- Little Snitch: Limita o uso da Internet e envio de dados para servidores específicos
+- https://github.com/dortania/OpenCore-Legacy-Patcher: Destinado para Macs antigos que não suportam a versão atual do sistema.
 
 ## ► **Adblockers & Bypassers**
 
