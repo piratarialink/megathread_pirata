@@ -419,7 +419,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 - [Open Cloud Saves](https://opencloudsaves.com/) - Open Cloud Save é um aplicativo gratuito que permitirá sincronizar seus dados salvos em todos os seus dispositivos. Roda em Windows, MacOS e Linux.
-- [ProtonDB](https://www.protondb.com/) - Banco de relatórios de jogos que rodam e não rodam em distros Linux. [Leitura interessante](https://plus.diolinux.com.br/t/execute-jogos-windows-no-linux-com-o-proton-da-steam/38745).
+- [ProtonDB](https://www.protondb.com/) - Banco de relatórios de jogos que rodam e não rodam em distros Linux. [Leitura interessante](https://plus.diolinux.com.br/t/execute-jogos-windows-no-linux-com-o-proton-da-steam/38745)
 - [Better xCloud](https://github.com/redphx/better-xcloud) - Userscript para melhorar a jogatina da Xbox Cloud e da Remote Play em navegadores.
 - [Smart Online Fix](https://github.com/BadKiko/steam-online-fix-launcher) - Ferramenta para iniciar e organizar jogos do online-fix-me no Linux.
 
@@ -429,21 +429,23 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Steam Content Packager](https://cs.rin.ru/forum/viewtopic.php?f=29&t=77526) - Ferramenta para limpar arquivos Steam. Empacota seus arquivos do jogo Steam enquanto remove informações de identificação com o objetivo de compartilhá-los com o subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) do cs.rin.ru
 - [Goldberg Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - Emulador Steam. Crackeie seu próprio jogo Steam ou os arquivos Steam limpos compartilhados no subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) do cs.rin.ru
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Emulador Steam. 
-- [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Outro emulador Steam
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Desbloqueie todas as DLCs em jogos Steam legítimos
-- [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) - Instala e configura automaticamente o CreamAPI para jogos Steam
-- [Steamless](https://github.com/atom0s/Steamless) - Remove o SteamStub DRM dos executáveis ​​do jogo Steam se eles o contiverem. Para ser usado em conjunto com um emulador Steam se o emulador sozinho não for suficiente para quebrar a proteção do jogo
+- [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Outro emulador Steam.
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Desbloqueie todas as DLCs em jogos Steam legítimos.
+- [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) - Instala e configura automaticamente o CreamAPI para jogos Steam.
+- [Steamless](https://github.com/atom0s/Steamless) - Remove o SteamStub DRM dos executáveis ​​do jogo Steam se eles o contiverem. Para ser usado em conjunto com um emulador Steam se o emulador sozinho não for suficiente para quebrar a proteção do jogo.
 
 #### ► **Ferramentas para a Epic Games**
 
 - [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Desbloqueador de DLC para o Epic Online Services. Funciona apenas para jogos que você possui. Recursos como multijogador, conquistas, etc. permanecem totalmente funcionais.
 - [Free-games-claimer](https://github.com/vogler/free-games-claimer) - Automaticamente reinvidica jogos gratuitos da Epic Store.
 
-#### ► **Ferramentas para Emuladores**
+#### ► **Emuladores**
+
 - [Wii U USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) - Ferramenta para baixar jogos de Wii U e muito mais (coloque titlekeys.ovh no campo de Para o Wii U)
-- [Wii U Downloader](https://github.com/Xpl0itU/WiiUDownloader/releases/tag/v2.66) - Feito para baixar jogos de WiiU diretamente dos servidores da Nintendo. É atualizado quase que diariamente ao contrário do USB Helper.
-  
-Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=29).
+- [Wii U Downloader](https://github.com/Xpl0itU/WiiUDownloader/releases/tag/v2.66) - Feito para baixar jogos (nus) de WiiU diretamente dos servidores da Nintendo. É atualizado quase que diariamente ao contrário do USB Helper.
+- [RetroReversing](https://www.retroreversing.com/) - Artigos de engenharia reversa voltada para retrocompatibilidade.
+- [RetroSix Wiki](https://www.retrosix.wiki/) - Explica o funcionamento e reparo de consoles retrô de uma forma simples e didática.
+- [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor/pt-br) - Dedicado a desvendar e pesquisar conteúdo removido ou inutilizado de jogos antigos.
 
 ## ► **Ferramentas Diversas**
 
