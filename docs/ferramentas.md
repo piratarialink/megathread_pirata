@@ -63,7 +63,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
 - [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - Script do Macked para crackear apps CC.
 - **[Trialware]** [Crossover](https://www.codeweavers.com/crossover) - Faz o papel de rodar jogos do Windows no MacOS.
-- **[Trialware]** [AlDente](https://apphousekitchen.com/) - 
+- **[Trialware]** [AIDente](https://apphousekitchen.com/) - Aumenta a vida útil da bateria do MacBook.
 - [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - Limita o uso da Internet e envio de dados para servidores específicos.
 - [OpenCore](https://github.com/dortania/OpenCore-Legacy-Patcher) - Para Macs antigos que não suportam a versão atual do sistema.
 
@@ -242,7 +242,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto de vários sites e muito mais.
 - [Côc Côc](https://coccoc.com/) - Navegador vietnamita que baixa vídeos da hotmart/kiwify apenas no PC.
-- [Downie](https://software.charliemonroe.net/downie/) - Downloader exclusivo do MacOS que pode baixar arquivos de múltiplos sites.
+- **[Trialware]** [Downie](https://software.charliemonroe.net/downie/) - Downloader exclusivo do MacOS que pode baixar arquivos de múltiplos sites.
 - [Cleverget](https://cleverget.org/) - Baixa vídeos de diversas plataformas no PC.
 - [1DM](https://www.apps2sd.info/idmp/faq) - Baixa vídeos de diversas plataformas no Android.
 - **[Pago]** [1DM+](https://tekmods.com/1dm-browser-video-audio-torrent-downloader/) - Pode obter documentos maiores que 1MB do Doceru.
