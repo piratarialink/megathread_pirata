@@ -110,6 +110,11 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Distribui aplicativos desbloqueados da Apple e da Adobe.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/haxmac.cc)
 
+### 🔗 [Macked](https://macked.app) • MacOS • Interface em chinês
+
+- Ainda segue em atividade, um dos primeiros sites de pirataria de softwares para produtos Apple.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/macked.app/)
+  
 ### 🔗 [MSJ](https://www.macserialjunkie.com/forum/) • Cadastre-se • MacOS
 
 - Bom fórum de discussão onde os membros da comunidade discutem tudo sobre o MacOS e trocam softwares e jogos crackeados.
