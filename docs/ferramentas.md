@@ -59,7 +59,11 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► **Ferramentas para MacOS**
 
-- [PKGs do Appstorrent](https://appstorrent.ru/os/) - Imagens de diferentes versões do Mac para criar pendrives bootáveis com hackintosh.
+:::tip O FMHY tem uma seção dedicada ao [Hackintosh](https://fmhy.net/system-tools#hackintosh)
+:::
+
+- 🌟 [**gibMacOS**](https://github.com/corpnewt/gibMacOS) - Instale o MacOS em sistemas operacionais que não pertencem a Apple. [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
+- [PKGs do Appstorrent](https://appstorrent.ru/os/) - Mesmo conceito do gibMacOS: Imagens de diferentes versões do Mac para criar pendrives bootáveis com hackintosh.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
 - [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - Script do Macked para crackear apps CC.
 - **[Trialware]** [CrossOver](https://www.codeweavers.com/crossover) - Faz o papel de rodar jogos do Windows no MacOS.
