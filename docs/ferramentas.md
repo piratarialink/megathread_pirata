@@ -240,34 +240,34 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Ferramentas de download
 
 - [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto de vários sites e muito mais.
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto e muito mais.
 - [Côc Côc](https://coccoc.com/) - Navegador vietnamita que baixa vídeos da hotmart/kiwify apenas no PC.
-- **[Trialware]** [Downie](https://software.charliemonroe.net/downie/) - Downloader exclusivo do MacOS que pode baixar arquivos de múltiplos sites.
+- **[Trialware]** [Downie](https://software.charliemonroe.net/downie/) - Downloader exclusivo do MacOS que pode baixar múltiplos arquivos (não apenas do youtube).
 - [Cleverget](https://cleverget.org/) - Baixa vídeos de diversas plataformas no PC.
 - [1DM](https://www.apps2sd.info/idmp/faq) - Baixa vídeos de diversas plataformas no Android.
 - **[Pago]** [1DM+](https://tekmods.com/1dm-browser-video-audio-torrent-downloader/) - Pode obter documentos maiores que 1MB do Doceru.
 - **[Pago]** [Tubedigger](https://www.tubedigger.com/) - Baixa vídeos da hotmart em alguns casos apenas.
-- 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de sites. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente.
+- 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de páginas. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente.
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - Frontend para o yt-dlp.
 - 🌟 [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade.
 - [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos.
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy.
-- [Allvasoft](https://www.allavsoft.com/) - Downloader de vídeos.
+- [Allvasoft](https://www.allavsoft.com/) - Downloader de mídia.
 - [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injetor para despejar aplicativos UWP.
-- [gallery-dl](https://github.com/mikf/gallery-dl) - gallery-dl é um programa de linha de comando para baixar galerias e coleções de imagens de vários sites de hospedagem de imagens.
+- [gallery-dl](https://github.com/mikf/gallery-dl) - gallery-dl é um programa de linha de comando para baixar galerias e coleções de imagens de vários hosts de imagens.
 - [Fetchv](https://fetchv.net/pt-br) - Downloader de vídeos
-- [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Download em massa de episódios de anime para vários sites, em várias resoluções, com ou sem episódios de preenchimento.
+- [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Baixa em massa de episódios de anime para vários sites, em várias resoluções, com ou sem episódios de preenchimento.
 - [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp.
 - [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download.
 - [Download Manager](https://github.com/amir1376/ab-download-manager) - Aplicativo para desktop que o ajuda a organizar e manter seus downloads.
 - [MPMux](https://mpmux.com/) - Pode baixar vídeos no formato HLS, .m3u8, MP4 e WebM.
-- [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar vídeos de várias plataformas.
-- **[Trialware]** [StreamFab](https://streamfab.com/) - Focado em download para plataformas de streaming. Baixa vídeos da Globoplay.
+- [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar mídias de vários domínios.
+- **[Trialware]** [StreamFab](https://streamfab.com/) - Focado em download para plataformas de streaming. Consegue baixar da Globoplay.
 - [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 GiB por 6 horas do Mega.
 - [Skillshare-dl](https://github.com/mrwnwttk/skillshare-dl) - Baixe do skillshare. [Tópico original.](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/)
 - [Outro Skillshare-dl](https://github.com/KENWAY/Skillshare-DL) - Baixe do skillshare
-- [Firedown](https://www.firedown.app/) - Downloader de vídeos.
+- [Firedown](https://www.firedown.app/) - Mais um downloader de vídeos.
 - [Baixar do Soundcloud](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/) - Extensão do Firefox. Tópico original [aqui](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/). Por /u/ImTwain.
 - **[Pago]** [Katomart](https://katomart.com/) - Aplicativo em fase de testes que faz o download de vídeos de plataformas EAD, tudo dentro da lei.
 - [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de GetComics.info facilmente
