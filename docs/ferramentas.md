@@ -62,7 +62,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [PKGs do Appstorrent](https://appstorrent.ru/os/) - Imagens de diferentes versões do Mac para criar pendrives bootáveis com hackintosh.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
 - [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - Script do Macked para crackear apps CC.
-- **[Trialware]** [Crossover](https://www.codeweavers.com/crossover) - Faz o papel de rodar jogos do Windows no MacOS.
+- **[Trialware]** [CrossOver](https://www.codeweavers.com/crossover) - Faz o papel de rodar jogos do Windows no MacOS.
 - **[Trialware]** [AIDente](https://apphousekitchen.com/) - Aumenta a vida útil da bateria do MacBook.
 - [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - Limita o uso da Internet e envio de dados para servidores específicos.
 - [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Para Macs antigos que não suportam a versão atual do sistema.
