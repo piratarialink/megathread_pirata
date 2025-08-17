@@ -112,7 +112,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ### 🔗 [Macked](https://macked.app) • MacOS • Interface em chinês
 
-- Ainda segue em atividade, um dos primeiros sites de pirataria de softwares para produtos Apple.
+- Pioneiro na pirataria de softwares para produtos Apple. Ainda segue em atividade (agora cobra por alguns cracks).
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/macked.app/)
   
 ### 🔗 [MSJ](https://www.macserialjunkie.com/forum/) • Cadastre-se • MacOS
