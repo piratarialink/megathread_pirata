@@ -52,8 +52,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ### 🔗 [Apps Torrent](https://appstorrent.ru/) • MacOS
 
-- Blog russo extremamente útil para usuários da Apple.
-  **Use tradutor.**
+- Blog russo extremamente útil para usuários da Apple. Também ensina através de posts a como instalar programas e desativar o SIP.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/appstorrent.ru/)
 
 ### 🔗 [Audio wareZ](https://audioz.download/)
@@ -116,6 +115,11 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Bom fórum de discussão onde os membros da comunidade discutem tudo sobre o MacOS e trocam softwares e jogos crackeados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/macserialjunkie.com/)
 
+### 🔗 [MacBB](https://macbb.org/) • MacOS
+
+- Fonte inesgotável de pirataria relacionada ao sistema operacional da Apple.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/macbb.org/)
+  
 ### 🔗 [MAD](https://www.macappdownload.com/) • MacOS
 
 - Vários aplicativos MacOS disponíveis, cobrindo uma ampla variedade. No entanto, o site usa hosts de arquivos premium, o que não é amigável para usuários gratuitos.
@@ -270,6 +274,8 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 - Tracker semi-privado russo.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nnm-club.me/)
+
+### 🧲 [Project 
 
 ‎
 ‎
