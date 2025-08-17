@@ -18,7 +18,7 @@
 
 **Convites**: Geralmente os melhores sites para achar os arquivos precisam de convites para entrar, pois são privados, dito isto toda compra, venda, troca de convites é proibida na comunidade BR e na estrangeira, caso te peguem cometendo uma dessas ações terá sua conta banida. Busque por doações, e para facilitar busque fazer amizades e conhecer as pessoas que possam te convidar.
 
-**Torrent**: Termo referente à uma extensão de arquivos utilizados por um protocolo de transferência do tipo P2P.
+**Torrent**: Termo referente à uma extensão de arquivos utilizados por um protocolo de transferência do tipo P2P. Torrents são uma forma de obter _files_ de diversos formatos e tamanhos sem depender de hosts de link DDL como Mega.NZ ou Mediafire, isso através de um simples item _.torrent_ com _KBs_ de armazenamento.
 
 **Nuvem**: Local para armazenar virtualmente os seus arquivos sem ser no seu PC, como Google Drive, dropbox, onedrive, entre outros.
 
