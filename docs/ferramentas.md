@@ -419,6 +419,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 - [Open Cloud Saves](https://opencloudsaves.com/) - Open Cloud Save é um aplicativo gratuito que permitirá sincronizar seus dados salvos em todos os seus dispositivos. Roda em Windows, MacOS e Linux.
+- [ProtonDB](https://www.protondb.com/) - Banco de relatórios de jogos que rodam e não rodam em distros Linux. [Leitura interessante](https://plus.diolinux.com.br/t/execute-jogos-windows-no-linux-com-o-proton-da-steam/38745).
 - [Better xCloud](https://github.com/redphx/better-xcloud) - Userscript para melhorar a jogatina da Xbox Cloud e da Remote Play em navegadores.
 - [Smart Online Fix](https://github.com/BadKiko/steam-online-fix-launcher) - Ferramenta para iniciar e organizar jogos do online-fix-me no Linux.
 
