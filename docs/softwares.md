@@ -278,7 +278,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🧲 [Phoenix Project](https://phoenixproject.app/) • MacOS
 
 - Substituto do iAnon, contém um amplo repositório de aplicativos e DAWs para Macbook.
-- Peça um convite pelo [IRC oficial](irc://irc.phoenixproject.app:+6697).
+- Peça um convite pelo IRC oficial: `irc://irc.phoenixproject.app:+6697`.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/phoenixproject.app/)
 
 ‎
