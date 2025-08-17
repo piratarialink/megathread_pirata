@@ -21,6 +21,7 @@
 - Configurar o navegador para excluir todos os dados sempre que você for fechá-lo (histórico, cookies, senhas, etc.): isso diminui a possibilidade de ter as contas invadidas e você não precisa se preocupar em caso de acesso não autorizado ao seu dispositivo
 - VPN: IVPN com Multihop ou Mullvad
 - Email: systemli.org, mailbox.org + systemli.org com Thunderbird + uBlock Origin ou Cock.li (Servidor XMPP) + TailOS
+- Encriptação de Email: GnuPG ou GPG4WIN no Windows
 - Armazenamento: HD ou SSD com Veracrypt
 - Criptografia: Cryptomator e Veracrypt (AES-128-GCM, XChaCha20-Poly1305) [[1]](https://pirataria.link/guias/quero-privacidade#_1-post-do-usuario-margaret-no-exilio-endereco-onion)
 - Nuvem: systemli.org, NextCloud (chaves PGP, backup e armazenar KeePassXC)
