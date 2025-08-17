@@ -52,7 +52,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ### 🔗 [Apps Torrent](https://appstorrent.ru/) • MacOS
 
-- Blog russo extremamente útil para usuários da Apple com artigos que mostram como desativar o Gatekeeper da Apple, e ter controle total sobre o terminal de comando.
+- Blog russo extremamente útil para usuários da Apple com artigos que demonstram como desativar o Gatekeeper e ter controle total sobre o terminal de comando.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/appstorrent.ru/)
 
 ### 🔗 [Audio wareZ](https://audioz.download/)
