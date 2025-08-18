@@ -65,10 +65,11 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - 🌟 [**gibMacOS**](https://github.com/corpnewt/gibMacOS) - Instale o MacOS em hardwares que não pertencem a Apple. [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
 - [PKGs do Appstorrent](https://appstorrent.ru/os/) - Mesmo conceito do gibMacOS: Imagens de diferentes versões do Mac para criar pendrives bootáveis com hackintosh.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
+- [UTM](https://github.com/utmapp/UTM/releases) - VM baseada no QEMU.
 - [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - Script do Macked para crackear apps CC.
 - **[Trialware]** [CrossOver](https://www.codeweavers.com/crossover) - Faz o papel de rodar jogos do Windows no MacOS.
 - **[Trialware]** [AIDente](https://apphousekitchen.com/) - Aumenta a vida útil da bateria do MacBook.
-- [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - Limita o uso da Internet e envio de dados para servidores específicos.
+- **[Pago]** [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - Limita o uso da Internet e envio de dados para servidores específicos.
 - [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Para Macs antigos que não suportam a versão atual do sistema.
 
 ## ► **Adblockers & Bypassers**
