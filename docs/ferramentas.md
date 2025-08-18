@@ -41,7 +41,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Centralize os ícones da barra de tarefas do Windows com uma variedade de animações e opções.
 - [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à experiência moderna do Windows
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Uma lista incrível e selecionada dos melhores aplicativos e ferramentas para Windows.
-- 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto.
+- 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto. [Artigo](https://www.tomshardware.com/software/windows/how-to-tweak-your-windows-11-and-windows-10-setup-with-winaero-tweaker-easily-remove-ads-tracking-ai-copilot-and-more)
 
 ## ► **Downloads modificados/intactos do Windows e do Office**
 
