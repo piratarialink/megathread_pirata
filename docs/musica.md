@@ -89,6 +89,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Site maravilhoso e confiável para adquirir música asiática, principalmente utilizando o host de arquivos Mega.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/sukidesuost.info/)
 
+### 🔗 [RMW](https://rock -metal-wave.ru/)
+
+- Rock pauleira e metal em FLAC, use um tradutor como o Google ou a extensão Translate This Page no Firefox.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rock-metal-wave.ru/)
+
 ### 🔗 [BestMP3Converter](https://www.bestmp3converter.com/)
 
 - Permite obter arquivos de áudio de vídeos do YouTube gratuitamente em qualidade de 320kbps.
