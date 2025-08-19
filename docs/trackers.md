@@ -144,7 +144,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [GazelleGames](https://gazellegames.net) | GGn
 
-- Focado em games
+- O maior tracker de videogames do mundo.
 - Pode ser acessado por meio do OPS ou RED. Ambos exigem PU e conta com 3 meses.
 
 ### 🧲 [HD-Torrents](https://hd-torrents.org/register.php) | HDT | €35
