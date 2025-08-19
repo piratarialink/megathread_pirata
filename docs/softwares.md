@@ -254,12 +254,12 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ## 🔑 ➜ Keygens & Serials
 
-:::danger Atenção: Esse tipo de recurso não está disponível no FMHY pois a equipe que administra o site considera keygens e serials de alto risco. Faça testes com uma VM primeiro.
+:::danger Atenção: Estes recursos não estão listados no FMHY pois a equipe que administra o site os considera de alto risco. Faça testes com uma VM primeiro.
 :::
 
 ### 🔗 [MiniDL.org](https://minidl.org/) - Windows & MacOS.
 
-- Windows & MacOS, recomendamos que leia a seção de [burladores de links da premium](https://pirataria.link/ferramentas#%E2%96%BA-burladores-de-links-premium) para baixar do nitroflare ou rapidgator.
+- Windows & MacOS, recomendamos que leia a seção de [burladores de links premium](https://pirataria.link/ferramentas#%E2%96%BA-burladores-de-links-premium) para baixar do nitroflare ou rapidgator.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/minidl.org/)
   
 ### 🔗 [SerialShack](https://www.serialshack.com/) 
