@@ -26,7 +26,7 @@
 - Criptografia: Cryptomator e Veracrypt (AES-128-GCM, XChaCha20-Poly1305) [[1]](https://pirataria.link/guias/quero-privacidade#_1-post-do-usuario-margaret-no-exilio-endereco-onion)
 - Nuvem: systemli.org, NextCloud (chaves PGP, backup e armazenar KeePassXC)
 - Navegador: Firefox + uBlock Origin + oisd.nl + Containers + arkenfox.js
-- Chat: Lemmy, SimpleX, Mastodon, XMPP e systemli.org Matrix
+- Chat: Lemmy, SimpleX, Mastodon, XMPP e systemli.org
 - Android: GrapheneOS ou LineageOS
 - Desktop: Linux com LUKS
 - Provedor de dominio: Njalla, Sarek Oy, Porkbun, Cloudflare ou BasedFlare
