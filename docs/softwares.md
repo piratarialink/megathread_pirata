@@ -252,9 +252,29 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Temas e plugins para o WordPress.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/codelist.cc/)
 
-## 🔦 ➜ Buscadores
+## 🔑 ➜ Keygens & Serials
 
-### 🔍 [Buscador de Software Rave](https://ravesoftwaresearch.pages.dev/)
+:::danger Atenção: Esse tipo de recurso não está disponível no FMHY pois a equipe que administra o site considera keygens e serials de alto risco. Faça testes com uma VM primeiro.
+:::
+
+### 🔗 [MiniDL.org](https://minidl.org/) - Windows & MacOS.
+
+- Windows & MacOS
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/minidl.org/)
+  
+### 🔗 [SerialShack](https://www.serialshack.com/) 
+
+- Um dos sites mais antigos de serials ainda online.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/www.serialshack.com/)
+  
+### 🔗 [SmartSerials](https://smartserials.com/) 
+
+- Antigo fórum que passou a ser indexador de serials.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/smartserials.com/)
+  
+## 🔍 ➜ Buscadores
+
+### 🔗 [Buscador de Software Rave](https://ravesoftwaresearch.pages.dev/)
 
 - Os usuários são ajudados pelo mecanismo de busca a encontrar downloads de software gratuito. Inclui interface com novos links, bem como uma lista de sites atualizados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ravesoftwaresearch.pages.dev/)
