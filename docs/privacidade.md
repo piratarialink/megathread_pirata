@@ -153,17 +153,6 @@ Um sistema operacional mobile privado e seguro com compatibilidade de aplicativo
 
 ![LineageOS](./images/lineage_os.jpg)
 
-## [Matrix](https://matrix.org/)
-
-Matrix.org é uma plataforma aberta e descentralizada de comunicação e colaboração em tempo real. Ela permite que os usuários se comuniquem através de mensagens instantâneas, chamadas de voz e vídeo, compartilhamento de arquivos e outros recursos colaborativos. O Matrix.org é construído em torno de um protocolo aberto e federado, o que significa que diferentes servidores podem se comunicar entre si, permitindo uma rede descentralizada de comunicação. Isso oferece maior segurança, privacidade e controle sobre os dados dos usuários, além de possibilitar a interoperabilidade entre diferentes aplicativos e plataformas. O Matrix.org é amplamente utilizado em diversos contextos, desde mensagens instantâneas entre indivíduos até salas de chat colaborativas em equipes de trabalho e comunidades online.
-
-:::info Existem várias outras instâncias, o Matrix.org é uma das instâncias disponíveis
-:::
-
-### [Element](https://element.io/)
-
-O Element é um cliente de comunicação para a plataforma Matrix.org. Ele oferece uma interface de usuário intuitiva e recursos avançados para mensagens instantâneas, chamadas de voz e vídeo, compartilhamento de arquivos e colaboração em tempo real. O Element é conhecido por sua segurança e privacidade, usando criptografia de ponta a ponta para proteger as conversas dos usuários. Além disso, ele é altamente personalizável e suporta integrações com outras ferramentas e serviços. O Element é uma escolha popular para indivíduos e organizações que buscam uma solução de comunicação descentralizada, segura e escalável.
-
 ## Criptografia de disco
 
 ### [Veracypt](https://www.veracrypt.fr/en/Home.html)
