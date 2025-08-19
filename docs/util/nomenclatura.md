@@ -14,7 +14,8 @@
 
 **P2P**: Peer to Peer (pessoa para pessoa ou ponto a ponto), uma rede distribuída de computadores em que cada computador é um cliente e servidor ao mesmo tempo.
 
-**Tracker**: Organizador de toda a distribuição que contém todas as informações necessárias para que os pares se conectem usando o protocolo BitTorrent, comumente associamos tracker à sites torrents que compartilham via torrent.
+**Tracker**: Organizador de toda a distribuição que contém todas as informações necessárias para que os pares se conectem usando o protocolo BitTorrent, comumente associamos tracker à sites torrents que compartilham via torrent. 
+No geral, os benefícios de se ter um tracker (sobretudo privado) é ter uma variedade de torrents disponiveis com tempo de download melhor por justamente ter vários peers semeando.
 
 **Convites**: Geralmente os melhores sites para achar os arquivos precisam de convites para entrar, pois são privados, dito isto toda compra, venda, troca de convites é proibida na comunidade BR e na estrangeira, caso te peguem cometendo uma dessas ações terá sua conta banida. Busque por doações, e para facilitar busque fazer amizades e conhecer as pessoas que possam te convidar.
 
