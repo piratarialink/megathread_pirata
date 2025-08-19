@@ -259,7 +259,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ### 🔗 [MiniDL.org](https://minidl.org/) - Windows & MacOS.
 
-- Windows & MacOS, recomendamos que leia o trecho de [burladores de links premium](https://pirataria.link/ferramentas#%E2%96%BA-burladores-de-links-premium) para baixar do nitroflare ou rapidgator.
+- Windows & MacOS, recomendamos que leia o trecho sobre [burladores de links premium](https://pirataria.link/ferramentas#%E2%96%BA-burladores-de-links-premium) para baixar do nitroflare ou rapidgator.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/minidl.org/)
   
 ### 🔗 [SerialShack](https://www.serialshack.com/) 
