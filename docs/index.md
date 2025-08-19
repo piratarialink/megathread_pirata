@@ -25,11 +25,11 @@ features:
     title: Aviso!
     details: Na Megathread, links confiáveis que antes eram seguros podem ocasionalmente se tornar perigosos. Sempre tenham cuidado ao navegar nos mares.
   - icon:
-      dark: /matrix-logo-dark.svg
-      light: /matrix-logo.svg
-    title: Chat no Matrix
-    details: O Matrix é uma plataforma de rede social de comunicação por chat descentralizada. Estilo Telegram e WhatsApp.
-    link: "https://matrix.to/#/#deck_pirata:matrix.org"
+      dark: /lemmy_244210.svg
+      light: /lemmy_244210.svg
+    title: Comunidade no Lemmy
+    details: O Lemmy é uma rede social altamente confiável imune a ataques de DMCA. Estilo Reddit.
+    link: "https://lemmy.dbzer0.com/c/pirataria"
   - icon: ⭐
     title: Grupo do Telegram
     details: No nosso grupo do telegram temos mais de 2 mil pessoas trocando informações e dicas.
