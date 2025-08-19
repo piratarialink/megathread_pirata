@@ -419,7 +419,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 #### ► **Geral**
 
 - [CapFrameX](https://github.com/CXWorld/CapFrameX?tab=readme-ov-file) - Usa o overlay do RivaTuner para capturar o framerate durante o gameplay. O RTSS é somente um componente, o programa em si não é instalado no seu computador.
-- [**Simplaza-org**](https://www.simplaza.org) - Site para download de addons, aeronaves e cenários para o Microsot Flight Simulator 2020 (MSFS2020).
+- [Simplaza-org](https://www.simplaza.org) - Site para download de addons, aeronaves e cenários para o Microsot Flight Simulator 2020 (MSFS2020).
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 - [Rclone](https://github.com/rclone/rclone) - Responsável por transferir seus saves de jogos crackeados para a nuvem. Roda como CLI apenas.
