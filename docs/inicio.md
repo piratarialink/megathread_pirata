@@ -42,7 +42,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 :::info ⭐ Marque esta URL como favorita
 
 - O [r/pirataria](https://www.reddit.com/r/pirataria/) é o maior ponto de encontro da comunidade pirata.
-- O [c/pirataria](https://phtn.app/c/pirataria@lemmy.dbzer0.com) é nosso porto seguro (_imune a ataques do DMCA_).
+- O [c/pirataria](https://lemmy.dbzer0.com/c/pirataria) é nosso porto seguro (_imune a ataques do DMCA_).
 
 💡 **Dica:** Salve estas URLs como favoritos. Elas são a bússola para onde nossos navios estão atracados no momento.
 :::
