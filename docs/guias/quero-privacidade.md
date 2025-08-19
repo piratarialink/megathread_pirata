@@ -23,7 +23,7 @@
 - Email: systemli.org, mailbox.org + systemli.org com Thunderbird + uBlock Origin ou Cock.li (Servidor XMPP) + TailOS
 - Encriptação de Email: GnuPG ou GPG4WIN no Windows
 - Armazenamento: HD ou SSD com Veracrypt
-- Criptografia: Cryptomator e Veracrypt (AES-128-GCM, XChaCha20-Poly1305) [[1]](https://pirataria.link/guias/quero-privacidade#_1-post-do-usuario-margaret-no-exilio-endereco-onion)
+- Criptografia: Cryptomator e Veracrypt (AES-128-GCM, XChaCha20-Poly1305)
 - Nuvem: systemli.org, NextCloud (chaves PGP, backup e armazenar KeePassXC)
 - Navegador: Firefox + uBlock Origin + oisd.nl + Containers + arkenfox.js
 - Chat: Lemmy, SimpleX, Mastodon, XMPP e systemli.org
@@ -43,8 +43,8 @@
 - É possível comprar outra moeda e fazer exchange para Monero, esse tipo de troca deixa rastros insignificantes. 
 Melhor caminho: **p2p** ➜ **BRL** ➜ **BTC** ➜ **XMR** ➜ [**Cold Wallet**](https://www.getmonero.org/pt-br/downloads/index.html) (sempre receber numa wallet disposable e transferir para a sua).
 - Cobrar e receber por serviços: pessoalmente ou através de plataformas de escrow como o [FairTrade](http://fairfffoxrgxgi6tkcaxhxre2hpwiuf6autt75ianjkvmcn65dxxydad.onion/escrow) por exemplo.
-- **O IDEAL É RODAR MONERO LOCALMENTE NO SEU PRÓPRIO NODE PARA NÃO CORRER O RISCO DE SER RASTREADO.**
-Mas caso você esteja usando um dispositivo móvel, uma abordagem interessante é filtrar e usar nodes conectados à rede TOR (via [ORBOT](https://github.com/guardianproject/orbot-android)) deste site aqui: https://xmr.ditatompel.com/ [[2]](https://pirataria.link/guias/quero-privacidade#_2-reddit).
+- **O IDEAL É RODAR MONERO [LOCALMENTE](https://sethforprivacy.com/guides/run-a-monero-node/) NO SEU PRÓPRIO NODE PARA NÃO CORRER O RISCO DE SER RASTREADO.**
+Mas caso você esteja usando um dispositivo móvel, uma abordagem interessante é filtrar e usar nodes conectados à rede TOR (via [ORBOT](https://github.com/guardianproject/orbot-android)) deste site aqui: https://www.ditatompel.com/monero/remote-node [[1]](https://pirataria.link/guias/quero-privacidade#_1-dread-endere%C3%A7o-onion).
 
 
 :::warning O projeto pirataria se compromete em recomendar apenas o que na nossa visão é seguro e confiável.
@@ -54,10 +54,8 @@ Mas caso você esteja usando um dispositivo móvel, uma abordagem interessante �
 ‎ 
 ### Créditos:
 ‎ 
-
-##### - [1] [Post do usuário Margaret no Exílio (endereço onion)](http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion/7608/apagamento-seguro-de-dados-ssd-2)
 ‎
-##### - [2] [Reddit](https://www.reddit.com/r/Monero/comments/1juzt0g/public_monero_remote_nodes_list_xmrditatompelcom/)
+##### - [1] [Dread (endereço onion)](https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/Monero/wiki?id=0d4cc7df)
 
 ‎ 
 ---
