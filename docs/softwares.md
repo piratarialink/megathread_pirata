@@ -186,7 +186,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [Install IDM](https://rentry.org/installidm)
 
 - Tutorial que ensina a ativar o Internet Download Manager.
-- Se estiver com alguma suspeita, rode o patcher dentro de uma VM ou [tente isso aqui](https://github.com/lstprjct/IDM-Activation-Script).
+- Se não dar certo, [tente isso aqui](https://github.com/lstprjct/IDM-Activation-Script).
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/)
 
 ## 🎨 ➜ Pacotes de recursos
