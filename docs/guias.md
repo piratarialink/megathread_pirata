@@ -6,7 +6,7 @@ Guias úteis para ajudá-lo em suas viagens marítimas.
 
 Nesta guia, iremos mostrar o benefício de utilizar a ferramenta de automação Autobrr para baixar automaticamente torrents que são lançados nos trackers.
 
-## 📑 ➜ [Burlando o Limite de Download do Mega](guias/burlando-limite-mega.md)
+## 📑 ➜ [Burlando o limite de download do mega](guias/burlando-limite-mega.md)
 
 Para evitar o limite de cota de download no Mega, siga estas etapas deste guia simples. Após baixar o programa necessário, configure sua conta Mega e explore opções como proxies e contas adicionais para desfrutar de downloads sem interrupções. Com essas técnicas, você poderá fazer download de arquivos no Mega sem restrições.
 
