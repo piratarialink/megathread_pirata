@@ -146,7 +146,6 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Doceru Userscript](https://github.com/etoshy/Doceru-Userscript) - Extrai livros e documentos do docer.ar, docubra.com e doceru.com sem a necessidade de abrir o menu do inspecionar — com botão de download e barra de progresso.
 - [Passei Direto Bypass](https://greasyfork.org/en/scripts/480840-passei-direto-bypass) - Desembaça respostas no site da Passei Direto.
 - [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Permite a cópia de texto de sites que tentam impedir a cópia.
-- [absolute-enable-right-click-and-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) - Permite clicar com o botão direito e copiar em sites que tentam impedir isso, pode remover também proteções anti cópia para vídeos e imagens.
 - [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adiciona botão ao lado de links encurtados que resolve o URL para sua localização verdadeira.
 - [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Permite selecionar/realçar links em vez do comportamento padrão de arrastá-los.
 - [Botão Sci-hub](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adiciona um botão sci-hub a inúmeros sites de artigos acadêmicos/acadêmicos para desbloquear o artigo que está sendo visualizado.
@@ -335,6 +334,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► **Extensões**
 
 - [PopUpOFF](https://popupoff.org/) - Impede que pop-ups e bloqueadores carreguem, componente essencial para quem detesta anúncios.
+- [Absolute Enable Right Click and Copy](https://addons.mozilla.org/pt-BR/firefox/addon/absolute-enable-right-click/) - Permite clicar com o botão direito e copiar em sites que tentam impedir isso, também pode remover proteções anti cópia para vídeos e imagens.
 - [Bitwarden](https://bitwarden.com/download/) - Une todas as suas senhas em um cofre à prova de _infostealers_, outras funções podem ser desbloqueadas pagando mas o plano gratuito já é suficiente.
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
 - [LocalCDN](https://www.localcdn.org/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
