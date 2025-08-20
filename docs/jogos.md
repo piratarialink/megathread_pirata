@@ -63,16 +63,18 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 ### 🔗 [Steam Ticket Generator](https://github.com/denuvosanctuary/steam-ticket-generator)
 
 - Método já recomendado pelo cs.rin.ru que consiste no compartilhamento do token denuvo de uma pessoa para outra. /	 [Discord](https://discord.gg/anti-denuvo-sanctuary) 
-
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+  
 ### 🔗 [Steam Auto Crack](https://github.com/SteamAutoCracks/Steam-auto-crack)
 
 - Usa o emulador Goldberg para jogos offline que só rodam com a licença da Steam. Não crackeia jogos com denuvo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ## 📥 ➜ Downloads diretos
 
 ### 🌟 [AnkerGames](https://ankergames.net/)
 
-- Jogos populares pré-instalados.
+- Jogos populares e nostálgicos zipados e pré-instalados para você não enfrentar qualquer estresse.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ankergames.net/)
 
 ### 🌟 [CS.RIN.RU: Steam Underground](https://cs.rin.ru/forum/) • Necessário Cadastro
@@ -85,7 +87,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 :::warning Sites com a combinação de nomes: Codex, Cpy, Skidrow, Hoodlum, Reloaded, Simplex, Darksiders, Plaza, etc. podem não ser seguros. Baixe com cautela.
 :::
 
-- Burla o Denuvo de alguns jogos.
+- Burla o Denuvo de alguns jogos e em alguns casos apenas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/skidrowcodex.net/)
 
 ### 🔗 [online-fix.me](https://online-fix.me/)
