@@ -74,7 +74,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🌟 [AnkerGames](https://ankergames.net/)
 
-- Jogos populares e nostálgicos zipados e pré-instalados para você não enfrentar qualquer estresse.
+- Jogos populares e nostálgicos zipados e pré-instalados para você não se estressar com pormenores.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ankergames.net/)
 
 ### 🌟 [CS.RIN.RU: Steam Underground](https://cs.rin.ru/forum/) • Necessário Cadastro
