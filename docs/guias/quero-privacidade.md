@@ -33,7 +33,7 @@
 - Meet: systemli.org, Jitsi
 - Moeda digital: Monero 
 - Hospedagem: Servers.guru ou Njalla
-- VPS: Linode, Dreamhost, Hetzner, DigitalOcean (caro mas confiável)
+- VPS: Dreamhost, Netcup, DigitalOcean (caro mas confiável)
 - Pesquisa: DuckDuckGo.com
 - Roteador: Qualquer um com OpenWRT, recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 
