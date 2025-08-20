@@ -14,7 +14,7 @@
 - Atente-se ao [OPSEC](https://pt.m.wikipedia.org/wiki/OPSEC): **Jamais** salve senhas pelo navegador, você pode ser vítima de infostealers, utilize um gerenciador como Bitwarden ou KeePassXC
 - Sempre que possìvel usar um email temporário em sites que não sejam importantes: use de um provedor como o emailnator.com ou guerrilla mail
 - Fotos, vídeos e outros arquivos: remover metadados (informações adicionais que revelam sua localização) com o exiftool ou online com o metadata2go
-- Verifique a procedência de URLs suspeitas: Confira o tempo de registro, selo SSL e certifique-se de que o CNPJ/CPF fornecido na página bate com o que é repassado por sites como [registro.br](https://registro.br/tecnologia/ferramentas/), siteconfiavel.com.br ou pelo próprio WHOIS da linha de comando do seu computador
+- Verifique a procedência de URLs suspeitas: Confira o tempo de registro, selo SSL e certifique-se de que o CNPJ/CPF fornecido na página bate com o que é repassado por sites como [registro.br](https://registro.br/tecnologia/ferramentas/), siteconfiavel.com.br ou [invertexto.com](https://www.invertexto.com/whois).
 
 ## O intermediário para privacidade
 
@@ -33,7 +33,6 @@
 - Meet: systemli.org, Jitsi
 - Moeda digital: Monero 
 - Hospedagem: Servers.guru ou Njalla
-- VPS: Dreamhost, Netcup, DigitalOcean (caro mas confiável)
 - Pesquisa: DuckDuckGo.com
 - Roteador: Qualquer um com OpenWRT, recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 
