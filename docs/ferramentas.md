@@ -381,7 +381,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► **Inteligência Artifical**
 
-- 🌟 [**LMArena**](https://lmarena.ai/?mode=direct) - Todos os chatbots pagos totalmente gratuitos e ilimitados.
+- [LMArena](https://lmarena.ai/?mode=direct) - **Quase** todos os chatbots pagos totalmente gratuitos e ilimitados.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Sem censura (pode não funcionar na maior parte das vezes).
