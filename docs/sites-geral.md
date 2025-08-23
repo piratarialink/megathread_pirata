@@ -114,7 +114,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🌟 [EXT Torrents](https://ext.to/)
 
-- Mecanismo de busca magnético versátil para downloads rápidos em diversos gêneros de mídia.
+- Mecanismo de busca magnético versátil para downloads rápidos de diversos gêneros de mídia.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ext.to/)
 
 ### 🧲 [iDope](https://idope.se/)
