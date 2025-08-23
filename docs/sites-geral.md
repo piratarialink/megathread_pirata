@@ -112,9 +112,9 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Excelente motor de busca BitTorrent DHT que reúne metadados e retorna links magnéticos em vez de armazenar material.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/btdig.com/)
 
-### 🧲 [EXT Torrents](https://ext.to/)
+### 🌟 [EXT Torrents](https://ext.to/)
 
-- Mecanismo de busca magnético versátil para downloads rápidos em diversos gêneros de mídia.
+- Mecanismo de busca magnético versátil para downloads rápidos de diversos gêneros de mídia.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ext.to/)
 
 ### 🧲 [iDope](https://idope.se/)
@@ -122,10 +122,10 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Pesquise anonimamente através desta grande coleção em homenagem ao KAT. Os usuários não são rastreados e seus endereços IP são removidos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/idope.se/)
 
-### 🧲 [Knaben Database](https://knaben.eu/)
+### 🌟 [Knaben Database](https://knaben.org/)
 
 - Reúne torrents por meio de uma impressionante ferramenta de indexação de múltiplos trackers.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/knaben.eu/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/knaben.org/)
 
 ### 🧲 [LimeTorrents](https://www.limetorrents.lol/)
 
