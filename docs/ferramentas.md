@@ -20,11 +20,10 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► **Ferramentas para Windows/Office**
 
-- 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. [**Guia**](guias/ativacao-office-win.md)
+- 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O HWID ativa permanentemente o Windows 10 e 11 e o modo KMS38 é mais voltado para LTSC/Enterprise. [**Guia**](guias/ativacao-office-win.md)
 - [Office C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte as instalações do Office Retail em licenças de volume.
 - [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Automatiza ativações de licença do Office e Windows. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL.
-- 🌟 [**HWID**](https://massgrave.dev/manual_hwid_activation) - Ativa permanentemente o Windows 10 e 11. Use o modo [KMS38](https://massgrave.dev/manual_kms38_activation) para LTSC/Enterprise.
 - [Microsoft Toolkit](https://gitlab.com/-/project/11037551/uploads/f73eea2588a1ba5e81e529658089b20d/MTKV274.7z) - Utilitário de multipropósito: pode ativar o Windows, editar componentes e gerir a licença. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Conjunto destinado a usuários avançados que permite renomear arquivos pelo RegEx e melhorar a UX para uma produtividade maior.
 - 🌟 [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário Windows de Chris Titus Tech - Instalar programas, ajustes, correções e atualizações.
