@@ -185,7 +185,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei
 - [Libre Torrent](https://github.com/proninyaroslav/libretorrent) - Ideal para smartphones.
 - [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto.
-- 🌟 [**Tixati**](https://www.tixati.com/download/) - Extremamente personalizável. Todos os menus podem ser reorganizados e o esquema de cores pode ser alterado completamente.
+- [Tixati](https://www.tixati.com/download/) - Extremamente personalizável. Todos os menus podem ser reorganizados e o esquema de cores pode ser alterado completamente.
 - [BiglyBT](https://www.biglybt.com/) - Cliente bittorrent repleto de recursos, código aberto, sem anúncios. Uma continuação do popular cliente anteriormente conhecido como Vuze.
 - [kTorrent](https://apps.kde.org/ktorrent/) - cliente Torrent para linux.
 - [rTorrent](https://github.com/rakshasa/rtorrent) - Cliente de torrent baseado em terminal para linux.
