@@ -65,7 +65,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ## 🍎 ➜ IOS
 
-### 🌟 [Sidestore](https://sidestore.io/) / [AlStore](https://altstore.io/) / [Scarlet](https://usescarlet.com/)
+### 🌟 [Sidestore](https://sidestore.io/) / [AltStore](https://altstore.io/) / [Scarlet](https://usescarlet.com/)
 
 - Permite instalar aplicativos fora da App Store sem necessidade de jailbreak.
 
