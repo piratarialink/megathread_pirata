@@ -339,7 +339,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados. Na minha opinião, a melhor ferramenta para customizar e escurecer sites.
 - [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site. Fork da extensão "I Don't Care about Cookies".
 - [Auto Referer](https://github.com/garywill/autoReferer?tab=readme-ov-file) - Controla o que é mandado como HTTP Referer em cada página (pode quebrar alguns sites se não for usado corretamente).
-- [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site. Também previne ataques XSS.
+- [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site e também previne ataques XSS. Comumente conhecido por vir pré-instalado no navegador Tor.
 - [Port Authority](https://github.com/ACK-J/Port_Authority/) - Defesa em tempo real contra ofensivas hackers do tipo _port scan_.
 - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - Extensão já recomendada pelo FMHY que impede que domínios usem APIs baseadas em JavaScript para coletar sua impressão digital.
 - [LocalCDN](https://www.localcdn.org/) - Redireciona requisições para as bibliotecas web mais comuns para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
