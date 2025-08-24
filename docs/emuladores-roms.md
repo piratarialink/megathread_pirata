@@ -1,4 +1,4 @@
-# 🕹️ ➜ Emuladores e ROMs
+# 🕹️ ➜ Emuladores
 
 Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são cópias digitais de videogames extraídas de um cartucho ou disco (que passam a se chamar ISOs.)
 
@@ -46,7 +46,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [Retro Games](https://retrogamesonline.io/)
 
-- Reconhece e manter a herança de numerosos videogames retro de vários sistemas e géneros.
+- Reconhece e mantém a herança de numerosos videogames retro de vários sistemas e géneros.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/retrogamesonline.io/)
 
 ### 🌟 [**SSega**](https://www.ssega.com/)
@@ -188,7 +188,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**Kega Fusion**](https://www.carpeludum.com/kega-fusion/) / [2](https://segaretro.org/Kega_Fusion) • Todos os consoles **lançados antes** Sega Saturn
 
-- Uma enorme ênfase na precisão, altamente otimizada e funciona muito bem.
+- Uma enorme ênfase na precisão, altamente otimizado e funciona muito bem.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/carpeludum.com/)
 
 ### 🔗 [redream](https://redream.io/) • Dreamcast
@@ -273,7 +273,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [Emu Games](https://www.emugames.net/)
 
-- Uma extensa variedade de ROMs para vários sistemas diferentes.
+- Uma extensa jogoteca para vários sistemas diferentes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/emugames.net/)
 
 ### 🔗 [Myrient](https://myrient.erista.me/)
