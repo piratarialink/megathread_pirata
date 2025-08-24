@@ -76,7 +76,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
 - A educação é o processo de adquirir conhecimento, habilidades e valores fundamentais para o desenvolvimento pessoal e social. Aqui você encontrará Cursos, e Recursos de Aprendizagem.
 
-### 🕹️ [Emuladores e ROMs](emuladores-roms.md)
+### 🕹️ [Emuladores](emuladores-roms.md)
 
 - Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são cópias digitais de videogames extraídas de um cartucho ou disco.
 
