@@ -75,7 +75,7 @@ export default {
           { text: "⛩️ Otaku", link: "otaku" },
           { text: "📚 Livros", link: "livros" },
           { text: "🧠 Educacional", link: "educacional" },
-          { text: "🕹️ Emuladores e ROMs", link: "emuladores-roms" },
+          { text: "🕹️ Emuladores", link: "emuladores-roms" },
           { text: "🎮 Jogos", link: "jogos" },
           { text: "📱 Mobile", link: "mobile" },
           { text: "🎦 Filmes e TV", link: "filmes-tv" },
