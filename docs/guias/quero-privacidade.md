@@ -53,6 +53,6 @@ Mas caso você esteja usando um dispositivo móvel, uma abordagem interessante �
 ‎ 
 ### Créditos:
 - [1] [Dread (endereço onion)](https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/Monero/wiki?id=0d4cc7df)
-
+- [OpSec Guide](https://raw.githubusercontent.com/whos-zycher/opsec-guide/refs/heads/main/guide.md)
 ‎ 
 ---
