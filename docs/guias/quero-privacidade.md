@@ -9,7 +9,7 @@
 - uBlock Origin: Javascript sempre desativado em sites novos
 - Navegador baseado em Chromium: Cromite
 - Não cruzar nomes em logins: sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
-- Trocar a senha do wi-fi e roteador: cole seu endereço IP na barra de URL do navegador
+- Colocar uma senha na BIOS do computador e trocar a senha do wi-fi/roteador (cole seu endereço IP na barra de URL do navegador)
 - Criar passwords com espaços e caracteres próprios da língua portuguesa: como `ç`, `~`, `'`
 - Atente-se ao [OPSEC](https://pt.m.wikipedia.org/wiki/OPSEC): **Jamais** salve senhas pelo navegador, você pode ser vítima de infostealers, utilize um gerenciador como Bitwarden ou KeePassXC
 - Sempre que possìvel usar um email temporário em sites que não sejam importantes: use de um provedor como o emailnator.com ou guerrilla mail
