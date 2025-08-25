@@ -183,6 +183,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Transmission](https://transmissionbt.com/about/) - Bem simples de usar e com grandes quantidades de torrents (5k-10k+), é bem estável na versão CLI.
 - 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que procura rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/guia-plugins-qbittorrrent.md)
 - [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei
+- [qBitorrent n
 - [Libre Torrent](https://github.com/proninyaroslav/libretorrent) - Ideal para smartphones.
 - [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto.
 - [Tixati](https://www.tixati.com/download/) - Extremamente personalizável. Todos os menus podem ser reorganizados e o esquema de cores pode ser alterado completamente.
@@ -232,7 +233,10 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 - [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 
-* 🌟 [**JDownloader2**](http://jdownloader.org/jdownloader2) - É distinto dos demais gerenciadores de download porque suporta o download de hosts de links premium como o **NitroFlare**. Reúna todos os links de um arquivo dividido em partes para baixá-lo.
+* 🌟 [**JDownloader2**](http://jdownloader.org/jdownloader2) - É distinto dos demais gerenciadores de download porque suporta o download de hosts de links premium como o **NitroFlare**. Reúna e cole todos os links de um arquivo dividido em partes para baixá-lo.
+  
+* [MyJDownloader](https://my.jdownloader.org) - Versão WebUI do JDownloader que pode ser usada no smartphone (Termux + Proot), junto com um aplicativo de suporte oficial ou até mesmo não oficial.
+  
 * **[Trialware]** [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente [faça isso](https://rentry.org/installidm).
 * [Gerenciador de downloads XTREME](https://subhra74.github.io/xdm/) - Outro gerenciador de downloads muito bom
 * [pyLoad](https://pyload.net/) - Gerenciador de downloads leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
