@@ -13,7 +13,7 @@
 - Criar passwords com espaços e caracteres próprios da língua portuguesa: como `ç`, `~`, `'`
 - Atente-se ao [OPSEC](https://pt.m.wikipedia.org/wiki/OPSEC): **Jamais** salve senhas pelo navegador, você pode ser vítima de infostealers, utilize um gerenciador como Bitwarden ou KeePassXC
 - Sempre que possìvel usar um email temporário em sites que não sejam importantes: use de um provedor como o emailnator.com ou guerrilla mail
-- Caixa postal: melhor opção para receber entregas pois em caso de vazamento, o seu endereço real pode ser utilizado para “doxxing”, ameaças e outros tipos de crimes. Mande entregar na sua academia ou em outro lugar que você costuma frequentar bastante (exceto a sua casa) e peça para alguém receber a encomenda, também é bom passar a usar codinomes em vez do seu nome real
+- Caixa postal: melhor opção para receber entregas pois em caso de vazamento, o seu endereço real pode ser utilizado para “doxxing”, ameaças e outros tipos de crimes. Mande entregar na sua academia ou em outro lugar que você costuma frequentar bastante (exceto a sua casa) e peça para alguém receber a encomenda, também é bom passar codinomes em vez do seu nome real
 -  Fotos, vídeos e outros arquivos: remover metadados (informações adicionais que revelam sua localização) com o exiftool ou online com o metadata2go
 - Verifique a procedência de URLs suspeitas: Confira o tempo de registro, selo SSL e certifique-se de que o CNPJ/CPF fornecido na página bate com o que é repassado por sites como [registro.br](https://registro.br/tecnologia/ferramentas/), siteconfiavel.com.br ou [invertexto.com](https://www.invertexto.com/whois).
 
