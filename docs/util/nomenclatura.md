@@ -99,33 +99,33 @@ No geral, os benefícios de se ter um tracker (sobretudo privado) é ter uma var
 
 ## Usenet
 
-**Usenet:** sistema de discussão pré-web (1979). Rede distribuída para baseado em texto compartilhamento de mensagens. Organizado em grupos de notícias. Popular entre as universidades. Usando protocolos como NNTP. Acesso através de software/serviços especializados. Texto, arquivos compartilhado.
+**Usenet:** Sistema de discussão pré-web (1979). Rede distribuída baseada em texto com compartilhamento de mensagens. Organizado em grupos de notícias. Popular entre as universidades. Usa protocolos como NNTP. Acesso através de software/serviços especializados.
 
-**Binário (Usenet):** conteúdo não textual (por exemplo, imagens, vídeos, software) compartilhado na Usenet. Codificado para transmissão. Decodificado usando software especializado. Muitas vezes compactado (por exemplo, RAR, ZIP) para compartilhamento eficiente. Rica fonte de multimídia e recursos de software.
+**Binário (Usenet):** conteúdo não textual (por exemplo: imagens, vídeos, software) compartilhado na Usenet. Codificado para transmissão. Decodificado usando software especializado. Muitas vezes compactado (por exemplo, RAR, ZIP) para compartilhamento eficiente. Rica fonte de multimídia e recursos de software.
 
 **MIME (Multipurpose Internet Mail Extensions):** padrão da Internet para codificação e troca de diferentes tipos de dados, incluindo arquivos binários, via e-mail e outros protocolos como Usenet. Permite anexar arquivos a mensagens. fornece suporte para vários formatos de arquivo e tipos de conteúdo. Amplamente utilizado para transmissão de conteúdo multimídia. Melhora a compatibilidade e versatilidade de troca de dados.
 
-**NNTP**: Protocolo de transferência de notícias de rede. Usado na Usenet para distribuição de mensagens. Conecta usuários a servidores Usenet. Permite a recuperação/postagem de mensagens. Facilita discussões em grupos de notícias. Antecede a web. Essencial para Usenet acesso.
+**NNTP**: Protocolo de transferência de notícias de rede. Usado na Usenet para distribuição de mensagens. Conecta usuários a servidores Usenet. Permite a recuperação/postagem de mensagens. Facilita discussões em grupos de notícias. Antecede a web. Essencial para acesso à Usenet.
 
 **NZB**: Formato de arquivo usado na Usenet para download de arquivos binários. Contém metadados sobre arquivos e sua localização nos servidores da Usenet. Permite uma recuperação eficiente de arquivos grandes. Usado com downloaders NZB. Simplifica o download de arquivos Usenet processo. Melhora a experiência de compartilhamento de arquivos.
 
-**Newsgroups**: Fóruns de discussão categorizados na Usenet. Os tópicos variam de ciência ao entretenimento. Os usuários se inscrevem em grupos específicos. Conversas baseadas em texto tomar lugar. Mensagens armazenadas em servidores Usenet. Plataforma pré-web para informações compartilhamento.
+**Newsgroups**: Fóruns de discussão categorizados na Usenet. Os tópicos variam de ciência ao entretenimento. Os usuários se inscrevem em grupos específicos. Conversas baseadas em texto tomam o lugar. Mensagens armazenadas em servidores Usenet. Plataforma pré-web para informações compartilhamento.
 
-**PAR (Parchive):** Formato de arquivo usado para recuperação de erros na Usenet e compartilhamento de arquivos. Gera dados de paridade para reparar partes danificadas ou ausentes de arquivos baixados. Oferece recursos robustos de correção de erros. Compatível com vários Usenet aplicativos e clientes. Garante a recuperação de arquivos bem-sucedida.
+**PAR (Parchive):** Formato de arquivo usado para recuperação de erros na Usenet e compartilhamento de arquivos. Gera dados de paridade para reparar partes danificadas ou ausentes de arquivos baixados. Oferece recursos robustos de correção de erros. Compatível com vários aplicativos e clientes Usenet. Garante a recuperação de arquivos.
 
 **PAR2**: Formato de arquivo usado para recuperação de erros na Usenet e compartilhamento de arquivos. estandes para "Parquivo 2.0." Cria blocos de dados redundantes para reparar dados corrompidos ou partes ausentes de arquivos baixados da Usenet. Funciona junto com arquivos NZB. Garante a integridade dos dados e aumenta as chances de reconstrução bem-sucedida de arquivos. Crucial para download confiável de arquivos.
 
-**RAR**: Formato de compactação de arquivo comumente usado para arquivar e compactar arquivos. Oferece algoritmos de compactação eficientes e suporte a vários volumes. fornece proteção por senha, divisão de arquivos e recuperação de erros. Amplamente suportado em múltiplas plataformas. Escolha popular para compartilhamento de arquivos e compactação de dados.
+**RAR**: Formato de compactação de arquivo comumente usado para arquivar e compactar arquivos. Oferece algoritmos de compactação eficientes e suporte a vários volumes. fornece proteção por senha, divisão de arquivos e recuperação de erros. Suportado em múltiplas plataformas. Escolha popular para compartilhamento de arquivos e compactação de dados.
 
 **Usenet Indexer:** Site/serviço que ajuda os usuários a pesquisar e localizar conteúdo na Usenet. Indexa e categoriza postagens da Usenet, tornando-as facilmente pesquisável. Fornece funcionalidade de pesquisa com base em palavras-chave, categorias e tipos de arquivo. Oferece recursos adicionais como avaliações, comentários e visualização. Simplifica a descoberta de conteúdo na Usenet.
 
 **Usenet Provider:** Serviço que oferece acesso a servidores Usenet. Fornece acesso a grupos de notícias, postagem de mensagens e download de arquivos. Modelo baseado em assinatura. Oferece planos diferentes com velocidades, retenção e recursos variados. Essencial para a participação na Usenet. Melhora a experiência da Usenet.
 
-**Usenet Block**: pacote de dados pré-pago para acesso à Usenet. Nenhuma assinatura necessária. Oferece uma quantidade fixa de dados (por exemplo, gigabytes). Depois de consumido, pode ser reabastecido. Adequado para uso ocasional da Usenet. Custo-benefício para usuários pouco frequentes. Flexibilidade sem cobranças recorrentes.
+**Usenet Block**: pacote de dados pré-pago para acesso à Usenet. Nenhuma assinatura necessária. Oferece uma quantidade fixa de dados (por exemplo, gigabytes). Depois de consumido, pode ser reabastecido; adequado para uso ocasional da Usenet; custo-benefício para usuários pouco frequentes; fexibilidade sem cobranças recorrentes.
 
-**uuencode**: Método usado na Usenet para codificar arquivos binários no formato ASCII. Converte dados binários em caracteres imprimíveis para transmissão. Especializado o software decodifica arquivos uuecodificados de volta à sua forma binária original. Método legado de codificação, amplamente substituído por alternativas mais eficientes.
+**uuencode**: Método usado na Usenet para codificar arquivos binários no formato ASCII. Converte dados binários em caracteres imprimíveis para transmissão especializada; o software decodifica arquivos uuecodificados de volta à sua forma binária original; jeito relegado de codificação, substituído por alternativas mais eficientes.
 
-**yEnc**: formato de codificação binária projetado para Usenet. Mais eficiente que o uuencode, reduz o tamanho do arquivo e o tempo de transmissão. Usa um conjunto de caracteres maior para representam dados binários. Amplamente adotado em comunidades Usenet. Requer Software compatível com yEnc para codificação e decodificação. Melhora o compartilhamento de arquivos Usenet experiência.
+**yEnc**: Formato de codificação binária projetado para Usenet. Mais eficiente que o uuencode, reduz o tamanho do arquivo e o tempo de transmissão; usa um conjunto de caracteres maior para representar dados binários. Amplamente adotado em comunidades Usenet. Requer Software compatível com yEnc para codificação e decodificação.
 
 ## Outros
 
