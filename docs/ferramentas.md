@@ -175,7 +175,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 :::info Nota: uTorrent [empacotou um minerador de bitcoin opcional e não malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880) . A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.
 :::
 
-:::warning Cliente Bitlord torrent [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
+:::warning Cliente torrent Bitlord [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
 :::
 
 - 🌟 [**Motrix**](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
@@ -232,7 +232,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 - [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 
-* [JDownloader2](http://jdownloader.org/jdownloader2) - É distinto dos demais gerenciadores de download porque suporta o download de hosts de links premium como o **NitroFlare**. Não consegue obter arquivos divididos em partes.
+* 🌟 [**JDownloader2**](http://jdownloader.org/jdownloader2) - É distinto dos demais gerenciadores de download porque suporta o download de hosts de links premium como o **NitroFlare**. Reúna todos os links de um arquivo dividido em partes para baixá-lo.
 * **[Trialware]** [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente [faça isso](https://rentry.org/installidm).
 * [Gerenciador de downloads XTREME](https://subhra74.github.io/xdm/) - Outro gerenciador de downloads muito bom
 * [pyLoad](https://pyload.net/) - Gerenciador de downloads leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
