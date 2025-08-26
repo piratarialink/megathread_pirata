@@ -229,3 +229,48 @@
     transform: rotate(360deg);
   }
 }
+
+/* Thanks KDE project for the css banner */
+.endof10 {
+    margin-top: 1rem;
+    background: radial-gradient(at center top,#3477c8 0%,#13417b 75%);
+    padding: 1rem;
+    display: flex;
+    justify-content: center
+}
+
+.endof10>a {
+    font-weight: 300;
+    font-variation-settings: "wght" 300;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 800px;
+    color: #f6f5f4!important
+}
+
+.endof10>a:hover {
+    text-decoration: underline
+}
+
+.endof10 strong {
+    display: block;
+    font-weight: 500;
+    font-variation-settings: "wght" 500
+}
+
+.endof10 svg {
+    fill: #fff;
+    width: 64px;
+    height: auto;
+    margin: 1rem
+}
+
+@media only screen and (max-width: 700px) {
+    .endof10 svg {
+        width:30%
+    }
+}
