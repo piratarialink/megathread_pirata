@@ -115,6 +115,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [leechpremium](https://leechpremium.net/) - Este é um serviço de download gratuito com o qual você pode realizar downloads premium.
   **Desative o seu adblock e o ative novamente quando o site carregar.**
 - **[Trialware]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
+- **[Trialware]** [Leech Master](https://t.me/leechmaster_bot) - Bot do Telegram para baixar arquivos de até 100 MB de tamanho no NitroFlare (consegue burlar a necessidade de contra premium), peça para outra pessoa enviar o link se o período de teste acabar.
 - [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd
 - [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium
 - **[Pago]** [Linksnappy](https://linksnappy.com/) - Agregador de conteúdo que permite extrair arquivos de vários serviços de armazenamento em nuvem.
