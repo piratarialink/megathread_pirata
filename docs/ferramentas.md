@@ -182,9 +182,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - 🌟 [**Motrix**](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 - [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent.
 - [Transmission](https://transmissionbt.com/about/) - Bem simples de usar e com grandes quantidades de torrents (5k-10k+), é bem estável na versão CLI.
+- [Transmission WebUI](https://github.com/transmission/transmission/blob/main/docs/Web-Interface.md) - Use o transmission no android pelo termux e o controle através do navegador, extremamente pràtico de manusear, porém desativar alguns recursos (PEX, DHT, LPD) pode ser um trabalho duro. 
 - 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que procura rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/guia-plugins-qbittorrrent.md)
 - [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei.
-- [qBittorrent-nox](https://github.com/qbittorrent/qBittorrent/wiki/Running-qBittorrent-without-X-server-(WebUI-only)) - Versão WebUI do qBittorrent que você pode controlar com o qBitController e usar no Android com a ajuda do proot-distro dentro do termux.
 - [Libre Torrent](https://github.com/proninyaroslav/libretorrent) - Ideal para smartphones.
 - [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto.
 - [Tixati](https://www.tixati.com/download/) - Extremamente personalizável. Todos os menus podem ser reorganizados e o esquema de cores pode ser alterado completamente.
