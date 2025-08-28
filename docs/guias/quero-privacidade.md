@@ -34,7 +34,7 @@
 - Meet: systemli.org, Jitsi
 - Moeda digital: Monero 
 - Hospedagem: Servers.guru ou Njalla
-- Pesquisa: DuckDuckGo.com
+- Pesquisa: 4get.ch
 - Roteador: Qualquer um com OpenWRT, recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 
 ## O avançado para privacidade
