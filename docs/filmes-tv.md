@@ -23,10 +23,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Muda constantemente de domínio, para se manter atualizado confira o [discord oficial](https://discord.com/invite/kydZZBGwTy).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.ps/)
 
-### 🌟 [Suite](https://suite.vg/)
+### 🌟 [Suite](https://www.suite.vg/)
 
 - Experimente o melhor do streaming nacional e internacional ao alcance do seu celular ou televisão.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/suite.vg/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.suite.vg/)
 
 ### 🌟 [Hypeflix](https://hypeflix.sbs/)
 
