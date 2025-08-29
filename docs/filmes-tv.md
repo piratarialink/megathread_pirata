@@ -23,19 +23,14 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Muda constantemente de domínio, para se manter atualizado confira o [discord oficial](https://discord.com/invite/kydZZBGwTy).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.ps/)
 
-### 🌟 [Suite](https://www.suite.vg/)
-
-- Experimente o melhor do streaming nacional e internacional ao alcance do seu celular ou televisão.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.suite.vg/)
-
 ### 🌟 [Hypeflix](https://hypeflix.sbs/)
 
-- Muito conteúdo gratuito relacionado a filmes e séries.
+- Muito conteúdo gratuito relacionado a filmes e séries de plataformas de streaming nacionais e internacionais.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hypeflix.sbs/)
 
 ### 🌟 [Seu Seriado](https://seuseriados.com/)
 
-- Site com vasto conteúdo de séries para assistir gratuitamente.
+- Assista as melhores séries gratuitamente sem a necessidade de cadastro.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/seuseriados.com/)
 
 ### 🌟 [Cineby](https://www.cineby.app/)
@@ -50,7 +45,8 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [Clube do Dual](https://clubedodual.com/index.php?app=core&module=system&controller=login)
 
-- Fórum de compartilhamento de faixas de dublagem em português brasileiro, é necessário ter um convite para se cadastrar.
+- Fórum de compartilhamento de faixas de dublagem em português brasileiro.
+- Você pode tentar obter um convite em [nosso grupo do telegram.](https://trackerslist)
 - [Resultados de segurança da URL](https://clubedodual.com/)
 
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
