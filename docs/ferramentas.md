@@ -74,7 +74,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - 🌟 [**uBlock Origin**](https://github.com/gorhill/uBlock#installation) - para bloquear a maioria dos anúncios e pop-ups.
 - [AdNauseam](https://adnauseam.io/) - Baseado no uBlock Origin. Projetado para ofuscar os dados de navegação e proteger os usuários do rastreamento por redes de publicidade
 - [Pi-hole](https://pi-hole.net/) - Bloqueio de anúncios em toda a rede
-- [AdAway](https://adaway.org/) - AdAway é um bloqueador de anúncios de código aberto para Android que usa o arquivo hosts.
+- [AdAway](https://adaway.org/) - AdAway é um bloqueador de anúncios de código aberto para Android, funciona melhor no GrapheneOS com root.
 - [Blokada 5](https://blokada.org/) - Blokada é um popular bloqueador de anúncios e aplicativo de privacidade para Android.
 - [AdGuard](https://adguard-dns.io/pt_br/public-dns.html) - O AdGuard é um servidor de DNS para bloqueio de anúncios e rastreamento em toda a rede.
 - [ControlD](https://controld.com/free-dns?freeResolverType=blockMalwareAndAds&helpPane=dns) - Servidor de DNS semelhante ao AdGuard que bloqueia anúncios até mesmo dentro de aplicativos.
@@ -182,7 +182,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - 🌟 [**Motrix**](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 - [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent.
 - [Transmission](https://transmissionbt.com/about/) - Bem simples de usar e com grandes quantidades de torrents (5k-10k+), é bem estável na versão CLI.
-- [Transmission WebUI](https://github.com/transmission/transmission/blob/main/docs/Web-Interface.md) - Use o transmission no android pelo termux e o controle através do navegador, extremamente pràtico de manusear, porém desativar alguns recursos (PEX, DHT, LPD) pode ser um trabalho duro. 
+- [Transmission Web](https://www.reddit.com/r/pirataria/comments/1n3mffa/como_configurar_o_transmission_web_para_funcionar/) - Use o transmission no android pelo termux e o controle através do navegador, extremamente prático de se manusear.
 - 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que procura rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/guia-plugins-qbittorrrent.md)
 - [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei.
 - [Libre Torrent](https://github.com/proninyaroslav/libretorrent) - Ideal para smartphones.
