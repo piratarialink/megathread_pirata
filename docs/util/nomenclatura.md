@@ -147,7 +147,7 @@ Se você já possui uma android tv ou um dos sticks, a box torna-se completament
 
 **PlayReady**: Tecnologia semelhante ao Widevine criada pela Microsoft para prevenção de cópia de mídia.
 
-**Port-forwarding**: É uma maneira de seu cliente torrent se conectar à uma porta específica do seu roteador sem passar pelo CGNAT.
+**Port-forwarding**: É uma maneira de seu cliente torrent se conectar à uma porta específica do seu roteador sem passar pelo CGNAT e sem esgotar a banda. Pode ser exigida por alguns trackers privados que só aceitam conexão IPv4.
 ‎
 ‎
 
