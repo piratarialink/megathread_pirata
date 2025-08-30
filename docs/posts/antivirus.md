@@ -41,7 +41,7 @@ Kaspersky foi banido dos Estados Unidos em 2024 [Fonte](https://www.pcmag.com/ne
 
 A Rússia tem acesso direto a eles, mas visa apenas agentes do governo. "You're safe kiddo."
 
-Conclusão: Assim como o Panda, o Kaspersky construiu sua reputação através de anúncios, patrocinando grandes canais do YouTube. Mas é um antivírus russo, "funky" e "garbage".
+Conclusão: Assim como o Panda, o Kaspersky construiu sua reputação através de anúncios e patrocínio de youtubers. Mas é um antivírus russo, "funky" e "garbage".
 
 ## Outros antivírus
 
