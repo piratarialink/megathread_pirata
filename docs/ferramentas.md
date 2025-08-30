@@ -192,7 +192,6 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [kTorrent](https://apps.kde.org/ktorrent/) - cliente Torrent para linux.
 - [rTorrent](https://github.com/rakshasa/rtorrent) - Cliente de torrent baseado em terminal para linux.
 - [ruTorrent para rTorrent](https://github.com/Novik/ruTorrent) - IU de gerenciamento da Web para rtorrent.
-- [Flood for rTorrent](https://github.com/Flood-UI/flood) - Interface de usuário elegante de gerenciamento da web para rtorrent.
 
 ## ► Centros de Mídia / Clientes
 
@@ -274,8 +273,8 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Firedown](https://www.firedown.app/) - Mais um downloader de vídeos.
 - [Baixar do Soundcloud](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/) - Extensão do Firefox. Tópico original [aqui](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/). Por /u/ImTwain.
 - **[Pago]** [Katomart](https://katomart.com/) - Aplicativo em fase de testes que faz o download de vídeos de plataformas EAD, tudo dentro da lei.
-- [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de GetComics.info facilmente
-- [get_iplayer](https://github.com/get-iplayer/get_iplayer) - Para baixar o vídeo do iPlayer da BBC
+- [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de conteúdo do GetComics.info facilmente.
+- [get_iplayer](https://github.com/get-iplayer/get_iplayer) - Para baixar o vídeo do iPlayer da BBC.
 
 ## ► Ferramentas de download on-line
 
