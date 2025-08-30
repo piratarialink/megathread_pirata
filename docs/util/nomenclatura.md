@@ -147,7 +147,7 @@ Se você já possui uma android tv ou um dos sticks, a box torna-se completament
 
 **PlayReady**: Tecnologia semelhante ao Widevine criada pela Microsoft para prevenção de cópia de mídia.
 
-**Port-forwarding**: É uma maneira que as VPNs tem de fazer com que o seu aparelho se conecte à rede P2P sem experimentar quedas abruptas de bandwidth.
+**Port-forwarding**: É uma maneira de seu cliente torrent se conectar à uma porta específica do seu roteador usando o CGNAT.
 ‎
 ‎
 
