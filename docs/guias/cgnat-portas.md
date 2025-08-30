@@ -31,13 +31,16 @@ Acesse o roteador e abra a porta do cliente torrent para o IP interno fixo que d
 
 ## Quando o bloqueio está no provedor
 
-Alguns provedores fornecem acesso limitado ao roteador... consegue alterar coisas básicas como nome e senha de Wi-Fi, etc, mas Port Forwarding, Servidores Virtuais (dependendo da marca do roteador tem nomes diferentes) não está disponível para acesso limitado... verifique se tem acesso completo ao roteador, caso não tenha solicite com o provedor.
+Alguns provedores fornecem acesso limitado ao roteador... consegue alterar coisas básicas como nome e senha de Wi-Fi, etc, mas Port Forwarding, Servidores Virtuais (dependendo da marca do roteador tem nomes diferentes) não está disponível para acesso ilimitado... verifique se tem acesso completo ao roteador, caso não tenha solicite com o provedor.
 
 ![Acesso limitado](./images/cgnat-portas-5.png)
 
 ![Acesso completo](./images/cgnat-portas-6.png)
 
 É o mesmo equipamento, no caso um Fiberhome... só mudou o login e senha de acesso. Notem a opção Port Forwanding (nesse modelo Fiberhome é onde abre a porta do cliente torrent).
+
+:::tip Em roteadores domésticos da Huawei, a opção de Port Forwarding está denominada como 'Port Mapping'
+:::
 
 ## Verificando se está em rede CGNAT
 
