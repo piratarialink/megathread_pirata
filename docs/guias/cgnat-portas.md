@@ -3,6 +3,9 @@ title: "Como abrir portas no roteador em rede CGNAT"
 description: "Guia de como abrir portas no roteador em rede CGNAT"
 ---
 
+:::warning O processo de port forwarding pode acarretar em riscos do tipo _port scan_, tenha certeza de que você confia no solicitante (warez e tracker) antes de realizar qualquer alteração, a extensão [Port Authority](https://github.com/ACK-J/Port_Authority) pode evitar esse problema na maioria das vezes
+:::
+
 # Como abrir portas no roteador em rede CGNAT
 
 Dependendo do tipo de alocação de portas e com a colaboração do provedor, é possível abrir porta do cliente torrent em rede CGNAT. Primeiro verifique alguns itens abaixo para descobrir se há bloqueios em seu sistema.
