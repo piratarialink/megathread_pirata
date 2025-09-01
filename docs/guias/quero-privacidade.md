@@ -12,7 +12,7 @@
 - Colocar uma senha na BIOS do computador e trocar a senha do wi-fi/roteador (cole seu endereço IP na barra de URL do navegador ou busque pela opção 'Manage router' no seu aparelho móvel)
 - Criar passwords com espaços e caracteres próprios da língua portuguesa: como `ç`, `~`, `'`
 - **Jamais** salve senhas pelo navegador, você pode ser vítima de infostealers. Utilize um gerenciador como Bitwarden ou KeePassXC
-- Sempre que possível usar um email temporário em sites que não sejam importantes: use de um provedor como o emailnator.com ou guerrilla mail
+- Sempre que possível fornecer um email temporário em sites que não sejam importantes: use de um provedor como o emailnator.com ou guerrilla mail
 - Caixa postal: melhor opção para receber entregas pois em caso de vazamento, o seu endereço domiciliar pode ser utilizado para “doxxing”, ameaças e outros tipos de crimes. Mande entregar na sua academia ou em outro lugar que você costuma frequentar bastante (exceto a sua casa) e peça para alguém receber a encomenda, também é bom passar codinomes em vez do seu nome real
 -  Fotos, vídeos e outros arquivos: remover metadados (informações adicionais que revelam sua localização) com o exiftool ou online com o metadata2go
 - Verifique a procedência de URLs suspeitas: Confira o tempo de registro, selo SSL e certifique-se de que o CNPJ/CPF fornecido na página bate com o que é repassado por sites como [registro.br](https://registro.br/tecnologia/ferramentas/), siteconfiavel.com.br ou [invertexto.com](https://www.invertexto.com/whois).
@@ -21,25 +21,25 @@
 
 - Configurar o navegador para excluir todos os dados sempre que você for fechá-lo (histórico, cookies, senhas, etc.): isso diminui a possibilidade de ter as contas invadidas e você não precisa se preocupar em caso de acesso não autorizado ao seu dispositivo
 - VPN: IVPN com Multihop ou Mullvad
-- Email: mailbox.org + systemli.org com Thunderbird + uBlock Origin ou Cock.li (Servidor XMPP) + TailOS
+- Email: mailbox.org + systemli.org com Thunderbird + uBlock Origin ou Cock.li (Servidor XMPP) + Whonix
 - Encriptação de Email: GnuPG, GPG4WIN no Windows ou OpenKeychain no Android
 - Armazenamento: HD ou SSD com Veracrypt
 - Criptografia: Cryptomator e Veracrypt (AES-128-GCM, XChaCha20-Poly1305)
-- Nuvem: systemli.org, NextCloud (chaves PGP, backup e armazenar KeePassXC)
+- Nuvem: systemli.org, NextCloud (chaves PGP, backup e armazenamento KeePassXC)
 - Navegador: Firefox + uBlock Origin + oisd.nl + Containers + arkenfox.js
 - Chat: Lemmy, SimpleX, Mastodon, XMPP e systemli.org
-- Android: GrapheneOS ou LineageOS
+- Android: GrapheneOS
 - Desktop: Linux com LUKS
-- Provedor de dominio: Njalla, Sarek Oy, Porkbun, Cloudflare ou BasedFlare
+- Provedor de dominio: Sarek Oy, Porkbun, Cloudflare ou BasedFlare
 - Meet: systemli.org, Jitsi
 - Moeda digital: Monero 
-- Hospedagem: Servers.guru ou Njalla
+- Hospedagem: Servers.guru
 - Pesquisa: 4get.ch
 - Roteador: Qualquer um com OpenWRT, recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 
 ## O avançado para privacidade
 
-- Onde comprar monero: [Bisq](https://github.com/bisq-network/bisq), [Cake Wallet](https://github.com/cake-tech/cake_wallet/), [Monerujo](https://github.com/m2049r/xmrwallet/), [Telegram](https://t.me/MoneroPagamentosBot?start=ref_e5874ba0587c9630), [Trocador](https://trocador.app/pt/) ou qualquer lugar que não precise de identidade (KYC).
+- Onde comprar monero: [Bisq](https://github.com/bisq-network/bisq), [RetoSwap](https://retoswap.com/#download), [Cake Wallet](https://github.com/cake-tech/cake_wallet/), [Monerujo](https://github.com/m2049r/xmrwallet/), [Telegram](https://t.me/MoneroPagamentosBot?start=ref_e5874ba0587c9630), [Trocador](https://trocador.app/pt/) ou qualquer lugar que não precise de identidade (KYC).
 - É possível comprar outra moeda e fazer exchange para Monero, esse tipo de troca deixa rastros insignificantes. 
 Melhor caminho: **p2p** ➜ **BRL** ➜ **BTC** ➜ **XMR** ➜ [**Cold Wallet**](https://www.getmonero.org/pt-br/downloads/index.html) (sempre receber numa wallet disposable e transferir para a sua).
 - Cobrar e receber por serviços: pessoalmente ou através de plataformas de escrow como o [FairTrade](http://fairfffoxrgxgi6tkcaxhxre2hpwiuf6autt75ianjkvmcn65dxxydad.onion/escrow) por exemplo.
