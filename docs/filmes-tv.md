@@ -23,14 +23,9 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Muda constantemente de domínio, para se manter atualizado confira o [discord oficial](https://discord.com/invite/kydZZBGwTy).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.ps/)
 
-### 🌟 [Hypeflix](https://hypeflix.sbs/)
-
-- Muito conteúdo gratuito relacionado a filmes e séries de plataformas de streaming nacionais e internacionais.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hypeflix.sbs/)
-
 ### 🌟 [Seu Seriado](https://seuseriados.com/)
 
-- Assista as melhores séries gratuitamente sem a necessidade de cadastro.
+- Assista as melhores séries do streaming nacional e internacional gratuitamente sem a necessidade de cadastro.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/seuseriados.com/)
 
 ### 🌟 [Cineby](https://www.cineby.app/)
@@ -76,6 +71,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [Pobreflix](https://pobreflixtv.cc/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
+
+### ▶️ [Hypeflix](https://hypeflix.sbs/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hypeflix.sbs/)
 
 ## 🆎 Legendados
 
