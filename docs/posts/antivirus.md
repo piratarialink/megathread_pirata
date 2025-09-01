@@ -51,7 +51,7 @@ McAfee é meh.
 
 ## Resumo
 
-- **BitDefender**: Use a versão de teste gratuita e, quando o teste estiver prestes à terminar, basta reiniciá-lo com outra conta.
+- **Bitdefender**: Use a versão de teste gratuita e, quando o teste estiver prestes à terminar, basta reiniciá-lo com outra conta.
 - **MalwareBytes**: somente para efetuar remoção de malware, não usar no dia a dia.
 - **Windows Defender (Windows 10 e 11)**: usar no dia a dia.
 
