@@ -256,7 +256,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - 🌟 [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade.
 - [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos.
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy.
-- [Allvasoft](https://www.allavsoft.com/) - Downloader de mídia.
+- [Allavsoft](https://www.allavsoft.com/) - Downloader de mídia.
 - [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injetor para despejar aplicativos UWP.
 - [gallery-dl](https://github.com/mikf/gallery-dl) - gallery-dl é um programa de linha de comando para baixar galerias e coleções de imagens de vários hosts de imagens.
 - [Fetchv](https://fetchv.net/pt-br) - Downloader de vídeos
