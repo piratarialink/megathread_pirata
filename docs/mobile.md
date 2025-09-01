@@ -33,7 +33,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Módulo para Android 12 a 14, permitindo aos usuários contornar a restrição do sistema ao downgrade de aplicativos.
 
-### 🌟 [Lucky Patcher](https://www.luckypatchers.com/)
+### 🌟 [Lucky Patcher](https://forum.mobilism.org/search.php?keywords=lucky+patcher&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search)
 
 - Desbloqueia compras em aplicativos Android e retira anúncios.
 
