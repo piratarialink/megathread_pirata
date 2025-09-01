@@ -25,8 +25,8 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [Hypeflix](https://hypeflix.sbs/)
 
-- Experimente o melhor do streaming nacional e internacional no seu celular ou televisão
-- Ads existem para alguns títulos mas estes não atrapalham em quase nada (desative o javascript em sites novos com o ublock).
+- Prove do melhor do streaming nacional e internacional no seu celular ou televisão
+- Anúncios existem mas estes não atrapalham tanto a experiência (desative o javascript em sites novos com o ublock).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hypeflix.sbs/)
 
 ### 🌟 [Seu Seriado](https://seuseriados.com/)
