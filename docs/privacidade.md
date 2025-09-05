@@ -32,7 +32,7 @@ A inviolabilidade do lar só pode ser excepcionada em casos de flagrante delito,
 O Navegador Mullvad é uma versão do Navegador Tor com as integrações da rede Tor removidas, com o objetivo de fornecer as tecnologias de antirreconhecimento (anti-fingerprinting) do Navegador Tor. Ele é desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
 
 - Anti-Fingerprinting
-- Modo de navegação privata
+- Modo de navegação privativa
 
 :::info Disponível para Windows e Linux.
 :::
