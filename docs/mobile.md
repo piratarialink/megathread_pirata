@@ -318,11 +318,15 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Site brasileiro, acesse o chat do telegram para sugerir novos mods ou atualizações.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/tekmods.com/)
 
-## 📢 ➜ No Telegram
+## 📢 ➜ Telegram
 
 ### 🔗 [AlveeMods](https://t.me/AlveeMods)
 
 - Apks modificados
+
+### 🔗 [Raiyan Mods](https://t.me/raiyanmods)
+
+- Apks modificados, especialmente VPNs
 
 ### 🔗 [Droid Haven](https://t.me/droidhaven) • Em russo
 
