@@ -146,7 +146,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**Ryujinx**](https://git.ryujinx.app/ryubing/ryujinx) • Switch
 
-- Fork feito pelo GreemDev com base no emulador original de Switch que foi descontinuado.
+- Fork feito pelo GreemDev com base no emulador original de Switch escrito em C# que foi descontinuado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ryujinx.app/)
 
 ### 🔗 [SameBoy](https://sameboy.github.io/) • Game Boy + Color + Super
