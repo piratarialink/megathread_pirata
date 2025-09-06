@@ -29,6 +29,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
    - Exemplos confiáveis:
      - [ProtonVPN (port-forwarding, P2P)](https://protonvpn.com/).
+     - [Private Internet Access (port-forwarding)](https://www.privateinternetaccess.com/).
      - [AirVPN (port-forwarding, P2P)](https://airvpn.org).
      - [IVPN](https://www.ivpn.net/).
      - [Mullvad](https://mullvad.net/).
