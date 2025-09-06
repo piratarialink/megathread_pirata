@@ -16,7 +16,7 @@ O Stremio vem com alguns add-ons pre instalados, sendo uns removíveis e outros 
 
 Você pode achar novos add-ons no menu do aplicativo, assim como no [site](https://stremio-addons.com/) e [subreddit](https://www.reddit.com/r/StremioAddons/) do Stremio Addons.
 
-:::info Ordenação.
+:::info Ordenação
 Dependendo da ordem de instalação dos add-ons, ela pode impacta quais resultados/catálogos serão exibidos primeiros.
 :::
 
@@ -26,8 +26,8 @@ Os provedores buscam a mídia na Internet e retornam com o resultado quando poss
 
 Cada provedor tem uma forma de funcionar, podendo ser via Torrent(ponta-a-ponta), HTTP, Debrid, e outros.
 
-::: warning Torrenting.
-Ao baixar um torrent, você expõe a Internet que esta fazendo download de tal arquivo, existe uma pequena chance de receber uma ocorrência do seu ISP, isso varia com as leis de cada país.
+::: warning Torrent
+Ao baixar um torrent, você expõe para a Internet que está fazendo o download de tal arquivo, existe uma pequena chance de receber uma ocorrência do seu ISP, isso varia com as leis de cada país.
 :::
 
 Recomendo esses provedores, que fornecem conteúdo em português:
