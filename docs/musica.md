@@ -15,11 +15,14 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
   :::
 
-## 📒 ➜ Arquivo
+## 📒 ➜ Diversos
 
-### 🌟 [MusicBrainz](https://musicbrainz.org/)
+### 🌟 [Music Megathread](https://github.com/MoonWalker440/Music-Megathread)
 
-- Database de música e provider de capas de álbuns, eps e singles. Também desenvolve o aplicativo [Picard](https://picard.musicbrainz.org/) para desktop.
+- Megatópico de pirataria musical organizado por usuários do github.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+- Database e provider de capas de álbuns, eps e singles. Também desenvolve o aplicativo [Picard](https://picard.musicbrainz.org/) para desktop.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/musicbrainz.org/)
 
 ## 📥 ➜ Downloads Diretos
