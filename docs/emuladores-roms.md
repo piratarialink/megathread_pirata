@@ -15,7 +15,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
   :::
 
-## 📒 ➜ Arquivo
+## 📒 ➜ Diversos
 
 ### 🌟 [Wiki geral de emulação](https://emulation.gametechwiki.com/index.php/Main_Page)
 
