@@ -71,7 +71,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - Usa o emulador Goldberg para jogos offline que só rodam com a licença da Steam. Não crackeia jogos com denuvo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-## 📥 ➜ Downloads diretos
+## 📥 ➜ Download direto
 
 ### 🌟 [AnkerGames](https://ankergames.net/)
 
