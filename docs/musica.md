@@ -22,6 +22,8 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Megatópico de pirataria musical organizado por usuários do github.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
+- 🔗 [MusicBrainz](https://www.musicbrainz.org/)
+  
 - Database e provider de capas de álbuns, eps e singles. Também desenvolve o aplicativo [Picard](https://picard.musicbrainz.org/) para desktop.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/musicbrainz.org/)
 
