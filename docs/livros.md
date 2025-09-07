@@ -15,7 +15,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
   :::
 
-## 📥 ➜ Downloads diretos
+## 📥 ➜ Download direto
 
 ### 🌟 [Projeto Z-Library](https://z-library.sk/) • Necessário Cadastrar-se
 
