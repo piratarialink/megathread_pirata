@@ -59,7 +59,6 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### ▶️ [Anime Yabu](https://www.animeyabu.org/)
 
-- Em caso de bloqueio, use o [PopUpOFF](https://popupoff.org/).
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.animeyabu.org/)
 
 #### ▶️ [Anroll](https://www.anroll.net/)
