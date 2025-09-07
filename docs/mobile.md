@@ -52,7 +52,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Shelter](https://github.com/PeterCxy/Shelter)
 
-- Fornece um Perfil de Trabalho (Sandbox) para instalar e clonar apps.
+- Fornece um Perfil de Trabalho (ambiente virtualizado que funciona como um segundo celular) para instalar e clonar apps.
 
 ### 🌟 [Shizuku](https://github.com/RikkaApps/Shizuku)
 
