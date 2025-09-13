@@ -36,6 +36,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 ### 🌟 [Lucky Patcher](https://forum.mobilism.org/search.php?keywords=lucky+patcher&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search)
 
 - Desbloqueia compras em aplicativos Android e retira anúncios.
+- Baixe apks apenas do balatan (desenvolvedor oficial).
 
 ### 🌟 [ReVanced](https://revanced.app)
 
