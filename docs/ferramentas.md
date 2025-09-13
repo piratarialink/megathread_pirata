@@ -366,10 +366,8 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 :::warning O pirataria.link não se responsabiliza por links, endereços de phishing, conteúdo ou eventuais perdas causadas dentro da rede.
 :::
 
-- [Weird Log](http://laingg42wznukvzjn52cos6bj6brgyiwtxf5rpq3bu5pad56volhe2qd.onion/blog/index.php/2024/01/31/prolegomenos-de-lain-na-rede-cebola/#more-6768)
+- [Nowhere](nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion)
 - [Exílio404](http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion/)
-- [C4vernA 8](http://97db.cavernaqbjkfepcutvrhylqixik7etbf4hxqcooklshofvhzhakzxdyd.onion/)
-- [Portlain](http://laingg42wznukvzjn52cos6bj6brgyiwtxf5rpq3bu5pad56volhe2qd.onion/portlain/)
 - [Suprbay](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/)
 - [Autodefesa digital](http://tdtf5fdpfjgpxci4pqrtr5cvmsytqu25c2kdbflllz37k5glz6bexcyd.onion/)
 
