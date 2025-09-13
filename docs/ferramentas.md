@@ -368,7 +368,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 - [Nowhere](nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion)
 - [Exílio404](http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion/)
+- [AnarSec](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/series/)
 - [Suprbay](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/)
+- [Deep Mail](http://deepmailv2xihwk7ie5q3nlmyflvjlqhvlzt3wih43eo44sfvfingeqd.onion/)
 - [Autodefesa digital](http://tdtf5fdpfjgpxci4pqrtr5cvmsytqu25c2kdbflllz37k5glz6bexcyd.onion/)
 
 ## ► **VPS grátis**
