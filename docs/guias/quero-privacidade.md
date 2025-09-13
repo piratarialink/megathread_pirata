@@ -35,7 +35,7 @@
 - Moeda digital: Monero 
 - Hospedagem: Servers.guru
 - Pesquisa: 4get
-- Roteador: Qualquer um com OpenWRT, recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
+- Roteador: Qualquer um com OpenWRT (WPA3), recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 
 ## O avançado para privacidade
 
