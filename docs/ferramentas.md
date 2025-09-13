@@ -372,6 +372,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Suprbay](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/)
 - [Deep Mail](http://deepmailv2xihwk7ie5q3nlmyflvjlqhvlzt3wih43eo44sfvfingeqd.onion/)
 - [Autodefesa digital](http://tdtf5fdpfjgpxci4pqrtr5cvmsytqu25c2kdbflllz37k5glz6bexcyd.onion/)
+- [Dig Deeper](https://digdeeper.club/) / [2](http://34reqsy6tqou6avwrkm23s4mpkrwz3drtq2e5yr7sywi76h7plnaahad.onion/) / [3](http://5essxguxi5enurgtuquvrjuvikss4gc5lbhmtz57cq4cedqx5tqvaxqd.onion/)
 
 ## ► **VPS grátis**
 
