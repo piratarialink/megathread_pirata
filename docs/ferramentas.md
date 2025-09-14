@@ -59,7 +59,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 ## ► **Ferramentas para MacOS**
 
 - 🌟 [**FMHY - Hackintosh**](https://fmhy.net/system-tools#hackintosh) - Algumas recomendações úteis.
-- 🌟 [**gibMacOS**](https://github.com/corpnewt/gibMacOS) - Instale o MacOS em hardwares que não pertencem a Apple. [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
+- [**gibMacOS**](https://github.com/corpnewt/gibMacOS) - Instale o MacOS em hardwares que não pertencem a Apple. [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
 - [PKGs do Appstorrent](https://appstorrent.ru/os/) - Mesmo conceito do gibMacOS: Imagens de diferentes versões do Mac para criar pendrives bootáveis com hackintosh.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
 - [UTM](https://github.com/utmapp/UTM/releases) - VM multiplataforma.
