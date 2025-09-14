@@ -179,7 +179,6 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 :::warning Cliente torrent Bitlord [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
 :::
 
-- 🌟 [**Motrix**](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 - [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent.
 - [Transmission](https://transmissionbt.com/about/) - Bem simples de usar e com grandes quantidades de torrents (5k-10k+), é bem estável na versão CLI.
 - [Transmission Web](https://www.reddit.com/r/pirataria/comments/1n3mffa/como_configurar_o_transmission_web_para_funcionar/) - Use o transmission no android pelo termux e o controle através do navegador, extremamente prático de se manusear.
