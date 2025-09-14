@@ -38,6 +38,10 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Desbloqueia compras em aplicativos Android e retira anúncios.
 - Baixe apks apenas do balatan (desenvolvedor oficial).
 
+### 🔗 [MPV](https://github.com/mpv-android/mpv-android/releases)
+
+- Video player escrito em C, é considerado uma opção viável após o fim da presença do MX Player no Brasil.
+
 ### 🌟 [ReVanced](https://revanced.app)
 
 - Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário o APK do Youtube)
