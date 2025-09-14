@@ -31,11 +31,6 @@ Agradecemos a participação de todos na construção e manutenção de nossa me
 
 A Megathread atualmente roda no [Vitepress](https://vitepress.dev/) com o tema [FMHY](https://github.com/fmhy/FMHYedit). 💖
 
-## Doações 
-
-Endereço XMR: 
-`46BBjWAMoew7QXbYy7W5ajVKn7ygzb9xGVV9t5J8N64zC6X5QRfYbbNUCtX3MECZEK5tuGryQghLr4PCbFKoVq7YKq51JQC`
-
 ## Licença
 
 Este projeto é licenciado sob a WTFPL (Do What The Fuck You Want To Public License) ou CC0. Veja o arquivo [LICENSE](LICENSE) e o arquivo [LICENSE_ALT](LICENSE_ALT) para mais detalhes.
