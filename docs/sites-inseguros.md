@@ -25,7 +25,6 @@
 | 💩 4shared        | 4shared-com                 | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                  |
 | KickassTorrents   | kickasstorrents-to          | **Clone falso** (_Criado para enganar usuários de propósito_).                                        |
 | 💩 Baixaki        | baixaki-com-br              | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                  |
-| Notz SMS          | notz-net-br                 | **Bot do Telegram** (_Vende números de telefone banidos ou com autentificação em dois fatores_).      |
 | 💩 TheRarBg       | therarbg-com/therarbg-to    | **Clone falso** (_Criado para enganar usuários de propósito_).                                        |
 | "9xbuddy"         | 9xbuddy-online              | **Clone Falso** (_Criado para enganar usuários de propósito_).                                        |
 
