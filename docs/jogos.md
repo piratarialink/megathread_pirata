@@ -93,7 +93,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [online-fix.me](https://online-fix.me/)
 
-- Jogue jogos online pirata com seus amigos, de forma gratuita com suporte de convite via Steam.
+- Jogue jogos online piratas com seus amigos, de forma gratuita com suporte de convite via Steam.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
 
 ### 🔗 [ElAmigos](https://elamigos.site/)
@@ -155,7 +155,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🌟 [GOG Games](https://gog-games.to/)
 
-- Cada jogo na biblioteca GOG é gratuito para download de um vasto compêndio de lançamentos.
+- Cada jogo na biblioteca GOG é gratuito (sem DRM) para download de um vasto compêndio de lançamentos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gog-games.to/)
 
 ### 🔗 [MagiPack Games](https://www.magipack.games/)
