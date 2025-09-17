@@ -232,95 +232,45 @@
 
 /* Thanks KDE project for the css banner */
 .endof10 {
-  position: relative;
-  margin: 32px 0;
-  background: radial-gradient(at center top, #3477c8 0%, #13417b 75%);
-  padding: 0.75rem 1.5rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 8px;
+    margin-top: 1rem;
+    background: radial-gradient(at center top,#3477c8 0%,#13417b 75%);
+    padding: 1rem;
+    display: flex;
+    justify-content: center
 }
 
-.banner-wrapper {
-  width: 100%;
-  max-width: 960px;
-}
-
-.banner-link {
-  display: flex;
-  align-items: center;
-  gap: 1.25rem;
-  color: #f6f5f4 !important;
-}
-
-.banner-icon {
-  fill: rgba(255, 255, 255, 0.8);
-  width: 52px;
-  height: auto;
-  flex-shrink: 0;
-}
-
-.banner-text {
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 1.4;
-  text-align: left;
-}
-
-.banner-text strong {
-  display: block;
-  font-weight: 600;
-}
-
-.close-banner {
-  position: absolute;
-  top: 50%;
-  right: 32px;
-  transform: translateY(-50%);
-
-  background: none;
-  border: none;
-  color: white;
-  font-size: 26px;
-  font-weight: 300;
-  cursor: pointer;
-  padding: 0;
-  line-height: 1;
-  opacity: 0.8;
-  transition: opacity 0.2s;
-}
-
-.close-banner:hover {
-  opacity: 1;
-}
-
-@media (max-width: 768px) {
-  .endof10 {
-    margin: 24px 0;
-    padding: 0.75rem 1rem;
-    padding-right: 50px;
-  }
-
-  .banner-wrapper {
+.endof10>a {
+    font-weight: 300;
+    font-variation-settings: "wght" 300;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
     gap: 1rem;
-  }
-
-  .banner-icon {
-    width: 44px;
-  }
-
-  .banner-text {
-    font-size: 14px;
-  }
-
-  .close-banner {
-    right: 16px;
-  }
+    justify-content: space-between;
+    align-items: center;
+    max-width: 800px;
+    color: #f6f5f4!important
 }
 
-@media (max-width: 480px) {
-  .banner-icon {
-    display: none;
-  }
+.endof10>a:hover {
+    text-decoration: underline
 }
+
+.endof10 strong {
+    display: block;
+    font-weight: 500;
+    font-variation-settings: "wght" 500
+}
+
+.endof10 svg {
+    fill: #fff;
+    width: 64px;
+    height: auto;
+    margin: 1rem
+}
+
+@media only screen and (max-width: 700px) {
+    .endof10 svg {
+        width:30%
+    }
+                                           }
