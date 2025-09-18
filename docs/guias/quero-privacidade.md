@@ -26,7 +26,7 @@
 - Armazenamento: HD ou SSD com Veracrypt
 - Criptografia: Cryptomator e Veracrypt (AES-128-GCM, XChaCha20-Poly1305)
 - Nuvem: systemli.org, NextCloud (chaves PGP, backup e armazenamento KeePassXC)
-- Navegador: Firefox + uBlock Origin + oisd.nl + Containers + arkenfox.js
+- Navegador: Baseado no Firefox + uBlock Origin + CSS Exfil Protection + oisd.nl + Containers + arkenfox.js
 - Chat: Lemmy, SimpleX, Mastodon, XMPP e systemli.org
 - Android: GrapheneOS
 - Desktop: Linux com LUKS
