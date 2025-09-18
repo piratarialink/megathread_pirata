@@ -137,15 +137,15 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► **Scripts de usuário úteis**
 
-- [Violentmonkey](https://violentmonkey.github.io/) - Gerenciador de script de usuário de código aberto.
-- [Tampermonkey](https://www.tampermonkey.net/) - Gerenciador de script de usuário de código aberto.
+- [Violentmonkey](https://violentmonkey.github.io/) - Gerenciador de scripts de usuário de código aberto.
+- [Tampermonkey](https://www.tampermonkey.net/) - Gerenciador de scripts de usuário de código aberto.
 - [greasyfork.org](https://greasyfork.org/) - Repo para incontáveis ​​userscripts úteis.
 - [userscripts-mirror.org](https://userscripts-mirror.org/) - Repositório alternativo de scripts. Espelho para Userscripts.org.
 - [openuserjs.org](https://openuserjs.org/) - repositório alternativo de scripts.
 - [TinyShield](https://cdn.jsdelivr.net/npm/@list-kr/tinyshield@latest/dist/tinyShield.user.js) - Defuser para os sites não saberem que você está usando adblock.
 - [Doceru Userscript](https://github.com/etoshy/Doceru-Userscript) - Extrai livros e documentos do docer.ar, docubra.com e doceru.com sem a necessidade de abrir o menu do inspecionar — com botão de download e barra de progresso.
 - [Passei Direto Bypass](https://greasyfork.org/en/scripts/480840-passei-direto-bypass) - Desembaça respostas no site da Passei Direto.
-- [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Permite a cópia de texto de sites que tentam impedir a cópia.
+- [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Permite a cópia de texto de sites que tentam impedir que você use a função de copiar.
 - [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adiciona botão ao lado de links encurtados que resolve o URL para sua localização verdadeira.
 - [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Permite selecionar/realçar links em vez do comportamento padrão de arrastá-los.
 - [Botão Sci-hub](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adiciona um botão sci-hub a inúmeros sites de artigos acadêmicos/acadêmicos para desbloquear o artigo que está sendo visualizado.
