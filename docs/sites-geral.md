@@ -52,7 +52,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Portal focado em trazer as últimas notícias sobre direitos autorais, privacidade e tudo relacionado a compartilhamento de arquivos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentfreak.com/)
 
-### 🔗 [4get](https://4get.ch/)
+### 🔗 [4get](https://4get.ca/)
 
 - Não esconde resultados de navegação por DRM com o Yandex selecionado.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4get.ch/)
