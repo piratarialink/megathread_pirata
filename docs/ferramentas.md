@@ -266,11 +266,11 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [MPMux](https://mpmux.com/) - Pode baixar vídeos no formato HLS, .m3u8, MP4 e WebM.
 - [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar mídias de vários domínios.
 - **[Trialware]** [StreamFab](https://streamfab.com/) - Focado em download para plataformas de streaming. Consegue baixar da Globoplay.
-- [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 GiB por 6 horas do Mega.
+- [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 GB por 6 horas do Mega.
 - [Skillshare-dl](https://github.com/mrwnwttk/skillshare-dl) - Baixe do skillshare. [Tópico original.](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/)
 - [Outro Skillshare-dl](https://github.com/KENWAY/Skillshare-DL) - Baixe do skillshare
 - [Firedown](https://www.firedown.app/) - Mais um downloader de vídeos.
-- [Baixar do Soundcloud](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/) - Extensão do Firefox. Tópico original [aqui](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/). Por /u/ImTwain.
+- [Soundcloud Downloader](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/) - Extensão do Firefox. Tópico original [aqui](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/). Por /u/ImTwain.
 - **[Pago]** [Katomart](https://katomart.com/) - Aplicativo em fase de testes que faz o download de vídeos de plataformas EAD, tudo dentro da lei.
 - [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de conteúdo do GetComics.info facilmente.
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) - Para baixar o vídeo do iPlayer da BBC.
