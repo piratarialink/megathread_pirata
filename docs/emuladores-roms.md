@@ -67,7 +67,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [Lemuroid](https://f-droid.org/en/packages/com.swordfish.lemuroid/)
 
-- Emulador de código aberto para o Android.
+- Emulador de código aberto sem anúncios para o Android.
 
 ### 🔗 [MAME](https://www.mamedev.org/)
 
@@ -111,7 +111,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [FCEUX](https://fceux.com/web/home.html) • Famicom
 
-- Um pacote completo que oferece jogos casuais e emulação realista.
+- Um pacote completo que oferece jogos casuais e emulação sofisticada.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fceux.com/)
 
 ### 🔗 [melonDS](https://melonds.kuribo64.net/) • DS
