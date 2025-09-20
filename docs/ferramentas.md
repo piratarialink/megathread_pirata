@@ -33,7 +33,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer) - “Conserta” o Windows 11
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece)
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
-- [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado. Também automatiza funções.
+- [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado, bem como automatiza funções.
 - 🌟 [**Chocolatey**](https://chocolatey.org/) - Um instalador de linha de comando para o Windows.
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows translúcida/transparente.
