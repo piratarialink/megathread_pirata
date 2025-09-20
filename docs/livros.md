@@ -124,17 +124,12 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🌟 [Arquivo da Anna](https://pt.annas-archive.org/)
 
-- Library Genesis, Sci-Hub e Z-Library estão entre os sites incluídos neste resiliente mecanismo de pesquisa de bibliotecas de sombra.
+- Library Genesis, Sci-Hub e Z-Library estão incluídos neste resiliente mecanismo de pesquisa de _shadow libraries_.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/annas-archive.org/)
-
-### 🔍 [PDF Room](https://pdfroom.com/)
-
-- Buscador indexador onde você pode localizar livros em PDF para lazer e educação.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pdfroom.com/)
 
 ### 🔍 [Buscador de Livros Rave](https://ravebooksearch.com/)
 
-- Os usuários são ajudados pelo mecanismo de pesquisa a encontrar downloads gratuitos de e-books. Ele também permite alternar para uma função de pesquisa de Audiobook.
+- Os usuários são ajudados pelo mecanismo de pesquisa a encontrar downloads gratuitos de e-books, bem como Audiobooks.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravebooksearch.com/)
 
 ## 🖱 ➜ Aplicativos para Computador
@@ -163,7 +158,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🧲 [Academic Torrents](https://academictorrents.com/)
 
-- Enormes conjuntos de dados compartilhados por meio de um sistema distribuído, dando aos pesquisadores acesso a um repositório de dados escalável, seguro e tolerante a falhas.
+- Enorme conjunto de dados compartilhados por meio de um sistema distribuído, dando aos pesquisadores acesso a um repositório de dados escalável, seguro e sem risco de falhas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/academictorrents.com/)
 
 ### 🌟 [AudioBook Bay](https://audiobookbay.lu/) / [2](https://audiobookbay.se/) • Necessário Cadastrar-se
