@@ -94,14 +94,14 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [xenia](https://xenia.jp/) • Xbox 360
 
-- Ótimo projeto que simula jogos amados em PCs modernos.
+- Ótimo projeto que simula jogos amados de 360 em PCs modernos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xenia.jp/)
 
 ## 🟥 ➜ Nintendo
 
 ### 🔗 [Cemu](https://cemu.info/) • Wii U
 
-- Jogue a maioria dos jogos enquanto é continuamente atualizado com novos recursos.
+- Jogue a maioria dos jogos do console mais subestimado da Nintendo, é anualmente atualizado com novos recursos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cemu.info/)
 
 ### 🌟 [**Dolphin**](https://dolphin-emu.org/) • GameCube + Wii
@@ -126,7 +126,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [mGBA](https://mgba.io/) • Game Boy Advance
 
-- Rápido o suficiente para operar em hardware menos potente, mantendo a portabilidade.
+- Rápido o suficiente para operar em hardwares menos potentes, mantendo a portabilidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mgba.io/)
 
 ### 🔗 [puNES](https://github.com/punesemu/puNES) • NES
@@ -161,7 +161,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [Snes9x](https://github.com/snes9xgit/snes9x) • Super Famicom
 
-- Compativel com Linux e atualizado todos os anos.
+- Compatível com Linux e atualizado todos os anos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [Sudachi](https://github.com/emuplace/sudachi.emuplace.app) • Switch
@@ -205,7 +205,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**ePSXe**](https://www.epsxe.com/) • PlayStation 1
 
-- Emulador incrível que é rápido e fácil para começar a jogar.
+- Emulador incrível, rápido e fácil para quem deseja revisitar a jogoteca do PSX.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/epsxe.com/)
 
 ### 🌟 [**PCSX2**](https://pcsx2.net/) • PlayStation 2
@@ -238,7 +238,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**Crocdb**](https://crocdb.net/)
 
-- ROMs para múltiplos sistemas com download direto do site.
+- ROMs para múltiplos sistemas com download direto no site.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/crocdb.net/)
 
 ### 🔗 [PSX Downloads](https://psxdownloads.us/) - Necessário Registrar-se
@@ -346,12 +346,12 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Jogos de console retrô no seu PC. Reviva sua infância agora mesmo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romulation.org/)
 
-### 🔗 [Vimm's Lair](https://vimm.net/)
+### 🌟 [Vimm's Lair](https://vimm.net/)
 
 - Dedicado a boas lembranças de vários sistemas e a milhares de jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
-### 🌟 [**Ziperto**](https://www.ziperto.com)
+### 🔗 [**Ziperto**](https://www.ziperto.com)
 
 - Excelente para obter roms do Switch, apenas tome cuidado para não sair clicando em qualquer coisa e tenha o bom senso de usar adblock.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ziperto.com/)
