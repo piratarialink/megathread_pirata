@@ -63,7 +63,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [ares](https://ares-emu.net/)
 
-- Emulador de código aberto e cross-platforma que prioriza precisão e preservação.
+- Emulador de código aberto e cross-platform que prioriza precisão e preservação.
 
 ### 🔗 [Lemuroid](https://f-droid.org/en/packages/com.swordfish.lemuroid/)
 
