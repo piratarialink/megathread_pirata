@@ -31,7 +31,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [Audio wareZ](https://audioz.download/)
 
-- Biblioteca com plugins para FL Studio, vídeos educacionais e partituras.
+- Biblioteca com plugins para FL Studio, VSTs, vídeos educacionais e partituras.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audioz.download/)
 
 ### 🌟 [4download](https://4download.net/softwares/windows/audio-tools-win/audio-plugins/)
