@@ -130,7 +130,7 @@ O uBlock Origin é uma extensão de navegador popular projetada para bloquear an
 
 O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo baseada em rede, geralmente implementada em um Raspberry Pi ou em um servidor local. Funciona como um servidor DNS que intercepta solicitações de DNS feitas por dispositivos na rede e bloqueia solicitações para servidores de anúncios e domínios de conteúdo indesejado. Isso melhora a velocidade de navegação, reduz o consumo de largura de banda e aumenta a privacidade, já que muitos rastreadores e anúncios são bloqueados antes de serem carregados. O Pi-hole também fornece estatísticas detalhadas sobre o tráfego de rede e os domínios bloqueados, permitindo um controle mais preciso sobre o fluxo de dados na rede local.
 
-:::info Utilizar a lista do [PerfLyst](https://github.com/Perflyst/PiHoleBlocklist) para bloquear anúncios na SmartTV
+:::info Utilizar a lista do [PerfLyst](https://github.com/Perflyst/PiHoleBlocklist) para bloquear anúncios na smarttv
 :::
 
 :::warning O Pi-hole é somente para usúarios avançados
@@ -168,7 +168,7 @@ Um sistema operacional mobile privado e seguro com compatibilidade de aplicativo
 
 Bisq é uma DEX de código aberto exclusiva para desktop que permite que você troque moedas fiduciárias (via PIX do Brasil ou SEPA para residentes de Portugal) por bitcoin, monero, litecoin e etherum; funciona somente com o serviço Tor que a propósito já vem integrado após a instalação do cliente.
 
-**Nota importante:** o bitcoin não é confidencial por padrão mas existem algumas formas relativamente fáceis de contornar isso, por exemplo: passar seus bitcoins para rede liquid e retornar para on-chain utilizando a [boltz.exchange](https://boltz.exchange) (**não compre btc de exchanges que operam sob a rede lightning pois ela é muito arriscada**).
+**Nota importante:** o bitcoin não é confidencial por padrão mas existem algumas formas relativamente fáceis de contornar isso, por exemplo: passar seus bitcoins para rede liquid e retornar para on-chain utilizando a [boltz.exchange](https://boltz.exchange) (**não compre btc de exchanges que operam sob a rede lightning**).
 
 Além do método referido, tem também o mixer [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver), ele exige um full node seu, ou seja, a blockchain inteira, então é um localhost muito mais seguro. Dos outros participantes, ele exigirá a mesma coisa. Você envia do seu endereço para um gerado pelo JoinMarket e os outros participantes também, assim ele mistura as transações, tudo isso, de forma descentralizada.
 
