@@ -141,7 +141,7 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 ### [Tuta Mail](https://tuta.com/)
 
 Anonimato garantido através de criptografia de ponta a ponta, opção de pagamento com monero, 2FA e suporte para a rede Tor.
-Ao se cadastrar dados pessoais e número de telefone não são solicitados, tampouco segundo e-mail para confirmação; o seu único ponto negativo é a questão de exclusão de contas visto que após seis meses de inatividade há a possibilidade de o seu endereço de email ser excluído unilateralmente sem aviso prévio. Possui um plano gratuito.
+Ao se cadastrar dados pessoais e número de telefone não são solicitados, tampouco segundo e-mail para confirmação; o seu único ponto negativo é a questão de exclusão de contas, visto que após seis meses de inatividade há a possibilidade de o seu endereço de email ser excluído unilateralmente sem aviso prévio. Possui um plano gratuito.
 
 ### [Mailbox.org](https://mailbox.org/)
 
@@ -168,7 +168,7 @@ Um sistema operacional mobile privado e seguro com compatibilidade de aplicativo
 
 Bisq é uma DEX de código aberto exclusiva para desktop que permite que você troque moedas fiduciárias (via PIX do Brasil ou SEPA para residentes de Portugal) por bitcoin, monero, litecoin e etherum; funciona somente com o serviço Tor que a propósito já vem integrado após a instalação do cliente.
 **Nota importante:** o bitcoin não é confidencial por padrão mas existem algumas formas relativamente fáceis de contornar isso, por exemplo: passar seus bitcoins para rede liquid e retornar para on-chain utilizando a [boltz.exchange](https://boltz.exchange) (**não compre btc de exchanges que operam sob a rede lightning pois ela é muito arriscada**).
-Além do método referido, tem também o mixer descentralizado [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver), ele exige um full node seu, ou seja, a blockchain inteira, então é um localhost muito mais seguro. Dos outros participantes, ele exigirá a mesma coisa. Você envia do seu endereço para um gerado pelo JoinMarket e os outros participantes também, assim ele mistura as transações, tudo isso, de forma descentralizada.
+Além do método referido, tem também o mixer [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver), ele exige um full node seu, ou seja, a blockchain inteira, então é um localhost muito mais seguro. Dos outros participantes, ele exigirá a mesma coisa. Você envia do seu endereço para um gerado pelo JoinMarket e os outros participantes também, assim ele mistura as transações, tudo isso, de forma descentralizada.
 
 :::warning Evite corretoras de cripto como a Binance e Mercado Bitcoin - CEXs que envolvem a exposição de seus dados pessoais (KYC) e desenvolvimento baseado em código fechado
 :::
