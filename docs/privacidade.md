@@ -162,6 +162,14 @@ Um sistema operacional mobile privado e seguro com compatibilidade de aplicativo
 
 ![LineageOS](./images/lineage_os.jpg)
 
+## Criptomoedas
+
+### [Bisq](https://bisq.network)
+
+Bisq é uma aplicação de código aberto exclusiva para desktop que permite que você troque moedas fiduciárias por bitcoin, monero e etherum (PIX do Brasil e SEPA para residentes de Portugal); funciona somente com o serviço Tor que a propósito já vem integrado após a instalação do cliente.
+O bitcoin não é confidencial por padrão mas existem algumas formas relativamente fáceis de contornar isso, por exemplo: passar seus bitcoins para rede liquid e retornar para on-chain utilizando a boltz.exchange (**não compre btc de exchanges que operam sob a rede lightning pois ela é muito arriscada**).
+Além do método referido, tem também o JoinMarket. Ele exige um full node seu, ou seja, a blockchain inteira, então é um localhost muito mais seguro. Dos outros participantes, ele exigirá a mesma coisa. Você envia do seu endereço para um gerado pelo JoinMarket e os outros participantes também, assim ele mistura as transações, tudo isso, de forma descentralizada.
+
 ## Criptografia de disco
 
 ### [Veracypt](https://www.veracrypt.fr/en/Home.html)
