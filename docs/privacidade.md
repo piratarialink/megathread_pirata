@@ -140,12 +140,12 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 
 ### [Tuta Mail](https://tuta.com/)
 
-Anonimato garantido através de criptografia de ponta a ponta, 2FA e suporte para a rede Tor.
+Anonimato garantido através de criptografia de ponta a ponta, opção de pagamento com monero, 2FA e suporte para a rede Tor.
 Ao se cadastrar dados pessoais e número de telefone não são solicitados, tampouco segundo e-mail para confirmação; o seu único ponto negativo é a questão de exclusão de contas visto que após seis meses de inatividade há a possibilidade de o seu endereço de email ser excluído unilateralmente sem aviso prévio. Possui um plano gratuito.
 
 ### [Mailbox.org](https://mailbox.org/)
 
-Mailbox.org é um serviço de e-mail baseado na Alemanha que oferece recursos avançados de privacidade e segurança. Ele fornece aos usuários endereços de e-mail personalizáveis, armazenamento de e-mail criptografado, filtro de spam eficiente e uma interface de usuário amigável. Ademais, o Mailbox.org oferece recursos como calendário, contatos, armazenamento de arquivos e ferramentas de colaboração, tornando-se uma solução abrangente para comunicação e produtividade. Sua ênfase na privacidade inclui criptografia de ponta a ponta, políticas rígidas de proteção de dados e opções de pagamento anônimo.
+Mailbox.org é um serviço de e-mail baseado na Alemanha que oferece recursos avançados de privacidade e segurança. Ele fornece aos usuários endereços de e-mail personalizáveis, armazenamento de e-mail criptografado, filtro de spam eficiente e uma interface de usuário amigável. Ademais, o Mailbox.org oferece recursos como calendário, contatos, armazenamento de arquivos e ferramentas de colaboração, tornando-se uma solução abrangente para comunicação e produtividade. Sua ênfase na privacidade inclui criptografia de ponta a ponta e políticas rígidas de proteção de dados.
 
 ## Sistema Operacional Android
 
