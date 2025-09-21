@@ -170,7 +170,7 @@ Bisq é uma DEX de código aberto exclusiva para desktop que permite que você t
 
 **Nota importante:** o bitcoin não é confidencial por padrão mas existem algumas formas relativamente fáceis de contornar isso, por exemplo: passar seus bitcoins para rede liquid e retornar para on-chain utilizando a [boltz.exchange](https://boltz.exchange) (**não compre btc de exchanges que operam sob a rede lightning**).
 
-Além do método referido, também é possível usar mixers como o [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver), como ele exige um full node seu, ou seja, a blockchain inteira, é um localhost muito seguro. Dos outros participantes, ele exigirá a mesma coisa. Você envia do seu endereço para um gerado pelo JoinMarket e os outros participantes também, assim ele mistura as transações, tudo isso, de forma descentralizada.
+Além do método referido, também é possível usar mixers que atuam através de técnicas coinjoin como o [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver), uma ferramenta que exige um full node seu, ou seja, a blockchain inteira; é um localhost muito seguro. Dos outros participantes, ele exigirá a mesma coisa. Você envia do seu endereço para um gerado pelo JoinMarket e os outros participantes também, assim ele mistura as transações, tudo isso, de forma descentralizada.
 
 :::warning Evite corretoras de cripto como a Binance e Mercado Bitcoin - CEXs que envolvem a exposição de seus dados pessoais (KYC) e desenvolvimento baseado em código fechado
 :::
