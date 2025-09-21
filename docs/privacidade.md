@@ -1,6 +1,6 @@
 # 🪶 ➜ Privacidade
 
-:::info Essa página ainda é um esboço. Feito com base nas recomendações do [PrivacyGuides](https://www.privacyguides.org/) e [Spyware Watchdog](https://spyware.neocities.org/).
+:::info Essa página ainda é um esboço. Feito com base nas recomendações do [Privacy Guides](https://www.privacyguides.org/) e [Spyware Watchdog](https://spyware.neocities.org/).
 :::
 
 ## Panorama da Segurança
@@ -166,7 +166,7 @@ Um sistema operacional mobile privado e seguro com compatibilidade de aplicativo
 
 ### [Bisq](https://bisq.network)
 
-Bisq é uma DEX de código aberto exclusiva para desktop que permite que você troque moedas fiduciárias (via PIX do Brasil ou SEPA para residentes de Portugal) por bitcoin, monero, litecoin e etherum; funciona somente com o serviço Tor que a propósito já vem integrado após a instalação do cliente.
+Bisq é uma DEX de código aberto exclusiva para desktop que permite que você troque moedas fiduciárias (via PIX do Brasil ou SEPA para residentes de Portugal) por bitcoin, monero, litecoin e ethereum; funciona somente com o serviço Tor que a propósito já vem integrado após a instalação do cliente.
 
 **Nota importante:** o bitcoin não é confidencial por padrão mas existem algumas formas relativamente fáceis de contornar isso, por exemplo: passar seus bitcoins para rede liquid e retornar para on-chain utilizando a [boltz.exchange](https://boltz.exchange) (**não compre btc de exchanges que operam sob a rede lightning**).
 
