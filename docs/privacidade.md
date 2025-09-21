@@ -27,16 +27,6 @@ A inviolabilidade do lar só pode ser excepcionada em casos de flagrante delito,
 
 ## Navegadores
 
-### [Mullvad Browser](https://mullvad.net/en/browser)
-
-O Navegador Mullvad é uma versão do Navegador Tor com as integrações do roteamento onion removidas, com o objetivo de fornecer as tecnologias de anti-reconhecimento do Browser. Ele é gratuito e desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
-
-- Anti-Fingerprinting
-- Modo de navegação privativa
-
-:::info Disponível para Windows e Linux.
-:::
-
 ### [Librewolf](https://librewolf.net/)
 
 O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Habilita o recurso upstreamed do RFP pelo projeto Tor Uplift e já vem com o Ublock Origin pré-instalado.
@@ -68,6 +58,16 @@ O Cromite é um fork do Chromium baseado no fork do Bromite com bloqueio de anú
 
 ![Cromite](./images/cromite.png)
 
+### [Mullvad Browser](https://mullvad.net/en/browser)
+
+O Navegador Mullvad é uma versão do Navegador Tor com as integrações do roteamento onion removidas, com o objetivo de fornecer as tecnologias de anti-reconhecimento do Browser. Ele é gratuito e desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
+
+- Anti-Fingerprinting
+- Modo de navegação privativa
+
+:::info Disponível para Windows e Linux.
+:::
+
 ## Gerenciador de Senhas
 
 ### [Bitwarden](https://bitwarden.com/)
@@ -96,6 +96,10 @@ Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que c
 ### [IVPN](https://www.ivpn.net/)
 
 - Ótima alternativa para a Mullvad VPN
+
+### [Private Internet Access](https://www.privateinternetaccess.com/)
+
+- Suporta port-forwarding, fazendo suportar a rede P2P (peer-to-peer)
 
 ### [ProtonVPN](https://protonvpn.com)
 
@@ -133,6 +137,11 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 :::
 
 ## Provedores de E-mail
+
+### [Tuta Mail](https://tuta.com/)
+
+Anonimato garantido através de criptografia de ponta-a-ponta, 2FA e suporte para a rede Tor.
+Ao se cadastrar dados pessoais e número de telefone não são solicitados, tampouco segundo e-mail para confirmação; o seu único ponto negativo é a questão de exclusão de contas visto que após seis meses de inatividade há a possibilidade de o seu endereço de email ser excluído unilateralmente sem aviso prévio. Possui um plano gratuito.
 
 ### [Mailbox.org](https://mailbox.org/)
 
