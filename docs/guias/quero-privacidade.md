@@ -28,7 +28,7 @@
 - Navegador: Baseado no Firefox + uBlock Origin + CSS Exfil Protection + oisd.nl + Containers + arkenfox.js
 - Chat: Lemmy, SimpleX, Mastodon, XMPP e systemli.org
 - Android: GrapheneOS
-- Desktop: Linux com LUKS
+- Desktop: Linux (Dual Boot) com LUKS
 - Provedor de dominio: Sarek Oy, Porkbun, Cloudflare ou BasedFlare
 - Meet: systemli.org, Jitsi
 - Moeda digital: Monero 
