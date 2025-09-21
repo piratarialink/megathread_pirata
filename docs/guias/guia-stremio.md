@@ -27,7 +27,7 @@ Os provedores buscam a mídia na Internet e retornam com o resultado quando poss
 Cada provedor tem uma forma de funcionar, podendo ser via Torrent(ponta-a-ponta), HTTP, Debrid, e outros.
 
 ::: warning Torrent
-Ao baixar um torrent, você expõe para a Internet que está fazendo o download de tal arquivo, existe uma pequena chance de receber uma ocorrência do seu ISP, isso varia com as leis de cada país.
+Ao baixar um torrent, você expõe para a Internet que está fazendo o download de tal arquivo, existe uma pequena chance de receber uma ocorrência do seu ISP.
 :::
 
 Recomendo esses provedores, que fornecem conteúdo em português:
@@ -42,7 +42,7 @@ Catálogos disponibilizam os filmes, series, e outros que irão aparecer na tela
 
 Cinemeta já vem pre instalado com o Stremio, e não é removível, ele somente possui informações em inglês, que podem estar desatualizadas, contudo, é interessante ter outro add-on de catálogo.
 
-:::info Rating Poster Database (RPDB).
+:::info Rating Poster Database (RPDB)
 Alguns add-ons fornecem suporte ao RPDB, que fornece avaliações nas capas do catálogo. Use a chave **t0-free-rpdb** para usar o tier gratuito.
 :::
 
