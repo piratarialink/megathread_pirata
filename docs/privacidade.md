@@ -141,7 +141,7 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 ### [Tuta Mail](https://tuta.com/)
 
 Anonimato garantido através de criptografia de ponta a ponta, opção de pagamento com monero, 2FA e suporte para a rede Tor.
-Ao se cadastrar dados pessoais e número de telefone não são solicitados, tampouco segundo e-mail para confirmação; o seu único ponto negativo é a questão de exclusão de contas, visto que após seis meses de inatividade há a possibilidade de o seu endereço de email ser excluído unilateralmente sem aviso prévio. Possui um plano gratuito.
+Ao se cadastrar dados pessoais e número de telefone não são solicitados, tampouco segundo e-mail para confirmação; o lado negativo é o limite imposto de uma conta apenas para cada usuário e a possibilidade de o seu endereço de email ser excluído unilateralmente sem aviso prévio após seis meses de inatividade. Possui um plano gratuito.
 
 ### [Mailbox.org](https://mailbox.org/)
 
