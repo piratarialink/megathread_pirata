@@ -74,7 +74,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - 🌟 [**uBlock Origin**](https://github.com/gorhill/uBlock#installation) - para bloquear a maioria dos anúncios e pop-ups.
 - [AdNauseam](https://adnauseam.io/) - Baseado no uBlock Origin. Projetado para ofuscar os dados de navegação e proteger os usuários do rastreamento por redes de publicidade
 - [Pi-hole](https://pi-hole.net/) - Bloqueio de anúncios em toda a rede
-- [AdAway](https://adaway.org/) - AdAway é um bloqueador de anúncios de código aberto para Android, funciona melhor no GrapheneOS com root.
+- [AdAway](https://adaway.org/) - AdAway é um bloqueador de anúncios de código aberto para Android, funciona melhor no Android (e derivados) com root.
 - [Blokada 5](https://blokada.org/) - Blokada é um popular bloqueador de anúncios e aplicativo de privacidade para Android.
 - [AdGuard](https://adguard-dns.io/pt_br/public-dns.html) - O AdGuard é um servidor de DNS para bloqueio de anúncios e rastreamento em toda a rede.
 - [ControlD](https://controld.com/free-dns?freeResolverType=blockMalwareAndAds&helpPane=dns) - Servidor de DNS semelhante ao AdGuard que bloqueia anúncios até mesmo dentro de aplicativos.
