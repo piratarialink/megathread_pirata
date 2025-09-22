@@ -20,7 +20,7 @@
 
 - Configurar o navegador para excluir todos os dados sempre que você for fechá-lo (histórico, cookies, senhas, etc.): isso diminui a possibilidade de ter as contas invadidas e você não precisa se preocupar em caso de acesso não autorizado ao seu dispositivo
 - VPN: IVPN com Multihop ou Mullvad
-- Email: mailbox.org + systemli.org com Thunderbird/Claws Mail + uBlock Origin
+- Email: mailbox.org + systemli.org com Thunderbird  + uBlock Origin ou Claws Mail
 - Encriptação de Email: GnuPG, GPG4WIN no Windows ou OpenKeychain no Android
 - XMPP: dismail.de + Whonix ou TailOS
 - Armazenamento: HD ou SSD com Veracrypt
