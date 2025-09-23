@@ -138,10 +138,10 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 
 ## Provedores de E-mail
 
-### [Tuta Mail](https://tuta.com/)
+### [Posteo](https://posteo.de/)
 
-Anonimato garantido através de criptografia de ponta a ponta, opção de pagamento com monero, 2FA e suporte para a rede Tor.
-Ao se cadastrar dados pessoais e número de telefone não são solicitados, tampouco segundo e-mail para confirmação; o lado negativo é o limite imposto de uma conta apenas para cada usuário e a possibilidade de o seu endereço de email ser excluído unilateralmente sem aviso prévio após seis meses de inatividade. Possui um plano gratuito.
+Anonimato garantido através de criptografia de ponta a ponta, 2FA e suporte para a gateway Tor através do Thunderbird com TorBirdy.
+pagonAo se cadastrar dados pessoais e número de telefone não são solicitados, tampouco segundo e-mail para confirmação; o lado negativo é que além de ser um serviço pago, não há a possibilidade de obter domínios personalizados (ao contrário do mailbox.org).
 
 ### [Mailbox.org](https://mailbox.org/)
 
