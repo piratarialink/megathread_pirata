@@ -140,12 +140,11 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 
 ### [Posteo](https://posteo.de/)
 
-Anonimato garantido através de criptografia de ponta a ponta, 2FA e suporte para a gateway Tor através do Thunderbird com TorBirdy.
-pagonAo se cadastrar dados pessoais e número de telefone não são solicitados, tampouco segundo e-mail para confirmação; o lado negativo é que além de ser um serviço pago, não há a possibilidade de obter domínios personalizados (ao contrário do mailbox.org).
+Anonimato garantido através de criptografia de ponta a ponta, 2FA e suporte para a gateway Tor através do Thunderbird com TorBirdy. Ao se cadastrar dados pessoais como número de telefone não são solicitados, tampouco segundo e-mail para confirmação; o lado negativo é que além de ser um serviço pago, não há a possibilidade de obter domínios personalizados (ao contrário do mailbox.org).
 
 ### [Mailbox.org](https://mailbox.org/)
 
-Mailbox.org é um serviço de e-mail baseado na Alemanha que oferece recursos avançados de privacidade e segurança. Ele fornece aos usuários endereços de e-mail personalizáveis, armazenamento de e-mail criptografado, filtro de spam eficiente e uma interface de usuário amigável. Ademais, o Mailbox.org oferece recursos como calendário, contatos, armazenamento de arquivos e ferramentas de colaboração, tornando-se uma solução abrangente para comunicação e produtividade. Sua ênfase na privacidade inclui criptografia de ponta a ponta e políticas rígidas de proteção de dados. Possui um período de testes gratuito de 30 dias onde mensagens apenas podem ser encaminhadas para outras contas da mailbox.org.
+Mailbox.org é um serviço de e-mail baseado na Alemanha que oferece recursos avançados de privacidade e segurança. Ele fornece aos usuários endereços de e-mail personalizáveis, armazenamento de e-mail criptografado, filtro de spam eficiente e uma interface de usuário amigável. Ademais, o Mailbox.org oferece recursos como calendário, contatos, armazenamento de arquivos e ferramentas de colaboração, tornando-se uma solução abrangente para comunicação e produtividade. Sua ênfase na privacidade inclui criptografia de ponta a ponta e políticas rígidas de proteção de dados. Possui um período de testes gratuito de 30 dias onde as mensagens apenas podem ser encaminhadas para outras contas da mailbox.org.
 
 ## Sistema Operacional Android
 
