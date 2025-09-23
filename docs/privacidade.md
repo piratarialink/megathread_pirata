@@ -144,7 +144,7 @@ Anonimato garantido através de criptografia de ponta a ponta, 2FA e suporte par
 
 ### [Mailbox.org](https://mailbox.org/)
 
-Mailbox.org é um serviço de e-mail baseado na Alemanha que oferece recursos avançados de privacidade e segurança. Ele fornece aos usuários endereços de e-mail personalizáveis, armazenamento de e-mail criptografado, filtro de spam eficiente e uma interface de usuário amigável. Ademais, o Mailbox.org oferece recursos como calendário, contatos, armazenamento de arquivos e ferramentas de colaboração, tornando-se uma solução abrangente para comunicação e produtividade. Sua ênfase na privacidade inclui criptografia de ponta a ponta e políticas rígidas de proteção de dados. Possui um período de testes gratuito de 30 dias onde as mensagens apenas podem ser encaminhadas para outras contas da mailbox.org.
+Mailbox.org é um serviço de e-mail baseado na Alemanha que oferece recursos avançados de privacidade e segurança. Ele fornece aos usuários endereços de e-mail personalizáveis, armazenamento de e-mail criptografado, filtro de spam eficiente e uma interface de usuário amigável. Ademais, o Mailbox.org oferece recursos como calendário, contatos, armazenamento de arquivos e ferramentas de colaboração, tornando-se uma solução abrangente para comunicação e produtividade. Sua ênfase na privacidade inclui criptografia de ponta a ponta e políticas rígidas de proteção de dados. Possui um período de testes gratuito de 30 dias onde as mensagens podem ser encaminhadas apenas para outras contas da mailbox.org.
 
 ## Sistema Operacional Android
 
