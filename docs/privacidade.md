@@ -37,9 +37,13 @@ O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Hab
 
 ![Librewolf](./images/librewolf.png)
 
+### [IronFox](https://ironfox.org)
+
+Procurando manter o legado do Mull Browser vivo, este software leve escrito em JS é o meio mais seguro e confiável de navegar na internet pelo Android, totalmente código aberto, sem anúncios e com a telemetria já desativada desde a primeira interação; se ainda preferir, você mesmo pode [desativá-la](https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection) no about:config do [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/): outro derivado do firefox mobile também disponível para android.
+
 ### [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 
-É um projeto opensource (código aberto), baseado em Chromium, mas sem manipulação do Google: remove os serviços e rastreamento do Google e telemetria.
+Trata-se de um projeto opensource (código aberto), baseado em Chromium, mas sem manipulação do Google: remove os serviços e rastreamento do Google e telemetria.
 Todavia requer que o usuário configure de maneira manual, para uma privacidade ainda mais robusta.
 
 :::tip É fundamental que você use [isso](https://github.com/NeverDecaf/chromium-web-store).
@@ -47,7 +51,7 @@ Todavia requer que o usuário configure de maneira manual, para uma privacidade 
 
 ### [Cromite](https://github.com/uazo/cromite)
 
-O Cromite é um fork do Chromium baseado no fork do Bromite com bloqueio de anúncios e aprimoramentos de privacidade.
+O Cromite é para o Chrome/Brave o que o Librewolf é para o Firefox; fork do Chromium baseado no fork do Bromite com bloqueio de anúncios e aprimoramentos de privacidade.
 
 - Anti-Fingerprinting
 - Adblock Plus
