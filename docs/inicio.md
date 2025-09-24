@@ -125,7 +125,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
 # 🌀 ➜ Perigos do Mar
 
-### ☣️ [Sites e Programas Inseguros](sites-inseguros.md)
+### ☣️ [Sites e Programas Perigosos](sites-inseguros.md)
 
 - Devido a inúmeras ofensas graves e indesculpáveis, esses sites e programas maliciosos adquiriram uma reputação terrível.
 
