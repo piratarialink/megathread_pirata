@@ -115,9 +115,9 @@
 | IGI30                          | igi30-com                                  | **Vírus** (_Detectado com malware_).                                                    |
 | MainRepo / MRepo               | mainrepo-com / mrepo-com                   | **Vírus** (_Detectado com malware_).                                                    |
 | YASDL                          | yasdl-com                                  | **Vírus** (_Versões com malware de stardock / jetbrains_).                              |
-| AllPCWorld                     | allpcworld-com                             | **Vírus** (_Carregou o KMS Matrix, conhecido malware_).                                 |
-| RSLOAD                         | rsload-net                                 | **Vírus** (_Carregou versão de malwarebytes com problemas de segurança_).               |
-| Taiwebs                        | taiwebs-com                                | **Vírus** (_Carregou versão de stardock com problemas de segurança_).                   |
+| AllPCWorld                     | allpcworld-com                             | **Vírus** (_Upou o KMS Matrix, conhecido malware_).                                 |
+| RSLOAD                         | rsload-net                                 | **Vírus** (_Upou versão do malwarebytes com problemas de segurança_).               |
+| Taiwebs                        | taiwebs-com                                | **Vírus** (_Upou versão do stardock com problemas de segurança_).                   |
 | AppValley / TutuBox / Ignition | appvalley-com / tutubox-com / ignition-com | **Comportamento antiético** (_Histórico de ataques DDoS_).                              |
 | CNET / Download-com / ZDNET    | cnet-com / download-com / zdnet-com        | **Adware** (_Histórico de adware_).                                                     |
 | 💩 Softonic                    | softonic-com                               | **Vírus** (_Detectado com malware_).                                                    |
