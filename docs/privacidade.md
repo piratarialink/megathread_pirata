@@ -147,7 +147,7 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 
 ### [Posteo](https://posteo.de/)
 
-Anonimato garantido através de criptografia de ponta a ponta, chave PGP, 2FA e suporte para a gateway Tor através do Thunderbird com TorBirdy. Ao se cadastrar dados pessoais como número de telefone não são solicitados, tampouco segundo e-mail para confirmação; o lado negativo é que além de ser um serviço pago, não há a possibilidade de obter domínios personalizados (ao contrário do mailbox.org); no entanto, seguindo essa [dica](https://discuss.privacyguides.net/t/using-posteo-w-a-custom-domain/26368/4) do fórum do Privacy Guides você pode resolver isso.
+Anonimato garantido através de criptografia de ponta a ponta, chave PGP, 2FA e suporte para a gateway Tor através do Thunderbird com TorBirdy. Ao se cadastrar dados pessoais como número de telefone não são solicitados, tampouco segundo e-mail para confirmação; o lado negativo é que além de ser um serviço pago, não há a possibilidade de obter domínios personalizados (ao contrário do mailbox.org); no entanto, seguindo essa [dica do fórum do Privacy Guides](https://discuss.privacyguides.net/t/using-posteo-w-a-custom-domain/26368/4) você pode resolver isso.
 
 ### [Mailbox.org](https://mailbox.org/)
 
@@ -174,7 +174,7 @@ Um sistema operacional mobile privado e seguro com compatibilidade de aplicativo
 
 Bisq é uma DEX de código aberto exclusiva para desktop que permite que você troque moedas fiduciárias (via PIX do Brasil ou SEPA para residentes de Portugal) por bitcoin, monero, litecoin e ethereum através do p2p; funciona somente com o serviço Tor que a propósito já vem integrado após a instalação do cliente.
 
-**Nota importante:** o bitcoin não é confidencial por padrão mas existem algumas formas relativamente fáceis de contornar isso, por exemplo: passar seus bitcoins para rede liquid e retornar para on-chain utilizando a [boltz.exchange](https://boltz.exchange) (**não compre btc de exchanges que operam sob a rede lightning**).
+**Nota importante:** o bitcoin não é confidencial por padrão mas existem algumas formas relativamente fáceis de contornar isso, por exemplo: passar seus bitcoins para rede liquid e retornar para on-chain utilizando a [boltz.exchange](https://boltz.exchange) (**não compre ou transfira btc por meio da rede lightning**).
 
 Além do método referido, também é possível usar mixers que atuam através de técnicas coinjoin como o [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver), uma ferramenta que exige um full node seu, ou seja, a blockchain inteira; é um localhost muito seguro. Dos outros participantes, ele exigirá a mesma coisa. Você envia do seu endereço para um gerado pelo JoinMarket e os outros participantes também, assim ele mistura as transações, tudo isso, de forma descentralizada.
 
