@@ -41,6 +41,7 @@ O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Hab
 
 Procurando manter o legado do Mull Browser vivo, este software leve escrito em JS é o meio mais sigiloso e confiável de navegar na internet pelo Android, totalmente código aberto, sem anúncios e com a telemetria já desativada desde a primeira interação.
 
+- Para adicionar algumas extensões vá para: 'Configurações' > 'Sobre o IronFox' > Toque na logo do IronFox cinco vezes > Volte para o painel de configurações > 'Avançado' > 'Instalar extensão a partir de arquivo'
 - Se ainda preferir, você mesmo pode [desativar a telemetria](https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection) no about:config do [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/): outro derivado do firefox mobile também disponível para Android
 
 ### [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
