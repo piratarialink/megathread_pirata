@@ -85,7 +85,7 @@ export default {
           { text: "🧰 Ferramentas", link: "ferramentas" },
           { text: "🌊 Trackers", link: "trackers" },
           { text: "🏴‍☠️ Warez", link: "warez" },
-          { text: "☣️ Sites e Programas Inseguros", link: "sites-inseguros" },
+          { text: "☣️ Sites e Programas Perigosos", link: "sites-inseguros" },
           { text: "🚫 Adulto", link: "adulto" },
         ],
       },
