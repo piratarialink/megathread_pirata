@@ -44,7 +44,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ### 🔗 [AppNee](https://appnee.com/)
 
-:::warning Carregou ativadores inseguros como o KMSPico em várias ocasiões, navegue com cautela.
+:::warning Fez o upload de ativadores inseguros como o KMSPico em várias ocasiões, navegue com cautela.
 :::
 
 - Concentra-se em programas gratuitos, independentes e portáteis e dedica-se a fornecer constantemente software útil aos usuários.
