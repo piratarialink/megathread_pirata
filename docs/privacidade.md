@@ -147,7 +147,7 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 
 ### [Posteo](https://posteo.de/)
 
-Anonimato garantido através de criptografia de ponta a ponta, chave PGP, 2FA e suporte para a gateway Tor através do Thunderbird com TorBirdy. Ao se cadastrar dados pessoais como número de telefone não são solicitados, tampouco segundo e-mail para confirmação; o lado negativo é que além de ser um serviço pago, não há a possibilidade de obter domínios personalizados (ao contrário do mailbox.org); no entanto, seguindo essa [dica do fórum do Privacy Guides](https://discuss.privacyguides.net/t/using-posteo-w-a-custom-domain/26368/4) você pode resolver isso.
+Anonimato garantido através de criptografia de ponta a ponta, chave PGP e 2FA. Ao se cadastrar dados pessoais como número de telefone não são solicitados, tampouco segundo e-mail para confirmação; o lado negativo é que além de ser um serviço pago, não há a possibilidade de obter domínios personalizados (ao contrário do mailbox.org); no entanto, seguindo essa [dica do fórum do Privacy Guides](https://discuss.privacyguides.net/t/using-posteo-w-a-custom-domain/26368/4) você pode resolver isso.
 
 ### [Mailbox.org](https://mailbox.org/)
 
