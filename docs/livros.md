@@ -270,7 +270,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [Dafont Free](https://www.dafontfree.io/)
 
-- Obtenha mais de 12.000 das melhores fontes gratuitas em categorias de alta qualidade, incluindo sem serifa, serifa, script, caligrafia, exibição e muito mais.
+- Obtenha mais de 12.000 das melhores fontes gratuitas em categorias de alta qualidade, incluindo _sans serif_, _serif_, script, caligraphy, exibition e muito mais.
 - [Resulatados de Segurança da URL](https://www.urlvoid.com/scan/dafontfree.io/)
 
 ### 🔗 [Dfonts](https://www.dfonts.org/)
@@ -320,7 +320,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [FreeFonts1](https://www.freefonts1.com/)
 
-- Gosta de tipos de letra, especialmente fontes de pincel e caligrafia? Utilize-os e espalhe a alegria em seu próximo projeto.
+- Gosta de tipos de letra e especialmente das fontes sketch e caligraphy? Utilize-as em seu próximo projeto.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/freefonts1.com/)
 
 ### 🔗 [Google Fonts](https://fonts.google.com/)
@@ -335,7 +335,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [Textfonts](https://textfonts.net/)
 
-- Você pode baixar várias fontes impressionantes e conhecidas gratuitamente para necessidades de design, incluindo scripts adoráveis, sem serifas e muito mais.
+- Você pode baixar várias fontes impressionantes e conhecidas gratuitamente para necessidades de design, incluindo scripts adoráveis, _sans serif_ e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/textfonts.net/)
 
 ### 🔗 [TypeRip](https://badnoise.net/TypeRip/)
