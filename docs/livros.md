@@ -320,7 +320,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [FreeFonts1](https://www.freefonts1.com/)
 
-- Gosta de tipos de letra e especialmente das fontes sketch e caligraphy? Utilize-as em seu próximo projeto.
+- Gosta de tipos de letra e especialmente das fontes do tipo brush ou caligraphy? Utilize-as em seu próximo projeto.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/freefonts1.com/)
 
 ### 🔗 [Google Fonts](https://fonts.google.com/)
