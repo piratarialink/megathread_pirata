@@ -103,7 +103,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🔗 [DownloadFreeCourse](https://downloadfreecourse.com/)
 
-- Baixe gratuitamente os cursos pagos da Udemy para programação, TI etc. O céu é o limite e às vezes oferecem links de torrent.
+- Baixe gratuitamente os cursos pagos da Udemy para programação, TI etc. Às vezes oferecem links de torrent.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/downloadfreecourse.com/)
 
 ### 🔗 **[TutFlix](https://tutflix.org/)** - Cursos / Drives
