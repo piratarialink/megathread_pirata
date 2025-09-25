@@ -456,6 +456,8 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [RetroSix Wiki](https://www.retrosix.wiki/) - Explica o funcionamento e reparo de consoles retrô de uma forma simples e didática.
 - [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor/pt-br) - Dedicado a desvendar e pesquisar conteúdo removido ou inutilizado de jogos antigos.
 
+Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=29)
+
 ## ► **Ferramentas Diversas**
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
