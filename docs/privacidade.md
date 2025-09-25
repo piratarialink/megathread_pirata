@@ -41,8 +41,14 @@ O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Hab
 
 Procurando manter o legado do Mull Browser vivo, este software leve é o meio mais sigiloso e confiável de navegar na internet pelo Android, totalmente código aberto, sem anúncios e com a telemetria já desativada desde a primeira interação.
 
-- Para adicionar algumas extensões vá para: `Configurações` > `Sobre o IronFox` > Toque na logo do IronFox cinco vezes > Volte para o painel de configurações > `Avançado` > `Instalar extensão a partir de arquivo`. Isso funciona também em outros navegadores baseados no Gecko.
-- Se ainda preferir, você mesmo pode [desativar a telemetria](https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection) no about:config do [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/): outro derivado do firefox mobile também disponível para Android
+- User.js personalizado com ênfase na privacidade
+- Hardening avançado contra Fingerprint
+
+:::info Se ainda preferir, você mesmo pode [desativar a telemetria](https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection) no about:config do [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/): outro derivado do firefox mobile também disponível para Android
+:::
+
+:::tip Para adicionar algumas extensões vá para: `Configurações` > `Sobre o IronFox` > Toque na logo do IronFox cinco vezes > Volte para o painel de configurações > `Avançado` > `Instalar extensão a partir de arquivo`. Isso funciona também em outros navegadores baseados no Gecko.
+:::
 
 ### [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 
@@ -185,7 +191,7 @@ Além do método referido, também é possível usar mixers que atuam através d
 
 ### [Veracypt](https://www.veracrypt.fr/en/Home.html)
 
-O VeraCrypt adiciona segurança aprimorada aos algoritmos usados ​para criptografia de sistemas e partições, tornando-o imune a novos desenvolvimentos em ataques de força bruta.
+O VeraCrypt adiciona segurança aprimorada aos algoritmos usados ​para criptografia de sistemas e partições, tornando-o imune a novos desenvolvimentos em ataques de força bruta. Inclui suporte para HD, SSD, pendrive e cartão de memória.
 
 ## Criptografia de nuvem
 
