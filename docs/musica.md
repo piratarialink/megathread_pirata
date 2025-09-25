@@ -229,7 +229,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🖥️ [Zotify](https://gitlab.com/team-zotify/zotify)
 
-- Um downloader de música e podcast do Spotify muito personalizado. É aconselhável que você utilize Zotify usando uma conta de gravador.
+- Um downloader de música e podcast do Spotify muito personalizado. É aconselhável que você utilize Zotify usando uma conta de streamer.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gitlab.com/)
 
 ### 🖥️ [SpotX](https://github.com/SpotX-Official/SpotX)
