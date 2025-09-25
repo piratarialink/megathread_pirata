@@ -263,7 +263,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [edge|emulation](https://edgeemu.net/)
 
-- Clássicos, incluindo Atari, Nintendo e Sega, estão disponíveis para download gratuito de ROM.
+- Clássicos, incluindo Atari, Nintendo e Sega, estão disponíveis para download gratuito como ROM.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/edgeemu.net/)
 
 ### 🔗 [Egg NS Roms](http://eggnsemulator.com/nintendo-switch-roms/)
