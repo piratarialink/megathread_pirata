@@ -150,7 +150,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [GLOAD](https://gload.to/) • Interface em alemão
 
-- O site de lançamento de cena fornece uma infinidade de hosters gratuitos e fáceis de usar que são facilmente acessíveis. Coma, durma, jogue e repita.
+- Site conhecido na cena por seus lançamentos, fornece uma infinidade de hosters gratuitos e fáceis de usar que são facilmente acessíveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gload.to/)
 
 ### 🌟 [GOG Games](https://gog-games.to/)
@@ -160,12 +160,12 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [MagiPack Games](https://www.magipack.games/)
 
-- Repacks de jogos retrô, old-school e vintage compatíveis com as compilações atuais do Windows, mantendo memórias do que agora é difícil de obter.
+- Repacks de jogos retrô, old-school e vintage compatíveis com as compilações atuais do Windows.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/magipack.games/)
 
 ### 🔗 [My Abandonware](https://www.myabandonware.com/)
 
-- Fundado em fevereiro de 2009, milhares de jogos foram carregados no site ao longo dos anos. Um bom banco de dados de videogame retrô.
+- Fundado em fevereiro de 2009, milhares de jogos foram upados no site ao longo dos anos. Um bom banco de dados de videogames retrô.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/myabandonware.com/)
 
 ### 🔗 [Old Games Download](https://oldgamesdownload.com/)
@@ -175,7 +175,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [Old-Games.RU](https://www.old-games.ru/) • Interface em russo
 
-- Tudo sobre jogos de computador antigos, tentando evocar memórias de uma época em que o sol brilhava mais e a grama era mais verde.
+- Tudo sobre jogos de computador antigos, use um tradutor.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/old-games.ru/)
 
 ### 🔗 [Ova Games](https://www.ovagames.com/)
@@ -221,12 +221,12 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [The Collection Chamber](https://collectionchamber.blogspot.com/)
 
-- Uma seleção significativa de jogos clássicos que foram otimizados para o Windows moderno. Agora é hora de eles serem soltos.
+- Uma seleção significativa de jogos clássicos que foram otimizados para o Windows moderno.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/collectionchamber.blogspot.com/)
 
 ### 🔗 [Torrminatorr](https://torrminatorr.com/) - Necessário Cadastro
 
-- Um número considerável de jogos está disponível gratuitamente, incluindo GOG e outros lançamentos de cena.
+- Um número considerável de jogos está disponível gratuitamente, incluindo GOG e outros lançamentos da cena.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrminatorr.com/)
 
 ### 🌟 [World of PC](https://worldofpcgames.com/)
@@ -337,7 +337,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🔍 [Buscador de jogos Rave](https://ravegamesearch.pages.dev/)
 
-- Os usuários são ajudados pelo mecanismo de busca a encontrar downloads de videogames gratuitos. Inclui novos links, bem como uma lista de sites atualizados.
+- Mecanismode busca que ajuda seus usuários a encontrar downloads de videogames gratuitos. Inclui novos links, bem como uma lista de sites atualizados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravegamesearch.pages.dev/)
 
 ## 🧵 ➜ Torrents
@@ -379,12 +379,12 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🧲 [KaOsKrew](https://kaoskrew.org/)
 
-- Rippers da velha escola que, pelo menos nas últimas duas décadas, produziram Rips e Repacks em sua própria velocidade.
+- Rippers old-school que, pelo menos nas últimas duas décadas, produziram Rips e Repacks em um ritmo alarmante.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kaoskrew.org/)
 
 ### 🧲 [Seven-Gamers](https://www.seven-gamers.com/)
 
-- Um site de torrent que oferece alguns dos jogos mais recentes, no entanto, o acesso a outros URLs do Google Drive requer entrar no grupo do Discord.
+- Um site de torrent que oferece alguns dos jogos mais recentes, no entanto, o acesso a outras URLs do Google Drive requer entrar no grupo do Discord.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/seven-gamers.com/)
 
 ### 🧲 [Xatab](https://byxatab.com/) • Interface em russo
