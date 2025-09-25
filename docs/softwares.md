@@ -273,7 +273,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ### 🔗 [Buscador de Software Rave](https://ravesoftwaresearch.pages.dev/)
 
-- Os usuários são ajudados pelo mecanismo de busca a encontrar downloads de software gratuito. Inclui interface com novos links, bem como uma lista de sites atualizados.
+- Os usuários são ajudados por este mecanismo de busca a encontrar downloads de software gratuito. Inclui interface com novos links, bem como uma lista de sites atualizados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ravesoftwaresearch.pages.dev/)
 
 ## 🧵 ➜ Torrents
