@@ -47,7 +47,7 @@ Procurando manter o legado do Mull Browser vivo, este software leve é o meio ma
 :::info Se ainda preferir, você mesmo pode [desativar a telemetria](https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection) no about:config do [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/): outro derivado do firefox mobile também disponível para Android
 :::
 
-:::tip Para adicionar algumas extensões vá para: `Configurações` > `Sobre o IronFox` > Toque na logo do IronFox cinco vezes > Volte para o painel de configurações > `Avançado` > `Instalar extensão a partir de arquivo`. Isso funciona também em outros navegadores baseados no Gecko.
+:::tip Para adicionar algumas extensões vá para: Configurações > Sobre o IronFox > Toque na logo do IronFox cinco vezes > Volte para o painel de configurações > Avançado > Instalar extensão a partir de arquivo. Isso funciona também em outros navegadores baseados no Gecko.
 :::
 
 ### [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
