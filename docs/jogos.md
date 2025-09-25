@@ -80,7 +80,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🌟 [CS.RIN.RU: Steam Underground](https://cs.rin.ru/forum/) • Necessário Cadastro
 
-- Maior fórum do mundo dedicado à pirataria de videogames, é uma valiosa fonte de jogos com vasto conhecimento.
+- Maior fórum do mundo dedicado à pirataria de videogames, é uma valiosa fonte de jogos e recursos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cs.rin.ru/)
 
 ### 🔗 [CDX](https://www.skidrowcodex.net/)
