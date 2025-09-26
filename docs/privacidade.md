@@ -193,11 +193,13 @@ Além do método referido, também é possível usar mixers que atuam através d
 
 O VeraCrypt adiciona segurança aprimorada aos algoritmos usados ​para criptografia de sistemas e partições, tornando-o imune a novos desenvolvimentos em ataques de força bruta. Inclui suporte para HD, SSD, pendrive e cartão de memória.
 
+### [LUKS](https://gitlab.com/cryptsetup/cryptsetup)
+
+LUKS é o padrão para criptografia de disco rígido no Linux. Ao fornecer um formato padrão em disco, ele não apenas facilita a compatibilidade entre distribuições, mas também fornece gerenciamento seguro de múltiplas senhas de usuários. Gratuito e de código aberto, então você pode ter certeza de que não há backdoors.
+
+Melhores distros compatíveis com LUKS: **Ubuntu** (constantemente atualizado por uma comunidade bem ativa), **Arch** com KDE Plasma (Manjaro e CachyOS são derivados do Arch recomendados para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
+
 ## Criptografia de nuvem
-
-### [Cryptomator](https://cryptomator.org/)
-
-O Cryptomator fornece criptografia transparente client-side para sua nuvem. Protege seus documentos contra acesso não autorizado. O Cryptomator é um software gratuito e de código aberto, então você pode ter certeza de que não há backdoors.
 
 ### [Nextcloud](https://nextcloud.com/)
 
