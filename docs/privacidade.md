@@ -195,7 +195,7 @@ O VeraCrypt adiciona segurança aprimorada aos algoritmos usados ​para criptog
 
 ### [LUKS](https://gitlab.com/cryptsetup/cryptsetup)
 
-LUKS é o padrão para criptografia de disco rígido no Linux. Ao fornecer um formato padrão em disco, ele não apenas facilita a compatibilidade entre distribuições, mas também fornece gerenciamento seguro de múltiplas senhas de usuários. Gratuito e de código aberto, então você pode ter certeza de que não há backdoors.
+LUKS é o padrão para criptografia de disco rígido no Linux. Ao fornecer um formato padrão em disco, ele não apenas facilita a compatibilidade entre distribuições, mas também fornece gerenciamento seguro de múltiplas senhas de usuários. Gratuito e de código aberto, para que você tenha certeza de que não há backdoors.
 
 Melhores distros compatíveis com LUKS: **Ubuntu** (constantemente atualizado por uma comunidade bem ativa), **Arch** com KDE Plasma (Manjaro e CachyOS são derivados do Arch recomendados para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
 
