@@ -122,7 +122,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ## 🔦 ➜ Buscadores
 
-### 🌟 [Arquivo da Anna](https://pt.annas-archive.org/)
+### 🌟 [Anna's Archive](https://pt.annas-archive.org/)
 
 - Library Genesis, Sci-Hub e Z-Library estão incluídos neste resiliente mecanismo de pesquisa de _shadow libraries_.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/annas-archive.org/)
