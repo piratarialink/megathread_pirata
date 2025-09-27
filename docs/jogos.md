@@ -88,7 +88,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 :::warning Sites com a combinação de nomes: Codex, Cpy, Skidrow, Hoodlum, Reloaded, Simplex, Darksiders, Plaza, etc. podem não ser seguros. Baixe com cautela.
 :::
 
-- Burla o Denuvo de alguns jogos e em alguns casos apenas.
+- Quebra o Denuvo de alguns jogos e em alguns casos apenas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/skidrowcodex.net/)
 
 ### 🔗 [online-fix.me](https://online-fix.me/)
