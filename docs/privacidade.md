@@ -1,6 +1,6 @@
 # 🪶 ➜ Privacidade
 
-:::info Essa página ainda é um esboço. Feito com base nas recomendações do [Privacy Guides](https://www.privacyguides.org/) e [Spyware Watchdog](https://spyware.neocities.org/).
+:::info Essa página ainda é um esboço. Feito com base nas recomendações do [Privacy Guides](https://www.privacyguides.org/) e [Spyware Watchdog](https://spyware.neocities.org/)
 :::
 
 ## Panorama da Segurança
@@ -47,7 +47,7 @@ Procurando manter o legado do Mull Browser vivo, este software leve é o meio ma
 :::info Se ainda preferir, você mesmo pode [desativar a telemetria](https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection) no about:config do [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/): outro derivado do firefox mobile também disponível para Android
 :::
 
-:::tip Para adicionar algumas extensões vá para: Configurações > Sobre o IronFox > Toque na logo do IronFox cinco vezes > Volte para o painel de configurações > Avançado > Instalar extensão a partir de arquivo. Isso funciona também em outros navegadores baseados no Gecko.
+:::tip Para adicionar algumas extensões vá para: Configurações > Sobre o IronFox > Toque na logo do IronFox cinco vezes > Volte para o painel de configurações > Avançado > Instalar extensão a partir de arquivo. Isso funciona também em outros navegadores baseados no Gecko
 :::
 
 ### [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
@@ -55,7 +55,7 @@ Procurando manter o legado do Mull Browser vivo, este software leve é o meio ma
 Trata-se de um projeto opensource (código aberto), baseado em Chromium, mas sem manipulação do Google: remove os serviços e rastreamento do Google e telemetria.
 Todavia requer que o usuário configure de maneira manual, para uma privacidade ainda mais robusta.
 
-:::tip É fundamental que você use [isso](https://github.com/NeverDecaf/chromium-web-store).
+:::tip É fundamental que você use [isso](https://github.com/NeverDecaf/chromium-web-store)
 :::
 
 ### [Cromite](https://github.com/uazo/cromite)
@@ -66,7 +66,7 @@ O Cromite é para o Chrome/Brave o que o Librewolf é para o Firefox; fork do Ch
 - Adblock Plus
 - Baseado em Chromium
 
-:::info Disponível para Android, Windows e Linux.
+:::info Disponível para Android, Windows e Linux
 :::
 
 ![Cromite](./images/cromite.png)
@@ -78,7 +78,7 @@ O Navegador Mullvad é uma versão do Navegador Tor com as integrações do rote
 - Anti-Fingerprinting
 - Modo de navegação privativa
 
-:::info Disponível para Windows e Linux.
+:::info Disponível para Windows e Linux
 :::
 
 ## Gerenciador de Senhas
@@ -87,7 +87,7 @@ O Navegador Mullvad é uma versão do Navegador Tor com as integrações do rote
 
 O Bitwarden é um gerenciador de senhas de código aberto e plataforma de segurança de dados que permite armazenar de forma segura senhas, cartões de crédito e outros dados confidenciais. Ele oferece recursos como preenchimento automático de senhas, geração segura de senhas, compartilhamento seguro de senhas com outras pessoas e sincronização de dados entre dispositivos. O Bitwarden é acessível através de aplicativos para desktop, navegador e dispositivos móveis, garantindo acesso fácil e seguro às suas credenciais em qualquer lugar.
 
-:::info Você pode criar sua própria instância do Bitwarden, instalando o Vaultwarden em seu servidor. Somente para usúarios avançados.
+:::info Você pode criar sua própria instância do Bitwarden, instalando o Vaultwarden em seu servidor. Somente para usúarios avançados
 :::
 
 ### [KeePassXC](https://keepassxc.org/)
@@ -123,7 +123,7 @@ Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que c
 - Suporta port-forwarding, fazendo suportar a rede P2P (peer-to-peer)
 - Suporta Monero
 
-:::warning AirVPN deve ser a última opção como VPN, seus servidores não são bons.
+:::warning AirVPN deve ser a última opção como VPN, seus servidores não são bons
 :::
 
 ## Bloqueador de anúncios e trackers
@@ -132,7 +132,7 @@ Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que c
 
 O uBlock Origin é uma extensão de navegador popular projetada para bloquear anúncios, rastreadores e outros elementos indesejados em páginas da web. Ele funciona filtrando o conteúdo da página em tempo real, impedindo que anúncios sejam carregados, o que resulta em uma experiência de navegação mais rápida e limpa. Além de bloquear anúncios, o uBlock Origin também oferece opções avançadas de filtragem, permitindo que os usuários personalizem suas configurações conforme necessário. Esta extensão é conhecida por sua eficácia, baixo consumo de recursos e pela capacidade de proteger a privacidade dos usuários, bloqueando rastreadores e scripts maliciosos.
 
-:::info Adicionar a lista [oisd.nl](https://oisd.nl) como lista adicional.
+:::info Adicionar a lista [oisd.nl](https://oisd.nl) como lista adicional
 :::
 
 ![uBlock Add](./images/ublock_oisd_add.png)
@@ -143,7 +143,7 @@ O uBlock Origin é uma extensão de navegador popular projetada para bloquear an
 
 O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo baseada em rede, geralmente implementada em um Raspberry Pi ou em um servidor local. Funciona como um servidor DNS que intercepta solicitações de DNS feitas por dispositivos na rede e bloqueia solicitações para servidores de anúncios e domínios de conteúdo indesejado. Isso melhora a velocidade de navegação, reduz o consumo de largura de banda e aumenta a privacidade, já que muitos rastreadores e anúncios são bloqueados antes de serem carregados. O Pi-hole também fornece estatísticas detalhadas sobre o tráfego de rede e os domínios bloqueados, permitindo um controle mais preciso sobre o fluxo de dados na rede local.
 
-:::info Utilizar a lista do [PerfLyst](https://github.com/Perflyst/PiHoleBlocklist) para bloquear anúncios na smarttv
+:::info Utilizar a lista do [PerfLyst](https://github.com/Perflyst/PiHoleBlocklist) para bloquear anúncios na smartTV
 :::
 
 :::warning O Pi-hole é somente para usúarios avançados
@@ -184,7 +184,7 @@ Bisq é uma DEX de código aberto exclusiva para desktop que permite que você t
 
 Além do método referido, também é possível usar mixers que atuam através de técnicas coinjoin como o [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver), uma ferramenta que exige um full node seu, ou seja, a blockchain inteira; é um localhost muito seguro. Dos outros participantes, ele exigirá a mesma coisa. Você envia do seu endereço para um gerado pelo JoinMarket e os outros participantes também, assim ele mistura as transações, tudo isso, de forma descentralizada.
 
-:::tip A [Electrum Wallet](https://electrum.org/) é uma alternativa viável à carteira oficial do bitcoin pois não requer que você baixe toda a blockchain do btc
+:::tip A [Electrum Wallet](https://electrum.org/) é uma alternativa viável à carteira oficial do bitcoin pois não requer que você baixe blockchain inteira no seu computador
 :::
 
 :::warning Evite corretoras de cripto como a Binance, Kraken e Mercado Bitcoin - CEXs que envolvem a exposição de seus dados pessoais (KYC) e desenvolvimento baseado em código fechado
@@ -202,7 +202,7 @@ LUKS é o padrão para criptografia de disco rígido no Linux. Ao fornecer um fo
 
 Melhores distros compatíveis com LUKS: **Fedora** (Bazzite é uma distribuição baseada no Fedora mais indicada para gamers), **Arch** com KDE Plasma (Manjaro e CachyOS são derivados do Arch recomendados para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
 
-:::info Desative o [systemd no Linux.](https://nosystemd.org/)
+:::info Desative o [systemd no Linux](https://nosystemd.org/)
 :::
 
 ## Criptografia de nuvem
