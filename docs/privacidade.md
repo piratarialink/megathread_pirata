@@ -200,7 +200,7 @@ O VeraCrypt adiciona segurança aprimorada aos algoritmos usados ​para criptog
 
 LUKS é o padrão para criptografia de disco rígido no Linux. Ao fornecer um formato em disco, ele não apenas facilita a compatibilidade entre distribuições, mas também fornece gerenciamento seguro de múltiplas senhas de usuários. Gratuito e de código aberto, para que você tenha certeza de que não há backdoors.
 
-Melhores distros compatíveis com LUKS: **Fedora** (Bazzite é uma distribuição baseada no Fedora mais indicada para gamers), **Arch** com KDE Plasma (Manjaro e CachyOS são derivados do Arch recomendados para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
+Melhores distros compatíveis com LUKS: **Fedora** (Bazzite é uma distribuição baseada no Fedora mais indicada para gamers), **Arch** com KDE (Manjaro e CachyOS são derivados do Arch recomendados para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
 
 :::info Desative o [systemd no Linux](https://nosystemd.org/)
 :::
