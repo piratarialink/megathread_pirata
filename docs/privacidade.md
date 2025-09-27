@@ -151,7 +151,7 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 
 ## Provedores de E-mail
 
-:::info Se for usar as recomendações abaixo no dia a dia para coisas comuns, tudo bem. Mas se a intenção for usar para atividades na web que exigem mais sigilo, talvez não valha a pena. Neste caso, comunique-se por meio de [OpenPGP](https://www.openpgp.org/software/) + serviços de e-mail hospedados na rede Tor como [Mail2Tor](http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/) (o melhor), [DNMX](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/) (recebe emails da surface normalmente), [Cock.li](http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/) (o mais estável) e [Deep Mail](http://deepmailv2xihwk7ie5q3nlmyflvjlqhvlzt3wih43eo44sfvfingeqd.onion/) (nacional)
+:::info Se for usar as recomendações abaixo no dia a dia para coisas comuns, tudo bem. Mas se a intenção for usar para atividades na web que exigem mais sigilo, talvez não valha a pena. Neste caso, comunique-se por meio de [**OpenPGP**](https://www.openpgp.org/software/) + serviços de e-mail hospedados na rede Tor como [Mail2Tor](http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/) (o melhor), [DNMX](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/) (recebe emails da surface normalmente), [Cock.li](http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/) (o mais estável) e [Deep Mail](http://deepmailv2xihwk7ie5q3nlmyflvjlqhvlzt3wih43eo44sfvfingeqd.onion/) (nacional)
 :::
 
 ### [Posteo](https://posteo.de/)
