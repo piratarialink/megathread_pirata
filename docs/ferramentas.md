@@ -25,7 +25,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Automatiza ativações de licença do Office e Windows. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL.
 - [Microsoft Toolkit](https://gitlab.com/-/project/11037551/uploads/f73eea2588a1ba5e81e529658089b20d/MTKV274.7z) - Utilitário de multipropósito: pode ativar o Windows, editar componentes e gerir a licença. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
-- [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Conjunto destinado a usuários avançados que permite renomear arquivos pelo RegEx e melhorar a UX para uma produtividade maior.
+- [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Conjunto destinado a usuários avançados que permite renomear arquivos pelo RegEx (expressões regulares) e melhorar a UX para uma produtividade maior.
 - 🌟 [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário Windows de Chris Titus Tech - Instalar programas, ajustes, correções e atualizações.
 - [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Feito para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 10+.
 - 🌟 [**SophiApp**](https://github.com/Sophia-Community/SophiApp) - A ferramenta de código aberto mais poderosa no GitHub para configurar e fazer debloat do Windows 10 e Windows 11.
@@ -248,6 +248,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto e muito mais.
 - [Côc Côc](https://coccoc.com/) - Navegador vietnamita que baixa vídeos da hotmart/kiwify apenas no PC.
+- [DownThemAll](https://github.com/downthemall/downthemall) - Perfeito para download massivo de arquivos.
 - **[Trialware]** [Downie](https://software.charliemonroe.net/downie/) - Downloader exclusivo do MacOS que pode baixar múltiplos arquivos (não apenas do youtube).
 - [Cleverget](https://cleverget.org/) - Baixa vídeos de diversas plataformas no PC.
 - [1DM](https://www.apps2sd.info/idmp/faq) - Baixa vídeos de diversas plataformas no Android.
@@ -300,7 +301,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► **Segurança**
 
 - [av-comparatives.org](https://www.av-comparatives.org/) - Análises de proteção antivírus.
-- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) - Site que cataloga malwares.
+- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) - Site que cataloga malwares e grupos de ransomware.
 - [Windows Sandbox](https://learn.microsoft.com/pt-br/windows/security/application-security/application-isolation/windows-sandbox/) - Ambiente de testes.
 - [VirusTotal.com](https://www.virustotal.com/) / [Metadefender](https://metadefender.com/) - Serviços da Web que verificam arquivos e URLs.
 - [Sandboxie+](https://sandboxie-plus.com/) - "Sandbox" para computador fraco.
@@ -334,6 +335,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Mesmo conceito do filebot, mas gratuito.
 - [AdvancedRenamer](https://www.advancedrenamer.com/) - Mesmo conceito do filebot, mas gratuito.
 - [Ant Renamer](https://antp.be/software/renamer) - Ótimo para gerenciamento rápido de strings em massa (para Plex, por exemplo).
+- [Bulk Renamer Utility](http://www.bulkrenameutility.co.uk/) - Outra forma de renomear arquivos de maneira rápida.
 
 ## ► **Extensões**
 
