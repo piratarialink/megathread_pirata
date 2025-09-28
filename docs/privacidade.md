@@ -126,7 +126,7 @@ Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que c
 :::warning AirVPN deve ser a última opção como VPN, seus servidores não são bons
 :::
 
-## Bloqueador de anúncios e trackers
+## Bloqueador de anúncios e rastreadores
 
 ### [uBlock Origin](https://ublockorigin.com/)
 
