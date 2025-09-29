@@ -395,5 +395,3 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 ## Está buscando Emuladores e ROMs?
 
 ➜ Confira nossa Megathread sobre 🕹️ [Emuladores e ROMs](emuladores-roms)
-
-➜ Para saber mais sobre jogos da última década confira a [Megathread do Pirated Games Traduzida](guias/jogos-piratas)
