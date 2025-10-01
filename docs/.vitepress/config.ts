@@ -18,16 +18,6 @@ export default {
         href: "/favicon-dark.ico",
       },
     ],
-    [
-      "script",
-      {},
-      `
-        if (window.location.hostname === "megathread.ahoypirata.lat") {
-            const newURL = window.location.href.replace("megathread.ahoypirata.lat", "pirataria.link");
-            window.location.href = newURL;
-        }
-      `,
-    ],
   ],
   vite: {
     plugins: [OramaPlugin()],
