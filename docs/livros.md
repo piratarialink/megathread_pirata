@@ -114,6 +114,14 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarquadrinhos.net/)
 
+### 🔗 [Tudo HQ e Mangá](https://tudohqemanga.com.br/)
+
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/tudohqemanga.com.br/)
+
+### 🔗 [The Old Shinobi](https://www.theoldshinobi.site/marvel-comics/)
+
+- [Resultados de Segurança da URL](https://www.urlvoid.com/theoldshinobi.site/)
+
 ## ☁️ ➜ Pastas na Nuvem
 
 ### 📂 [12.000 Livros Kindle!](https://drive.google.com/drive/folders/1EoF3QomxBsoMTBGMEc_J5JW6r6cC-oCy?usp=drive_link)
