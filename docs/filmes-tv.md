@@ -317,7 +317,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🔗 [Comp Study](https://apps.apple.com/br/app/comp-study/id6742147905)
 
-- Biblioteca de filmes e séries para assistir no IOS.
+- Biblioteca de filmes e séries para assistir no IOS. [Alternativas para o Android.]()
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apps.apple.com/)
 
 ## 🧵 Torrents
