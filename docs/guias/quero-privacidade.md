@@ -30,9 +30,10 @@
 - XMPP: Psi+ no desktop e Conversations no android
 - Android: GrapheneOS
 - Desktop: Linux (Dual Boot) com LUKS
-- Provedor de dominio: Sarek Oy, Porkbun, Cloudflare ou BasedFlare
+- Anti-DDoS: Anubis
+- Provedor de dominio: Sarek Oy, Porkbun
 - Meet: systemli.org, Jitsi
-- Moeda digital: Monero 
+- Criptomoeda: Monero 
 - Hospedagem: Servers.guru
 - Pesquisa: 4get
 - Roteador: Qualquer um com OpenWRT (WPA3), recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
