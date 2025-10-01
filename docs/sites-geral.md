@@ -209,6 +209,10 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Lista muito completa que demonstra praticamente todos os Trackers Privados usados online.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hdvinnie.github.io/)
 
+### 🔗 [Install Gentoo](https://igwiki.lyci.de/wiki/Private_trackers)  
+
+- Página de autoria do /g/, apresenta com uma riqueza de detalhes a história da cena tracker e também fornece alguma dicas.
+
 ### 🔗 [Scene-RLS RELEASES](https://scene-rls.net/releases/index.php)
 
 - Informações atuais e relevantes para cada tipo de mídia.
@@ -216,5 +220,5 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🔗 [xREL](https://www.xrel.to/) • Interface em Alemão
 
-- Quadro de mensagens onde os usuários discutem os lançamentos de cenas mais recentes, análises de jogos e filmes.
+- Message Board onde os usuários discutem os lançamentos de cenas mais recentes, análises de jogos e filmes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xrel.to/)
