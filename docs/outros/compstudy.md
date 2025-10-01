@@ -3,6 +3,7 @@ Aplicativos do tipo "Comp Study" para Android:
 - Ford Browser
 - NinjaGO
 - Megaflix
+- Cinegato
 - TLN+
 - Cine Novelas
 - YouCine
