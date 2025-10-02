@@ -220,5 +220,5 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🔗 [xREL](https://www.xrel.to/) • Interface em Alemão
 
-- Message Board onde os usuários discutem os lançamentos de cenas mais recentes, análises de jogos e filmes.
+- Message Board onde os usuários discutem os lançamentos mais recentes da cena, análises de jogos e filmes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xrel.to/)
