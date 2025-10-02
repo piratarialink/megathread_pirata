@@ -244,12 +244,12 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ### 🔗 [SCRiPTMAFiA](https://scriptmafia.org/)
 
-- e-books, coleções GFX e scripts premium.
+- e-books, coleções GFX e _nulled scripts_.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scriptmafia.org/)
 
 ### 🔗 [Codelist](https://codelist.cc/v3/)
 
-- Temas e plugins para o WordPress.
+- Temas e plugins _nulled_ para o WordPress.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/codelist.cc/)
 
 ## 🔑 ➜ Keygens & Serials
