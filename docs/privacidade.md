@@ -41,7 +41,7 @@ O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Hab
 
 Procurando manter o legado do Mull Browser vivo, este software leve é o meio mais sigiloso e confiável de navegar na internet pelo Android, totalmente código aberto, sem anúncios e com a telemetria já desativada desde a primeira interação.
 
-- User.js personalizado com ênfase na privacidade
+- Personalizado com ênfase na privacidade
 - Hardening avançado contra Fingerprint
 
 :::info Se ainda preferir, você mesmo pode [desativar a telemetria](https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection) no about:config do [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/): outro derivado do firefox mobile também disponível para Android
