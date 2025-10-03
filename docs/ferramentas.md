@@ -175,7 +175,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Clientes Torrent
 
-:::info Nota: uTorrent [empacotou um minerador de bitcoin opcional e não malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880). A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.
+:::info Nota: 
+
+**uTorrent [empacotou um minerador de bitcoin opcional e não malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880). A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.**
 :::
 
 :::warning Cliente torrent Bitlord [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
@@ -232,7 +234,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 > São úteis para links DDL. Gerenciadores de download como estes abaixo destinam-se a ajudar a acelerar os downloads, geralmente aumentando o número de conexões com o servidor ou tentando dividir o download em partes. Eles também são especialmente úteis ao obter vários links de uma só vez, o que é típico de sites DDL, onde eles dividem grandes downloads em várias pequenas partes `.rar`, além de ignorar captchas e eliminar os riscos de clicar no link errado de download em vários hosts de arquivo. Eles também ajudam a retomar downloads pausados ​​ou expirados que seu navegador pode não ser capaz de fazer em alguns casos.
 
-:::info Nota: o gerenciador Free Download Manager é considerado riskware. O site oficial da aplicação distribuiu uma [versão do programa para Linux infectada por spyware durante anos.](https://www.bleepingcomputer.com/news/security/free-download-manager-site-redirected-linux-users-to-malware-for-years/) Não é mais seguro confiar no seu desenvolvedor.
+:::info Nota: 
+
+**Ogerenciador Free Download Manager é considerado riskware. O site oficial da aplicação distribuiu uma [versão do programa para Linux infectada por spyware durante anos.](https://www.bleepingcomputer.com/news/security/free-download-manager-site-redirected-linux-users-to-malware-for-years/) Não é mais seguro confiar no seu desenvolvedor.**
 :::
 
 - [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
