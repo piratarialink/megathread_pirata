@@ -289,9 +289,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 - [Cobalt](https://cobalt.tools/) - Baixe vídeos/áudios do tiktok, reddit, twitter e outros sites. Se a instância principal não funcionar com o YouTube, você pode tentar outras instâncias (as marcadas em verde são as mais seguras): https://instances.cobalt.best/.
 - [9xbuddy](https://9xbuddy.com/) - Youtube / site de download de vários sites
-- [sasrip](https://sasrip.cf/) - Downloader de vídeo / mp3
-- [tomato](https://tomato.to/) - Downloader de fotos. Shutterstock, getty, adobestock, etc.
-- [calameodownload](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento público como imagens ou PDF otimizado.
+- [calameodownload](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento público do Calameo como imagens ou PDFs. Acesse o site com uma VPN.
 - [Cnvmp3](https://cnvmp3.com/) - Converta vídeos do YouTube para MP3 ou MP4 e baixe-os com este conversor rápido e gratuito do YouTube. O CnvMP3 é livre de anúncios, seguro e suporta qualidade de até 320 kbps.
 - [Ezmp3](https://ezmp3.co/) - EzMP3 é o conversor de YouTube para MP3 sem anúncios que permite converter vídeos de até 12 horas de duração. Você pode cortar o áudio e escolher uma taxa de bits de 64 kbps a 320 kbps.
 
