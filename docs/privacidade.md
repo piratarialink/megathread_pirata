@@ -205,7 +205,7 @@ LUKS é o padrão para criptografia de disco rígido no Linux. Ao fornecer um fo
 
 Melhores distros compatíveis com LUKS: **Fedora** (Bazzite é uma distribuição baseada no Fedora mais indicada para gamers), **Arch** com KDE (Manjaro e CachyOS são derivados do Arch recomendados para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
 
-:::info Desative o [systemd no Linux](https://nosystemd.org/)
+:::info Desative o [systemd](https://nosystemd.org/) (quando for possível)
 :::
 
 ## Criptografia de nuvem
