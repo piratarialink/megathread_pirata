@@ -224,7 +224,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 - [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente audio codec AC3.
 - [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
-- [VLsub](https://github.com/opensubtitles/vlsub-opensubtitles-com) - Baixa legendas diretamente pelo vlc sem precisar ter que abrir o site do opensubtitles.
+- [VLsub](https://github.com/opensubtitles/vlsub-opensubtitles-com) - Baixa legendas diretamente pelo vlc sem ter que abrir o site do opensubtitles.
 - **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Acrescenta a opção de converter vídeos para MP4 no After Effects.
 - [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
 - [eCut](http://eng.e-cut.ru/) - Plugin para otimizar o CorelDraw.
@@ -236,7 +236,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 :::info Nota: 
 
-**Ogerenciador Free Download Manager é considerado riskware. O site oficial da aplicação distribuiu uma [versão do programa para Linux infectada por spyware durante anos.](https://www.bleepingcomputer.com/news/security/free-download-manager-site-redirected-linux-users-to-malware-for-years/) Não é mais seguro confiar no seu desenvolvedor.**
+**O gerenciador Free Download Manager é considerado riskware. O site oficial da aplicação distribuiu uma [versão do programa para Linux infectada por spyware durante anos.](https://www.bleepingcomputer.com/news/security/free-download-manager-site-redirected-linux-users-to-malware-for-years/) Não é mais seguro confiar no seu desenvolvedor.**
 :::
 
 - [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
@@ -287,7 +287,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Ferramentas de download on-line
 
-- [Cobalt](https://cobalt.tools/) - Baixe vídeos/áudios do tiktok, reddit, twitter e outros sites. Se a instância principal não funcionar com o YouTube, você pode tentar outras instâncias (as marcadas em verde são as mais seguras): https://instances.cobalt.best/.
+- 🌟 [**Cobalt**](https://cobalt.tools/) - Baixe vídeos/áudios do tiktok, reddit, twitter e outros sites. Se a instância principal não funcionar com o YouTube, você pode tentar outras instâncias (as marcadas em verde são as mais seguras): https://instances.cobalt.best/.
 - [9xbuddy](https://9xbuddy.com/) - Youtube / site de download de vários sites
 - [calameodownload](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento público do Calameo como imagens ou PDFs. Acesse o site com uma VPN.
 - [Cnvmp3](https://cnvmp3.com/) - Converta vídeos do YouTube para MP3 ou MP4 e baixe-os com este conversor rápido e gratuito do YouTube. O CnvMP3 é livre de anúncios, seguro e suporta qualidade de até 320 kbps.
@@ -393,7 +393,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 - [LMArena](https://lmarena.ai/?mode=direct) - **Quase** todos os chatbots pagos totalmente gratuitos e ilimitados.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos.
-- [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas.
+- [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas. Um pouco complicado de se acostumar a usar.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Sem censura (pode não funcionar na maior parte das vezes).
 - [Roo Code](https://roocode.com) - Gerador de código no Visual Studio.
 
@@ -467,7 +467,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 ## ► **Ferramentas Diversas**
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
-- [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de donwload do Terabox.
+- [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de download do Terabox.
 - [Czkawka](https://github.com/qarmin/czkawka) - Varredura de duplicatas no Windows e Linux.
 - [SlideSaver](https://slidesaver.app/) - Downloader de Slideshare.
 - [Unddit](https://undelete.pullpush.io/) - Veja posts removidos do reddit.
