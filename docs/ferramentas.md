@@ -325,10 +325,10 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Hospedagem de arquivos
 
-- [Catbox](https://catbox.moe/) - Upload de vídeos e imagens.
-- [File Kiwi](https://file.kiwi/) - Alternativa para o Mega.
+- [Catbox](https://catbox.moe/) - Upload de vídeos (webm, mp4) e imagens. Não permite arquivos .exe, .scr, .cpl, .doc e .jar.
+- [File Kiwi](https://file.kiwi/) - Mais uma alternativa para o Mega.
 - **[Pago]** [Filedot](https://filedot.to/) - Hospedagem na nuvem.
-- [Take me to space](https://take-me-to.space/) - Hospeda imagens.
+- [Take me to space](https://take-me-to.space/) - Hospeda imagens. Necessário se cadastrar antes de começar a utilizar.
 
 ## ► Renomeação de arquivos
 
@@ -392,7 +392,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 ## ► **Inteligência Artifical**
 
 - [LMArena](https://lmarena.ai/?mode=direct) - **Quase** todos os chatbots pagos totalmente gratuitos e ilimitados.
-- [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos.
+- [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não requer que você baixe um aplicativo dedicado.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas. Um pouco complicado de se acostumar a usar.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Sem censura (pode não funcionar na maior parte das vezes).
 - [Roo Code](https://roocode.com) - Gerador de código no Visual Studio.
@@ -420,7 +420,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 - [TTM](https://t.me/Ttmlog_bot) - Bot que coleta credenciais de usuários de diversos sites.
 - [STEAM7](https://t.me/steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas steam.
-- **[Pago]** [Xinyu](https://xinyustore.com/) - Fornece assinaturas **compartilhadas** da alura, qconcursos e estratégia para você estudar a preços justos e acessíveis.
+- **[Pago]** [Xinyu Store](https://xinyustore.com/) - Fornece assinaturas **compartilhadas** da alura, qconcursos e estratégia para você estudar a preços justos e acessíveis.
 - [CrackingX](https://crackingx.com) - Combolists e contas de streaming.
 - **[Pago]** [Kotas](https://www.kotas.com.br/servico/kotas) - Divida logins da udemy, babbel, capcut e [canva pro](https://t.me/DevWorldSbot) com outros usuários da web.
 
