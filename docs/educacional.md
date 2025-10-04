@@ -211,4 +211,4 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 [Champagne Wiki - Education and Learning](https://champagne.pages.dev/docs/getting-started/education)
 
-[FMHY - Educational](https://fmhy.pages.dev/edupiracyguide/)
+[FMHY - Educational](https://fmhy.pages.dev/educational)
