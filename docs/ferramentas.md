@@ -314,12 +314,12 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 - [Pairdrop](https://pairdrop.net/) - PairDrop: Compartilhamento local de arquivos em seu navegador. Inspirado no AirDrop da Apple. Fork do Snapdrop.
 - [SyncThing](https://syncthing.net/) - Compartilhe arquivos/pastas entre computadores. Configure pastas compartilhadas que serão sincronizadas automaticamente entre os dispositivos.
-- [file.pizza](https://file.pizza/) - Transferências seguras de arquivos ponto a ponto. Útil para transferências rápidas de arquivos únicos. [Página do GitHub.](https://github.com/kern/filepizza)
-- [instant.io](https://instant.io/) - Mesmo conceito de file.pizza
-- [xkcd949.com](http://xkcd949.com/) - Mesmo conceito de file.pizza
-- [ShareDrop.io](https://www.sharedrop.io/) - Mesmo conceito de file.pizza
-- [snapdrop.net](https://snapdrop.net) - Mesmo conceito de file.pizza [página do GitHub.](https://github.com/RobinLinus/snapdrop)
-- [wetransfer.com](https://wetransfer.com/) - Envie links autoexpiráveis ​​de até 2 GiB de tamanho.
+- [file.pizza](https://file.pizza/) - Transferências seguras de arquivos peer-to-peer. Útil para transferências rápidas de arquivos únicos. [Página do GitHub.](https://github.com/kern/filepizza)
+- [instant.io](https://instant.io/) - Mesmo conceito do file.pizza
+- [xkcd949.com](http://xkcd949.com/) - Mesmo conceito do file.pizza
+- [ShareDrop.io](https://www.sharedrop.io/) - Mesmo conceito do file.pizza
+- [snapdrop.net](https://snapdrop.net) - Mesmo conceito do file.pizza [página do GitHub.](https://github.com/RobinLinus/snapdrop)
+- [wetransfer.com](https://wetransfer.com/) - Envie links autoexpiráveis ​​de até 2 GB de tamanho.
 - [LanXchange](https://github.com/tfg13/LanXchange) - Envie arquivos do PC para o Smartphone e vice-versa pelo wifi local (não usa internet).
 - [Tailscale](https://tailscale.com/) - Acesse seu computador remotamente sem precisar abrir portas no roteador.
 
