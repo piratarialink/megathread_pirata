@@ -58,7 +58,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► **Ferramentas para Linux / BSD**
 
-- 🌟 [**WinBoat**] - Um novo concorrente do Wine, pode rodar programas dedicados em um contâiner ou o sistema operacional da microsoft por completo.
+- 🌟 [**WinBoat**](https://github.com/TibixDev/winboat) - Um novo concorrente do Wine, pode rodar programas dedicados em um contâiner ou o sistema operacional da microsoft por completo.
 - [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor pessoal eficaz e protegido (sendo debian a melhor distro para essa função).
 - [Linux4Noobs](https://github.com/he4rt/4noobs) - Projeto desenvolvido pela comunidade brasileira He4rtLabs.
 - [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um personalizado e aprovado pela comunidade.
@@ -68,7 +68,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Tocador de áudio escrito em python; oferece separação em tags, playlists, álbuns e ratings como recursos.
 - [Hyprland](https://hypr.land/) Gerenciador de janelas para usuários avançados com desenvolvimento ativo somente para o Arch e NixOS.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o kernel.
-- 🌟 [**Telemetry_off.sh**]() - Retira a coleta de dados da Canonical, em versões mais recentes do Ubuntu, a telemetria é mais opt-in (você precisa desativá-la durante a instalação).
+- 🌟 [**telemetry_off.sh**](https://github.com/daboynb/linux_scripts/blob/main/telemetry_off.sh) - Retira a coleta de dados da Canonical, **em versões mais recentes do Ubuntu, a telemetria é mais opt-in (você precisa desativá-la durante a instalação)**.
 - [GNOME](https://www.gnome.org/) - DE e gerenciador de janelas _lightweight_, extremamente conveniente para FreeBSD, OpenBSD e Fedora.
 - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Abafa ruídos e barulho ambiente, fica atrás apenas do Audition e Audacity nesse quesito.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV exclusivo com suporte para TV ao vivo, filmes e seriados.
@@ -447,6 +447,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 #### ► **Geral**
 
 - 🌟 [**LumaPlay**](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197&hilit=lumaplay) - Rode jogos que dependem da Uplay da Ubisoft para funcionar.
+- [Winlator@Frost](https://github.com/MrPhryaNikFrosty/Winlator-Frost/) - Fork do emulador de Wine para Android com algumas funcionalidades extras.
 - [CapFrameX](https://github.com/CXWorld/CapFrameX?tab=readme-ov-file) - Usa o overlay do RivaTuner para capturar o framerate durante o gameplay. O RTSS é somente um provedor aqui, o programa completo não é instalado no seu computador.
 - [Simplaza-org](https://www.simplaza.org) - Site para download de addons, aeronaves e cenários para o Microsot Flight Simulator 2020 (MSFS2020).
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
