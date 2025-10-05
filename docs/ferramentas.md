@@ -69,12 +69,12 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Tocador de áudio escrito em python; oferece separação em tags, playlists, álbuns e ratings como recursos.
 - [Hyprland](https://hypr.land/) - Gerenciador de janelas para usuários avançados com desenvolvimento ativo somente para o Arch e NixOS.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel.
-- 🌟 [**telemetry_off.sh**](https://github.com/daboynb/linux_scripts/blob/main/telemetry_off.sh) - Retira a coleta de dados da Canonical, **em versões mais recentes do Ubuntu, a telemetria é mais opt-in (você precisa desativá-la durante a instalação)**.
+- 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova os anúncios do Ubunto PRO e outras bizarrices da Canonical com esse método.
 - [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Port não oficial do Lossless Scalling para GNU/Linux e Steam Deck; necessita da dll do lossless scalling para funcionar, a qual você pode extrair da [versão marítima sem pagar nada](https://cs.rin.ru/forum/viewtopic.php?f=41&t=94507&hilit=lossless+scallin&start=1155).
 - [GNOME](https://www.gnome.org/) - DE e gerenciador de janelas _lightweight_, extremamente conveniente para FreeBSD, OpenBSD e Fedora.
 - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Abafa ruídos e barulho ambiente, fica atrás apenas do Audition e Audacity nesse quesito.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV exclusivo com suporte para TV ao vivo, filmes e seriados.
-- 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova os anúncios do Ubunto PRO e outras bizarrices da Canonical com esse método.
+- 🌟 [**telemetry_off.sh**](https://github.com/daboynb/linux_scripts/blob/main/telemetry_off.sh) - Retira a coleta de dados da Canonical, **em versões mais recentes do Ubuntu, a telemetria é mais opt-in (você precisa desativá-la durante a instalação)**.
 - [Czkawka](https://github.com/qarmin/czkawka) - Varre duplicatas e outros ficheiros desnecessários do sistema.
 
 ## ► **Ferramentas para MacOS**
