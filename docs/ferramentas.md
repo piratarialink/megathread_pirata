@@ -59,19 +59,20 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 ## ► **Ferramentas para Linux / BSD**
 
 - 🌟 [**WinBoat**] - Um novo concorrente do Wine, pode rodar programas dedicados em um contâiner ou o sistema operacional da microsoft por completo.
-- [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor pessoal eficaz e protegido (sendo debian a melhor distro para servers do segundo tipo).
+- [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor pessoal eficaz e protegido (sendo debian a melhor distro para essa função).
 - [Linux4Noobs](https://github.com/he4rt/4noobs) - Projeto desenvolvido pela comunidade brasileira He4rtLabs.
+- Xfce Look / KDE Store - Se desfaça do tema padrão de seu ambiente de desktop por um personalizado e aprovado pela comunidade.
 - [Guia Foca] - Passo-a-passo feito por um entusiasta brasileiro para novos usuários.
-- [DFM] - File Manager para o KDE Plasma, altamente configurável.
+- Flathub - Simplifica o download de programas importantes junto com o Flatpak e pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
+- [DFM] - File Manager para o KDE Plasma, otimizado e altamente configurável.
 - Quod Libet: tocador de áudio escrito em python; oferece separação em tags, playlists, álbuns e ratings como recursos.
-- Hyprland: erenciador de janelas com desenvolvimento ativo somente para o Arch e NixOS.
+- Hyprland: Gerenciador de janelas com desenvolvimento ativo somente para o Arch e NixOS.
 - Input Remapper: executável para remapear os botões laterais do mouse sem precisar recompilar o kernel.
-- [Telemetry off]() - Retira a coleta de dados da Canonical, em versões mais recentes do Ubuntu, a telemetria é mais opt-in (você precisa desativá-la durante a instalação).
-- GNOME: DE e gerenciador de janelas _lightweight, extremamente conveniente para FreeBSD, OpenBSD e Fedora.
+- 🌟 [**Telemetry_off.sh**]() - Retira a coleta de dados da Canonical, em versões mais recentes do Ubuntu, a telemetria é mais opt-in (você precisa desativá-la durante a instalação).
+- GNOME: DE e gerenciador de janelas _lightweight_, extremamente conveniente para FreeBSD, OpenBSD e Fedora.
 - NoiseTorch: Abafa ruídos e barulho ambiente, fica atrás apenas do Audition e Audacity nesse quesito.
 - Hypnotix: Cliente de IPTV exclusivo com suporte para TV ao vivo, filmes e seriados.
-- Xfce Look / KDE Store - Se desfaça do tema padrão de seu ambiente de desktop por um personalizado e aprovado pela comunidade.
-- Czwanka - Varre duplicatas e outros ficheiros desnecessários do sistema.
+- [Czwanka](https://github.com/qarmin/czkawka) - Varre duplicatas e outros ficheiros desnecessários do sistema.
 
 ## ► **Ferramentas para MacOS**
 
@@ -485,7 +486,6 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
 - [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de download do Terabox.
-- [Czkawka](https://github.com/qarmin/czkawka) - Varredura de duplicatas no Windows e Linux.
 - [SlideSaver](https://slidesaver.app/) - Downloader de Slideshare.
 - [Unddit](https://undelete.pullpush.io/) - Veja posts removidos do reddit.
 - [Clonezilla](https://clonezilla.org/) - Cria pontos de restauração de imagens ISO e os salva em um pendrive.
