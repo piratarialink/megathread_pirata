@@ -18,7 +18,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal, são falsos positivos.
   :::
 
-## ► **Ferramentas para Windows/Office**
+## ► **Ferramentas para Windows / Office**
 
 - 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O HWID ativa permanentemente o Windows 10/11 e o modo KMS38 é mais voltado para LTSC/Enterprise. [**Guia**](guias/ativacao-office-win.md)
 - [Office C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte as instalações do Office Retail em licenças de volume.
