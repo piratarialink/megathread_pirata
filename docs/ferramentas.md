@@ -448,7 +448,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 #### ► **Geral**
 
 - 🌟 [**LumaPlay**](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197&hilit=lumaplay) - Rode jogos que dependem da Uplay da Ubisoft para funcionar.
-- [Winlator@Frost](https://github.com/MrPhryaNikFrosty/Winlator-Frost/) - Fork do emulador de Wine para Android com algumas funcionalidades extras.
+- [Winlator@Frost](https://github.com/MrPhryaNikFrosty/Winlator-Frost/) - Fork do emulador homônimo de Wine para Android com algumas funcionalidades extras.
 - [CapFrameX](https://github.com/CXWorld/CapFrameX?tab=readme-ov-file) - Usa o overlay do RivaTuner para capturar o framerate durante o gameplay. O RTSS é somente um provedor aqui, o programa completo não é instalado no seu computador.
 - [Simplaza-org](https://www.simplaza.org) - Site para download de addons, aeronaves e cenários para o Microsot Flight Simulator 2020 (MSFS2020).
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
