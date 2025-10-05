@@ -15,6 +15,8 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 [PriivaC Downloader](https://t.me/tgDownPrivacyBot) - Download de mídias de assinaturas do Privacy.
 
+[Lada](https://github.com/ladaapp/lada) - Recupere vídeos censurados por pixels/mosaicos. Pode rodar no Windows com o Docker.
+
 [Only Fans Data Scrapper](https://github.com/DIGITALCRIMINAL/OnlyFans)
 
 [Eroge Download](https://erogedownload.com/) - VNs eróticas + links "importantes" no fim da página.
