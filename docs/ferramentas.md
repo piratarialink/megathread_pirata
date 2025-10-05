@@ -325,6 +325,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) - Site que cataloga malwares e grupos de ransomware.
 - [Windows Sandbox](https://learn.microsoft.com/pt-br/windows/security/application-security/application-isolation/windows-sandbox/) - Ambiente de testes.
 - [VirusTotal.com](https://www.virustotal.com/) / [Metadefender](https://metadefender.com/) - Serviços da Web que verificam arquivos e URLs.
+- [TarnKappe](https://tarnkappe.info/artikel/it-sicherheit/malware) - Notícias sobre a cena de cibersegurança. **Use um tradutor.**
 - [Sandboxie+](https://sandboxie-plus.com/) - "Sandbox" para computador fraco.
 - [Guia do r/techsupport sobre remoção de malware](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/)
 - [Passos preliminares para evitar contaminações por malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide/)
