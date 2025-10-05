@@ -60,7 +60,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 - 🌟 [**WinBoat**](https://github.com/TibixDev/winboat) - Um novo concorrente do Wine, pode rodar programas dedicados em um contâiner ou o sistema operacional da microsoft por completo.
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de _custom_ _ISOs_ upadas todos os dias.
-- [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor pessoal eficaz e protegido (sendo debian a melhor distro para essa função).
+- [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor pessoal eficaz e protegido (sendo Debian a melhor distro para essa função).
 - [Linux4Noobs](https://github.com/he4rt/4noobs) - Projeto desenvolvido pela comunidade brasileira He4rtLabs.
 - [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um personalizado e aprovado pela comunidade.
 - [Guia Foca](https://www.guiafoca.org/) - Passo-a-passo feito por um entusiasta brasileiro tendo em mente novos e antigos usuários.
@@ -68,13 +68,13 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [DFM](https://apps.kde.org/dolphin/) - File Manager para o KDE Plasma, otimizado e altamente configurável.
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Tocador de áudio escrito em python; oferece separação em tags, playlists, álbuns e ratings como recursos.
 - [Hyprland](https://hypr.land/) Gerenciador de janelas para usuários avançados com desenvolvimento ativo somente para o Arch e NixOS.
-- [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o kernel.
+- [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel.
 - 🌟 [**telemetry_off.sh**](https://github.com/daboynb/linux_scripts/blob/main/telemetry_off.sh) - Retira a coleta de dados da Canonical, **em versões mais recentes do Ubuntu, a telemetria é mais opt-in (você precisa desativá-la durante a instalação)**.
-- [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Port não oficial do Lossless Scalling para Linux e Steam Deck; necessita da dll do lossless scalling para funcionar, a qual você pode extrair da [versão marítima sem pagar nada](https://cs.rin.ru/forum/viewtopic.php?f=41&t=94507&hilit=lossless+scallin&start=1155).
+- [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Port não oficial do Lossless Scalling para GNU/Linux e Steam Deck; necessita da dll do lossless scalling para funcionar, a qual você pode extrair da [versão marítima sem pagar nada](https://cs.rin.ru/forum/viewtopic.php?f=41&t=94507&hilit=lossless+scallin&start=1155).
 - [GNOME](https://www.gnome.org/) - DE e gerenciador de janelas _lightweight_, extremamente conveniente para FreeBSD, OpenBSD e Fedora.
 - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Abafa ruídos e barulho ambiente, fica atrás apenas do Audition e Audacity nesse quesito.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV exclusivo com suporte para TV ao vivo, filmes e seriados.
-- 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova os anúncios do Ubunto PRO e outras bizarrices da Canonical.
+- 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova os anúncios do Ubunto PRO e outras bizarrices da Canonical com esse método.
 - [Czkawka](https://github.com/qarmin/czkawka) - Varre duplicatas e outros ficheiros desnecessários do sistema.
 
 ## ► **Ferramentas para MacOS**
