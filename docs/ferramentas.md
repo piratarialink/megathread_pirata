@@ -63,7 +63,15 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Linux4Noobs](https://github.com/he4rt/4noobs) - Projeto desenvolvido pela comunidade brasileira He4rtLabs.
 - [Guia Foca] - Passo-a-passo feito por um entusiasta brasileiro para novos usuários.
 - [DFM] - File Manager para o KDE Plasma, altamente configurável.
-- 
+- Quod Libet: tocador de áudio escrito em python; oferece separação em tags, playlists, álbuns e ratings como recursos.
+- Hyprland: erenciador de janelas com desenvolvimento ativo somente para o Arch e NixOS.
+- Input Remapper: executável para remapear os botões laterais do mouse sem precisar recompilar o kernel.
+- [Telemetry off]() - Retira a coleta de dados da Canonical, em versões mais recentes do Ubuntu, a telemetria é mais opt-in (você precisa desativá-la durante a instalação).
+- GNOME: DE e gerenciador de janelas _lightweight, extremamente conveniente para FreeBSD, OpenBSD e Fedora.
+- NoiseTorch: Abafa ruídos e barulho ambiente, fica atrás apenas do Audition e Audacity nesse quesito.
+- Hypnotix: Cliente de IPTV exclusivo com suporte para TV ao vivo, filmes e seriados.
+- Xfce Look / KDE Store - Se desfaça do tema padrão de seu ambiente de desktop por um personalizado e aprovado pela comunidade.
+- Czwanka - Varre duplicatas e outros ficheiros desnecessários do sistema.
 
 ## ► **Ferramentas para MacOS**
 
