@@ -68,7 +68,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Flathub](https://flathub.org/pt-BR) - Simplifica a descoberta de novos programas e pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
 - [DFM](https://apps.kde.org/dolphin/) - File Manager para o KDE Plasma, otimizado e altamente configurável.
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Tocador de áudio escrito em python; oferece separação em tags, playlists, álbuns e ratings como recursos.
-- [Hyprland](https://hypr.land/) - Gerenciador de janelas para usuários avançados com desenvolvimento ativo somente para o Arch e NixOS.
+- [Hyprland](https://hypr.land/) - Gerenciador de janelas para usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel.
 - 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova os anúncios do Ubunto PRO e outras bizarrices da Canonical com esse método.
 - [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Port não oficial do Lossless Scalling para GNU/Linux e Steam Deck; necessita da dll do lossless scalling para funcionar, a qual você pode extrair da [versão marítima sem pagar nada](https://cs.rin.ru/forum/viewtopic.php?f=41&t=94507&hilit=lossless+scallin&start=1155).
