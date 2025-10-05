@@ -36,7 +36,7 @@
 - Tome muito cuidado com arquivos .EXE, .SH, .BAT, .PDF e com [ataques do tipo RTLO](https://www.reddit.com/r/linuxquestions/comments/124984c/how_does_one_protect_themselves_from_the_rtloltlo/?tl=pt-br), esses tipos de extensão podem ser usadas para ter acesso total ao seu computador, explorar vulnerabilidades 0-day e rodar payloads escondidos.
 - WebPs podem ser utilizados para esconder binários e outras imagens indesejadas, converta .WEBPs por .PNGs [com essa extensão aqui](https://github.com/jscher2000/Save-webP-as-extension).
 - Esteja ciente dos riscos: Reconheça que o uso de softwares piratas envolve riscos significativos, incluindo a exposição a malware e perda de dados.
-- Em vez de recorrer a aplicações piratas, explore alternativas legais, como softwares de código aberto.
+- Em vez de recorrer a aplicações piratas, explore alternativas legais, como **softwares de código aberto.**
 
 ### Como eu posso remover um site da megathread?
 
