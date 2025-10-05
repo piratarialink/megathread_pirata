@@ -110,9 +110,9 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Scan de revistas populares e clássicas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hq-now.com/)
 
-### 🔗 [Baixar Quadrinhos](https://baixarquadrinhos.net)
+### 🔗 [Baixar Quadrinhos](https://baixarhq.com/)
 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarquadrinhos.net/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarhq.com.net/)
 
 ### 🔗 [Tudo HQ e Mangá](https://tudohqemanga.com.br/)
 
