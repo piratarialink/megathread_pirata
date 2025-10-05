@@ -56,6 +56,15 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [pastebin de abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
 - [Microsoft Media Creation Tool](https://www.microsoft.com/pt-br/software-download/windows10) - Página da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
 
+## ► **Ferramentas para Linux / BSD**
+
+- 🌟 [**WinBoat**] - Um novo concorrente do Wine, pode rodar programas dedicados em um contâiner ou o sistema operacional da microsoft por completo.
+- [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor pessoal eficaz e protegido (sendo debian a melhor distro para servers do segundo tipo).
+- [Linux4Noobs](https://github.com/he4rt/4noobs) - Projeto desenvolvido pela comunidade brasileira He4rtLabs.
+- [Guia Foca] - Passo-a-passo feito por um entusiasta brasileiro para novos usuários.
+- [DFM] - File Manager para o KDE Plasma, altamente configurável.
+- 
+
 ## ► **Ferramentas para MacOS**
 
 - 🌟 [**FMHY - Hackintosh**](https://fmhy.net/system-tools#hackintosh) - Algumas recomendações úteis.
