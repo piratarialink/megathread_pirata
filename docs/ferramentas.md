@@ -64,7 +64,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [Linux4Noobs](https://github.com/he4rt/4noobs) - Projeto desenvolvido pela comunidade brasileira He4rtLabs.
 - [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um personalizado e aprovado pela comunidade.
 - [Guia Foca](https://www.guiafoca.org/) - Passo-a-passo feito por um entusiasta brasileiro tendo em mente novos e antigos usuários.
-- 🌟 [**Open Snitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
+- 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
 - [Flathub](https://flathub.org/pt-BR) - Simplifica a descoberta de novos programas e pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
 - [DFM](https://apps.kde.org/dolphin/) - File Manager para o KDE Plasma, otimizado e altamente configurável.
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Tocador de áudio escrito em python; oferece separação em tags, playlists, álbuns e ratings como recursos.
