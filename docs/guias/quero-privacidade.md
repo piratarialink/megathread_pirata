@@ -29,7 +29,7 @@
 - Chat: Lemmy, SimpleX, Mastodon, XMPP e systemli.org
 - XMPP: Psi+ no desktop e Conversations no android
 - Android: GrapheneOS
-- Desktop: Linux (Live Boot para um maior sigilo ou Dual Boot para uso casual) com LUKS
+- Desktop: Linux (Live Boot para um sigilo maior ou Dual Boot para uso casual) com LUKS
 - Anti-DDoS: Anubis
 - Provedor de dominio: Sarek Oy, Porkbun
 - Meet: systemli.org, Jitsi
