@@ -56,6 +56,27 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [pastebin de abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
 - [Microsoft Media Creation Tool](https://www.microsoft.com/pt-br/software-download/windows10) - Página da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
 
+## ► **Ferramentas para Linux / BSD**
+
+- 🌟 [**WinBoat**](https://github.com/TibixDev/winboat) - Um novo concorrente do Wine, pode rodar programas dedicados em um contâiner ou o sistema operacional da microsoft por completo.
+- [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de _custom_ _ISOs_ upadas todos os dias.
+- [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor pessoal eficaz e protegido (sendo Debian a melhor distro para essa função).
+- [Linux4Noobs](https://github.com/he4rt/4noobs) - Projeto desenvolvido pela comunidade brasileira He4rtLabs.
+- [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um personalizado e aprovado pela comunidade.
+- [Guia Foca](https://www.guiafoca.org/) - Passo-a-passo feito por um entusiasta brasileiro tendo em mente novos e antigos usuários.
+- [Flathub](https://flathub.org/pt-BR) - Simplifica a descoberta de novos programas e pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
+- [DFM](https://apps.kde.org/dolphin/) - File Manager para o KDE Plasma, otimizado e altamente configurável.
+- [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Tocador de áudio escrito em python; oferece separação em tags, playlists, álbuns e ratings como recursos.
+- [Hyprland](https://hypr.land/) Gerenciador de janelas para usuários avançados com desenvolvimento ativo somente para o Arch e NixOS.
+- [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel.
+- 🌟 [**telemetry_off.sh**](https://github.com/daboynb/linux_scripts/blob/main/telemetry_off.sh) - Retira a coleta de dados da Canonical, **em versões mais recentes do Ubuntu, a telemetria é mais opt-in (você precisa desativá-la durante a instalação)**.
+- [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Port não oficial do Lossless Scalling para GNU/Linux e Steam Deck; necessita da dll do lossless scalling para funcionar, a qual você pode extrair da [versão marítima sem pagar nada](https://cs.rin.ru/forum/viewtopic.php?f=41&t=94507&hilit=lossless+scallin&start=1155).
+- [GNOME](https://www.gnome.org/) - DE e gerenciador de janelas _lightweight_, extremamente conveniente para FreeBSD, OpenBSD e Fedora.
+- [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Abafa ruídos e barulho ambiente, fica atrás apenas do Audition e Audacity nesse quesito.
+- [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV exclusivo com suporte para TV ao vivo, filmes e seriados.
+- 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova os anúncios do Ubunto PRO e outras bizarrices da Canonical com esse método.
+- [Czkawka](https://github.com/qarmin/czkawka) - Varre duplicatas e outros ficheiros desnecessários do sistema.
+
 ## ► **Ferramentas para MacOS**
 
 - 🌟 [**FMHY - Hackintosh**](https://fmhy.net/system-tools#hackintosh) - Algumas recomendações úteis.
@@ -305,6 +326,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) - Site que cataloga malwares e grupos de ransomware.
 - [Windows Sandbox](https://learn.microsoft.com/pt-br/windows/security/application-security/application-isolation/windows-sandbox/) - Ambiente de testes.
 - [VirusTotal.com](https://www.virustotal.com/) / [Metadefender](https://metadefender.com/) - Serviços da Web que verificam arquivos e URLs.
+- [TarnKappe](https://tarnkappe.info/artikel/it-sicherheit/malware) - Notícias sobre a cena de cibersegurança. **Use um tradutor.**
 - [Sandboxie+](https://sandboxie-plus.com/) - "Sandbox" para computador fraco.
 - [Guia do r/techsupport sobre remoção de malware](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/)
 - [Passos preliminares para evitar contaminações por malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide/)
@@ -429,6 +451,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 #### ► **Geral**
 
 - 🌟 [**LumaPlay**](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197&hilit=lumaplay) - Rode jogos que dependem da Uplay da Ubisoft para funcionar.
+- [Winlator@Frost](https://github.com/MrPhryaNikFrosty/Winlator-Frost/) - Fork do emulador homônimo de Wine para Android com algumas funcionalidades extras.
 - [CapFrameX](https://github.com/CXWorld/CapFrameX?tab=readme-ov-file) - Usa o overlay do RivaTuner para capturar o framerate durante o gameplay. O RTSS é somente um provedor aqui, o programa completo não é instalado no seu computador.
 - [Simplaza-org](https://www.simplaza.org) - Site para download de addons, aeronaves e cenários para o Microsot Flight Simulator 2020 (MSFS2020).
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
@@ -468,7 +491,6 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
 - [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de download do Terabox.
-- [Czkawka](https://github.com/qarmin/czkawka) - Varredura de duplicatas no Windows e Linux.
 - [SlideSaver](https://slidesaver.app/) - Downloader de Slideshare.
 - [Unddit](https://undelete.pullpush.io/) - Veja posts removidos do reddit.
 - [Clonezilla](https://clonezilla.org/) - Cria pontos de restauração de imagens ISO e os salva em um pendrive.
