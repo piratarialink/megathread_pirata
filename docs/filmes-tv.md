@@ -300,7 +300,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
   
 ### 📺️ [Iptv-Brasil-2025](https://github.com/Ramys/Iptv-Brasil-2023)
 
-- Agregação de IPTV em massa
+- Agregação em massa de listas de IPTV gratuitas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
   
 ## 📱 Celular
