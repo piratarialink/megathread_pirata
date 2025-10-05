@@ -72,7 +72,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [GNOME](https://www.gnome.org/) - DE e gerenciador de janelas _lightweight_, extremamente conveniente para FreeBSD, OpenBSD e Fedora.
 - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Abafa ruídos e barulho ambiente, fica atrás apenas do Audition e Audacity nesse quesito.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV exclusivo com suporte para TV ao vivo, filmes e seriados.
-- [Czwanka](https://github.com/qarmin/czkawka) - Varre duplicatas e outros ficheiros desnecessários do sistema.
+- [Czkawka](https://github.com/qarmin/czkawka) - Varre duplicatas e outros ficheiros desnecessários do sistema.
 
 ## ► **Ferramentas para MacOS**
 
