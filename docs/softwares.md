@@ -283,6 +283,11 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 - Repacker Monkrus para diferentes aplicativos **pré-instalados**; altamente classificado, confiável e mais conhecido por seus repacks relacionados à Adobe.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/vk.com/)
 
+### 🌟 [Rutracker](https://rutracker.net/) / [2](https://rutracker.org/)
+
+- Tracker generalista russo desde 2004 em atividade. Para usar a função de pesquisa, é necessário se cadastrar.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rutracker.net/)
+  
 ### 🧲 [Mac Torrents](https://www.torrentmac.net/) • MacOS
 
 - Torrents para uma variedade de utilitários, aplicativos, jogos e plug-ins úteis para design gráfico, edição de vídeo e gráficos em movimento.
