@@ -280,7 +280,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ### 🌟 [M0nkrus](https://vk.com/monkrus) | [📣](https://t.me/m0nkrus/) • Interface em russo
 
-- Repacker Monkrus para diferentes aplicativos; altamente classificado, confiável e mais conhecido por seus repacks relacionados à Adobe.
+- Repacker Monkrus para diferentes aplicativos **pré-instalados**; altamente classificado, confiável e mais conhecido por seus repacks relacionados à Adobe.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/vk.com/)
 
 ### 🧲 [Mac Torrents](https://www.torrentmac.net/) • MacOS
