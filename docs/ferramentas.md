@@ -58,7 +58,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 
 ## ► **Ferramentas para Linux / BSD**
 
-- 🌟 [**WinBoat**](https://github.com/TibixDev/winboat) - Um versão mais polida e melhorada do Wine, pode rodar programas dedicados ao Windows em um contâiner sem baixar o sistema operacional da microsoft por completo.
+- 🌟 [**WinBoat**](https://github.com/TibixDev/winboat) - O WinBoat é uma versão mais polida e melhorada do Wine, pode rodar programas dedicados ao Windows em um contâiner sem baixar o sistema operacional da microsoft por completo.
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de _custom_ _ISOs_ upadas todos os dias.
 - [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor pessoal eficaz e protegido (sendo Debian a melhor distro para essa função).
 - [Linux4Noobs](https://github.com/he4rt/4noobs) - Projeto desenvolvido pela comunidade brasileira He4rtLabs.
