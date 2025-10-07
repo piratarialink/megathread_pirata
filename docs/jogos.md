@@ -269,7 +269,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 ### 🌟 [Flashpoint Archive](https://flashpointproject.github.io/flashpoint-database/search/)
 
 - Projeto criado para preservar jogos e animações da web.
-  A maioria das animações são gringas, mas muitos games que faziam parte da antiga click jogos estão presentes nesta lista.
+  A maioria das animações são gringas, mas muitos games que faziam parte da antiga click jogos/ojogos estão presentes nesta lista.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/flashpointproject.github.io/)
 
 ### 🌟 [CrazyGames](https://www.crazygames.com/)
