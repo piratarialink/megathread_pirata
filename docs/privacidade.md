@@ -195,7 +195,7 @@ Além do método referido, também é possível usar mixers que atuam através d
 
 ## Criptografia de disco
 
-### [Veracypt](https://www.veracrypt.fr/en/Home.html)
+### [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
 
 O VeraCrypt inclui suporte para HD, SSD, pendrive e cartão de memória.
 Ele adiciona segurança aprimorada aos algoritmos usados ​para criptografia de sistemas e partições, tornando-os imunes a novos desenvolvimentos em ataques de força bruta. 
