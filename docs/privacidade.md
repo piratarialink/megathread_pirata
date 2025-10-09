@@ -151,16 +151,12 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 
 ## Provedores de E-mail
 
-:::tip Se for usar as recomendações abaixo no dia a dia para coisas comuns, tudo bem. Mas se a intenção for usar para atividades na web que exigem mais sigilo, talvez não valha a pena. Neste contexto, comunique-se por meio de [**OpenPGP**](https://www.openpgp.org/software/) + serviços de e-mail hospedados na rede Tor como [Mail2Tor](http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/) (o melhor), [TorBox](http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/) (um dos melhores), [DNMX](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/) (recebe emails da surface normalmente), [Cock.li](http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/) (o mais estável) e [Deep Mail](http://deepmailv2xihwk7ie5q3nlmyflvjlqhvlzt3wih43eo44sfvfingeqd.onion/) (nacional e amigável com postfix)
+:::tip Se a sua intenção for usar e-mail para atividades na web que exigem mais sigilo, talvez não valha a pena usar provedores da clearnet. Neste contexto, comunique-se por meio de [**OpenPGP**](https://www.openpgp.org/software/) + serviços de e-mail hospedados na rede Tor como [Mail2Tor](http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/) (o melhor), [TorBox](http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/) (um dos melhores), [DNMX](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/) (recebe emails da surface normalmente), [Cock.li](http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/) (o mais estável) e [Deep Mail](http://deepmailv2xihwk7ie5q3nlmyflvjlqhvlzt3wih43eo44sfvfingeqd.onion/) (nacional e amigável com postfix)
 :::
-
-### [Posteo](https://posteo.de/)
-
-Anonimato garantido através de criptografia de ponta a ponta, chave PGP e 2FA. Ao se cadastrar dados pessoais como número de telefone não são solicitados, tampouco segundo e-mail para confirmação; o lado negativo é que além de ser um serviço pago, não há a possibilidade de obter domínios personalizados (ao contrário do mailbox.org); no entanto, seguindo essa [dica do fórum do Privacy Guides](https://discuss.privacyguides.net/t/using-posteo-w-a-custom-domain/26368/4) você pode resolver isso.
 
 ### [Mailbox.org](https://mailbox.org/)
 
-Mailbox.org é um serviço de e-mail baseado na Alemanha que oferece recursos avançados de privacidade e segurança. Ele funciona em servidores IMAP, SMTP e fornece aos usuários endereços de email personalizáveis, armazenamento de e-mail criptografado, filtro de spam eficiente e uma interface de usuário amigável. Ademais, o Mailbox.org oferece recursos como calendário, contatos, armazenamento de arquivos e ferramentas de colaboração, tornando-se uma solução abrangente para comunicação e produtividade. Possui um período de testes gratuito de 30 dias onde as mensagens podem ser encaminhadas apenas para outras contas da mailbox.org.
+Mailbox.org é um serviço de e-mail baseado na Alemanha que oferece recursos avançados de privacidade e segurança. Ele funciona em servidores IMAP, SMTP e fornece aos usuários endereços de email personalizáveis, armazenamento de e-mail criptografado, filtro de spam eficiente e uma interface de usuário amigável. Ademais, o Mailbox.org oferece recursos como calendário, contatos, armazenamento de arquivos e ferramentas de colaboração, tornando-se uma solução abrangente para comunicação e produtividade. Possui um período de testes gratuito de 30 dias onde as mensagens podem ser encaminhadas apenas para outras contas da mailbox.org. 
 
 ## Sistema Operacional Android
 
