@@ -197,11 +197,12 @@ Além do método referido, também é possível usar mixers que atuam através d
 
 ### [Veracypt](https://www.veracrypt.fr/en/Home.html)
 
-O VeraCrypt adiciona segurança aprimorada aos algoritmos usados ​para criptografia de sistemas e partições, tornando-o imune a novos desenvolvimentos em ataques de força bruta. Inclui suporte para HD, SSD, pendrive e cartão de memória.
+O VeraCrypt inclui suporte para HD, SSD, pendrive e cartão de memória.
+Ele adiciona segurança aprimorada aos algoritmos usados ​para criptografia de sistemas e partições, tornando-os imunes a novos desenvolvimentos em ataques de força bruta. 
 
 ### [LUKS](https://gitlab.com/cryptsetup/cryptsetup)
 
-LUKS é o padrão para criptografia de disco rígido no Linux. Ao fornecer um formato em disco, ele não apenas facilita a compatibilidade entre distribuições, mas também fornece gerenciamento seguro de múltiplas senhas de usuários. Gratuito e de código aberto, para que você tenha certeza de que não há backdoors.
+Com o LUKS você pode criar um arquivo simples ou até mesmo um conjunto de arquivos criptografados no Linux que, quando desbloqueados, formam um LVM com os seus dados. Ao fornecer um formato em disco, ele não apenas facilita a compatibilidade entre distribuições, mas também fornece gerenciamento seguro de múltiplas senhas de usuários. Gratuito e de código aberto, para que você tenha certeza de que não há backdoors.
 
 Melhores distros compatíveis com LUKS: **Fedora** (Bazzite é uma distribuição baseada no Fedora mais indicada para gamers), **Arch** com KDE (Manjaro e CachyOS são derivados do Arch recomendados para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
 
