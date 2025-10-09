@@ -59,21 +59,21 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 ## ► **Ferramentas para Linux / BSD**
 
 - 🌟 [**WinBoat**](https://github.com/TibixDev/winboat) - O WinBoat é uma versão mais polida e melhorada do Wine, pode rodar programas dedicados ao Windows em um contâiner sem baixar o sistema operacional da microsoft por completo.
-- [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de _custom_ _ISOs_ upadas todos os dias.
+- [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de ISOs customizadas upadas todos os dias.
 - [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor pessoal eficaz e protegido (sendo Debian a melhor distro para essa função).
 - [Linux4Noobs](https://github.com/he4rt/4noobs) - Projeto desenvolvido pela comunidade brasileira He4rtLabs.
-- [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um tema GTK3/GTK4 aprovado pela comunidade.
+- [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) / [GNOME Store](https://store.gnome.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um tema GTK3/GTK4 aprovado pela comunidade.
 - [Guia Foca](https://www.guiafoca.org/) - Passo-a-passo feito por um entusiasta brasileiro tendo em mente novos e antigos usuários.
 - 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
 - [Flathub](https://flathub.org/pt-BR) - Simplifica a descoberta de novos programas e pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
-- [DFM](https://apps.kde.org/dolphin/) - File Manager para o KDE Plasma, otimizado e altamente configurável.
-- [Dippi](https://github.com/cassidyjames/dippi) - Analisa a resolução e proporção da tela e retorna alguns detalhes importantes sobre o monitor.
+- [DFM](https://apps.kde.org/dolphin/) - File Manager exclusivo do KDE Plasma, otimizado e altamente prático.
+- [Dippi](https://github.com/cassidyjames/dippi) - Programa desenvolvido tendo em mente o GNOME, analisa a resolução e proporção da tela e retorna alguns detalhes importantes sobre o monitor.
 - 🌟 [**Ananicy Cpp**](https://gitlab.com/ananicy-cpp/ananicy-cpp) - Monitora processos do seu sistema operacional e aciona prioridades baseado no seu critério pré-definido.
-- [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Tocador de áudio escrito em python; oferece separação em tags, playlists, álbuns e ratings como recursos.
+- [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Tocador de áudio escrito em python; oferece separação em tags, playlists, álbuns e ratings como recurso.
 - [Hyprland](https://hypr.land/) - Gerenciador de janelas para usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
 - 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova os anúncios do Ubunto PRO e outras bizarrices da Canonical com esse método. Post original do [Ask Ubuntu](https://askubuntu.com/a/1438510).
-- [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Port não oficial do Lossless Scalling para GNU/Linux e Steam Deck; necessita da dll do lossless scalling para funcionar, a qual você pode extrair da [versão marítima sem pagar nada](https://cs.rin.ru/forum/viewtopic.php?f=41&t=94507&hilit=lossless+scallin&start=1155).
+- [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Port não oficial do Lossless Scalling para GNU/Linux e Steam Deck; necessita da dll do lossless scalling para funcionar, a qual você pode extrair da [versão marítima do LS sem pagar nada](https://cs.rin.ru/forum/viewtopic.php?f=41&t=94507&hilit=lossless+scallin&start=1155).
 - [GNOME](https://www.gnome.org/) - DE e gerenciador de janelas _lightweight_, extremamente conveniente para FreeBSD, OpenBSD e Fedora.
 - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Abafa ruídos e barulho ambiente, fica atrás apenas do Audition e Audacity nesse quesito.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV exclusivo com suporte para TV ao vivo, filmes e seriados.
