@@ -93,7 +93,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ### 🧲 [AvistaZ](https://avistaz.to/) | AZ
 
-- Concentrado em mídia asiática no idioma original somente, como doramas por exemplo.
+- Concentrado em mídia asiática no idioma original somente, como doramas.
 - O discord serve para avisar caso o tracker esteja com registro aberto.
 - Existe a opção de comprar uma seedbox afiliada para conseguir convite.
 
