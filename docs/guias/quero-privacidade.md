@@ -23,7 +23,7 @@
 - Email: Autohospedado com mailcow/mail-in-a-box ou mailbox.org + Thunderbird ou cock.li + Whonix/TailsOS
 - Encriptação de Email: GnuPG, GPG4WIN no Windows ou OpenKeychain no Android
 - Armazenamento: HD ou SSD com VeraCrypt
-- Criptografia: Cryptomator e Veracrypt (AES-128-GCM, XChaCha20-Poly1305)
+- Criptografia: Cryptomator e VeraCrypt (AES-128-GCM, XChaCha20-Poly1305)
 - Nuvem: systemli.org, NextCloud (chaves SSH, backup e armazenamento KeePassXC/Vaultwarden)
 - Navegador: Baseado no Firefox + nuMatrix + CSS Exfil Protection + Containers + arkenfox.js
 - Chat: Lemmy, SimpleX, Mastodon, XMPP e systemli.org
