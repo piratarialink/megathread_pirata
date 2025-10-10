@@ -213,7 +213,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Tracker generalista com uma reputação estimada.
 - Abrem para novos cadastros anualmente.
 - Sistema de H&R de 10 dias.
-- Ótimo para encontrar software desbloqueado como o DaVinci Resolve, por exemplo.
+- Ótimo para encontrar software desbloqueado como o DaVinci Resolve por exemplo.
 
 ---
 
