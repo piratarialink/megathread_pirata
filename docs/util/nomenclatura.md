@@ -2,7 +2,7 @@
 
 ‎
 
-- Descubra aqui os termos mais comuns utilizados na pirataria.
+- Descubra aqui os termos mais comuns utilizados na pirataria, bem como sua simbologia.
   Vamos facilitar o entendimento para que você se familiarize com as expressões frequentes neste espaço.
   Desfrute da leitura e expanda seu conhecimento!
 
