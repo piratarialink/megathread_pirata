@@ -87,7 +87,7 @@ O Navegador Mullvad é uma versão do Navegador Tor com as integrações do rote
 
 O Bitwarden é um gerenciador de senhas de código aberto e plataforma de segurança de dados que permite armazenar de forma segura senhas, cartões de crédito e outros dados confidenciais. Ele oferece recursos como preenchimento automático de senhas, geração segura de senhas, compartilhamento seguro de senhas com outras pessoas e sincronização de dados entre dispositivos. O Bitwarden é acessível através de aplicativos para desktop, navegador e dispositivos móveis, garantindo acesso fácil e seguro às suas credenciais em qualquer lugar.
 
-:::info Você pode criar sua própria instância do Bitwarden, instalando o Vaultwarden em seu servidor. Somente para usúarios avançados
+:::info Você pode criar sua própria instância do Bitwarden, instalando o [Vaultwarden](https://github.com/dani-garcia/vaultwarden) em seu servidor. Somente para usúarios avançados
 :::
 
 ### [KeePassXC](https://keepassxc.org/)
@@ -152,6 +152,8 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 ## Provedores de E-mail
 
 :::tip Se a sua intenção for usar e-mail para atividades na web que exigem mais sigilo, talvez não valha a pena usar provedores da clearnet. Neste contexto, comunique-se por meio de [**OpenPGP**](https://www.openpgp.org/software/) + serviços de e-mail hospedados na rede Tor como [Mail2Tor](http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/) (o melhor), [TorBox](http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/) (um dos melhores), [DNMX](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/) (recebe emails da surface normalmente), [Cock.li](http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/) (o mais estável) e [Deep Mail](http://deepmailv2xihwk7ie5q3nlmyflvjlqhvlzt3wih43eo44sfvfingeqd.onion/) (nacional e amigável com postfix)
+
+Você também pode hospedar seu próprio MTA dentro do [Mailcow](https://github.com/mailcow/mailcow-dockerized) ou [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox) integrado com o Tor, embora isso não seja muito indicado por ser algo extremamente complexo e custoso
 :::
 
 ### [Mailbox.org](https://mailbox.org/)
