@@ -24,7 +24,7 @@
 - Encriptação de Email: GnuPG, GPG4WIN no Windows ou OpenKeychain no Android
 - Armazenamento: HD ou SSD com Veracrypt
 - Criptografia: Cryptomator e Veracrypt (AES-128-GCM, XChaCha20-Poly1305)
-- Nuvem: systemli.org, NextCloud (chaves PGP, backup e armazenamento KeePassXC)
+- Nuvem: systemli.org, NextCloud (chaves SSH, backup e armazenamento KeePassXC)
 - Navegador: Baseado no Firefox + nuMatrix + CSS Exfil Protection + Containers + arkenfox.js
 - Chat: Lemmy, SimpleX, Mastodon, XMPP e systemli.org
 - XMPP: Psi+ no desktop e Conversations no android
