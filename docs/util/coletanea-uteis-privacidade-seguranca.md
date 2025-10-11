@@ -26,7 +26,7 @@ Aqui está uma Coletânea de coisas úteis para privacidade e segurança que fui
 
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras do Windows, como restaurar o antigo menu de contexto.
 
-- [ShupUp10++](https://www.oo-software.com/en/shutup10) - Software anti espionagem gratuito para Windows 10 e Windows 11.
+- [ShutUp10++](https://www.oo-software.com/en/shutup10) - Software anti espionagem gratuito para Windows 10 e Windows 11.
 
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Um ativador de Windows e Office usando métodos de ativação HWID/KMS38/KMS online, com foco em código-fonte aberto e menos detecções de antivírus.
 
@@ -62,8 +62,6 @@ Aqui está uma Coletânea de coisas úteis para privacidade e segurança que fui
 
 - [Canta - Uninstall any app without root!](https://f-droid.org/en/packages/org.samo_lego.canta/) - Canta permite que você desinstale qualquer aplicativo do seu dispositivo, mesmo se você não tiver acesso root. Precisa ser usado junto com o [Shizuku.](https://shizuku.rikka.app/)
 
-- [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) - Este é um navegador da web orientado para a privacidade e desbloqueado, baseado na tecnologia Mozilla. Ele habilita muitos recursos upstreamados pelo projeto Tor Uplift usando preferências do projeto arkenfox-user.js. Recomenda-se instalar o 'uBlock Origin'.
-
 - [Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - Um cliente Reddit focado na privacidade para Android.
 
 - [FFUpdater](https://github.com/Tobi823/ffupdater) - Update para navegador amigável à privacidade.
@@ -88,11 +86,21 @@ Aqui está uma Coletânea de coisas úteis para privacidade e segurança que fui
 
 - [Librewolf](https://librewolf.net/) - Uma versão personalizada do Firefox, focada em privacidade, segurança e liberdade.
 
-### Sites úteis
+### Útil
 
 - [2fa.directory](https://2fa.directory/int/) - Fonte independente de informações sobre quais serviços suportam MFA/2FA.
 
 - [simplepdf.eu](https://simplepdf.eu/) - Website simples para editar PDFs.
+
+- [Stirling-PDF](https://www.stirlingpdf.com/) - Outra ferramenta simples para editar PDFs.
+
+### Sites interessantes
+
+- [Cypherphunks Brasil](https://cypherpunks.com.br/) - Projeto dedicado a tradução de textos históricos e compartilhamento de conteúdo relacionado a criptoanarquismo.
+
+- [Tramoia](https://tramoia.sh/) - Artigos escritos por hacktivistas brasileiros.
+
+- [SoloLearn](https://sololearn.org) - É praticamente um duolingo só que voltado para linguagens de programação. Disponível para Android e IOS.
 
 ### Menção honrosa
 
