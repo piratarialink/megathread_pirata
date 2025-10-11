@@ -57,9 +57,9 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Não esconde resultados de navegação por DRM com o Yandex selecionado.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4get.ch/)
 
-### 🔗 [The Eye](https://beta.the-eye.eu/)
+### 🔗 [The Eye](https://the-eye.eu/)
 
-- Plataforma de armazenamento com download direto e torrents, muita coisa se perdeu depois que migraram para a versão beta do site.
+- Arquivo do the-eye.eu (antiga plataforma de armazenamento com download direto e torrents), contém muita coisa que foi deletada ou sumiu do domínio original.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/the-eye.eu/)
 
 ### 🔗 [Lumpysoft](https://lumpysoft.com/)
