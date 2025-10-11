@@ -288,6 +288,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - Frontend para o yt-dlp.
 - 🌟 [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade.
+- [Cat-catch](https://github.com/xifangczy/cat-catch) - O cat-catch é uma extensão do Firefox e Chrome para baixar vídeos de emissoras de tv brasileiras.
 - [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos.
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy.
 - [Allavsoft](https://www.allavsoft.com/) - Downloader de mídia.
