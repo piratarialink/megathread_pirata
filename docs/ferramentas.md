@@ -413,7 +413,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 ## ► **Inteligência Artifical**
 
-- [Pocket Pal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs localmente no seu celular para você interagir com modelos de IA totalmente offline e de graça.
+- [Pocket Pal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs localmente no seu celular para você interagir offline com modelos de IA.
 - [LMArena](https://lmarena.ai/?mode=direct) - **Quase** todos os chatbots pagos totalmente gratuitos e ilimitados.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas. Um pouco complicado de se acostumar a usar.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Sem censura (pode não funcionar na maior parte das vezes).
