@@ -96,7 +96,7 @@ Aqui está uma Coletânea de coisas úteis para privacidade e segurança que fui
 
 ### Interessante
 
-- [Cypherphunks Brasil](https://cypherpunks.com.br/) - Projeto dedicado a tradução de textos históricos e compartilhamento de conteúdo relacionado a criptoanarquismo.
+- [Cypherpunks Brasil](https://cypherpunks.com.br/) - Projeto dedicado a tradução de textos históricos e compartilhamento de conteúdo relacionado a criptoanarquismo.
 
 - [Tramoia](https://tramoia.sh/) - Artigos escritos por hacktivistas brasileiros.
 
