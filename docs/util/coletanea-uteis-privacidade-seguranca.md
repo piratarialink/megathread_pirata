@@ -1,6 +1,8 @@
 # 📑 ➜ Coletânea de coisas úteis para privacidade e segurança
+‎ 
+‎ 
 
-Aqui está uma Coletânea de coisas úteis para privacidade e segurança que fui acumulando com o tempo.
+Aqui está uma coletânea de coisas úteis para privacidade e segurança que fui acumulando com o tempo.
 
 ---
 
@@ -86,7 +88,7 @@ Aqui está uma Coletânea de coisas úteis para privacidade e segurança que fui
 
 - [Librewolf](https://librewolf.net/) - Uma versão personalizada do Firefox, focada em privacidade, segurança e liberdade.
 
-### Útil
+### Coisa útil
 
 - [2fa.directory](https://2fa.directory/int/) - Fonte independente de informações sobre quais serviços suportam MFA/2FA.
 
@@ -94,7 +96,7 @@ Aqui está uma Coletânea de coisas úteis para privacidade e segurança que fui
 
 - [Stirling-PDF](https://www.stirlingpdf.com/) - Outra ferramenta simples para editar PDFs.
 
-### Interessante
+### Muito interessante
 
 - [Cypherpunks Brasil](https://cypherpunks.com.br/) - Projeto dedicado a tradução de textos históricos e compartilhamento de conteúdo relacionado a criptoanarquismo.
 
