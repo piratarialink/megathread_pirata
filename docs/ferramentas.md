@@ -75,7 +75,7 @@ Ferramentas para ativação, scripts de usuário, gerenciadores de download, ass
 - [AutoKey](https://github.com/autokey/autokey) - Mesmo conceito do AutoHotKey, só que para Linux.
 - 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova os anúncios do Ubunto PRO e outras bizarrices da Canonical com esse método. Post original do [Ask Ubuntu](https://askubuntu.com/a/1438510).
 - [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Port não oficial do Lossless Scalling para GNU/Linux e Steam Deck; necessita da dll do lossless scalling para funcionar, a qual você pode extrair da [versão marítima do LS sem pagar nada](https://cs.rin.ru/forum/viewtopic.php?f=41&t=94507&hilit=lossless+scallin&start=1155).
-- [GNOME](https://www.gnome.org/) - DE e gerenciador de janelas _lightweight_, extremamente conveniente para FreeBSD, OpenBSD e Fedora.
+- [GNOME](https://www.gnome.org/) - DE e gerenciador de janelas _lightweight_ com um workflow extremamente conveniente para FreeBSD, OpenBSD e Fedora.
 - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Abafa ruídos e barulho ambiente, fica atrás apenas do Audition e Audacity nesse quesito.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV exclusivo com suporte para TV ao vivo, filmes e seriados.
 - 🌟 [**telemetry_off.sh**](https://github.com/daboynb/linux_scripts/blob/main/telemetry_off.sh) - Retira a coleta de dados da Canonical, **em versões mais recentes do Ubuntu, a telemetria é mais opt-in (você precisa desativá-la durante a instalação)**. Post original por [u/nb52er](https://www.reddit.com/r/Ubuntu/comments/w70wru/comment/ihjp0l5/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button).
@@ -299,7 +299,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [MPMux](https://mpmux.com/) - Pode baixar vídeos no formato HLS, .m3u8, MP4 e WebM.
 - [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar mídias de vários domínios.
 - **[Trialware]** [StreamFab](https://streamfab.com/) - Focado em download para plataformas de streaming. Consegue baixar da Globoplay.
-- [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 GB por 6 horas do Mega.
+- [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 Gbps por 6 horas do Mega.
 - [Skillshare-dl](https://github.com/mrwnwttk/skillshare-dl) - Baixe do skillshare. [Tópico original.](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/)
 - [Outro Skillshare-dl](https://github.com/KENWAY/Skillshare-DL) - Baixe do skillshare
 - [Firedown](https://www.firedown.app/) - Mais um downloader de vídeos.
