@@ -14,7 +14,7 @@ Aqui está uma Coletânea de coisas úteis para privacidade e segurança que fui
 
 - [Everything](https://www.voidtools.com/) com [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Para encontrar pastas rapidamente.
 
-- [ueli](https://ueli.app/#/) - Um iniciador de pressionamento de tecla.
+- [ueli](https://ueli.app/#/) - Um launcher de pressionamento de tecla.
 
 - [ShareX](https://getsharex.com/) - Alternativa melhor que o programa de captura de tela.
 
@@ -94,13 +94,15 @@ Aqui está uma Coletânea de coisas úteis para privacidade e segurança que fui
 
 - [Stirling-PDF](https://www.stirlingpdf.com/) - Outra ferramenta simples para editar PDFs.
 
-### Sites interessantes
+### Interessante
 
 - [Cypherphunks Brasil](https://cypherpunks.com.br/) - Projeto dedicado a tradução de textos históricos e compartilhamento de conteúdo relacionado a criptoanarquismo.
 
 - [Tramoia](https://tramoia.sh/) - Artigos escritos por hacktivistas brasileiros.
 
 - [SoloLearn](https://sololearn.org) - É praticamente um duolingo só que voltado para linguagens de programação. Disponível para Android e IOS.
+
+- [Diolinux](https://plus.diolinux.com.br/) - Fórum e canal do YouTube que difunde o uso de Linux no Brasil.
 
 ### Menção honrosa
 
