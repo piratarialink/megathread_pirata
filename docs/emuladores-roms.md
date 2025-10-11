@@ -241,6 +241,11 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - ROMs para múltiplos sistemas com download direto no site.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/crocdb.net/)
 
+### 🌟 [**Ultranx**](https://not.ultranx.ru/en)
+
+- ROMs para switch, com download sem anúncios e extremamente rápido.
+- Basta apenas criar um usuário(nome e senha apenas - qualquer serve)
+
 ### 🔗 [PSX Downloads](https://psxdownloads.us/) - Necessário Registrar-se
 
 - Oferece alguns jogos traduzidos e dublados (Fan-dubs) em PT-BR para PS1, PS2 e PS3.
