@@ -335,9 +335,14 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - Motor de busca de jogos rápido e eficiente, sem anúncios, com um banco de dados atualizado a cada 24 horas, inclui praticamente todos os jogos imagináveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/rezi.one/)
 
-### 🔍 [Buscador de jogos Rave](https://ravegamesearch.pages.dev/)
+### 🔍 [Virgil](https://virgil.samidy.com/Game-search/) 
 
-- Mecanismode busca que ajuda seus usuários a encontrar downloads de videogames gratuitos. Inclui novos links, bem como uma lista de sites atualizados.
+- Faz buscas apenas em fontes citadas pelo FMHY, monitorado e constantemente em construção, seu propósito é servir de bússola para encontrar jogos desbloqueados.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/virgil.samidy.com/)
+
+### 🔍 [Rave](https://ravegamesearch.pages.dev/)
+
+- Mecanismo de busca que ajuda seus usuários a encontrar downloads de videogames gratuitos. Inclui novos links, bem como uma lista de sites atualizados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravegamesearch.pages.dev/)
 
 ## 🧵 ➜ Torrents
