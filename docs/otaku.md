@@ -231,16 +231,17 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌸 [Sakura Mangás](https://sakuramangas.org/)
 
+- O flor de cerejeira reúne scanlators brasileiros e portugueses com o propósito de preservar mangás e outras obras asiáticas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sakuramangas.org/)
-
-#### 🌸 [Ler Mangás](https://lermangas.me/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/lermangas.me/)
 
 #### 🌸 [ComicK](https://comick.io/)
 
 - Leitor muito rápido e gratuito com um enorme banco de dados de quadrinhos, incluindo mangá, manhua e manhwa! Inclui Português Brasileiro.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comick.io/)
+
+#### 🌸 [Ler Mangás](https://lermangas.me/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/lermangas.me/)
 
 #### 🌸 [MangaOnline](https://mangaonline.biz/)
 
