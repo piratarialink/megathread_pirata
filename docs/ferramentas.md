@@ -249,6 +249,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Ferramentas de mídia
 
 - 🌟 [**OBS Studio**](https://github.com/obsproject/obs-studio) - Aplicativo de desktop de código aberto, tende a ser opção mais prática quando o assunto é gravação de tela.
+- [davincibox](https://github.com/zelikos/davincibox) - Ferramenta para usar o DaVinci Resolve (um software de edição de vídeo excelente e 90% do tempo gratuito) no Fedora.
 - [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente audio codec AC3.
 - [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
 - [VLsub](https://github.com/opensubtitles/vlsub-opensubtitles-com) - Baixa legendas diretamente pelo vlc sem ter que abrir o site do opensubtitles.
@@ -352,14 +353,15 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Hospedagem de arquivos
 
-- [Catbox](https://catbox.moe/) - Upload de vídeos (webm, mp4) e imagens. Não permite arquivos .exe, .scr, .cpl, .doc e .jar.
+- [IPFS](https://ipfs.io/) - Protocolo parecido com o BitTorrent, serve grande parte dos ficheiros que podem ser preservados temporariamente em cache ou pinados e assim armazenados para sempre. O conteúdo pode ser acessado tanto por um node autohospedado quanto por gateways públicas do site: https://ipfs.github.io/public-gateway-checker/ ou gateways privadas.
+- [Catbox](https://catbox.moe/) - Upload de vídeos (webm, mp4) e imagens. Não permite arquivos .exe, .scr, .cpl, .doc e .jar. Sem limite para upload.
 - [File Kiwi](https://file.kiwi/) - Mais uma alternativa para o Mega.
 - **[Pago]** [Filedot](https://filedot.to/) - Hospedagem na nuvem.
 - [Take me to space](https://take-me-to.space/) - Hospeda imagens. Necessário se cadastrar antes de começar a utilizar.
 
 ## ► Renomeação de arquivos
 
-- **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Cinderela.Baiana.2005.1080p.BluRay.DD5.x264).
+- **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Cinderela.Baiana.2005.1080p.BluRay.DD5.x264). [Guia do Hattered](https://mefrraz.github.io/hattered/pages/guides/organizar_ficheiros_com_filebot.html)
 - [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Mesmo conceito do filebot, mas gratuito.
 - [AdvancedRenamer](https://www.advancedrenamer.com/) - Mesmo conceito do filebot, mas gratuito.
 - [Ant Renamer](https://antp.be/software/renamer) - Ótimo para gerenciamento rápido de strings em massa (para Plex, por exemplo).
@@ -369,15 +371,16 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 - [PopUpOFF](https://popupoff.org/) - Impede que pop-ups e bloqueadores carreguem, componente essencial para quem detesta anúncios.
 - [Absolute Enable Right Click and Copy](https://addons.mozilla.org/pt-BR/firefox/addon/absolute-enable-right-click/) - Permite clicar com o botão direito e copiar em websites que tentam impedir isso, também pode remover proteções anti cópia para vídeos e imagens.
-- [Bitwarden](https://bitwarden.com/download/) - Une todas as suas senhas em um cofre à prova de _infostealers_, outras funções podem ser desbloqueadas pagando mas o plano gratuito já é suficiente.
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
 - [User Agent Switcher and Manager](https://github.com/ray-lothian/UserAgent-Switcher) - Faz com que os sites pensem que você está usando outro tipo de aparelho, eficaz para achar brechas em páginas que não solicitam javascript ligado a todo momento como o file hoster _anonfile.de_ por exemplo.
 - [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados. Na minha opinião, a melhor ferramenta para customizar e escurecer sites.
+- [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers/) - Separa a sua navegação na web em diferentes _containers_. O que pode parecer inútil a primeira vista, no entanto, isso confunde CDNs que tentam vigiar o seu histórico e cookies sem tu saber.
+- [Bitwarden](https://bitwarden.com/download/) - Une todas as suas senhas em um cofre à prova de _infostealers_, outras funções podem ser desbloqueadas pagando mas o plano gratuito já é suficiente.
 - [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site. Fork da extensão "I Don't Care about Cookies".
 - [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site e também previne ataques XSS. Comumente conhecido por vir pré-instalado no navegador Tor.
 - [Port Authority](https://github.com/ACK-J/Port_Authority/) - Defesa em tempo real contra ofensivas hackers do tipo _port mapping_. Ideal para quando o tracker privado ou warez que você participa pedir para realizar _port forwarding_.
 - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - Extensão já recomendada pelo FMHY que impede que domínios usem APIs baseadas em JavaScript para coletar a impressão digital de seu _browser_.
-- [LocalCDN](https://www.localcdn.org/) - Redireciona requisições de bibliotecas web mais comuns (Cloudflare CDN) para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
+- [LocalCDN](https://www.localcdn.org/) - O sucessor do Descentraleyes, redireciona requisições de bibliotecas web mais comuns (Cloudflare CDN) para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
 
 ## ► **Telegram**
 
@@ -498,7 +501,6 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
 - [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de download do Terabox.
 - [SlideSaver](https://slidesaver.app/) - Downloader de Slideshare.
-- [Unddit](https://undelete.pullpush.io/) - Veja posts removidos do reddit.
 - [Clonezilla](https://clonezilla.org/) - Cria pontos de restauração de imagens ISO e os salva em um pendrive.
 - [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries.
 - [Rewind](https://github.com/Neo23x0/Rewind) - Medidas imediatas contra infecção por vírus.
