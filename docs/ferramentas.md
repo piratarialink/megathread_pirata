@@ -353,8 +353,8 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Hospedagem de arquivos
 
-- [IPFS](https://ipfs.io/) - Protocolo parecido com o BitTorrent, serve grande parte dos ficheiros que podem ser preservados temporariamente em cache ou pinados e assim armazenados para sempre. O conteúdo pode ser acessado tanto por um node autohospedado quanto por gateways públicas do site: https://ipfs.github.io/public-gateway-checker/ ou gateways privadas.
-- [Catbox](https://catbox.moe/) - Upload de vídeos (webm, mp4) e imagens. Não permite arquivos .exe, .scr, .cpl, .doc e .jar. Sem limite para upload.
+- [IPFS](https://ipfs.io/) - Bem parecido com o BitTorrent, serve ficheiros que podem ser preservados temporariamente em cache ou pinados e assim armazenados para sempre. O conteúdo pode ser acessado tanto por um node seu quanto por [gateways públicas](https://ipfs.github.io/public-gateway-checker/) ou gateways privadas.
+- [Catbox](https://catbox.moe/) - Upload de vídeos (webm, mp4) e imagens. Não permite arquivos .exe, .scr, .cpl, .doc e .jar. Até o momento, sem limite de tamanho para upload.
 - [File Kiwi](https://file.kiwi/) - Mais uma alternativa para o Mega.
 - **[Pago]** [Filedot](https://filedot.to/) - Hospedagem na nuvem.
 - [Take me to space](https://take-me-to.space/) - Hospeda imagens. Necessário se cadastrar antes de começar a utilizar.
