@@ -1,8 +1,8 @@
 # 📑 ➜ Coletânea de coisas úteis para privacidade e segurança
 ‎ 
 ‎ 
-
 Aqui está uma coletânea de coisas úteis para privacidade e segurança que fui acumulando com o tempo.
+‎ 
 
 ---
 

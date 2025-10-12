@@ -4,9 +4,9 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 ## ► Geral
 
-- [Como jogar jogos com Denuvo DRM de maneira offline gratuita](https://www.reddit.com/r/pirataria/comments/1lsnswb/como_jogar_jogos_com_denuvo_drm_offline_gratuito/?share_id=FMajA2wQvfeSRY_w8xv4C) - Feito por [u/Eduardo1502](https://www.reddit.com/user/Eduardo1502/)
-
-- [Existe alguma maneira de aumentar minha velocidade de seeding?](https://www.reddit.com/r/qBittorrent/comments/11d14hu/is_there_a_way_i_can_boost_my_seeding/) - Feito por [u/Equivalent-Ad-4490](https://www.reddit.com/user/Equivalent-Ad-4490/)
+- [[GUIA] ADDON BRAZUCA TORRENTS (STREMIO) + DEBRID](https://www.reddit.com/r/pirataria/comments/1o2yzfn/guia_addon_brazuca_torrents_stremio_debrid/) - Feito por [u/old_pirate12](https://www.reddit.com/user/old_pirate12/)
+  
+- [Index público e brasileiro para filmes e séries no Prowlarr](https://www.reddit.com/r/pirataria/comments/1o4awqj/index_p%C3%BAblico_e_brasileiro_para_filmes_e_s%C3%A9ries/) - Feito por [u/dougppaz_](https://www.reddit.com/user/dougppaz_/)
 
 - [Como usar um DNS Privado no Android e bloquear anúncios + desbloquear sites censurados](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/) - Feito por [u/YuriRosas](https://www.reddit.com/user/YuriRosas/)
 
@@ -44,6 +44,8 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 ## ► Jogos
 
+- [Como jogar jogos com Denuvo DRM de maneira offline gratuita](https://www.reddit.com/r/pirataria/comments/1lsnswb/como_jogar_jogos_com_denuvo_drm_offline_gratuito/?share_id=FMajA2wQvfeSRY_w8xv4C) - Feito por [u/Eduardo1502](https://www.reddit.com/user/Eduardo1502/)
+  
 - [Como baixar jogos usando 1337x e TorrentGalaxy](https://phtn.app/post/lemmy.dbzer0.com/2903152) - Feito por [u/Heus-Sueh](https://phtn.app/u/Heus_Sueh@lemmy.dbzer0.com)
 
 - [Informações sobre funcionalidades e segurança de Launchers Minecraft](https://www.reddit.com/r/pirataria/s/Uig8dZ3aKa) - Feito por [M1chelon](https://www.reddit.com/u/M1chelon/s/peQmTKM3UE)
