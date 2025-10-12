@@ -477,7 +477,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Outro emulador Steam.
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Desbloqueie todas as DLCs em jogos Steam legítimos.
 - [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) - Instala e configura automaticamente o CreamAPI para jogos Steam.
-- [SteamEmuUtility](ttps://github.com/turusudiro/SteamEmuUtility) - Extensão do launcher Playnite para rodar o GreenLuma/SmartSteamEmu.
+- [SteamEmuUtility](https://github.com/turusudiro/SteamEmuUtility) - Extensão do launcher Playnite para rodar o GreenLuma/SmartSteamEmu.
 - [Steamless](https://github.com/atom0s/Steamless) - Remove o SteamStub DRM dos executáveis ​​do jogo Steam se eles o contiverem. Para ser usado em conjunto com um emulador Steam se o emulador sozinho não for suficiente para quebrar a proteção do jogo.
 
 #### ► **Ferramentas para a Epic Games**
