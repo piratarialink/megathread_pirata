@@ -335,7 +335,6 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [TarnKappe](https://tarnkappe.info/artikel/it-sicherheit/malware) - Notícias sobre a cena de cibersegurança. **Use um tradutor.**
 - [Sandboxie+](https://sandboxie-plus.com/) - "Sandbox" para computador fraco.
 - [Hattered: Limpeza pós-infecção por malware](https://mefrraz.github.io/hattered/pages/guides/guia_de_limpeza_pos_infecao.html)
-- [Guia do r/techsupport sobre remoção de malware](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/)
 - [Passos preliminares para evitar contaminações por malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide/)
 - [Guia do u/orchestralblend](/util/antivírus.md)
 
