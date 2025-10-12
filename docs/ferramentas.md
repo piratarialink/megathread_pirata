@@ -290,7 +290,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - Frontend para o yt-dlp.
 - 🌟 [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade.
-- [Cat-catch](https://github.com/xifangczy/cat-catch) - O cat-catch é uma extensão do Firefox e Chrome para baixar vídeos de emissoras de tv brasileiras.
+- [Cat-catch](https://github.com/xifangczy/cat-catch) - O cat-catch é uma extensão do Firefox e Chrome para baixar vídeos de sites de emissoras de tv.
 - [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos.
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy.
 - [Allavsoft](https://www.allavsoft.com/) - Downloader de mídia.
@@ -361,7 +361,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Renomeação de arquivos
 
-- **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Cinderela.Baiana.2005.1080p.BluRay.DD5.x264). [Guia do Hattered](https://mefrraz.github.io/hattered/pages/guides/organizar_ficheiros_com_filebot.html)
+- **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Cinderela.Baiana.2005.1080p.BluRay.DD5.x264). [Guia](https://mefrraz.github.io/hattered/pages/guides/organizar_ficheiros_com_filebot.html)
 - [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Mesmo conceito do filebot, mas gratuito.
 - [AdvancedRenamer](https://www.advancedrenamer.com/) - Mesmo conceito do filebot, mas gratuito.
 - [Ant Renamer](https://antp.be/software/renamer) - Ótimo para gerenciamento rápido de strings em massa (para Plex, por exemplo).
@@ -380,7 +380,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site e também previne ataques XSS. Comumente conhecido por vir pré-instalado no navegador Tor.
 - [Port Authority](https://github.com/ACK-J/Port_Authority/) - Defesa em tempo real contra ofensivas hackers do tipo _port mapping_. Ideal para quando o tracker privado ou warez que você participa pedir para realizar _port forwarding_.
 - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - Extensão já recomendada pelo FMHY que impede que domínios usem APIs baseadas em JavaScript para coletar a impressão digital de seu _browser_.
-- [LocalCDN](https://www.localcdn.org/) - O sucessor do Descentraleyes, redireciona requisições de bibliotecas web mais comuns (Cloudflare CDN) para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
+- [LocalCDN](https://www.localcdn.org/) - Melhor alternativa para o Decentraleyes, redireciona requisições de bibliotecas web mais comuns (Cloudflare CDN) para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
 
 ## ► **Telegram**
 
