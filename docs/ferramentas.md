@@ -374,7 +374,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
 - [User Agent Switcher and Manager](https://github.com/ray-lothian/UserAgent-Switcher) - Faz com que os sites pensem que você está usando outro tipo de aparelho, eficaz para achar brechas em páginas que não solicitam javascript ligado a todo momento como o file hoster _anonfile.de_ por exemplo.
 - [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados. Na minha opinião, a melhor ferramenta para customizar e escurecer sites.
-- [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers/) - Separa a sua navegação na web em diferentes _containers_. O que pode parecer inútil a primeira vista, no entanto, isso confunde CDNs que tentam vigiar o seu histórico e cookies sem tu saber.
+- [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers/) - Separa a sua navegação na web em diferentes _containers_. O que pode parecer inútil à primeira vista, no entanto, isso confunde CDNs que tentam vigiar o seu histórico e cookies sem tu saber.
 - [Bitwarden](https://bitwarden.com/download/) - Une todas as suas senhas em um cofre à prova de _infostealers_, outras funções podem ser desbloqueadas pagando mas o plano gratuito já é suficiente.
 - [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site. Fork da extensão "I Don't Care about Cookies".
 - [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site e também previne ataques XSS. Comumente conhecido por vir pré-instalado no navegador Tor.
@@ -420,7 +420,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 ## ► **Inteligência Artifical**
 
-- [Pocket Pal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs localmente para você interagir offline com modelos de IA diretamente no seu celular.
+- [Pocket Pal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [LMArena](https://lmarena.ai/?mode=direct) - **Quase** todos os chatbots pagos totalmente gratuitos e ilimitados.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas. Um pouco complicado de se acostumar a usar.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Sem censura (pode não funcionar na maior parte das vezes).
