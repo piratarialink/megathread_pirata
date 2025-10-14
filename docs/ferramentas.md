@@ -226,7 +226,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 - 🌟 [**Stremio**](https://www.stremio.com/) - Gerenciador de biblioteca para múltiplos vídeos, com suporte a plugins para transmissão de diversas fontes de mídia, incluindo torrents. Confira também o subreddit [Stremio Addons](https://www.reddit.com/r/StremioAddons/), o [guia](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/) sobre como assistir juntos e o [guia](https://pirataria.link/guias/guia-stremio) básico de como usar Stremio. Sobre seeds, veja essa [nota](https://pirataria.link/outros/stremio).
 - 🌟 [**Stremio Desktop**](https://github.com/Zaarrg/stremio-desktop-v5/releases) - Este é um aplicativo de desktop para Stremio, desenvolvido com WebView2 e Qt6, permitindo que você aproveite a versão mais recente da [interface web](https://stremio.zarg.me/) com desempenho e funções aprimoradas.
-- 🌟 [**Plex Media Server**](https://www.plex.tv/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
+- 🌟 [**Plex Media Server**](https://www.plex.tv/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix, pode ser configurado com o UnRaid ou TrueNAS Scale.
 - 🌟 [**Jellyfin Media Server**](https://jellyfin.org/) - Netflix auto-hospedado de código aberto. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
 - [Plexamp](https://plexamp.com/) - Plex, mas para música. Disponível em ios, mac, windows, linux e android
 - **[Pago]** [Emby Media Server](https://emby.media/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante a Netflix.
@@ -340,7 +340,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Compartilhamento de arquivos
 
-- [Pairdrop](https://pairdrop.net/) - PairDrop: Compartilhamento local de arquivos em seu navegador. Inspirado no AirDrop da Apple. Fork do Snapdrop.
+- [LocalSend](https://github.com/localsend/localsend) - Multiplatforma, privado, seguro e fácil de se acostumar a utilizar.
+- [Tailscale](https://tailscale.com/) - Acesse seu computador remotamente sem precisar abrir portas no roteador.
+- [Pairdrop](https://pairdrop.net/) - Compartilhamento local de arquivos em seu navegador. Inspirado no AirDrop da Apple. Fork do Snapdrop.
 - [SyncThing](https://syncthing.net/) - Compartilhe arquivos/pastas entre computadores. Configure pastas compartilhadas que serão sincronizadas automaticamente entre os dispositivos.
 - [file.pizza](https://file.pizza/) - Transferências seguras de arquivos peer-to-peer. Útil para transferências rápidas de arquivos únicos. [Página do GitHub.](https://github.com/kern/filepizza)
 - [instant.io](https://instant.io/) - Mesmo conceito do file.pizza
@@ -349,7 +351,6 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [snapdrop.net](https://snapdrop.net) - Mesmo conceito do file.pizza [página do GitHub.](https://github.com/RobinLinus/snapdrop)
 - [wetransfer.com](https://wetransfer.com/) - Envie links autoexpiráveis ​​de até 2 GB de tamanho.
 - [LanXchange](https://github.com/tfg13/LanXchange) - Envie arquivos do PC para o Smartphone e vice-versa pelo wifi local (não usa internet).
-- [Tailscale](https://tailscale.com/) - Acesse seu computador remotamente sem precisar abrir portas no roteador.
 
 ## ► Hospedagem de arquivos
 
@@ -500,6 +501,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
 - [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de download do Terabox.
+- [Unddit](https://undelete.pullpush.io) - Veja posts e comentários removidos do Reddit.
 - [SlideSaver](https://slidesaver.app/) - Downloader de Slideshare.
 - [Clonezilla](https://clonezilla.org/) - Cria pontos de restauração de imagens ISO e os salva em um pendrive.
 - [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries.

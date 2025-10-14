@@ -295,7 +295,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 📺️ [Cliente simples de IPTV para o Kodi](https://kodi.tv/addons/omega/pvr.iptvsimple/)
 
-- Não é difícil de configurar, porém pode falhar bastante em comparação com provedores tradicionais de IPTV.
+- Não é difícil de configurar, porém pode travar bastante em comparação com provedores tradicionais de IPTV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kodi.tv/)
   
 ### 📺️ [Iptv-Brasil-2025](https://github.com/Ramys/Iptv-Brasil-2023)
