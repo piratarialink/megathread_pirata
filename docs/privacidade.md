@@ -186,7 +186,7 @@ Bisq é uma DEX de código aberto exclusiva para desktop que permite que você t
 
 Além do método referido, também é possível usar mixers que atuam através de técnicas coinjoin como o [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver), uma ferramenta que exige um full node seu, ou seja, a blockchain inteira; é um localhost muito seguro. Dos outros participantes, ele exigirá a mesma coisa. Você envia do seu endereço para um gerado pelo JoinMarket e os outros participantes também, assim ele mistura as transações, tudo isso, de forma descentralizada.
 
-:::tip A [Electrum Wallet](https://electrum.org/) é uma alternativa viável à carteira oficial do bitcoin pois não requer que você baixe a blockchain inteira no seu computador
+:::tip A [Electrum Wallet](https://electrum.org/) é uma alternativa viável à carteira oficial do bitcoin pois não exige que você baixe a blockchain inteira no seu computador
 :::
 
 :::warning Evite corretoras de cripto como a Binance, Kraken e Mercado Bitcoin - CEXs que envolvem a exposição de seus dados pessoais (KYC) e desenvolvimento baseado em código fechado
