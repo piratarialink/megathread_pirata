@@ -340,7 +340,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Compartilhamento de arquivos
 
-- [Pairdrop](https://pairdrop.net/) - PairDrop: Compartilhamento local de arquivos em seu navegador. Inspirado no AirDrop da Apple. Fork do Snapdrop.
+- [LocalSend](https://github.com/localsend/localsend) - Multiplatforma, privado, seguro e fácil de se acostumar a utilizar.
+- [Tailscale](https://tailscale.com/) - Acesse seu computador remotamente sem precisar abrir portas no roteador.
+- [Pairdrop](https://pairdrop.net/) - Compartilhamento local de arquivos em seu navegador. Inspirado no AirDrop da Apple. Fork do Snapdrop.
 - [SyncThing](https://syncthing.net/) - Compartilhe arquivos/pastas entre computadores. Configure pastas compartilhadas que serão sincronizadas automaticamente entre os dispositivos.
 - [file.pizza](https://file.pizza/) - Transferências seguras de arquivos peer-to-peer. Útil para transferências rápidas de arquivos únicos. [Página do GitHub.](https://github.com/kern/filepizza)
 - [instant.io](https://instant.io/) - Mesmo conceito do file.pizza
@@ -349,7 +351,6 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [snapdrop.net](https://snapdrop.net) - Mesmo conceito do file.pizza [página do GitHub.](https://github.com/RobinLinus/snapdrop)
 - [wetransfer.com](https://wetransfer.com/) - Envie links autoexpiráveis ​​de até 2 GB de tamanho.
 - [LanXchange](https://github.com/tfg13/LanXchange) - Envie arquivos do PC para o Smartphone e vice-versa pelo wifi local (não usa internet).
-- [Tailscale](https://tailscale.com/) - Acesse seu computador remotamente sem precisar abrir portas no roteador.
 
 ## ► Hospedagem de arquivos
 
