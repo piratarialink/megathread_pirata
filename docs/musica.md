@@ -26,6 +26,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
   
 - Database e provider de capas de álbuns, eps e singles. Também desenvolve o aplicativo [Picard](https://picard.musicbrainz.org/) para desktop.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/musicbrainz.org/)
+  
+### 🔗 [r/AudiofiliaBrasil](https://www.reddit.com/r/audiofiliabrasil/)
+
+- Comunidade de audiogeeks com dicas, sorteios, feedbacks e links para promoções nas principais lojas virtuais.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/reddit.com/)
 
 ## 📥 ➜ Download Direto
 
