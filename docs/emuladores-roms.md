@@ -253,7 +253,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**Not UltraNX**](https://not.ultranx.ru/en)
 
-- Site do projeto [UltraNX](https://github.com/Ultra-NX/UltraNX/blob/main/README_ENG.md) - um CFW par Switch focado em tweaks.
+- Site do projeto [UltraNX](https://github.com/Ultra-NX/UltraNX/blob/main/README_ENG.md) - um CFW para Switch focado em tweaks.
 - ROMs para switch, com download sem anúncios e extremamente rápido.
 - Basta apenas criar um usuário(nome e senha apenas - qualquer serve).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/not.ultranx.ru/)
