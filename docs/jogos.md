@@ -277,7 +277,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - Melhor site para jogar jogos de navegador de primeira linha gratuitamente. Todos os dias, novos jogos são upados!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/crazygames.com/)
 
-### 🔗 [Friv](https://www.friv.com/)
+### 🌟 [Friv](https://www.friv.com/)
 
 - Portal clássico contendo sempre os melhores jogos, inclusive para smartphones. Tudo isso, sem interrupções por anúncios.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/friv.com/)

@@ -231,7 +231,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## 💾 ➜ ROMs/ISOs
 
-### 🌟 [**Internet Archive**](https://archive.org/)
+### 🌟 [**Internet Archive**](https://archive.org/details/emulation)
 
 - Milhares de rom-sets e dumps de CD-ROMs em formato de ISO.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
@@ -356,6 +356,23 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Excelente para obter roms do Switch, apenas tome cuidado para não sair clicando em qualquer coisa e tenha o bom senso de usar adblock.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ziperto.com/)
 
+## 🏆 ➜ Projetos originais/QoLs
+
+### 🌟 [Project Restoration](https://github.com/leoetlino/project-restoration)
+
+- Este patch para o Majora's Mask de 3DS resolve alguns dos problemas mais conhecidos dentro do jogo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com)
+
+### 🌟 [Smash Remix](https://smash64.online/remix/)
+
+- Adiciona uma quantidade imensa de conteúdo + novas fases para o clássico brawler do Nintendo 64.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/smash64.online/)
+
+### 🔗 [Hyper DBZ](https://network.mugenguild.com/balthazar/hyperdbz/index.html)
+
+- Fangame aprimorado ao decorrer dos anos baseado na engine do Mugen, toma como inspiração o DBZ Hyper Dimension do SNES.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/network.mugenguild.com/)
+  
 ## 🧩 ➜ Projetos de decompilação
 
 ### 📒 [Decompedia](https://wiki.decomp.dev/)
