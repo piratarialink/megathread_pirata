@@ -251,6 +251,13 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - 180 jogos fantásticos. Basta baixar e extrair o arquivo zip de 19 MB.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
+### 🌟 [**Not UltraNX**](https://not.ultranx.ru/en)
+
+- Site do projeto [UltraNX](https://github.com/Ultra-NX/UltraNX/blob/main/README_ENG.md) - um CFW par Switch focado em tweaks.
+- ROMs para switch, com download sem anúncios e extremamente rápido.
+- Basta apenas criar um usuário(nome e senha apenas - qualquer serve).
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/not.ultranx.ru/)
+  
 ### 🔗 [CDRomance](https://cdromance.com/)
 
 - Coleção de jogos da era de 128 bits da sexta geração de consoles, bem como títulos de 8 bits.
@@ -356,7 +363,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Excelente para obter roms do Switch, apenas tome cuidado para não sair clicando em qualquer coisa e tenha o bom senso de usar adblock.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ziperto.com/)
 
-## 🎮 ➜ Homebrew/QoL
+## 🏠 ➜ Homebrew/Quality of Life
 
 ### 🌟 [Project Restoration](https://github.com/leoetlino/project-restoration)
 
