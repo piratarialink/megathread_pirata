@@ -319,7 +319,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [calameodownload](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento público do Calameo como imagens ou PDFs. Acesse o site com uma VPN.
 - [Cnvmp3](https://cnvmp3.com/) - Converta vídeos do YouTube para MP3 ou MP4 e baixe-os com este conversor rápido e gratuito do YouTube. O CnvMP3 é livre de anúncios, seguro e suporta qualidade de até 320 kbps.
 - [Ezmp3](https://ezmp3.co/) - EzMP3 é o conversor de YouTube para MP3 sem anúncios que permite converter vídeos de até 12 horas de duração. Você pode cortar o áudio e escolher uma taxa de bits de 64 kbps a 320 kbps.
-
+- [Convertidor.mx](https://www.convertidor.mx/pt-br/) - Conversor online grátis: MP4 para MP3, baixar áudio do YouTube e TikTok.
 ## ► Seedboxes
 
 - **[Trialware]** [TorBox](https://www.torbox.app/) - Seedbox gratuito que permite baixar torrents de até **10 GB** de tamanho. Se você deseja se tornar premium, evite comprar de semeadores - eles são muito caros.
