@@ -294,7 +294,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos.
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy.
 - [Allavsoft](https://www.allavsoft.com/) - Downloader de mídia.
-- [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injetor para aplicativos UWP.
+- [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injector para aplicativos UWP.
 - [gallery-dl](https://github.com/mikf/gallery-dl) - gallery-dl é um programa de linha de comando para baixar galerias e coleções de imagens de vários hosts de imagens.
 - [Fetchv](https://fetchv.net/pt-br) - Downloader de vídeos
 - [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Baixa em massa de episódios de anime para vários sites, em várias resoluções, com ou sem episódios de preenchimento.
@@ -319,7 +319,8 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [calameodownload](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento público do Calameo como imagens ou PDFs. Acesse o site com uma VPN.
 - [Cnvmp3](https://cnvmp3.com/) - Converta vídeos do YouTube para MP3 ou MP4 e baixe-os com este conversor rápido e gratuito do YouTube. O CnvMP3 é livre de anúncios, seguro e suporta qualidade de até 320 kbps.
 - [Ezmp3](https://ezmp3.co/) - EzMP3 é o conversor de YouTube para MP3 sem anúncios que permite converter vídeos de até 12 horas de duração. Você pode cortar o áudio e escolher uma taxa de bits de 64 kbps a 320 kbps.
-- [Convertidor.mx](https://www.convertidor.mx/pt-br/) - Conversor online grátis: MP4 para MP3, baixar áudio do YouTube e TikTok.
+- [Convertidor.mx](https://www.convertidor.mx/pt-br/) - Conversor online grátis: MP4 para MP3 - está em fase inicial ainda, então para extrair áudio em 320kbps do YouTube e TikTok, cole o vídeo que você baixou de outra plataforma.
+
 ## ► Seedboxes
 
 - **[Trialware]** [TorBox](https://www.torbox.app/) - Seedbox gratuito que permite baixar torrents de até **10 GB** de tamanho. Se você deseja se tornar premium, evite comprar de semeadores - eles são muito caros.
@@ -354,7 +355,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Hospedagem de arquivos
 
-- [IPFS](https://ipfs.io/) - Bem parecido com o BitTorrent, serve ficheiros que podem ser preservados temporariamente em cache ou pinados e assim armazenados para sempre. O conteúdo pode ser acessado tanto por um node seu quanto por [gateways públicas](https://ipfs.github.io/public-gateway-checker/) ou gateways privadas.
+- [IPFS](https://ipfs.io/) - Serve ficheiros que podem ser preservados temporariamente em cache ou pinados e assim armazenados para sempre. O conteúdo pode ser acessado tanto por um node seu quanto por [gateways públicas](https://ipfs.github.io/public-gateway-checker/) ou privadas.
 - [Catbox](https://catbox.moe/) - Upload de vídeos (webm, mp4) e imagens. Não permite arquivos .exe, .scr, .cpl, .doc e .jar. Até o momento, sem limite de tamanho para upload.
 - [File Kiwi](https://file.kiwi/) - Mais uma alternativa para o Mega.
 - **[Pago]** [Filedot](https://filedot.to/) - Hospedagem na nuvem.
@@ -375,7 +376,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
 - [User Agent Switcher and Manager](https://github.com/ray-lothian/UserAgent-Switcher) - Faz com que os sites pensem que você está usando outro tipo de aparelho, eficaz para achar brechas em páginas que não solicitam javascript ligado a todo momento como o file hoster _anonfile.de_ por exemplo.
 - [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados. Na minha opinião, a melhor ferramenta para customizar e escurecer sites.
-- [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers/) - Separa a sua navegação na web em diferentes _containers_. O que pode parecer inútil à primeira vista, no entanto, isso confunde CDNs que tentam vigiar o seu histórico e cookies sem tu saber.
+- [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers/) - Separa a sua navegação na web em diferentes _containers_. O que pode parecer inútil à primeira vista, no entanto, isso confunde CDNs que tentam vigiar o seu histórico e cookies sem o seu consentimento. 
 - [Bitwarden](https://bitwarden.com/download/) - Une todas as suas senhas em um cofre à prova de _infostealers_, outras funções podem ser desbloqueadas pagando mas o plano gratuito já é suficiente.
 - [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Livre-se de requests de cookies em qualquer site. Fork da extensão "I Don't Care about Cookies".
 - [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site e também previne ataques XSS. Comumente conhecido por vir pré-instalado no navegador Tor.
