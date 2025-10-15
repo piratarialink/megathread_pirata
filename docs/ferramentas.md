@@ -453,7 +453,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [STEAM7](https://t.me/steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas steam.
 - **[Pago]** [Xinyu Store](https://xinyustore.com/) - Fornece assinaturas **compartilhadas** da alura, qconcursos e estratégia para você estudar a preços justos e acessíveis.
 - [CrackingX](https://crackingx.com) - Combolists e contas de streaming.
-- **[Pago]** [Kotas](https://www.kotas.com.br/servico/kotas) - Divida logins da udemy, babbel, capcut e [canva pro](https://t.me/DevWorldSbot) com outros usuários da web.
+- **[Pago]** [Kotas](https://www.kotas.com.br/servico/kotas) - Divida logins da udemy, babbel, proton, capcut e canva pro com outros usuários da web.
 
 ## ► **Ferramentas para Jogos**
 
