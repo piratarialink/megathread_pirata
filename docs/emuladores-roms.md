@@ -313,7 +313,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**RHDN**](https://romhacking.net)
 
-- Explore ROM hacks, _Quality of Life_ roms e homebrews para jogos da era 8, 16, 32 e 64 bits.
+- Explore ROM hacks, _Quality of Life_ roms e outros projetos para jogos da era 8, 16, 32 e 64 bits.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhacking.net/)
 
 ### 🔗 [RomHack Plaza](https://romhackplaza.org)
@@ -356,7 +356,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Excelente para obter roms do Switch, apenas tome cuidado para não sair clicando em qualquer coisa e tenha o bom senso de usar adblock.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ziperto.com/)
 
-## 🏆 ➜ Projetos originais/QoLs
+## 🎮 ➜ Homebrew/QoL
 
 ### 🌟 [Project Restoration](https://github.com/leoetlino/project-restoration)
 
