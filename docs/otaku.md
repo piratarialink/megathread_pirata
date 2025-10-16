@@ -231,7 +231,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌸 [Sakura Mangás](https://sakuramangas.org/)
 
-- O sakura reúne scanlators brasileiros e portugueses com o propósito de preservar mangás e outras obras asiáticas.
+- O flor de cerejeira reúne scanlators brasileiros e portugueses com o propósito de preservar mangás e outras obras asiáticas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sakuramangas.org/)
 
 #### 🌸 [Ler Mangás](https://lermangas.me/)
