@@ -26,7 +26,7 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 - [Guia de Jellyfin e família Arr em Docker Compose](https://www.reddit.com/r/pirataria/s/xzkgWdj1E1) - Feito por [u/PedroBt\_](https://www.reddit.com/u/PedroBt_/s/rSGbIvs3xw)
 
-- [Utilizando a ferramenta de automação Autobrr para baixar automaticamente torrents que são lançados nos trackers.](https://copyrightbr.com/CFPpqO-yjNL)
+- [Utilizando a ferramenta de automação Autobrr para baixar automaticamente torrents lançados nos trackers.](https://copyrightbr.com/CFPpqO-yjNL)
 
 ## ► Livros
 
@@ -40,7 +40,7 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 ## ► Mobile
 
-- [Como aplicar o patch Revanced no Youtube.](https://phtn.app/post/lemmy.dbzer0.com/2897980) - Feito por [u/Heus-Sueh](https://phtn.app/u/Heus_Sueh@lemmy.dbzer0.com)
+- [Como aplicar o patch ReVanced no YouTube.](https://phtn.app/post/lemmy.dbzer0.com/2897980) - Feito por [u/Heus-Sueh](https://phtn.app/u/Heus_Sueh@lemmy.dbzer0.com)
 
 ## ► Jogos
 

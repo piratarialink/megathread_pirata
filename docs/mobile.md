@@ -45,7 +45,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 ### 🌟 [ReVanced](https://revanced.app)
 
 - Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário o APK do Youtube)
-- [Guia para aplicar ReVanced no YT (Instale a versão sugerida do youtube via ADB)](https://www.reddit.com/r/revancedapp/comments/159zbb6/guide_youtube_revanced/)
+- [Guia para aplicar ReVanced no YT (Instale a versão sugerida do YouTube via ADB)](https://www.reddit.com/r/revancedapp/comments/159zbb6/guide_youtube_revanced/)
 
 ### 🔗 [Seal](https://github.com/JunkFood02/Seal)
 
@@ -347,7 +347,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Re𝕍ɑnced Brasil](https://t.me/revancedbrasil)
 
-- Mods ReVanced Advanced (Youtube, Reddit, Twitter...)
+- Mods ReVanced Advanced (YouTube, Reddit, Twitter...)
 
 ### 🔗 [MCPE APK Releases](https://t.me/mcperelease)
 

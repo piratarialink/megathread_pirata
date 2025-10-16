@@ -15,7 +15,7 @@ Em hipótese alguma permita a entrada deles na sua residência sem mandado judic
 
 > Art. 5º, XI - a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial;
 
-A inviolabilidade do lar só pode ser excepcionada em casos de flagrante delito, desastre ou para prestar socorro. Além disso, durante o dia, a entrada na residência sem consentimento só é permitida mediante determinação judicial, em conformidade com o Artigo 5º, Inciso XI, sendo necessária a emissão de um mandado judicial para adentrar na casa de alguém. Essa proteção legal é essencial para garantir os direitos fundamentais dos cidadãos e preservar a integridade do processo legal, conforme estabelecido pelo Artigo 5º, Inciso LVI, que veda a utilização de provas obtidas por meios ilícitos.
+A inviolabilidade do lar só pode ser excepcionada em casos de flagrante delito, desastre ou para prestar socorro. Além disso, durante o dia, a entrada na residência sem consentimento só é permitida mediante determinação judicial, conforme o Artigo 5º, Inciso XI, sendo necessária a emissão de um mandado judicial para adentrar na casa de alguém. Essa proteção legal é essencial para garantir os direitos fundamentais dos cidadãos e preservar a integridade do processo legal, conforme estabelecido pelo Artigo 5º, Inciso LVI, que veda a utilização de provas obtidas por meios ilícitos.
 
 > Art. 5º, LVI - são inadmissíveis, no processo, as provas obtidas por meios ilícitos;
 
@@ -23,7 +23,7 @@ A inviolabilidade do lar só pode ser excepcionada em casos de flagrante delito,
 
 > Art. 22. § 1º I - coage alguém, mediante violência ou grave ameaça, a franquear-lhe o acesso a imóvel ou suas dependências;
 
-> Art. 22. § 1º III - cumpre mandado de busca e apreensão domiciliar após as 21h (vinte e uma horas) ou antes das 5h (cinco horas).
+> Art. 22. § 1º III - cumpre mandado de busca e apreensão domiciliar após às 21h (vinte e uma horas) ou antes das 5h (cinco horas).
 
 ## Navegadores
 
@@ -73,7 +73,7 @@ O Cromite é para o Chrome/Brave o que o Librewolf é para o Firefox; fork do Ch
 
 ### [Mullvad Browser](https://mullvad.net/en/browser)
 
-O Navegador Mullvad é uma versão do Navegador Tor com as integrações do roteamento onion removidas, com o objetivo de fornecer as tecnologias de anti-reconhecimento do Browser. Ele é gratuito e desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
+O Navegador Mullvad é uma versão do Navegador Tor com as integrações do roteamento onion removidas, visando fornecer as tecnologias de anti-reconhecimento do Browser. Ele é gratuito e desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
 
 - Anti-Fingerprinting
 - Modo de navegação privativa
@@ -85,14 +85,14 @@ O Navegador Mullvad é uma versão do Navegador Tor com as integrações do rote
 
 ### [Bitwarden](https://bitwarden.com/)
 
-O Bitwarden é um gerenciador de senhas de código aberto e plataforma de segurança de dados que permite armazenar de forma segura senhas, cartões de crédito e outros dados confidenciais. Ele oferece recursos como preenchimento automático de senhas, geração segura de senhas, compartilhamento seguro de senhas com outras pessoas e sincronização de dados entre dispositivos. O Bitwarden é acessível através de aplicativos para desktop, navegador e dispositivos móveis, garantindo acesso fácil e seguro às suas credenciais em qualquer lugar.
+O Bitwarden é um gerenciador de senhas de código aberto e plataforma de segurança de dados que permite armazenar de forma segura senhas, cartões de crédito e outros dados confidenciais. Ele oferece recursos como preenchimento automático de senhas, geração segura de senhas, compartilhamento seguro de senhas com outras pessoas e sincronização de dados entre dispositivos. O Bitwarden é acessível por aplicativos para desktop, navegador e dispositivos móveis, garantindo acesso fácil e seguro às suas credenciais em qualquer lugar.
 
 :::info Você pode criar sua própria instância do Bitwarden, instalando o [Vaultwarden](https://github.com/dani-garcia/vaultwarden) em seu servidor. Somente para usúarios avançados
 :::
 
 ### [KeePassXC](https://keepassxc.org/)
 
-O KeePassXC é um gerenciador de senhas de código aberto e local, projetado para armazenar e gerar senhas seguras de forma criptografada. Ele oferece recursos como a organização de senhas em um banco de dados protegido por senha mestre, autenticação de dois fatores e a capacidade de sincronização de banco de dados entre dispositivos. O KeePassXC é altamente personalizável e suporta uma variedade de recursos adicionais, como anexos de arquivos e campos personalizados.
+O KeePassXC é um gerenciador de senhas de código aberto e local, projetado para armazenar e gerar senhas seguras de forma criptografada. Ele oferece recursos como a organização de senhas em um banco de dados protegido por senha mestra, autenticação de dois fatores e a capacidade de sincronização de banco de dados entre dispositivos. O KeePassXC é altamente personalizável e suporta uma variedade de recursos adicionais, como anexos de arquivos e campos personalizados.
 
 ## VPN
 
@@ -182,11 +182,11 @@ Um sistema operacional mobile privado e seguro com compatibilidade de aplicativo
 
 Bisq é uma DEX de código aberto exclusiva para desktop que permite que você troque moedas fiduciárias (via PIX do Brasil ou SEPA para residentes de Portugal) por bitcoin, monero, litecoin e ethereum através do p2p; funciona somente com o serviço Tor que a propósito já vem integrado após a instalação do cliente.
 
-**Nota importante:** o bitcoin core não é confidencial por padrão mas existem algumas formas relativamente fáceis de contornar isso, por exemplo: passar seus bitcoins para rede liquid e retornar para on-chain utilizando a [boltz.exchange](https://boltz.exchange) (**não compre ou transfira btc por meio da rede lightning**).
+**Nota importante:** o bitcoin core não é confidencial por padrão, mas existem algumas formas relativamente fáceis de contornar isso, por exemplo: passar seus bitcoins para rede liquid e retornar para on-chain utilizando a [boltz.exchange](https://boltz.exchange) (**não compre ou transfira btc por meio da rede lightning**).
 
-Além do método referido, também é possível usar mixers que atuam através de técnicas coinjoin como o [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver), uma ferramenta que exige um full node seu, ou seja, a blockchain inteira; é um localhost muito seguro. Dos outros participantes, ele exigirá a mesma coisa. Você envia do seu endereço para um gerado pelo JoinMarket e os outros participantes também, assim ele mistura as transações, tudo isso, de forma descentralizada.
+Além do método referido, também é possível usar mixers que atuam por técnicas coinjoin como o [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver), uma ferramenta que exige um full node seu, ou seja, a blockchain inteira; é um localhost muito seguro. Dos outros participantes, ele exigirá o mesmo. Você envia do seu endereço para um gerado pelo JoinMarket e os outros participantes também, assim ele mistura as transações, tudo isso, de forma descentralizada.
 
-:::tip A [Electrum Wallet](https://electrum.org/) é uma alternativa viável à carteira oficial do bitcoin pois não exige que você baixe a blockchain inteira no seu computador
+:::tip A [Electrum Wallet](https://electrum.org/) é uma alternativa viável à carteira oficial do bitcoin, pois não exige que você baixe a blockchain inteira no seu computador
 :::
 
 :::warning Evite corretoras de cripto como a Binance, Kraken e Mercado Bitcoin - CEXs que envolvem a exposição de seus dados pessoais (KYC) e desenvolvimento baseado em código fechado

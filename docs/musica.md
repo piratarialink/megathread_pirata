@@ -66,7 +66,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [Folksoundomy: trilhas sonoras de jogos](https://archive.org/details/folksoundomy_gamesoundtracks)
 
-- Uma seleção de músicas de videogame e algumas trilhas sonoras de anime que foi criada por voluntários para ser o mais acessível possível.
+- Uma seleção de músicas de videogame e algumas trilhas sonoras de anime criada por voluntários para ser o mais acessível possível.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
 ### 🔗 [KHInsider: Música de videogame](https://downloads.khinsider.com/)
@@ -264,7 +264,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [Namida](https://github.com/namidaco/namida)
 
-- Um reprodutor de música e vídeo bonito e rico em recursos com suporte para Youtube, feito em Flutter.
+- Um reprodutor de música e vídeo bonito e rico em recursos com suporte para YouTube, feito em Flutter.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [Gyawun](https://jhelumcorp.github.io/)
@@ -284,7 +284,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [LibreTube](https://libre-tube.github.io/)
 
-- Assista, ouça e baixe vídeos do youtube. Também oferece a capacidade de baixar do soundcloud.
+- Assista, ouça e baixe vídeos do YouTube. Também oferece a capacidade de baixar do soundcloud.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/libre-tube.github.io/)
 
 ### 🌟 [Newpipe](https://newpipe.net/)

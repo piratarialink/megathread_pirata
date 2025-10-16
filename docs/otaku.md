@@ -311,7 +311,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌸 [KindleOtaku](https://kindleotaku.blogspot.com/)
 
-- Postagem de mangás no formato aceito pelo Kindle. Requer uma conta no Terabox para efetuar o download, algo que você pode criar através de um email descartável no Temp Mail ou semelhantes.
+- Postagem de mangás no formato aceito pelo Kindle. Requer uma conta no Terabox para efetuar o download, algo que você pode criar por um email descartável no Temp Mail ou semelhantes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kindleotaku.blogspot.com/)
 
 ‎
