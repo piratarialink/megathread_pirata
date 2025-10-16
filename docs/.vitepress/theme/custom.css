@@ -167,7 +167,7 @@
 #nprogress .peg {
   display: block;
   position: absolute;
-  right: 0px;
+  right: 0;
   width: 100px;
   height: 100%;
   box-shadow: 0 0 10px var(--vp-c-brand-1), 0 0 5px var(--vp-c-brand-1);
@@ -298,8 +298,7 @@
 @media (max-width: 768px) {
   .endof10 {
     margin: 24px 0;
-    padding: 0.75rem 1rem;
-    padding-right: 50px;
+    padding: 0.75rem 50px 0.75rem 1rem;
   }
 
   .banner-wrapper {

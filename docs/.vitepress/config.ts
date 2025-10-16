@@ -1,4 +1,4 @@
-import { OramaPlugin } from "@orama/plugin-vitepress";
+import {OramaPlugin} from "@orama/plugin-vitepress";
 
 export default {
   head: [

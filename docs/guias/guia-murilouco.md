@@ -26,7 +26,7 @@ Caçar Google Drives na internet. Uma vantagem disso é que você, na verdade, n
 
 ## Torrents
 
-Se você tem espaço e tempo sobrando para baixar algo, então essa é sua opção. De fato, além do RedeCanais que citei anteriormente, essa é a única forma que eu consumo mídia pirata hoje. Os torrents resolvem quase todos os problemas que citei antes de uma forma muito simples: não existe um único servidor que hosteia os vídeos: quando você baixa um arquivo no torrent, você baixa de todas as outras pessoas que baixaram ele antes, e após baixado você faz upload/hosteia (chama-se semear) para outros usuários futuros.
+Se você tem espaço e tempo sobrando para baixar algo, então essa é sua opção. De fato, além do RedeCanais que citei anteriormente, essa é a única forma que eu consumo mídia pirata hoje. Os torrents resolvem quase todos os problemas que citei antes de uma forma muito simples: não existe um único servidor que hospeda os vídeos: quando você baixa um arquivo no torrent, você baixa de todas as outras pessoas que baixaram ele antes, e após baixado você faz upload/hosteia (chama-se semear) para outros usuários futuros.
 
 Sendo meio ideológico, essa é a verdadeira natureza da internet, e poderia resolver todos os nossos problemas. Só que em termos práticos, tem os dois grandes problemas: você precisa de espaço para armazenar sua série (que facilmente chega nas dezenas de gigabytes), e tempo para baixar toda essa brincadeira.
 
@@ -60,7 +60,7 @@ Softwares que costumam aparecer no contexto de pirataria de filmes. Vou tentar c
 
 > Sonarr, Radarr basicamente ficam pesquisando por filmes/séries automaticamente para você, para você não ter que ficar pesquisando toda vez que sai um novo episódio da sua série ou algo assim. Eles podem (e normalmente são) alimentados pelos resultados do Jackett, e baixam automaticamente para você, criando seu catálogo de filmes. Também tem o Bazarr, Prowlarr e o Lidarr.
 
-> Jellyfin é um servidor de streaming. É como se você estivesse hosteando seu próprio Netflix/RedeCanais. No contexto aqui, ele vai pegar os filmes que você baixou do Sonarr/Radarr. Daí você pode ver o catálogo de filmes que você baixou em qualquer lugar com internet.
+> Jellyfin é um servidor de streaming. É como se você estivesse hospedando sua própria Netflix/RedeCanais. No contexto aqui, ele vai pegar os filmes que você baixou do Sonarr/Radarr. Daí você pode ver o catálogo de filmes que você baixou em qualquer lugar com internet.
 
 > Kodi é uma interface bonita para ver seu catálogo de filmes. Caso você não queira deixar um servidor Jellyfin rodando, e só quer ver seus filmes em casa no seu hometheater.
 

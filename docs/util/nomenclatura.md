@@ -14,18 +14,18 @@
 
 **P2P**: Peer to Peer (pessoa para pessoa ou ponto a ponto), uma rede distribuída de computadores em que cada computador é um cliente e servidor ao mesmo tempo.
 
-**Tracker**: Organizador de toda a distribuição que contém todas as informações necessárias para que os pares se conectem usando o protocolo BitTorrent, comumente associamos tracker à sites torrents que compartilham via torrent. 
+**Tracker**: Organizador de toda a distribuição que contém todas as informações necessárias para que os pares se conectem usando o protocolo BitTorrent, comumente associamos tracker a sites torrents que compartilham via torrent. 
 No geral, os benefícios de se ter um tracker (sobretudo privado) é ter uma variedade de torrents disponiveis com tempo de download melhor por justamente ter vários peers semeando.
 
 **Convites**: Geralmente os melhores sites para achar os arquivos precisam de convites para entrar, pois são privados, dito isto toda compra, venda, troca de convites é proibida na comunidade BR e na estrangeira, caso te peguem cometendo uma dessas ações terá sua conta banida. Busque por doações, e para facilitar busque fazer amizades e conhecer as pessoas que possam te convidar.
 
-**Torrent**: Termo referente à uma extensão de arquivos compartilhados por um protocolo de transferência do tipo P2P. Torrents são uma ótima forma de obter materiais de diversos formatos e tamanhos sem depender de hosts de link DDL como Mega.NZ ou MediaFire, isso através de um simples item _.torrent_ com _KBs_ de armazenamento.
+**Torrent**: Termo referente a uma extensão de arquivos compartilhados por um protocolo de transferência do tipo P2P. Torrents são uma ótima forma de obter materiais de diversos formatos e tamanhos sem depender de hosts de link DDL como Mega.NZ ou MediaFire, isso por um simples item _.torrent_ com _KBs_ de armazenamento.
 
 **Nuvem**: Local para armazenar virtualmente os seus arquivos sem ser no seu PC, como Google Drive, dropbox, onedrive, entre outros.
 
 **BitTorrent**: Protocolo, ou seja, um conjunto de regras, que estabelece as bases para uma troca de arquivos baseada na filosofia peer to peer (P2P).
 
-**Servidor**: Computador no qual foi configurado em uma rede para oferecer algum tipo de serviço, como distribuir arquivos por exemplo.
+**Servidor**: Computador no qual foi configurado em uma rede para oferecer algum tipo de serviço, como distribuir arquivos, por exemplo.
 
 **Cliente**: Computador que está do outro lado, configurado para utilizar o serviço oferecido pelo servidor, como receber os arquivos solicitados.
 
@@ -91,19 +91,19 @@ No geral, os benefícios de se ter um tracker (sobretudo privado) é ter uma var
 
 **Internal**: Release feito internamente e disponível apenas para um número limitado de pessoas.
 
-**Buffer**: O quanto que você pode baixar até que seu Ratio seja o mínimo aceitável em um tracker
+**Buffer**: O quanto você pode baixar até que seu ratio seja o mínimo aceitável em um tracker
 
-> Interessante: Quando buffer está negativo, ele significa o quanto vc precisa upar (fazer upload) para que seu ratio seja igual ao mínimo aceitável.
+> Interessante: Quando o buffer está negativo, ele significa quanto upload você precisa fazer para que seu ratio seja igual ao mínimo aceitável.
 
 **Gazelle** / **UNIT3D**: Frameworks para tracker privado.
 
 ## Usenet
 
-**Usenet:** Sistema de discussão pré-web (1979). Rede distribuída baseada em texto com compartilhamento de mensagens. Organizado em grupos de notícias. Popular entre as universidades. Usa protocolos como NNTP. Acesso através de software/serviços especializados.
+**Usenet:** Sistema de discussão pré-web (1979). Rede distribuída baseada em texto com compartilhamento de mensagens. Organizado em grupos de notícias. Popular entre as universidades. Usa protocolos como NNTP. Acesso por software/serviços especializados.
 
 **Binário (Usenet):** conteúdo não textual (por exemplo: imagens, vídeos, software) compartilhado na Usenet. Codificado para transmissão. Decodificado usando software especializado. Muitas vezes compactado (por exemplo, RAR, ZIP) para compartilhamento eficiente. Rica fonte de multimídia e recursos de software.
 
-**MIME (Multipurpose Internet Mail Extensions):** padrão da Internet para codificação e troca de diferentes tipos de dados, incluindo arquivos binários, via e-mail e outros protocolos como Usenet. Permite anexar arquivos a mensagens. fornece suporte para vários formatos de arquivo e tipos de conteúdo. Amplamente utilizado para transmissão de conteúdo multimídia. Melhora a compatibilidade e versatilidade de troca de dados.
+**MIME (Multipurpose Internet Mail Extensions):** padrão da Internet para codificação e troca de diferentes tipos de dados, incluindo arquivos binários, via e-mail e outros protocolos como Usenet. Permite anexar arquivos a mensagens. Fornece suporte para vários formatos de arquivo e tipos de conteúdo. Amplamente utilizado para transmissão de conteúdo multimídia. Melhora a compatibilidade e versatilidade de troca de dados.
 
 **NNTP**: Protocolo de transferência de notícias de rede. Usado na Usenet para distribuição de mensagens. Conecta usuários a servidores Usenet. Permite a recuperação/postagem de mensagens. Facilita discussões em grupos de notícias. Antecede a web. Essencial para acesso à Usenet.
 
@@ -113,7 +113,7 @@ No geral, os benefícios de se ter um tracker (sobretudo privado) é ter uma var
 
 **PAR (Parchive):** Formato de arquivo usado para recuperação de erros na Usenet e compartilhamento de arquivos. Gera dados de paridade para reparar partes danificadas ou ausentes de arquivos baixados. Oferece recursos robustos de correção de erros. Compatível com vários aplicativos e clientes Usenet. Garante a recuperação de arquivos.
 
-**PAR2**: Formato de arquivo usado para recuperação de erros na Usenet e compartilhamento de arquivos. estandes para "Parquivo 2.0." Cria blocos de dados redundantes para reparar dados corrompidos ou partes ausentes de arquivos baixados da Usenet. Funciona junto com arquivos NZB. Garante a integridade dos dados e aumenta as chances de reconstrução bem-sucedida de arquivos. Crucial para download confiável de arquivos.
+**PAR2**: Formato de arquivo usado para recuperação de erros na Usenet e compartilhamento de arquivos. estandes para "Parquivo 2.0." Cria blocos de dados redundantes para reparar dados corrompidos ou partes ausentes de arquivos baixados da Usenet. Funciona com arquivos NZB. Garante a integridade dos dados e aumenta as chances de reconstrução bem-sucedida de arquivos. Crucial para download confiável de arquivos.
 
 **RAR**: Formato de compactação de arquivo comumente usado para arquivar e compactar arquivos. Oferece algoritmos de compactação eficientes e suporte a vários volumes. fornece proteção por senha, divisão de arquivos e recuperação de erros. Suportado em múltiplas plataformas. Escolha popular para compartilhamento de arquivos e compactação de dados.
 
@@ -121,9 +121,9 @@ No geral, os benefícios de se ter um tracker (sobretudo privado) é ter uma var
 
 **Usenet Provider:** Serviço que oferece acesso a servidores Usenet. Fornece acesso a grupos de notícias, postagem de mensagens e download de arquivos. Modelo baseado em assinatura. Oferece planos diferentes com velocidades, retenção e recursos variados. Essencial para a participação na Usenet. Melhora a experiência da Usenet.
 
-**Usenet Block**: pacote de dados pré-pago para acesso à Usenet. Nenhuma assinatura necessária. Oferece uma quantidade fixa de dados (por exemplo, gigabytes). Depois de consumido, pode ser reabastecido; adequado para uso ocasional da Usenet; custo-benefício para usuários pouco frequentes; fexibilidade sem cobranças recorrentes.
+**Usenet Block**: pacote de dados pré-pago para acesso à Usenet. Nenhuma assinatura necessária. Oferece uma quantidade fixa de dados (por exemplo, gigabytes). Após consumido, pode ser reabastecido; adequado para uso ocasional da Usenet; custo-benefício para usuários pouco frequentes; flexibilidade sem cobranças recorrentes.
 
-**uuencode**: Método usado na Usenet para codificar arquivos binários no formato ASCII. Converte dados binários em caracteres imprimíveis para transmissão especializada; o software decodifica arquivos uuecodificados de volta à sua forma binária original; jeito relegado de codificação, substituído por alternativas mais eficientes.
+**uuencode**: Método usado na Usenet para codificar arquivos binários no formato ASCII. Converte dados binários em caracteres imprimíveis para transmissão especializada; o software decodifica arquivos codificados de volta à sua forma binária original; jeito relegado de codificação, substituído por alternativas mais eficientes.
 
 **yEnc**: Formato de codificação binária projetado para Usenet. Mais eficiente que o uuencode, reduz o tamanho do arquivo e o tempo de transmissão; usa um conjunto de caracteres maior para representar dados binários. Amplamente adotado em comunidades Usenet. Requer Software compatível com yEnc para codificação e decodificação.
 
@@ -135,23 +135,23 @@ No geral, os benefícios de se ter um tracker (sobretudo privado) é ter uma var
 
 **DRM**: _Digital Rights Management_ é uma espécie de proteção extra contra cópia ou download. O DRM pode ter múltiplas chaves de descriptografia dependendo do sistema (L1, L2 e L3 no caso do Widevine).
 
-**Hosts de link premium**: São intermediários que bloqueiam o link DDL de um arquivo através de um upgrade para conta premium ou limite diário/por tempo.
+**Hosts de link premium**: São intermediários que bloqueiam o link DDL de um arquivo por um upgrade para conta premium ou limite diário/por tempo.
 
 **IPTV**: Nada mais é que televisão sobre protocolo de internet, ao invés de cabo coaxial ou antena.
-UniTv / BTV / Brasil TV - são iptvs tradicionais, estas empresas têm os arquivos hosteados nos servidores delas e fazem a curatela do conteúdo, costumam incluir canais de tv, contudo seu sistema pode ser mais 'rígido' com relação a aplicativos de terceiros, e além disso, utilizam compressão máxima fazendo a qualidade ficar duvidosa.
+UniTv / BTV / Brasil TV - são IPTVs tradicionais, estas empresas têm os arquivos hospedados nos servidores delas e fazem a curatela do conteúdo, costumam incluir canais de tv, contudo seu sistema pode ser mais 'rígido' com relação a aplicativos de terceiros, e, além disso, utilizam compressão máxima fazendo a qualidade ficar duvidosa.
 
-**Lista .M3U**: Trata-se de uma lista que você assina (índice de um repositório de arquivos) após instalar um player como tivimate ou um add-on de IPTV no Kodi, caso você tenha uma Android TV, Mi Box/Stick ou Amazon Fire Stick na sua casa. Se não for a sua situação, logo será necessário comprar uma TV Box (hardware com sistema operacional que já vem com listas _.m3u_ prontas) dos provedores de IPTV já citados anteriormente.
+**Lista .M3U**: Trata-se de uma lista que você assina (índice de um repositório de arquivos) após instalar um player como tivimate ou um add-on de IPTV no Kodi, caso você tenha uma Android TV, Mi Box/Stick ou Amazon Fire Stick na sua casa. Se não for a sua situação, logo será necessário comprar uma TV Box (hardware com sistema operacional que já vem com listas .m3u_ prontas) dos provedores de IPTV já citados anteriormente.
 Se você já possui uma android tv ou um dos sticks, a box torna-se completamente opcional, no entanto, isso pode levar a tempos de espera e carregamento maiores.
 
 > Observação: Nunca aceite IPTVs de revendedores, consulte nosso [grupo do telegram para listas gratuitas de IPTV.](https://t.me/trackerslist)
 
 **PlayReady**: Tecnologia semelhante ao Widevine criada pela Microsoft para prevenção de cópia de mídia.
 
-**Port-forwarding**: É uma maneira de seu cliente torrent se conectar à uma porta específica do seu roteador sem passar pelo CGNAT e sem esgotar a banda. Pode ser exigida por alguns trackers privados que só aceitam conexão IPv4.
+**Port-forwarding**: É uma maneira de seu cliente torrent se conectar a uma porta específica do seu roteador sem passar pelo CGNAT e sem esgotar a banda. Pode ser exigida por alguns trackers privados que só aceitam conexão IPv4.
 ‎
 ‎
 
-**Torrent Swarm**: É a lista de endereços IP dos peers que é mostrada pelo cliente torrent. **É essencial que você esteja conectado à uma VPN enquanto semeia/baixa para que o seu endereço não se torne visível para outras pessoas dentro da mesma rede P2P.**
+**Torrent Swarm**: É a lista de endereços IP dos peers mostrada pelo cliente torrent. **É essencial que você esteja conectado a uma VPN enquanto semeia/baixa para que o seu endereço não se torne visível para outras pessoas dentro da mesma rede P2P.**
 
 ### Créditos:
 

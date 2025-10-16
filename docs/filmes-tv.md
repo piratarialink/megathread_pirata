@@ -19,14 +19,14 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [Rede Canais](https://redecanais.ps/) / [2](https://redecanais.fi/) / [3](https://redecanais.ps/)
 
-- Incrível variedade de filmes de excelente qualidade que são oferecidos para download direto super rápido através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
-- Muda constantemente de domínio, para se manter atualizado confira o [discord oficial](https://discord.com/invite/kydZZBGwTy).
+- Incrível variedade de filmes de excelente qualidade oferecidos para download direto super rápido através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
+- Muda constantemente de domínio, para se manter atualizado confira o [servidor oficial do Discord](https://discord.com/invite/kydZZBGwTy).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.ps/)
 
 ### 🌟 [Hypeflix](https://hypeflix.sbs/)
 
 - Prove do melhor do streaming nacional e internacional no seu celular ou televisão.
-- Anúncios existem mas estes não atrapalham tanto a experiência (desative o javascript em sites novos com o ublock).
+- Anúncios existem, mas estes não atrapalham tanto a experiência (desative o JavaScript em sites novos com o uBlock).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hypeflix.sbs/)
 
 ### 🌟 [Seu Seriado](https://seuseriados.com/)
@@ -213,7 +213,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [Nunflix](https://nunflix.live/) / [2](https://nunflix.org/) / [3](https://nunflix-ey9.pages.dev/) / [4](https://nunflix-firebase.firebaseapp.com/) / [5](https://nunflix-firebase.web.app/)
 
-- Uma jornada cinematográfica através de entretenimento sem fim com uma interface intuitiva.
+- Uma jornada cinematográfica por entretenimento sem fim com uma interface intuitiva.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nunflix.live/)
 
 ### ▶️ [PressPlay](https://www.pressplay.top/)
@@ -295,7 +295,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 📺️ [Cliente simples de IPTV para o Kodi](https://kodi.tv/addons/omega/pvr.iptvsimple/)
 
-- Não é difícil de configurar, porém pode travar bastante em comparação com provedores tradicionais de IPTV.
+- Não é difícil de configurar, porém, pode travar bastante em comparação com provedores tradicionais de IPTV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kodi.tv/)
   
 ### 📺️ [Iptv-Brasil-2025](https://github.com/Ramys/Iptv-Brasil-2023)

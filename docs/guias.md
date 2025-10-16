@@ -4,7 +4,7 @@ Guias úteis para ajudá-lo em suas viagens marítimas.
 
 ## 📑 ➜ [Aumente seu ratio com Autobrr](guias/autobrr.md)
 
-Nesta guia, iremos mostrar o benefício de utilizar a ferramenta de automação Autobrr para baixar automaticamente torrents que são lançados nos trackers.
+Nesta guia, iremos mostrar o benefício de utilizar a ferramenta de automação Autobrr para baixar automaticamente torrents lançados nos trackers.
 
 ## 📑 ➜ [Burlando o limite de download do mega](guias/burlando-limite-mega.md)
 
@@ -36,7 +36,7 @@ Desenvolvido para oferecer uma visão clara e prática sobre como configurar o D
 
 ## 📑 ➜ [Guia de como burlar restrição de download do Archive.org](guias/como-burlar-restrição-de-download-archive-org.md)
 
-Guia completa sobre como burlar restrição de download Archive.org, alguns livros do Archive.org não podem ser baixados diretamente no site, fica disponivel apenas para ler (por 1h ou 14 dias a depender do livro). esse guia mostra como burlar e conseguir baixar esse livro em formato PDF ou EPUB.
+Guia completa sobre como burlar restrição de download Archive.org, alguns livros do Archive.org não podem ser baixados diretamente no site, fica disponivel apenas para ler (por 1h ou 14 dias a depender do livro.) Esse guia mostra como burlar e conseguir baixar esse livro em formato PDF ou EPUB.
 
 ## 📑 ➜ [Guia do Streaming Doméstico Automatizado - Sonarr, Radarr e Plex](guias/sonarr-radarr-plex)
 

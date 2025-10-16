@@ -39,7 +39,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [eBooks e Textos](https://archive.org/details/texts?sort=-publicdate&and[]=language%3A"Portuguese")
 
-- Encontre quase 76 mil de livros e materiais de acesso livre em Português.
+- Encontre quase 76 mil de livros e materiais de acesso livre em português.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
 ### 🔗 [Datassette](https://datassette.org/)
@@ -201,7 +201,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### ▶️ [Audio Books & Poetry](https://archive.org/details/audio_bookspoetry)
 
-- Poesia gratuita e gravações de áudio de livros do Naropa Poetics Audio Archive, LibriVox, Project Gutenberg etc.
+- Poesia gratuita e gravações de áudio de livros do Naropa Poetics Audio Archive, LibriVox, Project Gutenberg, etc.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
 ### ▶️ [AudioAZ](https://audioaz.com/)
@@ -278,8 +278,8 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [Dafont Free](https://www.dafontfree.io/)
 
-- Obtenha mais de 12.000 das melhores fontes gratuitas em categorias de alta qualidade, incluindo _sans serif_, _serif_, script, caligraphy, exibition e muito mais.
-- [Resulatados de Segurança da URL](https://www.urlvoid.com/scan/dafontfree.io/)
+- Obtenha mais de 12.000 das melhores fontes gratuitas em categorias de alta qualidade, incluindo _sans serif_, _serif_, script, caligraphy, exhibition e muito mais.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/dafontfree.io/)
 
 ### 🔗 [Dfonts](https://www.dfonts.org/)
 

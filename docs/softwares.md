@@ -1,6 +1,6 @@
 # ⚙️ ➜ Softwares
 
-Software é uma coleção de programas de computador junto com arquivos de suporte e informações voltadas mais para computadores de mesa.
+Software é uma coleção de softwares com arquivos de suporte e informações voltadas mais para computadores de mesa.
 
 :::warning ⚠️ Aviso Rápido
 
@@ -19,12 +19,12 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ### 🌟 [LRepacks](https://lrepacks.net/) • Interface em russo
 
-- Numerosos aplicativos portáteis e utilitários que são apreciados pelos usuários por mais de dez anos.
+- Numerosos aplicativos portáteis e utilitários apreciados pelos usuários por mais de dez anos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lrepacks.net/)
 
 ### 🌟 [CRACKSurl](https://cracksurl.com/)
 
-- Software atualizado diariamente com o objetivo de proporcionar uma experiência rápida todos os dias.
+- Software atualizado diariamente visando proporcionar uma experiência rápida todos os dias.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/)
 
 ### 🌟 [Mobilism](https://forum.mobilism.org/index.php) • Necessário Cadastro
@@ -72,7 +72,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 
 ### 🔗 [Downloadly.IR](https://downloadlynet.ir/)
 
-- Grande quantidade de programas de engenharia, além de outras dezenas de informações e add-ons úteis para o dia-a-dia.
+- Abundância de programas de engenharia, além de outras dezenas de informações e add-ons úteis para o dia-a-dia.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadlynet.ir/)
   
 ### 🔗 [Download Geral](https://www.downloadgeral.com/aplicativos/windows)
@@ -239,7 +239,7 @@ Software é uma coleção de programas de computador junto com arquivos de supor
 ### 🔗 [Vfxmed](https://www.vfxmed.com/)
 
 - Add-ons para jogos, presets, modelos 3d para o blender, plugins _visual effects_.
-- Você precisará entrar no Discord do dono para conseguir os passwords de alguns programas.
+- Você precisará entrar no Discord do dono para conseguir as senhas de alguns programas.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/vfxmed.com/)
 
 ### 🔗 [SCRiPTMAFiA](https://scriptmafia.org/)

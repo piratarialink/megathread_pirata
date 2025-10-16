@@ -2,7 +2,7 @@
 
 Trackers são servidores que requerem interação com um cliente de torrent, como um software específico, para facilitar o download de arquivos compartilhados de forma colaborativa pela comunidade de compartilhamento de arquivos.
 
-Trackers podem ser públicos ou privados. Trackers públicos não demandam cadastro de usuários, podendo ser acessados por qualquer pessoa, enquanto trackers privados necessitam de cadastro para acesso. Trackers privados geralmente oferecem maior privacidade aos usuários e costumam ter uma retenção maior para os arquivos compartilhados, porém nem sempre é fácil conseguir acesso a eles. As principais formas de ingresso são: convite de usuários; entrevista; aplicação; recrutamento oficial em outros trackers privados, e quando abrem o site para novos usuários por tempo limitado.
+Trackers podem ser públicos ou privados. Trackers públicos não demandam cadastro de usuários, podendo ser acessados por qualquer pessoa, enquanto trackers privados necessitam de cadastro para acesso. Trackers privados geralmente oferecem maior privacidade aos usuários e costumam ter uma retenção maior para os arquivos compartilhados, porém, nem sempre é fácil conseguir acesso a eles. As principais formas de ingresso são: convite de usuários; entrevista; aplicação; recrutamento oficial em outros trackers privados, e quando abrem o site para novos usuários por tempo limitado.
 
 :::info ⚠️ Lembrete rápido
 Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisado quando novos Trackers abrirem cadastros. Verifique também mais sobre convites de trackers no [r/OpenSignups](https://www.reddit.com/r/OpenSignups/).
@@ -28,7 +28,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ### 🧲 [Brasil Tracker](https://brasiltracker.org/index.php) | BT
 
 - Conteúdo geral/Gazelle.
-- Ativo desde 2018, parte da “santíssima trindade” dos trackers brasileiros junto com o ASC e o BJ.
+- Ativo desde 2018, parte da “santíssima trindade” dos trackers brasileiros com o ASC e o BJ.
 - Fluxo de uploads mais lento, mas constante, com número razoável de seeders.
 - Aberto ocasionalmente para novos cadastros.
 
@@ -88,7 +88,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ## 🌐 ➜ Trackers Estrangeiros
 
-:::info **PU = Power User (usuário avançado):** primeira classificação quando você sobe de nível. Você precisa ter essa classificação para poder acessar o fórum de convites de um tracker.
+:::info **PU = Power User (usuário avançado):** primeira classificação, quando você sobe de nível. Você precisa ter essa classificação para poder acessar o fórum de convites de um tracker.
 :::
 
 ### 🧲 [AvistaZ](https://avistaz.to/) | AZ
@@ -126,7 +126,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ### 🧲 [CGpeers](https://www.cgpeers.to/login.php) | CGP
 
 - Tracker privado do blog CGPersia.com.
-- Um lugar comum para discutir sobre pirataria de produtos da Adobe.
+- Um lugar-comum para discutir sobre pirataria de produtos da Adobe.
 
 ### 🧲 Cinematik | TIK
 
@@ -140,7 +140,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 ### 🧲 [FileList](https://filelist.io/login.php?returnto=%2F) | FL
 
 - Conteúdo Geral
-- Seeds bons, internals bons, não é o melhor tracker mas é um bom intermediário.
+- Seeds bons, internals bons, não é o melhor tracker, mas é um bom intermediário.
 
 ### 🧲 [GazelleGames](https://gazellegames.net) | GGn
 
@@ -213,7 +213,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - Tracker generalista com uma reputação estimada.
 - Abrem para novos cadastros anualmente.
 - Sistema de H&R de 10 dias.
-- Ótimo para encontrar software desbloqueado como o DaVinci Resolve por exemplo.
+- Ótimo para encontrar software desbloqueado como o DaVinci Resolve, por exemplo.
 
 ---
 

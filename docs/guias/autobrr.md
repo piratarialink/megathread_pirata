@@ -55,7 +55,7 @@ Realize a instalação e execute, irá abrir uma janela informando para aguardar
 
 ![autobrr2](./images/autobrr2.png)
 
-Siga a instrução de acordo com o print acima. Caso a janela do ubuntu 20.04 esteja aberta, feche e abra novamente. Irá estar no seu menu iniciar, basta pesquisar.
+Siga a instrução conforme o print acima. Caso a janela do ubuntu 20.04 esteja aberta, feche e abra novamente. Irá estar no seu menu iniciar, basta pesquisar.
 
 ### INSTALANDO AUTOBRR
 
@@ -125,7 +125,7 @@ Irá selecionar qual cliente deseja configurar, no exemplo usaremos o qbitorrent
 Não iremos ser específicos nesse ponto, cada tracker possui sua particularidade de configuração. Iremos mostrar as possibilidades, campos para preencher e em caso de dificuldades veja se no fórum do seu tracker tem algo. Ou solicite apoio no nosso grupo.
 Considerações:
 
-- Você pode adicionar um tracker usando RSS / iRC / modelo pré configurado para trackers famosos.
+- Você pode adicionar um tracker usando RSS / iRC / modelo pré-configurado para trackers famosos.
 - Nós recomendamos sempre o uso de IRC para trackers que tem suporte, pois o delay é menor
 
 **1. Exemplo usando RSS**
@@ -178,7 +178,7 @@ Reforçando... os filtros vão de acordo com cada tracker que você adiciona. Ca
 **ABA "ACTIONS"**
 :::info Na aba de ações, é onde são executados os comandos para mandar o arquivo para seu client torrent, testar para validar seu filtro, etc.
 :::
-Vamos começar testando, para isso defina de acordo com a imagem abaixo e salve:
+Vamos começar testando, para isso defina conforme a imagem abaixo e salve:
 
 ![autobrr16](./images/autobrr16.png)
 

@@ -17,9 +17,9 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 
 ## 🌎 ➜ Traduções de Jogos
 
-Esses são alguns site para encontrar tradução PT-BR para seus jogos:
+Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
-### 🔗 [GAMEVICIO](https://www.gamevicio.com/traducoes/) • Fora de atividade
+### 🔗 [GameVicio](https://www.gamevicio.com/traducoes/) • Fora de atividade
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamevicio.com/)
 
@@ -62,13 +62,13 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🌟 [Steam Ticket Generator](https://github.com/denuvosanctuary/steam-ticket-generator)
 
-- Método já recomendado pelo cs.rin.ru que consiste no compartilhamento do token denuvo de uma pessoa para outra.  
+- Método já recomendado pelo cs.rin.ru que consiste no compartilhamento do token Denuvo de uma pessoa para outra.  
 - [Discord](https://discord.gg/anti-denuvo-sanctuary): Sem paywalls, sem limites, sua única e melhor opção para jogar jogos com Denuvo. [Guia](https://www.reddit.com/r/pirataria/s/oOUFLDzxvO) de como usar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
   
 ### 🔗 [Steam Auto Crack](https://github.com/SteamAutoCracks/Steam-auto-crack)
 
-- Usa o emulador Goldberg para jogos offline que só rodam com a licença da Steam. Não crackeia jogos com denuvo.
+- Usa o emulador Goldberg para jogos offline que só rodam com a licença da Steam. Não crackeia jogos com Denuvo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ## 📥 ➜ Download direto
@@ -91,7 +91,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - Quebra o Denuvo de alguns jogos e em alguns casos apenas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/skidrowcodex.net/)
 
-### 🔗 [online-fix.me](https://online-fix.me/)
+### 🔗 [Online Fix](https://online-fix.me/)
 
 - Jogue jogos online piratas com seus amigos, de forma gratuita com suporte de convite via Steam.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
@@ -108,7 +108,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [PC Games Abandonware](https://www.pcgamesabandonware.com/en/home)
 
-- Descubra jogos clássicos gratuitamente junto com uma seção dedicada para emuladores.
+- Descubra jogos clássicos gratuitamente com uma seção dedicada para emuladores.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pcgamesabandonware.com/)
 
 ### 🔗 [AtopGames](https://atopgames.com/)
@@ -121,12 +121,12 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - Variedade de jogos novos e clássicos pré-instalados de fácil acesso para você se divertir.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamebounty.world/)
 
-### 🔗 [Games 4u](https://g4u.to/)
+### 🔗 [Games 4 You](https://g4u.to/)
 
 - Construído por jogadores dedicados que tomam muito cuidado para incluir detalhes sobre cada lançamento do jogo, incluindo seu gênero, ano de lançamento e descrição.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/g4u.to/)
 
-### 🔗 [Gamedie](https://gamdie.com/)
+### 🔗 [Gamdie](https://gamdie.com/)
 
 - Ótima fonte para a mais nova seleção de jogos gratuitos pré-instalados. Os termos "jogo" e "indie" são combinados para criar o nome.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamdie.com/)
@@ -150,7 +150,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [GLOAD](https://gload.to/) • Interface em alemão
 
-- Site conhecido na cena por seus lançamentos, fornece uma infinidade de hosters gratuitos e fáceis de usar que são facilmente acessíveis.
+- Site conhecido na cena por seus lançamentos, fornece uma infinidade de hospedadores de arquivos gratuitos e fáceis de usar que são facilmente acessíveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gload.to/)
 
 ### 🌟 [GOG Games](https://gog-games.to/)
@@ -158,9 +158,9 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - Cada jogo na biblioteca GOG é gratuito (sem DRM) para download de um vasto compêndio de lançamentos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gog-games.to/)
 
-### 🔗 [MagiPack Games](https://www.magipack.games/)
+### 🔗 [MagiPack Games](https://archive.org/details/@magitompg)
 
-- Repacks de jogos retrô, old-school e vintage compatíveis com as compilações atuais do Windows.
+- Repacks de jogos retrô, old school e vintage compatíveis com as compilações atuais do Windows.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/magipack.games/)
 
 ### 🔗 [My Abandonware](https://www.myabandonware.com/)
@@ -185,17 +185,17 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [PiviGames](https://pivigames.blog/) • Interface em espanhol
 
-- Os videogames podem ser baixados gratuitamente e ocasionalmente são baseados nos lançamentos do ElAmigos. As opções de host de arquivos incluem MediaFire e MEGA.
+- Os videogames podem ser baixados gratuitamente e são ocasionalmente baseados nos lançamentos do ElAmigos. As opções de host de arquivos incluem MediaFire e MEGA.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pivigames.blog/)
 
-### 🔗 [STEAMRIP](https://steamrip.com/)
+### 🔗 [SteamRIP](https://steamrip.com/)
 
 - Jogos pré-instalados totalmente gratuitos! Nenhum conteúdo foi removido ou compactado e a fonte é confiável.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamrip.com/)
 
 ### 🔗 [STEAMTURN](https://steamturn.com/)
 
-- Ótima seleção de videojogos da Steam para instalação sem restrições de DRM.
+- Ótima seleção de videogames da Steam para instalação sem restrições de DRM.
 - Como é um site novo, é necessário tomar o devido cuidado como baixar primeiro na VM ou na Área Restrita do Windows.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamrturn.com/)
 
@@ -221,7 +221,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [The Collection Chamber](https://collectionchamber.blogspot.com/)
 
-- Uma seleção significativa de jogos clássicos que foram otimizados para o Windows moderno.
+- Uma seleção significativa de jogos clássicos otimizados para o Windows moderno.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/collectionchamber.blogspot.com/)
 
 ### 🔗 [Torrminatorr](https://torrminatorr.com/) - Necessário Cadastro
@@ -294,7 +294,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [Arkadium Games](https://www.arkadium.com/)
 
-- Um lugar onde você pode jogar jogos online gratuitos como cartas, quebra-cabeças, palavras cruzadas e muito mais.
+- Um lugar onde você pode jogar jogos online gratuitos como cartas, quebra-cabeças, palavras-cruzadas e muito mais.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/arkadium.com/)
 
 ### 🔗 [Cool Math Games](https://www.coolmathgames.com/)
@@ -309,7 +309,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [io Games](https://iogames.space/)
 
-- Divirta-se jogando alguns dos melhores jogos de uma vasta coleção que é atualizada todos os dias.
+- Divirta-se jogando alguns dos melhores jogos de uma vasta coleção atualizada todos os dias.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/iogames.space/)
 
 ### 🔗 [Play Retro Games Online](https://www.playretrogames.com/)
@@ -367,7 +367,7 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 - O Steam Verde é uma plataforma online de jogos para PC e Android, oferecendo downloads via torrent com uma interface organizada. Conta com uma comunidade ativa que fornece tutoriais e suporte, além de manter os usuários informados sobre lançamentos. O site possui proteção antivírus e é baseado na plataforma segura Invision Community.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamverde.net)
 
-### 🧲 [online-fix](https://online-fix.me/) [📣](https://t.me/s/onlinefix)
+### 🧲 [Online Fix](https://online-fix.me/) [📣](https://t.me/s/onlinefix)
 
 - Jogue jogos online pirata com seus amigos, de forma gratuita com suporte de convite via Steam.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
@@ -379,18 +379,13 @@ Esses são alguns site para encontrar tradução PT-BR para seus jogos:
 
 ### 🧲 [Free Linux PC Games](https://freelinuxpcgames.com/)
 
-- Fornece jogos pré-instalados e com instaladores compátiveis diretamente com linux, sem precisar da camada de compatibilidade Wine.
+- Fornece jogos pré-instalados e com instaladores compativeis diretamente com Linux, sem precisar da camada de compatibilidade Wine.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/freelinuxpcgames.com/)
 
 ### 🧲 [KaOsKrew](https://kaoskrew.org/)
 
-- Rippers old-school que, pelo menos nas últimas duas décadas, produziram Rips e Repacks em um ritmo alarmante.
+- Rippers old school que, pelo menos nas últimas duas décadas, produziram rips e repacks em um ritmo alarmante.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kaoskrew.org/)
-
-### 🧲 [Seven-Gamers](https://www.seven-gamers.com/)
-
-- Um site de torrent que oferece alguns dos jogos mais recentes, no entanto, o acesso a outras URLs do Google Drive requer entrar no grupo do Discord.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/seven-gamers.com/)
 
 ### 🧲 [Xatab](https://byxatab.com/) • Interface em russo
 

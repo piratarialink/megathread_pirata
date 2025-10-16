@@ -29,7 +29,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🌟 [**TRaSH Guides**](https://trash-guides.info/)
 
-- Aprenda a montar um media server, criar e organizar pastas nos programas Arr, configurar o qBittorrent e muito mais.
+- Aprenda a montar servidor de mídia, criar e organizar pastas nos programas Arr, configurar o qBittorrent e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/trash-guides.info/)
 
 ### 🌟 [**Hattered**](https://mefrraz.github.io/hattered/index.html)
@@ -44,7 +44,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🔗 [VirusTotal](https://virustotal.com/)
 
-- Inspeciona items e executáveis em cerca de setenta programas antivírus diferentes, dentro de um ambiente completamente virtualizado e seguro.
+- Inspeciona items e executáveis em cerca de setenta programas antivírus diferentes, em um ambiente completamente virtualizado e seguro.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/virustotal.com/)
 
 ### 🔗 [Torrentfreak](https://torrentfreak.com/)
@@ -211,14 +211,14 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🔗 [Install Gentoo](https://igwiki.lyci.de/wiki/Private_trackers)  
 
-- Página de autoria do /g/, apresenta com uma riqueza de detalhes a história da cena tracker e também fornece alguma dicas.
+- Página de autoria do /g/, apresenta com uma riqueza de detalhes a história da cena tracker e também fornece algumas dicas.
 
 ### 🔗 [Scene-RLS RELEASES](https://scene-rls.net/releases/index.php)
 
 - Informações atuais e relevantes para cada tipo de mídia.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/scene-rls.net/)
 
-### 🔗 [xREL](https://www.xrel.to/) • Interface em Alemão
+### 🔗 [xREL](https://www.xrel.to/) • Interface em alemão
 
 - Message Board onde os usuários discutem os lançamentos mais recentes da cena, análises de jogos e filmes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xrel.to/)
