@@ -30,54 +30,54 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Better Anime está com restrições de DMCA, mas funciona normalmente pelo app ou pelo site após login. Se não logar, ele não funcionará.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/betteranime.net/)
 
-#### 🌟 [Rede Canais](https://redecanais.gl/browse-animes-videos-1-date.html)
+#### 🌟 [RedeCanais](https://redecanais.sh/browse-animes-videos-1-date.html)
 
 - Incrível coleção de animes em excelente qualidade e dublados em PT-BR.
-- Muda constantemente de domínio, para se manter atualizado confira o [discord oficial](https://discord.com/invite/kydZZBGwTy).
+- Muda constantemente de domínio, para se manter atualizado confira o [canal oficial do Discord](https://discord.com/invite/kydZZBGwTy).
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/redecanais.gl/)
 
-#### ▶️ [AnimeDays](https://animedays.org/)
+#### ▶️ [AnimeDays](https://animedays.org)
 
 - Site seguro para assistir animes **sem interrupções ou anúncios**.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animedays.org/)
 
-#### ▶️ [4anime](https://4anime.gg/)
+#### ▶️ [4anime](https://4anime.gg)
 
 - Alternativa rápida após o encerramento do 4anime original. Os animes populares têm legendas em PT-BR.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/4anime.gg/)
 
-#### ▶️ [Animes Totais](https://animestotais.xyz/)
+#### ▶️ [Animes Totais](https://animestotais.xyz)
 
 - Necessário se cadastrar para acessar o site.
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animestotais.xyz/)
 
-#### ▶️ [Hinata Soul](https://www.hinatasoul.com/)
+#### ▶️ [Hinata Soul](https://www.hinatasoul.com)
 
 - Oferece animes em **HD e Full HD** para assistir.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/hinatasoul.com/)
 
-#### ▶️ [Anime Yabu](https://www.animeyabu.org/)
+#### ▶️ [Anime Yabu](https://www.animeyabu.org)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.animeyabu.org/)
 
-#### ▶️ [Anroll](https://www.anroll.net/)
+#### ▶️ [Anroll](https://www.anroll.net)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anroll.net/)
 
-#### ▶️ [AnimeFire](https://animefire.plus/)
+#### ▶️ [AnimeFire](https://animefire.plus)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animefire.plus/)
 
-#### ▶️ [Animes Digital](https://animesdigital.org/)
+#### ▶️ [Animes Digital](https://animesdigital.org)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesdigital.org/)
 
-#### ▶️ [Animesonlinecc](https://animesonlinecc.org/)
+#### ▶️ [Animesonlinecc](https://animesonlinecc.to)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesonlinecc.org/)
 
-#### ▶️ [Q1N](https://q1n.net/)
+#### ▶️ [Q1N](https://q1n.net)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/q1n.net/)
 
@@ -88,10 +88,10 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🌟 [Anitsu](https://anitsu.moe/#)
 
 - Grande catálogo, especialmente se tratando de animes obscuros com legenda PT-BR. Ademais, o site disponibiliza diversos servidores para download, contendo também vários formatos e faixas de dublagem.
-  **Use um media player de sua preferência no lugar do VLC.**
+  **Use um reprodutor de mídia de sua preferência no lugar do VLC.**
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anitsu.moe/)
 
-#### 🔗 [Anime Tosho](https://animetosho.org/)
+#### 🔗 [Anime Tosho](   https://animetosho.org/)
 
 - Serviço automatizado que espelha torrents de anime para downloads diretos.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animetosho.org/)
@@ -162,7 +162,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🧲 [Shakaw](https://tracker.shakaw.com.br/)
 
-- Tracker privado. Participe do [Discord para mais informações](https://discord.gg/dZVbVChdun).
+- Tracker privado. Participe do [servidor do Discord para mais informações](https://discord.gg/dZVbVChdun).
 
 #### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
 
@@ -207,11 +207,11 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🔗 [GoAnime](https://github.com/alvarorichard/GoAnime)
 
-- Ferramenta CLI que baixa animes em PT-BR (Dublado ou legendado).
+- Ferramenta CLI que baixa animes em PT-BR (dublado ou legendado.)
 
 #### 🔗 [Ani-cli](https://github.com/pystardust/ani-cli)
 
-- Ferramenta CLI similar ao GoAnime porém em Inglês
+- Ferramenta CLI similar ao GoAnime, porém em inglês
 
 ‎
 ‎
@@ -231,13 +231,8 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌸 [Sakura Mangás](https://sakuramangas.org/)
 
-- O flor de cerejeira reúne scanlators brasileiros e portugueses com o propósito de preservar mangás e outras obras asiáticas.
+- O sakura reúne scanlators brasileiros e portugueses com o propósito de preservar mangás e outras obras asiáticas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sakuramangas.org/)
-
-#### 🌸 [ComicK](https://comick.io/)
-
-- Leitor muito rápido e gratuito com um enorme banco de dados de quadrinhos, incluindo mangá, manhua e manhwa! Inclui Português Brasileiro.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comick.io/)
 
 #### 🌸 [Ler Mangás](https://lermangas.me/)
 
@@ -324,7 +319,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 ### 🎌 ➜ Leitores de Mangá
 
-:::info Planilha no Docs com informações das extensões para serem usadas em apps como Aniyomi, Tachiyomi, Dantotsu e etc.: [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
+:::info Planilha no Docs com informações das extensões para serem usadas em apps como Aniyomi, Tachiyomi, Dantotsu, etc.: [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
 **Recomendamos também a leitura da seção de addons do [Wotaku](https://wotaku.wiki/):
 Na sidebar > `Guides` > `Extension Repos`**
 :::
@@ -348,7 +343,7 @@ Na sidebar > `Guides` > `Extension Repos`**
 
 #### 🔗 [Aniyomi](https://aniyomi.org/)
 
-- Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de mangá! Instalando as extensões ele vira o melhor app para assistir e baixar mangás (e animes também).
+- Aniyomi é um fork não oficial do Tachiyomi que adiciona recursos de mangá! Instalando as extensões ele vira o melhor app para assistir e baixar mangás (e animes também.)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/aniyomi.org/)
 
 #### 🔗 [Tachimanga](https://tachimanga.app/)
