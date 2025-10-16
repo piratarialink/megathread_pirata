@@ -163,10 +163,10 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [xrel.to/releases.html](https://www.xrel.to/releases.html) - Rastreador de cena
 - **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para versões P2P
 
-## ► **Scripts de usuário úteis**
+## ► **Userscripts úteis**
 
-- [Violentmonkey](https://violentmonkey.github.io/) - Gerenciador de scripts de usuário de código aberto.
-- [Tampermonkey](https://www.tampermonkey.net/) - Gerenciador de scripts de usuário de código aberto.
+- [Violentmonkey](https://violentmonkey.github.io/) - Gerenciador de userscripts de código aberto.
+- [Tampermonkey](https://www.tampermonkey.net/) - Gerenciador de userscripts de código aberto.
 - [greasyfork.org](https://greasyfork.org/) - Repo para incontáveis ​​userscripts úteis.
 - [userscripts-mirror.org](https://userscripts-mirror.org/) - Repositório alternativo de scripts. Espelho para Userscripts.org.
 - [openuserjs.org](https://openuserjs.org/) - repositório alternativo de scripts.
