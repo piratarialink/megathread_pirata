@@ -1,6 +1,6 @@
 # 🧰 ➜ Ferramentas
 
-Ferramentas para ativação, scripts de usuário, gerenciadores de download, assistentes, sites, extensões e uma infinidade de outros utilitários complementares.
+Ferramentas para ativação, userscripts, gerenciadores de download, assistentes, sites, extensões e uma infinidade de outros utilitários complementares.
 
 :::warning ⚠️ Aviso Rápido
 

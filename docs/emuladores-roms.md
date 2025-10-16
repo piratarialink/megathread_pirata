@@ -211,7 +211,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🌟 [**PCSX2**](https://pcsx2.net/) • PlayStation 2
 
 - Um projeto de mais de 20 anos capaz de rodar a maioria dos jogos a toda velocidade.
-- A BIOS pode ser encontrada no [Vimm's Lair](https://vimm.net/emulate#) ali onde está escrito 'PS2 BIOS' ou na [Wiki Geral de Emulação](https://emulation.gametechwiki.com/index.php/Emulator_Files).
+- A BIOS pode ser encontrada na megathread do [r/Roms](https://r-roms.github.io/Miscellaneous/bios-files) ou na [Wiki Geral de Emulação](https://emulation.gametechwiki.com/index.php/Emulator_Files).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pcsx2.net/)
 
 ### 🔗 [PPSSPP](https://www.ppsspp.org/) • PSP
