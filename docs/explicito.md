@@ -3,38 +3,38 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 ---
 
-**🌟 [**Ublock Origin**](https://github.com/gorhill/uBlock)** — Nunca se esqueça desta extensão.
+**🌟 [**uBlock Origin**](https://github.com/gorhill/uBlock)** - Nunca se esqueça desta extensão.
 
 [Urban VPN Proxy](https://www.urban-vpn.com/free-products/free-browser-extension/) / [Urban Shield](https://addons.mozilla.org/pt-BR/firefox/addon/urban-shield/)
 
-[Redisex](https://redisex.club) — Do mesmo dono do redecanais.
+[Redisex](https://redisex.club) - Do mesmo dono do RedeCanais.
 
-[Sukebei](https://sukebei.nyaa.si/) - Clone +18 do Nyaa.
+[Sukebei](https://sukebei.nyaa.si) - Clone +18 do Nyaa.
 
-[CPG repacks](https://cpgrepacks.site/)
+[CPG repacks](https://cpgrepacks.site)
 
-[PriivaC Downloader](https://t.me/tgDownPrivacyBot) - Download de mídias de assinaturas do Privacy.
+[PriivaC Downloader](https://t.me/tgDownPrivacyBot) - Baixador de mídias de assinaturas do Privacy.
 
-[Lada](https://github.com/ladaapp/lada) - Recupere vídeos censurados por pixels/mosaicos. Pode rodar no Windows com o Docker.
+[Lada](https://github.com/ladaapp/lada) - Recupera vídeos censurados por píxeis/mosaicos. Pode rodar no Windows com o Docker.
 
-[Only Fans Data Scrapper](https://github.com/DIGITALCRIMINAL/OnlyFans)
+[UltimaScrapper](https://github.com/UltimaHoarder/UltimaScraper)
 
-[Eroge Download](https://erogedownload.com/) - VNs eróticas + links "importantes" no fim da página.
+[Eroge Download](https://erogedownload.com) - VNs eróticas + links "importantes" no fim da página.
 
-[Hottok](https://t.me/hottoknowbot) — Bot do Telegram que desnuda fotos.
+[Hottok](https://t.me/hottoknowbot) - Bot do Telegram que desnuda fotos.
 
-[Better Repack](https://dl.betterrepack.com/)
+[Better Repack](https://dl.betterrepack.com)
 
-[Empornium](https://empornium.is/) — Tracker de conteúdo explícito.
+[Empornium](https://empornium.is) - Tracker de conteúdo explícito.
 
-[ExoticaZ](https://exoticaz.to/) — Tracker com foco em JAV sem ou com censura (possui photobooks também).
+[ExoticaZ](https://exoticaz.to) - Tracker com foco em JAV sem ou com censura (possui photobooks também.)
 
 [Sleazyfork](https://sleazyfork.org)
 
-[9xbuddy](https://9xbuddy.com/pt) - Faz o download de vídeos de uma variedade de sites adultos.
+[9xbuddy](https://9xbuddy.com/pt) - Baixador de vídeos de vários sites adultos.
 
-[Os Reformados](https://osreformados.com/)
+[Os Reformados](https://osreformados.com)
 
-[COOMER](https://coomer.su/) - Backup gratuito de todos os Onlyfans e Fansly.
+[COOMER](https://coomer.su) - Backup gratuito de todos os Onlyfans e Fansly.
 
 ---
