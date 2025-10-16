@@ -37,11 +37,11 @@ O Kaspersky (russo) ganhou uma reputação no mercado e mudou os servidores para
 
 Kaspersky foi banido dos Estados Unidos em 2024 [Fonte](https://www.pcmag.com/news/kaspersky-shutting-down-us-operations-following-nationwide-ban). A razão:
 
-> Os reguladores dos EUA estão principalmente preocupados com o fato de que os laços da empresa de antivírus com a Rússia a expõem a possíveis explorações e podem permitir que o Kremlin (o governo russo) colete dados dos EUA ou, de outra forma, ganhe acesso aos computadores americanos.
+> Os reguladores dos EUA estão principalmente preocupados com que os laços da empresa de antivírus com a Rússia a expõem a possíveis explorações e podem permitir que o Kremlin (o governo russo) colete dados dos EUA ou, de outra forma, ganhe acesso aos computadores americanos.
 
 A Rússia tem acesso direto a eles, mas visa apenas agentes do governo. "You're safe kiddo."
 
-Conclusão: Assim como o Panda, o Kaspersky construiu sua reputação através de anúncios e patrocínio de youtubers. Mas é um antivírus russo, "funky" e "garbage".
+Conclusão: Assim como o Panda, o Kaspersky construiu sua reputação por anúncios e patrocínio de youtubers. Mas é um antivírus russo, "funky" e "garbage".
 
 ## Outros antivírus
 
@@ -51,11 +51,11 @@ McAfee é meh.
 
 ## Resumo
 
-- **Bitdefender**: Use a versão de teste gratuita e, quando o teste estiver prestes à terminar, basta reiniciá-lo com outra conta [(emailnator.com)](https://emailnator.com).
+- **Bitdefender**: Use a versão de teste gratuita e, quando o teste estiver prestes a terminar, basta reiniciá-lo com outra conta [(emailnator.com)](https://emailnator.com).
 - **MalwareBytes**: somente para efetuar remoção de malware, não usar no dia a dia.
 - **Windows Defender (Windows 10 e 11)**: usar no dia a dia.
 
-Use o [Hypatia](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia/) / [Bitdefender Mobile](https://www.bitdefender.com/pt-br/consumer/mobile-security-android) no Android e [VirusTotal](https://www.virustotal.com/gui/) / [Triage](https://tria.ge/) para arquivos menores que 650 mb (para maiores use uma VM), dê preferência para a análise de programas antivírus com reputação no mercado pois antivírus desconhecidos (como o Arcabit) geralmente só detectam falsos positivos.
+Use o [Hypatia](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia/) / [Bitdefender Mobile](https://www.bitdefender.com/pt-br/consumer/mobile-security-android) no Android e [VirusTotal](https://www.virustotal.com/gui/) / [Triage](https://tria.ge/) para arquivos menores que 650 mb (para maiores use uma VM), dê preferência para a análise de programas antivírus com reputação no mercado, pois antivírus desconhecidos (como o Arcabit) geralmente só detectam falsos positivos.
 
 O senso comum também ajuda, e conhecimentos básicos sobre sistemas operacionais te afasta de malwares.
 

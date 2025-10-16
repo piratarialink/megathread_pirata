@@ -36,7 +36,7 @@ Aqui está uma coletânea de coisas úteis para privacidade e segurança que fui
 
 ### Coisa realmente boa
 
-- [spot-dl](https://github.com/spotDL/spotify-downloader) - Baixe suas playlists e músicas do Spotify junto com a arte do álbum e metadados (do YouTube se encontrar uma correspondência).
+- [spot-dl](https://github.com/spotDL/spotify-downloader) - Baixe suas playlists e músicas do Spotify com a arte do álbum e metadados (do YouTube se encontrar uma correspondência).
 
 - [ffmpeg](https://ffmpeg.org/download.html) - FFmpeg é uma coleção de bibliotecas e ferramentas para processar conteúdo multimídia como áudio, vídeo, legendas e metadados relacionados.
 
@@ -44,7 +44,7 @@ Aqui está uma coletânea de coisas úteis para privacidade e segurança que fui
 
 - [SpotX](https://github.com/amd64fox/SpotX/) - Cliente Spotify modificado. Bloqueia anúncios e atualizações e muito mais.
 
-- [czkawka](https://github.com/qarmin/czkawka) - Aplicativo multifuncional para encontrar duplicatas, pastas vazias, imagens semelhantes etc.
+- [czkawka](https://github.com/qarmin/czkawka) - Aplicativo multifuncional para encontrar duplicatas, pastas vazias, imagens semelhantes, etc.
 
 - [Spotube](https://github.com/KRTirtho/spotube) - 🎧 Cliente Spotify de código aberto que não requer premium nem Electron! Disponível para desktop e celular!
 
@@ -56,13 +56,13 @@ Aqui está uma coletânea de coisas úteis para privacidade e segurança que fui
 
 - [Pi-hole](https://pi-hole.net/) - Um buraco negro para anúncios na Internet.
 
-- [Nextcloud](https://nextcloud.com/) - Nextcloud é um software client-server para criar e usar serviços de hospedagem de arquivos. Nextcloud oferece funcionalidade semelhante ao Dropbox, Office 365 ou Google Drive quando usado com suítes de escritório integradas Collabora Online ou OnlyOffice. Ele pode ser hospedado na nuvem ou no local.
+- [Nextcloud](https://nextcloud.com/) - Nextcloud é um software cliente-servidor para criar e usar serviços de hospedagem de arquivos. Nextcloud oferece funcionalidade semelhante ao Dropbox, Office 365 ou Google Drive quando usado com suítes de escritório integradas Collabora Online ou OnlyOffice. Ele pode ser hospedado na nuvem ou no local.
 
 ### Android
 
 - [F-Droid](https://f-droid.org/) - F-Droid é um catálogo instalável de aplicativos FOSS (software gratuito e de código aberto) para a plataforma Android. O cliente facilita navegar, instalar e acompanhar atualizações em seu dispositivo.
 
-- [Canta - Uninstall any app without root!](https://f-droid.org/en/packages/org.samo_lego.canta/) - Canta permite que você desinstale qualquer aplicativo do seu dispositivo, mesmo se você não tiver acesso root. Precisa ser usado junto com o [Shizuku.](https://shizuku.rikka.app/)
+- [Canta - Uninstall any app without root!](https://f-droid.org/en/packages/org.samo_lego.canta/) - Canta permite que você desinstale qualquer aplicativo do seu dispositivo, mesmo se você não tiver acesso root. Precisa ser usado com o [Shizuku.](https://shizuku.rikka.app/)
 
 - [Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - Um cliente Reddit focado na privacidade para Android.
 
@@ -84,7 +84,7 @@ Aqui está uma coletânea de coisas úteis para privacidade e segurança que fui
 
 - [Tenacity](https://tenacityaudio.org) -Tenacity é um editor de áudio multipista multiplataforma, fácil de usar e com privacidade, FLOSS, para Windows, macOS, Linux e outros sistemas operacionais.
 
-- [Mullvad Browser](https://mullvad.net/en/browser) - Mullvad Browser é uma versão do Tor Browser com integrações de rede Tor removidas, com o objetivo de fornecer tecnologias de navegador anti-impressão digital do Tor Browser para usuários VPN. É desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
+- [Mullvad Browser](https://mullvad.net/pt/browser) - Mullvad Browser é uma versão do Tor Browser com integrações de rede Tor removidas, visando fornecer tecnologias de navegador anti-impressão digital do Tor Browser para usuários VPN. É desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
 
 - [Librewolf](https://librewolf.net/) - Uma versão personalizada do Firefox, focada em privacidade, segurança e liberdade.
 

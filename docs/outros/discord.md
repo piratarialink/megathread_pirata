@@ -22,7 +22,7 @@ Eis a razão pela qual estou a abandonar o Discord.
 Há tantos bugs pendentes no Discord que todos nós nos esquecemos coletivamente ao longo do tempo. Aqui está uma lista engraçada de alguns que me estão a passar pela cabeça:
 
 - Menções fantasma e não-leituras fantasma! Escreve-se uma mensagem, talvez com uma menção, e depois apaga-se a mensagem. Para todos os outros, o marcador de não lida e o emblema de menção permanecem, apesar de não estar lá nada quando se abre o canal.
-- Os bots não podem aceitar chamadas no entanto, basta clicar com o botão direito do rato num bot num servidor e selecionar "chamar" no menu de contexto. Esta é REALMENTE engraçada, devias mesmo experimentar esta. É interessante notar que se deram ao trabalho de corrigir isto para o utilizador do SISTEMA, mas não para os bots.
+- Os bots não podem aceitar chamadas, no entanto, basta clicar com o botão direito do rato num bot num servidor e selecionar "chamar" no menu de contexto. Esta é REALMENTE engraçada, devias mesmo experimentar esta. É interessante notar que se deram ao trabalho de corrigir isto para o utilizador do SISTEMA, mas não para os bots.
 - As pessoas só podem definir cerca de 250 notas sobre outros utilizadores. Quando se atinge esse limite, as novas notas são silenciosamente rejeitadas pelo servidor e desaparecem quando se abre novamente o perfil. Não há forma de ver uma lista de pessoas com notas para as apagar.
 - O seletor de região do servidor tem sempre um tema claro.
 - O ecrã de transferência de aplicações tem sempre um tema claro.
@@ -33,7 +33,7 @@ Estes problemas não são novos. O problema das chamadas tem acontecido desde o 
 
 Eu colocaria mais exemplos, mas são mais difíceis de encontrar porque há alguns meses a equipa do Discord limpou os quadros de relatórios de erros, apagando vários anos de relatórios de problemas. Estes problemas ainda persistem até hoje.
 
-Não são grandes problemas. Não afetam como utilizo a aplicação no dia a dia. No entanto, são a prova de um problema muito mais grave: a equipa do Discord não se preocupa com estes problemas, está demasiado sobrecarregada e com falta de pessoal para lidar com eles, ou é simplesmente demasiado incompetente para os resolver. Mais sobre isso mais tarde.
+Não são grandes problemas. Não afetam como uso a aplicação no dia a dia. No entanto, são a prova de um problema muito mais grave: a equipa do Discord não se preocupa com estes problemas, está demasiado sobrecarregada e com falta de pessoal para lidar com eles, ou é simplesmente demasiado incompetente para os resolver. Mais sobre isso mais tarde.
 
 Há mais provas de incompetência. Durante algum tempo tivemos registos de auditoria do servidor, que permitiam saber se alguém apagava uma mensagem - mas não se alguém utilizava o ponto final de apagar mensagens em massa. Isso não era registado de todo. Ops. Agora é uma coisa, mas passamos pelo menos um ou dois anos sem isso. (https://cadence.moe/i/abc28e)
 
@@ -61,11 +61,11 @@ Em seguida, o Go Live foi lançado e, no início, era péssimo. Originalmente, e
 
 Discord é um aplicativo de comunicação. Você acha que isso permitiria que a equipe comunicasse informações importantes de maneira eficaz para você e talvez você pudesse ativar ou desativar canais específicos, como notas de atualização, anúncios de desenvolvedores, análises técnicas e coisas assim. Não é assim. Comunicação com Discord é incrivelmente desorganizado.
 
-O Discord tem um blog. O Discord tem o repórter de interrupções. O Discord tem listas de e-mail. O Discord tem o Twitter. O Discord escreve no GitHub. O Discord tem praticamente tudo, exceto, bem, o Discord. As únicas mensagens que você pode ter certeza de receber são as mensagens do SISTEMA se eles decidirem que é hora de mostrar seu passaporte. As informações enviadas por essas diferentes rotas de comunicação também são diferentes, então você precisa se inscrever em todas elas. Há também cerca de um bilhão de servidores satélites aos quais você precisa se associar para obter informações importantes informações, especialmente se você for um desenvolvedor de bot. Muitas informações importantes sobre verificação de bot, uma medida que _literalmente bloqueará as pessoas fora da plataforma se elas não entenderem o que fazer,_ eu só descubro quando pessoas aleatórias poste-o em servidores onde eu esteja. Aparentemente há um servidor "Discord Developers" onde eles postam anúncios sobre isso. Não tenho ideia de como entrar nesse servidor.
+O Discord tem um blog. O Discord tem o repórter de interrupções. O Discord tem listas de e-mail. O Discord tem o Twitter. O Discord escreve no GitHub. O Discord tem praticamente tudo, exceto, bem, o Discord. As únicas mensagens que você pode ter certeza de receber são as mensagens do SISTEMA se eles decidirem que é hora de mostrar seu passaporte. As informações enviadas por essas diferentes rotas de comunicação também são diferentes, então você precisa se inscrever nelas todas. Há também cerca de um bilhão de servidores satélites aos quais você precisa se associar para obter informações importantes informações, especialmente se você for um desenvolvedor de bot. Muitas informações importantes sobre verificação de bot, uma medida que _literalmente bloqueará as pessoas fora da plataforma se elas não entenderem o que fazer,_ eu só descubro quando pessoas aleatórias poste-o em servidores onde eu esteja. Aparentemente há um servidor "Discord Developers" onde eles postam anúncios sobre isso. Não tenho ideia de como entrar nesse servidor.
 
 ## Tempo de inatividade
 
-O Discord quer ser a via de comunicação que você pode usar para tudo. Isso é um pouco difícil quando eles estão tendo problemas técnicos em momentos cruciais. Se os servidores caírem, você não consegue fazer login, não consegue ler nenhum arquivo antigo. mensagens, você não pode enfileirar mensagens para enviar mais tarde e muitas vezes não pode receber atualizações sobre o que está acontecendo. Tudo o que você pode fazer é esperar e torcer para que isso volte eventualmente.
+O Discord quer ser a via de comunicação que você pode usar para tudo. Isso é um pouco difícil quando eles estão tendo problemas técnicos em momentos cruciais. Se os servidores caírem, você não consegue fazer login, não consegue ler nenhum arquivo antigo. Mensagens, você não pode enfileirar mensagens para enviar mais tarde e muitas vezes não pode receber atualizações sobre o que está acontecendo. Tudo o que você pode fazer é esperar e torcer para que isso volte eventualmente.
 
 [Confira a página de status.](https://status.discord.com/)
 
@@ -79,19 +79,19 @@ Por volta do final do ano passado, eles fizeram uma postagem no blog (que não t
 
 O Discord não se importa com você, a equipe do Discord não se importa com você e a equipe do Discord _especialmente_ não se importa com você se você é um grande contribuidor para o ecossistema deles, por exemplo, criando bots, ou listas de servidores, ou outras ferramentas que simplesmente ajudam sua plataforma, ao mesmo tempo que traz muito pouco. Isso soa ao contrário e é verdade.
 
-[Por favor, vá e leia meu outro post sobre passaportes.](https://cadence.moe/blog/2020-04-08-passport) O passaporte foi a gota d'água que me fez realmente começar a tirar minhas coisas do Discord .
+[Por favor, vá e leia meu outro post sobre passaportes.](https://cadence.moe/blog/2020-04-08-passport) O passaporte foi a gota d'água que me fez realmente começar a tirar minhas coisas do Discord.
 
 [Aqui está um drama do final de 2019,](https://github.com/discord/discord-api-docs/issues/1276) que foi causado pelo fato de a equipe do Discord ser má e não documentar algum comportamento que levou a muita coisa de pessoas sendo @todo mundo por bots, e os desenvolvedores desses bots não tendo como impedir isso. Não tenho energia para explicar isso a um leitor com um nível desconhecido de habilidade técnica. A resposta final a isso O problema é "apenas higienize a avaliação do seu bot e ajuste as permissões do servidor e espere até que todos se esqueçam disso". Os proprietários do bot não têm a capacidade de higienizá-lo ou ajustar as permissões do servidor. Você notará que o problema foi bloqueado para que ninguém mais pudesse comente sobre isso depois desse ponto. Esta resposta é realmente horrível. (Isso foi revisado posteriormente e o campo `allowed_mentions` foi adicionado para resolvê-lo, o que é algo que honestamente deveria ter existido desde o início.)
 
-Você já brincou sobre ter menos de 13 anos? Talvez em um servidor privado ou mensagem direta você tenha visto uma pergunta como "o que você não entende? Você tem literalmente 2 anos?" e respondeu, como uma piada óbvia , "sim". Isso é suficiente para bloquear sua conta do Discord e excluí-la após 14 dias, a menos que você envie um documento de identificação com foto com sua data de aniversário. Nem todo mundo tem um documento de identificação com foto com sua data de aniversário, por exemplo, crianças reais de 14 anos. , nem todo mundo deseja enviar um documento de identidade com foto para uma empresa privada para armazená-lo por um período de tempo indefinido e usá-lo para fins indefinidos.
+Você já brincou sobre ter menos de 13 anos? Talvez em um servidor privado ou mensagem direta você tenha visto uma pergunta como "o que você não entende? Você tem literalmente 2 anos?" e respondeu, como uma piada óbvia, "sim". Isso é suficiente para bloquear sua conta do Discord e excluí-la após 14 dias, a menos que você envie um documento de identificação com foto com sua data de aniversário. Nem todo mundo tem um documento de identificação com foto com sua data de aniversário, por exemplo, crianças reais de 14 anos. Nem todo mundo deseja enviar um documento de identidade com foto para uma empresa privada para armazená-lo por um período de tempo indefinido e usá-lo para fins indefinidos.
 
 [Por exemplo, esta pessoa, que não possui documento de identidade para comprovar sua idade, sua conta será excluída.](https://reddit.com/r/discordapp/comments/gowoxt/photo_id_for_age_verification_need_help) Tchau.
 
-Por exemplo, [estes](https://reddit.com/r/discordapp/comments/gber1q/help_ive_been_locked_out_of_my_account) / [dois](https://www.reddit.com/r/discordapp/comments/gafhj8/do_locked_out_accounts_get_deleted_after_14_days) pessoas que possuem ID, mas o Discord simplesmente não respondeu aos seus pedidos.
+Por exemplo, [estas](https://reddit.com/r/discordapp/comments/gber1q/help_ive_been_locked_out_of_my_account) / [duas](https://www.reddit.com/r/discordapp/comments/gafhj8/do_locked_out_accounts_get_deleted_after_14_days) pessoas que possuem ID, mas o Discord simplesmente não respondeu aos seus pedidos.
 
 Você pode pensar que essa questão não importa porque essas pessoas provavelmente não são muito importantes e isso nunca aconteceria com você, certo? Essa é uma má interpretação e é falsa.
 
-[Aqui está um desenvolvedor líder da maior biblioteca de desenvolvimento de bots Discord do mundo dizendo que isso aconteceu com eles.](https://github.com/discordjs/discord.js/issues/3440) O Discord pode decidir que é hora de você agir a qualquer momento, e quando isso acontece, você simplesmente desaparece.
+[Aqui está um desenvolvedor líder da maior biblioteca de desenvolvimento de bots de Discord do mundo dizendo que isso aconteceu com eles.](https://github.com/discordjs/discord.js/issues/3440) O Discord pode decidir que é hora de você agir a qualquer momento, e quando isso acontece, você simplesmente desaparece.
 
 As consequências de "acabar de sair" são que você perde imediatamente o contato com todas as pessoas e todos os grupos dos quais fazia parte. Se você não trocasse detalhes de contato alternativos com cada pessoa, talvez nunca mais os encontrasse. Somos humanos e quando isso acontece, é de partir o coração. [Artemis escreve mais sobre isso aqui.](https://artemis.sh/2022/01/30/discord-holds-the-keys-to-your-heart.html)
 
@@ -101,15 +101,15 @@ E é tanto a equipe de suporte quanto os desenvolvedores.
 
 Lembra como eu sugeri que os desenvolvedores estavam sobrecarregados, com falta de pessoal, simplesmente incompetentes ou nem se importavam? Você viu um pouco disso na seção acima. Vamos falar mais sobre isso.
 
-Mods de cliente, como temas personalizados ou plug-ins para adicionar comportamento extra útil e corrigir problemas, são contra os termos de serviço do Discord. Não vou debater se eles devem ser permitidos ou não neste momento, então vamos apenas assumir que eles não são permitidos. e a punição por usá-los deve ser consistente e justa.
+Mods de cliente, como temas personalizados ou plug-ins para adicionar comportamento extra útil e corrigir problemas, são contra os termos de serviço do Discord. Não vou debater se eles devem ser permitidos ou não neste momento, então vamos apenas assumir que eles não são permitidos. E a punição por usá-los deve ser consistente e justa.
 
-O Discord não se esforça para detectar mods de cliente, então você geralmente pode se safar deles, a menos que esteja fazendo algo como ingressar em servidores em massa mais rápido do que um humano poderia. No entanto, você provavelmente será banido ou repreendido se um funcionário Acontece que um membro vê você postar publicamente uma captura de tela de um cliente obviamente modificado.
+O Discord não se esforça para detectar mods de cliente, então você geralmente pode se safar deles, a menos que esteja fazendo algo como ingressar em servidores em massa mais rápido do que um humano poderia. No entanto, você será provavelmente banido ou repreendido se um funcionário Acontece que um membro vê você postar publicamente uma captura de tela de um cliente obviamente modificado.
 
 Eu vi uma troca onde um membro da equipe viu uma captura de tela modificada e baniu toda a conta da pessoa, cancelando-a após 2 minutos, como uma piada.
 
 Não acho que seja uma piada muito engraçada e não deve ser encarada levianamente.
 
-Isso mostra que os funcionários têm o poder de fazer o que quiserem e não parece haver nenhum processo de revisão sobre o uso razoável do poder. Alguém decidindo que não, vou bani-lo imediatamente, mas temporariamente, como um piada, NÃO é uma coisa normal que qualquer plataforma deveria permitir. Enviei algo na magnitude de um milhão de mensagens em meu tempo no Discord e fiz muitos amigos. Se alguém puder tirar meu acesso para falar com meus amigos assim mesmo ... e boa sorte para encontrar as tags das pessoas ou links de convite do servidor para voltar a falar com elas novamente. Se Discord é a sua vida, então você está preso à sua vida por um fio de segurança de aranha.
+Isso mostra que os funcionários têm o poder de fazer o que quiserem e não parece haver nenhum processo de revisão sobre o uso razoável do poder. Alguém decidindo que não, vou bani-lo imediatamente, mas temporariamente, como uma piada, NÃO é uma coisa normal que qualquer plataforma deveria permitir. Enviei algo na magnitude de um milhão de mensagens em meu tempo no Discord e fiz muitos amigos. Se alguém puder tirar meu acesso para falar com meus amigos assim mesmo... e boa sorte para encontrar as tags das pessoas ou links de convite do servidor para voltar a falar com elas novamente. Se Discord é a sua vida, então você está preso à sua vida por um fio de segurança de aranha.
 
 Eu realmente odeio usar a frase “viagem de poder”, realmente odeio, mas esta parte se qualifica.
 
@@ -122,7 +122,7 @@ Assim como não houve processo de revisão para o banimento do mod do cliente, t
 O Discord coleta uma quantidade obscena de dados sobre tudo o que você toca no aplicativo. Descrevi esses dados em uma postagem no Reddit, mas tenho algumas coisas a dizer antes de escrever o link.
 
 - Se você usar o Discord apenas no navegador e instalar uma extensão de bloqueio tradicional definida como sem rastreamento, como o uBlock Origin, o Discord não será bloqueado porque eles alteraram especificamente seu endpoint de rastreamento de `/track` (obviamente detectável) para `/science` , que é uma maneira ingênua, mas eficaz, de contornar uma lista de filtros.
-- Desligar os interruptores de coleta de dados não interrompe o envio de dados para `/science`. Os dados são _aparentemente_ descartados no lado do servidor, sem nenhuma maneira de realmente verificar isso. A razão pela qual eles fizeram isso dessa maneira é aparentemente para que eles poderia sincronizar suas configurações entre dispositivos sem permitir acidentalmente a passagem de solicitações antes da sincronização das configurações, o que parece uma explicação razoável, mas eles definitivamente deveriam ter feito isso tanto no lado do cliente quanto no servidor. Não confio nem um pouco nisso.
+- Desligar os interruptores de coleta de dados não interrompe o envio de dados para `/science`. Os dados são _aparentemente_ descartados no lado do servidor, sem nenhuma maneira de realmente verificar isso. A razão pela qual eles fizeram isso dessa maneira é aparentemente para que eles poderiam sincronizar suas configurações entre dispositivos sem permitir acidentalmente a passagem de solicitações antes da sincronização das configurações, o que parece uma explicação razoável, mas eles definitivamente deveriam ter feito isso tanto no lado do cliente quanto no servidor. Não confio nem um pouco nisso.
 - As informações em minha postagem no Reddit estão com os interruptores de rastreamento desligados, então provavelmente eles armazenam ainda mais coisas com eles ligados.
 
 [Ok, aqui está a postagem. O título foi projetado especificamente para deixar o máximo de pessoas irritadas possível. Aproveite.](https://www.reddit.com/r/privacy/comments/eiicah/trawling_through_my_discord_data_package_after_35/)
@@ -131,9 +131,9 @@ O Discord coleta uma quantidade obscena de dados sobre tudo o que você toca no 
 
 ## Ações desprezíveis reais e pessoas desprezíveis não são interrompidas
 
-Lembra quando [o reddit mudou seu ícone para preto](https://nitter.snopyta.org/reddit/status/1267643352851247106#m) e prometeu fazer algo sobre o racismo no site, porque é política e economicamente conveniente dizer isso eles se importam? Eu... acho que não tenho palavras para descrever como me sinto sobre isso. Se você não está familiarizado com a forma como os subreddits são moderados, leia as respostas a esse link.
+Lembra quando [o Reddit mudou seu ícone para preto](https://nitter.snopyta.org/reddit/status/1267643352851247106#m) e prometeu fazer algo sobre o racismo no site por ser política e economicamente conveniente dizer que eles se importam? Eu... acho que não tenho palavras para descrever como me sinto sobre isso. Se você não está familiarizado com como os subreddits são moderados, leia as respostas a esse link.
 
-Sim, então Discord é a mesma coisa. Quem poderia ter predicado essa virada. Nossa, meu Deus.
+Sim, então Discord é o mesmo. Quem poderia ter predicado essa virada. Nossa, meu Deus.
 
 [risos](https://nitter.snopyta.org/discord/status/1267543707399581701#m)
 
@@ -153,7 +153,7 @@ Pessoas que _denunciam_ esses servidores são frequentemente banidas.
 
 [Vou direcioná-lo para a resposta de Austin Huang à minha postagem para saber mais sobre isso.](https://austinhuang.me/discord-issues)
 
-Enquanto isso, um servidor específico diferente, direcionado a menores de idade que namoram menores de idade, e é bem moderado contra predadores de crianças para se proteger contra o óbvio, [foi excluído, não porque fizeram algo errado, mas porque havia potencial para as pessoas faça algo errado.](https://cadence.moe/i/367b08) _O servidor foi bem moderado especificamente para impedir isso._ Neste ponto, o que é candidato à exclusão imediata? Uma pessoa com menos de 18 anos que _pode_ tirar fotos explícitas de si mesmo em algum momento no futuro, apesar de nunca ter feito isso antes? Qualquer pessoa de qualquer idade que _poderá_ descobrir e postar pornografia ilegal em algum momento no futuro, apesar de nunca ter feito isso antes? Não tenho ideia.
+Enquanto isso, um servidor específico diferente, direcionado a menores de idade que namoram menores de idade, e é bem moderado contra predadores de crianças para se proteger contra o óbvio, [foi excluído, não porque fizeram algo errado, mas porque havia potencial para as pessoas faça algo errado.](https://cadence.moe/i/367b08) _O servidor foi bem moderado especificamente para impedir isso._ Neste ponto, o que é candidato à exclusão imediata? Uma pessoa com menos de 18 anos que _pode_ tirar fotos explícitas de si em algum momento no futuro, apesar de nunca ter feito isso antes? Qualquer pessoa de qualquer idade que _poderá_ descobrir e postar pornografia ilegal em algum momento no futuro, apesar de nunca ter feito isso antes? Não tenho ideia.
 
 Você sabe como quebrar regras é chamado de "cruzar a linha"? Parece que a linha desapareceu. Normalmente, as pessoas garantiriam que sabem onde está a linha e que não a cruzarão. No caso do Discord, isso não é bom o suficiente: eles irão bani-lo se acharem que você pode ultrapassar os limites no futuro. Não há literalmente nada que você possa fazer para se manter seguro. A escolha é deles permanecer online ou não.
 
@@ -161,9 +161,9 @@ Apesar do desejo de encerrar contas sem motivo específico, as pessoas que compa
 
 Ações desprezíveis reais e pessoas desprezíveis não são interrompidas
 
-Lembra quando o reddit mudou seu ícone para preto e prometeu fazer algo sobre o racismo no site, porque é política e economicamente conveniente dizer que eles se importam? Eu... acho que não tenho palavras para descrever como me sinto sobre isso. Se você não está familiarizado com a forma como os subreddits são moderados, leia as respostas a esse link.
+Lembra quando o reddit mudou seu ícone para preto e prometeu fazer algo sobre o racismo no site, porque é política e economicamente conveniente dizer que eles se importam? Eu... acho que não tenho palavras para descrever como me sinto sobre isso. Se você não está familiarizado com como os subreddits são moderados, leia as respostas a esse link.
 
-Sim, então Discord é a mesma coisa. Quem poderia ter predicado essa virada. Nossa, meu Deus.
+Sim, então Discord é o mesmo. Quem poderia ter predicado essa virada. Nossa, meu Deus.
 
 risos
 
@@ -213,30 +213,30 @@ Aqui estão algumas opções que posso pensar:
 
 - Mais serviços de assinatura. Não acho que isso funcione bem — o conjunto atual de recursos premium é bastante desejável para pessoas que têm dinheiro e querem recursos. Da última vez, eles tentaram assinaturas para algo não relacionado ao bate-papo (ou seja, a loja de jogos), mas não correu bem. Não creio que esta seja uma opção viável.
 - Anúncios para todos, ou pelo menos para pessoas que não pagam. Isso provavelmente não funcionará relativamente bem, pois as pessoas provavelmente migrarão rapidamente para uma plataforma que não tem anúncios. Ou a maioria dos usuários receberá anúncios bloqueadores, o que novamente significa nenhum dinheiro.
-- Gerenciar mineradores de criptomoedas, eu acho?Isso lhes traria relações públicas muito ruins e provavelmente não muito dinheiro, mas é uma opção.
-- Faça com que todos paguem apenas para fazer login. Não tenho certeza de como isso funcionaria, então deixarei isso para o leitor considerar. Obviamente, sua reputação seria totalmente destruída, mas para a fração de usuários que permaneceram, Acho que o Discord poderia mudar para um serviço somente pago e sobreviver.
+- Gerenciar mineradores de criptomoedas, eu acho? Isso lhes traria relações-públicas muito ruins e provavelmente não muito dinheiro, mas é uma opção.
+- Faça com que todos paguem apenas para fazer login. Não tenho certeza de como isso funcionaria, então deixarei isso para o leitor considerar. Obviamente, sua reputação seria totalmente destruída, mas para a fração de usuários que permaneceram, acho que o Discord poderia mudar para um serviço somente pago e sobreviver.
 - Empacote os metadados e o conteúdo das mensagens de todos e venda tudo ao licitante que pagar mais ou forneça um serviço de assinatura onde outras empresas possam pagar por consulta ao banco de dados para essas
   informações.
 
-Esse último ponto é provavelmente o mais provável.
+Esse último ponto é provavelmente o provável.
 
 Se você conversou com pessoas no Discord sobre algo pessoal, pensando que é privado, o Discord ainda mantém uma cópia de tudo. Eles conhecem seus interesses, suas atividades, seus relacionamentos, seus desejos, seus segredos, seus medos, sua vida. _As empresas pagarão MUITO dinheiro para acessar essas informações._ Também não seria muito difícil agregar, basta executar um pouco de aprendizado de máquina e pronto, você fez isso para cerca de 90% das pessoas. Isso não é novidade. Google, Facebook e muitos outros já estão empregando técnicas como essa para determinar seus interesses nos sites que você visita e na maneira como você interage com o conteúdo deles.
 
-Sim, acho que isso vai acontecer. Gostaria de pensar que isso não vai acontecer. Eu realmente gostaria de poder dar tanta confiança ao Discord, mas eles não fizeram nada para merecer minha confiança. Nós sabemos que eles não se importam com a privacidade (veja também a seção de segurança mais adiante).Sabemos que eles precisam de dinheiro.Sabemos que precisarão de uma maneira de enriquecer rapidamente.
+Sim, acho que isso vai acontecer. Gostaria de pensar que isso não vai acontecer. Eu gostaria realmente de poder dar tanta confiança ao Discord, mas eles não fizeram nada para merecer minha confiança. Nós sabemos que eles não se importam com a privacidade (veja também a seção de segurança mais adiante). Sabemos que eles precisam de dinheiro.Sabemos que precisarão de uma maneira de enriquecer rapidamente.
 
 (Aliás, lembre-se de que os membros da equipe também têm acesso total ao banco de dados, bem como uma ferramenta para visualizar facilmente as conversas, então, se eles tivessem rancor de você, eles podem ir pessoalmente e pesquisar tudo sobre sua vida que você foi tolo o suficiente para compartilhe com pessoas em quem você confia. Se você acha que os membros da equipe são honrados e confiáveis ​​o suficiente para não fazer isso, é claro que você não leu as seções acima.)
 
-Mesmo que o Discord, pelo amor de Deus, realmente não queira que isso aconteça, existe uma coisa chamada ["aquisição"](https://en.wikipedia.org/wiki/Takeover), quando uma empresa adquire outra negócios junto com todos os seus ativos, usuários e dados. Isso é algo muito comum que acontece com empresas falidas.
+Mesmo que o Discord, pelo amor de Deus, realmente não queira que isso aconteça, existe uma coisa chamada ["aquisição"](https://en.wikipedia.org/wiki/Takeover), quando uma empresa adquire outros negócios com todos os seus ativos, usuários e dados. Isso é algo muito comum que acontece com empresas falidas.
 
 O que você pode fazer sobre isso? Vou sugerir algumas defesas algumas seções abaixo, então continue lendo.
 
 ## Problemas de segurança
 
-O Discord tem um monte de falhas de segurança e privacidade. Você está surpreso? Você não deveria estar, tendo visto a qualidade do aplicativo e seus problemas de longa data que mencionei desde o início. Se esse é o nível de detalhe que eles fornecem ao partes voltadas para o usuário, o que você acha que acontece com os problemas de segurança que eles sem dúvida tentam manter em segredo?
+O Discord tem um monte de falhas de segurança e privacidade. Você está surpreso? Você não deveria estar, tendo visto a qualidade do aplicativo e seus problemas de longa data que mencionei desde o início. Se esse é o nível de detalhe que eles fornecem às partes voltadas para o usuário, o que você acha que acontece com os problemas de segurança que eles sem dúvida tentam manter em segredo?
 
 Só sei sobre alguns problemas de segurança, porque é claro que o Discord não os publicaria publicamente!
 
-Você conhece o widget do servidor? Ele é usado para expor IDs de usuário, nomes de usuário e hashes de avatar de cada pessoa on-line no servidor. Qualquer pessoa poderia consultar essas informações se conhecesse o ID do servidor. Isso é um problema de segurança, porque com IDs de servidor suficientes , você pode saber quais pessoas estão em quais servidores sem precisar ingressar nesses servidores.
+Você conhece o widget do servidor? Ele é usado para expor IDs de usuário, nomes de usuário e hashes de avatar de cada pessoa on-line no servidor. Qualquer pessoa poderia consultar essas informações se conhecesse o ID do servidor. Isso é um problema de segurança, porque com IDs de servidores suficientes, você pode saber quais pessoas estão em quais servidores sem precisar ingressar nesses servidores.
 
 [Um amigo encontrou este.](https://cadence.moe/i/63d7de) A vulnerabilidade real era que você poderia editar _a mensagem de qualquer pessoa, sem a necessidade de permissões_ enviando uma solicitação de API personalizada, o que não é difícil nada a fazer. Fornecer `{flags: 4}` com sua carga útil de edição permite que você edite mensagens enviadas por outras pessoas. Ideias legais para isso:
 
@@ -248,7 +248,7 @@ Não temos ideia se isso foi realmente explorado ou não. Dada a gravidade desse
 
 Só sei disso porque sou amigo da pessoa que o descobriu. Eu me pergunto quantos bugs existem de gravidade semelhante e que ninguém conhece.
 
-Você estava esperando por isso. Eu estava _apenas dizendo_ que o widget do servidor poderia ser usado para coleta de dados em massa e... [opa! Algumas pessoas já fizeram isso. Normalmente, isso seria muito engraçado, mas infelizmente o grupo por trás disso é direitistas irritantes.](https://tracr.co/) Tente procurar seu próprio perfil e ver o que ele sabe sobre você. Este site está _definitivamente_ registrando mensagens nos servidores listados, apenas não as está tornando públicas. Por um Para se divertir, tente clicar no link "solicitar remoção". [Aqui está uma postagem mais detalhada de outra pessoa sobre a história do Discool.](https://web.archive.org/web/20200607051616/https://resynth1943.net/ 2020/03/14/The-Discord-privacy-scandal.html)
+Você estava esperando por isso. Eu estava _apenas dizendo_ que o widget do servidor poderia ser usado para coleta de dados em massa e... [opa! Algumas pessoas já fizeram isso. Normalmente, isso seria muito engraçado, mas infelizmente o grupo por trás disso é de direitistas irritantes.](https://tracr.co/) Tente procurar seu próprio perfil e ver o que ele sabe sobre você. Este site está _definitivamente_ registrando mensagens nos servidores listados, apenas não as está tornando públicas. Por um Para se divertir, tente clicar no link "solicitar remoção". [Aqui está uma postagem mais detalhada de outra pessoa sobre a história do Discool.](https://web.archive.org/web/20200607051616/https://resynth1943.net/ 2020/03/14/The-Discord-privacy-scandal.html)
 
 Pessoas que não conseguem ver canais privados podem ver anexos que foram postados nesses canais em algumas circunstâncias. Lembro-me de ter visto uma demonstração de prova de conceito para isso, mas o link desapareceu agora.
 
@@ -285,13 +285,13 @@ Mumble, Jitsi independente, Matrix+Jitsi, Peercalls, Houseparty.
 
 ### Estes são melhores ou piores que o Discord?
 
-Acho que o Matrix é melhor em vários aspectos, uma vez que você se acostuma com a interface do usuário. Você leu marcadores, criptografia de ponta a ponta e, claro, é um protocolo aberto e os clientes são software livre, então você pode fazer com que ele faça qualquer coisa você deseja e preencha quaisquer lacunas de funcionalidade sem medo de ser banido, ao contrário do Discord.
+Acho que o Matrix é melhor em vários aspectos, uma vez que você se acostuma com a interface do usuário. Você leu marcadores, criptografia de ponta a ponta e, claro, é um protocolo aberto e os clientes são softwares livre, então você pode fazer com que ele faça qualquer coisa você deseja e preencha quaisquer lacunas de funcionalidade sem medo de ser banido, ao contrário do Discord.
 
-Mumble é literalmente uma experiência melhor do que o bate-papo por voz do Discord em todos os sentidos. Melhor qualidade de áudio, código aberto/protocolos abertos/software gratuito, os aplicativos são menos ruins (especialmente em dispositivos móveis) e você pode participar de uma chamada instantaneamente sem precisar se inscrever .
+Mumble é literalmente uma experiência melhor do que o bate-papo por voz do Discord em todos os sentidos. Melhor qualidade de áudio, código aberto/protocolos abertos/software gratuito, os aplicativos são menos ruins (especialmente em dispositivos móveis) e você pode participar de uma chamada instantaneamente sem precisar se inscrever.
 
 ## Pensamentos finais
 
-Estou feliz por ter decidido sair do Discord porque me deu a chance de avaliar outras plataformas onde tenho a liberdade de fazer o que quero, falar com quem eu quiser, possuir minhas próprias mensagens e metadados e ter a capacidade de mudar coisas que não gosto e torná-las melhores.
+Estou feliz por decidir sair do Discord porque me deu a chance de avaliar outras plataformas onde tenho a liberdade de fazer o que quero, falar com quem eu quiser, possuir minhas próprias mensagens e metadados e ter a capacidade de mudar coisas que não gosto e torná-las melhores.
 
 Demorei 4,5 horas e 4.986 palavras para escrever a postagem inicial, mas editei algumas vezes para adicionar mais informações desde então.
 

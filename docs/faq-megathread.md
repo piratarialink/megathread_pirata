@@ -5,8 +5,8 @@
 ### A megathread foi feita para quem? E por que ela é tão parecida com a megathread do r/piracy?
 
 - O projeto 'Pirataria' foi fundado em novembro de 2023 visando atuar como uma valiosa fonte para explorar uma ampla gama de recursos excepcionais, incluindo sites, aplicativos, ferramentas, etc.
-- Esta coleção é atualizada e mantida por voluntários do github e atualmente está hospedada no domínio [pirataria.link](https://pirataria.link).
-- Basicamente é como se fosse um 'fork' da megathread conceituada do r/piracy, porém, tendo em mente a comunidade lusófona como um todo; por isso alguns trechos podem parecer bastante reminiscentes à primeira vista.
+- Esta coleção é atualizada e mantida por voluntários do github e está atualmente hospedada no domínio [pirataria.link](https://pirataria.link).
+- Basicamente é como se fosse um 'fork' da megathread conceituada do r/piracy, porém, tendo em mente a comunidade lusófona toda; por isso alguns trechos podem parecer bastante reminiscentes à primeira vista.
 
 ### Vou ter problemas se visitar um site pirata ou baixar um determinado arquivo?
 
@@ -15,8 +15,8 @@
 ### Onde é que eu posso encontrar material pirata?
 
 - Em grupos do Telegram e, como o próprio r/piracy recomenda, no Yandex.
-- Uma estratégia interessante caso as demais venham a falhar é vasculhar no VK e OK.RU pelo o que você procura. (Uma pesquisa rápida com o google pode mostrar resultados na maior parte das vezes)
-- O Odnoklassnik/VK Video é onde o pessoal carrega filmes e reprises de partidas de futebol enquanto que o VKontakte em si é uma rede social que não obedece a diretrizes internacionais de _copyright_ por justamente ter sede na Rússia.
+- Uma estratégia interessante caso as demais falhem é vasculhar no VK e OK.RU pelo oue você procura. (Uma pesquisa rápida com o Google pode mostrar resultados na maior parte das vezes)
+- O Odnoklassnik/VK Video é onde o pessoal carrega filmes e reprises de partidas de futebol enquanto o VKontakte em si é uma rede social que não obedece a diretrizes internacionais de _copyright_ por justamente ter sede na Rússia.
 - Entre nos sites citados acima com uma VPN configurada.
 
 ### Como eu posso acessar sites que minha operadora bloqueou?
@@ -40,7 +40,7 @@
 
 ### Como eu posso remover um site da megathread?
 
-- A forma preferida de relatar conteúdo é através de um e-mail para [dmca@pirataria.link](mailto:dmca@pirataria.link) ou [abuse@pirataria.link](mailto:abuse@pirataria.link) Ao enviar um e-mail, por favor descreva brevemente por que o material relatado deve ser removido.
+- A forma preferida de relatar conteúdo é por um e-mail para [dmca@pirataria.link](mailto:dmca@pirataria.link) ou [abuse@pirataria.link](mailto:abuse@pirataria.link) Ao enviar um e-mail, por favor descreva brevemente por que o material relatado deve ser removido.
 - Após enviar seu relatório, por favor, não espere uma resposta por escrito. Todos os relatórios serão investigados e tratados de acordo, mas devido a recursos humanos limitados e à possibilidade de relatórios duplicados, normalmente não conseguimos encontrar tempo para mantê-lo atualizado sobre o status dos seus relatórios.
 
 ---

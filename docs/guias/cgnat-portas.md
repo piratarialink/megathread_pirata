@@ -58,7 +58,7 @@ Abaixo exemplo de CGNAT. Os IPs são diferentes:
 
 ![Site Meu IP](./images/cgnat-portas-8.png)
 
-Em uma rede CGNAT o alocação de portas para os clientes pode ocorrer de duas formas: dinâmica ou estática. Normalmente o provedor que define.
+Em uma rede CGNAT a alocação de portas para os clientes pode ocorrer de duas formas: dinâmica ou estática. Normalmente o provedor que define.
 
 ## Dinâmica:
 
@@ -72,7 +72,7 @@ Por questões de registro de log é o mais usado e o provedor define quais porta
 - Cliente 2 pode suar portas 30601 a 30800;
 - E assim por diante.
 
-Se estiver em CGNAT ligue em seu provedor e peça sua faixa de portas. Diga que tentou abrir a porta de todas as formas e não conseguiu. Se pegar um atendente que manja, dirá pra vc se as portas são dinâmicas ou estáticas (a maioria não entende porcaria nenhuma).
+Se estiver em CGNAT ligue em seu provedor e peça sua faixa de portas. Diga que tentou abrir a porta de todas as formas e não conseguiu. Se pegar um atendente mais entendido, dirá para você se as portas são dinâmicas ou estáticas (a maioria entende nada.)
 
 Talvez tenha que ligar umas 10x vezes ou mais... não desista! No geral eles não passam essas informações assim que solicitam.
 Se passarem sua faixa de porta, ex, 30401 a 30600, escolha uma porta dentro da faixa indicada pelo provedor, configure o cliente torrent para usar essa porta e abra no roteador.

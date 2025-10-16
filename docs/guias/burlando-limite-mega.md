@@ -55,6 +55,6 @@ No campo, coloque os proxies no formato pedido e salve.
 
 Após clique em "File" -> "New download" e cole o link do Mega. O link será adicionado à lista de Downloads. Após isso, basta esperar até a conclusão do download.
 
-Além dos proxy voce pode utilizar mais de uma conta para fazer os Downloads!
+Além dos proxies você pode usar mais de uma conta para fazer os Downloads!
 
 Guia feito por [Wandrey](https://lemmy.eco.br/u/wandrey)

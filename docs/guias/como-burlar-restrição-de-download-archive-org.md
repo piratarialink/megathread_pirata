@@ -11,17 +11,17 @@ description: "Baixando livros com restrição do Archive.org"
 
 ## Primeiro passo
 
-Faca login/crie sua conta no Archive.org e certifique-se de clicar no botão "Borrow for 1 hour".
+Faça login/crie sua conta no Archive.org e certifique-se de clicar no botão "Borrow for 1 hour".
 
 ![](./images/como-burlar-restrição-de-download-archive-org-2.png)
 
-Após clicar você terá acesso a esse livro por 1h ou 14 dias a depender do livro, fazer isso é **OBRIGATÓRIO** pois caso não pegue esse livro "emprestado" o tutorial vai dar **ERRADO**!!!
+Após clicar você terá acesso a esse livro por 1h ou 14 dias a depender do livro, fazer isso é **OBRIGATÓRIO**, pois caso não pegue esse livro "emprestado" o tutorial vai dar **ERRADO**!!!
 
 ## Segundo passo
 
-Irei usar a url do livro de exemplo: https://archive.org/details/engineeringillus0000tomj, precisaremos do identificador do livro e existe duas formas de pegar ele.
+Irei usar a url do livro de exemplo: https://archive.org/details/engineeringillus0000tomj, precisaremos do identificador do livro e existem duas formas de pegar ele.
 
-A primeira forma é pegando texto após o /details/ ou indo no link e procurando por _**Identifier**_ nas propiedades do livro, como mostra a imagem abaixo:
+A primeira forma é pegando texto após o /details/ ou indo no link e procurando por _**Identifier**_ nas propriedades do livro, como mostra a imagem abaixo:
 
 ![](./images/como-burlar-restrição-de-download-archive-org-3.png)
 
@@ -39,16 +39,16 @@ E nesse XXXXXXXXXXX vamos colocar o _identifier_ do livro, que no caso de exempl
 https://archive.org/services/loans/loan/?action=media_url&identifier=engineeringillus0000tomj&format=pdf&redirect=1
 ```
 
-Se navegar por essa url ela vai retornar um arquivo com extensao .acsm, bem provavel que tenha o nome URLLink.acsm. Baixe ele no seu dispositivo e guarde, vamos precisar dele!
+Se navegar por essa url ela vai retornar um arquivo com extensão .acsm, bem provável que tenha o nome URLLink.acsm. Baixe ele no seu dispositivo e guarde, vamos precisar dele!
 
-> Caso venha um mensagem json {"error":"Request is not authorized."} significa que voce nao está logado ou nao pegou o livro emprestado!
+> Caso venha uma mensagem json {"error":"Request is not authorized."} significa que você não está logado ou não pegou o livro emprestado!
 
 ## Quarto passo
 
-Após ter baixado o arquivo com extensão .acsm vamos converte-lo para PDF ou EPUB!
+Após ter baixado o arquivo com extensão .acsm vamos convertê-lo para PDF ou EPUB!
 
 Acesse o site [acsmconverter](https://www.acsmconverter.com/)e faça a conversão, clique em _select files_, após clique em converter e por fim faça o download.
 
-> Lembrando que você pode conseguir converter pra outros tipos de arquivo, mas os que eu testei e deu certo foi PDF e EPUB.
+> Lembrando que você pode conseguir converter para outros tipos de arquivo, mas os que testei e deu certo foi PDF e EPUB.
 
 Guia feito por [u/wandrey](https://lemmy.eco.br/u/wandrey)

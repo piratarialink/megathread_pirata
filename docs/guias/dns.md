@@ -85,7 +85,7 @@ A alteração do DNS no Windows afeta todo o sistema – todos os navegadores e 
 
 ## 3 - Configurando o DNS no Android:
 
-A configuração do DNS no Android pode variar conforme a interface – seja a One UI da Samsung, o HyperOS da Xiaomi ou versões mais próximas do Android puro. A seguir, detalhamos dois métodos usando o endereço DNS Over TLS, que é o Hostname DoT ao invés do IPv4 ou IPv6 usado no Windows, nesse caso, `dns.adguard-dns.com` ou `security.cloudflare-dns.com`.
+A configuração do DNS no Android pode variar conforme a interface – seja a One UI da Samsung, o HyperOS da Xiaomi ou versões mais próximas do Android puro. A seguir, detalhamos dois métodos usando o endereço DNS Over TLS, sendo o Hostname DoT ao invés do IPv4 ou IPv6 usado no Windows, nesse caso, `dns.adguard-dns.com` ou `security.cloudflare-dns.com`.
 
 **BÔNUS**: Configuração no HyperOS (Xiaomi):
 
