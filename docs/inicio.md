@@ -99,7 +99,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
 ### ⚙️ [Softwares](softwares.md)
 
-- Software é uma coleção de aplicações de computador junto com arquivos de suporte e informações voltadas mais para computadores de mesa.
+- Software é uma coleção de aplicações de computador com arquivos de suporte e informações voltadas mais para computadores de mesa.
 
 ### ⚽ [Esportes](esportes.md)
 
@@ -119,7 +119,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
 ### 🚫 [Adulto](adulto.md)
 
-- Entrando nessa seção, você concorda que é maior de 18 anos de idade.
+- Entrando nessa seção, você concorda que é maior de 18 anos.
 
 ---
 
