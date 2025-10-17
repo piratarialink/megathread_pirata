@@ -249,6 +249,11 @@ Software é uma coleção de softwares com arquivos de suporte e informações v
 
 ## 🔑 ➜ Keygens & Serials
 
+### 🌟 [Keygens.md](https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Keygens.md)
+
+- Lista do github que abrange todos os sites em atividade, também informa se determinado endereço está offline ou não.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
 ### 🔗 [MiniDL.org](https://minidl.org/) - Windows & MacOS.
 
 - Windows & MacOS, recomendamos que leia o trecho sobre [burladores de links premium](https://pirataria.link/ferramentas#%E2%96%BA-burladores-de-links-premium) para baixar do nitroflare ou rapidgator.
@@ -256,12 +261,12 @@ Software é uma coleção de softwares com arquivos de suporte e informações v
   
 ### 🔗 [SerialShack](https://www.serialshack.com/) 
 
-- Um dos sites mais antigos de serials ainda online.
+- Um dos sites mais antigos de serials ainda online. Novos links de download são adicionados todos os dias junto com um arquivo .NFO ou Patcher de grupos da cena.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/www.serialshack.com/)
   
 ### 🔗 [SmartSerials](https://smartserials.com/) 
 
-- Antigo fórum que passou a ser indexador de serials.
+- Antigo fórum que passou a ser indexador de serials. Grande base de usuários e fonte de pesquisa.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/smartserials.com/)
   
 ## 🔍 ➜ Buscadores
