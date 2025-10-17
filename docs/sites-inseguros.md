@@ -100,6 +100,7 @@
 | 💩 Cybermania                  | cybermania-ws                              | **Comportamento antiético** (_Inserção de trojan de acesso remoto de forma planejada_).                                   |
 | Sample Drive                   | sampledrive-in                             | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                                      |
 | VFXdownload                    | vfxdownload-com                            | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                                      |
+| Motka                   | motka-net                             | **Comportamento antiético** (_Inserção de keyloggers de forma planejada_).                                      |
 | VFXDownloads                   | vfxdownloads-net                           | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                                      |
 | 💩 µTorrent                    | utorrent-com                               | **Bundleware** (_Empacotou um minerador de criptomoedas em 2015_)                                                         |
 | GetIntoPC / GetIntoMAC         | getintopc-com / getintomac-com             | **Vírus** (_Detectado com malware, responsável por inúmeros casos de malware_).                                           |
