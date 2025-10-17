@@ -216,11 +216,6 @@ Software é uma coleção de softwares com arquivos de suporte e informações v
 - Dedicado a ajudá-lo a obter predefinições de lightroom premium, luts, ações de photoshop e uma infinidade de outros materiais de design.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/freepreset.net/)
 
-### 🔗 [motka](https://motka.net/)
-
-- Projetado para fornecer ferramentas gratuitas de alta qualidade para designers, incluindo LUTs, mecanismos de som, software Adobe e plug-ins.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/motka.net/)
-
 ### 🔗 [PSD Keys](https://psdkeys.com/)
 
 - Templates para flyers, mockups para Photoshop, e quantidade enorme de tutoriais.
