@@ -83,11 +83,16 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Repleto de filmes, séries, doramas, animes e canais de TV, tudo de graça. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
 
+### ▶️ [Supeflix](https://superflix1.cloud/)
+
+- Fonte para muitos filmes e séries do Betterflix.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/superflix1.cloud)
+
 ## 🆎 Legendados
 
 ### 🌟 [MovieMaze](https://moviemaze.cc/)
 
-- Moviemaze aparentemente comprou o Freek.to
+- O MovieMaze aparentemente comprou o Freek.to
 - Infinidade de filmes, séries e animes. Aceita legenda que vc baixou de outros sites.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/moviemaze.cc/)
 
