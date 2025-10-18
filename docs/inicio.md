@@ -99,7 +99,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
 ### ⚙️ [Softwares](softwares.md)
 
-- Software é uma coleção de aplicações de computador com arquivos de suporte e informações voltadas mais para computadores de mesa.
+- Coleção de aplicações com arquivos de suporte e informações voltadas mais para computadores de mesa.
 
 ### ⚽ [Esportes](esportes.md)
 
