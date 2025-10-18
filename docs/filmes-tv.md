@@ -78,6 +78,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
 
+### ▶️ [Betterflix](https://betterflix.vercel.app/)
+
+- Repleto de filmes, séries, doramas, animes e canais de TV, tudo de graça. 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
+
 ## 🆎 Legendados
 
 ### 🌟 [MovieMaze](https://moviemaze.cc/)
