@@ -28,7 +28,7 @@
 
 - Baixe softwares apenas de fontes confiáveis e oficiais. Estas fontes podem ser encontradas na Megathread do nosso subreddit.
 - Mantenha um antivírus atualizado para detectar possíveis ameaças. Alguns softwares piratas podem conter malware, e um antivírus eficiente pode ajudar a identificá-los. O próprio Windows Defender da Microsoft já basta. [Leitura importante](/util/antivírus).
-- Antes de baixar qualquer software, **pesquise sobre o site em que irá baixar o software no reddit**, e preferencialmente procure saber se o site se encontra na Megathread.
+- Antes de baixar qualquer software, **pesquise sobre o site em que irá baixar o programa no reddit**, e preferencialmente procure saber se o site se encontra na Megathread.
 - Se possível, confirme a autenticidade do arquivo comparando checksums ou hashes fornecidos pelo site oficial com os do arquivo que você baixou.
 - Mantenha todos os softwares, incluindo o sistema operacional e programas piratas, atualizados. As atualizações muitas vezes corrigem vulnerabilidades de segurança.
 - Se você deseja testar um software pirata, considere fazê-lo em uma máquina virtual. Isso isola o sistema principal de possíveis ameaças.
