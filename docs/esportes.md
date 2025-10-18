@@ -111,6 +111,10 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - Transmite partidas ao vivo de futebol do Brasil e de outros países com narração em português brasileiro.
 
+### 🔗 [OnePlay](https://github.com/OnePlayHD/OneRepo)
+
+- Atua exclusivamente como um agregador de canais esportivos de TV (e filmes dublados), na maior parte do tempo gratuito e sem propagandas.
+
 ### 🔗 [F1 Rewind](https://mylostsoulspace.co.uk/repo)
 
 - Add-on do Kodi de reprises da F1TV localizado no repositório do grupo Z3R0. Mesmo método de instalação do Brazuca Play.
