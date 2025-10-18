@@ -1,6 +1,6 @@
 # ⚙️ ➜ Softwares
 
-Software é uma coleção de arquivos de suporte e informações voltadas mais para computadores de mesa.
+Coleção de aplicações com arquivos de suporte e informações voltadas mais para computadores de mesa.
 
 :::warning ⚠️ Aviso Rápido
 
