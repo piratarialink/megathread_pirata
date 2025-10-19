@@ -108,8 +108,6 @@ Aqui está uma compilação de _bookmarks_ e coisas úteis para privacidade e se
 
 - [Diolinux](https://plus.diolinux.com.br/) - Fórum e canal do YouTube que difunde o uso de Linux no Brasil.
 
-- [Goodreads](https://www.goodreads.com/) - Pense nesse site da seguinte maneira: uma espécia de "reclame aqui" para livros, com diálogo aberto e avaliações.
-
 ### Menção honrosa
 
 - Lista feita a partir do modelo do [u/mkoreddit.](https://www.reddit.com/user/mkoreddit/)
