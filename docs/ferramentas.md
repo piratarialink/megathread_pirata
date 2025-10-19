@@ -94,7 +94,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - **[Trialware]** [CrossOver](https://www.codeweavers.com/crossover) - Faz o papel de rodar jogos do Windows no MacOS.
 - **[Trialware]** [AIDente](https://apphousekitchen.com/) - Aumenta a vida útil da bateria do MacBook.
 - **[Pago]** [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - Limita o uso da Internet e envio de dados para servidores específicos.
-- [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Para Macs antigos que não suportam a versão atual do sistema.
+- [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Para iMacs antigos que não suportam a versão mais atual do sistema.
 
 ## ► **Adblockers & Bypassers**
 
