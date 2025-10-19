@@ -64,7 +64,7 @@ Aqui está uma compilação de _bookmarks_ e coisas úteis para privacidade e se
 
 - [Canta - Uninstall any app without root!](https://f-droid.org/en/packages/org.samo_lego.canta/) - Canta permite que você desinstale qualquer aplicativo do seu dispositivo, mesmo se você não tiver acesso root. Precisa ser usado com o [Shizuku.](https://shizuku.rikka.app/)
 
-- [Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - Um cliente Reddit focado na privacidade para Android.
+- [Continuum](https://github.com/cygnusx-1-org/continuum) - Para quem quiser usar Reddit sem conta, e sem aquele app LIXOSO; baixe o [Obtainium](https://github.com/ImranR98/Obtainium) também (para atualizar automaticamente do GitHub).
 
 - [FFUpdater](https://github.com/Tobi823/ffupdater) - Update para navegador amigável à privacidade.
 
