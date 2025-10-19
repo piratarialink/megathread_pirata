@@ -467,7 +467,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 - [Rclone](https://github.com/rclone/rclone) - Responsável por transferir seus saves de jogos crackeados para a nuvem. Funciona como CLI apenas.
 - [ProtonDB](https://www.protondb.com/) - Banco de relatórios de jogos que rodam e não rodam em distros Linux. [Leitura interessante](https://plus.diolinux.com.br/t/execute-jogos-windows-no-linux-com-o-proton-da-steam/38745)
-- [Better xCloud](https://github.com/redphx/better-xcloud) - Userscript para melhorar a jogatina da Xbox Cloud e da Remote Play em navegadores.
+- [Better xCloud](https://github.com/redphx/better-xcloud) - Userscript para melhorar a jogatina do Xbox Cloud (Xbox Game Pass) e da Remote Play em navegadores.
 - [Smart Online Fix](https://github.com/BadKiko/steam-online-fix-launcher) - Ferramenta para iniciar e organizar jogos do online-fix-me no Linux.
 
 #### ► **Ferramentas para Steam**
