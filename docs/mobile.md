@@ -23,7 +23,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [App Manager](https://muntashirakon.github.io/AppManager/en/)
 
-- Gerenciador de pacotes do Android, oferece uma gama de recursos para **usuários com root**. Pode gerir permissões de apps e bloquear anúncios direto do componente-fonte.
+- Gerenciador de pacotes do Android, oferece uma gama de recursos para usuários com root e sem por meio do wireless debugging. Pode gerir permissões de apps, bloquear anúncios direto do componente-fonte e validar checksums.
 
 ### 🔗 [Gbox](https://www.gboxlab.com/)
 
