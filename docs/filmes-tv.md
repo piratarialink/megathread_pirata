@@ -325,11 +325,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Cliente do Jellyfin para gerenciar arquivos com facilidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🔗 [Comp Study](https://apps.apple.com/br/app/comp-study/id6742147905)
-
-- Biblioteca de filmes e séries para assistir no IOS.
-- [Alternativas para o Android.](outros/compstudy)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apps.apple.com/)
+[Outros apps para assistir filmes e séries aqui.](outros/filmesmobile)
 
 ## 🧵 Torrents
 
