@@ -20,8 +20,8 @@ Aqui está uma compilação de _bookmarks_ e coisas úteis para privacidade e se
 
 - [ShareX](https://getsharex.com/) - Alternativa melhor que o programa de captura de tela.
 
-- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Vários recursos interessantes da Microsoft que não são implementados no Windows.
-
+- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Vários recursos interessantes da Microsoft que não são implementados no Windows por padrão.
+ 
 - [KDE Connect](https://kdeconnect.kde.org/) - Uma forma de conectar seu smartphone e computador sem usar a ferramenta Link to Windows da Microsoft (já houve momentos em que as versões para Windows deste aplicativo não reconheciam nada, sua experiência pode variar).
 
 - [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - para limpar os drivers NVIDIA.
