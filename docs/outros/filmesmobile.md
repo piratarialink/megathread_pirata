@@ -1,4 +1,4 @@
-Aplicativos do tipo "Comp Study" para Android:
+Alguns aplicativos para assistir filmes e séries no Android:
 
 - Ford Browser
 - NinjaGO
