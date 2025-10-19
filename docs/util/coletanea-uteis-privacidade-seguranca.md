@@ -1,7 +1,7 @@
 # 📑 ➜ Coletânea de coisas úteis para privacidade e segurança
 ‎ 
 ‎ 
-Aqui está uma coletânea de coisas úteis para privacidade e segurança que fui acumulando com o tempo.
+Aqui está uma compilação de _bookmarks_ e coisas úteis para privacidade e segurança que fui acumulando com o tempo.
 ‎ 
 
 ---
@@ -105,6 +105,8 @@ Aqui está uma coletânea de coisas úteis para privacidade e segurança que fui
 - [SoloLearn](https://sololearn.org) - É praticamente um duolingo só que voltado para linguagens de programação. Disponível para Android e IOS.
 
 - [Diolinux](https://plus.diolinux.com.br/) - Fórum e canal do YouTube que difunde o uso de Linux no Brasil.
+
+- [Goodreads](https://www.goodreads.com/) - Pense nesse site da seguinte maneira: uma espécia de "reclame aqui" para livros, com diálogo aberto e avaliações.
 
 ### Menção honrosa
 
