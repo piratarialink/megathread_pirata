@@ -85,7 +85,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 - 🌟 [**FMHY - Hackintosh**](https://fmhy.net/system-tools#hackintosh) - Algumas recomendações úteis.
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Instale o MacOS em hardwares que não pertencem à Apple. [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
-- [PKGs do Appstorrent](https://appstorrent.ru/os/) - Mesmo conceito do gibMacOS: imagens de diferentes versões do Mac para criar pendrives bootáveis com hackintosh.
+- [PKGs do Appstorrent](https://appstorrent.ru/os/) - Mesmo conceito do gibMacOS: imagens de diferentes versões do Mac para criar pendrives bootáveis com hackintosh (pelo menos de versões que ainda suportam processador da intel).
 - [Pacotes do Office para Mac](https://massgrave.dev/office_for_mac) - Página bem organizada para downloads de imagens do Office para Mac.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
 - [UTM](https://github.com/utmapp/UTM/releases) - VM multiplataforma.
