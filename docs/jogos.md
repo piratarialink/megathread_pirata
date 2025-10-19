@@ -354,12 +354,12 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🌟 [FitGirl Repacks](https://fitgirl-repacks.site/)
 
-- O Launcher nascido na Rússia evoluiu nos últimos anos de um arquivista doméstico para o Repacker mais conhecido da web.
+- Um launcher que nasceu na Rússia e que depois evoluiu nos últimos anos de um arquivista doméstico para a "magrinha" mais conhecida da web.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fitgirl-repacks.site/)
 
 ### 🌟 [Ecológica Verde](https://bsky.app/profile/ecologica.bsky.social)
 
-- Perfil que divulga links confiáveis para jogos via torrent, também possui um grupo no discord bem movimentado.
+- Perfil que divulga links confiáveis para jogos via torrent, também possui um grupo no discord bem ativo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/x.com/)
 
 ### 🌟 [Steam Verde](https://steamverde.net/)
