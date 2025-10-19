@@ -203,7 +203,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 :::info Nota: 
 
-**uTorrent [empacotou um minerador de bitcoin opcional e não malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880). A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.**
+**uTorrent [empacotou um minerador de bitcoin opcional e não malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880), numa tentativa de praticar _cryptojacking_. A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.**
 :::
 
 :::warning Cliente torrent Bitlord [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
