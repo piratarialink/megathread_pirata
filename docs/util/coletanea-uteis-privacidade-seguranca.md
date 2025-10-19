@@ -62,7 +62,7 @@ Aqui está uma compilação de _bookmarks_ e coisas úteis para privacidade e se
 
 - [F-Droid](https://f-droid.org/) - F-Droid é um catálogo instalável de aplicativos FOSS (software gratuito e de código aberto) para a plataforma Android. O cliente facilita navegar, instalar e acompanhar atualizações em seu dispositivo.
 
-- [Canta - Uninstall any app without root!](https://f-droid.org/en/packages/org.samo_lego.canta/) - Canta permite que você desinstale qualquer aplicativo do seu dispositivo, mesmo se você não tiver acesso root. Precisa ser usado com o [Shizuku.](https://shizuku.rikka.app/)
+- [Canta - Uninstall any app without root!](https://f-droid.org/en/packages/org.samo_lego.canta/) - Canta permite que você desinstale qualquer aplicativo do seu dispositivo, mesmo se você não tiver acesso root. Precisa ser usado com o [Shizuku.](https://shizuku.rikka.app/). Especialmente bom para aqueles aplicativos empurrados pela operadora e que não servem para nada (SIM Toolkit).
 
 - [Continuum](https://github.com/cygnusx-1-org/continuum) - Para quem quiser usar Reddit sem conta, e sem aquele app LIXOSO; baixe o [Obtainium](https://github.com/ImranR98/Obtainium) também (para atualizar automaticamente do GitHub).
 
