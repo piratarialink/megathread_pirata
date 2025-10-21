@@ -52,13 +52,13 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 ### Coisas baseadas em hardware
 
-- [Yubikey](https://www.yubico.com/products/) - O YubiKey é um dispositivo de autenticação de hardware fabricado pela Yubico para proteger o acesso a computadores, redes e serviços online que suporta senhas de uso único (OTP), criptografia de chave pública e autenticação, e os protocolos Universal 2nd Factor (U2F) e FIDO2 desenvolvido pela Aliança FIDO.
+- [Yubikey](https://www.yubico.com/products/) - O YubiKey é um dispositivo de autenticação de hardware fabricado pela Yubico para proteger o acesso a computadores, redes e serviços online que suportam senhas de uso único (OTP), criptografia de chave pública e autenticação, e os protocolos Universal 2nd Factor (U2F) e FIDO2 desenvolvido pela Aliança FIDO.
 
 - [Nitrokeys](https://www.nitrokey.com/products/nitrokeys) - Uma alternativa ao Yubikey.
 
 - [Pi-hole](https://pi-hole.net/) - Um buraco negro para anúncios na Internet.
 
-- [Nextcloud](https://nextcloud.com/) - Nextcloud é um software cliente-servidor para criar e usar serviços de hospedagem de arquivos. Nextcloud oferece funcionalidade semelhante ao Dropbox, Office 365 ou Google Drive quando usado com suítes de escritório integradas Collabora Online ou OnlyOffice. Ele pode ser hospedado na nuvem ou no local.
+- [Nextcloud](https://nextcloud.com/) - Nextcloud é um software client-server para criar e usar serviços de hospedagem de arquivos. Nextcloud oferece funcionalidade semelhante ao Dropbox, Office 365 ou Google Drive quando usado com suítes de escritório integradas Collabora Online ou OnlyOffice. Ele pode ser hospedado na nuvem ou localmente (HD, SSD, NVMe).
 
 ### Android
 
@@ -72,7 +72,7 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [Aegis](https://github.com/beemdevelopment/Aegis) - Um aplicativo gratuito, seguro e de código aberto para Android para gerenciar seus tokens de verificação em duas etapas.
 
-### Coisas para o YouTube
+### YouTube
 
 - [enhanced-h264ify](https://github.com/alextrv/enhanced-h264ify) - Torna os vídeos compatíveis com h.264, o que pode diminuir o consumo de RAM e puxa menos do processador em comparação com o codec original que o YouTube usa.
 
@@ -96,7 +96,7 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [Tenacity](https://tenacityaudio.org) -Tenacity é um editor de áudio multipista multiplataforma, fácil de usar e com privacidade, FLOSS, para Windows, macOS, Linux e outros sistemas operacionais.
 
-- [Mullvad Browser](https://mullvad.net/pt/browser) - Mullvad Browser é uma versão do Tor Browser com integrações de rede Tor removidas, visando fornecer tecnologias de navegador anti-impressão digital do Tor Browser para usuários VPN. É desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
+- [Mullvad Browser](https://mullvad.net/pt/browser) - Mullvad Browser é uma versão do Tor Browser com integrações da rede onion removidas, visando fornecer tecnologias de navegador anti-fingerprint do Tor Browser para os usuários. É desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
 
 - [Librewolf](https://librewolf.net/) - Uma versão personalizada do Firefox, focada em privacidade, segurança e liberdade.
 
