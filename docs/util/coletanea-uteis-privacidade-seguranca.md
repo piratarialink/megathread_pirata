@@ -1,9 +1,9 @@
-# 📑 ➜ Coletânea de coisas úteis para privacidade e segurança
+# 📑 ➜ Coletânea de coisas úteis
 ‎ 
 ‎ 
 ‎ 
 
-Aqui está uma compilação de _bookmarks_ e coisas úteis para privacidade e segurança que fui acumulando com o tempo.
+Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e coisas úteis para quase tudo.
 ‎ 
 
 ---
