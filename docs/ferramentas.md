@@ -149,7 +149,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium
 - **[Pago]** [Linksnappy](https://linksnappy.com/) - Agregador de conteúdo que permite extrair arquivos de vários serviços de armazenamento em nuvem.
 
-## ► Sites de rastreamento de cena / P2P
+## ► Sites de rastreamento da cena / P2P
 
 Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritamente como quadros de avisos e não oferecem downloads de nenhum conteúdo postado. [Guia](guias/lancamentos-predbs.md) / [Regras](https://scenerules.org/)
 
