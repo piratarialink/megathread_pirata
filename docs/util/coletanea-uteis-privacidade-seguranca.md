@@ -72,6 +72,16 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [Aegis](https://github.com/beemdevelopment/Aegis) - Um aplicativo gratuito, seguro e de código aberto para Android para gerenciar seus tokens de verificação em duas etapas.
 
+### Coisas para o YouTube
+
+- [enhanced-h264ify](https://github.com/alextrv/enhanced-h264ify) - Torna os vídeos compatíveis com h.264, o que pode diminuir o consumo de RAM e puxa menos do processador em comparação com o codec original que o YouTube usa.
+
+- [BlockTube](https://github.com/amitbl/blocktube) - Impede que yt shorts e vídeos com menos de mil views apareçam no seu feed principal.
+
+- [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Salta os anúncios que os youtubers colocam no vídeo, usar com o [Return Youtube Dislike](https://github.com/Anarios/return-youtube-dislike).
+
+- [YouTube No Translation](https://github.com/YouG-o/YouTube_No_Translation) - Bloqueia traduções simultâneas da dublagem do YouTube.
+
 ### Serviços focados em privacidade e segurança
 
 - [Proton](https://proton.me/) - O Proton fornece e-mail criptografado, calendário, armazenamento de arquivos e VPN fáceis de usar, baseados no princípio de seus dados, suas regras. Sua privacidade é garantida por criptografia forte, código-fonte aberto e leis de privacidade suíças.
@@ -90,7 +100,7 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [Librewolf](https://librewolf.net/) - Uma versão personalizada do Firefox, focada em privacidade, segurança e liberdade.
 
-### Coisa útil
+### Extremamente útil
 
 - [2fa.directory](https://2fa.directory/int/) - Fonte independente de informações sobre quais serviços suportam MFA/2FA.
 
