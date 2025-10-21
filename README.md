@@ -24,7 +24,8 @@ Nossa comunidade é bem-vinda para contribuir na manutenção e atualização da
 7. Evite causar danos para minorias, como desenvolvedores de jogos indies, por exemplo.
 8. Verificar os sites e links antes de enviar o pull request, por exemplo, reputação do site (procurar no Reddit e outras redes), idade do domínio, etc.
 9. O site não pode conter avisos no [URL Void](https://www.urlvoid.com/), se o site tiver falso positivos explique por que é um falso positivo.
-
+10. Lembre-se de atualizar o seu fork quando for contribuir novamente para não causar problemas na megathread.
+    
 Agradecemos a participação de todos na construção e manutenção de nossa megathread.
 
 ## Recursos usados
