@@ -50,6 +50,17 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Você pode tentar obter um convite em [nosso grupo do telegram.](https://t.me/trackerslist)
 - [Resultados de segurança da URL](https://clubedodual.com/)
 
+### ▶️ [Betterflix](https://betterflix.vercel.app/)
+
+- Repleto de filmes, séries, doramas, animes e canais de TV, tudo de graça.
+- Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
+
+### ▶️ [Superflix](https://superflix1.cloud/)
+
+- Fonte para muitos filmes e séries do Betterflix.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/superflix1.cloud)
+
 ### ▶️ [GoFlix](https://goflixy.lol/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/goflix.lol/)
@@ -81,17 +92,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [Pobreflix](https://pobreflixtv.cc/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
-
-### ▶️ [Betterflix](https://betterflix.vercel.app/)
-
-- Repleto de filmes, séries, doramas, animes e canais de TV, tudo de graça.
-- Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
-
-### ▶️ [Superflix](https://superflix1.cloud/)
-
-- Fonte para muitos filmes e séries do Betterflix.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/superflix1.cloud)
 
 ## 🆎 Legendados
 
