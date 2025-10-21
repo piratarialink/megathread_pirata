@@ -14,7 +14,7 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 - [Como verificar um arquivo no Virus Total corretamente](guias/virustotal) - Feito por [u/Heus-Sueh](https://phtn.app/u/Heus_Sueh@lemmy.dbzer0.com)
 
-- [Coletânea de coisas úteis para privacidade e segurança](util/coletanea-uteis-privacidade-seguranca.md) - Feito por [u/Broering](https://phtn.app/u/broering@lemmy.eco.br)
+- [Coletânea de coisas úteis](util/coletanea-uteis-privacidade-seguranca.md) - Feito por [u/Broering](https://phtn.app/u/broering@lemmy.eco.br)
 
 - [Porque é que não se pode confiar no Discord](outros/discord) - Traduzido por [u/Broering](https://phtn.app/u/broering@lemmy.eco.br)
 

@@ -81,6 +81,12 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/q1n.net/)
 
+### ▶️ [Betterflix](https://betterflix.vercel.app/)
+
+- Repleto de animes, na maior qualidade possível com os recém lançamentos.
+- Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
+
 ### 📥 ➜ Download Direto
 
 ---

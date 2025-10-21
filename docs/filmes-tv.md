@@ -80,7 +80,8 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [Betterflix](https://betterflix.vercel.app/)
 
-- Repleto de filmes, séries, doramas, animes e canais de TV, tudo de graça. 
+- Repleto de filmes, séries, doramas, animes e canais de TV, tudo de graça.
+- Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
 
 ### ▶️ [Superflix](https://superflix1.cloud/)
@@ -246,6 +247,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Uma variedade de séries de TV, filmes, animes e documentários aclamados sem nenhum custo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/yassflix.net/)
 
+### ▶️ [Betterflix](https://betterflix.vercel.app/)
+
+- Repleto de filmes, séries, doramas, animes e canais de TV, tudo de graça. Dublado e Legendado.
+- Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
+
 ## 📺️ TV
 
 ### 🌟 [Rede Canais TV](https://redecanaistv.gl/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/)
@@ -312,6 +319,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Agregação em massa de listas de IPTV gratuitas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 📺️ [Betterflix](https://betterflix.vercel.app/)
+
+- Vários canais ao vivo, de várias categorias pra você escolher.
+- Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
   
 ## 📱 Celular
 
