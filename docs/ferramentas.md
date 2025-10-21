@@ -61,7 +61,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 - 🌟 [**WinBoat**](https://github.com/TibixDev/winboat) - O WinBoat é uma versão mais polida e melhorada do Wine, pode rodar programas dedicados ao Windows em um contâiner sem baixar o sistema operacional da microsoft por completo.
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de ISOs customizadas upadas todos os dias.
-- [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor pessoal eficaz e protegido (sendo Debian a melhor distro para essa função).
+- [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor doméstico eficaz e protegido (sendo Debian a melhor distro para essa função).
 - [Linux4Noobs](https://github.com/he4rt/4noobs) - Projeto desenvolvido pela comunidade brasileira He4rtLabs.
 - [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) / [GNOME Store](https://store.gnome.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um tema GTK3/GTK4 aprovado pela comunidade.
 - [Guia Foca](https://www.guiafoca.org/) - Passo-a-passo feito por um entusiasta brasileiro tendo em mente novos e antigos usuários.
