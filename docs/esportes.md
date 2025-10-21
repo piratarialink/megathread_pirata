@@ -51,6 +51,12 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cxtv.com.br/)
 
+### 📺️ [Betterflix](https://betterflix.vercel.app/)
+
+- Transmissões ao vivo de jogos de futebol, temos várias opções de canais.
+- Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
+
 ## 🏟 **Reprises**
 
 ### 🌟 [VK Video](https://m.vkvideo.ru/)
