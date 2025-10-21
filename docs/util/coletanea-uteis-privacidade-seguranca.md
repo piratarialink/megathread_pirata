@@ -76,7 +76,7 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [enhanced-h264ify](https://github.com/alextrv/enhanced-h264ify) - Torna os vídeos compatíveis com h.264, o que pode diminuir o consumo de RAM e puxa menos do processador em comparação com o codec original que o YouTube usa.
 
-- [BlockTube](https://github.com/amitbl/blocktube) - Impede que yt shorts e vídeos com menos de mil views apareçam no seu feed principal.
+- [BlockTube](https://github.com/amitbl/blocktube) - Impede que yt shorts e vídeos com menos de mil visualizações apareçam no seu feed principal. Também esconde canais por nome e ID.
 
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Salta os anúncios que os youtubers colocam no vídeo, usar com o [Return Youtube Dislike](https://github.com/Anarios/return-youtube-dislike).
 
