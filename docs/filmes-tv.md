@@ -278,8 +278,8 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [Multicanais](https://multicanais.legal/) / [2](https://multicanais.forum/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
 - Oferece Canais ao vivo
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
 
 ### 📺️ [EmbedCanais](https://embedcanais.com/)
 
