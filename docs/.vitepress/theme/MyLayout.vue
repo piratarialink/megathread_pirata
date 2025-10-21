@@ -24,7 +24,7 @@ function closeBanner() {
               <rect width="260.474" height="260.474" x="486.185" y="332.836" opacity=".4" rx="43.06" style="stroke-width:.920077" transform="rotate(7.911)"></rect>
             </svg>
             <span class="banner-text">
-              Continue usando seu PC após o término do suporte do Windows 10 agora em outubro.
+              Continue usando seu PC após o término do suporte do Windows 10.
               <strong>Visite endof10.org/pt-br</strong>
             </span>
           </a>
