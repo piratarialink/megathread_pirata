@@ -31,7 +31,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [Seu Seriado](https://seuseriados.com/)
 
-- Assista as melhores séries gratuitamente sem a necessidade de cadastro.
+- Assista as melhores séries gratuitamente sem a necessidade de cadastro. Praticamente zero buffering.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/seuseriados.com/)
 
 ### 🌟 [Cineby](https://www.cineby.app/)
@@ -41,7 +41,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [NetCine](https://netcinex.si/)
 
-- Lançamentos com resolução 1080p, 720p ou até em HDCAM. Em caso de anti-adblock, use o PopUpOFF.
+- Lançamentos com resolução 1080p, 720p ou até em HD puro para blockbusters. Em caso de anti-adblock, use o PopUpOFF.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcinex.si/)
 
 ### ▶️ [Clube do Dual](https://clubedodual.com/index.php?app=core&module=system&controller=login)
@@ -49,6 +49,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Fórum de compartilhamento de faixas de dublagem em português brasileiro.
 - Você pode tentar obter um convite em [nosso grupo do telegram.](https://t.me/trackerslist)
 - [Resultados de segurança da URL](https://clubedodual.com/)
+
+### ▶️ [GoFlix](https://goflixy.lol/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/goflix.lol/)
 
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
 
@@ -104,7 +108,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [P-Stream](https://pstream.mov/)
 
-- Filmes e séries em 1080p ou em até 4k com o token do Real Debrid, extensão ou proxy personalizado.
+- Filmes e séries em 1080p ou em até 4k disponível com o token do Real Debrid, extensão ou proxy personalizado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pstream.mov/)
 
 ### 🌟 [Cinema Deck](https://cinemadeck.com/)
@@ -276,6 +280,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
 - Oferece Canais ao vivo
+
+### 📺️ [EmbedCanais](https://embedcanais.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/embedcanais.com/)
 
 ### 📺️ [NovelasFlix](https://novelasflixbr.net/)
 
