@@ -38,7 +38,7 @@ Não são grandes problemas. Não afetam como uso a aplicação no dia a dia. No
 
 Há mais provas de incompetência. Durante algum tempo tivemos registros de auditoria do servidor, que permitiam saber se alguém apagava uma mensagem - mas não se alguém utilizava o ponto final de apagar mensagens em massa. Isso não era registado de todo. Ops, agora é uma coisa, mas passamos pelo menos um ou dois anos sem isso. (https://cadence.moe/i/abc28e)
 
-O que a equipe tem feito em vez de corrigir esses problemas e fazer com que o aplicativo realmente pareça profissional? Têm estado [a alterar a interface do aplicativo móvel, claramente sem consultar as pessoas que realmente utilizam a aplicação, e toda mundo a odeia] (https://reddit.com/r/discordapp/comments/gdkzyn/introducing_tabs_to_android/). Oops.
+O que a equipe tem feito em vez de corrigir esses problemas e fazer com que o aplicativo realmente pareça profissional? Têm estado [a alterar a interface do aplicativo móvel, claramente sem consultar as pessoas que realmente utilizam a aplicação, e toda mundo a odeia](https://reddit.com/r/discordapp/comments/gdkzyn/introducing_tabs_to_android/), Oops.
 
 ## Acessibilidade
 
