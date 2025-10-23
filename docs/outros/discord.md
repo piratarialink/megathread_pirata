@@ -9,7 +9,7 @@ description: "Motivos do porque não se pode confiar no Discord"
 
 ## A minha perspectiva
 
-Aqui fica um pequeno resumo do meu ponto de vista. Juntei-me ao Discord em meados de 2016, bem no início da sua vida, e desde então tenho-o usado para fazer muitos amigos e lidar com tempos difíceis. Gostei de usar o Discord e vi-o introduzir muitas funcionalidades ao longo do tempo, como o novo menu de definições do servidor, as categorias de canais, as pastas do servidor, o registo de auditoria e as subscrições pagas, pelas quais paguei. Participei nos chats da API e desenvolvi vários bots, [um dos quais](https://amanda.moe/) tem estado em desenvolvimento ativo há 2 anos, está em 2200 servidores e a contar, e tem 466 horas de código da minha parte desde que comecei a contar em 2019, tudo feito sem qualquer ganho pessoal para mim. Tudo feito porque eu queria que as pessoas fossem felizes no Discord.
+Aqui fica um pequeno resumo do meu ponto de vista. Juntei-me ao Discord em meados de 2016, bem no início da sua vida, e desde então tenho-o usado para fazer muitos amigos e lidar com tempos difíceis. Gostei de usar o Discord e vi-o introduzir muitas funcionalidades ao longo do tempo, como o novo menu de definições do servidor, as categorias de canais, as pastas do servidor, o registo de auditoria e as subscrições pagas, pelas quais paguei. Participei nos chats da API e desenvolvi vários bots, [um dos quais](https://amanda.moe/) tem estado em desenvolvimento ativo há anos, está em 2200 servidores e contando, e tem 466 horas de código da minha parte desde que comecei a contar em 2019, tudo feito sem qualquer ganho pessoal para mim. Tudo feito porque eu queria que as pessoas fossem felizes no Discord.
 
 Eu gostava do Discord. Costumava considerar-me um fã do Discord. Mas agora, já não consigo esquecer os seus problemas.
 
@@ -78,7 +78,7 @@ Eu realmente odeio usar a frase “power trip”, realmente odeio, mas esta part
 
 [Funcionário da Discord Trust and Safety abusa do poder administrativo para ganho pessoal](https://web.archive.org/web/20200805124401/https://discord.news/trust-and-scam/)
 
-Algumas das coisas neste site são piadas, mas este artigo é sério e destaca muito sobre como a equipe do Discord opera. Não endosso tudo o que o artigo diz, mas o assunto é importante.
+Algumas das coisas neste site são piadas, mas este artigo é sério e destaca muito sobre como a equipe do Discord opera. Não endosso tudo o que o artigo referido diz, mas o assunto é importante.
 
 Assim como não houve processo de revisão para o banimento do mod do cliente, também não há processo de revisão para ler conversas em servidores privados ou mensagens diretas de alguém. Os administradores não apenas têm ferramentas gráficas para fazer isso, eles sempre podem apenas [dar uma olhada no banco de dados e fazem o que quiserem.](https://cadence.moe/i/3f9cdf)
 
@@ -115,7 +115,7 @@ Então, como os investidores vão ganhar dinheiro? Claramente, em algum momento,
 Aqui estão algumas opções que posso pensar:
 
 - Mais serviços de assinatura. Não acho que isso funcione bem — o conjunto atual de recursos premium é bastante desejável para pessoas que têm dinheiro e querem recursos. Da última vez, eles tentaram assinaturas para algo não relacionado ao bate-papo (ou seja, a loja de jogos), mas não correu bem. Não creio que esta seja uma opção viável.
-- Anúncios para todos, ou pelo menos para pessoas que não pagam. Isso provavelmente não funcionará relativamente bem, pois as pessoas provavelmente migrarão rapidamente para uma plataforma que não tem anúncios. Ou a maioria dos usuários receberá anúncios bloqueadores, o que novamente significa nenhum dinheiro.
+- Anúncios para todos, ou pelo menos para pessoas que não pagam. Isso provavelmente não funcionará relativamente bem, pois as pessoas provavelmente migrarão rapidamente para uma plataforma que não tem anúncios. Ou a maioria dos usuários irá baixar bloqueadores de anúncios, o que novamente significa nenhum dinheiro.
 - Gerenciar mineradores de criptomoedas, eu acho? Isso lhes traria relações-públicas muito ruins e provavelmente não muito dinheiro, mas é uma opção.
 - Faça com que todos paguem apenas para fazer login. Não tenho certeza de como isso funcionaria, então deixarei isso para o leitor considerar. Obviamente, sua reputação seria totalmente destruída, mas para a fração de usuários que permanecerão, acho que o Discord poderia mudar para um serviço somente pago e sobreviver.
 - Empacote os metadados e o conteúdo das mensagens de todos e venda tudo ao licitante que pagar mais ou forneça um serviço de assinatura onde outras empresas possam pagar por consulta ao banco de dados para essas informações.
