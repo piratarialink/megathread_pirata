@@ -128,7 +128,7 @@ Sim, acho que isso vai acontecer. Gostaria de pensar que isso não vai acontecer
 
 (Aliás, lembre-se de que os membros da equipe também têm acesso total ao banco de dados, bem como uma ferramenta para visualizar facilmente as conversas, então, se eles tivessem rancor de você, eles podem ir pessoalmente e pesquisar tudo sobre sua vida que você foi tolo o suficiente para compartilhe com pessoas em quem você confia. Se você acha que os membros da equipe são honrados e confiáveis ​​o suficiente para não fazer isso, é claro que você não leu as seções acima.)
 
-Mesmo que o Discord, pelo amor de Deus, realmente não queira que isso aconteça, existe uma coisa chamada ["aquisição"](https://en.wikipedia.org/wiki/Takeover), quando uma empresa adquire outros negócios com todos os seus ativos, usuários e dados. Isso é algo muito comum que acontece com empresas falidas.
+Mesmo que o Discord, pelo amor de Deus, realmente não queira que isso aconteça, existe uma coisa chamada "aquisição", quando uma empresa adquire outros negócios com todos os seus ativos, usuários e dados. Isso é algo muito comum que acontece com empresas falidas.
 
 O que você pode fazer sobre isso? Vou sugerir algumas defesas abaixo, então continue lendo.
 
