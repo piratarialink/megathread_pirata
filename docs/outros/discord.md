@@ -21,7 +21,7 @@ Eis a razão pela qual estou a abandonar o Discord.
 
 Há tantos bugs pendentes no Discord que todos nós nos esquecemos coletivamente ao longo do tempo. Aqui está uma lista engraçada de alguns que me estão a passar pela cabeça:
 
-- Menções fantasma e não-leituras fantasma! Escreve-se uma mensagem, talvez com uma menção, e depois apaga-se a mensagem. Para todos os outros, o marcador de não lida e o emblema de menção permanecem, apesar de não estar lá nada quando se abre o canal.
+- Menções fantasmas e não-leituras fantasmas! Escreve-se uma mensagem, talvez com uma menção, e depois apaga-se a mensagem. Para todos os outros, o marcador de não-lida e o emblema de menção permanecem, apesar de não estar lá nada quando se abre o canal.
 - Os bots não podem aceitar chamadas, no entanto, basta clicar com o botão direito do mouse num bot num servidor e selecionar "chamar" no menu de contexto. Esta é REALMENTE engraçada, devias mesmo experimentar esta. É interessante notar que se deram ao trabalho de corrigir isto para o utilizador do SISTEMA, mas não para os bots.
 - As pessoas só podem definir cerca de 250 notas sobre outros utilizadores. Quando se atinge esse limite, as novas notas são silenciosamente rejeitadas pelo servidor e desaparecem quando se abre novamente o perfil. Não há forma de ver uma lista de pessoas com notas para as apagar.
 - **O upload de arquivos é capado a 10mb se você não tiver nitro (500mb para usuários com nitro básico - o limite para usuários sem nitro pode ser aumentado para 100mb com o [BetterDiscord](https://github.com/riolubruh/YABDP4Nitro/)), diferente do telegram, que mesmo sem pagar nada você ainda pode enviar arquivos relativamente grandes. Só aí já matou uma porrada de possibilidades, tipo qualquer compartilhamento de mídia. No telegram, esses grupos normalmente enviam no próprio telegram, no discord teria que ser em alguma plataforma externa.**
@@ -32,13 +32,13 @@ Há tantos bugs pendentes no Discord que todos nós nos esquecemos coletivamente
 
 Estes problemas não são novos. O problema das chamadas tem acontecido desde o início dos tempos. Os problemas com os temas existem desde o início dos tempos. O limite de notas existe desde o início dos tempos. O problema do limite de membros do servidor existe desde que o explorador de servidores foi adicionado.
 
-Eu colocaria mais exemplos, mas são mais difíceis de encontrar porque há alguns meses a equipa do Discord limpou os quadros de relatórios de erros, apagando vários anos de relatórios de problemas. Estes problemas ainda persistem até hoje.
+Eu colocaria mais exemplos, mas são mais difíceis de encontrar porque há alguns meses a equipe do Discord limpou os quadros de relatórios de erros, apagando vários anos de relatórios de problemas. Estes problemas ainda persistem até hoje.
 
-Não são grandes problemas. Não afetam como uso a aplicação no dia a dia. No entanto, são a prova de um problema muito mais grave: a equipa do Discord não se preocupa com estes problemas, está demasiado sobrecarregada e com falta de pessoal para lidar com eles, ou é simplesmente demasiado incompetente para os resolver. Mais sobre isso mais tarde.
+Não são grandes problemas. Não afetam como uso a aplicação no dia a dia. No entanto, são a prova de um problema muito mais grave: a equipe do Discord não se preocupa com estes problemas, está demasiada sobrecarregada e com falta de pessoal para lidar com eles, ou é simplesmente demasiada incompetente para os resolver. 
 
-Há mais provas de incompetência. Durante algum tempo tivemos registos de auditoria do servidor, que permitiam saber se alguém apagava uma mensagem - mas não se alguém utilizava o ponto final de apagar mensagens em massa. Isso não era registado de todo. Ops. Agora é uma coisa, mas passamos pelo menos um ou dois anos sem isso. (https://cadence.moe/i/abc28e)
+Há mais provas de incompetência. Durante algum tempo tivemos registros de auditoria do servidor, que permitiam saber se alguém apagava uma mensagem - mas não se alguém utilizava o ponto final de apagar mensagens em massa. Isso não era registado de todo. Ops, agora é uma coisa, mas passamos pelo menos um ou dois anos sem isso. (https://cadence.moe/i/abc28e)
 
-O que a equipe tem feito em vez de corrigir esses problemas e fazer com que o aplicativo realmente pareça profissional? Têm estado [a alterar a interface do utilizador móvel, claramente sem consultar as pessoas que realmente utilizam a aplicação, e toda a gente a odeia] (https://reddit.com/r/discordapp/comments/gdkzyn/introducing_tabs_to_android/). Oops.
+O que a equipe tem feito em vez de corrigir esses problemas e fazer com que o aplicativo realmente pareça profissional? Têm estado [a alterar a interface do aplicativo móvel, claramente sem consultar as pessoas que realmente utilizam a aplicação, e toda mundo a odeia] (https://reddit.com/r/discordapp/comments/gdkzyn/introducing_tabs_to_android/). Oops.
 
 ## Acessibilidade
 
