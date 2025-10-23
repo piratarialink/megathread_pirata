@@ -40,7 +40,7 @@ Há mais provas de incompetência. Durante algum tempo tivemos registos de audit
 
 O que a equipe tem feito em vez de corrigir esses problemas e fazer com que o aplicativo realmente pareça profissional? Têm estado [a alterar a interface do utilizador móvel, claramente sem consultar as pessoas que realmente utilizam a aplicação, e toda a gente a odeia] (https://reddit.com/r/discordapp/comments/gdkzyn/introducing_tabs_to_android/). Oops.
 
-## Deficiências
+## Acessibilidade
 
 Talvez o maior problema pendente no aplicativo tenha sido a taxa de contraste do texto comum. No tema claro, o contraste do texto em relação ao plano de fundo era algo em torno de 2,2:1 (o _mínimo_ para ser acessível conforme as WCAG AA é 4,5:1), o que significa que era extremamente difícil realmente _ler texto no aplicativo projetado para ler texto_ a menos que você tenha uma visão perfeita e um monitor preciso. Isso acabou sendo resolvido para a maioria das partes do aplicativo, mas logo depois eles mudaram os títulos de incorporação de perfeitamente bons para inacessíveis, o que é terrível e mostra que eles realmente não se importam e que não mudaram.
 
