@@ -206,7 +206,7 @@ Com o LUKS você pode criar um arquivo simples ou até mesmo um conjunto de arqu
 
 Melhores distros compatíveis com LUKS: **Fedora** (Bazzite é uma distribuição baseada no Fedora mais indicada para gamers), **Arch** com KDE (Manjaro e CachyOS são derivados do Arch recomendados para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
 
-:::info Prefira [distros sem systemd](https://nosystemd.org/) (somente para usúarios avançados)
+:::info Caso você seja um usuário avançado, [distros sem systemd](https://nosystemd.org/) (benéficas para privacidade) também são uma opção
 :::
 
 ## Criptografia de nuvem
