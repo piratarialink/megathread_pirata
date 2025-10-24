@@ -102,7 +102,7 @@ Coloque isso na sua cabeça e mantenha-o aí: **DISCORD NÃO É RENTÁVEL.**
 
 Além do armazenamento de arquivos, eles obviamente estão pagando muito dinheiro para que o hardware lide com [2,5 milhões de conexões de voz simultaneamente (artigo de setembro de 2018)](https://archive.is/Gdzgn), sem mencionar chat de texto, indicadores de digitação, atualizações de presença e tudo mais que entra no sistema. O Discord não é barato de executar.
 
-Então, como eles conseguem dinheiro? Bem, um pequeno subconjunto de usuários paga alguns dólares por mês por mais recursos em um plano premium que nem estava disponível nos primeiros dois anos de vida do Discord. E sua loja de jogos falida, que provavelmente custou mais dinheiro para configurar do que o valor ganho em novas assinaturas, já que os jogos da loja de jogos estavam disponíveis na assinatura existente, e não adquiridos individualmente. Você pelo menos se lembra que o Discord tentou administrar uma loja de jogos? Isso é compreensível se você não' t.
+Então, como eles conseguem dinheiro? Bem, um pequeno subconjunto de usuários paga alguns dólares por mês por mais recursos em um plano premium que nem estava disponível nos primeiros dois anos de vida do Discord. E sua loja de jogos falida, que provavelmente custou mais dinheiro para configurar do que o valor ganho em novas assinaturas, já que os jogos da loja de jogos estavam disponíveis na assinatura existente, e não adquiridos individualmente.
 
 E esse é todo o dinheiro que eles aceitam dos usuários.
 
