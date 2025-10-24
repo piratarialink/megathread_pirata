@@ -66,9 +66,9 @@ Lembra como eu sugeri que os desenvolvedores estavam sobrecarregados, com falta 
 
 Client mods, como temas personalizados ou plug-ins para adicionar comportamento extra útil e corrigir problemas, são contra os termos de serviço do Discord. Não vou debater se eles devem ser permitidos ou não neste momento, então vamos apenas assumir que eles não são permitidos. E a punição por usá-los deve ser consistente e justa.
 
-O Discord não se esforça para detectar client mods, então você geralmente pode se safar deles, a menos que esteja fazendo algo como ingressar em servidores em massa mais rápido do que um humano poderia. No entanto, você será provavelmente banido ou repreendido se um funcionário Acontece que um membro vê você postar publicamente uma captura de tela de um cliente obviamente modificado.
+O Discord não se esforça para detectar client mods, então você geralmente pode se safar deles, a menos que esteja fazendo algo como ingressar em servidores em massa mais rápido do que um humano poderia. No entanto, você será provavelmente banido ou repreendido se acontecer de  funcionário ver você postar publicamente uma captura de tela de um cliente obviamente modificado.
 
-Eu vi uma troca onde um membro da equipe viu uma captura de tela modificada e baniu toda a conta da pessoa, cancelando-a após 2 minutos, como uma piada.
+Eu vi em uma ocasião onde um membro da equipe viu uma captura de tela modificada e baniu toda a conta da pessoa, cancelando-a após 2 minutos, como uma piada.
 
 Não acho que seja uma piada muito engraçada e não deve ser encarada levianamente.
 
@@ -80,15 +80,15 @@ Eu realmente odeio usar a frase “power trip”, realmente odeio, mas esta part
 
 Algumas das coisas neste site são piadas, mas este artigo é sério e destaca muito sobre como a equipe do Discord opera. Não endosso tudo o que o artigo referido diz, mas o assunto é importante.
 
-Assim como não houve processo de revisão para o banimento do mod do cliente, também não há processo de revisão para ler conversas em servidores privados ou mensagens diretas de alguém. Os administradores não apenas têm ferramentas gráficas para fazer isso, eles sempre podem apenas [dar uma olhada no banco de dados e fazem o que quiserem.](https://cadence.moe/i/3f9cdf)
+Assim como não houve processo de revisão para o banimento de client mods, também não há processo de revisão para ler conversas em servidores privados ou mensagens diretas de alguém. Os administradores não apenas têm ferramentas gráficas para fazer isso, eles sempre podem apenas [dar uma olhada no banco de dados e fazer o que quiserem.](https://cadence.moe/i/3f9cdf)
 
-O Discord coleta uma quantidade obscena de dados sobre tudo o que você toca no aplicativo. Descrevi esses dados em uma postagem no Reddit, mas tenho algumas coisas a dizer antes de escrever o link.
+O Discord coleta uma quantidade obscena de dados sobre tudo o que você toca no aplicativo. Descrevi esses dados em um post no Reddit, mas tenho algumas coisas a dizer antes de escrever o link.
 
 - Se você usar o Discord apenas no navegador e instalar uma extensão de bloqueio tradicional definida como sem rastreamento, como o uBlock Origin, o Discord não será bloqueado porque eles alteraram especificamente seu endpoint de rastreamento de `/track` (obviamente detectável) para `/science` , que é uma maneira ingênua, mas eficaz, de contornar uma lista de filtros.
 - Desligar os interruptores de coleta de dados não interrompe o envio de dados para `/science`. Os dados são _aparentemente_ descartados no lado do servidor, sem nenhuma maneira de realmente verificar isso. A razão pela qual eles fizeram isso dessa maneira é aparentemente para que eles possam sincronizar suas configurações entre dispositivos sem permitir acidentalmente a passagem de solicitações antes da sincronização das configurações, o que parece uma explicação razoável, mas eles definitivamente deveriam ter feito isso tanto no lado do cliente quanto no servidor. Não confio nem um pouco nisso.
 - As informações em meu post no Reddit estão com os interruptores de rastreamento desligados, então provavelmente eles armazenam ainda mais coisas com eles ligados.
 
-[Ok, aqui está a postagem. O título foi projetado especificamente para deixar o máximo de pessoas irritadas possível. Aproveite.](https://www.reddit.com/r/privacy/comments/eiicah/trawling_through_my_discord_data_package_after_35/)
+[Ok, aqui está o post. O título foi projetado especificamente para deixar o máximo de pessoas irritadas possível. Aproveite.](https://www.reddit.com/r/privacy/comments/eiicah/trawling_through_my_discord_data_package_after_35/)
 
 [Por favor, veja também este relatório de outra pessoa.](https://luna.gitlab.io/discord-unofficial-docs/science.html)
 
@@ -102,13 +102,13 @@ Coloque isso na sua cabeça e mantenha-o aí: **DISCORD NÃO É RENTÁVEL.**
 
 Além do armazenamento de arquivos, eles obviamente estão pagando muito dinheiro para que o hardware lide com [2,5 milhões de conexões de voz simultaneamente (artigo de setembro de 2018)](https://archive.is/Gdzgn), sem mencionar chat de texto, indicadores de digitação, atualizações de presença e tudo mais que entra no sistema. O Discord não é barato de executar.
 
-Então, como eles conseguem dinheiro? Bem, um pequeno subconjunto de usuários paga alguns dólares por mês por mais recursos em um plano premium que nem estava disponível nos primeiros dois anos de vida do Discord. E sua loja de jogos falida, que provavelmente custou mais dinheiro para configurar do que o valor ganho em novas assinaturas, já que os jogos da loja de jogos estavam disponíveis na assinatura existente, e não adquiridos individualmente. Você pelo menos se lembrou que o Discord tentou administrar uma loja de jogos? Isso é compreensível se você não' t.
+Então, como eles conseguem dinheiro? Bem, um pequeno subconjunto de usuários paga alguns dólares por mês por mais recursos em um plano premium que nem estava disponível nos primeiros dois anos de vida do Discord. E sua loja de jogos falida, que provavelmente custou mais dinheiro para configurar do que o valor ganho em novas assinaturas, já que os jogos da loja de jogos estavam disponíveis na assinatura existente, e não adquiridos individualmente. Você pelo menos se lembra que o Discord tentou administrar uma loja de jogos? Isso é compreensível se você não' t.
 
 E esse é todo o dinheiro que eles aceitam dos usuários.
 
 [O restante do dinheiro vem dos investidores.](https://techcrunch.com/2017/06/07/discord/) Os investidores dão dinheiro ao Discord no início, na esperança de que o Discord seja um bom produto. Por favor, dê uma olhada geral por um momento para pensar sobre a definição de "investir" - é quando você recebe mais dinheiro no final do que investiu no início. Mais cedo ou mais tarde, esses investidores vão querer ser pagos e vão querer receberá mais dinheiro do que investiu inicialmente. Isso exige que o Discord realmente receba mais dinheiro de seus usuários do que paga para executar o serviço.
 
-**Não está recebendo mais dinheiro de seus usuários do que pagando para operar o serviço.**
+**E ele não está recebendo mais dinheiro de seus usuários do que pagando para operar o serviço.**
 
 Então, como os investidores vão ganhar dinheiro? Claramente, em algum momento, o Discord precisará implementar uma monetização agressiva. **Isso é um fato. Isso VAI acontecer.**
 
@@ -122,7 +122,7 @@ Aqui estão algumas opções que posso pensar:
 
 Esse último ponto é mais o provável de se acontecer.
 
-Se você conversou com pessoas no Discord sobre algo pessoal, pensando que é privado, o Discord ainda mantém uma cópia de tudo. Eles conhecem seus interesses, suas atividades, seus relacionamentos, seus desejos, seus segredos, seus medos, sua vida. _As empresas pagarão MUITO dinheiro para acessar essas informações._ Também não seria muito difícil agregar, basta executar um pouco de aprendizado de máquina e pronto, você fez isso para cerca de 90% das pessoas. Isso não é novidade. Google, Facebook e muitos outros já estão empregando técnicas como essa para determinar seus interesses nos sites que você visita e na maneira como você interage com o conteúdo deles.
+Se você conversou com pessoas no Discord sobre algo pessoal, pensando que é privado, o Discord ainda mantém uma cópia de tudo. Eles conhecem seus interesses, suas atividades, seus relacionamentos, seus desejos, seus segredos, seus medos, sua vida. _As empresas pagarão MUITO dinheiro para acessar essas informações._ Também não seria muito difícil agregar, basta empregar um pouco de machine learning e pronto, você fez isso para cerca de 90% das pessoas. Isso não é novidade. Google, Facebook e muitos outros já estão empregando técnicas como essa para determinar seus interesses nos sites que você visita e na maneira como você interage com o conteúdo deles.
 
 Sim, acho que isso vai acontecer. Gostaria de pensar que isso não vai acontecer. Eu gostaria realmente de poder dar tanta confiança ao Discord, mas eles não fizeram nada para merecer minha confiança. Nós sabemos que eles não se importam com a privacidade (veja também a seção de segurança mais adiante). Sabemos que eles precisam de dinheiro. Sabemos que precisarão de uma maneira de enriquecer rapidamente.
 
@@ -136,7 +136,7 @@ O que você pode fazer sobre isso? Vou sugerir algumas defesas abaixo, então co
 
 O Discord tem um monte de falhas de segurança e privacidade. Você está surpreso? Você não deveria estar, tendo visto a qualidade do aplicativo e seus problemas de longa data que mencionei desde o início. Se esse é o nível de detalhe que eles fornecem às partes voltadas para o usuário, o que você acha que acontece com os problemas de segurança que eles sem dúvida tentam manter em segredo?
 
-Só sei sobre alguns problemas de segurança, porque é claro que o Discord não os publicaria publicamente!
+Só sei sobre alguns problemas de segurança, porque é claro que o Discord não postaria todos publicamente!
 
 Você conhece o widget do servidor? Ele é usado para expor IDs de usuário, nomes de usuário e hashes de avatar de cada pessoa on-line no servidor. Qualquer pessoa poderia consultar essas informações se conhecesse o ID do servidor. Isso é um problema de segurança, porque com IDs de servidores suficientes, você pode saber quais pessoas estão em quais servidores sem precisar ingressar nesses servidores.
 
@@ -146,11 +146,11 @@ Você conhece o widget do servidor? Ele é usado para expor IDs de usuário, nom
 - Sempre que alguém postar um link do PayPal, Patreon ou outro link de pagamento pela Internet, altere-o para o seu próprio link, para enganar o remetente e fazê-lo lhe dar dinheiro.
 - Faça disso um recurso em um bot que esteja em alguns milhares (ou mais!) de servidores. Lucro, literalmente.
 
-Não temos ideia se isso foi realmente explorado ou não. Dada a gravidade desse bug e que o Discord opera um programa de recompensas de bugs, você pensaria que haveria uma bela recompensa por isso. Na verdade, a pessoa que descobri que havia alguns códigos para assinaturas premium.
+Não temos ideia se isso foi realmente explorado ou não. Dada a gravidade desse bug e que o Discord opera um programa de recompensas de bugs, você pensaria que haveria uma bela recompensa por isso. Na verdade, a pessoa que descobriu isto, disse que haviam alguns códigos escondidos para assinaturas premium.
 
 Só sei disso porque sou amigo da pessoa que descobriu isso. Eu me pergunto quantos bugs existem de gravidade semelhante e que ninguém conhece.
 
-Você estava esperando por isso. Eu estava _apenas dizendo_ que o widget do servidor poderia ser usado para coleta de dados em massa e... [opa! Algumas pessoas já fizeram isso. Normalmente, isso seria muito engraçado, mas infelizmente o grupo por trás disso é de pessoas irritantes.](https://tracr.co/) Tente procurar seu próprio perfil e ver o que ele sabe sobre você. Este site está _definitivamente_ registrando mensagens nos servidores listados, apenas não as está tornando públicas. Por um _To just have fun_, tente clicar no link "solicitar remoção". [Aqui está uma postagem mais detalhada de outra pessoa sobre a história do Discool.](https://web.archive.org/web/20200607051616/https://resynth1943.net/2020/03/14/The-Discord-privacy-scandal.html)
+Você estava esperando por isso. Eu estava _apenas dizendo_ que o widget do servidor poderia ser usado para coleta de dados em massa e... [opa! Algumas pessoas já fizeram isso. Normalmente, isso seria muito engraçado, mas infelizmente o grupo por trás disso é de pessoas irritantes.](https://tracr.co/) Tente procurar seu próprio perfil e ver o que ele sabe sobre você. Este site está _definitivamente_ registrando mensagens nos servidores listados, apenas não as está tornando públicas. Por um _To just have fun_, tente clicar no link "solicitar remoção". [Aqui está um post mais detalhado de outra pessoa sobre a história do Discool.](https://web.archive.org/web/20200607051616/https://resynth1943.net/2020/03/14/The-Discord-privacy-scandal.html)
 
 Pessoas que não conseguem ver canais privados podem ver anexos que foram postados nesses canais em algumas circunstâncias. Lembro-me de ter visto uma demonstração de prova de conceito para isso, mas o link desapareceu agora.
 
@@ -158,10 +158,9 @@ Pessoas que não conseguem ver canais privados podem ver anexos que foram postad
 
 Exclua sua conta. Brincadeirinha. O Discord não removerá suas informações, na verdade. Veja o que excluir sua conta faz:
 
--Remove sua foto de perfil
+- Remove sua foto de perfil
 
-- Define seu nome de exibição para "Usuário excluído XXXXXX".
-  -...
+- Define seu nome de exibição para "Usuário excluído XXXXXX"
 
 Sim, é isso. [Ele não exclui nenhuma de suas mensagens.](https://www.reddit.com/r/discordapp/comments/d90yzq/a_small_rant_on_privacy_issues_disregarding_of/f1etv3t) Ele não remove nem substitui o usuário permanente identificador que sua conta possui. Todos os seus dados permanecem no Discord e ainda podem ser lidos por qualquer pessoa.
 
@@ -172,18 +171,6 @@ Não, [a equipe do Discord não excluirá todas as suas mensagens mediante solic
 Você _poderia_ tentar usar um selfbot ou um script, mas se você acionar seus sistemas de detecção automática, o que faz a exclusão em massa de mensagens, então você poderá ser bloqueado em sua conta, sem a capacidade de excluir mais nada.
 
 Se você estiver em um servidor, não há problema em usar bots para excluir suas mensagens em massa, mas é claro que isso não funciona em mensagens diretas.
-
-## Então, o que você pode usar em vez do Discord?
-
-Este artigo é sobre o Discord, não sobre alternativas ao Discord. Provavelmente farei uma postagem de acompanhamento destacando como você pode efetivamente sair do Discord em breve. Por enquanto, aqui está uma lista de alternativas em potencial. As que mais gosto estão em primeiro lugar lista.
-
-### Bate-papo de texto
-
-XMPP, Rocket.Chat, Slack, Mattermost.
-
-### Compartilhamento de voz, vídeo e tela
-
-Mumble, Jitsi independente, Matrix+Jitsi, Peercalls, Houseparty.
 
 ## Considerações finais
 
