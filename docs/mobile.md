@@ -40,7 +40,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [MPV](https://github.com/mpv-android/mpv-android/releases)
 
-- Video player escrito em C, é considerado bastante competente e livre de propagandas.
+- Reprodutor de vídeo escrito em C, é considerado bastante competente e livre de propagandas.
 
 ### 🌟 [ReVanced](https://revanced.app)
 
