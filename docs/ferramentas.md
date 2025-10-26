@@ -304,10 +304,8 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar mídias de vários domínios.
 - **[Trialware]** [StreamFab](https://streamfab.com/) - Focado em download para plataformas de streaming. Consegue baixar da Globoplay.
 - [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 Gbps por 6 horas do Mega.
-- [Skillshare-dl](https://github.com/mrwnwttk/skillshare-dl) - Baixe do skillshare. [Tópico original.](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/)
-- [Outro Skillshare-dl](https://github.com/KENWAY/Skillshare-DL) - Baixe do skillshare
 - [Firedown](https://www.firedown.app/) - Mais um downloader de vídeos.
-- [Soundcloud Downloader](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/) - Extensão do Firefox. Tópico original [aqui](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/). Por /u/ImTwain.
+- [Soundcloud Downloader](https://github.com/NotTobi/soundcloud-dl#how-to-report-an-issue) - Extensão do Firefox.
 - **[Pago]** [Katomart](https://katomart.com/) - Aplicativo em fase de testes que faz o download de vídeos de plataformas EaD, tudo dentro da lei.
 - [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de conteúdo do GetComics.info facilmente.
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) - Para baixar o vídeo do iPlayer da BBC.
@@ -345,11 +343,11 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Tailscale](https://tailscale.com/) - Acesse seu computador remotamente sem precisar abrir portas no roteador.
 - [Pairdrop](https://pairdrop.net/) - Compartilhamento local de arquivos em seu navegador. Inspirado no AirDrop da Apple. Fork do Snapdrop.
 - [SyncThing](https://syncthing.net/) - Compartilhe arquivos/pastas entre computadores. Configure pastas compartilhadas que serão sincronizadas automaticamente entre os dispositivos.
-- [file.pizza](https://file.pizza/) - Transferências seguras de arquivos peer-to-peer. Útil para transferências rápidas de arquivos únicos. [Página do GitHub.](https://github.com/kern/filepizza)
+- [file.pizza](https://file.pizza/) - Transferências seguras de arquivos peer-to-peer. Útil para transferências rápidas de arquivos únicos.
 - [instant.io](https://instant.io/) - Mesmo conceito do file.pizza
 - [xkcd949.com](http://xkcd949.com/) - Mesmo conceito do file.pizza
 - [ShareDrop.io](https://www.sharedrop.io/) - Mesmo conceito do file.pizza
-- [snapdrop.net](https://snapdrop.net) - Mesmo conceito do file.pizza [página do GitHub.](https://github.com/RobinLinus/snapdrop)
+- [snapdrop.net](https://snapdrop.net) - Mesmo conceito do file.pizza.
 - [wetransfer.com](https://wetransfer.com/) - Envie links autoexpiráveis ​​de até 2 GB de tamanho.
 - [LanXchange](https://github.com/tfg13/LanXchange) - Envie arquivos do PC para o Smartphone e vice-versa pelo wifi local (não usa internet).
 
@@ -466,6 +464,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 - [Rclone](https://github.com/rclone/rclone) - Responsável por transferir seus saves de jogos crackeados para a nuvem. Funciona como CLI apenas.
+- [Linux Crack Tips](https://www.reddit.com/r/LinuxCrackSupport/) - Subreddit para se obter suporte técnico de jogos crackeados no GNU/Linux.
 - [ProtonDB](https://www.protondb.com/) - Banco de relatórios de jogos que rodam e não rodam em distros Linux. [Leitura interessante](https://plus.diolinux.com.br/t/execute-jogos-windows-no-linux-com-o-proton-da-steam/38745)
 - [Better xCloud](https://github.com/redphx/better-xcloud) - Userscript para melhorar a jogatina do Xbox Cloud (Xbox Game Pass) e da Remote Play em navegadores.
 - [Smart Online Fix](https://github.com/BadKiko/steam-online-fix-launcher) - Ferramenta para iniciar e organizar jogos do online-fix-me no Linux.
