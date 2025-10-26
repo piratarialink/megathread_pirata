@@ -7,6 +7,7 @@ Alguns aplicativos para assistir filmes e séries no Android:
 - TLN+
 - Cine Novelas
 - YouCine
+- PPcine
 - FuzzTV
 - [SportzX](https://sportzxtv.net/download-apk-1/)
 - Partidas de Hoje
