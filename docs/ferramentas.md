@@ -21,10 +21,10 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 ## ► **Ferramentas para Windows / Office**
 
 - 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O Ohook ativa a licença do Office, O HWID ativa permanentemente o Windows 10/11 e o modo KMS38 é mais voltado para LTSC/Enterprise. [**Guia**](guias/ativacao-office-win.md)
-- [Office C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte as instalações do Office Retail em licenças de volume.
+- [Office C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte a versão Retail do Office em licença de volume.
 - [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Automatiza ativações de licença do Office e Windows. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - 🌟 [**Consumer ESU Enrollment**](https://github.com/abbodi1406/ConsumerESU) - Para computadores que não foram aceitos no suporte estendido do Windows 10 até 2026 dado pela Microsoft. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-windows-10-esu-license-all-options-activation-and-troubleshooting.89665/)
-- [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL.
+- [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL faz.
 - [Microsoft Toolkit](https://gitlab.com/-/project/11037551/uploads/f73eea2588a1ba5e81e529658089b20d/MTKV274.7z) - Utilitário de multipropósito: pode ativar o Windows, editar componentes e gerir a licença. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Conjunto destinado a usuários avançados que permite renomear arquivos pelo RegEx (expressões regulares) e melhorar a UX para uma produtividade maior.
 - 🌟 [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário Windows de Chris Titus Tech - Instalar programas, ajustes, correções e atualizações.
@@ -40,7 +40,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows translúcida/transparente.
 - 🌟 [**ShutUp10++**](https://www.oo-software.com/en/shutup10) - Controle quais dados devem ou não ser coletados pela Microsoft.
 - [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à experiência moderna do Windows
-- [Wintoys](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge/outros bloatwares e disponibiliza certos tweaks.
+- [Wintoys](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge de uma vez por todas.
 - 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto. [Artigo](https://www.tomshardware.com/software/windows/how-to-tweak-your-windows-11-and-windows-10-setup-with-winaero-tweaker-easily-remove-ads-tracking-ai-copilot-and-more)
 
 ## ► **Downloads modificados/intactos do Windows e do Office**
@@ -308,7 +308,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 Gbps por 6 horas do Mega.
 - [Firedown](https://www.firedown.app/) - Mais um downloader de vídeos.
 - [Soundcloud Downloader](https://github.com/NotTobi/soundcloud-dl#how-to-report-an-issue) - Extensão do Firefox.
-- **[Pago]** [Katomart](https://katomart.com/) - Aplicativo em fase de testes que faz o download de vídeos de plataformas EaD, tudo dentro da lei.
+- **[Pago]** [Katomart](https://katomart.com/) - Aplicativo em produção que faz o download de vídeos de plataformas EaD, legalmente. (artigo 184 do código penal que defende a cópia de obra intelectual para uso privado do copista)
 - [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de conteúdo do GetComics.info facilmente.
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) - Para baixar o vídeo do iPlayer da BBC.
 
