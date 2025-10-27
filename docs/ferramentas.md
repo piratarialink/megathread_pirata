@@ -38,10 +38,9 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**Chocolatey**](https://chocolatey.org/) - Um instalador de linha de comando para o Windows.
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows translúcida/transparente.
-- [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Centralize os ícones da barra de tarefas do Windows com uma variedade de animações e opções.
 - 🌟 [**ShutUp10++**](https://www.oo-software.com/en/shutup10) - Controle quais dados devem ou não ser coletados pela Microsoft.
 - [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à experiência moderna do Windows
-- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Uma lista incrível e selecionada dos melhores aplicativos e ferramentas para Windows.
+- [Wintoys](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge/outros bloatwares e disponibiliza certos tweaks.
 - 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto. [Artigo](https://www.tomshardware.com/software/windows/how-to-tweak-your-windows-11-and-windows-10-setup-with-winaero-tweaker-easily-remove-ads-tracking-ai-copilot-and-more)
 
 ## ► **Downloads modificados/intactos do Windows e do Office**
@@ -249,7 +248,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Ferramentas de mídia
 
 - 🌟 [**OBS Studio**](https://github.com/obsproject/obs-studio) - Aplicativo de desktop de código aberto, tende a ser opção mais prática quando o assunto é gravação de tela.
-- [davincibox](https://github.com/zelikos/davincibox) - Ferramenta para usar o DaVinci Resolve (um software de edição de vídeo excelente e 90% do tempo gratuito) no Fedora.
+- [davincibox](https://github.com/zelikos/davincibox) - Ferramenta para aprimorar o uso do DaVinci Resolve (um software de edição de vídeo excelente e 90% do tempo gratuito) no Fedora.
 - [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente audio codec AC3.
 - [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
 - [VLsub](https://github.com/opensubtitles/vlsub-opensubtitles-com) - Baixa legendas diretamente pelo vlc sem ter que abrir o site do opensubtitles.
@@ -291,11 +290,14 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - Frontend para o yt-dlp.
 - 🌟 [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade.
 - [Cat-catch](https://github.com/xifangczy/cat-catch) - O cat-catch é uma extensão do Firefox e Chrome para baixar vídeos de sites de emissoras de tv.
+- [twitch-dl](https://github.com/ihabunek/twitch-dl) - Para VODs disponíveis apenas para subs na Twitch.
+- [kick-dl](https://github.com/juliogarciape/kick-dl) - Mesmo conceito do twitch-dl, só que para a kick.com.
+- [scribd-dl](https://github.com/rkwyu/scribd-dl) - Downloader projetado para o scribd.com e slideshare.net. Caso você não queira instalar as dependências, [existem algumas alternativas aqui](https://pirataria.link/ferramentas#%E2%96%BA-ferramentas-diversas) — embora não sejam tão seguras.
+- [gallery-dl](https://github.com/mikf/gallery-dl) - gallery-dl é um programa de linha de comando para baixar galerias e coleções de imagens de vários hosts de imagens.
 - [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos.
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy.
 - [Allavsoft](https://www.allavsoft.com/) - Downloader de mídia.
 - [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injector para aplicativos UWP.
-- [gallery-dl](https://github.com/mikf/gallery-dl) - gallery-dl é um programa de linha de comando para baixar galerias e coleções de imagens de vários hosts de imagens.
 - [Fetchv](https://fetchv.net/pt-br) - Downloader de vídeos
 - [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Baixa em massa de episódios de anime para vários sites, em várias resoluções, com ou sem episódios de preenchimento.
 - [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp.
