@@ -29,7 +29,7 @@ A inviolabilidade do lar só pode ser excepcionada em casos de flagrante delito,
 
 ### [Librewolf](https://librewolf.net/)
 
-O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Habilita o recurso upstreamed do RFP pelo projeto Tor Uplift e já vem com o Ublock Origin pré-instalado.
+O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Habilita o recurso upstreamed do RFP pelo projeto Tor Uplift e já vem com o Ublock Origin pré-instalado. Você mesmo pode fazer um fork do Librewolf e a partir daí gerar seu próprio navegador local + dependências (recomendado somente para usuários avançados).
 
 - Tecnologia Anti-Fingerprinting (Forte)
 - Não é afiliado com a Mozilla Foundation
