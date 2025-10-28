@@ -308,7 +308,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 Gbps por 6 horas do Mega.
 - [Firedown](https://www.firedown.app/) - Mais um downloader de vídeos.
 - [Soundcloud Downloader](https://github.com/NotTobi/soundcloud-dl#how-to-report-an-issue) - Extensão do Firefox.
-- **[Pago]** [Katomart](https://katomart.com/) - Aplicativo em produção que faz o download de vídeos de plataformas EaD, legalmente. (artigo 184 do código penal que defende a cópia de obra intelectual para uso privado do copista)
+- [Katomart](https://katomart.com/) - Aplicativo em produção que faz o download de vídeos de plataformas EaD, legalmente. (de acordo com o artigo 184 do código penal que defende a cópia de obra intelectual para uso privado do copista)
 - [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de conteúdo do GetComics.info facilmente.
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) - Para baixar o vídeo do iPlayer da BBC.
 
