@@ -422,6 +422,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 ## ► **Inteligência Artificial**
 
+- 🌟 [**G4F**](https://github.com/xtekky/gpt4free) - Projeto no github que une vários modelos de LLM (inclusive os da openAI). Crie sua chave API com 
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [LMArena](https://lmarena.ai/?mode=direct) - **Quase** todos os chatbots pagos totalmente gratuitos e ilimitados.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas. Um pouco complicado de se acostumar a usar.
@@ -478,7 +479,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [Goldberg Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - Emulador Steam. Crackeie seu próprio jogo Steam ou os arquivos Steam limpos compartilhados no subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) do cs.rin.ru
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Emulador Steam. 
 - [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Outro emulador Steam.
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Desbloqueie todas as DLCs em jogos Steam legítimos.
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Desbloqueie todas as DLCs em jogos Steam legítimos. [Guia](https://www.reddit.com/r/pirataria/comments/1i4g3rc/comment/m7uug93/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button)
 - [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) - Instala e configura automaticamente o CreamAPI para jogos Steam.
 - [SteamEmuUtility](https://github.com/turusudiro/SteamEmuUtility) - Extensão do launcher Playnite para rodar o GreenLuma/SmartSteamEmu.
 - [Steamless](https://github.com/atom0s/Steamless) - Remove o SteamStub DRM dos executáveis ​​do jogo Steam se eles o contiverem. Para ser usado em conjunto com um emulador Steam se o emulador sozinho não for suficiente para quebrar a proteção do jogo.
@@ -502,6 +503,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 ## ► **Ferramentas Diversas**
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
+- [Brainser](https://github.com/p1ratrulezzz/brainser) - Melhor forma de resetar o trial das IDEs do JetBrains, caso não funcione você pode tentar [isso aqui.](https://www.reddit.com/r/pirataria/comments/1js9lc7/comment/mlqghtb/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button). Tópico original em [Losper.net.](https://losper.net/topic/283-activation-instruction-jetbrains/)
 - [SlideDownloaders](https://slidedownloaders.com/) - Downloader gratuito do SlideShare - rápido, seguro e sem necessidade de inscrição.
 - [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de download do Terabox.
 - [Unddit](https://undelete.pullpush.io) - Veja posts e comentários removidos do Reddit.
