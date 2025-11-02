@@ -191,7 +191,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [OISD](https://oisd.nl/) - Previne que seu aparelho se conecte a domínios não solicitados/maliciosos.
 - [Iploggerfilter](https://github.com/piperun/iploggerfilter) - Nome autoexplicativo.
 - [Fanboy Annoyances List](https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt) - Remove Pop-Ups e outros incômodos.
-- [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - Tira os anúncios da Twitch.
+- [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - Projeto do github para retirar os anúncios da Twitch. [Guia básico](https://pirataria.link/guias/twitch)
 
 ## ► Proxies / Desbloqueadores de sites piratas
 
