@@ -502,7 +502,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 ## ► **Ferramentas Diversas**
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
-- [Brainser](https://github.com/p1ratrulezzz/brainser) - Melhor forma de resetar o trial das IDEs do JetBrains, caso não funcione você pode tentar [isso aqui.](https://www.reddit.com/r/pirataria/comments/1js9lc7/comment/mlqghtb/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button). Tópico original em [Losper.net.](https://losper.net/topic/283-activation-instruction-jetbrains/)
+- [Brainser](https://github.com/p1ratrulezzz/brainser) - Melhor forma de ativar as IDEs do JetBrains, caso não funcione você pode tentar [isso aqui.](https://www.reddit.com/r/pirataria/comments/1js9lc7/comment/mlqghtb/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button). Tópico original em [Losper.net.](https://losper.net/topic/283-activation-instruction-jetbrains/)
 - [SlideDownloaders](https://slidedownloaders.com/) - Downloader gratuito do SlideShare - rápido, seguro e sem necessidade de inscrição.
 - [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de download do Terabox.
 - [Unddit](https://undelete.pullpush.io) - Veja posts e comentários removidos do Reddit.
