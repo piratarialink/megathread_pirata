@@ -86,9 +86,10 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Instale o MacOS em hardwares que não pertencem à Apple. [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
 - [PKGs do Appstorrent](https://appstorrent.ru/os/) - Mesmo conceito do gibMacOS: imagens de diferentes versões do Mac para criar pendrives bootáveis com hackintosh (pelo menos de versões que ainda suportam processador da intel).
 - [Pacotes do Office para Mac](https://massgrave.dev/office_for_mac) - Página bem organizada para downloads de imagens do Office para Mac.
-- [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
-- [UTM](https://github.com/utmapp/UTM/releases) - VM multiplataforma.
 - [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - Script do Macked para crackear apps CC.
+- [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
+- [Stats](https://github.com/exelban/stats) - O equivalente do HWiNFO para o Mac.
+- [UTM](https://github.com/utmapp/UTM/releases) - VM multiplataforma.
 - [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar o MacOS no Linux.
 - **[Trialware]** [CrossOver](https://www.codeweavers.com/crossover) - Faz o papel de rodar jogos do Windows no MacOS.
 - **[Trialware]** [AIDente](https://apphousekitchen.com/) - Aumenta a vida útil da bateria do MacBook.
@@ -186,6 +187,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Filtros do uBO
 
 - [LegitimateURLShortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt) - Deleta parâmetros de rastreamento de URLs do Google, YouTube, etc.
+- [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - Curadoria de sites que mantêm conteúdo gerado por IA. Importe a versão raw de cada blocklist no desktop ou mobile.
 - [OISD](https://oisd.nl/) - Previne que seu aparelho se conecte a domínios não solicitados/maliciosos.
 - [Iploggerfilter](https://github.com/piperun/iploggerfilter) - Nome autoexplicativo.
 - [Fanboy Annoyances List](https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt) - Remove Pop-Ups e outros incômodos.
