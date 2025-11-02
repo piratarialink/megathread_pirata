@@ -27,7 +27,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌟 [Better Anime](https://betteranime.net/)
 
-- Better Anime está com restrições de DMCA, mas funciona normalmente pelo app ou pelo site após login. Se não logar, ele não funcionará.
+- O grande Better Anime, agora sem restrições de DMCA, Full HD disponível para quase todos os animes e download ocasionalmente habilitado.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/betteranime.net/)
 
 #### 🌟 [RedeCanais](https://redecanais.sh/browse-animes-videos-1-date.html)
@@ -35,6 +35,11 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Incrível coleção de animes em excelente qualidade e dublados em PT-BR.
 - Muda constantemente de domínio, para se manter atualizado confira o [canal oficial do Discord](https://discord.com/invite/kydZZBGwTy).
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/redecanais.gl/)
+
+#### ▶️ [Tomato](https://tomatoanimes.com/watch?id=1089)
+
+- Está com bloqueio de DMCA na página principal e no desktop, funciona normalmente pelo aplicativo.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/tomatoanimes.com/)
 
 #### ▶️ [AnimeDays](https://animedays.org)
 
@@ -81,7 +86,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/q1n.net/)
 
-### ▶️ [Betterflix](https://betterflix.vercel.app/)
+#### ▶️ [Betterflix](https://betterflix.vercel.app/)
 
 - Repleto de animes, na maior qualidade possível com os recém lançamentos.
 - Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
