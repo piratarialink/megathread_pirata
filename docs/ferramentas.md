@@ -422,9 +422,8 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 ## ► **Inteligência Artificial**
 
-- 🌟 [**G4F**](https://github.com/xtekky/gpt4free) - Projeto no github que une vários modelos de LLM (inclusive os da openAI). Crie sua chave API com 
+- 🌟 [**G4F**](https://g4f.dev/chat) - Todos os chatbots pagos totalmente gratuitos e ilimitados. Alguns provedores como a Azure exigem de você uma chave API que pode ser [gerada com o seu ID de usuário do Hugging Face.](https://g4f.dev/api_key.html)
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
-- [LMArena](https://lmarena.ai/?mode=direct) - **Quase** todos os chatbots pagos totalmente gratuitos e ilimitados.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas. Um pouco complicado de se acostumar a usar.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Sem censura (pode não funcionar na maior parte das vezes).
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não solicita que você baixe um aplicativo dedicado.
