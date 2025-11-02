@@ -86,9 +86,10 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Instale o MacOS em hardwares que não pertencem à Apple. [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
 - [PKGs do Appstorrent](https://appstorrent.ru/os/) - Mesmo conceito do gibMacOS: imagens de diferentes versões do Mac para criar pendrives bootáveis com hackintosh (pelo menos de versões que ainda suportam processador da intel).
 - [Pacotes do Office para Mac](https://massgrave.dev/office_for_mac) - Página bem organizada para downloads de imagens do Office para Mac.
-- [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
-- [UTM](https://github.com/utmapp/UTM/releases) - VM multiplataforma.
 - [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - Script do Macked para crackear apps CC.
+- [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
+- [Stats](https://github.com/exelban/stats) - O equivalente do HWiNFO para o Mac.
+- [UTM](https://github.com/utmapp/UTM/releases) - VM multiplataforma.
 - [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar o MacOS no Linux.
 - **[Trialware]** [CrossOver](https://www.codeweavers.com/crossover) - Faz o papel de rodar jogos do Windows no MacOS.
 - **[Trialware]** [AIDente](https://apphousekitchen.com/) - Aumenta a vida útil da bateria do MacBook.
@@ -186,10 +187,11 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Filtros do uBO
 
 - [LegitimateURLShortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt) - Deleta parâmetros de rastreamento de URLs do Google, YouTube, etc.
+- [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - Curadoria de sites que mantêm conteúdo gerado por IA. Importe a versão raw de cada blocklist no desktop ou mobile.
 - [OISD](https://oisd.nl/) - Previne que seu aparelho se conecte a domínios não solicitados/maliciosos.
 - [Iploggerfilter](https://github.com/piperun/iploggerfilter) - Nome autoexplicativo.
 - [Fanboy Annoyances List](https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt) - Remove Pop-Ups e outros incômodos.
-- [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - Tira os anúncios da Twitch.
+- [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - Projeto do github para retirar os anúncios da Twitch. [Guia básico](https://pirataria.link/guias/twitch)
 
 ## ► Proxies / Desbloqueadores de sites piratas
 
@@ -422,8 +424,8 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 ## ► **Inteligência Artificial**
 
+- 🌟 [**G4F**](https://g4f.dev/chat) - Todos os chatbots pagos totalmente gratuitos e ilimitados. Alguns provedores como a Azure exigem de você uma chave API que pode ser [gerada com o seu ID de usuário do Hugging Face.](https://g4f.dev/api_key.html)
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
-- [LMArena](https://lmarena.ai/?mode=direct) - **Quase** todos os chatbots pagos totalmente gratuitos e ilimitados.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas. Um pouco complicado de se acostumar a usar.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Sem censura (pode não funcionar na maior parte das vezes).
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não solicita que você baixe um aplicativo dedicado.
@@ -478,7 +480,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [Goldberg Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - Emulador Steam. Crackeie seu próprio jogo Steam ou os arquivos Steam limpos compartilhados no subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) do cs.rin.ru
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Emulador Steam. 
 - [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Outro emulador Steam.
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Desbloqueie todas as DLCs em jogos Steam legítimos.
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Desbloqueie todas as DLCs em jogos Steam legítimos. [Guia](https://www.reddit.com/r/pirataria/comments/1i4g3rc/comment/m7uug93/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button)
 - [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) - Instala e configura automaticamente o CreamAPI para jogos Steam.
 - [SteamEmuUtility](https://github.com/turusudiro/SteamEmuUtility) - Extensão do launcher Playnite para rodar o GreenLuma/SmartSteamEmu.
 - [Steamless](https://github.com/atom0s/Steamless) - Remove o SteamStub DRM dos executáveis ​​do jogo Steam se eles o contiverem. Para ser usado em conjunto com um emulador Steam se o emulador sozinho não for suficiente para quebrar a proteção do jogo.
@@ -502,6 +504,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 ## ► **Ferramentas Diversas**
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
+- [Brainser](https://github.com/p1ratrulezzz/brainser) - Melhor forma de ativar as IDEs do JetBrains, caso não funcione você pode tentar [isso aqui.](https://www.reddit.com/r/pirataria/comments/1js9lc7/comment/mlqghtb/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button). Tópico original em [Losper.net.](https://losper.net/topic/283-activation-instruction-jetbrains/)
 - [SlideDownloaders](https://slidedownloaders.com/) - Downloader gratuito do SlideShare - rápido, seguro e sem necessidade de inscrição.
 - [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de download do Terabox.
 - [Unddit](https://undelete.pullpush.io) - Veja posts e comentários removidos do Reddit.
