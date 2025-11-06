@@ -360,10 +360,6 @@ _[**Outros apps para assistir filmes e séries podem ser encontrados aqui**](out
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
 
-### 🧲 [Comando](https://comandofilmeshd.site/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.site/)
-
 ### 🌟 [BluDV](https://bludv.xyz/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv.xyz/)
