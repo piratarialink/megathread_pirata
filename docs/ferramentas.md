@@ -332,7 +332,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► **Segurança**
 
 - [av-comparatives.org](https://www.av-comparatives.org/) - Análises de proteção antivírus.
-- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/library) - Site que cataloga malwares e grupos de ransomware.
+- [abuse.ch](https://abuse.ch) - Database de domínios/endereços IP usados por cibercriminosos, inclua estes dados na blocklist de seu firewall.
 - [Windows Sandbox](https://learn.microsoft.com/pt-br/windows/security/application-security/application-isolation/windows-sandbox/) - Ambiente de testes.
 - [VirusTotal.com](https://www.virustotal.com/) / [Metadefender](https://metadefender.com/) - Serviços da Web que verificam arquivos e URLs.
 - [TarnKappe](https://tarnkappe.info/artikel/it-sicherheit/malware) - Notícias sobre a cena de cibersegurança. **Use um tradutor.**
@@ -428,9 +428,9 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas. Um pouco complicado de se acostumar a usar.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Sem censura (pode não funcionar na maior parte das vezes).
-- [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não solicita que você baixe um aplicativo dedicado.
 - [Roo Code](https://roocode.com) - Gerador/addon de código de programação no Microsoft Visual Studio.
-
+- [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não solicita que você baixe um aplicativo dedicado. [Algumas outras opções para gerar transcrição de vídeo.](https://www.reddit.com/r/pirataria/comments/1oj9dao/comment/nm1ctoy/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button)
+ 
 ## ► **Motores de busca**
 
 - [Meawfy](https://meawfy.com/) - Um mecanismo de busca especializado em encontrar arquivos hospedados no Mega.nz.
@@ -469,7 +469,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 - [Rclone](https://github.com/rclone/rclone) - Responsável por transferir seus saves de jogos crackeados para a nuvem. Funciona como CLI apenas.
 - [Linux Crack Tips](https://www.reddit.com/r/LinuxCrackSupport/) - Subreddit para se obter suporte técnico de jogos crackeados no sistema do pinguim.
-- [ProtonDB](https://www.protondb.com/) - Banco de relatórios de jogos que rodam e não rodam em distros Linux. [Leitura interessante](https://plus.diolinux.com.br/t/execute-jogos-windows-no-linux-com-o-proton-da-steam/38745)
+- [ProtonDB](https://www.protondb.com/) - Database de jogos que rodam e não rodam em distros Linux. [Leitura interessante](https://plus.diolinux.com.br/t/execute-jogos-windows-no-linux-com-o-proton-da-steam/38745)
 - [Better xCloud](https://github.com/redphx/better-xcloud) - Userscript para melhorar a jogatina do Xbox Cloud (Xbox Game Pass) e da Remote Play em navegadores.
 - [Smart Online Fix](https://github.com/BadKiko/steam-online-fix-launcher) - Ferramenta para iniciar e organizar jogos do online-fix-me no Linux.
 
