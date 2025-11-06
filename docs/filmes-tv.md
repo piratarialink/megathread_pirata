@@ -360,13 +360,13 @@ _[**Outros apps para assistir filmes e séries podem ser encontrados aqui**](out
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
 
-### 🧲 [Comando](https://comandofilmeshd.site/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmeshd.site/)
-
 ### 🌟 [BluDV](https://bludv.xyz/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv.xyz/)
+
+### 🧲 [Sem Torrent](https://semtorrent.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/semtorrent.com/)
 
 ### 🧲 [Torrent dos Filmes.site](https://torrentdosfilmes.site/)
 
@@ -375,6 +375,10 @@ _[**Outros apps para assistir filmes e séries podem ser encontrados aqui**](out
 ### 🧲 [Comando Filmes](https://comandofilmes.xyz/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmes.xyz/)
+
+### 🧲 [HDR Torrent](https://hdrtorrent.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hdrtorrent.com/)
 
 ### 🧲 [Starck Filmes](https://www.starckfilmes.com/)
 

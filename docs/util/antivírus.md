@@ -46,7 +46,7 @@ Conclusão: Assim como o Panda, o Kaspersky construiu sua reputação por anúnc
 ## Outros antivírus
 
 Bitdefender é caro, McAfee e TotalAV também.
-Bitdefender é decente.
+Bitdefender é bom, ClamAV é decente.
 McAfee é meh.
 
 ## Resumo
