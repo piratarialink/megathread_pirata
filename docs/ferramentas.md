@@ -67,7 +67,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Flathub](https://flathub.org/pt-BR) - Simplifica a descoberta de novos programas e pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
 - [DFM](https://apps.kde.org/dolphin/) - Gerenciador de arquivos exclusivo do KDE Plasma, otimizado e altamente prático.
 - [Dippi](https://github.com/cassidyjames/dippi) - Programa desenvolvido tendo em mente o GNOME, analisa a resolução e proporção da tela e retorna alguns detalhes importantes sobre o monitor.
-- 🌟 [**Ananicy Cpp**](https://gitlab.com/ananicy-cpp/ananicy-cpp) - Monitora processos do seu sistema operacional e aciona prioridades baseado no seu critério pré-definido.
+- 🌟 [**Resources**](https://github.com/nokyan/resources) - Monitora processos do seu sistema operacional e aciona prioridades baseado no seu critério pré-definido.
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio escrito em Python; oferece separação em tags, playlists, álbuns e avaliações como recurso.
 - [Hyprland](https://hypr.land/) - Gerenciador de janelas para usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
