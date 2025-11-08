@@ -39,10 +39,5 @@ _Exemplo da interface apresentada:_
 - Aguarde enquanto o script processa a ativação.
 - Quando a mensagem **"... Is permanently activated..."** aparecer, isso indica que a ativação foi concluída com sucesso.
 
-## Considerações Finais
-
-- **Riscos:**
-  Este método de ativação se destaca pela sua abordagem inovadora e segura. Ao contrário de outros métodos que alteram arquivos críticos do sistema, ele não modifica nenhuma parte do Windows, garantindo a integridade e estabilidade do seu ambiente. Utilizando uma falha específica, o método permite obter uma chave autêntica diretamente da Microsoft, proporcionando uma ativação legítima e permanente. Por conta desse processo não invasivo e eficaz, é considerado atualmente o método de ativação mais seguro e confiável.
-
 - **Fonte de Origem:**
   Este guia foi elaborado com base no post de [Ok_Table7457](https://www.reddit.com/r/Piracy/comments/1814gmp/guide_how_to_pirate_microsoft_office_properly/).
