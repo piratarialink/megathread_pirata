@@ -179,7 +179,7 @@ UniTv / BTV / Brasil TV - são IPTVs tradicionais, estas empresas têm os arquiv
 
 **Emulador**: Um software que permite que um computador execute jogos projetados para uma plataforma diferente, como jogos de console em um PC.
 
-**File-Types**: [Índice detalhado](https://interviewfor.red/en/mp3.html) dos tipos de arquivos para diferentes consoles.
+**File-Types**: [Índice detalhado](https://emulation.gametechwiki.com/index.php/List_of_filetypes) dos tipos de arquivos para diferentes consoles.
 
 **Homebrew**: Homebrewing — também conhecido como modding, hacking ou jailbreaking — é o ato de modificar seus consoles de jogos para rodar softwares não oficiais.
 
