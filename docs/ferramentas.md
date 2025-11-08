@@ -27,7 +27,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL faz.
 - [Microsoft Toolkit](https://gitlab.com/-/project/11037551/uploads/f73eea2588a1ba5e81e529658089b20d/MTKV274.7z) - Utilitário de multipropósito: pode ativar o Windows, editar componentes e gerir a licença. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Conjunto destinado a usuários avançados que permite renomear arquivos pelo RegEx (expressões regulares) e melhorar a UX para uma produtividade maior.
-- 🌟 [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário Windows de Chris Titus Tech - Instalar programas, ajustes, correções e atualizações.
+- 🌟 [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário feito pelo canal Chris Titus Tech - Instala programas, ajustes, correções e atualizações.
 - [AME Wizard](https://ameliorated.io) - Feito para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 11.
 - 🌟 [**SophiApp**](https://github.com/Sophia-Community/SophiApp) - A ferramenta de código aberto mais poderosa no GitHub para configurar e fazer debloat do Windows 10 e Windows 11.
 - [Optimizer](https://github.com/hellzerg/optimizer) - Projetado para aprimorar sua privacidade e segurança no Windows.
@@ -40,7 +40,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows translúcida/transparente.
 - 🌟 [**ShutUp10++**](https://www.oo-software.com/en/shutup10) - Controle quais dados devem ou não ser coletados pela Microsoft.
 - [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à experiência moderna do Windows
-- [Wintoys](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge de uma vez por todas.
+- [Wintoys](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge (quando não funcionar, [tente isso](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)), retira os anúncios da Microsoft e habilita o "God Mode".
 - 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto. [Artigo](https://www.tomshardware.com/software/windows/how-to-tweak-your-windows-11-and-windows-10-setup-with-winaero-tweaker-easily-remove-ads-tracking-ai-copilot-and-more)
 
 ## ► **Downloads modificados/intactos do Windows e do Office**
@@ -67,7 +67,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Flathub](https://flathub.org/pt-BR) - Simplifica a descoberta de novos programas e pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
 - [DFM](https://apps.kde.org/dolphin/) - Gerenciador de arquivos exclusivo do KDE Plasma, otimizado e altamente prático.
 - [Dippi](https://github.com/cassidyjames/dippi) - Programa desenvolvido tendo em mente o GNOME, analisa a resolução e proporção da tela e retorna alguns detalhes importantes sobre o monitor.
-- 🌟 [**Ananicy Cpp**](https://gitlab.com/ananicy-cpp/ananicy-cpp) - Monitora processos do seu sistema operacional e aciona prioridades baseado no seu critério pré-definido.
+- 🌟 [**Resources**](https://github.com/nokyan/resources) - Monitora processos do seu sistema operacional e aciona prioridades baseado no seu critério pré-definido.
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio escrito em Python; oferece separação em tags, playlists, álbuns e avaliações como recurso.
 - [Hyprland](https://hypr.land/) - Gerenciador de janelas para usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
@@ -88,7 +88,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Pacotes do Office para Mac](https://massgrave.dev/office_for_mac) - Página bem organizada para downloads de imagens do Office para Mac.
 - [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - Script do Macked para crackear apps CC.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
-- [Stats](https://github.com/exelban/stats) - O equivalente do HWiNFO para o Mac.
+- [Stats](https://github.com/exelban/stats) - O equivalente do HWiNFO para o OS X.
 - [UTM](https://github.com/utmapp/UTM/releases) - VM multiplataforma.
 - [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar o MacOS no Linux.
 - **[Trialware]** [CrossOver](https://www.codeweavers.com/crossover) - Faz o papel de rodar jogos do Windows no MacOS.
