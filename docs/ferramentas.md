@@ -66,10 +66,10 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
 - [Flathub](https://flathub.org/pt-BR) - Simplifica a descoberta de novos programas e pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
 - [DFM](https://apps.kde.org/dolphin/) - Gerenciador de arquivos exclusivo do KDE Plasma, otimizado e altamente prático.
-- [Dippi](https://github.com/cassidyjames/dippi) - Programa desenvolvido tendo em mente o GNOME, analisa a resolução e proporção da tela e retorna alguns detalhes importantes sobre o monitor.
-- 🌟 [**Resources**](https://github.com/nokyan/resources) - Monitora processos do seu sistema operacional e aciona prioridades baseado no seu critério pré-definido.
+- [Resources](https://github.com/nokyan/resources) - Monitora processos do seu sistema operacional e aciona prioridades baseado no seu critério pré-definido.
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio escrito em Python; oferece separação em tags, playlists, álbuns e avaliações como recurso.
 - [Hyprland](https://hypr.land/) - Gerenciador de janelas para usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
+- [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar diversas versões do OS X no Linux.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
 - [AutoKey](https://github.com/autokey/autokey) - Mesmo conceito do AutoHotKey, só que para Linux.
 - 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova os anúncios do Ubuntu PRO e outras bizarrices da Canonical com esse método. Post original do [Ask Ubuntu](https://askubuntu.com/a/1438510).
@@ -90,7 +90,6 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
 - [Stats](https://github.com/exelban/stats) - O equivalente do HWiNFO para o OS X.
 - [UTM](https://github.com/utmapp/UTM/releases) - VM multiplataforma.
-- [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar o MacOS no Linux.
 - **[Trialware]** [CrossOver](https://www.codeweavers.com/crossover) - Faz o papel de rodar jogos do Windows no MacOS.
 - **[Trialware]** [AIDente](https://apphousekitchen.com/) - Aumenta a vida útil da bateria do MacBook.
 - **[Pago]** [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - Limita o uso da Internet e envio de dados para servidores específicos.
@@ -440,6 +439,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 ## ► **SSH**
 
 > São serviços de tunelamento que usam o protocolo SSH para transmitir uma conexão de dados móveis ilimitada.
+Fique atento às mensagens do [nosso grupo do telegram](https://t.me/deckpirata) para obter os arquivos EHI.
 
 - [FastSSH](https://www.fastssh.com/page/ssh-over-websocket-servers)
 - [SSHconnect](https://sshconect.com.br/)
