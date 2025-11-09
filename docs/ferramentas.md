@@ -324,7 +324,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Seedboxes
 
-- **[Trialware]** [torbox.app](https://www.torbox.app/) - Seedbox gratuito que permite baixar torrents de até **10 GB** de tamanho. Se você deseja se tornar premium, evite comprar de semeadores - eles são muito caros.
+- **[Trialware]** [torbox.app](https://www.torbox.app/) - Seedbox gratuito que permite baixar torrents de até **10 GB** de tamanho. **Nota:** se você deseja se tornar premium, evite comprar de semeadores - eles são muito caros.
 - **[Pago]** [ultra.cc](https://ultra.cc/) - De 1 até 50 Gbps de bandwidth no plano básico, estabeleça um [limite](./images/ultra.png) de semeação dentro do qBit para não prejudicar outros usuários.
 - **[Pago]** [whatbox.ca](https://whatbox.ca/plans) - Servidor localizado nos EUA (excelente para brasileiros) e maior tráfego se comparado com o ultra seedbox.
 
@@ -452,7 +452,7 @@ Fique atento as mensagens do [nosso grupo do telegram](https://t.me/deckpirata) 
 :::warning O pirataria.link não responde pelo compartilhamento de dados pessoais por terceiros.
 :::
 
-- [TTM](https://t.me/Ttmlog_bot) - Bot que coleta credenciais de usuários de diversos sites.
+- [TTM](https://t.me/TTMlogsBot) - Bot que coleta credenciais de usuários de diversos sites.
 - [STEAM7](https://t.me/steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas Steam.
 - **[Pago]** [Xinyu Store](https://xinyustore.com/) - Fornece assinaturas **compartilhadas** da Alura, Qconcursos e estratégia para você estudar a preços justos e acessíveis.
 - [CrackingX](https://crackingx.com) - Combolists e contas de streaming.
