@@ -439,7 +439,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 ## ► **SSH**
 
 > São serviços de tunelamento que usam o protocolo SSH para transmitir uma conexão de dados móveis ilimitada.
-Fique atento às mensagens do [nosso grupo do telegram](https://t.me/deckpirata) para obter os arquivos EHI.
+Fique atento as mensagens do [nosso grupo do telegram](https://t.me/deckpirata) para obter os arquivos EHI.
 
 - [FastSSH](https://www.fastssh.com/page/ssh-over-websocket-servers)
 - [SSHconnect](https://sshconect.com.br/)
