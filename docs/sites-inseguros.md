@@ -92,7 +92,7 @@
 |:-------------------------------|:-------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | KMSPico                        |                                            | **Ativador** (_O projeto original foi descontinuado, qualquer site que o disponibilize é fraude_).                        |
 | CrackedFully                   | crackedfully-com                           | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                                      |
-| Ventoy                         | ventoy-net                                 | **Comportamento antiético** (_Foi descoberto um [backdoor](https://github.com/ventoy/Ventoy/issues/2795) no seu código_). |
+| Ventoy                         | ventoy-net                                 | **Comportamento antiético** (_Foi descoberto um [backdoor](https://github.com/ventoy/Ventoy/issues/2795) no seu código fonte_). |
 | 💩 Raton Downloads             | ratondownload-net-br                       | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).                                      |
 | HaxPC                          | haxpc-net                                  | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                                      |
 | KoLomPC                        | kolompc-com                                | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                                      |
