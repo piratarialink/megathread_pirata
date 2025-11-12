@@ -65,9 +65,9 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
 - [Flathub](https://flathub.org/pt-BR) - Simplifica a descoberta de novos programas e pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
 - [DFM](https://apps.kde.org/dolphin/) - Gerenciador de arquivos exclusivo do KDE Plasma, otimizado e altamente prático.
-- [Resources](https://github.com/nokyan/resources) - Monitora processos do seu sistema operacional e aciona prioridades baseado no seu critério pré-definido.
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio escrito em Python; oferece separação em tags, playlists, álbuns e avaliações como recurso.
 - [Hyprland](https://hypr.land/) - Gerenciador de janelas para usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
+- 🌟 [**htop**](https://htop.dev/) - Para monitorar processos em execução através da linha de comando, você pode acionar prioridades com base em seu critério pré-definido.
 - [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar [diversas versões do OS X](https://archive.org/details/macOS-X-images) no Linux. Substitua a extensão .iso do ficheiro baixado por .img.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
 - [AutoKey](https://github.com/autokey/autokey) - Mesmo conceito do AutoHotKey, só que para Linux.
