@@ -100,8 +100,7 @@ Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que c
 
 ### [Mullvad VPN](https://mullvad.net/)
 
-- Barata, com vários servidores e rápida
-- Mullvad Leta
+- Barata, rápida e com vários servidores
 - Suporta Monero
 
 ![Mullvad](./images/mullvad_vpn.png)
