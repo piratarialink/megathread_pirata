@@ -82,8 +82,8 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 ## ► **Ferramentas para MacOS**
 
 - 🌟 [**FMHY - Hackintosh**](https://fmhy.net/system-tools#hackintosh) - Algumas recomendações úteis.
-- [gibMacOS](https://github.com/corpnewt/gibMacOS) - Instale o MacOS em hardwares que não pertencem à Apple. [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
-- [PKGs do Appstorrent](https://appstorrent.ru/os/) - Mesmo conceito do gibMacOS: imagens de diferentes versões do Mac para criar pendrives bootáveis com hackintosh (pelo menos de versões que ainda suportam processador da intel).
+- [gibMacOS](https://github.com/corpnewt/gibMacOS) - Imagens do OSX para criar pendrives bootáveis com hackintosh (pelo menos de versões que ainda suportam o processador da intel). [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
+- [PKGs do Appstorrent](https://appstorrent.ru/os/) - Site russo com arquivos firmware de diferentes versões do Mac para fazer upgrade/downgrade.
 - [Pacotes do Office para Mac](https://massgrave.dev/office_for_mac) - Página bem organizada para downloads de imagens do Office para Mac.
 - [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - Script do Macked para crackear apps CC.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
@@ -323,7 +323,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Seedboxes
 
-- **[Trialware]** [torbox.app](https://www.torbox.app/) - Seedbox gratuito que permite baixar torrents de até **10 GB** de tamanho. **Nota:** se você deseja se tornar premium, evite comprar de semeadores - eles são muito caros.
+- 🌟 **[Trialware]** [**torbox.app**](https://www.torbox.app/) - Seedbox gratuito que permite baixar torrents de até **10 GB** de tamanho. **Nota:** se você deseja se tornar premium, evite comprar de semeadores - eles são muito caros.
 - **[Pago]** [ultra.cc](https://ultra.cc/) - De 1 até 50 Gbps de bandwidth no plano básico, estabeleça um [limite](./images/ultra.png) de semeação dentro do qBit para não prejudicar outros usuários.
 - **[Pago]** [whatbox.ca](https://whatbox.ca/plans) - Servidor localizado nos EUA (excelente para brasileiros) e maior tráfego se comparado com o ultra seedbox.
 
@@ -443,6 +443,7 @@ Fique atento as mensagens do [nosso grupo do telegram](https://t.me/deckpirata) 
 - [FastSSH](https://www.fastssh.com/page/ssh-over-websocket-servers)
 - [SSHconnect](https://sshconect.com.br/)
 - [Rev Hunter](https://www.revhuntervpn.xyz/)
+- [Sockets
 - [HTTP Injector](https://httpinjector.com/)
 - [NetMod VPN Client](https://sourceforge.net/projects/netmodhttp/)
 
