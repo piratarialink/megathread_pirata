@@ -212,6 +212,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 ### 🔗 [Install Gentoo](https://igwiki.lyci.de/wiki/Private_trackers)  
 
 - Página de autoria do /g/, apresenta com uma riqueza de detalhes a história da cena tracker e também fornece algumas dicas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/igwiki.lyci.de/)
 
 ### 🔗 [Scene-RLS RELEASES](https://scene-rls.net/releases/index.php)
 
