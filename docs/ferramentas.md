@@ -83,7 +83,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 - 🌟 [**FMHY - Hackintosh**](https://fmhy.net/system-tools#hackintosh) - Algumas recomendações úteis.
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Imagens do OSX para criar pendrives bootáveis com hackintosh (pelo menos de versões que ainda suportam o processador da intel). [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
-- [PKGs do Appstorrent](https://appstorrent.ru/os/) - Site russo com arquivos firmware de diferentes versões do Mac para fazer upgrade/downgrade.
+- [PKGs do Appstorrent](https://appstorrent.ru/os/) - Site russo com arquivos de firmware de diferentes versões do Mac para fazer upgrade/downgrade.
 - [Pacotes do Office para Mac](https://massgrave.dev/office_for_mac) - Página bem organizada para downloads de imagens do Office para Mac.
 - [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - Script do Macked para crackear apps CC.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
