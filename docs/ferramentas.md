@@ -248,7 +248,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Ferramentas de mídia
 
 - 🌟 [**OBS Studio**](https://github.com/obsproject/obs-studio) - Aplicativo de desktop de código aberto, tende a ser opção mais prática quando o assunto é gravação de tela.
-- [davincibox](https://github.com/zelikos/davincibox) - Ferramenta para aprimorar o uso do DaVinci Resolve (um software de edição de vídeo excelente e 90% do tempo gratuito) no Fedora.
+- [davincibox](https://github.com/zelikos/davincibox) - Ferramenta para aprimorar o DaVinci Resolve (um software de edição de vídeo excelente e 90% do tempo gratuito) no Fedora.
 - [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente audio codec AC3.
 - [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
 - [VLsub](https://github.com/opensubtitles/vlsub-opensubtitles-com) - Baixa legendas diretamente pelo vlc sem ter que abrir o site do opensubtitles.
@@ -269,10 +269,10 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 * [JDownloader2](http://jdownloader.org/jdownloader2) - É distinto dos demais gerenciadores de download porque suporta o download de hosts de links premium como o **NitroFlare** (apenas em situações que não exigem conta). Reúna e cole todos os links de um arquivo dividido em partes para baixá-lo.
 * **[Trialware]** [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente [faça isso](https://rentry.org/installidm).
-* [Gerenciador de downloads XTREME](https://subhra74.github.io/xdm/) - Outro gerenciador de downloads muito bom
+* [Brisk Download Manager](https://github.com/AminBhst/brisk) - Outro gerenciador de downloads muito bom, embora seja um pouco lento.
 * [pyLoad](https://pyload.net/) - Gerenciador de downloads leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
 * [aria2](https://aria2.github.io/) - Utilitário de download baseado em linha de comando.
-* [AB Download Manager](https://github.com/amir1376/ab-download-manager) - Aplicativo para desktop que o ajuda a organizar e manter seus downloads; possui uma interface limpa e amigável e acima de tudo, é open source.
+* [ArrowDL](https://www.arrow-dl.com/) - Aplicativo para desktop que o ajuda a organizar e manter seus downloads; possui uma interface limpa e amigável e acima de tudo, é open-source.
 
 ## ► Ferramentas de download
 
