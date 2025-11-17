@@ -407,7 +407,6 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 - [Nowhere](http://nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion)
 - [Exílio404](http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion/)
-- [Samuya](https://samuya.neocities.org/onionLinks)
 - [Dig Deeper](https://digdeeper.club/) / [2](http://34reqsy6tqou6avwrkm23s4mpkrwz3drtq2e5yr7sywi76h7plnaahad.onion/) / [3](http://5essxguxi5enurgtuquvrjuvikss4gc5lbhmtz57cq4cedqx5tqvaxqd.onion/)
 - [AnarSec](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/series/)
 - [Suprbay](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/)
@@ -425,10 +424,10 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 - 🌟 [**G4F**](https://g4f.dev/chat) - ChatGPT 5 totalmente gratuito e ilimitado. Alguns provedores como a Azure exigem de você uma chave API que pode ser [gerada com o seu ID de usuário do Hugging Face.](https://g4f.dev/api_key.html)
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
-- [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas. Um pouco complicado de se acostumar a usar.
-- [FreedomGPT](https://chat.freedomgpt.com/pt) - Sem censura (pode não funcionar na maior parte das vezes).
-- [Roo Code](https://roocode.com) - Gerador/addon de código de programação no Microsoft Visual Studio.
-- [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado. [Algumas outras opções para gerar transcrição de vídeo.](https://www.reddit.com/r/pirataria/comments/1oj9dao/comment/nm1ctoy/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button) [(incluindo o pyVideoTrans)](https://pyvideotrans.com/)
+- [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas. Um pouco complicado de se acostumar a usar, requer uma conta para se poder utilizar.
+- [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura, algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6) e [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) (podem não funcionar na maior parte do tempo).
+- [Roo Code](https://roocode.com) - Gerador/addon de código de programação no Microsoft Visual Studio, funciona com qualquer modelo de IA.
+- [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado. - [pyVideoTrans)](https://pyvideotrans.com/) - Mesmo conceito do Legen: automaticamente traduz e sincroniza a fala e embute hardsubs de forma completamente gratuita.
  
 ## ► **Motores de busca**
 
