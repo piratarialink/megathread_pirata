@@ -244,6 +244,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Medusa](https://pymedusa.com/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [SickChill](https://sickchill.github.io/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [Lidarr](https://lidarr.audio/) - Um Radarr para álbuns musicais.
+- [PT-depiler](https://github.com/pt-plugins/PT-depiler) - Compatível com diversos frameworks de sites privados de torrents (NexusPHP, Unit3D e Gazelle), esta ferramenta simplifica e acelera o download de torrents e realiza também outras operações.
 
 ## ► Ferramentas de mídia
 
