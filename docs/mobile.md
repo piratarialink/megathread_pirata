@@ -101,7 +101,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [AuroraOSS](https://auroraoss.com/)
 
-- Cliente alternativo para Google Play, permite aos usuários baixar, atualizar e pesquisar aplicativos.
+- Cliente alternativo para o Google Play, permite aos usuários baixar, atualizar e pesquisar aplicativos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/auroraoss.com/)
 
 ### 🌟 [F-Droid](https://f-droid.org/)
