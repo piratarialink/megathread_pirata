@@ -428,7 +428,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura - algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6) e [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) (podem não funcionar na maior parte do tempo).
 - [Roo Code](https://roocode.com) - Gerador/addon de código de programação no Microsoft Visual Studio, suporta integração com modelos da OpenAI, Anthropic e Google Gemini, apenas para citar alguns.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado.
-- [pyVideoTrans](https://pyvideotrans.com/) - Mesmo conceito do Legen: embute hardsubs em vídeo com base em modelos do Whisper, com a única diferença de poder dublar e sincronizar a fala automaticamente.
+- [pyVideoTrans](https://pyvideotrans.com/) - Mesmo conceito do Legen: embute hardsubs em vídeos com base em modelos do Whisper, com a única diferença de poder dublar e sincronizar a fala automaticamente.
  
 ## ► **Motores de busca**
 
