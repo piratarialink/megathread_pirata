@@ -96,7 +96,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Appteka](https://appteka.store/)
 
-- Loja Android gratuito que dá acesso a uma vasta coleção de aplicativos gratuitos.
+- Loja Android que dá acesso a uma vasta coleção de aplicativos gratuitos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/appteka.store/)
 
 ### 🔗 [AuroraOSS](https://auroraoss.com/)
