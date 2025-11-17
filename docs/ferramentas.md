@@ -425,10 +425,10 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - 🌟 [**G4F**](https://g4f.dev/chat) - ChatGPT 5 totalmente gratuito e ilimitado. Alguns provedores como a Azure exigem de você uma chave API que pode ser [gerada com o seu ID de usuário do Hugging Face.](https://g4f.dev/api_key.html)
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas. Um pouco complicado de se acostumar a usar. Caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
-- [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura, algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6) e [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) (podem não funcionar na maior parte do tempo).
-- [Roo Code](https://roocode.com) - Gerador/addon de código de programação no Microsoft Visual Studio, funciona com qualquer modelo de IA.
+- [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura - algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6) e [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) (podem não funcionar na maior parte do tempo).
+- [Roo Code](https://roocode.com) - Gerador/addon de código de programação no Microsoft Visual Studio, suporta integração com os modelos do Claude, Anthropic e Google Gemini, apenas para citar alguns.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado.
-- [pyVideoTrans)](https://pyvideotrans.com/) - Mesmo conceito do Legen: automaticamente traduz e sincroniza a fala e embute hardsubs de forma completamente gratuita.
+- [pyVideoTrans](https://pyvideotrans.com/) - Mesmo conceito do Legen: embute hardsubs em vídeo com base em modelos do Whisper, com a única diferença de poder dublar e sincronizar a fala automaticamente.
  
 ## ► **Motores de busca**
 
