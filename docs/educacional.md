@@ -17,8 +17,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 🎓 ➜ Streaming
 
-### 🌟 **[Cursos de programação Dev Samurai](https://class.devsamurai.com.br/)** - A plataforma encerrou as vendas e liberou o download gratuitamente de todos os conteúdos até dezembro de 2025.
-
 ### 🌟 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode assistir aos cursos pelo Telegram.
 
 ### ▶️ **[curso em vídeo](https://www.cursoemvideo.com/)** - Cursos
@@ -180,6 +178,10 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### 🔗 [Império Cursos](https://t.me/imperiocursos)
 
 - Hud utilizado apenas como um portal de acesso para o canal oficial.
+
+### 🔗 [Dev Samurai - Acervo](https://t.me/devsamurai_acervo)
+
+- Aulas que estavam disponíveis gratuitamente na plataforma Dev Samurai até dezembro de 2025.
 
 ### 🤖 [Search bot](https://t.me/en_SearchBot)
 
