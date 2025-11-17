@@ -313,6 +313,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/upnovelas.com/)
 
+### 📺️ [Minha TV](https://stremio-addons.net/addons/minha-tv)
+
+- Add-on de IPTV para o Stremio.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/stremio-addons.net/)
+
 ### 📺️ [Pluto TV](https://pluto.tv/)
 
 - Serviço gratuito de Streaming de televisão da Paramount.
