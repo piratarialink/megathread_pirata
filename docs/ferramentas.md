@@ -428,7 +428,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas. Um pouco complicado de se acostumar a usar.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Sem censura (pode não funcionar na maior parte das vezes).
 - [Roo Code](https://roocode.com) - Gerador/addon de código de programação no Microsoft Visual Studio.
-- [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não solicita que você baixe um aplicativo dedicado. [Algumas outras opções para gerar transcrição de vídeo.](https://www.reddit.com/r/pirataria/comments/1oj9dao/comment/nm1ctoy/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button)
+- [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado. [Algumas outras opções para gerar transcrição de vídeo.](https://www.reddit.com/r/pirataria/comments/1oj9dao/comment/nm1ctoy/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button) [(incluindo o pyVideoTrans)](https://pyvideotrans.com/)
  
 ## ► **Motores de busca**
 
