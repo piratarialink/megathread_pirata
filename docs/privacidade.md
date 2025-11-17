@@ -52,7 +52,7 @@ Procurando manter o legado do Mull Browser vivo, este software leve é o meio ma
 
 ### [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 
-Trata-se de um projeto opensource (código aberto), baseado em Chromium, mas sem manipulação do Google: remove os serviços e rastreamento do Google e telemetria.
+Trata-se de um projeto open-source (código aberto), baseado em Chromium, mas sem manipulação do Google: remove os serviços e rastreamento do Google e telemetria.
 Todavia requer que o usuário configure de maneira manual, para uma privacidade ainda mais robusta.
 
 :::tip É fundamental que você use [isso](https://github.com/NeverDecaf/chromium-web-store)
