@@ -28,7 +28,7 @@
 - Navegador: Baseado no Firefox + nuMatrix + CSS Exfil Protection + Containers + arkenfox.js
 - Chat: Lemmy, SimpleX, Mastodon, XMPP e systemli.org
 - XMPP: Psi+ no desktop e Conversations no android
-- Android: GrapheneOS
+- Android: GrapheneOS, LineageOS ou CalyxOS
 - Desktop: Linux (Live Boot para um sigilo maior ou Dual Boot para uso casual) com LUKS
 - Anti-DDoS: Anubis
 - Provedor de dominio: Sarek Oy, Porkbun
