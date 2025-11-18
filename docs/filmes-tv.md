@@ -333,9 +333,9 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Agregação em massa de listas de IPTV gratuitas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 📺️ [Free-TV](https://github.com/Free-TV/IPTV)
+### 📺️ [Free TV](https://github.com/Free-TV/IPTV)
 
-- Listas de IPTV de emissoras abertas e livres de copyright do [Brasil](https://github.com/Free-TV/IPTV/blob/master/lists/brazil.md) e do restante do mundo.
+- Playlists .M3U de emissoras abertas e livres de copyright do [Brasil](https://github.com/Free-TV/IPTV/blob/master/lists/brazil.md) e do restante do mundo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 📺️ [Betterflix](https://betterflix.vercel.app/)
