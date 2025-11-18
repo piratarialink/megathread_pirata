@@ -22,7 +22,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O Ohook ativa a licença do Office, O HWID ativa permanentemente o Windows 10/11 e o modo KMS38 (defasado para novas versões) é mais voltado para LTSC/Enterprise.[**Guia**](guias/ativacao-office-win.md)
 - [Office C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte a versão Retail do Office em licença de volume.
 - [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Automatiza ativações de licença do Office e Windows. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
-- 🌟 [**Consumer ESU Enrollment**](https://github.com/abbodi1406/ConsumerESU) - Para computadores que não foram aceitos no suporte estendido do Windows 10 até 2026 dado pela Microsoft. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-windows-10-esu-license-all-options-activation-and-troubleshooting.89665/)
+- 🌟 [**Consumer ESU Enrollment**](https://github.com/abbodi1406/ConsumerESU) - Para computadores que não foram aceitos no suporte estendido do Windows 10 Consumer Edition até 2026 dado pela Microsoft. **Nota: a versão LTSC tem suporte até 2027.** Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-windows-10-esu-license-all-options-activation-and-troubleshooting.89665/)
 - [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL faz.
 - [Microsoft Toolkit](https://gitlab.com/-/project/11037551/uploads/f73eea2588a1ba5e81e529658089b20d/MTKV274.7z) - Utilitário de multipropósito: pode ativar o Windows, editar componentes e gerir a licença. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Conjunto destinado a usuários avançados que permite renomear arquivos pelo RegEx (expressões regulares) e melhorar a UX para uma produtividade maior.
@@ -77,7 +77,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**ubuntu-debullshit!**](https://github.com/polhdez/ubuntu-debullshit) - Retira a coleta de dados e os snaps da Canonical, **em versões mais recentes do Ubuntu, a telemetria é mais opt-out (você precisa desativá-la durante a instalação)**. Post original por [u/klfld](https://www.reddit.com/r/linux/comments/13fj1xf/ubuntudebullshit_script_to_get_vanilla_gnome/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button).
 - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Abafa ruídos e barulho ambiente, fica atrás apenas do Easy Effects e Audacity nesse quesito.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV com suporte para TV ao vivo, filmes e seriados. Possui desenvolvimento ativo apenas para o Mint, no entanto pode ser configurado através da build ou pelo [Distrobox](https://distrobox.it/).(recomendado)
-- [Czkawka](https://github.com/qarmin/czkawka) - Varre em lote duplicatas, pastas vazias, imagens semelhantes e outros arquivos desnecessários do sistema.
+- [Czkawka](https://github.com/qarmin/czkawka) - Varredura em lote de duplicatas, pastas vazias, imagens semelhantes e outros arquivos desnecessários do sistema.
 
 ## ► **Ferramentas para MacOS**
 
