@@ -313,6 +313,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/upnovelas.com/)
 
+### 📺️ [Minha TV](https://stremio-addons.net/addons/minha-tv)
+
+- Add-on de IPTV para o Stremio. Algumas listas .m3u podem ser obtidas por meio dessa extensão.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/stremio-addons.net/)
+
 ### 📺️ [Pluto TV](https://pluto.tv/)
 
 - Serviço gratuito de Streaming de televisão da Paramount.
@@ -326,6 +331,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 📺️ [Iptv-Brasil-2025](https://github.com/Ramys/Iptv-Brasil-2023)
 
 - Agregação em massa de listas de IPTV gratuitas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 📺️ [Free TV](https://github.com/Free-TV/IPTV)
+
+- Playlists .M3U de emissoras abertas e livres de copyright do [Brasil](https://github.com/Free-TV/IPTV/blob/master/lists/brazil.md) e do restante do mundo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 📺️ [Betterflix](https://betterflix.vercel.app/)

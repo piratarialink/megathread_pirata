@@ -19,10 +19,10 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► **Ferramentas para Windows / Office**
 
-- 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O Ohook ativa a licença do Office, O HWID ativa permanentemente o Windows 10/11 e o modo KMS38 é mais voltado para LTSC/Enterprise. [**Guia**](guias/ativacao-office-win.md)
+- 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O Ohook ativa a licença do Office, O HWID ativa permanentemente o Windows 10/11 e o modo KMS38 (defasado para novas versões) é mais voltado para LTSC/Enterprise.[**Guia**](guias/ativacao-office-win.md)
 - [Office C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte a versão Retail do Office em licença de volume.
 - [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Automatiza ativações de licença do Office e Windows. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
-- 🌟 [**Consumer ESU Enrollment**](https://github.com/abbodi1406/ConsumerESU) - Para computadores que não foram aceitos no suporte estendido do Windows 10 até 2026 dado pela Microsoft. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-windows-10-esu-license-all-options-activation-and-troubleshooting.89665/)
+- 🌟 [**Consumer ESU Enrollment**](https://github.com/abbodi1406/ConsumerESU) - Para computadores que não foram aceitos no suporte estendido do Windows 10 Consumer Edition até 2026 dado pela Microsoft. **Nota: a versão LTSC tem suporte até 2027** - Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-windows-10-esu-license-all-options-activation-and-troubleshooting.89665/)
 - [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL faz.
 - [Microsoft Toolkit](https://gitlab.com/-/project/11037551/uploads/f73eea2588a1ba5e81e529658089b20d/MTKV274.7z) - Utilitário de multipropósito: pode ativar o Windows, editar componentes e gerir a licença. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Conjunto destinado a usuários avançados que permite renomear arquivos pelo RegEx (expressões regulares) e melhorar a UX para uma produtividade maior.
@@ -60,24 +60,24 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**Q4Wine**](https://flathub.org/en/apps/ua.org.brezblock.q4wine) - O q4wine é um programa que oferece uma interface gráfica (GUI) para o Wine, feito com o intuito de gerenciar prefixos (local de instalação) e executáveis com facilidade.
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de ISOs customizadas upadas todos os dias.
 - [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor doméstico eficaz e protegido (sendo Debian a melhor distro para essa função).
+- 🌟 [**Hints**](https://github.com/AlfredoSequeida/hints?tab=readme-ov-file) - Feito para quem já está habituado a usar sobretudo o teclado em comparação com o mouse, atente-se ao _setup_ específico do seu gerenciador de janelas [seguindo esse passo a passo.](https://github.com/AlfredoSequeida/hints/wiki/Window-Manager-and-Desktop-Environment-Setup-Guide)
 - [4Noobs](https://github.com/he4rt/4noobs#-sistemas-operacionais) - Projeto desenvolvido pela comunidade brasileira He4rtLabs.
 - [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um tema GTK3/GTK4 aprovado pela comunidade.
 - 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
 - [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a descoberta de novos programas e pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
 - [DFM](https://apps.kde.org/dolphin/) - Gerenciador de arquivos exclusivo do KDE Plasma, otimizado e altamente prático.
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio escrito em Python; oferece separação em tags, playlists, álbuns e avaliações como recurso.
-- [Hyprland](https://hypr.land/) - Gerenciador de janelas para usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
+- [Hyprland](https://hypr.land/) - O Hyprland é um compositor de janelas derivado do Wayland e destinado para usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
 - 🌟 [**htop**](https://htop.dev/) - Para monitorar processos em execução através da linha de comando, você pode acionar prioridades com base em seu critério pré-definido.
 - [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar [diversas versões do OS X](https://archive.org/details/macOS-X-images) no Linux. Substitua a extensão .iso do ficheiro baixado por .img.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
-- [AutoKey](https://github.com/autokey/autokey) - Mesmo conceito do AutoHotKey, só que para Linux.
 - 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova anúncios da Canonical como o Ubuntu PRO e mensagens ESM com esse método. Post original do [Ask Ubuntu](https://askubuntu.com/a/1438510).
 - [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Port não oficial do Lossless Scaling para GNU/Linux e Steam Deck; necessita da dll do lossless scaling para funcionar, a qual você pode extrair da [versão marítima do LS sem pagar nada](https://cs.rin.ru/forum/viewtopic.php?f=41&t=94507&hilit=lossless+scallin&start=1155).
 - [KDE Plasma](https://kde.org/plasma-desktop) - DE e gerenciador de janelas com um workflow extremamente conveniente para FreeBSD, OpenBSD e Fedora.
 - 🌟 [**ubuntu-debullshit!**](https://github.com/polhdez/ubuntu-debullshit) - Retira a coleta de dados e os snaps da Canonical, **em versões mais recentes do Ubuntu, a telemetria é mais opt-out (você precisa desativá-la durante a instalação)**. Post original por [u/klfld](https://www.reddit.com/r/linux/comments/13fj1xf/ubuntudebullshit_script_to_get_vanilla_gnome/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button).
 - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Abafa ruídos e barulho ambiente, fica atrás apenas do Easy Effects e Audacity nesse quesito.
-- [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV exclusivo com suporte para TV ao vivo, filmes e seriados.
-- [Czkawka](https://github.com/qarmin/czkawka) - Varre em lote duplicatas, pastas vazias, imagens semelhantes e outros arquivos desnecessários do sistema.
+- [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV com suporte para TV ao vivo, filmes e seriados. Possui desenvolvimento ativo apenas para o Mint, no entanto pode ser configurado através da build ou pelo [Distrobox](https://distrobox.it/).(recomendado)
+- [Czkawka](https://github.com/qarmin/czkawka) - Varredura em lote de duplicatas, pastas vazias, imagens semelhantes e outros arquivos desnecessários do sistema.
 
 ## ► **Ferramentas para MacOS**
 
@@ -244,11 +244,12 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Medusa](https://pymedusa.com/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [SickChill](https://sickchill.github.io/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [Lidarr](https://lidarr.audio/) - Um Radarr para álbuns musicais.
+- [PT-depiler](https://github.com/pt-plugins/PT-depiler) - Compatível com diversos frameworks de sites privados de torrents (NexusPHP, Unit3D e Gazelle), esta ferramenta simplifica e acelera o download de torrents e realiza também outras operações.
 
 ## ► Ferramentas de mídia
 
 - 🌟 [**OBS Studio**](https://github.com/obsproject/obs-studio) - Aplicativo de desktop de código aberto, tende a ser opção mais prática quando o assunto é gravação de tela.
-- [davincibox](https://github.com/zelikos/davincibox) - Ferramenta para aprimorar o uso do DaVinci Resolve (um software de edição de vídeo excelente e 90% do tempo gratuito) no Fedora.
+- [davincibox](https://github.com/zelikos/davincibox) - Ferramenta para aprimorar o DaVinci Resolve (um software de edição de vídeo excelente e 90% do tempo gratuito) no Fedora.
 - [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente audio codec AC3.
 - [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
 - [VLsub](https://github.com/opensubtitles/vlsub-opensubtitles-com) - Baixa legendas diretamente pelo vlc sem ter que abrir o site do opensubtitles.
@@ -269,10 +270,10 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
 * [JDownloader2](http://jdownloader.org/jdownloader2) - É distinto dos demais gerenciadores de download porque suporta o download de hosts de links premium como o **NitroFlare** (apenas em situações que não exigem conta). Reúna e cole todos os links de um arquivo dividido em partes para baixá-lo.
 * **[Trialware]** [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente [faça isso](https://rentry.org/installidm).
-* [Gerenciador de downloads XTREME](https://subhra74.github.io/xdm/) - Outro gerenciador de downloads muito bom
+* [Brisk Download Manager](https://github.com/AminBhst/brisk) - Outro gerenciador de downloads muito bom, embora seja um pouco lento.
 * [pyLoad](https://pyload.net/) - Gerenciador de downloads leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
 * [aria2](https://aria2.github.io/) - Utilitário de download baseado em linha de comando.
-* [AB Download Manager](https://github.com/amir1376/ab-download-manager) - Aplicativo para desktop que o ajuda a organizar e manter seus downloads; possui uma interface limpa e amigável e acima de tudo, é open source.
+* [ArrowDL](https://www.arrow-dl.com/) - Aplicativo para desktop que o ajuda a organizar e manter seus downloads; possui uma interface limpa e amigável e acima de tudo, é open-source.
 
 ## ► Ferramentas de download
 
@@ -406,7 +407,6 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 - [Nowhere](http://nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion)
 - [Exílio404](http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion/)
-- [Samuya](https://samuya.neocities.org/onionLinks)
 - [Dig Deeper](https://digdeeper.club/) / [2](http://34reqsy6tqou6avwrkm23s4mpkrwz3drtq2e5yr7sywi76h7plnaahad.onion/) / [3](http://5essxguxi5enurgtuquvrjuvikss4gc5lbhmtz57cq4cedqx5tqvaxqd.onion/)
 - [AnarSec](http://uwb25d43nnzerbozmtviwn7unn7ku226tpsjyhy5n4st5cf3d4mtflqd.onion/series/)
 - [Suprbay](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/)
@@ -422,12 +422,13 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 ## ► **Inteligência Artificial**
 
-- 🌟 [**G4F**](https://g4f.dev/chat) - ChatGPT 5 totalmente gratuito e ilimitado. Alguns provedores como a Azure exigem de você uma chave API que pode ser [gerada com o seu ID de usuário do Hugging Face.](https://g4f.dev/api_key.html)
+- 🌟 [**G4F**](https://g4f.dev/chat) - ChatGPT 5 totalmente gratuito e ilimitado. Alguns provedores como a Azure exigem de você uma chave API para o g4f.client que pode ser gerada com o seu ID de usuário do Hugging Face.
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
-- [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas. Um pouco complicado de se acostumar a usar.
-- [FreedomGPT](https://chat.freedomgpt.com/pt) - Sem censura (pode não funcionar na maior parte das vezes).
-- [Roo Code](https://roocode.com) - Gerador/addon de código de programação no Microsoft Visual Studio.
-- [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não solicita que você baixe um aplicativo dedicado. [Algumas outras opções para gerar transcrição de vídeo.](https://www.reddit.com/r/pirataria/comments/1oj9dao/comment/nm1ctoy/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button)
+- [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar. **Nota:** caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
+- [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura - algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6) e [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) (podem não funcionar na maior parte do tempo).
+- [Roo Code](https://roocode.com) - Gerador/addon de código de programação no Microsoft Visual Studio, suporta integração com modelos da OpenAI, Anthropic e Google Gemini, apenas para citar alguns.
+- [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado.
+- [pyVideoTrans](https://pyvideotrans.com/) - Mesmo conceito do Legen: embute hardsubs em vídeos com base no Whisper, com a única diferença de poder dublar e sincronizar a fala automaticamente.
  
 ## ► **Motores de busca**
 

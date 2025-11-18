@@ -25,6 +25,10 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Gerenciador de pacotes do Android, oferece uma gama de recursos para usuários com root e sem por meio do wireless debugging. Pode gerir permissões de apps, bloquear anúncios direto do componente-fonte e validar checksums.
 
+### 🔗 [AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M)
+
+- Transforma .APKS/.APKM/.XAPK em .APKs, alternativa excelente para aquelas lojas próprias que os sites de apps modificados te obrigam a baixar.
+
 ### 🔗 [Gbox](https://www.gboxlab.com/)
 
 - Integra perfeitamente aplicativos, serviços, estrutura e loja do Google.
@@ -92,12 +96,12 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Appteka](https://appteka.store/)
 
-- Loja Android gratuito que dá acesso a uma vasta coleção de aplicativos gratuitos.
+- Loja Android que dá acesso a uma vasta coleção de aplicativos gratuitos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/appteka.store/)
 
 ### 🔗 [AuroraOSS](https://auroraoss.com/)
 
-- Cliente alternativo para Google Play, permite aos usuários baixar, atualizar e pesquisar aplicativos.
+- Cliente alternativo para o Google Play, permite aos usuários baixar, atualizar e pesquisar aplicativos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/auroraoss.com/)
 
 ### 🌟 [F-Droid](https://f-droid.org/)
@@ -179,23 +183,30 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ## 🔨 ➜ Apps Modificados
 
-### 🔗 [9MOD](https://9mod.com/)
+### 🌟 [Tekmods](https://tekmods.com/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/9mod.com/)
+- Site brasileiro, acesse o chat do telegram para sugerir novos mods ou atualizações.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/tekmods.com/)
 
-### 🔗 [A2ZAPK](https://a2zapk.io/)
+### 🌟 [Mobilism](https://forum.mobilism.org/index.php) • Necessário Cadastro
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/a2zapk.io/)
+- Recurso obrigatório para aplicativos e livros. Muitas pessoas confiam nele e fornecem acesso direto às versões mais recentes dos arquivos.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/)
 
-### 🔗 [AN1](https://an1.com/)
+### 🌟 [MODYOLO](https://modyolo.com/)
 
-- Versões mais recentes de jogos e apps Android, garantindo desempenho ideal.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/an1.com/)
+- Especializado em modificações de aplicativos e jogos premium de várias fontes.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/modyolo.com/)
 
 ### 🌟 [Androeed](https://androeed.store/)
 
 - Descubra uma ampla variedade de jogos, hacks de APK e versões premium.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/androeed.store/)
+
+### 🔗 [AN1](https://an1.com/)
+
+- Versões mais recentes de jogos e apps Android, garantindo desempenho ideal.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/an1.com/)
 
 ### 🔗 [Android Republic](https://androidrepublic.org/portal/)
 
@@ -283,16 +294,6 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Baixe todos os aplicativos Android com links diretos e rápidos para facilitar o acesso.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apps.themicrotech.net/)
 
-### 🌟 [Mobilism](https://forum.mobilism.org/index.php) • Necessário Cadastro
-
-- Recurso obrigatório para aplicativos e livros. Muitas pessoas confiam nele e fornecem acesso direto às versões mais recentes dos arquivos.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/)
-
-### 🌟 [MODYOLO](https://modyolo.com/)
-
-- Especializado em modificações de aplicativos e jogos premium de várias fontes.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/modyolo.com/)
-
 ### 🔗 [PDALIFE](https://pdalife.com/)
 
 - Alternativa às lojas de aplicativos tradicionais, oferecendo downloads gratuitos para aplicativos Android e iOS.
@@ -318,10 +319,13 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Recursos premium baixando jogos e aplicativos para Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/revdl.com/)
 
-### 🌟 [Tekmods](https://tekmods.com/)
+### 🔗 [9MOD](https://9mod.com/)
 
-- Site brasileiro, acesse o chat do telegram para sugerir novos mods ou atualizações.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/tekmods.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/9mod.com/)
+
+### 🔗 [A2ZAPK](https://a2zapk.io/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/a2zapk.io/)
 
 ## 📢 ➜ Telegram
 
