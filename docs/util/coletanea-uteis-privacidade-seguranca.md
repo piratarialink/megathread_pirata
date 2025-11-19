@@ -68,7 +68,7 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [Continuum](https://github.com/cygnusx-1-org/continuum) - Para quem quiser usar Reddit sem conta, e sem aquele app LIXOSO; baixe o [Obtainium](https://github.com/ImranR98/Obtainium) também (para atualizar automaticamente do GitHub).
 
-- [FFUpdater](https://github.com/Tobi823/ffupdater) - Update para navegador amigável à privacidade.
+- [FFUpdater](https://github.com/Tobi823/ffupdater) - Updater para navegador amigável à privacidade.
 
 - [Aegis](https://github.com/beemdevelopment/Aegis) - Um aplicativo gratuito, seguro e de código aberto para Android para gerenciar seus tokens de verificação em duas etapas.
 
@@ -76,9 +76,9 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [enhanced-h264ify](https://github.com/alextrv/enhanced-h264ify) - Torna os vídeos compatíveis com h.264, o que pode diminuir o consumo de RAM e puxa menos do processador em comparação com o codec original que o YouTube usa.
 
-- [BlockTube](https://github.com/amitbl/blocktube) - Impede que yt shorts e vídeos com menos de mil visualizações apareçam no seu feed principal. Também esconde canais por nome e ID.
+- [BlockTube](https://github.com/amitbl/blocktube) - Impede que yt shorts e vídeos com menos de mil visualizações apareçam no seu feed principal; também esconde canais por nome e ID. Usar com o [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) para remover thumbnails apelativas/feitas preguiçosamente com inteligência artificial.
 
-- [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Salta os anúncios que os youtubers colocam no vídeo, usar com o [Return Youtube Dislike](https://github.com/Anarios/return-youtube-dislike).
+- [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Salta os anúncios que os youtubers colocam no vídeo. Usar com o [Return Youtube Dislike](https://github.com/Anarios/return-youtube-dislike).
 
 - [YouTube No Translation](https://github.com/YouG-o/YouTube_No_Translation) - Bloqueia traduções simultâneas da dublagem do YouTube.
 
