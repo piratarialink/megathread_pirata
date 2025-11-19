@@ -149,7 +149,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Três pastas distintas com materiais diversos de aviação, incluindo simulados e livros para banca ANAC de piloto privado, comercial e comissário.
 
-### 📂 [Conteúdo para Concursos ](https://drive.google.com/drive/folders/1bZyXHZP8BZfxAARxOHR0eURaZ9R_Ducz?usp=drive_link)
+### 📂 [Conteúdo para Concursos](https://drive.google.com/drive/folders/1bZyXHZP8BZfxAARxOHR0eURaZ9R_Ducz?usp=drive_link)
 
 - Pasta contendo as disciplinas fundamentais para concursos.
 
