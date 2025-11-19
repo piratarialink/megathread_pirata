@@ -167,10 +167,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Backup do canal do Polemic.
 
-### 🔗 [Acervo das Massas](http://www.linktree.com/hidracursos)
-
-- Lista com todos os links (ativos ou não) do Picasso Neves no Telegram.
-
 ### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 
 - Videoaulas zipadas e em streaming para você assistir sem sair do Telegram.
