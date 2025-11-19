@@ -65,7 +65,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [Shizuku](https://github.com/RikkaApps/Shizuku)
 
-- Escala privilégios no android sem a necessidade de root/CFW.
+- Escala privilégios no android sem a necessidade de root/CFW. Caso não funcione de primeira, desative e ative o Wireless Debugger mais de uma vez.
 - [Apps que funcionam com o shizuku.](https://technastic-com.translate.goog/best-shizuku-apps-mods-android/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)
 
 ### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis)
@@ -84,6 +84,21 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ## 🛍 ➜ Catálogo e Lojas
 
+### 🌟 [Aurora Store](https://auroraoss.com/)
+
+- Cliente alternativo para o Google Play, permite aos usuários atualizar, pesquisar e **baixar aplicativos fora da Play Store (se utilizado em conjunto com o Shizuku)**.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/auroraoss.com/)
+
+### 🌟 [F-Droid](https://f-droid.org/)
+
+- Plataforma amigável para instalação de aplicativos de software gratuito e de código aberto.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/f-droid.org/)
+
+### 🌟 [Droid-Ify](https://github.com/Droid-ify/client)
+
+- Ótimo cliente F-Droid produzido com Material UI.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
 ### 🔗 [Accrescent](https://accrescent.app/)
 
 - Loja de aplicativos Android moderna e segura que prioriza a privacidade do usuário e a acessibilidade do desenvolvedor.
@@ -99,21 +114,6 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Loja Android que dá acesso a uma vasta coleção de aplicativos gratuitos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/appteka.store/)
 
-### 🔗 [AuroraOSS](https://auroraoss.com/)
-
-- Cliente alternativo para o Google Play, permite aos usuários baixar, atualizar e pesquisar aplicativos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/auroraoss.com/)
-
-### 🌟 [F-Droid](https://f-droid.org/)
-
-- Plataforma amigável para instalação de aplicativos de software gratuito e de código aberto.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/f-droid.org/)
-
-### 🌟 [Droid-Ify](https://github.com/Droid-ify/client)
-
-- Ótimo cliente F-Droid com Material UI.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
 ### 🔗 [Material You](https://github.com/nyas1/Material-You-app-list)
 
 - Sistema de design com personalização, incorporando tipografia, cores, ícones e muito mais.
@@ -125,6 +125,21 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/onyxbits.de/)
 
 ## 🍨 ➜ Apps Vanilla
+
+### 🌟 [APKMirror](https://www.apkmirror.com/)
+
+- Acesso seguro e irrestrito a uma infinidade de downloads de APK do Android sem custo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmirror.com/)
+
+### 🌟 [APKPure](https://apkpure.net/)
+
+- Experiência de download de software diversificada e segura, sem a necessidade de extensões extras.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkpure.net/)
+
+### 🌟 [Uptodown](https://www.uptodown.com/) • Interface em Espanhol
+
+- Loja de aplicativos multiplataforma para Android, oferecendo acesso irrestrito a uma variedade de aplicativos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/uptodown.com/)
 
 ### 🔗 [APK Amp](https://apkamp.com/)
 
@@ -146,20 +161,10 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Plataforma Android dinâmica que oferece uma ampla gama de necessidades de software.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkgit.co/)
 
-### 🌟 [APKMirror](https://www.apkmirror.com/)
-
-- Acesso seguro e irrestrito a uma infinidade de downloads de APK do Android sem custo.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmirror.com/)
-
 ### 🔗 [apkmonk](https://www.apkmonk.com/)
 
 - Aplicativos para necessidades pessoais, empresariais e criativas e em constante evolução.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmonk.com/)
-
-### 🌟 [APKPure](https://apkpure.net/)
-
-- Experiência de download de software diversificada e segura, sem a necessidade de extensões extras.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkpure.net/)
 
 ### 🔗 [APKToy](https://www.apktoy.com/)
 
@@ -175,11 +180,6 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Aprimore sua experiência digital e fique atualizado com os downloads mais recentes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/top-androids.com/)
-
-### 🌟 [Uptodown](https://www.uptodown.com/) • Interface em Espanhol
-
-- Loja de aplicativos multiplataforma para Android, oferecendo acesso irrestrito a uma variedade de aplicativos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/uptodown.com/)
 
 ## 🔨 ➜ Apps Modificados
 
