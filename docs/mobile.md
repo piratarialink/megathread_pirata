@@ -96,7 +96,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [Droid-Ify](https://github.com/Droid-ify/client)
 
-- Ótimo cliente F-Droid produzido com Material UI.
+- Ótimo cliente F-Droid produzido com Material UI. Pode ser usado com o instalador de pacotes do Shizuku.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [Accrescent](https://accrescent.app/)
@@ -108,11 +108,6 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Seleção premium de aplicativos e jogos modificados, aprimorados e crackeados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/acmarket.com/)
-
-### 🔗 [Appteka](https://appteka.store/)
-
-- Loja Android que dá acesso a uma vasta coleção de aplicativos gratuitos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/appteka.store/)
 
 ### 🔗 [Material You](https://github.com/nyas1/Material-You-app-list)
 
@@ -252,6 +247,11 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Explore os melhores aplicativos Android disponíveis nos vastos mares digitais.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmos.com/)
+
+### 🔗 [Appteka](https://appteka.store/)
+
+- Loja Android que dá acesso a uma vasta coleção de aplicativos gratuitos e crackeados.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/appteka.store/)
 
 ### 🔗 [ApkVision](https://apkvision.org/)
 
