@@ -86,7 +86,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [Aurora Store](https://auroraoss.com/)
 
-- Cliente alternativo para o Google Play, permite aos usuários atualizar, pesquisar e **baixar aplicativos fora da Play Store (se utilizado em conjunto com o Shizuku)**.
+- Cliente alternativo para o Google Play, permite aos usuários atualizar, pesquisar e **baixar aplicativos fora da Play Store (se utilizado em conjunto com o Shizuku + [pairipfix](https://github.com/ahmedmani/pairipfix))**.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/auroraoss.com/)
 
 ### 🌟 [F-Droid](https://f-droid.org/)
