@@ -34,7 +34,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece)
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
 - [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado, bem como automatiza funções.
-- 🌟 [**Chocolatey**](https://chocolatey.org/) - Um instalador de linha de comando para o Windows, muito semelhante com o WinGet.
+- [Chocolatey](https://chocolatey.org/) - Um instalador de linha de comando para o Windows, muito semelhante com o WinGet.
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows translúcida/transparente.
 - 🌟 [**ShutUp10++**](https://www.oo-software.com/en/shutup10) - Controle quais dados devem ou não ser coletados pela Microsoft.
