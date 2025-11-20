@@ -39,7 +39,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Biblioteca de filmes e programas de TV que fazem deste serviço de streaming uma escolha fantástica. Legendas e áudio em pt-br disponíveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cineby.app/)
 
-### 🌟 [NetCine](https://netcinex.si/)
+### 🌟 [GoFlix](https://goflixy.lol/)
 
 - Lançamentos com resolução 1080p, 720p ou até em HD puro para blockbusters. Em caso de anti-adblock, use o PopUpOFF.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcinex.si/)
@@ -61,7 +61,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Fonte para muitos filmes e séries do Betterflix.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/superflix1.cloud)
 
-### ▶️ [GoFlix](https://goflixy.lol/)
+### ▶️ [NetCine](https://netcinex.si/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/goflix.lol/)
 
@@ -106,6 +106,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Sem precisar se inscrever, aproveite filmes e séries gratuitos em streaming na maior biblioteca.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hydrahd.me/)
 
+### 🌟 [Cinemaos](https://cinemaos.live)
+
+- Legendas em português brasileiro para blockbusters/seriados populares e canais gratuitos de IPTV.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cinemaos.live/)
+  
 ### 🌟 [P-Stream](https://pstream.mov/)
 
 - Filmes e séries em 1080p ou em até 4k disponível com o token do Real Debrid, extensão ou proxy personalizado.
