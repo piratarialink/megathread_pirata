@@ -19,7 +19,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► **Ferramentas para Windows / Office**
 
-- 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O Ohook ativa a licença do Office, O HWID ativa permanentemente o Windows 10/11 e o modo KMS38 (defasado para novas versões) é mais voltado para LTSC/Enterprise.[**Guia**](guias/ativacao-office-win.md)
+- 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O Ohook ativa a licença do Office, O HWID ativa permanentemente o Windows 10/11 e o modo KMS38 (defasado para novas versões) é mais voltado para LTSC Enterprise.[**Guia**](guias/ativacao-office-win.md)
 - [Office C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte a versão Retail do Office em licença de volume.
 - [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Automatiza ativações de licença do Office e Windows. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - 🌟 [**Consumer ESU Enrollment**](https://github.com/abbodi1406/ConsumerESU) - Para computadores que não foram aceitos no suporte estendido do Windows 10 Consumer Edition até 2026 dado pela Microsoft. **Nota: a versão LTSC tem suporte até 2027** - Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-windows-10-esu-license-all-options-activation-and-troubleshooting.89665/)
