@@ -149,7 +149,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Três pastas distintas com materiais diversos de aviação, incluindo simulados e livros para banca ANAC de piloto privado, comercial e comissário.
 
-### 📂 [Conteúdo para Concursos ](https://drive.google.com/drive/folders/1bZyXHZP8BZfxAARxOHR0eURaZ9R_Ducz?usp=drive_link)
+### 📂 [Conteúdo para Concursos](https://drive.google.com/drive/folders/1bZyXHZP8BZfxAARxOHR0eURaZ9R_Ducz?usp=drive_link)
 
 - Pasta contendo as disciplinas fundamentais para concursos.
 
@@ -166,10 +166,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### 🔗 [Polemic Knowledge Clone](https://t.me/+-eUQNwLw9G5mNDUx)
 
 - Backup do canal do Polemic.
-
-### 🔗 [Acervo das Massas](http://www.linktree.com/hidracursos)
-
-- Lista com todos os links (ativos ou não) do Picasso Neves no Telegram.
 
 ### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 

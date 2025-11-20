@@ -19,7 +19,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► **Ferramentas para Windows / Office**
 
-- 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O Ohook ativa a licença do Office, O HWID ativa permanentemente o Windows 10/11 e o modo KMS38 (defasado para novas versões) é mais voltado para LTSC/Enterprise.[**Guia**](guias/ativacao-office-win.md)
+- 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O Ohook ativa a licença do Office, O HWID ativa permanentemente o Windows 10/11 e o modo KMS38 (defasado para novas versões) é mais voltado para LTSC Enterprise.[**Guia**](guias/ativacao-office-win.md)
 - [Office C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte a versão Retail do Office em licença de volume.
 - [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Automatiza ativações de licença do Office e Windows. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - 🌟 [**Consumer ESU Enrollment**](https://github.com/abbodi1406/ConsumerESU) - Para computadores que não foram aceitos no suporte estendido do Windows 10 Consumer Edition até 2026 dado pela Microsoft. **Nota: a versão LTSC tem suporte até 2027** - Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-windows-10-esu-license-all-options-activation-and-troubleshooting.89665/)
@@ -424,6 +424,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 ## ► **Inteligência Artificial**
 
 - 🌟 [**G4F**](https://g4f.dev/chat) - ChatGPT 5 totalmente gratuito e ilimitado. Alguns provedores como a Azure exigem de você uma chave API para o g4f.client que pode ser gerada com o seu ID de usuário do Hugging Face.
+- [reshare.dev](https://reshare.dev) - Obtenha o acesso para o SORA 2 (criação de vídeos) por meio de um código de convite dado pela comunidade. **Nota: você pode baixar e se cadastrar no aplicativo da SORA pela Aurora Store + Shizuku e a partir daí logar no site oficial para desktops com uma VPN.**
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar. **Nota:** caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura - algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6) e [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) (podem não funcionar na maior parte do tempo).
@@ -440,11 +441,11 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 ## ► **SSH**
 
 > São serviços de tunelamento que usam o protocolo SSH para transmitir uma conexão de dados móveis ilimitada.
-Fique atento as mensagens do [nosso grupo do telegram](https://t.me/deckpirata) para obter os arquivos EHI.
+**Fique atento as mensagens do [nosso grupo do telegram](https://t.me/deckpirata) para obter os arquivos EHI do HTTP Injector.**
 
 - [FastSSH](https://www.fastssh.com/page/ssh-over-websocket-servers)
 - [SSHconnect](https://sshconect.com.br/)
-- [Rev Hunter](https://www.revhuntervpn.xyz/)
+- [Rev Hunter](https://revhuntervpn.com/)
 - [SocksLite](https://sockslite.com/)
 - [HTTP Injector](https://httpinjector.com/)
 - [NetMod VPN Client](https://sourceforge.net/projects/netmodhttp/)
