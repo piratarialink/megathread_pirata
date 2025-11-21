@@ -34,7 +34,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece)
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
 - [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado, bem como automatiza funções.
-- 🌟 [**Chocolatey**](https://chocolatey.org/) - Um instalador de linha de comando para o Windows, muito semelhante com o WinGet.
+- [Chocolatey](https://chocolatey.org/) - Um instalador de linha de comando para o Windows, muito semelhante com o WinGet.
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows translúcida/transparente.
 - 🌟 [**ShutUp10++**](https://www.oo-software.com/en/shutup10) - Controle quais dados devem ou não ser coletados pela Microsoft.
@@ -424,7 +424,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 ## ► **Inteligência Artificial**
 
 - 🌟 [**G4F**](https://g4f.dev/chat) - ChatGPT 5 totalmente gratuito e ilimitado. Alguns provedores como a Azure exigem de você uma chave API para o g4f.client que pode ser gerada com o seu ID de usuário do Hugging Face.
-- [reshare.dev](https://reshare.dev) - Obtenha o acesso para o SORA 2 (criação de vídeos) por meio de um código de convite dado pela comunidade. **Nota: você pode baixar e se cadastrar no aplicativo da SORA pela Aurora Store + Shizuku e a partir daí logar no site oficial para desktops com uma VPN.**
+- [reshare.dev](https://reshare.dev) - Obtenha o acesso para o SORA 2 (criação de vídeos) por meio de um código de convite dado pela comunidade, [é necessário se cadastrar antes](https://emailnator.com). Você também pode baixar e se cadastrar no aplicativo da SORA pela Aurora Store + Shizuku e a partir daí logar no site oficial para desktop com uma VPN. **Nota: para ter acesso ao último modelo do Veo (outra IA voltada a criação de vídeos), fique atento à [essa lista aqui](https://fmhy.net/ai#video-generation).**
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar. **Nota:** caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura - algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6) e [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) (podem não funcionar na maior parte do tempo).
