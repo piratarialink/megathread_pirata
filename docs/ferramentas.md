@@ -26,13 +26,13 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL faz.
 - [Microsoft Toolkit](https://gitlab.com/-/project/11037551/uploads/f73eea2588a1ba5e81e529658089b20d/MTKV274.7z) - Utilitário de multipropósito: pode ativar o Windows, editar componentes e gerir a licença. Post original em [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Conjunto destinado a usuários avançados que permite renomear arquivos pelo RegEx (expressões regulares) e melhorar a UX para uma produtividade maior.
-- 🌟 [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário feito pelo canal Chris Titus Tech - Instala programas, ajustes, correções e atualizações.
 - [AME Wizard](https://ameliorated.io) - Feito para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 11.
 - 🌟 [**SophiApp**](https://github.com/Sophia-Community/SophiApp) - A ferramenta de código aberto mais poderosa no GitHub para configurar e fazer debloat do Windows 10 e Windows 11.
 - [Optimizer](https://github.com/hellzerg/optimizer) - Projetado para aprimorar sua privacidade e segurança no Windows.
 - [Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer) - “Conserta” o Windows 11
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece)
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
+- 🌟 [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário feito pelo canal Chris Titus Tech - Instala programas, ajustes, correções e atualizações.
 - [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado, bem como automatiza funções.
 - [Chocolatey](https://chocolatey.org/) - Um instalador de linha de comando para o Windows, muito semelhante com o WinGet.
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
@@ -77,7 +77,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [KDE Plasma](https://kde.org/plasma-desktop) - DE e gerenciador de janelas com um workflow extremamente conveniente para FreeBSD, OpenBSD e Fedora.
 - 🌟 [**ubuntu-debullshit!**](https://github.com/polhdez/ubuntu-debullshit) - Retira a coleta de dados e os snaps da Canonical, **em versões mais recentes do Ubuntu, a telemetria é mais opt-out (você precisa desativá-la durante a instalação)**. Post original por [u/klfld](https://www.reddit.com/r/linux/comments/13fj1xf/ubuntudebullshit_script_to_get_vanilla_gnome/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button).
 - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Abafa ruídos e barulho ambiente, fica atrás apenas do Easy Effects e Audacity nesse quesito.
-- [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV com suporte para TV ao vivo, filmes e seriados. Possui desenvolvimento ativo apenas para o Mint, no entanto, pode rodar em qualquer distro com a build ou pelo [Distrobox](https://distrobox.it) (recomendado) - [[mirror para o circle-flags]](https://mirrors.aliyun.com/linuxmint-packages/pool/main/c/circle-flags/)
+- [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV com suporte para TV ao vivo, filmes e seriados. Possui desenvolvimento ativo apenas para o Mint, no entanto, pode rodar em qualquer distro com a build ou pelo [Distrobox](https://distrobox.it) (recomendado) - Repo para o circle-flags disponível em [packages.linuxmint](http://packages.linuxmint.com/pool/main/c/circle-flags/)
 - [Czkawka](https://github.com/qarmin/czkawka) - Varredura em lote de duplicatas, pastas vazias, imagens semelhantes e outros arquivos desnecessários do sistema.
 
 ## ► **Ferramentas para MacOS**
