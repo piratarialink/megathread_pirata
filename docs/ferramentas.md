@@ -19,7 +19,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► **Ferramentas para Windows / Office**
 
-- 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O Ohook ativa a licença do Office, O HWID ativa permanentemente o Windows 10/11 e o modo KMS38 (defasado para novas versões) é mais voltado para LTSC Enterprise.[**Guia**](guias/ativacao-office-win.md)
+- 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O Ohook ativa a licença do Office, O HWID ativa permanentemente o Windows 10/11 e o modo KMS38 (defasado para novas versões) é mais voltado para LTSC Enterprise. [**Guia**](guias/ativacao-office-win.md)
 - [Office C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte a versão Retail do Office em licença de volume.
 - [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Automatiza ativações de licença do Office e Windows. Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - 🌟 [**windows10_eol**](https://massgrave.dev/windows10_eol#windows-10-iot-enterprise-ltsc-2021) - Para computadores que não foram aceitos no upgrade do Windows 11. **Nota: a versão LTSC tem suporte até 2027 enquanto que a versão IoT LTSC tem suporte até 2032. Programas da Microsoft Store podem baixados pelo [Alt App Installer.](https://github.com/mjishnu/alt-app-installer)**
@@ -508,7 +508,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 ## ► **Ferramentas Diversas**
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
-- [Brainser](https://github.com/p1ratrulezzz/brainser) - Melhor forma de ativar as IDEs do JetBrains, caso não funcione você pode tentar [isso aqui.](https://www.reddit.com/r/pirataria/comments/1js9lc7/comment/mlqghtb/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button). Tópico original em [Losper.net.](https://losper.net/topic/283-activation-instruction-jetbrains/)
+- [Brainser](https://github.com/p1ratrulezzz/brainser) - Melhor forma de ativar as IDEs do JetBrains, caso não funcione você pode tentar [isso aqui.](https://www.reddit.com/r/pirataria/comments/1js9lc7/comment/mlqghtb/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button). Tópico original do [Losper.net.](https://losper.net/topic/283-activation-instruction-jetbrains/)
 - [SlideDownloaders](https://slidedownloaders.com/) - Downloader gratuito do SlideShare - rápido, seguro e sem necessidade de inscrição.
 - [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de download do Terabox.
 - [Unddit](https://undelete.pullpush.io) - Veja posts e comentários removidos do Reddit.
