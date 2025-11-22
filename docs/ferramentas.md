@@ -22,7 +22,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O Ohook ativa a licença do Office, O HWID ativa permanentemente o Windows 10/11 e o modo KMS38 (defasado para novas versões) é mais voltado para LTSC Enterprise.[**Guia**](guias/ativacao-office-win.md)
 - [Office C2R-R2V-AIO](https://github.com/abbodi1406/C2R-R2V-AIO) - Converte a versão Retail do Office em licença de volume.
 - [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Automatiza ativações de licença do Office e Windows. Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
-- 🌟 [**windows10_eol**](https://massgrave.dev/windows10_eol#windows-10-iot-enterprise-ltsc-2021) - Para computadores que não foram aceitos no upgrade do Windows 11 **Nota: a versão LTSC tem suporte até 2027 enquanto que a versão IoT LTSC tem suporte até 2032.**
+- 🌟 [**windows10_eol**](https://massgrave.dev/windows10_eol#windows-10-iot-enterprise-ltsc-2021) - Para computadores que não foram aceitos no upgrade do Windows 11. **Nota: a versão LTSC tem suporte até 2027 enquanto que a versão IoT LTSC tem suporte até 2032.**
 - [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL faz.
 - [Microsoft Toolkit](https://gitlab.com/-/project/11037551/uploads/f73eea2588a1ba5e81e529658089b20d/MTKV274.7z) - Utilitário de multipropósito: pode ativar o Windows, editar componentes e gerir a licença. Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Conjunto destinado a usuários avançados que permite renomear arquivos pelo RegEx (expressões regulares) e melhorar a UX para uma produtividade maior.
@@ -37,6 +37,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Chocolatey](https://chocolatey.org/) - Um instalador de linha de comando para o Windows, muito semelhante com o WinGet.
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows translúcida/transparente.
+- [Fort Firewall](https://github.com/tnodir/fort) - Firewall bastante semelhante ao OpenSnitch do GNU/Linux.
 - 🌟 [**ShutUp10++**](https://www.oo-software.com/en/shutup10) - Controle quais dados devem ou não ser coletados pela Microsoft.
 - [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à experiência moderna do Windows
 - [Wintoys](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge (quando não funcionar, [tente isso](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)), retira os anúncios da Microsoft e habilita o "God Mode".
