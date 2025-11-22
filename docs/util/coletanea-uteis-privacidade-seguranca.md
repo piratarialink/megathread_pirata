@@ -12,6 +12,8 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [SophiApp](https://github.com/Sophia-Community/SophiApp) - ⚡ O tweaker de código aberto mais poderoso no GitHub para ajustes no Windows 10 e Windows 11.
 
+- [Firemin](https://rizonesoft.com/downloads/firemin/) / [Chromin](https://rizonesoft.com/sdm_downloads/chromin/) - Diminui o consumo de memória RAM por navegadores derivados do Firefox e Chromium.
+ 
 - [privacy.sexy](https://privacy.sexy/) - Ferramenta de código aberto para aplicar práticas recomendadas de privacidade e segurança no Windows e macOS.
 
 - [Shell](https://github.com/moudey/Shell) - Gerenciador poderoso para o menu de contexto do Windows File Explorer.
