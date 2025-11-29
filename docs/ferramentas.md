@@ -428,7 +428,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar. **Nota:** caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura - algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6) e [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) (podem não funcionar na maior parte do tempo).
-- [Roo Code](https://roocode.com) - Gerador/addon de código de programação no Microsoft Visual Studio, suporta integração com modelos da OpenAI, Anthropic e Google Gemini, apenas para citar alguns.
+- [Roo Code](https://roocode.com) - Gerador/addon de código de programação no IDE Visual Studio Code, suporta integração com modelos da OpenAI, Anthropic e Google Gemini, apenas para citar alguns.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado.
 - [pyVideoTrans](https://pyvideotrans.com/) - Mesmo conceito do Legen: embute hardsubs em vídeos com base no Whisper, com a única diferença de poder dublar e sincronizar a fala automaticamente.
  
