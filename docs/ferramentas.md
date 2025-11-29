@@ -60,7 +60,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 - 🌟 [**Q4Wine**](https://flathub.org/en/apps/ua.org.brezblock.q4wine) - O q4wine é um programa que oferece uma interface gráfica (GUI) para o Wine, feito com o intuito de gerenciar prefixos (local de instalação) e executáveis com facilidade.
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de ISOs customizadas upadas todos os dias.
-- [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor doméstico eficaz e protegido (sendo Debian a melhor distro para essa função).
+- [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor doméstico eficaz e protegido (sendo Debian no modo headless a melhor distro para essa função).
 - 🌟 [**Hints**](https://github.com/AlfredoSequeida/hints?tab=readme-ov-file) - Feito para quem já está habituado a usar sobretudo o teclado em comparação com o mouse, atente-se ao _setup_ específico do seu gerenciador de janelas [seguindo esse passo a passo.](https://github.com/AlfredoSequeida/hints/wiki/Window-Manager-and-Desktop-Environment-Setup-Guide)
 - [4Noobs](https://github.com/he4rt/4noobs#-sistemas-operacionais) - Projeto desenvolvido pela comunidade brasileira He4rtLabs.
 - [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um tema GTK3/GTK4 aprovado pela comunidade.
@@ -251,7 +251,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Ferramentas de mídia
 
 - 🌟 [**OBS Studio**](https://github.com/obsproject/obs-studio) - Aplicativo de desktop de código aberto, tende a ser opção mais prática quando o assunto é gravação de tela.
-- [davincibox](https://github.com/zelikos/davincibox) - Ferramenta para aprimorar o DaVinci Resolve (um software de edição de vídeo excelente e 90% do tempo gratuito) no Fedora.
+- [davincibox](https://github.com/zelikos/davincibox) - Instala as dependências necessárias para rodar o DaVinci Resolve (um software de edição de vídeo excelente e 90% do tempo gratuito) no Fedora.
 - [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente audio codec AC3.
 - [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
 - [VLsub](https://github.com/opensubtitles/vlsub-opensubtitles-com) - Baixa legendas diretamente pelo vlc sem ter que abrir o site do opensubtitles.
