@@ -258,6 +258,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
 - [eCut](http://eng.e-cut.ru/) - Plugin para otimizar o CorelDraw.
 - [Dash-MPD-File](https://github.com/emarsden/dash-mpd-cli) - Uma aplicação cli para download de mídia em manifests MPD (MPEG_DASH).
+- [OpenCut](https://opencut.app/) - Alternativa open-source para o CapCut, atualmente está na versão beta e ainda segue aguardando um overhaul completo pelo mantenedor do projeto. WebUI, não exige aplicativo dedicado.
 
 ## ► Gerenciadores de download
 
