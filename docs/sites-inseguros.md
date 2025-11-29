@@ -82,6 +82,7 @@
 
 | 📋 **NOME**  | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                                       |
 | :----------- | :-------------------------- | :---------------------------------------------------------------------------------------------------- |
+| 💩 Aptoide      | aptoide-com                | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).
 | IPAOMTK      | ipaomtk-com                 | **Vírus** (_Detectado com malware em várias ocasiões_).                                               |
 | OceanOfApks  | oceanofapks-com             | **Vírus** (_Detectado com malware em várias ocasiões_).                                               |
 | 💩 Happy Mod | happymod-com (proxies)      | **Suspeito** (_Reposta apks modificados de outros sites e permite anúncios clickjacking em excesso_). |
