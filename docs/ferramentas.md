@@ -37,7 +37,6 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Chocolatey](https://chocolatey.org/) - Um instalador de linha de comando para o Windows, muito semelhante com o WinGet.
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows translúcida/transparente.
-- [Fort Firewall](https://github.com/tnodir/fort) - Firewall bastante semelhante ao OpenSnitch do GNU/Linux.
 - 🌟 [**ShutUp10++**](https://www.oo-software.com/en/shutup10) - Controle quais dados devem ou não ser coletados pela Microsoft.
 - [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à experiência moderna do Windows
 - [Wintoys](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge (quando não funcionar, [tente isso](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)), retira os anúncios da Microsoft e habilita o "God Mode".
@@ -333,7 +332,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► **Segurança**
 
 - [av-comparatives.org](https://www.av-comparatives.org/) - Análises de proteção antivírus.
-- [abuse.ch](https://abuse.ch) - Database de domínios/endereços IP usados por cibercriminosos, inclua estes dados na blocklist de seu firewall.
+- [abuse.ch](https://abuse.ch) - Database de domínios/endereços IP usados por cibercriminosos, inclua estes dados na blocklist de seu firewall ou simplesmente use o [portmaster](https://safing.io/) (que já vem com esta lista de bloqueio por padrão).
 - [Windows Sandbox](https://learn.microsoft.com/pt-br/windows/security/application-security/application-isolation/windows-sandbox/) - Ambiente de testes.
 - [VirusTotal.com](https://www.virustotal.com/) / [Metadefender](https://metadefender.com/) - Serviços da Web que verificam arquivos e URLs.
 - [TarnKappe](https://tarnkappe.info/artikel/it-sicherheit/malware) - Notícias sobre a cena de cibersegurança. **Use um tradutor.**
