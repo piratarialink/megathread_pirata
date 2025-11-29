@@ -67,7 +67,6 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Falkon](https://flathub.org/en/apps/org.kde.falkon) - Navegador feito pela KDE para sistemas derivados do Unix, vem com adblock próprio já instalado.
 - 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
 - [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a descoberta de novos programas e pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
-- [DFM](https://apps.kde.org/dolphin/) - Gerenciador de arquivos exclusivo do KDE Plasma, otimizado e altamente prático.
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio escrito em Python; oferece separação em tags, playlists, álbuns e avaliações como recurso.
 - [Hyprland](https://hypr.land/) - O Hyprland é um compositor de janelas derivado do Wayland e destinado para usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
 - 🌟 [**htop**](https://htop.dev/) - Para monitorar processos em execução através da linha de comando, você pode acionar prioridades com base em seu critério pré-definido.
@@ -291,7 +290,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Ferramenta de linha de comando de código aberto para baixar vídeo/áudio de uma grande variedade de páginas. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente.
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - Frontend para o yt-dlp.
-- 🌟 [Trialware] [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade.
+- 🌟 **[Trialware]** [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade.
 - [Cat-catch](https://github.com/xifangczy/cat-catch) - O cat-catch é uma extensão do Firefox e Chrome para baixar vídeos de sites de emissoras de tv.
 - [twitch-dl](https://github.com/ihabunek/twitch-dl) - Para VODs disponíveis apenas para subs na Twitch.
 - [kick-dl](https://github.com/juliogarciape/kick-dl) - Mesmo conceito do twitch-dl, só que para a kick.com.
