@@ -54,7 +54,7 @@ Vamos ativar a opção "Use SmartProxy" e deixar marcada a opção "Sequential".
 No campo, coloque os proxies no formato pedido e salve. 
 Para isso, nós acessaremos o [ProxyScrape](https://proxyscrape.com/free-proxy-list), e ao clicar em "Get Free Proxy List" escolheremos logo em seguida a opção ".txt" e faremos o download do arquivo.
 
-Após clique em "File" -> "New download" e cole o link do Mega. O link será adicionado à lista de Downloads. Após isso, basta esperar até a conclusão do download.
+Após, clique em "File" -> "New download" e cole o link do Mega. O link será adicionado à lista de Downloads. Após isso, basta esperar até a conclusão do download.
 
 Além dos proxies você pode usar mais de uma conta para fazer os Downloads!
 
