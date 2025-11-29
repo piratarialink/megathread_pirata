@@ -229,6 +229,11 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Emulador bom, experimental e de código aberto, disponível para todas as plataformas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vita3k.org/)
 
+### 🌟 [**shadPS4**](https://shadps4.net/downloads/) • PlayStation 4
+
+- Emulador com GUI baseada no motor de renderização Qt que roda jogos de PS4 no Windows, Linux e MacOS.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/shadps4.net/)
+
 ## 💾 ➜ ROMs/ISOs
 
 ### 🌟 [**Internet Archive**](https://archive.org/details/emulation)
