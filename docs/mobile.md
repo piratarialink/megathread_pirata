@@ -27,7 +27,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M)
 
-- Transforma .APKS/.APKM/.XAPK em .APKs, alternativa excelente para aquelas lojas próprias que os sites de apps modificados te obrigam a baixar.
+- Transforma .APKS/.APKM/.XAPK em .APKs, alternativa excelente para aquelas lojas proprietárias que os sites de apps modificados te obrigam a baixar.
 
 ### 🔗 [Gbox](https://www.gboxlab.com/)
 
