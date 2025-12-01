@@ -25,7 +25,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL faz.
 - [Microsoft Toolkit](https://gitlab.com/-/project/11037551/uploads/f73eea2588a1ba5e81e529658089b20d/MTKV274.7z) - Utilitário de multipropósito: pode ativar o Windows, editar componentes e gerir a licença. Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Conjunto destinado a usuários avançados que permite renomear arquivos pelo RegEx (expressões regulares) e melhorar a UX para uma produtividade maior.
-- 🌟 [**Sysinternals**](https://learn.microsoft.com/pt-br/sysinternals/) - Outro conjunto de scripts e programas destinados a usuários avançados; criado com o propósito de otimizar e auditar o Windows. Feito pelo engenheiro de software Mark Russinovich.
+- 🌟 [**Sysinternals**](https://learn.microsoft.com/pt-br/sysinternals/) - Outro conjunto de scripts e programas destinados a usuários avançados; criado com o propósito de otimizar e auditar o Windows e facilitar a descoberta de rootkits. Feito pelo engenheiro de software Mark Russinovich.
 - [AME Wizard](https://ameliorated.io) - Feito para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 11.
 - [SophiApp](https://github.com/Sophia-Community/SophiApp) - A ferramenta de código aberto mais poderosa no GitHub para configurar e fazer debloat do Windows 10 e Windows 11.
 - [Optimizer](https://github.com/hellzerg/optimizer) - Projetado para aprimorar sua privacidade e segurança no Windows.
