@@ -22,7 +22,7 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [ueli](https://ueli.app/#/) - Um launcher de aplicativos e preferências do sistema. Intuitivo e adepto de uma metodologia focada na simplicidade.
 
-- [ShareX](https://getsharex.com/) - Alternativa melhor que o programa de captura de tela. Disponível para MacOS e Windows
+- [ShareX](https://getsharex.com/) - Alternativa melhor que o programa de captura de tela. Disponível para MacOS e Windows.
 
 - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Vários recursos interessantes da Microsoft que não são implementados no Windows por padrão.
  
