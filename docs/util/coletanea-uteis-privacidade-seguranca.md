@@ -14,15 +14,15 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [Firemin](https://rizonesoft.com/downloads/firemin/) / [Chromin](https://rizonesoft.com/sdm_downloads/chromin/) - Diminui o consumo de memória RAM por navegadores derivados do Firefox e Chromium.
  
-- [privacy.sexy](https://privacy.sexy/) - Ferramenta de código aberto para aplicar práticas recomendadas de privacidade e segurança no Windows e macOS.
+- [privacy.sexy](https://privacy.sexy/) - Scripts para aplicar práticas recomendadas de privacidade e segurança no Windows e macOS.
 
-- [Shell](https://github.com/moudey/Shell) - Gerenciador poderoso para o menu de contexto do Windows File Explorer.
+- [Shell](https://github.com/moudey/Shell) - Gerenciador multitarefa feito para o menu de contexto do Windows File Explorer.
 
 - [Everything](https://www.voidtools.com/) com [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Para encontrar pastas rapidamente.
 
-- [ueli](https://ueli.app/#/) - Um launcher de pressionamento de tecla.
+- [ueli](https://ueli.app/#/) - Um launcher de aplicativos e preferências do sistema. Intuitivo e adepto de uma metodologia focada na simplicidade.
 
-- [ShareX](https://getsharex.com/) - Alternativa melhor que o programa de captura de tela.
+- [ShareX](https://getsharex.com/) - Alternativa melhor que o programa de captura de tela. Disponível para MacOS e Windows
 
 - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Vários recursos interessantes da Microsoft que não são implementados no Windows por padrão.
  
@@ -34,15 +34,17 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [ShutUp10++](https://www.oo-software.com/en/shutup10) - Software anti espionagem gratuito para Windows 10 e Windows 11.
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Um ativador de Windows e Office usando métodos de ativação HWID/KMS38/KMS online, com foco em código-fonte aberto e menos detecções de antivírus.
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Um ativador de Windows e Office usando métodos de ativação HWID/TSforge/KMS online, com foco em código-fonte aberto e menos detecções de antivírus.
 
-- [BurntSushi](https://github.com/OpenByteDev/burnt-sushi) - Spotify AdBlocker para o Windows.
+- [BurntSushi](https://github.com/OpenByteDev/burnt-sushi) - Adblocker para o cliente do Spotify no Windows.
 
 ### Coisa realmente boa
 
 - [spot-dl](https://github.com/spotDL/spotify-downloader) - Baixe suas playlists e músicas do Spotify com a arte do álbum e metadados (do YouTube se encontrar uma correspondência).
 
 - [ffmpeg](https://ffmpeg.org/download.html) - FFmpeg é uma coleção de bibliotecas e ferramentas para processar conteúdo multimídia como áudio, vídeo, legendas e metadados relacionados.
+
+- [Dangerzone](https://dangerzone.rocks/) - Converte PDFs e demais documentos maliciosos em arquivos seguros para leitura e compartilhamento.
 
 - [Upscayl](https://github.com/upscayl/upscayl) - IA upscaler de imagens para Linux, MacOS e Windows, desenvolvido com a filosofia Linux-First.
 
