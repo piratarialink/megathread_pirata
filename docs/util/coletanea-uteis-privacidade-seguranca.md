@@ -84,7 +84,7 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Salta os anúncios que os youtubers colocam no vídeo. Usar com o [Return Youtube Dislike](https://github.com/Anarios/return-youtube-dislike).
 
-- [YouTube No Translation](https://github.com/YouG-o/YouTube_No_Translation) - Bloqueia traduções simultâneas da dublagem do YouTube.
+- [YouTube No Translation](https://github.com/YouG-o/YouTube_No_Translation) - Bloqueia traduções simultâneas da dublagem do YouTube, disponível para o navegador web Firefox, Chrome, Edge e Safari.
 
 ### Serviços focados em privacidade e segurança
 
