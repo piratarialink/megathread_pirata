@@ -89,6 +89,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
 - [Stats](https://github.com/exelban/stats) - O equivalente do HWiNFO para o OS X.
 - [UTM](https://github.com/utmapp/UTM/releases) - VM multiplataforma baseada no QEMU.
+- [MacPass](https://github.com/MacPass/MacPass) - Port do KeePass original para o Mac. 
 - **[Trialware]** [CrossOver](https://www.codeweavers.com/crossover) - Faz o papel de rodar jogos do Windows no MacOS.
 - **[Trialware]** [AIDente](https://apphousekitchen.com/) - Aumenta a vida útil da bateria do MacBook.
 - **[Pago]** [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - Limita o uso da Internet e envio de dados para servidores específicos.
@@ -357,7 +358,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Hospedagem de arquivos
 
-- [IPFS](https://ipfs.io/) - Serve arquivos que podem ser preservados temporariamente em cache ou pinados e assim armazenados para sempre. O conteúdo pode ser acessado tanto por um node seu quanto por [gateways públicas](https://ipfs.github.io/public-gateway-checker/) ou privadas.
+- [IPFS](https://github.com/ipfs/ipfs-desktop/releases) - Serve arquivos que podem ser preservados temporariamente em cache ou pinados e assim armazenados para sempre. O conteúdo pode ser acessado tanto por um node seu quanto por [gateways públicas](https://ipfs.github.io/public-gateway-checker/) ou privadas.
 - [Catbox](https://catbox.moe/) - Upload de vídeos (webm, mp4) e imagens. Não permite arquivos .exe, .scr, .cpl, .doc e .jar. Até o momento, sem limite de tamanho para upload.
 - [File Kiwi](https://file.kiwi/) - Mais uma alternativa para o Mega.
 - **[Pago]** [Filedot](https://filedot.to/) - Hospedagem na nuvem.
