@@ -199,7 +199,7 @@ Além do método referido, também é possível usar mixers que atuam por técni
 
 O VeraCrypt inclui suporte para HD, SSD, USB e TF.
 Ele adiciona segurança aprimorada aos algoritmos usados ​para criptografia de sistemas e partições, tornando-os imunes a novos desenvolvimentos em ataques de força bruta. 
-No VeryCrypt você pode manter uma partição só sua e outra para momentos mais "oportunos" ou em situações que sua privacidade esteja em grave perigo.
+No VeryCrypt você pode manter uma partição só sua e outra escondida para momentos mais "oportunos" ou em situações que sua privacidade esteja em grave perigo.
 
 ### [LUKS](https://gitlab.com/cryptsetup/cryptsetup)
 
