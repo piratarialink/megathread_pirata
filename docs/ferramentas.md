@@ -57,7 +57,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► **Ferramentas para Linux / BSD**
 
-- 🌟 [**Q4Wine**](https://flathub.org/en/apps/ua.org.brezblock.q4wine) - O q4wine é um programa que oferece uma interface gráfica (GUI) para o Wine, feito com o intuito de gerenciar prefixos (local de instalação) e executáveis com facilidade.
+- [Q4Wine](https://flathub.org/en/apps/ua.org.brezblock.q4wine) - O q4wine é um programa que oferece uma interface gráfica (GUI) para o Wine, feito com o intuito de gerenciar prefixos (local de instalação) e executáveis com facilidade.
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de ISOs customizadas upadas todos os dias.
 - [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor doméstico eficaz e protegido (sendo Debian no modo headless a melhor distro para essa função).
 - 🌟 [**Hints**](https://github.com/AlfredoSequeida/hints?tab=readme-ov-file) - Feito para quem já está habituado a usar sobretudo o teclado em comparação com o mouse, atente-se ao _setup_ específico do seu gerenciador de janelas [seguindo esse passo a passo.](https://github.com/AlfredoSequeida/hints/wiki/Window-Manager-and-Desktop-Environment-Setup-Guide)
