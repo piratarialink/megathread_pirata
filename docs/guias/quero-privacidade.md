@@ -49,7 +49,7 @@ Melhor caminho: **p2p** ➜ **BRL** ➜ **BTC ou LTC** ➜ **XMR** ➜ [**Cold W
 Mas caso você esteja usando um dispositivo móvel, uma abordagem interessante é filtrar e usar nodes conectados à rede TOR (via [ORBOT](https://github.com/guardianproject/orbot-android)) deste site aqui: https://www.ditatompel.com/monero/remote-node. [[1]](https://pirataria.link/guias/quero-privacidade#creditos)
 
 
-:::warning O projeto pirataria se compromete em recomendar apenas o que na nossa visão é seguro e confiável.
+:::warning O projeto pirataria se compromete em recomendar apenas o que na nossa visão é seguro e confiável
 :::
 
 ‎ 
