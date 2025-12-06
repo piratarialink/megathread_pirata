@@ -88,8 +88,9 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - Script do Macked para crackear apps CC.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
 - [Stats](https://github.com/exelban/stats) - O equivalente do HWiNFO para o OS X.
-- [UTM](https://github.com/utmapp/UTM/releases) - VM multiplataforma baseada no QEMU.
-- [MacPass](https://github.com/MacPass/MacPass) - Port do KeePass original para o Mac. 
+- [UTM](https://github.com/utmapp/UTM/releases) - VM multissistema baseada no QEMU.
+- [MacPass](https://github.com/MacPass/MacPass) - Port do KeePass original para o Mac.
+- [TinkerTool](http://www.bresink.com/osx/TinkerTool.html) - Utilitário para customizar o ambiente desktop e outros recursos. 
 - **[Trialware]** [CrossOver](https://www.codeweavers.com/crossover) - Faz o papel de rodar jogos do Windows no MacOS.
 - **[Trialware]** [AIDente](https://apphousekitchen.com/) - Aumenta a vida útil da bateria do MacBook.
 - **[Pago]** [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - Limita o uso da Internet e envio de dados para servidores específicos.
