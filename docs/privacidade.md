@@ -39,7 +39,7 @@ O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Hab
 
 ### [IronFox](https://gitlab.com/ironfox-oss/IronFox)
 
-Procurando manter o legado do Mull Browser vivo, este software leve é o meio mais sigiloso e confiável de navegar na internet pelo Android, totalmente código aberto, sem anúncios e com a telemetria já desativada desde a primeira interação.
+Procurando manter o legado do Mull Browser vivo, este software leve é o meio mais robusto e confiável de navegar na internet pelo Android, totalmente código aberto, sem anúncios e com a telemetria já desativada desde a primeira interação.
 
 - Personalizado com ênfase na privacidade
 - Hardening avançado contra Fingerprint
@@ -76,7 +76,7 @@ O Cromite é para o Chrome/Brave o que o Librewolf é para o Firefox; fork do Ch
 O Navegador Mullvad é uma versão do Navegador Tor com as integrações do roteamento onion removidas, visando fornecer as tecnologias de anti-reconhecimento do Browser. Ele é gratuito e desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
 
 - Anti-Fingerprinting
-- Modo de navegação privativa
+- Modo de navegação privada
 
 :::info Disponível para Windows e Linux
 :::
@@ -87,7 +87,7 @@ O Navegador Mullvad é uma versão do Navegador Tor com as integrações do rote
 
 O Bitwarden é um gerenciador de senhas de código aberto e plataforma de segurança de dados que permite armazenar de forma segura senhas, cartões de crédito e outros dados confidenciais. Ele oferece recursos como preenchimento automático de senhas, geração segura de senhas, compartilhamento seguro de senhas com outras pessoas e sincronização de dados entre dispositivos. O Bitwarden é acessível por aplicativos para desktop, navegador e dispositivos móveis, garantindo acesso fácil e seguro às suas credenciais em qualquer lugar.
 
-:::info Você pode criar sua própria instância do Bitwarden, instalando o [Vaultwarden](https://github.com/dani-garcia/vaultwarden) em seu servidor. Somente para usúarios avançados
+:::info Você pode criar sua própria instância do Bitwarden, instalando o [Vaultwarden](https://github.com/dani-garcia/vaultwarden) em seu servidor - Somente para usúarios avançados
 :::
 
 ### [KeePassXC](https://keepassxc.org/)
@@ -166,12 +166,14 @@ Mailbox.org é um serviço de e-mail baseado na Alemanha que oferece recursos av
 
 Um sistema operacional mobile privado e seguro com compatibilidade de aplicativos Android. Desenvolvido como um projeto de código aberto sem fins lucrativos.
 
-- Só suporta Google Pixel
+- Só suporta a linha Google Pixel, praticamente inexistente no Brasil
+- Restringe totalmente o uso da internet por aplicativos sem a necessidade de firewall
 
 ### [LineageOS](https://lineageos.org/)
 
 - Suporta celulares antigos que não recebem mais atualizações de segurança
 - A linha da Motorola é a mais acessível no Brasil
+- Restringe totalmente o uso da internet por aplicativos sem a necessidade de firewall
 
 ![LineageOS](./images/lineage_os.jpg)
 
@@ -195,17 +197,17 @@ Além do método referido, também é possível usar mixers que atuam por técni
 
 ### [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
 
-O VeraCrypt inclui suporte para HD, SSD, pendrive e cartão de memória.
+O VeraCrypt inclui suporte para HD, SSD, pendrive e TF.
 Ele adiciona segurança aprimorada aos algoritmos usados ​para criptografia de sistemas e partições, tornando-os imunes a novos desenvolvimentos em ataques de força bruta. 
 No VeryCrypt você pode manter uma partição só sua e outra para momentos mais "oportunos" ou em situações que sua privacidade esteja em grave perigo.
 
 ### [LUKS](https://gitlab.com/cryptsetup/cryptsetup)
 
-Com o LUKS você pode criar um arquivo simples ou até mesmo um conjunto de arquivos criptografados no Linux que, quando desbloqueados, formam um LVM com os seus dados. Ao fornecer um formato em disco, ele não apenas facilita a compatibilidade entre distribuições, mas também fornece gerenciamento seguro de múltiplas senhas de usuários. Gratuito e de código aberto, para que você tenha certeza de que não há backdoors.
+Com o LUKS você pode criar um arquivo simples ou até mesmo um conjunto de arquivos criptografados no Linux que, quando desbloqueados, formam um LVM com os seus dados. Ao fornecer um formato em disco, ele não apenas facilita a compatibilidade entre distribuições, mas também fornece gerenciamento seguro de múltiplas senhas de usuários. O LUKS é um padrão de criptografia gratuito e de código aberto, feito para que você tenha certeza de que não há backdoors.
 
 Melhores distros compatíveis com LUKS: **Fedora** (Bazzite é uma distribuição baseada no Fedora mais indicada para gamers), **Arch** com KDE (Manjaro e CachyOS são derivados do Arch recomendados para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
 
-:::info Caso você seja um usuário avançado, [distros sem systemd](https://nosystemd.org/) (benéficas para privacidade) também são uma opção
+:::info Caso você seja um usuário avançado, [distros sem systemd](https://nosystemd.org/) (boas para privacidade) também são uma opção
 :::
 
 ## Criptografia de nuvem
