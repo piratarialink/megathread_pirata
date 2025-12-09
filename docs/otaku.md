@@ -25,11 +25,6 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 ---
 
-#### 🌟 [Better Anime](https://betteranime.net/)
-
-- O grande Better Anime, agora sem restrições de DMCA, Full HD disponível para quase todos os animes e download ocasionalmente habilitado.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/betteranime.net/)
-
 #### 🌟 [RedeCanais](https://redecanais.sh/browse-animes-videos-1-date.html)
 
 - Incrível coleção de animes em excelente qualidade e dublados em PT-BR.
@@ -181,7 +176,10 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 ‎
 ‎
+#### 🧲 [Erai-Raws](https://www.erai-raws.info/)
 
+- ScanSubs para quase todas as línguas, fonte para diversos sites de anime.
+  
 ### 📣 ➜ No Telegram - Anime
 
 ---
