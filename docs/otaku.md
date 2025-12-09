@@ -175,8 +175,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
 
 - Tracker semi-privado.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/tracker.uniotaku.com/)
-  
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/tracker.uniotaku.com/)  
 ‎
 ‎
 #### 🧲 [Erai-Raws](https://www.erai-raws.info/)
