@@ -85,7 +85,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 - Repleto de animes, na maior qualidade possível com os recém lançamentos.
 - Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
 
 ### 📥 ➜ Download Direto
 
@@ -149,6 +149,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🧲 [Anime no Sekai](https://www.ansktracker.net/)
 
 - Tracker semi-privado de anime.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/ansktracker.net/)
 
 #### 🌟 [Dark Mahou](https://darkmahou.org/)
 
@@ -169,15 +170,19 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🧲 [Shakaw](https://tracker.shakaw.com.br/)
 
 - Tracker privado. Participe do [servidor do Discord para mais informações](https://discord.gg/dZVbVChdun).
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/tracker.shakaw.com.br/)
 
 #### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
 
 - Tracker semi-privado.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/tracker.uniotaku.com/)
+  
 ‎
 ‎
 #### 🧲 [Erai-Raws](https://www.erai-raws.info/)
 
 - ScanSubs para quase todas as línguas, fonte para diversos sites de anime.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/erai-raws.info/)
   
 ### 📣 ➜ No Telegram - Anime
 
