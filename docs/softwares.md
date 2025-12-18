@@ -254,7 +254,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - Lista do github que abrange todos os sites em atividade, também informa se determinado endereço está offline ou não.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🔗 [MiniDL.org](https://minidl.org/) - Windows & MacOS.
+### 🔗 [MiniDL.org](https://minidl.org/)
 
 - Windows & MacOS, recomendamos que leia o trecho sobre [burladores de links premium](https://pirataria.link/ferramentas#%E2%96%BA-burladores-de-links-premium) para baixar do nitroflare ou rapidgator.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/minidl.org/)
