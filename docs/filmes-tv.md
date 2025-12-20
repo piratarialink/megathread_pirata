@@ -41,7 +41,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [GoFlix](https://goflixy.lol/)
 
-- Lançamentos com resolução 1080p, 720p ou até em HD puro para blockbusters. Em caso de anti-adblock, use o PopUpOFF.
+- Lançamentos com resolução 1080p, 720p ou até em HD puro para blockbusters. Em caso de anti-adblock, use o nuMatrix.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcinex.si/)
 
 ### ▶️ [Clube do Dual](https://clubedodual.com/index.php?app=core&module=system&controller=login)
