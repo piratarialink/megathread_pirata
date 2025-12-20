@@ -399,6 +399,11 @@ _[**Outros apps para assistir filmes e séries podem ser encontrados aqui**](out
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.starckfilmes.com/)
 
+### 🧲 [Catálogo BeTor](https://catalogo.betor.top/)
+
+- Agregador de Agregadores: Encontre facilmente em qual agregador (BluDv, Torrent dos Filmes, Comando e outros) está o conteúdo que você procura.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/catalogo.betor.top/)
+
 ## 🖊 Legendas
 
 ### 🌟 [OpenSubtitles](https://www.opensubtitles.com) / [2](https://www.opensubtitles.org)
