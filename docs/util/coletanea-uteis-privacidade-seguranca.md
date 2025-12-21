@@ -10,7 +10,7 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 ### Mais focado no Windows 10/11
 
-- [SophiApp](https://github.com/Sophia-Community/SophiApp) - ⚡ O tweaker de código aberto mais poderoso no GitHub para ajustes no Windows 10 e Windows 11.
+- [Sophia Script](https://github.com/farag2/Sophia-Script-for-Windows) - ⚡ O tweaker de código aberto mais poderoso no GitHub para ajustes no Windows 10 e Windows 11 (LTSC e CE).
 
 - [Firemin](https://rizonesoft.com/downloads/firemin/) / [Chromin](https://rizonesoft.com/sdm_downloads/chromin/) - Diminui o consumo de memória RAM por navegadores derivados do Firefox e Chromium.
  
