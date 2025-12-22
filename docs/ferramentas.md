@@ -68,7 +68,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a descoberta de novos programas e pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio escrito em Python; oferece separação em tags, playlists, álbuns e avaliações como recurso.
 - [Hyprland](https://hypr.land/) - O Hyprland é um compositor de janelas derivado do Wayland e destinado para usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
-- 🌟 [**htop**](https://htop.dev/) - Para monitorar processos em execução através da linha de comando, você pode acionar prioridades com base em seu critério pré-definido.
+- 🌟 [**htop**](https://htop.dev/) - Para monitorar processos do sistema executando em segundo plano através da linha de comando, você pode acionar prioridades com base em seu critério pré-definido.
 - [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar diversas versões do OS X no Linux. Com suporte a GPU dedicada e a novas versões BETA + _recovery images_.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
 - 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova anúncios da Canonical como o Ubuntu PRO e mensagens ESM com esse método. Post original do [Ask Ubuntu](https://askubuntu.com/a/1438510).
@@ -362,8 +362,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [IPFS](https://github.com/ipfs/ipfs-desktop/releases) - Serve arquivos que podem ser preservados temporariamente em cache ou pinados e assim armazenados para sempre. O conteúdo pode ser acessado tanto por um node seu quanto por [gateways públicas](https://ipfs.github.io/public-gateway-checker/) ou privadas.
 - [Catbox](https://catbox.moe/) - Upload de vídeos (webm, mp4) e imagens. Não permite arquivos .exe, .scr, .cpl, .doc e .jar. 
 - [Litterbox](https://litterbox.catbox.moe/) - Mesmo conceito do catbox.moe, mas com um limite maior de até 1 GB.
-- [File Kiwi](https://file.kiwi/) - Mais uma alternativa para o Mega.
-- **[Pago]** [Filedot](https://filedot.to/) - Hospedagem na nuvem, também semelhante ao Mega.
+- [File Kiwi](https://file.kiwi/) - Permite hospedar arquivos por até 90 horas - sem limite para upload. 
+- [anonfile.de](https://anonfile.de/upload/) - Uma alternativa caso o file.kiwi fique fora do ar.
+- **[Pago]** [Filedot](https://filedot.to/) - Hospedagem na nuvem, muito semelhante ao Mega.
 - [Take me to space](https://take-me-to.space/) - Hospeda imagens. Necessário se cadastrar antes de começar a utilizar.
 
 ## ► Renomeação de arquivos
