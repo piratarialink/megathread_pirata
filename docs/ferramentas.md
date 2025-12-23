@@ -68,7 +68,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a descoberta de novos programas e pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio escrito em Python; oferece separação em tags, playlists, álbuns e avaliações como recurso.
 - [Hyprland](https://hypr.land/) - O Hyprland é um compositor de janelas derivado do Wayland e destinado para usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
-- 🌟 [**htop**](https://htop.dev/) - Para monitorar processos em execução através da linha de comando, você pode acionar prioridades com base em seu critério pré-definido.
+- 🌟 [**htop**](https://htop.dev/) - Para monitorar processos do sistema executando em segundo plano através da linha de comando, você pode acionar prioridades com base em seu critério pré-definido.
 - [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar diversas versões do OS X no Linux. Com suporte a GPU dedicada e a novas versões BETA + _recovery images_.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
 - 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova anúncios da Canonical como o Ubuntu PRO e mensagens ESM com esse método. Post original do [Ask Ubuntu](https://askubuntu.com/a/1438510).
@@ -360,11 +360,12 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Hospedagem de arquivos
 
 - [IPFS](https://github.com/ipfs/ipfs-desktop/releases) - Serve arquivos que podem ser preservados temporariamente em cache ou pinados e assim armazenados para sempre. O conteúdo pode ser acessado tanto por um node seu quanto por [gateways públicas](https://ipfs.github.io/public-gateway-checker/) ou privadas.
-- [Catbox](https://catbox.moe/) - Upload de vídeos (webm, mp4) e imagens. Não permite arquivos .exe, .scr, .cpl, .doc e .jar. 
+- [catbox.moe](https://catbox.moe/) - Upload de vídeos (webm, mp4) e imagens. Não permite arquivos .exe, .scr, .cpl, .doc e .jar. 
 - [Litterbox](https://litterbox.catbox.moe/) - Mesmo conceito do catbox.moe, mas com um limite maior de até 1 GB.
-- [File Kiwi](https://file.kiwi/) - Mais uma alternativa para o Mega.
-- **[Pago]** [Filedot](https://filedot.to/) - Hospedagem na nuvem, também semelhante ao Mega.
-- [Take me to space](https://take-me-to.space/) - Hospeda imagens. Necessário se cadastrar antes de começar a utilizar.
+- [file.kiwi](https://file.kiwi/) - Permite hospedar arquivos por até 90 horas - sem limite para upload. 
+- [anonfile.de](https://anonfile.de/upload/) - Uma alternativa caso o file.kiwi fique fora do ar.
+- **[Pago]** [Filedot](https://filedot.to/) - Hospedagem na nuvem, muito semelhante ao Mega.
+- [Take-me-to-space](https://take-me-to.space/) - Hospeda imagens. Necessário se cadastrar antes de começar a utilizar.
 
 ## ► Renomeação de arquivos
 
@@ -387,7 +388,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [NoScript](https://noscript.net/) - Bloqueia todos os scripts do site e também previne ataques XSS. Comumente conhecido por vir pré-instalado no navegador Tor.
 - [Port Authority](https://github.com/ACK-J/Port_Authority/) - Defesa em tempo real contra ofensivas hackers do tipo _port mapping_. Ideal para quando o tracker privado ou warez que você participa pedir para realizar _port forwarding_.
 - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - Extensão já recomendada pelo FMHY que impede que domínios usem APIs baseadas em JavaScript para coletar a impressão digital de seu _browser_.
-- [LocalCDN](https://www.localcdn.org/) - Melhor alternativa para o Decentraleyes, redireciona requisições de bibliotecas web mais comuns (Cloudflare CDN) para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
+- [LocalCDN](https://www.localcdn.org/) - Melhor alternativa para o Decentraleyes, redireciona requisições de bibliotecas web mais comuns (aka Cloudflare CDN) para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
 
 ## ► **Telegram**
 
@@ -430,7 +431,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [reshare.dev](https://reshare.dev) - Tenha acesso ao SORA através de um invite code da comunidade, [necessário se cadastrar antes](https://emailnator.com) - Você também pode se cadastrar no aplicativo do SORA via Aurora Store + Shizuku Installer e a partir daí logar no site com uma VPN. **Nota: para ter acesso ao último modelo do Veo (outra IA voltada a criação de vídeos), fique atento à [essa lista aqui](https://fmhy.net/ai#video-generation).**
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar. **Nota:** caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
-- [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura - algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6) e [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) (podem não funcionar na maior parte do tempo).
+- [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura, algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6), [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) e [DIG](https://digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion/) (onion) - podem não funcionar na maior parte do tempo.
 - **[Trialware]** [Roo Code](https://roocode.com) - Gerador/addon de código de programação no IDE Visual Studio Code, suporta integração com modelos pagos e gratuitos da OpenAI, Anthropic, Grok e Google Gemini, apenas para citar alguns.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado.
 - [pyVideoTrans](https://pyvideotrans.com/) - Mesmo conceito do Legen: embute hardsubs em vídeos com base no Whisper, com a única diferença de poder dublar e sincronizar a fala automaticamente.
