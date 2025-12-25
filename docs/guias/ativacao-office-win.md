@@ -8,7 +8,7 @@ Neste tutorial, você aprenderá como baixar e ativar o Windows e o Office utili
 
 1. Acesse o site do [Massgrave](https://massgrave.dev/genuine-installation-media.html).
 2. Localize a seção referente a **Windows e Office**.
-3. Para baixar o Office, selecione a opção **"Office C2R Installers (Retail)"** na versão PT-BR. Para baixar o Windows escolha **"Windows 11 Consumer 24H2"** na build recomendada e no método MSDL.
+3. Para baixar o Office, selecione a opção **"Office C2R Installers (Retail)"** na versão PT-BR ou se caso não desejar instalar o skype/onedrive junto com o pacote office [**siga essas instruções aqui**](https://gravesoft.dev/office_c2r_custom) (Direct Install) - para baixar o Windows escolha **"Windows 11 Consumer 24H2"** na build recomendada e no método MSDL.
    > **Dica:** A versão indicada com um ícone de coração costuma ser a mais recomendada.
 
 ## 2. Preparando a Ativação
@@ -20,7 +20,7 @@ Neste tutorial, você aprenderá como baixar e ativar o Windows e o Office utili
 
 ### Executando o Script de Ativação
 
-1. Com o PowerShell aberto, copie e cole o comando e pressione **Enter**: `irm https://massgrave.dev/get | iex`
+1. Com o PowerShell aberto, copie e cole o comando e pressione **Enter**: `irm https://get.activated.win | iex`
 
    > **Observação:** Esse comando baixa e executa um script que apresentará as opções de ativação disponíveis.
 
@@ -34,10 +34,10 @@ Neste tutorial, você aprenderá como baixar e ativar o Windows e o Office utili
 _Exemplo da interface apresentada:_
 ![Exemplo de Seleção](./images/ativacao-office-win-2.png)
 
-## 3. Conclusão da Ativação
+## 3. Conclusão
 
 - Aguarde enquanto o script processa a ativação.
 - Quando a mensagem **"... Is permanently activated..."** aparecer, isso indica que a ativação foi concluída com sucesso.
 
-- **Fonte de Origem:**
+- **Fonte:**
   Este guia foi elaborado com base no post de [Ok_Table7457](https://www.reddit.com/r/Piracy/comments/1814gmp/guide_how_to_pirate_microsoft_office_properly/).
