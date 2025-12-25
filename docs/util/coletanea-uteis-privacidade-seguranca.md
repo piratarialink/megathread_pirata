@@ -26,7 +26,7 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Vários recursos interessantes da Microsoft que não são implementados no Windows por padrão.
  
-- [KDE Connect](https://kdeconnect.kde.org/) - Uma forma de conectar seu smartphone e computador sem usar a ferramenta Link to Windows da Microsoft (já houve momentos em que as versões para Windows deste aplicativo não reconheciam nada, sua experiência pode variar).
+- [KDE Connect](https://kdeconnect.kde.org/) - Uma forma de conectar seu smartphone e computador sem usar a ferramenta Phone Link da Microsoft - já houve momentos em que as versões para Windows deste aplicativo não reconheciam nada, sua experiência pode variar, em todo caso, use o [Sefirah](https://github.com/shrimqy/Sefirah) que é infinitamente melhor que ambos.
 
 - [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - para limpar os drivers NVIDIA.
 
