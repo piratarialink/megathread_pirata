@@ -20,26 +20,23 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 ## ► **Ferramentas para Windows / Office**
 
 - 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O Ohook ativa a licença do Office e o HWID ativa permanentemente o Windows 10/11, também converte a versão Retail do Office em versão de Volume. [**Guia**](guias/ativacao-office-win.md)
-- [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Automatiza ativações de licença do Office e Windows. Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
-- 🌟 [**TSforge**](https://massgrave.dev/tsforge) - Ativa o suporte estendido de 3 anos para dispositivos com Windows 10 professional 22H2. **Nota: a versão LTSC receberá atualizações de segurança até 2027 enquanto que a versão IoT LTSC terá suporte até 2032 - usar a licença de volume do [ODT](https://gravesoft.dev/office_c2r_custom) para baixar o pacote office e o [Alt App Installer](https://github.com/mjishnu/alt-app-installer) para baixar programas da Microsoft Store.**
-- [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) - Faz o mesmo que o KMS_VL_ALL faz.
 - [Microsoft Toolkit](https://gitlab.com/-/project/11037551/uploads/f73eea2588a1ba5e81e529658089b20d/MTKV274.7z) - Utilitário de multipropósito: pode ativar o Windows, editar componentes e gerir a licença. Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Conjunto destinado a usuários avançados que permite renomear arquivos pelo RegEx (expressões regulares) e melhorar a UX para uma produtividade maior.
-- 🌟 [**Sysinternals**](https://learn.microsoft.com/pt-br/sysinternals/) - Outro conjunto de scripts e programas destinados a usuários avançados; criado com o propósito de auditar o Windows e facilitar a descoberta de rootkits. Feito pelo engenheiro de software Mark Russinovich.
-- [AME Wizard](https://ameliorated.io) - Feito para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 11.
-- [SophiApp](https://github.com/Sophia-Community/SophiApp) - A ferramenta de código aberto mais poderosa no GitHub para configurar e fazer debloat do Windows 10 e Windows 11.
+- 🌟 [**TSforge**](https://massgrave.dev/tsforge) - Ativa o suporte estendido de 3 anos para dispositivos com Windows 10 professional 22H2. **Nota: a versão LTSC receberá atualizações de segurança até 2027 enquanto que a versão IoT LTSC terá suporte até 2032 - usar a licença de volume do [ODT](https://gravesoft.dev/office_c2r_custom) para baixar o pacote office e o [Alt App Installer](https://github.com/mjishnu/alt-app-installer) para baixar programas da Microsoft Store.**
+- [Winhancer](https://github.com/memstechtips/Winhance)- Feito para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 11.
 - [Optimizer](https://github.com/hellzerg/optimizer) - Projetado para aprimorar sua privacidade e segurança no Windows.
-- [Windows Fixer](https://github.com/99natmar99/Windows-11-Fixer) - “Conserta” o Windows 11.
+- [WinUtil](https://github.com/ChrisTitusTech/winutil) - Script do powershell feito pelo canal do YouTube Chris Titus Tech - Instala programas, ajustes, correções e atualizações.
+- 🌟 [**Sysinternals**](https://learn.microsoft.com/pt-br/sysinternals/) - Outro conjunto de scripts e programas destinados a usuários avançados; criado com o propósito de auditar o Windows e facilitar a descoberta de rootkits. Feito pelo engenheiro de software Mark Russinovich.
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece).
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos open-source e focado em privacidade que não é afiliado com a avast.
-- 🌟 [**WinUtil**](https://github.com/ChrisTitusTech/winutil) - Utilitário do powershell feito pelo canal do YouTube Chris Titus Tech - Instala programas, ajustes, correções e atualizações.
+- 🌟 [**Remove WindowsAI**](https://github.com/zoicware/RemoveWindowsAI) - Remove o copilot, componentes de IA e integrações no notepad - [outros recursos podem ser desativados manualmente.](https://github.com/zoicware/RemoveWindowsAI/blob/main/OtherAIFeatures.md)
 - [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado, bem como automatiza funções.
 - [Chocolatey](https://chocolatey.org/) - Um instalador de linha de comando para o Windows, muito semelhante com o WinGet.
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
-- 🌟 [**Wintoys**](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge com a opção "Digital Markets Act" ligada (quando não funcionar, [tente isso](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)), retira os anúncios da Microsoft e habilita o "God Mode".
+- 🌟 [**Wintoys**](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge e o OneDrive com a opção "Digital Markets Act" ligada (quando não funcionar, [tente isso](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)), retira os anúncios da Microsoft e habilita o "God Mode".
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows translúcida/transparente.
 - [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à uma experiência moderna do Windows.
-- [ShutUp10++](https://www.oo-software.com/en/shutup10) - Controle quais dados devem ou não ser coletados pela Microsoft.
+- [AME Wizard](https://ameliorated.io) - Outro fixer para o Windows 11.
 - 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto e ativar recursos interessantes que não são implementados no Windows por padrão. [Artigo](https://www.tomshardware.com/software/windows/how-to-tweak-your-windows-11-and-windows-10-setup-with-winaero-tweaker-easily-remove-ads-tracking-ai-copilot-and-more)
 
 ## ► **Downloads modificados/intactos do Windows e do Office**
@@ -57,8 +54,8 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► **Ferramentas para Linux / BSD**
 
-- [Q4Wine](https://flathub.org/en/apps/ua.org.brezblock.q4wine) - O q4wine é um programa que oferece uma interface gráfica (GUI) para o Wine, feito com o intuito de gerenciar prefixos (local de instalação) e executáveis com facilidade.
-- [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de ISOs customizadas upadas todos os dias.
+- 🌟 [**LinuxToys**](https://linux.toys/) - Projeto tocado pelo youtuber e dev brasileiro psygreg; corrige o bug de captura de áudio do OBS, instala o prism launcher, bottles (um gerenciador para o Wine) e o lucidglyph - testado e estável para Debian, Ubuntu e Arch (baixar pelo pacote do AUR) - usuários de sistemas atomic (Fedora e etc.) podem enfrentar problemas.
+- [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de ISOs customizadas carregadas todos os dias.
 - [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor doméstico eficaz e protegido (sendo Debian no modo headless a melhor distro para essa função).
 - 🌟 [**Hints**](https://github.com/AlfredoSequeida/hints?tab=readme-ov-file) - Feito para quem já está habituado a usar sobretudo o teclado em comparação com o mouse, atente-se ao _setup_ específico do seu gerenciador de janelas [seguindo esse passo a passo.](https://github.com/AlfredoSequeida/hints/wiki/Window-Manager-and-Desktop-Environment-Setup-Guide)
 - [4Noobs](https://github.com/he4rt/4noobs#-sistemas-operacionais) - Projeto desenvolvido pela comunidade brasileira He4rtLabs.
@@ -73,7 +70,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
 - 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova anúncios da Canonical como o Ubuntu PRO e mensagens ESM com esse método. Post original do [Ask Ubuntu](https://askubuntu.com/a/1438510).
 - [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Port não oficial do Lossless Scaling para GNU/Linux e Steam Deck; necessita da dll do lossless scaling para funcionar, a qual você pode extrair da [versão marítima do LS sem pagar nada](https://cs.rin.ru/forum/viewtopic.php?f=41&t=94507&hilit=lossless+scallin&start=1155).
-- [KDE Plasma](https://kde.org/plasma-desktop) - DE e gerenciador de janelas com um workflow extremamente conveniente para FreeBSD, OpenBSD e Fedora.
+- [KDE Plasma](https://kde.org/plasma-desktop) - DE e gerenciador de janelas com um workflow sem bugs e extremamente conveniente para FreeBSD, OpenBSD e Fedora.
 - 🌟 [**ubuntu-debullshit!**](https://github.com/polhdez/ubuntu-debullshit) - Retira a coleta de dados e os snaps da Canonical, **em versões mais recentes do Ubuntu, a telemetria é mais opt-out (você precisa desativá-la durante a instalação)**. Post original por [u/klfld](https://www.reddit.com/r/linux/comments/13fj1xf/ubuntudebullshit_script_to_get_vanilla_gnome/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button).
 - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Reduz ruídos e barulho ambiente, fica atrás apenas do Easy Effects e [Tenacity (fork do Audacity)](https://tenacityaudio.org/) nesse quesito.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV com suporte para TV ao vivo, filmes e seriados. Possui desenvolvimento ativo apenas para o Mint, no entanto, pode rodar em qualquer distro com a build ou pelo [Distrobox](https://distrobox.it) (recomendado) - Repo para o circle-flags disponível em [packages-linuxmint.](http://packages.linuxmint.com/pool/main/c/circle-flags/)
