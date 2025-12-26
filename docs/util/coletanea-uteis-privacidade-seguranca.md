@@ -116,6 +116,8 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [Cypherpunks Brasil](https://cypherpunks.com.br/) - Projeto dedicado a tradução de textos históricos e compartilhamento de conteúdo relacionado a criptoanarquismo.
 
+- [4Noobs](https://github.com/he4rt/4noobs) - Repositório feito pela comunidade brasileira He4rtLabs com cursos voltados para iniciantes no mundo da tecnologia.
+
 - [Tramoia](https://tramoia.sh/) - Artigos escritos por hacktivistas brasileiros.
 
 - [SoloLearn](https://sololearn.org) - É praticamente um duolingo só que voltado para linguagens de programação. Disponível para Android e IOS.
