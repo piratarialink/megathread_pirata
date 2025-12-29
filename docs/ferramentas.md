@@ -445,7 +445,6 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 - [FastSSH](https://www.fastssh.com/page/ssh-over-websocket-servers)
 - [SSHconnect](https://sshconect.com.br/)
-- [Rev Hunter](https://revhuntervpn.com/)
 - [SocksLite](https://sockslite.com/)
 - [HTTP Injector](https://httpinjector.com/)
 - [NetMod VPN Client](https://sourceforge.net/projects/netmodhttp/)
