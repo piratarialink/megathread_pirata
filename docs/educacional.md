@@ -29,6 +29,8 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[cursa](https://cursa.app/pt)** - Cursos
 
+### ▶️ **[hackers do bem](https://hackersdobem.org.br/formacao#:~:text=vagas%20ser%C3%A3o%20limitadas.-,Conhe%C3%A7a%20mais%20detalhes%20dos%20cursos%20da%20forma%C3%A7%C3%A3o,-Nivelamento)** - Cursos
+
 ### ▶️ **[integra univesp](https://apps.univesp.br/integra/)** - Cursos de ensino superior
 
 ### ▶️ **[canaldoensino](https://canaldoensino.com.br/blog/)** - Cursos
