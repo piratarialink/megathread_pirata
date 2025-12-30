@@ -167,13 +167,13 @@ Mailbox.org é um serviço de e-mail baseado na Alemanha que oferece recursos av
 Um sistema operacional mobile privado e seguro com compatibilidade de aplicativos Android. Desenvolvido como um projeto de código aberto sem fins lucrativos.
 
 - Só suporta a linha Google Pixel, praticamente inexistente no Brasil
-- Restringe totalmente o uso da internet por aplicativos sem a necessidade de firewall
+- Pode restringir totalmente o uso da internet por aplicativos
 
 ### [LineageOS](https://lineageos.org/)
 
 - Suporta celulares antigos que não recebem mais atualizações de segurança
 - A linha da Motorola é a mais acessível no Brasil
-- Restringe totalmente o uso da internet por aplicativos sem a necessidade de firewall
+- Pode restringir totalmente o uso da internet por aplicativos
 
 ![LineageOS](./images/lineage_os.jpg)
 
