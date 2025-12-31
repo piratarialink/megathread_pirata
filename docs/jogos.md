@@ -335,7 +335,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Motor de busca de jogos rápido e eficiente, sem anúncios, com um banco de dados atualizado a cada 24 horas, inclui praticamente todos os jogos imagináveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/rezi.one/)
 
-### 🔍 [Virgil](https://virgil.samidy.com/Game-search/) 
+### 🔍 [Virgil](https://virgil.samidy.com/Games/) 
 
 - Faz buscas apenas em fontes citadas pelo FMHY, monitorado e constantemente em construção, seu propósito é servir de bússola para encontrar jogos desbloqueados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/virgil.samidy.com/)
