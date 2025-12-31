@@ -271,7 +271,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
   
 ## 🔍 ➜ Buscadores
 
-### 🔗 [Virgil](https://virgil.samidy.com/software-search/) 
+### 🔗 [Virgil](https://virgil.samidy.com/Software/) 
 
 - Faz buscas apenas em fontes citadas pelo FMHY, monitorado e constantemente em construção, seu propósito é servir de bússola para encontrar programas FLOSS/desbloqueados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/virgil.samidy.com/)
