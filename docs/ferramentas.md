@@ -333,7 +333,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [av-comparatives.org](https://www.av-comparatives.org/) - Análises de proteção antivírus.
 - [abuse.ch](https://abuse.ch) - Database de domínios/endereços IP usados por cibercriminosos, inclua estes dados na blocklist de seu firewall ou simplesmente use o [portmaster](https://safing.io/) (que já vem com esta lista de bloqueio por padrão).
 - [tria.ge](https://tria.ge/) - Ambiente de testes online.
-- [VirusTotoal](https://www.virustotal.com/) / [Metadefender](https://metadefender.com/) - Serviços da Web que verificam arquivos e URLs.
+- [VirusTotal](https://www.virustotal.com/) / [Metadefender](https://metadefender.com/) - Serviços da Web que verificam arquivos e URLs.
 - [TarnKappe](https://tarnkappe.info/artikel/it-sicherheit/malware) - Notícias sobre a cena de cibersegurança. **Use um tradutor.**
 - [sandboxie+](https://sandboxie-plus.com/) - "Sandbox" para computador fraco.
 - [Hattered: Limpeza pós-infecção por malware](https://mefrraz.github.io/hattered/pages/guides/guia_de_limpeza_pos_infecao.html)
