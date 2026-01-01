@@ -35,7 +35,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
 - 🌟 [**Wintoys**](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge e o OneDrive com a opção "Digital Markets Act" ligada (quando não funcionar, [tente isso](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)), retira os anúncios da Microsoft e habilita o "God Mode".
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows translúcida/transparente.
-- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Diminui a barra de tarefas e transforma os seus ícones em pequenos, grandes ou médios.
+- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Diminui a barra de tarefas e transforma os seus ícones em pequenos ou grandes.
 - [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à uma experiência moderna do Windows.
 - [AME Wizard](https://ameliorated.io) - Outro fixer para o Windows 11.
 - 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto e ativar recursos interessantes que não são implementados no Windows por padrão. [Artigo](https://www.tomshardware.com/software/windows/how-to-tweak-your-windows-11-and-windows-10-setup-with-winaero-tweaker-easily-remove-ads-tracking-ai-copilot-and-more)
