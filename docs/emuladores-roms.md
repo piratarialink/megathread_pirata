@@ -253,7 +253,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**Myrient**](https://myrient.erista.me/)
 
-- Coleção de videogames estruturada e acessível de 200 TB, possui jogos
+- Coleção de videogames estruturada e acessível de mais 200 TB de tamanho.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/myrient.erista.me/)
 
 ### 🔗 [PSX Downloads](https://psxdownloads.us/) - Necessário Registrar-se
