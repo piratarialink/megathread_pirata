@@ -28,17 +28,15 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [WinUtil](https://github.com/ChrisTitusTech/winutil) - Script do powershell feito pelo canal do YouTube Chris Titus Tech - Instala programas, ajustes, correções e atualizações.
 - 🌟 [**Sysinternals**](https://learn.microsoft.com/pt-br/sysinternals/downloads/) - Conjunto de scripts e programas destinados a usuários avançados feito pelo engenheiro de software Mark Russinovich; contém ferramentas para auditar o uso de processos no Windows e facilitar a descoberta de rootkits.
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece).
-- [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos open-source e focado em privacidade que não é afiliado com a avast.
+- [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
 - 🌟 [**Remove WindowsAI**](https://github.com/zoicware/RemoveWindowsAI) - Remove o copilot, componentes de IA e integrações no notepad - [outros recursos podem ser desativados manualmente.](https://github.com/zoicware/RemoveWindowsAI/blob/main/OtherAIFeatures.md)
 - [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado, bem como automatiza funções.
 - [Chocolatey](https://chocolatey.org/) - Um instalador de linha de comando para o Windows, muito semelhante com o WinGet.
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
 - 🌟 [**Wintoys**](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge e o OneDrive com a opção "Digital Markets Act" ligada (quando não funcionar, [tente isso](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)), retira os anúncios da Microsoft e habilita o "God Mode".
-- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Torna a barra de tarefas do Windows translúcida/transparente.
-- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Diminui a barra de tarefas e transforma os seus ícones em pequenos ou grandes.
 - [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à uma experiência moderna do Windows.
 - [AME Wizard](https://ameliorated.io) - Outro fixer para o Windows 11.
-- 🌟 [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras, como restaurar o antigo menu de contexto e ativar recursos interessantes que não são implementados no Windows por padrão. [Artigo](https://www.tomshardware.com/software/windows/how-to-tweak-your-windows-11-and-windows-10-setup-with-winaero-tweaker-easily-remove-ads-tracking-ai-copilot-and-more)
+- 🌟 [**Windhawk**](https://windhawk.net/) - Uma alternativa open-source para o Winaero Tweaker, oferece alguns ajustes extras como customização da barra de tarefas (diminuir ou aumentar os ícones - torna-lá translúcida com o translucenttb), restaurar o antigo menu de contexto e corrigir o uso das teclas em dois monitores.
 
 ## ► **Downloads modificados/intactos do Windows e do Office**
 
