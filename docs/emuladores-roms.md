@@ -241,10 +241,20 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Milhares de rom-sets e dumps de CD-ROMs em formato de ISO.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
-### 🌟 [**Crocdb**](https://crocdb.net/)
+### 🌟 [**Vimm's Lair**](https://vimm.net/)
 
-- ROMs para múltiplos sistemas com download direto no site.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/crocdb.net/)
+- O melhor e mais seguro site para encontrar roms. dedicado a preservação de vários sistemas e milhares de jogos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
+
+### 🌟 [**r/Roms Megathread**](https://r-roms.github.io/) / [2](https://r-roms.gitlab.io/megathread/)
+
+- Dump fantástico de ROMs de diversos consoles, os links para jogos populaes que foram retirados do Myrient estão disponíveis aqui.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/r-roms.github.io/)
+
+### 🌟 [**Myrient**](https://myrient.erista.me/)
+
+- Coleção de videogames estruturada e acessível de 200 TB, possui jogos
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/myrient.erista.me/)
 
 ### 🔗 [PSX Downloads](https://psxdownloads.us/) - Necessário Registrar-se
 
@@ -288,11 +298,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Uma extensa jogoteca para vários sistemas diferentes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/emugames.net/)
 
-### 🔗 [Myrient](https://myrient.erista.me/)
-
-- Coleção de videogames estruturada e acessível de 200 TB.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/myrient.erista.me/)
-
 ### 🔗 [NesGM](https://nesgm.net/) • UI em espanhol
 
 - ROMs para Nintendo Switch e outras plataformas são o foco principal.
@@ -307,11 +312,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Espaço voltado à preservação de romhacks da franquia super mario.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.smwcentral.net/)
-
-### 🌟 [**r/Roms Megathread**](https://r-roms.github.io/) / [2](https://r-roms.gitlab.io/megathread/)
-
-- Dump fantástico de ROMs para muitos sistemas diferentes para começar a jogar.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/r-roms.github.io/)
 
 ### 🔗 [Retro Roms "Best" Set](https://archive.org/details/retro-roms-best-set)
 
@@ -357,11 +357,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Reviva sua infância agora mesmo com jogos de console retrô direto do seu PC.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romulation.org/)
-
-### 🌟 [Vimm's Lair](https://vimm.net/)
-
-- Dedicado a boas lembranças de vários sistemas e a milhares de jogos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
 ### 🔗 [**Ziperto**](https://www.ziperto.com)
 
