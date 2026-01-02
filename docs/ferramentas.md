@@ -266,7 +266,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 :::
 
 - [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
-* [JDownloader2](http://jdownloader.org/jdownloader2) - É distinto dos demais gerenciadores de download porque suporta o download de hosts de links premium como o **NitroFlare** (apenas em situações que não exigem conta). Reúna e cole todos os links de um arquivo dividido em partes para baixá-lo.
+* [JDownloader2](http://jdownloader.org/jdownloader2) - É distinto dos demais gerenciadores de download porque suporta o download de hosts de links premium como o **NitroFlare** - apenas em situações que não exigem conta. Reúna e cole todos os links de um arquivo dividido em partes para baixá-lo.
 * **[Trialware]** [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente [faça isso](https://rentry.org/installidm).
 * [Brisk Download Manager](https://github.com/AminBhst/brisk) - Outro gerenciador de downloads muito bom, embora seja um pouco lento.
 * [pyLoad](https://pyload.net/) - Download manager leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
@@ -422,7 +422,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 ## ► **Inteligência Artificial**
 
-- 🌟 [**G4F**](https://g4f.dev/chat) - ChatGPT 5 totalmente gratuito e ilimitado. Alguns provedores como a Azure exigem de você uma chave API para o g4f.client que pode ser gerada com o seu ID de usuário do Hugging Face.
+- 🌟 [**G4F**](https://g4f.dev/) - ChatGPT 5 local, gratuito e ilimitado. Alguns provedores como a Azure exigem de você uma chave API para o g4f.client que pode ser gerada com o seu ID de usuário do Hugging Face.
 - [reshare.dev](https://reshare.dev) - Tenha acesso ao SORA através de um invite code da comunidade, [necessário se cadastrar antes](https://emailnator.com) - Você também pode se cadastrar no aplicativo do SORA via Aurora Store + Shizuku Installer e a partir daí logar no site com uma VPN. **Nota: para ter acesso ao último modelo do Veo (outra IA voltada a criação de vídeos), fique atento à [essa lista aqui](https://fmhy.net/ai#video-generation).**
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar. **Nota:** caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
@@ -439,7 +439,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 ## ► **SSH**
 
-> São serviços de tunelamento que usam o protocolo SSH para transmitir uma conexão de dados móveis ilimitada.
+> São serviços de tunelamento que usam o protocolo Secure Shell para transmitir uma conexão de dados móveis ilimitada.
 **Fique atento as mensagens do [nosso grupo do telegram](https://t.me/deckpirata) para obter os arquivos EHI do HTTP Injector.**
 
 - [FastSSH](https://www.fastssh.com/page/ssh-over-websocket-servers)
@@ -463,7 +463,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 #### ► **Geral**
 
-- 🌟 [**LumaPlay**](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197&hilit=lumaplay) - Rode jogos que dependem da Uplay da Ubisoft para funcionar.
+- 🌟 [**LumaPlay**](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197&hilit=lumaplay) - Rode jogos que dependem do suporte online da Uplay da Ubisoft para funcionar.
 - [CapFrameX](https://github.com/CXWorld/CapFrameX?tab=readme-ov-file) - Usa o overlay do RivaTuner para capturar o framerate durante o gameplay. O RTSS é somente um provedor aqui, o programa completo não é instalado no seu computador.
 - [Simplaza-org](https://www.simplaza.org) - Site para download de addons, aeronaves e cenários para o Microsoft Flight Simulator 2020 (MSFS2020).
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Ludusavi é uma ferramenta para fazer backup dos dados salvos de seus videogames para PC, escrito em Rust. É multiplataforma e oferece suporte a várias lojas de jogos.
@@ -505,7 +505,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 ## ► **Ferramentas Diversas**
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
-- [Brainser](https://github.com/p1ratrulezzz/brainser) - Melhor forma de ativar as IDEs do JetBrains, caso não funcione você pode tentar [isso aqui.](https://www.reddit.com/r/pirataria/comments/1js9lc7/comment/mlqghtb/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button). Tópico original do [Losper.net.](https://losper.net/topic/283-activation-instruction-jetbrains/)
+- [Brainser](https://github.com/p1ratrulezzz/brainser) - Melhor forma de ativar as IDEs do JetBrains, caso não funcione você pode tentar [isso aqui](https://www.reddit.com/r/pirataria/comments/1js9lc7/comment/mlqghtb/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button), a senha do arquivo zip é "forum.losper.net".
 - [SlideDownloaders](https://slidedownloaders.com/) - Downloader gratuito do SlideShare - rápido, seguro e sem necessidade de inscrição.
 - [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de download do Terabox.
 - [Unddit](https://undelete.pullpush.io) - Veja posts e comentários removidos do Reddit.
