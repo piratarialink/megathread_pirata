@@ -279,7 +279,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto e muito mais.
 - [Côc Côc](https://coccoc.com/) - Navegador vietnamita que baixa vídeos da hotmart/kiwify apenas no PC.
 - [DownThemAll](https://github.com/downthemall/downthemall) - Perfeito para download massivo de arquivos.
-- **[Trialware]** [Downie](https://software.charliemonroe.net/downie/) - Downloader exclusivo do MacOS que pode baixar múltiplos arquivos (não apenas do YouTube).
+- **[Trialware]** [Downie](https://software.charliemonroe.net/downie/) - Downloader exclusivo do MacOS que pode baixar múltiplos arquivos. (não apenas do YouTube)
 - [Cleverget](https://cleverget.org/) - Baixa vídeos de diversas plataformas no PC.
 - [1DM](https://www.apps2sd.info/idmp/faq) - Baixa vídeos de diversas plataformas no Android.
 - **[Pago]** [1DM+](https://tekmods.com/1dm-browser-video-audio-torrent-downloader/) - Pode obter documentos maiores que 1MB do Doceru.
