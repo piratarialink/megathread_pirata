@@ -23,7 +23,7 @@ O Norton já tinha uma péssima reputação, vinha com os computadores da Samsun
 
 ## Avast
 
-Não recomendo, especialmente após a Avast ser pega [roubando dados](https://www.cisoadvisor.com.br/avast-e-multada-em-us-165-mi-por-venda-de-dados-de-usuarios/) de usuários.
+Não recomendo, especialmente após a Avast ser pega ["coletando dados"](https://www.cisoadvisor.com.br/avast-e-multada-em-us-165-mi-por-venda-de-dados-de-usuarios/) de usuários.
 
 _Nota: CCleaner é propriedade da mesma empresa._
 
