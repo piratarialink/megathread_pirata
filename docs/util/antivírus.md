@@ -33,9 +33,9 @@ Com o lançamento do Windows 10, surgiu o Windows Defender, um antivírus para o
 
 ## Panda e Kaspersky
 
-O Kaspersky (russo) ganhou uma reputação no mercado e mudou os servidores para a Suécia. [Fonte](https://en.wikipedia.org/wiki/Kaspersky_Lab)
+O Kaspersky (russo) ganhou uma reputação no mercado e mudou os servidores para a Suécia.
 
-Kaspersky foi banido dos Estados Unidos em 2024 [Fonte](https://www.pcmag.com/news/kaspersky-shutting-down-us-operations-following-nationwide-ban). A razão:
+Kaspersky foi banido dos Estados Unidos em 2024, pelo seguinte motivo de acordo com uma certa [fonte](https://www.pcmag.com/news/kaspersky-shutting-down-us-operations-following-nationwide-ban):
 
 > Os reguladores dos EUA estão principalmente preocupados com que os laços da empresa de antivírus com a Rússia a expõem a possíveis explorações e podem permitir que o Kremlin (o governo russo) colete dados dos EUA ou, de outra forma, ganhe acesso aos computadores americanos.
 
