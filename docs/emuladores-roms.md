@@ -380,19 +380,28 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Fangame aprimorado ao decorrer dos anos baseado na engine do Mugen, toma como inspiração o DBZ Hyper Dimension do SNES.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/network.mugenguild.com/)
   
-## 🧩 ➜ Projetos de decompilação
+## 🧩 ➜ Decomp/Recomp
 
-### 📒 [Decompedia](https://wiki.decomp.dev/)
+### 🌟 [**Unleashed Recompiled**](https://github.com/hedge-dev/UnleashedRecomp?tab=readme-ov-file)
 
-- Wiki dedicada a decompilação de videogames.
+- Port não oficial do jogo Sonic Unleashed do XBOX360 para Windows e Linux, localizado completamente do zero para C++.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [Decompedia](https://wiki.decomp.dev/)
+
+- Wiki dedicada a decompilação de videogames feita pela comunidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/wiki.decomp.dev/)
 
 ### 🔗 [Decomp.dev](https://decomp.dev/projects)
 
-- Relatórios de progresso de projetos do github.
+- Relatórios de progresso de projetos de decompilação do github e de outros sites.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/decomp.dev/)
 
 ## 🌎 ➜ Traduções de Jogos
+
+### 🌟 [**Vimm's Lair > Translations**](https://vimm.net/romhacking/translations)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
 ### 🔗 [RomsPortugues](https://romsportugues.com/)
 
