@@ -97,7 +97,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [AdNauseam](https://adnauseam.io/) - Baseado no uBlock Origin. Projetado para ofuscar os dados de navegação e proteger os usuários do rastreamento por redes de publicidade
 - [Pi-hole](https://pi-hole.net/) - Bloqueio de anúncios em toda a rede
 - [AdAway](https://adaway.org/) - AdAway é um bloqueador de anúncios de código aberto para Android, funciona melhor no Android (e derivados) com root.
-- [Blokada 5](https://blokada.org/) - Blokada é um popular bloqueador de anúncios e aplicativo de privacidade para Android.
+- [Blokada 5](https://blokada.org/) - Blokada é um bloqueador de anúncios e aplicativo voltado a privacidade no Android.
 - 🌟 [**nuMatrix**](https://codeberg.org/arek/nuMatrix) - Controla requests de terceiros, o que faz com que anúncios de urls nocivas não sejam exibidos (exemplo: embedmovies.org); preste atenção quanto a categoria XHR, pois se refere a scripts que podem ser invasivos ou maliciosos.
 - [AdGuard](https://adguard-dns.io/pt_br/public-dns.html) - O AdGuard é um servidor de DNS para bloqueio de anúncios e rastreamento em toda a rede.
 - [ControlD](https://controld.com/free-dns?freeResolverType=blockMalwareAndAds&helpPane=dns) - Servidor de DNS semelhante ao AdGuard que bloqueia anúncios até mesmo dentro de aplicativos.
