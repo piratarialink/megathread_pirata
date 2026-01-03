@@ -389,7 +389,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [Decompedia](https://wiki.decomp.dev/)
 
-- Wiki dedicada a decompilação de videogames feita pela comunidade.
+- Wiki dedicada a decompilação de videogames feita por membros da comunidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/wiki.decomp.dev/)
 
 ### 🔗 [Decomp.dev](https://decomp.dev/projects)
@@ -428,11 +428,9 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhacking.net.br/)
 
 ### 🔗 [Jogos Legendados e Dublados](https://jogostraduzidos.com/)
-
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/jogostraduzidos.com/)
 
 ### 🔗 [GGames](https://ggames.com.br/)
-
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gggames.com)
 
 ## ❤ ➜ Projetos de tradução
@@ -440,14 +438,17 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🌟 [**Jacutem Sabão**](https://jacutemsabao.bitbucket.io/download.html)
 
 - Phoenix Wright / Ryūichi Naruhodō em português brasileiro, por fãs para fãs.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/jacutemsabao.bitbucket.io/)
 
 ### 🔗 [PT-BR Hud • SRB2](https://mb.srb2.org/addons/pt-br-hud-hud-brasileiro.5400/)
 
 - Sonic Robo Blast 2 é um fangame que vem sendo atualizado desde 1998. Este mod modesto aplica tradução somente no hud de pontos e tempo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mb.srb2.org/)
 
 ### 🔗 [Rippersanime](https://forum.rippersanime.info/viewforum.php?f=17)
 
 - Tradução do jogo Gunnm (Battle Angel Alita) de PS1 para o inglês.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/forum.rippersanime.info/)
 
 ## 📢 ➜ Telegram
 
