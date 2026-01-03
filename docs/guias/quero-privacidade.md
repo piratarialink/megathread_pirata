@@ -13,7 +13,7 @@
 - Criar **passphrases** com espaços e caracteres próprios da língua portuguesa: como `ç`, `~`, `'`
 - **Jamais** salve senhas pelo navegador, você pode ser vítima de infostealers. Utilize um gerenciador como Bitwarden ou KeePassXC
 - Sempre que possível fornecer um email temporário em sites que não sejam importantes: use de um provedor como o emailnator.com ou guerrilla mail
--  Fotos, vídeos e outros arquivos: remover metadados (informações adicionais que revelam sua localização) com o exiftool ou image toolbox
+- Fotos, vídeos e outros arquivos: remover metadados (informações adicionais que revelam sua localização) com o exiftool ou image toolbox
 - Verifique a procedência de URLs suspeitas: Confira o tempo de registro, selo SSL e certifique-se de que o CNPJ/CPF fornecido na página bate com o que é repassado por sites como [registro.br](https://registro.br/tecnologia/ferramentas/), siteconfiavel.com.br ou [invertexto.com](https://www.invertexto.com/whois).
 
 ## O intermediário para privacidade
@@ -27,7 +27,7 @@
 - Nuvem: systemli.org, NextCloud (chaves SSH, backup e armazenamento KeePassXC/Vaultwarden)
 - Navegador: Baseado no Firefox + nuMatrix + CSS Exfil Protection + Containers + arkenfox.js
 - Chat: Lemmy, SimpleX, Mastodon, XMPP e systemli.org
-- XMPP: Psi+ no desktop e Conversations no android
+- XMPP: Psi+ ou Gajim no desktop e Conversations no android
 - Android: GrapheneOS, LineageOS ou CalyxOS
 - Desktop: Linux (Live Boot para um sigilo maior ou Dual Boot para uso casual) com LUKS
 - Anti-DDoS: Anubis
