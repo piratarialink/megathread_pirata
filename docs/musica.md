@@ -34,15 +34,10 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## 📥 ➜ Download Direto
 
-### 🔗 [Audio wareZ](https://audioz.download/)
+### 🌟 [Audio wareZ](https://audioz.download/)
 
 - Biblioteca com plugins para FL Studio, VSTs, vídeos educacionais e partituras.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audioz.download/)
-
-### 🌟 [4download](https://4download.net/softwares/windows/audio-tools-win/audio-plugins/)
-
-- Espaço para encontrar plugins e samples de graça. Contém ferramentas de vídeo também.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4download.net/)
 
 ### 🔗 [3ost](https://3ost.ru/) • Cadastre-se • Interface em russo
 
