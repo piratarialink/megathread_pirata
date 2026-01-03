@@ -106,8 +106,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 - Baixe gratuitamente os cursos pagos da Udemy para programação, TI etc. Às vezes oferecem links de torrent.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/downloadfreecourse.com/)
 
-### 🔗 **[TutFlix](https://tutflix.org/)** - Cursos / Drives
+### 🔗 [TutFlix](https://tutflix.org/) 
 
+- Cursos / drives gratuitos para baixar, necessita conta.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/tutflix.org/)
 
 ### 🔗 [coderprog](https://coderprog.com/)
@@ -189,7 +190,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Possui material e cartilha que irão te ensinar do zero a passar no ITA.
 
-### 🔗 [ENEM SOLIDÁRIO 2025!⏳📚!](https://t.me/Enemmateriais2025)
+### 🔗 [ENEM SOLIDÁRIO 2026!⏳📚!](https://t.me/Enemmateriais2025)
 
 - Comunidade ativa para compartilhamento de materiais para o ENEM.
 
