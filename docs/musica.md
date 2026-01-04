@@ -96,7 +96,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [RMW](https://rock-metal-wave.ru/)
 
-- Rock pauleira e metal em FLAC, use um tradutor como o Google ou a extensão Translate This Page no Firefox.
+- Rock pauleira e metal em FLAC, use um tradutor como o Google ou a extensão "Translate This Page" no Firefox.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rock-metal-wave.ru/)
 
 ### 🔗 [BestMP3Converter](https://www.bestmp3converter.com/)
@@ -167,9 +167,9 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6
 
-### 🖥️ [Nicotina+](https://nicotine-plus.org/)
+### 🖥️ [Nicotine+](https://nicotine-plus.org/)
 
-- Um cliente gráfico para Soulseek que é frequentemente atualizado com funcionalidades adicionais, mas ainda aderindo ao protocolo Soulseek.
+- Um frontend para o Soulseek frequentemente atualizado com funcionalidades adicionais, mas ainda integrado ao protocolo Soulseek.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nicotine-plus.org/)
 
 ### 🖥️ [OrpheusDL](https://github.com/yarrm80s/orpheusdl)
@@ -189,7 +189,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🖥️ [SCDL](https://github.com/flyingrub/scdl)
 
-- Um ótimo script, que funciona com Windows, OS X e Linux, pode baixar músicas do SoundCloud e adicionar um id3tag à música.
+- Um ótimo script, que funciona com Windows, OS X e Linux, pode baixar músicas do SoundCloud e adicionar um tag ID3 às músicas.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [**Soulseek**](https://www.slsknet.org/news/)
@@ -209,17 +209,17 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🌟 [**SpotiFlyer**](https://github.com/Shabinder/SpotiFlyer)
 
-- Downloader de música multiplataforma sem anúncios que não requer chaves de API para funcionar.
+- Downloader multiplataforma de músicas sem anúncios que não requer chaves API para funcionar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [**Stacher**](https://stacher.io/)
 
-- Você pode modificar a impressionante GUI contemporânea para utilizar qualquer fork do YT-DLP, que é instalado imediatamente após o lançamento.
+- Você pode modificar essa impressionante GUI para utilizar qualquer fork do YT-DLP.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/stacher.io/)
 
 ### 🖥️ [streamrip](https://github.com/nathom/streamrip)
 
-- Um script para um downloader de música que funciona com várias plataformas, incluindo todas as mais populares.
+- Um script para um downloader de música que funciona em várias plataformas, incluindo as mais populares.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🖥️ [Tidal-Media-Downloader](https://doc.yaronzz.com/post/tidal_dl_installation/)
@@ -239,9 +239,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🖥️ [SpotX](https://github.com/SpotX-Official/SpotX)
 
-- Baixe músicas diretamente do Spotify, Apple Music, Amazon Music, Soundcloud, Qobuz, Deezer, Tidal, Napster, Beatport ou KKBOX gratuitamente.
-
-- Bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial. Disponivel temas para o client e outras personalizações.
+- Bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial do Spotify. Disponibiliza temas para o client e outras personalizações.
 
 ## 🔁 ➜ Ferramentas diversas
 
@@ -299,7 +297,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [SongTube](https://github.com/SongTube/SongTube-App)
 
-- App Simples e Bonito feito em Flutter para Baixar Mídia do YouTube
+- App Simples e Bonito feito em Flutter para baixar mídia do YouTube
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [SpMp](https://github.com/toasterofbread/spmp)
@@ -319,7 +317,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [InnerTune](https://github.com/z-huang/InnerTune)
 
-- Um cliente Material 3 para YouTube Music no Android.
+- Um cliente feito com Material 3 para o YouTube Music no Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [Harmony Music](https://github.com/anandnet/Harmony-Music)
@@ -354,7 +352,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🌟 [**xManager**](https://www.xmanagerapp.com/)
 
-- App para instalar Spotify sem anúncios.
+- Aplicativo para instalar Spotify sem anúncios no Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xmanagerapp.com/)
 
 ## 📢 ➜ No Telegram
