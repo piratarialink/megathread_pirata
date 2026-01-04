@@ -130,14 +130,16 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ## 🔦 ➜ Buscadores
 
-### 🌟 [Anna's Archive](https://pt.annas-archive.org/)
+### 🌟 [Anna's Archive](https://br.annas-archive.li/)
 
-- Library Genesis, Sci-Hub e Z-Library estão incluídos neste resiliente mecanismo de pesquisa de _shadow libraries_.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/annas-archive.org/)
+- O "acervo da ana" é um poderoso mecanismo de pesquisa cujas fontes são as _shadow libraries_ mais conhecidas e usadas amplamente: libgen. z-library, sci-hub, entre outras.
+- Constantemente muda de domínio, para checar qualquer proxy que esteja funcionando, acesse o [SLUM](https://open-slum.org/).
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/annas-archive.li/)
 
 ### 🔍 [Buscador de Livros Rave](https://ravebooksearch.com/)
 
-- Os usuários são ajudados pelo mecanismo de pesquisa a encontrar downloads gratuitos de e-books, bem como Audiobooks.
+- Os usuários são ajudados por este motor de busca a encontrar downloads gratuitos de e-books, bem como audiobooks.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravebooksearch.com/)
 
 ## 🖱 ➜ Aplicativos para Computador
