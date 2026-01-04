@@ -104,11 +104,6 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Permite obter arquivos de áudio de vídeos do YouTube gratuitamente em qualidade de 320kbps.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bestmp3converter.com/)
 
-### 🔗 [downloadsound.cloud](https://downloadsound.cloud/)
-
-- Este projeto de aplicativo da web foi criado para baixar faixas e listas de reprodução do SoundCloud. Cole seu link e curta sua música!
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadsound.cloud/)
-
 ### 🔗 [Spotify Downloader](https://spotdownloader.com/)
 
 - Aplicativo da Web simples que permite o download de músicas em uma faixa, álbum ou lista de reprodução.
