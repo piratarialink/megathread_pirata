@@ -209,7 +209,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🌟 [**SpotiFlyer**](https://github.com/Shabinder/SpotiFlyer)
 
-- O downloader de música multiplataforma sem anúncios não requer geração ou ajustes nas chaves de API para funcionar.
+- Downloader de música multiplataforma sem anúncios que não requer chaves de API para funcionar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [**Stacher**](https://stacher.io/)
