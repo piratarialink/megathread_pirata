@@ -165,7 +165,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🖥️ [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui)
 
-- Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6.
+- Um GUI wrapper multiplataforma para yt-dlp escrito em PySide6.
 
 ### 🖥️ [Nicotine+](https://nicotine-plus.org/)
 
