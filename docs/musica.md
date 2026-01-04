@@ -268,7 +268,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [Namida](https://github.com/namidaco/namida)
 
-- Um reprodutor de música e vídeo bonito e rico em recursos com suporte para YouTube, feito em Flutter.
+- Um reprodutor de música e vídeo bonito e rico em recursos com suporte para YouTube, feito em Flutter também.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [**Gyawun**](https://jhelumcorp.github.io/)
@@ -296,19 +296,9 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Assista e baixe vídeos do youtube. Também oferece a capacidade de baixar do soundcloud.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/newpipe.net/)
 
-### 🔗 [SongTube](https://github.com/SongTube/SongTube-App)
-
-- App Simples e Bonito feito em Flutter para baixar mídia do YouTube
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
 ### 🔗 [SpMp](https://github.com/toasterofbread/spmp)
 
 - Um cliente do YouTube Music com foco na personalização de idioma e metadados.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-### 🔗 [Vibe You](https://github.com/SuhasDissa/VibeYou)
-
-- Reprodução de música do dispositivo e músicas do Piped, com modo escuro.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [**Spotube**](https://spotube.krtirtho.dev/)
