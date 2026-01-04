@@ -17,7 +17,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## 📒 ➜ Diversos
 
-### 🌟 [Music Megathread](https://github.com/MoonWalker440/Music-Megathread)
+### 🌟 [**Music Megathread**](https://github.com/MoonWalker440/Music-Megathread)
 
 - Megatópico de pirataria musical organizado por usuários do github.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
@@ -34,9 +34,9 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## 📥 ➜ Download Direto
 
-### 🌟 [Audio wareZ](https://audioz.download/)
+### 🌟 [**Audio wareZ**](https://audioz.download/)
 
-- Biblioteca com plugins para FL Studio, VSTs, vídeos educacionais e partituras.
+- O AudioZ é uma biblioteca imensa com plugins para FL Studio, VSTs, vídeos educacionais e partituras.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audioz.download/)
 
 ### 🔗 [3ost](https://3ost.ru/) • Cadastre-se • Interface em russo
@@ -54,7 +54,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Uma coleção impressionante e confiável de temas de OPs e EDs de anime com links diretos para conteúdo para download de alta qualidade.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animethemes.moe/)
 
-### 🌟 [Lucida](https://lucida.su/)
+### 🌟 [**Lucida**](https://lucida.su/)
 
 - Um contêiner para downloads gratuitos de música através do YouTube Music, Soundcloud, Qobuz, Spotify, Deezer e outros serviços.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lucida.su/)
@@ -96,18 +96,13 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [RMW](https://rock-metal-wave.ru/)
 
-- Rock pauleira e metal em FLAC, use um tradutor como o Google ou a extensão Translate This Page no Firefox.
+- Rock pauleira e metal em FLAC, use um tradutor como o Google ou a extensão "Translate This Page" no Firefox.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rock-metal-wave.ru/)
 
 ### 🔗 [BestMP3Converter](https://www.bestmp3converter.com/)
 
 - Permite obter arquivos de áudio de vídeos do YouTube gratuitamente em qualidade de 320kbps.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bestmp3converter.com/)
-
-### 🔗 [downloadsound.cloud](https://downloadsound.cloud/)
-
-- Este projeto de aplicativo da web foi criado para baixar faixas e listas de reprodução do SoundCloud. Cole seu link e curta sua música!
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadsound.cloud/)
 
 ### 🔗 [Spotify Downloader](https://spotdownloader.com/)
 
@@ -119,7 +114,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Basta colar seu link nesta ferramenta on-line rápida e gratuita para baixar músicas, listas de reprodução e álbuns do Spotify em formato mp3.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/spotifymate.com/)
 
-### 🌟 [doubledouble](https://doubledouble.top/)
+### 🌟 [**doubledouble**](https://doubledouble.top/)
 
 - Baixe músicas diretamente do Spotify, Apple Music, Amazon Music, Soundcloud, Qobuz, Deezer, Tidal, Napster, Beatport ou KKBOX gratuitamente.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doubledouble.top/)
@@ -139,6 +134,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - ytify é um cliente de streaming gratuito de áudio com eficiência de recursos para o YouTube e o YouTube Music.
 
 ## 🎵 ➜ Aplicativos para Desktop
+
+### 🌟 [**SpotiFLAC**](https://github.com/afkarxyz/SpotiFLAC)
+
+- Consiga músicas do Spotify em FLAC puro com a ajudinha dessa aplicação.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🖥️ [Deemix](https://github.com/bambanah/deemix)
 
@@ -160,11 +160,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🖥️ [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui)
 
-- Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6
+- Um GUI wrapper multiplataforma para yt-dlp escrito em PySide6.
 
-### 🖥️ [Nicotina+](https://nicotine-plus.org/)
+### 🖥️ [Nicotine+](https://nicotine-plus.org/)
 
-- Um cliente gráfico para Soulseek que é frequentemente atualizado com funcionalidades adicionais, mas ainda aderindo ao protocolo Soulseek.
+- Um frontend para o Soulseek frequentemente atualizado com funcionalidades adicionais, mas ainda integrado ao protocolo Soulseek.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nicotine-plus.org/)
 
 ### 🖥️ [OrpheusDL](https://github.com/yarrm80s/orpheusdl)
@@ -184,10 +184,10 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🖥️ [SCDL](https://github.com/flyingrub/scdl)
 
-- Um ótimo script, que funciona com Windows, OS X e Linux, pode baixar músicas do SoundCloud e adicionar um id3tag à música.
+- Um ótimo script, que funciona com Windows, OS X e Linux, pode baixar músicas do SoundCloud e adicionar um tag ID3 às músicas.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🌟 [Soulseek](https://www.slsknet.org/news/)
+### 🌟 [**Soulseek**](https://www.slsknet.org/news/)
 
 - Músicas difíceis de localizar podem ser encontradas através deste cliente de compartilhamento de música, que conecta você a uma rede P2p. [Cliente Android 1](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1) / [cliente Android 2](https://github.com/jackBonadies/SeekerAndroid)
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/slsknet.org/)
@@ -202,19 +202,19 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Identifica músicas das listas de reprodução do Spotify no YouTube, baixa-as e adiciona a capa do álbum, letras e metadados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/spotdl.readthedocs.io/)
 
-### 🌟 [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
+### 🌟 [**SpotiFlyer**](https://github.com/Shabinder/SpotiFlyer)
 
-- O downloader de música multiplataforma sem anúncios não requer geração ou ajustes nas chaves de API para funcionar.
+- Downloader multiplataforma de músicas sem anúncios que não requer chaves API para funcionar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [**Stacher**](https://stacher.io/)
 
-- Você pode modificar a impressionante GUI contemporânea para utilizar qualquer fork do YT-DLP, que é instalado imediatamente após o lançamento.
+- Você pode modificar essa impressionante GUI para utilizar qualquer fork do YT-DLP.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/stacher.io/)
 
 ### 🖥️ [streamrip](https://github.com/nathom/streamrip)
 
-- Um script para um downloader de música que funciona com várias plataformas, incluindo todas as mais populares.
+- Um script para um downloader de música que funciona em várias plataformas, incluindo as mais populares.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🖥️ [Tidal-Media-Downloader](https://doc.yaronzz.com/post/tidal_dl_installation/)
@@ -222,7 +222,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Com esta ferramenta, você pode baixar músicas e filmes do Tidal com metadados e escolher a resolução do vídeo e a qualidade do áudio.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doc.yaronzz.com)
 
-### 🌟 [YT-DLP](https://github.com/yt-dlp/yt-dlp)
+### 🌟 [**YT-DLP**](https://github.com/yt-dlp/yt-dlp)
 
 - Pode baixar músicas e vídeos de mais de 1500 sites, como Crunchyroll, Funimation, SoundCloud, Bandcamp etc.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
@@ -234,13 +234,12 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🖥️ [SpotX](https://github.com/SpotX-Official/SpotX)
 
-- Baixe músicas diretamente do Spotify, Apple Music, Amazon Music, Soundcloud, Qobuz, Deezer, Tidal, Napster, Beatport ou KKBOX gratuitamente.
-
-- Bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial. Disponivel temas para o client e outras personalizações.
+- Bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial do Spotify. Disponibiliza temas para o client e outras personalizações.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com)
 
 ## 🔁 ➜ Ferramentas diversas
 
-### 🌟 [LibreScore](https://github.com/LibreScore/dl-librescore)
+### 🌟 [**LibreScore**](https://github.com/LibreScore/dl-librescore)
 
 - Baixa partituras consideradas "oficiais" dentro do MuseScore.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
@@ -257,17 +256,22 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## 📱 ➜ Celular
 
-### 🔗 [Namida](https://github.com/namidaco/namida)
+### 🌟 [**SpotiFLAC-Mobile**](https://github.com/zarzet/SpotiFLAC-Mobile)
 
-- Um reprodutor de música e vídeo bonito e rico em recursos com suporte para YouTube, feito em Flutter.
+- Port do SpotiFLAC escrito em Flutter para iOS e Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🌟 [Gyawun](https://jhelumcorp.github.io/)
+### 🔗 [Namida](https://github.com/namidaco/namida)
+
+- Um reprodutor de música e vídeo bonito e rico em recursos com suporte para YouTube, feito em Flutter também.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🌟 [**Gyawun**](https://jhelumcorp.github.io/)
 
 - Streaming de música de alta qualidade diretamente do seu telefone com facilidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/jhelumcorp.github.io/)
 
-### 🌟 [RiMusic](https://fast4x.github.io/RiMusic/)
+### 🌟 [**RiMusic**](https://fast4x.github.io/RiMusic/)
 
 - Aplicativo Android multilíngue e de código aberto projetado para streaming de música diretamente do YouTube.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fast4x.github.io/)
@@ -282,34 +286,24 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Assista, ouça e baixe vídeos do YouTube. Também oferece a capacidade de baixar do soundcloud.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/libre-tube.github.io/)
 
-### 🌟 [Newpipe](https://newpipe.net/)
+### 🌟 [**Newpipe**](https://newpipe.net/)
 
 - Assista e baixe vídeos do youtube. Também oferece a capacidade de baixar do soundcloud.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/newpipe.net/)
-
-### 🔗 [SongTube](https://github.com/SongTube/SongTube-App)
-
-- App Simples e Bonito feito em Flutter para Baixar Mídia do YouTube
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [SpMp](https://github.com/toasterofbread/spmp)
 
 - Um cliente do YouTube Music com foco na personalização de idioma e metadados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🔗 [Vibe You](https://github.com/SuhasDissa/VibeYou)
-
-- Reprodução de música do dispositivo e músicas do Piped, com modo escuro.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-### 🌟 [Spotube](https://spotube.krtirtho.dev/)
+### 🌟 [**Spotube**](https://spotube.krtirtho.dev/)
 
 - Cliente Spotify de código aberto que não requer Premium nem usa Electron! Disponível para desktop e celular!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/spotube.krtirtho.dev/)
 
 ### 🔗 [InnerTune](https://github.com/z-huang/InnerTune)
 
-- Um cliente Material 3 para YouTube Music no Android.
+- Um cliente feito com Material 3 para o YouTube Music no Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [Harmony Music](https://github.com/anandnet/Harmony-Music)
@@ -342,9 +336,9 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Downloader do Spotify utilizando o poder do Jetpack Compose, Material You e a biblioteca spotDL Python.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🌟 [xManager](https://www.xmanagerapp.com/)
+### 🌟 [**xManager**](https://www.xmanagerapp.com/)
 
-- App para instalar Spotify sem anúncios.
+- Aplicativo para instalar o Spotify sem anúncios no Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xmanagerapp.com/)
 
 ## 📢 ➜ No Telegram

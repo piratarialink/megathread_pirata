@@ -33,7 +33,7 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 [Os Reformados](https://osreformados.com)
 
-[COOMER](https://coomer.su) - Backup gratuito de todos os Onlyfans e Fansly.
+[COOMER](https://coomer.st) - Backup gratuito de todos os Onlyfans e Fansly.
 
 [KEMONO](https://kemono.cr/)
 
