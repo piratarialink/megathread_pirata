@@ -132,7 +132,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🌟 [Anna's Archive](https://br.annas-archive.li/)
 
-- O "acervo da ana" é um poderoso mecanismo de pesquisa cujas fontes são as _shadow libraries_ mais conhecidas e usadas amplamente: libgen. z-library, sci-hub, entre outras.
+- O "acervo da anna" é um poderoso mecanismo de pesquisa cujas fontes são as _shadow libraries_ mais conhecidas e usadas amplamente: libgen. z-library, sci-hub, entre outras.
 - Constantemente muda de domínio, para checar qualquer proxy que esteja funcionando, acesse o [SLUM](https://open-slum.org/).
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/annas-archive.li/)
@@ -265,7 +265,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
 
-- Agregador de fontes & patcher.
+- Agregador de fontes/ícones voltado para desenvolvedores & patcher.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nerdfonts.com/)
 
 ### 🔗 [CreativeFabrica](https://www.creativefabrica.com/freebies/free-fonts/) • Cadastre-se
