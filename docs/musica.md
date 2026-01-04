@@ -165,7 +165,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🖥️ [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui)
 
-- Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6
+- Um wrapper GUI multiplataforma para yt-dlp escrito em PySide6.
 
 ### 🖥️ [Nicotine+](https://nicotine-plus.org/)
 
@@ -240,6 +240,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 ### 🖥️ [SpotX](https://github.com/SpotX-Official/SpotX)
 
 - Bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial do Spotify. Disponibiliza temas para o client e outras personalizações.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com)
 
 ## 🔁 ➜ Ferramentas diversas
 
