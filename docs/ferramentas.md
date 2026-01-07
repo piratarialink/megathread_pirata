@@ -62,7 +62,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
 - [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a descoberta de novos programas (flatpaks) e pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio escrito em Python; oferece separação em tags, playlists, álbuns e avaliações como recurso.
-- [Hyprland](https://hypr.land/) - O Hyprland é um compositor de janelas derivado do Wayland e destinado para usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
+- [Hyprland](https://hypr.land/) - O Hyprland é um compositor de janelas derivado do wayland destinado a usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
 - 🌟 [**htop**](https://htop.dev/) - Para monitorar processos do sistema executando em segundo plano através da linha de comando, você pode acionar prioridades com base em seu critério pré-definido.
 - [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar diversas versões do OS X no Linux. Com suporte a GPU dedicada e a novas versões BETA + _recovery images_.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
