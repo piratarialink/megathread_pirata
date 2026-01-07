@@ -362,7 +362,9 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamverde.net)
 
 ### 🧲 [Ecológica Verde](https://x.com/Ecologica2Verde)
-- ⚠️ Uma pequena quantia de jogos, [distribuidos pelos mesmos](https://xcancel.com/Reeshasx/status/2008612949381005757), foram retiradas de uma fonte não confiável [IGG-Games](https://pirataria.link/sites-inseguros#%F0%9F%8E%AE-%E2%9E%9C-jogos), utilize por sua conta em risco. Caso for utilizar, cheque de qual fonte foi retirada o jogo antes de baixar.
+:::warning Uma pequena quantia de jogos, [distribuidos pelos mesmos](https://xcancel.com/Reeshasx/status/2008612949381005757), foram retiradas de uma fonte não confiável [IGG-Games](https://pirataria.link/sites-inseguros#%F0%9F%8E%AE-%E2%9E%9C-jogos), utilize por sua conta em risco. Caso for utilizar, cheque de qual fonte foi retirada o jogo antes de baixar.
+:::
+
 - Perfil que divulga links para jogos via torrent, também possui um grupo no Discord bem ativo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/x.com/)
 
