@@ -354,18 +354,19 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🌟 [FitGirl Repacks](https://fitgirl-repacks.site/)
 
-- Um launcher que nasceu na Rússia e que depois evoluiu nos últimos anos de um arquivista doméstico para a "magrinha" mais conhecida da web.
+- Um repacker que nasceu na Rússia e que depois evoluiu nos últimos anos de um arquivista doméstico para a "magrinha" mais conhecida da web.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fitgirl-repacks.site/)
 
-### 🌟 [Ecológica Verde](https://bsky.app/profile/ecologica.bsky.social)
-
-- Perfil que divulga links confiáveis para jogos via torrent, também possui um grupo no discord bem ativo.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/x.com/)
-
 ### 🌟 [Steam Verde](https://steamverde.net/)
-
 - O Steam Verde é uma plataforma online de jogos para PC e Android, oferecendo downloads via torrent com uma interface organizada. Conta com uma comunidade ativa que fornece tutoriais e suporte, além de manter os usuários informados sobre lançamentos. O site possui proteção antivírus e é baseado na plataforma segura Invision Community.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamverde.net)
+
+### 🧲 [Ecológica Verde](https://x.com/Ecologica2Verde)
+:::warning Uma pequena quantia de jogos, [distribuidos pelos mesmos](https://xcancel.com/Reeshasx/status/2008612949381005757), foram retiradas de uma fonte não confiável [IGG-Games](https://pirataria.link/sites-inseguros#%F0%9F%8E%AE-%E2%9E%9C-jogos), utilize por sua conta em risco. Caso for utilizar, cheque de qual fonte foi retirada o jogo antes de baixar.
+:::
+
+- Perfil que divulga links para jogos via torrent, também possui um grupo no Discord bem ativo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/x.com/)
 
 ### 🧲 [Online Fix](https://online-fix.me/) [📣](https://t.me/s/onlinefix)
 
