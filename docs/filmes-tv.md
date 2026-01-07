@@ -20,7 +20,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 🌟 [Rede Canais](https://redecanais.fm/) / [2](https://redecanais.fi/) / [3](https://redecanais.ps/)
 
 - Incrível variedade de filmes de excelente qualidade oferecidos para download direto através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
-- Muda constantemente de domínio, para se manter atualizado confira o [telegram oficial](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
+- Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.fm/)
 
 ### 🌟 [Hypeflix](https://hypeflix.sbs/)
