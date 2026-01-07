@@ -20,7 +20,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 🌟 [Rede Canais TV](https://redecanaistv.gs/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/)
 
 - Oferece Canais ao vivo com alta qualidade
-- Muda constantemente de domínio, para se manter atualizado confira o [discord oficial](https://discord.com/invite/kydZZBGwTy).
+- Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
 
 ### 🌟 [Multicanais](https://multicanais.legal/) / [2](https://multicanais.forum/)
