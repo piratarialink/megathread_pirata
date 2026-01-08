@@ -258,7 +258,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🚀 [GOG Galaxy](https://www.gog.com/galaxy)
 
-- Para jogar no Windows/MacOS, programa produzido e mantido pela empresa por trás do portal GOG Games.
+- Para jogar no Windows/MacOS, programa produzido e mantido pela empresa por trás da GOG store.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gog.com/)
 
 ### 🚀 [Lutris](https://lutris.net/)
