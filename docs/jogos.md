@@ -131,7 +131,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Ótima fonte para a mais nova seleção de jogos gratuitos pré-instalados. Os termos "jogo" e "indie" são combinados para criar o nome.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamdie.com/)
 
-### 🔗 [GameDrive](https://gamedrive.org/)
+### 🔗 [GameDrive.org](https://gamedrive.org/)
 
 - Repacks gratuitos com jogos pré-instalados de DODI, ElAmigos, FitGirl e muito mais por meio de conexões diretas de alta velocidade.
 - Não confundir com [GamesDrive](https://gamesdrive.net/) abaixo ↓
@@ -236,34 +236,36 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ## ↗ ➜ Launchers de jogos
 
+### 🌟 [Heroic Games Launcher](https://heroicgameslauncher.com/)
+
+- Adiciona uma camada extra de compatibilidade com bibliotecas runtime da Microsoft através de ferramentas como o wine e wine-tricks para games no Linux.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/heroicgameslauncher.com/)
+
 ### 🚀 [Legacy Launcher](https://llaun.ch/pt-BR)
 
-- Launcher seguro para Minecraft, ao contrário do TLauncher
+- Um aplicativo completamente seguro e livre de bundleware para Minecraft, ao contrário do TLauncher.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/llaun.ch)
 
 ### 🚀 [Prism Launcher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked?tab=readme-ov-file)
 
-- Desbloqueia o uso de contas offline no Minecraft
+- Um derivado do [Prism Launcher](https://prismlauncher.org/) que desbloqueia o uso de contas offline no Minecraft, FLOSS e gerenciado pela comunidade, disponível para Linux e OS X também!
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🚀 [Playnite](https://playnite.link/)
 
-- Launcher universal de jogos para Windows
+- É capaz de sincronizar suas contas da Steam e da Epic Games com os seus jogos favoritos, disponível para Windows apenas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/playnite.link/)
 
 ### 🚀 [GOG Galaxy](https://www.gog.com/galaxy)
 
-- Launcher universal de jogos para Windows/MacOS
+- Para jogar no Windows/MacOS, programa produzido e mantido pela empresa por trás do portal GOG Games.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gog.com/)
 
 ### 🚀 [Lutris](https://lutris.net/)
 
-- Launcher universal de jogos para Linux
-
-### 🚀 [Bottles](https://flathub.org/apps/com.usebottles.bottles)
-
-- Launcher universal de jogos para Linux
-
-### 🚀 [Heroic Games Launcher](https://heroicgameslauncher.com/)
-
-- Launcher de jogos da Epic e GOG para Linux
-
+- Launcher universal de jogos para GNU/Linux, mesmo conceito do Heroic Games Launcher.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/lutris.net/)
+  
 ## 🌐 ➜ Jogos de navegador
 
 ### 🌟 [Flashpoint Archive](https://flashpointproject.github.io/flashpoint-database/search/)
