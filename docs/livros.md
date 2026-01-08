@@ -63,12 +63,12 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [Projeto Gutenberg](https://gutenberg.org/)
 
-- Project Gutenberg é uma biblioteca online de e-books gratuitos. Escolha entre e-books epub e Kindle gratuitos, baixe-os ou leia-os online.
+- O "Project Gutenberg" é uma biblioteca online de e-books gratuitos. Escolha entre e-books epub e Kindle gratuitos, baixe-os ou leia-os online.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gutenberg.org/)
 
 ### 🔗 [Open Library](https://openlibrary.org/)
 
-- Open Library é uma iniciativa da [Internet Archive](https://archive.org/), uma organização sem fins lucrativos, que constrói uma biblioteca digital de sites da Internet e outros artefatos culturais em formato digital.
+- O Open Library é uma iniciativa da [Internet Archive](https://archive.org/), uma organização sem fins lucrativos, que constrói uma biblioteca digital de sites da Internet e outros artefatos culturais em formato digital.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/openlibrary.org/)
 
 ### 🔗 [elivros](https://elivros.info/)
