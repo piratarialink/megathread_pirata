@@ -59,7 +59,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/)
 
-- Acervo de livros na rede tor.
+- Acervo de livros para ser acessado com o navegador TOR, não necessita de javascript ligado para baixar a maioria das obras.
 
 ### 🔗 [Projeto Gutenberg](https://gutenberg.org/)
 
