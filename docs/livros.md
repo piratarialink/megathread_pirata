@@ -55,6 +55,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 ### 🔗 [Sci-Hub](https://sci-hub.se/) / [2](https://sci-hub.st/) / [3](https://sci-hub.ru/)
 
 - Acesso ilimitado a todo o conhecimento científico, quebrando paywalls acadêmicos desde 2011.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sci-hub.se/)
 
 ### 🔗 [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/)
 
