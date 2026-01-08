@@ -68,7 +68,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [Open Library](https://openlibrary.org/)
 
-- O Open Library é uma iniciativa da [Internet Archive](https://archive.org/), uma organização sem fins lucrativos, que constrói uma biblioteca digital de sites da Internet e outros artefatos culturais em formato digital.
+- O "Open Library" é uma iniciativa da [Internet Archive](https://archive.org/), uma organização sem fins lucrativos, que constrói uma biblioteca digital de sites da Internet e outros artefatos culturais em formato digital.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/openlibrary.org/)
 
 ### 🔗 [elivros](https://elivros.info/)
