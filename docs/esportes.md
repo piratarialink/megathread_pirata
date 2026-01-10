@@ -121,7 +121,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - Transmite partidas ao vivo de futebol do Brasil e de outros países com narração em português brasileiro.
 
-### 🔗 [OnePlay](https://github.com/OnePlayHD/OneRepo)
+### 🔗 [OnePlay](https://github.com/oneplayhd/oneplayhd.github.io)
 
 - Atua exclusivamente como um agregador de canais esportivos de TV (e filmes dublados), na maior parte do tempo gratuito e sem propagandas.
 
