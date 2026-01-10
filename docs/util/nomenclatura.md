@@ -109,13 +109,13 @@ No geral, os benefícios de se ter um tracker (sobretudo privado) é ter uma var
 
 **NZB**: Formato de arquivo usado na Usenet para download de arquivos binários. Contém metadados sobre arquivos e sua localização nos servidores da Usenet. Permite uma recuperação eficiente de arquivos grandes. Usado com downloaders NZB. Simplifica o download de arquivos Usenet processo. Melhora a experiência de compartilhamento de arquivos.
 
-**Newsgroups**: Fóruns de discussão categorizados na Usenet. Os tópicos variam de ciência ao entretenimento. Os usuários se inscrevem em grupos específicos e conversas baseadas em texto tomam o lugar. Mensagens armazenadas em servidores Usenet. Plataforma pré-web para informações compartilhamento.
+**Newsgroups**: Fóruns de discussão categorizados na Usenet. Os tópicos variam de ciência ao entretenimento. Os usuários se inscrevem em grupos específicos e conversas baseadas em texto tomam o lugar. Mensagens armazenadas em servidores Usenet. Plataforma pré-web para informações e compartilhamento.
 
 **PAR (Parchive):** Formato de arquivo usado para recuperação de erros na Usenet e compartilhamento de arquivos. Gera dados de paridade para reparar partes danificadas ou ausentes de arquivos baixados. Oferece recursos robustos de correção de erros. Compatível com vários aplicativos e clientes Usenet. Garante a recuperação de arquivos.
 
 **PAR2**: Formato de arquivo usado para recuperação de erros na Usenet e compartilhamento de arquivos. estandes para "Parquivo 2.0." Cria blocos de dados redundantes para reparar dados corrompidos ou partes ausentes de arquivos baixados da Usenet. Funciona com arquivos NZB. Garante a integridade dos dados e aumenta as chances de reconstrução bem-sucedida de arquivos. Crucial para download confiável de arquivos.
 
-**RAR**: Formato de compactação de arquivo comumente usado para arquivar e compactar arquivos. Oferece algoritmos de compactação eficientes e suporte a vários volumes. fornece proteção por senha, divisão de arquivos e recuperação de erros. Suportado em múltiplas plataformas. Escolha popular para compartilhamento de arquivos e compactação de dados.
+**RAR**: Formato proprietário de compactação de arquivo comumente usado para arquivar e compactar arquivos. Oferece algoritmos de compactação eficientes e suporte a vários volumes. fornece proteção por senha, divisão de arquivos e recuperação de erros. Suportado em múltiplas plataformas. Escolha popular para compartilhamento de arquivos e compactação de dados.
 
 **Usenet Indexer:** Site/serviço que ajuda os usuários a pesquisar e localizar conteúdo na Usenet. Indexa e categoriza postagens da Usenet, tornando-as facilmente pesquisável. Fornece funcionalidade de pesquisa com base em palavras-chave, categorias e tipos de arquivo. Oferece recursos adicionais como avaliações, comentários e visualização. Simplifica a descoberta de conteúdo na Usenet.
 
