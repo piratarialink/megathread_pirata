@@ -15,14 +15,14 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
   :::
 
-## 📒 ➜ Diversos
+## 📒 Diversos
 
 ### 🌟 [Wiki geral de emulação](https://emulation.gametechwiki.com/index.php/Main_Page)
 
 - Lista incrível de emuladores que seguem ativos e atualizados regularmente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/emulation.gametechwiki.com/)
 
-## 🌐 ➜ Emulação no Navegador
+## 🌐 Emulação no Navegador
 
 ### 🔗 [Classic games online](https://playclassic.games/)
 
@@ -59,7 +59,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Em uma ampla variedade de plataformas, os jogos são executados nativamente no navegador, sob o controle de feeds de jogos baseados em nuvem.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/webarcade.com/)
 
-## 👾 ➜ Multisistema
+## 👾 Multisistema
 
 ### 🔗 [ares](https://ares-emu.net/)
 
@@ -85,7 +85,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Sua interface gráfica elegante permite que você jogue jogos antigos em uma variedade de PCs e consoles.
 
-## 📦 ➜ Microsoft
+## 📦 Microsoft
 
 ### 🔗 [xemu](https://xemu.app/) • Xbox
 
@@ -97,7 +97,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Ótimo projeto que simula jogos amados de 360 em PCs modernos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xenia.jp/)
 
-## 🟥 ➜ Nintendo
+## 🟥 Nintendo
 
 ### 🔗 [Cemu](https://cemu.info/) • Wii U
 
@@ -179,7 +179,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - **Não é mais desenvolvido.** Os Jogos podem ser jogados usando esse emulador de código aberto.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/krakenfiles.com/)
 
-## 🔵 ➜ Sega
+## 🔵 Sega
 
 ### 🔗 [Flycast](https://github.com/flyinghead/flycast) • Dreamcast
 
@@ -196,7 +196,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Este pequeno pacote, com menos de 4 MB, pode criar uma experiência suave de 60 Hz.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redream.io/)
 
-## ❓ ➜ Sony
+## ❓ Sony
 
 ### 🔗 [DuckStation](https://www.duckstation.org/) • PlayStation 1
 
@@ -234,7 +234,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Emulador com GUI baseada no motor de renderização Qt que roda jogos de PS4 no Windows, Linux e MacOS.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/shadps4.net/)
 
-## 💾 ➜ ROMs/ISOs
+## 💾 ROMs/ISOs
 
 ### 🌟 [**Internet Archive**](https://archive.org/details/emulation)
 
@@ -363,7 +363,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Excelente para obter roms do Switch, apenas tome cuidado para não sair clicando em qualquer coisa e tenha o bom senso de usar adblock.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ziperto.com/)
 
-## 🏠 ➜ Homebrew/Quality of Life
+## 🏠 Homebrew/Quality of Life
 
 ### 🌟 [Project Restoration](https://github.com/leoetlino/project-restoration)
 
@@ -380,7 +380,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Fangame aprimorado ao decorrer dos anos baseado na engine do Mugen, toma como inspiração o DBZ Hyper Dimension do SNES.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/network.mugenguild.com/)
   
-## 🧩 ➜ Decomp/Recomp
+## 🧩 Decomp/Recomp
 
 ### 🌟 [**Unleashed Recompiled**](https://github.com/hedge-dev/UnleashedRecomp?tab=readme-ov-file)
 
@@ -397,7 +397,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Relatórios de progresso de projetos de decompilação do github e de outros sites.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/decomp.dev/)
 
-## 🌎 ➜ Traduções de Jogos
+## 🌎 Traduções de Jogos
 
 ### 🌟 [**Vimm's Lair > Translations**](https://vimm.net/romhacking/translations)
 
@@ -433,7 +433,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🔗 [GGames](https://ggames.com.br/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gggames.com)
 
-## ❤ ➜ Projetos de tradução
+## ❤ Projetos de tradução
 
 ### 🌟 [**Jacutem Sabão**](https://jacutemsabao.bitbucket.io/download.html)
 
@@ -450,13 +450,13 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Tradução do jogo Gunnm (Battle Angel Alita) de PS1 para o inglês.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/forum.rippersanime.info/)
 
-## 📢 ➜ Telegram
+## 📣 No Telegram
 
 ### 🤖 [NSW Torrent Library](https://t.me/@Switch_library_bot)
 
 - Fonte confiável de roms para NSW, por ser um bot do telegram é uma opção viável caso o seu site favorito de roms de Switch seja derrubado.
 
-## 🧵 ➜ Torrents
+## 🧵 Torrents
 
 ### 🧲 [BlueRoms](https://www.blueroms.ws/)
 
