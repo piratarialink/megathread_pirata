@@ -406,7 +406,7 @@ Na sidebar > `Guides` > `Extension Repos`**
 - Projetado para ser um banco de dados imenso de visual novels (inclusive de VNs em português).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vndb.org/)
 
-## 📣 ➜ No Telegram
+## 📣 No Telegram
 
 #### 🔗 [Mangás da Depressão](https://t.me/mangasdepressao)
 
