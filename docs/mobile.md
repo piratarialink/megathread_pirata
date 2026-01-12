@@ -15,7 +15,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
   :::
 
-## 🤖 ➜ Android
+## 🤖 Android
 
 ### 🔗 [APK Editor Studio](https://qwertycube.com/apk-editor-studio/)
 
@@ -72,7 +72,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Aplicativo Android para baixar Video/Audio usando yt-dlp.
 
-## 🍎 ➜ IOS
+## 🍎 IOS
 
 ### 🌟 [Sidestore](https://sidestore.io/) / [AltStore](https://altstore.io/) / [Scarlet](https://usescarlet.com/)
 
@@ -82,7 +82,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Executa apps em alguns modelos de IOS sem lidar com restrições de assinatura de código.
 
-## 🛍 ➜ Catálogo e Lojas
+## 🛍 Catálogo e Lojas
 
 ### 🌟 [Aurora Store](https://auroraoss.com/)
 
@@ -119,7 +119,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Serve como um centro para distribuição de software direcionado principalmente ao sistema operacional Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/onyxbits.de/)
 
-## 🍨 ➜ Apps Vanilla
+## 🍨 Apps Vanilla
 
 ### 🌟 [APKMirror](https://www.apkmirror.com/)
 
@@ -176,7 +176,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Aprimore sua experiência digital e fique atualizado com os downloads mais recentes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/top-androids.com/)
 
-## 🔨 ➜ Apps Modificados
+## 🔨 Apps Modificados
 
 ### 🌟 [Tekmods](https://tekmods.com/)
 
@@ -327,7 +327,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/a2zapk.io/)
 
-## 📢 ➜ Telegram
+## 📢 No Telegram
 
 ### 🔗 [AlveeMods](https://t.me/AlveeMods)
 
@@ -357,7 +357,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - APKs do Minecraft PE com Xbox Live funcional apenas versões estáveis, sem betas
 
-## 🔦 ➜ Buscadores
+## 🔦 Buscadores
 
 ### 🔍 [Advanced Google Play Search](https://playsearch.kaki87.net/)
 
