@@ -15,7 +15,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
   :::
 
-## 📥 ➜ Download direto
+## 📥 Download direto
 
 ### 🌟 [Projeto Z-Library](https://z-library.sk/) • Necessário Cadastrar-se
 
@@ -99,7 +99,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/pdfroom.com/)
 
-## 💥 ➜ Quadrinhos
+## 💥 Quadrinhos
 
 ### 🔗 [Darkseid Club](https://site.ds-club.net/)
 
@@ -123,13 +123,13 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/theoldshinobi.site/)
 
-## ☁️ ➜ Pastas na Nuvem
+## ☁️ Pastas na Nuvem
 
 ### 📂 [12.000 Livros Kindle!](https://drive.google.com/drive/folders/1EoF3QomxBsoMTBGMEc_J5JW6r6cC-oCy?usp=drive_link)
 
 - Ampla gama de livros para kindle de maneira organizada.
 
-## 🔦 ➜ Buscadores
+## 🔦 Buscadores
 
 ### 🌟 [Anna's Archive](https://br.annas-archive.li/)
 
@@ -143,7 +143,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Os usuários são ajudados por este motor de busca a encontrar downloads gratuitos de e-books, bem como audiobooks.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravebooksearch.com/)
 
-## 🖱 ➜ Aplicativos para Computador
+## 🖱 Aplicativos para Computador
 
 ### 🔗 [Libation](https://github.com/rmcrackan/Libation)
 
@@ -165,7 +165,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Plugin para o Calibre para remover DRM de livros comprados na Amazon ou Google Books.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hakuneko.download/)
 
-## 🧵 ➜ Torrents
+## 🧵 Torrents
 
 ### 🧲 [Academic Torrents](https://academictorrents.com/)
 
@@ -185,7 +185,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Para obter um convite, [veja esta página](https://www.myanonamouse.net/inviteapp.php) para mais detalhes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/myanonamouse.net/)
 
-## 🎧 ➜ Audiolivros
+## 🎧 Audiolivros
 
 ### 🌟 [LibriVox](https://librivox.org/)
 
@@ -257,7 +257,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Histórias de áudio feitas para crianças. Relaxe e deixe a imaginação dos seus filhos vagar por reinos fantásticos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/storynory.com/)
 
-## 🆎 ➜ Fontes
+## 🆎 Fontes
 
 ### 🌟 [FontsHub](https://fontshub.pro/)
 
@@ -354,7 +354,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Um utilitário da Web que obtém um URL de uma biblioteca Adobe Font e extrai a fonte do banco de dados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/badnoise.net/)
 
-## 📑 ➜ No Telegram
+## 📑 No Telegram
 
 ### 📣 [Tudo de Bom em AUDIOLIVROS](https://t.me/Tudo_de_BOM_em_AUDIOLIVROS)
 
