@@ -15,7 +15,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
   :::
 
-## 📒 ➜ Diversos
+## 📒 Diversos
 
 ### 🌟 [**Internet Archive**](https://archive.org/)
 
@@ -67,7 +67,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Encontra dorks no Google de forma fácil e automatizada.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lumpysoft.com/)
 
-## 📣 ➜ Telegram
+## 📣 No Telegram
 
 ### 🔗 [Pirataria](https://t.me/trackerslist)
 
@@ -85,7 +85,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 - Substitui a busca nativa e obsoleta do Telegram.
 
-## 🧲 ➜ Torrents
+## 🧲 Torrents
 
 ### 🌟 [Bitmagnet](https://bitmagnet.io/setup/installation.html)
 
@@ -193,7 +193,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Faz buscas nos sites mais populares de torrent e demais sites específicos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentseeker.com/)
 
-## 📑 ➜ Dados da cena dos Trackers
+## 📑 Dados da cena dos Trackers
 
 ### 🔗 [PreDB](https://predb.net/) / [2](https://predb.me/)
 
