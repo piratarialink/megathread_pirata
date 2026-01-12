@@ -15,7 +15,7 @@ Os jogos requerem interação com uma interface de usuário ou dispositivo de en
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
   :::
 
-## 🌎 ➜ Traduções de Jogos
+## 🌎 Traduções de Jogos
 
 Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
@@ -47,7 +47,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gggames.com.br/)
 
-## ⚙ ➜ Programas
+## ⚙ Programas
 
 ### 🌟 [Hydra](https://github.com/hydralauncher/hydra)
 
@@ -71,7 +71,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Usa o emulador Goldberg para jogos offline que só rodam com a licença da Steam. Não crackeia jogos com Denuvo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-## 📥 ➜ Download direto
+## 📥 Download direto
 
 ### 🌟 [AnkerGames](https://ankergames.net/)
 
@@ -234,7 +234,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Explore uma vasta coletânea de jogos para Windows, Linux e Mac.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/worldofpcgames.com/)
 
-## ↗ ➜ Launchers de jogos
+## ↗ Launchers de jogos
 
 ### 🌟 [Heroic Games Launcher](https://heroicgameslauncher.com/)
 
@@ -266,7 +266,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Launcher universal de jogos para GNU/Linux, mesmo conceito do Heroic Games Launcher.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/lutris.net/)
   
-## 🌐 ➜ Jogos de navegador
+## 🌐 Jogos de navegador
 
 ### 🌟 [Flashpoint Archive](https://flashpointproject.github.io/flashpoint-database/search/)
 
@@ -325,7 +325,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
   Episódios da série animada Gui & Estopa também podem ser vistos gratuitamente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/iguinho.com.br/)
 
-## 🔦 ➜ Buscadores
+## 🔦 Buscadores
 
 ### 🔍 [Mecanismo de busca programável](https://cse.google.com/cse?cx=20c2a3e5f702049aa)
 
@@ -347,7 +347,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Mecanismo de busca que ajuda seus usuários a encontrar downloads de videogames gratuitos. Inclui novos links, bem como uma lista de sites atualizados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravegamesearch.pages.dev/)
 
-## 🧵 ➜ Torrents
+## 🧵 Torrents
 
 ### 🌟 [DODI Repacks](https://dodi-repacks.site/)
 
