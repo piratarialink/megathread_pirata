@@ -15,7 +15,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
   :::
 
-## 🛠 ➜ Crackers
+## 🛠 Crackers
 
 ### 🌟 [LRepacks](https://lrepacks.net/) • Interface em russo
 
@@ -176,7 +176,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - Belo catálogo de aplicativos gratuitos, jogos, software para Android, animação e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/yasdl.com/)
 
-## 🧩 ➜ Patchers
+## 🧩 Patchers
 
 ### 🌟 [GenP](https://gen.paramore.su/)
 
@@ -189,7 +189,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - Se não dar certo, [tente isso aqui](https://github.com/lstprjct/IDM-Activation-Script).
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/)
 
-## 🎨 ➜ Pacotes de recursos
+## 🎨 Pacotes de recursos
 
 ### 🌟 [AERiver](https://aeriver.com/)
 
@@ -247,7 +247,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - Temas e plugins _nulled_ para o WordPress.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/codelist.cc/)
 
-## 🔑 ➜ Keygens & Serials
+## 🔑 Keygens & Serials
 
 ### 🌟 [Keygens.md](https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/Keygens.md)
 
@@ -269,7 +269,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - Antigo fórum que passou a ser indexador de serials. Grande base de usuários e fonte de pesquisa.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/smartserials.com/)
   
-## 🔍 ➜ Buscadores
+## 🔍 Buscadores
 
 ### 🌟 [Virgil](https://virgil.samidy.com/Software/) 
 
@@ -281,7 +281,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - Os usuários são ajudados por este mecanismo de busca a encontrar downloads de software gratuito. Inclui interface com novos links, bem como uma lista de sites atualizados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ravesoftwaresearch.pages.dev/)
 
-## 🧵 ➜ Torrents
+## 🧵 Torrents
 
 ### 🌟 [M0nkrus](https://vk.com/monkrus) | [📣](https://t.me/m0nkrus/) • Interface em russo
 
