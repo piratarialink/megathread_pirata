@@ -15,7 +15,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
   :::
 
-## 📒 ➜ Diversos
+## 📒 Diversos
 
 ### 🌟 [**Music Megathread**](https://github.com/MoonWalker440/Music-Megathread)
 
@@ -32,7 +32,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Comunidade de audiogeeks com dicas, sorteios, feedbacks e links para promoções nas principais lojas virtuais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/reddit.com/)
 
-## 📥 ➜ Download Direto
+## 📥 Download Direto
 
 ### 🌟 [**Audio wareZ**](https://audioz.download/)
 
@@ -133,7 +133,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - ytify é um cliente de streaming gratuito de áudio com eficiência de recursos para o YouTube e o YouTube Music.
 
-## 🎵 ➜ Aplicativos para Desktop
+## 🎵 Aplicativos para Desktop
 
 ### 🌟 [**SpotiFLAC**](https://github.com/afkarxyz/SpotiFLAC)
 
@@ -237,7 +237,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial do Spotify. Disponibiliza temas para o client e outras personalizações.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com)
 
-## 🔁 ➜ Ferramentas diversas
+## 🔁 Ferramentas diversas
 
 ### 🌟 [**LibreScore**](https://github.com/LibreScore/dl-librescore)
 
@@ -254,7 +254,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Outra ferramenta alternativa para transferir músicas do Spotify para o YouTube.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/wemor.vercel.app/)
 
-## 📱 ➜ Celular
+## 📱 Celular
 
 ### 🌟 [**SpotiFLAC-Mobile**](https://github.com/zarzet/SpotiFLAC-Mobile)
 
@@ -341,7 +341,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Aplicativo para instalar o Spotify sem anúncios no Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xmanagerapp.com/)
 
-## 📢 ➜ No Telegram
+## 📢 No Telegram
 
 ### 🤖 [DeezLoad](https://t.me/deezload2bot)
 
