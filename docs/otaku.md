@@ -175,9 +175,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
 
 - Tracker semi-privado.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/tracker.uniotaku.com/)  
-‎
-‎
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/tracker.uniotaku.com/)  ‎
 #### 🧲 [Erai-Raws](https://www.erai-raws.info/)
 
 - ScanSubs para quase todas as línguas, fonte para diversos sites de anime.
@@ -380,16 +378,26 @@ Na sidebar > `Guides` > `Extension Repos`**
 - TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-‎
-‎
+## 🍣 Light Novel
 
-### 📣 ➜ No Telegram - Mangá
+#### 🔗 [MahouReader](https://mahoureader.com/)
 
----
+- Desfrute de novels traduzidas com qualidade e atualizadas regularmente de forma gratuita e livre.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mahoureader.com/)
+  
+#### 🔗 [Novel Mania](https://novelmania.com.br/)
 
-#### 🔗 [Mangás da Depressão](https://t.me/mangasdepressao)
+- Leia LNs e Webnovels de todos os gêneros com a melhor tradução disponibilizada em português brasileiro!
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-#### 🔗 [QG - Baltigo mangás](https://t.me/MangasBrasil)
+#### 🔗 [Tsundoku](https://tsundoku.com.br/)
+
+- Espaço para quem ama projetos de tradução, atualizado diariamente, apoiadores têm acesso antecipado a lançamentos de obras nipônicas pelo discord.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tsundoku.com.br/)
+
+#### 🔗 [NovelsBR](https://novels-br.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/novels-br.com/)
 
 ## 🎮 Visual Novel
 
@@ -397,6 +405,12 @@ Na sidebar > `Guides` > `Extension Repos`**
 
 - Projetado para ser um banco de dados imenso de visual novels (inclusive de VNs em português).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vndb.org/)
+
+## 📣 ➜ No Telegram
+
+#### 🔗 [Mangás da Depressão](https://t.me/mangasdepressao)
+
+#### 🔗 [QG - Baltigo mangás](https://t.me/MangasBrasil)
 
 
 
