@@ -363,7 +363,12 @@ Na sidebar > `Guides` > `Extension Repos`**
 - TachiyomiSY pretende avançar em termos de usabilidade e recursos, mas mantendo atualizações e recursos do aplicativo principal
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
+‎
+‎
+
 ## 🍣 Light Novel
+
+‎
 
 #### 🔗 [MahouReader](https://mahoureader.com/)
 
@@ -384,14 +389,25 @@ Na sidebar > `Guides` > `Extension Repos`**
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/novels-br.com/)
 
+‎
+‎
+
 ## 🎮 Visual Novel
+
+‎
 
 #### 🔗 [VNDB](https://vndb.org/)
 
 - Projetado para ser um banco de dados imenso de visual novels (inclusive de VNs em português).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vndb.org/)
 
+‎
+‎
+
 ## 📣 No Telegram
+
+‎
+
 
 #### 🌟 [Algo Animes](https://t.me/algoanimes)
 
