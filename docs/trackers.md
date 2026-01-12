@@ -8,7 +8,7 @@ Trackers podem ser públicos ou privados. Trackers públicos não demandam cadas
 Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisado quando novos Trackers abrirem cadastros. Verifique também mais sobre convites de trackers no [r/OpenSignups](https://www.reddit.com/r/OpenSignups/).
 :::
 
-## 🔰 ➜ Trackers Brasileiros
+## 🔰 Trackers Brasileiros
 
 :::danger 💣 Brsociety-pro é golpe! [Saiba mais.](https://t.me/CopyrightBR/1935)
 :::
@@ -86,7 +86,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ---
 
-## 🌐 ➜ Trackers Estrangeiros
+## 🌐 Trackers Estrangeiros
 
 :::info **PU = Power User (usuário avançado):** primeira classificação, quando você sobe de nível. Você precisa ter essa classificação para poder acessar o fórum de convites de um tracker.
 :::
@@ -217,7 +217,7 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 
 ---
 
-## 🚪 ➜ Trackers Públicos e semi-privados
+## 🚪 Trackers Públicos e semi-privados
 
 ### 🧲 [Academic Torrents](https://academictorrents.com/)
 
