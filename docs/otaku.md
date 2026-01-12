@@ -179,23 +179,8 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🧲 [Erai-Raws](https://www.erai-raws.info/)
 
 - ScanSubs para quase todas as línguas, fonte para diversos sites de anime.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/erai-raws.info/)
-  
-### 📣 ➜ No Telegram - Anime
-
----
-
-#### 🌟 [Algo Animes](https://t.me/algoanimes)
-
-- Mesmo criador do Algo Books.
-
-#### 🔗 [Toonami](https://t.me/toonamibr)
-
-#### 🔗 [Central dos Animes](https://t.me/Centraldeanimes_Baltigo)
-
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/erai-raws.info/)‎
 ‎
-‎
-
 ### 📰 ➜ Legendas
 
 ---
@@ -407,6 +392,12 @@ Na sidebar > `Guides` > `Extension Repos`**
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vndb.org/)
 
 ## 📣 No Telegram
+
+#### 🌟 [Algo Animes](https://t.me/algoanimes)
+
+#### 🔗 [Toonami](https://t.me/toonamibr)
+
+#### 🔗 [Central dos Animes](https://t.me/Centraldeanimes_Baltigo)
 
 #### 🔗 [Mangás da Depressão](https://t.me/mangasdepressao)
 
