@@ -15,7 +15,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 - 🌟 **Recomendações da Comunidade:** Links marcados com 🌟 são altamente recomendados pelos piratas veteranos.
   :::
 
-## 🎓 ➜ Streaming
+## 🎓 Streaming
 
 ### 🌟 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode assistir aos cursos pelo Telegram.
 
@@ -75,7 +75,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ---
 
-## 📥 ➜ Download direto
+## 📥 Download direto
 
 ### 🌟 **[Cursos do Polemic Knowledge](https://linktr.ee/bepolemic)** - Acesse o Polemic ZIP, filmes e docs no linktree.
 
@@ -118,7 +118,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ---
 
-## 🧮 ➜ Torrents
+## 🧮 Torrents
 
 ### 🧲 [Download Cursos Top](https://downloadcursos.top/) - Cursos nacionais
 
@@ -146,7 +146,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🧲 [Pimp My Money](https://pimpmymoney.net/) - Cursos de Marketing Digital
 
-## ☁ ➜ Pastas na nuvem
+## ☁ Pastas na nuvem
 
 ### 📂 [Material Aeronáutico](https://linktr.ee/aviationPiracy)
 
@@ -164,7 +164,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Sobre automação, gestão, eletricidade predial e outras áreas.
 
-## 📣 ➜ No Telegram
+## 📣 No Telegram
 
 ### 🔗 [Polemic Knowledge Clone](https://t.me/+-eUQNwLw9G5mNDUx)
 
