@@ -1,4 +1,4 @@
-# ⛩️ Otaku
+# ⛩️ ➜ Otaku
 
 Lista que engloba tudo referente à cultura japonesa, embora possa ter também sites para obras e produções de outros países, como Donghua (China) e Manhwa (Coreia do Sul).
 
