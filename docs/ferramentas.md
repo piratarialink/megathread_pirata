@@ -31,7 +31,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
 - 🌟 [**Remove WindowsAI**](https://github.com/zoicware/RemoveWindowsAI) - Remove o copilot, componentes de IA e integrações no notepad - [outros recursos podem ser desativados manualmente.](https://github.com/zoicware/RemoveWindowsAI/blob/main/OtherAIFeatures.md)
 - [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado, bem como automatiza funções.
-- [Chocolatey](https://chocolatey.org/) - Um instalador de linha de comando para o Windows, muito semelhante com o WinGet.
+- [Chocolatey](https://chocolatey.org/) - Um instalador de linha de comando para o Windows, muito semelhante ao WinGet.
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
 - 🌟 [**Wintoys**](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge e o OneDrive com a opção "Digital Markets Act" ligada (quando não funcionar, [tente isso](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)), retira os anúncios da Microsoft e habilita o "God Mode".
 - [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à uma experiência moderna do Windows.
