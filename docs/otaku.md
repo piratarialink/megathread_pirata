@@ -28,7 +28,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🌟 [RedeCanais](https://redecanais.sh/browse-animes-videos-1-date.html)
 
 - Incrível coleção de animes em excelente qualidade e dublados em PT-BR.
-- Muda constantemente de domínio, para se manter atualizado confira o [canal oficial do Discord](https://discord.com/invite/kydZZBGwTy).
+- Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/redecanais.gl/)
 
 #### ▶️ [Tomato](https://tomatoanimes.com/watch?id=1089)
