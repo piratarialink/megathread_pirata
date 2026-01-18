@@ -53,7 +53,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► **Ferramentas para Linux / BSD**
 
-- 🌟 [**LinuxToys**](https://linux.toys/) - Projeto tocado pelo youtuber e dev brasileiro psygreg; corrige o bug de captura de áudio do OBS, instala o prism launcher, waydroid, chaotic AUR, bottles (um gerenciador para o wine) e o lucidglyph - testado e estável para Debian, Ubuntu e Arch, **usuários do Fedora podem enfrentar problemas.**
+- 🌟 [**LinuxToys**](https://linux.toys/) - Projeto tocado pelo youtuber e dev brasileiro psygreg; corrige o bug de captura de áudio do OBS, instala o waydroid, chaotic AUR, bottles (um gerenciador para o wine) e o lucidglyph - testado e estável para Debian, Ubuntu e Arch, **usuários do Fedora podem enfrentar problemas.**
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de ISOs customizadas carregadas todos os dias.
 - [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor doméstico eficaz e protegido (sendo Debian no modo headless a melhor distro para essa função).
 - 🌟 [**Hints**](https://github.com/AlfredoSequeida/hints?tab=readme-ov-file) - Feito para quem já está habituado a usar sobretudo o teclado em comparação com o mouse, atente-se a configuração específica do seu gerenciador de janelas [seguindo esse passo a passo.](https://github.com/AlfredoSequeida/hints/wiki/Window-Manager-and-Desktop-Environment-Setup-Guide)
@@ -147,16 +147,16 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritamente como quadros de avisos e não oferecem downloads de nenhum conteúdo postado. [Guia](guias/lancamentos-predbs.md) / [Regras](https://scenerules.org/)
 
-- [predb.org](http://predb.org/) - Rastreador de cena
-- [predb.me](https://predb.me/) - Rastreador de cena
-- [predb.net](https://predb.net/) - Rastreador de cena
-- [srrdb.com](http://srrdb.com/) - Rastreador de cenas.
+- [predb.org](http://predb.org/) - Rastreador da cena.
+- [predb.me](https://predb.me/) - Rastreador da cena.
+- [predb.net](https://predb.net/) - Rastreador da cena.
+- [srrdb.com](http://srrdb.com/) - Rastreador da cena.
   Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
   `r:palavra_chave_da_busca`;
   `nfo:yes` ou `no` para saber se um determinado item é um arquivo NFO ou não;
   `category: cat games`, `cat tv`, `cat tv-HD`, `cat tv-HD-x264`.
-- [xrel.to/releases.html](https://www.xrel.to/releases.html) - Rastreador de cena
-- **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para versões P2P
+- [xrel.to/releases.html](https://www.xrel.to/releases.html) - Rastreador da cena.
+- **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para lançamentos P2P.
 
 ## ► **Userscripts úteis**
 
