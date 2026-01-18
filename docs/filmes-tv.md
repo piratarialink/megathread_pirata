@@ -61,6 +61,13 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Fonte para muitos filmes e séries do Betterflix.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/superflix1.cloud)
 
+### ▶️ [Pomfy](https://pomfy.online/) / [2](https://pomfy.stream/) / [API](https://api.pomfy.stream/)
+
+- Site de filmes e séries com áudios originais, dublados e legendados. Sempre na melhor qualidade.
+- Baixa presença de anúncios (aparece apenas nos players).
+- Entre no canal do [Telegram](https://t.me/pomfyfilmeseseries) e/ou servidor do [Discord](https://discord.gg/4ehXJRU54S).
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pomfy.online/)
+
 ### ▶️ [NetCine](https://netcinex.si/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/goflix.lol/)
@@ -261,6 +268,13 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Repleto de filmes, séries, doramas, animes e canais de TV, tudo de graça. Dublado e Legendado.
 - Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
+
+### ▶️ [Pomfy](https://pomfy.online/) / [2](https://pomfy.stream/) / [API](https://api.pomfy.stream/)
+
+- Site de filmes e séries com áudios originais, dublados e legendados. Sempre na melhor qualidade.
+- Baixa presença de anúncios (aparece apenas nos players).
+- Entre no canal do [Telegram](https://t.me/pomfyfilmeseseries) e/ou servidor do [Discord](https://discord.gg/4ehXJRU54S).
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pomfy.online/)
 
 ## 📺️ TV
 
