@@ -119,7 +119,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
 ### 🚫 [Adulto](adulto.md)
 
-- Entrando nessa seção, você concorda que é maior de 18 anos.
+- Entrando nessa seção, você concorda que é maior de 18 anos de idade.
 
 ---
 
