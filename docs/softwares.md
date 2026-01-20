@@ -180,7 +180,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🌟 [GenP](https://gen.paramore.su/)
 
-- Usado para estender a versão trial de aplicativos da Creative Cloud no Windows. [**Guia**](https://wiki.dbzer0.com/genp-guides/guide/)
+- Usado para estender a versão trial de aplicativos da Creative Cloud no Windows. [**Guia**](https://wiki.dbzer0.com/genp-guides/guide/) / [**Método fácil com programas já patcheados**](https://wiki.dbzer0.com/genp-guides/guide/#guide-7)
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gen.paramore.su/)
 
 ### 🔗 [Install IDM](https://rentry.org/installidm)
