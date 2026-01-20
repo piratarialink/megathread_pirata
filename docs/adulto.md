@@ -12,4 +12,4 @@
 
 ---
 
-[**Ou prossiga para o diretório**](explicito.md)
+[**ou prossiga para o diretório**](explicito.md)
