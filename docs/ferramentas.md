@@ -231,13 +231,13 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Gerenciadores de mídia / automação
 
-- [Jackett](https://github.com/Jackett/Jackett) - Indexador completo. Ele permite que você adicione muitos rastreadores de torrent diferentes ao aplicativo, no qual você pode fazer todas as suas pesquisas. Em conjunto com sonarr/radarr, você pode adicionar a Jackett como um indexador a eles, permitindo que eles pesquisem em qualquer um ou em todos os rastreadores de torrent que você adicionou à jaqueta.
-- 🌟 [**Autobrr**](https://autobrr.com) - É possível configurá-lo para baixar automaticamente. De qualquer feed, você define uma regra para adicionar uma categoria, por exemplo, e ele segue o que você definiu. [**Guia**](guias/autobrr.md)
+- 🌟 [**Jackett**](https://github.com/Jackett/Jackett) - Indexador completo e local. Ele permite que você adicione e procure conteúdo em muitos rastreadores de torrent diferentes. Em conjunto com sonarr/radarr, você pode adicionar o Jackett como um indexador, permitindo que pesquisem em qualquer um dos trackers privados ou não que você adicionou ao aplicativo.
 - [Sonarr](https://sonarr.tv/) - Download automático de programas de TV onde você pode adicionar novos programas para monitorar e baixará automaticamente todos os novos episódios assim que estiverem disponíveis em sites de torrent.
 - [Radarr](https://radarr.video/) - Igual ao Sonarr, mas para filmes.
 - [Prowlarr](https://prowlarr.com/) - Faz o mesmo papel do Jackett, só que melhor.
 - [Cross-Seed](https://github.com/cross-seed/cross-seed) - Ressuscita ou encontra arquivos elegíveis e os injeta diretamente no seu cliente torrent.
 - [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Automatiza tarefas que desperdiçam tempo no qBitTorrent.
+- 🌟 [**Autobrr**](https://autobrr.com) - É possível configurá-lo para baixar automaticamente. De qualquer feed, você define uma regra para adicionar uma categoria, por exemplo, e ele segue o que você definiu. [**Guia**](guias/autobrr.md)
 - [Medusa](https://pymedusa.com/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [SickChill](https://sickchill.github.io/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [Lidarr](https://lidarr.audio/) - Um Radarr para álbuns musicais.
