@@ -94,8 +94,8 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 ## ► **Adblockers & Bypassers**
 
 - 🌟 [**uBlock Origin**](https://github.com/gorhill/uBlock#installation) - para bloquear a maioria dos anúncios e pop-ups.
-- [AdNauseam](https://adnauseam.io/) - Baseado no uBlock Origin. Projetado para ofuscar os dados de navegação e proteger os usuários do rastreamento por redes de publicidade
-- [Pi-hole](https://pi-hole.net/) - Bloqueio de anúncios em toda a rede
+- [AdNauseam](https://adnauseam.io/) - Baseado no uBlock Origin. Projetado para ofuscar os dados de navegação e proteger os usuários do rastreamento por redes de publicidade.
+- [Pi-hole](https://pi-hole.net/) - Bloqueio de anúncios em toda a rede.
 - [AdAway](https://adaway.org/) - AdAway é um bloqueador de anúncios de código aberto para Android, funciona melhor no Android (e derivados) com root.
 - [Blokada 5](https://blokada.org/) - Blokada é um bloqueador de anúncios e aplicativo voltado a privacidade no Android.
 - 🌟 [**nuMatrix**](https://codeberg.org/arek/nuMatrix) - Controla requests de terceiros, o que faz com que anúncios de urls nocivas não sejam exibidos (exemplo: embedmovies.org); preste atenção quanto a categoria XHR, pois se refere a scripts que podem ser invasivos ou maliciosos.
@@ -105,7 +105,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Mendeley Web Importer](https://www.mendeley.com/reference-management/web-importer) - Consegue fazer o mesmo que o Unpaywall faz.
 - [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Bloqueia anúncios e permite pular músicas no aplicativo de desktop do Spotify no Windows.
 - [EZblocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) - executável leve que bloqueia e silencia os anúncios do Spotify no Windows.
-- [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Bloqueia anúncios no site do Spotify
+- [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Bloqueia anúncios no site do Spotify.
 
 ## ► **Bypassers de sites de redirecionamento**
 
@@ -132,15 +132,15 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 > Alguns sites DDL podem oferecer apenas downloads por links premium, o que significa que o download do arquivo estará disponível somente por meio de um host (Nitroflare, Rapidgator...) que bloqueia o seu acesso, a menos que você esteja disposto a pagar uma assinatura para esse mesmo host. Os preços podem ser um pouco extravagantes, especialmente quando você considera que muitos sites DDL podem usar hosts de arquivos diferentes, portanto, não seria viável pagar por várias dessas assinaturas.
 
 - 🌟 **[Pago]** [**Real Debrid**](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o _torrent swarm_,, a principal causa de recebimento de cartas de violação de direitos autorais.
-- **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito do real-debrid
-- **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid
-- **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também
+- **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito do real-debrid.
+- **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid.
+- **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também.
 - [leechpremium](https://leechpremium.net/) - Este é um serviço de download gratuito com o qual você pode realizar downloads premium.
   **Desative o seu adblock e o ative novamente quando o site carregar.**
 - **[Trialware]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
 - **[Trialware]** [Leech Master](https://t.me/leechmaster_bot) - Bot do Telegram para baixar arquivos de até 100 MB de tamanho no NitroFlare (consegue burlar a necessidade de conta premium), peça para outra pessoa enviar o link se o período de teste acabar.
-- [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd
-- [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium
+- [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd.
+- [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium.
 - **[Pago]** [Linksnappy](https://linksnappy.com/) - Agregador de conteúdo que permite extrair arquivos de vários serviços de armazenamento em nuvem.
 
 ## ► Sites de rastreamento da cena / P2P
@@ -190,7 +190,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Proxies / Desbloqueadores de sites piratas
 
-- [Knaben](https://knaben.info/) - Lista de proxies conhecidos oferecidos por vários sites piratas populares
+- [Knaben](https://knaben.info/) - Lista de proxies conhecidos oferecidos por vários sites piratas populares.
 - [Torrent Mirror](https://www.torrentmirror.net/)
 - [Unblock Ninja!](https://unblockninja.com/)
 - [TorrentBay](https://torrentbay.to/)
@@ -205,7 +205,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 :::warning Cliente torrent Bitlord [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
 :::
 
-- [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent.
+- [Webtorrent](https://webtorrent.io/desktop/) - Cliente para torrents de streaming.
 - [Transmission](https://transmissionbt.com/about/) - Bem simples de usar e com abundância de torrents (5k-10k+), é bem estável na versão CLI.
 - [Transmission Web](https://www.reddit.com/r/pirataria/comments/1n3mffa/como_configurar_o_transmission_web_para_funcionar/) - Use o transmission no android pelo termux e o controle através do navegador, extremamente prático de se manusear.
 - 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que procura rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/guia-plugins-qbittorrrent.md)
@@ -224,10 +224,10 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - 🌟 [**Stremio Desktop**](https://github.com/Zaarrg/stremio-desktop-v5/releases) - Este é um aplicativo de desktop para Stremio, desenvolvido com WebView2 e Qt6, permitindo que você aproveite a versão mais recente da [interface web](https://stremio.zarg.me/) com desempenho e funções aprimoradas.
 - 🌟 [**Plex Media Server**](https://www.plex.tv/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix, pode ser configurado com o UnRaid ou TrueNAS Scale.
 - 🌟 [**Jellyfin Media Server**](https://jellyfin.org/) - Netflix auto-hospedado de código aberto. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
-- [Plexamp](https://plexamp.com/) - Plex, mas para música. Disponível em ios, mac, windows, linux e android
+- [Plexamp](https://plexamp.com/) - Plex, mas para música. Disponível em versões para ios, mac, windows, linux e android.
 - **[Pago]** [Emby Media Server](https://emby.media/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante a Netflix.
 - 🌟 [**Kodi**](https://kodi.tv/) - Centro de mídia de home theater. Hospeda seu próprio conteúdo ou adicione fontes de conteúdo online [Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/).
-- [OSMC](https://osmc.tv/) - Centro de mídia de home theater. Fork do Kodi, fornece uma interface do usuário simples para Raspberry Pi e Apple TV
+- [OSMC](https://osmc.tv/) - Centro de mídia de home theater. Fork do Kodi, fornece uma interface do usuário simples para Raspberry Pi e Apple TV.
 
 ## ► Gerenciadores de mídia / automação
 
@@ -275,7 +275,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Ferramentas de download
 
-- [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
+- [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites.
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto e muito mais.
 - [Côc Côc](https://coccoc.com/) - Navegador vietnamita que baixa vídeos da hotmart/kiwify apenas no PC.
 - [DownThemAll](https://github.com/downthemall/downthemall) - Perfeito para download massivo de arquivos.
@@ -297,7 +297,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy.
 - [Allavsoft](https://www.allavsoft.com/) - Downloader de mídia.
 - [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injector para aplicativos UWP.
-- [Fetchv](https://fetchv.net/pt-br) - Downloader de vídeos
+- [Fetchv](https://fetchv.net/pt-br) - Downloader de vídeos.
 - [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Baixa em massa de episódios de anime para vários sites, em várias resoluções, com ou sem episódios de preenchimento.
 - [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp.
 - [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download.
@@ -314,7 +314,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Ferramentas de download on-line
 
 - 🌟 [**Cobalt**](https://cobalt.tools/) - Baixe vídeos/áudios do tiktok, reddit, twitter e outros sites. Se a instância principal não funcionar com o YouTube, você pode tentar outras instâncias (as marcadas em verde são as mais seguras): https://instances.cobalt.best/.
-- [9xbuddy](https://9xbuddy.com/) - Youtube / site de download de vários sites
+- [9xbuddy](https://9xbuddy.com/) - Youtube / site para download de mídia de várias plataformas.
 - [calameodownload](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento público do Calameo como imagens ou PDFs. Acesse o site com uma VPN.
 - [Cnvmp3](https://cnvmp3.com/) - Converta vídeos do YouTube para MP3 ou MP4 e baixe-os com este conversor rápido e gratuito do YouTube. O CnvMP3 é livre de anúncios, seguro e suporta qualidade de até 320 kbps.
 - [Ezmp3](https://ezmp3.co/) - EzMP3 é o conversor de YouTube para MP3 sem anúncios que permite converter vídeos de até 12 horas de duração. Você pode cortar o áudio e escolher uma taxa de bits de 64 kbps a 320 kbps.
@@ -345,9 +345,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Pairdrop](https://pairdrop.net/) - Compartilhamento local de arquivos em seu navegador. Inspirado no AirDrop da Apple. Fork do Snapdrop.
 - [SyncThing](https://syncthing.net/) - Compartilhe arquivos/pastas entre computadores. Configure pastas compartilhadas que serão sincronizadas automaticamente entre os dispositivos.
 - [file.pizza](https://file.pizza/) - Transferências seguras de arquivos peer-to-peer. Útil para transferências rápidas de arquivos únicos.
-- [instant.io](https://instant.io/) - Mesmo conceito do file.pizza
-- [xkcd949.com](http://xkcd949.com/) - Mesmo conceito do file.pizza
-- [ShareDrop.io](https://www.sharedrop.io/) - Mesmo conceito do file.pizza
+- [instant.io](https://instant.io/) - Mesmo conceito do file.pizza.
+- [xkcd949.com](http://xkcd949.com/) - Mesmo conceito do file.pizza.
+- [ShareDrop.io](https://www.sharedrop.io/) - Mesmo conceito do file.pizza.
 - [snapdrop.net](https://snapdrop.net) - Mesmo conceito do file.pizza.
 - [wetransfer.com](https://wetransfer.com/) - Envie links autoexpiráveis ​​de até 2 GB de tamanho.
 - [LanXchange](https://github.com/tfg13/LanXchange) - Envie arquivos do PC para o Smartphone e vice-versa pelo wifi local (não usa internet).
@@ -477,8 +477,8 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 #### ► **Ferramentas para Steam**
 
 - 🌟 [**SteamDB**](https://steamdb.info/extension/) - Obtém informações de DLC para ferramentas como CreamAPI, GreenLuma e SmartSteamEmu.
-- [Steam Content Packager](https://cs.rin.ru/forum/viewtopic.php?f=29&t=77526) - Ferramenta para limpar arquivos Steam. Empacota seus arquivos do jogo Steam enquanto remove informações de identificação visando compartilhá-los com o subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) do cs.rin.ru
-- [Goldberg Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - Emulador Steam. Crackeie seu próprio jogo Steam ou os arquivos Steam limpos compartilhados no subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) do cs.rin.ru
+- [Steam Content Packager](https://cs.rin.ru/forum/viewtopic.php?f=29&t=77526) - Ferramenta para limpar arquivos Steam. Empacota seus arquivos do jogo Steam enquanto remove informações de identificação visando compartilhá-los com o subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) do cs.rin.ru.
+- [Goldberg Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - Emulador Steam. Crackeie seu próprio jogo Steam ou os arquivos Steam limpos compartilhados no subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) do cs.rin.ru.
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Emulador Steam. 
 - [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Outro emulador Steam.
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Desbloqueie todas as DLCs em jogos Steam legítimos. [Guia](https://www.reddit.com/r/pirataria/comments/1i4g3rc/comment/m7uug93/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button)
