@@ -232,7 +232,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Gerenciadores de mídia / automação
 
 - 🌟 [**Jackett**](https://github.com/Jackett/Jackett) - Indexador completo e local. Ele permite que você adicione e procure conteúdo em muitos rastreadores de torrent diferentes. Em conjunto com sonarr/radarr, você pode adicionar o Jackett como um indexador, permitindo que pesquisem em qualquer um dos trackers privados ou não que você adicionou ao aplicativo.
-- [Sonarr](https://sonarr.tv/) - Download automático de programas de TV onde você pode adicionar novos programas para monitorar e baixará automaticamente todos os novos episódios assim que estiverem disponíveis em sites de torrent.
+- [Sonarr](https://sonarr.tv/) - Download automático de programas de TV onde você pode adicionar novos programas para monitorar e baixar automaticamente novos episódios assim que estiverem disponíveis nos sites de torrent.
 - [Radarr](https://radarr.video/) - Igual ao Sonarr, mas para filmes.
 - [Prowlarr](https://prowlarr.com/) - Faz o mesmo papel do Jackett, só que melhor.
 - [Cross-Seed](https://github.com/cross-seed/cross-seed) - Ressuscita ou encontra arquivos elegíveis e os injeta diretamente no seu cliente torrent.
