@@ -197,7 +197,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Esses downloaders são rápidos, não custam nada para usar e são seguros. Escolha a plataforma de música e utilize-a sem quaisquer limitações.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/soundloaders.com/)
 
-### 🖥️ [spotDL](https://spotdl.readthedocs.io/en/latest/)
+### 🌟 [**spotDL**](https://spotdl.readthedocs.io/en/latest/)
 
 - Identifica músicas das listas de reprodução do Spotify no YouTube, baixa-as e adiciona a capa do álbum, letras e metadados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/spotdl.readthedocs.io/)
