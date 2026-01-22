@@ -215,9 +215,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto.
 - [Tixati](https://www.tixati.com/download/) - Extremamente personalizável. Todos os menus podem ser reorganizados e o esquema de cores pode ser alterado completamente.
 - [BiglyBT](https://www.biglybt.com/) - Cliente bittorrent repleto de recursos, código aberto, sem anúncios. Uma continuação do popular cliente anteriormente conhecido como Vuze.
-- [kTorrent](https://apps.kde.org/ktorrent/) - cliente Torrent para linux.
+- [kTorrent](https://apps.kde.org/ktorrent/) - Cliente torrent para linux.
 - [rTorrent](https://github.com/rakshasa/rtorrent) - Cliente de torrent baseado em terminal para linux.
-- [ruTorrent para rTorrent](https://github.com/Novik/ruTorrent) - IU de gerenciamento da Web para rtorrent.
+- [ruTorrent para rTorrent](https://github.com/Novik/ruTorrent) - IU de gerenciamento da web para o rtorrent.
 
 ## ► Centros de Mídia / Clientes
 
