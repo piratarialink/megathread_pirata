@@ -118,7 +118,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► Burladores de paywall
 
-- 🌟 [**Bypass Paywalls Clean**](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para Firefox para burlar Paywall.
+- 🌟 [**Bypass Paywalls Clean**](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para o Firefox para burlar paywalls.
 - [BrainlyBypassPaywall](https://gitlab.com/Dwyriel/Greasyfork-Scripts/-/tree/main/BrainlyBypassPaywall?ref_type=heads) - Reseta a contagem diária do Brainly para evadir o paywall de limite diário.
 - [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
 - [Bypass paywalls - Método UA](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o User-Agent para o Google Bot.
@@ -131,7 +131,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 > Alguns sites DDL podem oferecer apenas downloads por links premium, o que significa que o download do arquivo estará disponível somente por meio de um host (Nitroflare, Rapidgator...) que bloqueia o seu acesso, a menos que você esteja disposto a pagar uma assinatura para esse mesmo host. Os preços podem ser um pouco extravagantes, especialmente quando você considera que muitos sites DDL podem usar hosts de arquivos diferentes, portanto, não seria viável pagar por várias dessas assinaturas.
 
-- 🌟 **[Pago]** [**Real Debrid**](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o _torrent swarm_,, a principal causa de recebimento de cartas de violação de direitos autorais.
+- 🌟 **[Pago]** [**Real Debrid**](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o _torrent swarm_, a principal causa de recebimento de cartas de violação de direitos autorais.
 - **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito do real-debrid.
 - **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid.
 - **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também.
@@ -191,6 +191,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Proxies / Desbloqueadores de sites piratas
 
 - [Knaben](https://knaben.info/) - Lista de proxies conhecidos oferecidos por vários sites piratas populares.
+- [Deep Web Nest](https://deepwebnest.com/)
 - [Torrent Mirror](https://www.torrentmirror.net/)
 - [Unblock Ninja!](https://unblockninja.com/)
 - [TorrentBay](https://torrentbay.to/)
