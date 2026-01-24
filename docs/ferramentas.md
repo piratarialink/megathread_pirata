@@ -53,14 +53,13 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► **Ferramentas para Linux / BSD**
 
-- 🌟 [**LinuxToys**](https://linux.toys/) - Projeto tocado pelo youtuber e dev brasileiro psygreg; corrige o bug de captura de áudio do OBS, instala o waydroid, chaotic AUR, bottles (um gerenciador para o wine) e o lucidglyph - testado e estável para Debian, Ubuntu e Arch.
+- 🌟 [**LinuxToys**](https://linux.toys/) - Projeto tocado pelo youtuber e dev brasileiro psygreg; corrige o bug de captura de áudio do OBS, instala o waydroid, chaotic AUR, bottles (um gerenciador para o wine), lucidglyph e ferramentas para sysadmins - testado e estável para Debian, Ubuntu e Arch.
+- [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a descoberta de novos programas (flatpaks) e que pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de ISOs customizadas carregadas todos os dias.
-- [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor doméstico eficaz e protegido (sendo Debian no modo headless a melhor distro para essa função).
 - 🌟 [**Hints**](https://github.com/AlfredoSequeida/hints?tab=readme-ov-file) - Feito para quem já está habituado a usar sobretudo o teclado em comparação com o mouse, atente-se a configuração específica do seu gerenciador de janelas [seguindo esse passo a passo.](https://github.com/AlfredoSequeida/hints/wiki/Window-Manager-and-Desktop-Environment-Setup-Guide)
 - [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um tema GTK3/GTK4 aprovado pela comunidade.
 - [Falkon](https://flathub.org/en/apps/org.kde.falkon) - Navegador feito pela KDE para sistemas derivados do Unix, é baseado no motor de renderização QtWebEngine e vem com adblock próprio já instalado.
 - 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
-- [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a descoberta de novos programas (flatpaks) e que pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio escrito em Python; oferece separação em tags, playlists, álbuns e avaliações como recurso.
 - [Hyprland](https://hypr.land/) - O Hyprland é um compositor de janelas derivado do wayland destinado a usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
 - 🌟 [**htop**](https://htop.dev/) - Para monitorar processos do sistema executando em segundo plano através da linha de comando, você pode acionar prioridades com base em seu critério pré-definido.
