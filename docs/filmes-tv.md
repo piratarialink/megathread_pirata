@@ -375,29 +375,25 @@ _[**Outros apps para assistir filmes e séries podem ser encontrados aqui**](out
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
 
-### 🌟 [BluDV](https://bludv.xyz/)
+### 🌟 [BluDV](https://bludv1.xyz/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv.xyz/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv1.xyz/)
 
 ### 🧲 [Sem Torrent](https://semtorrent.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/semtorrent.com/)
 
-### 🧲 [Torrent dos Filmes.site](https://torrentdosfilmes.site/)
+### 🧲 [Torrent dos Filmes](https://torrentdosfilmes.site/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes.site/)
-
-### 🧲 [Comando Filmes](https://comandofilmes.xyz/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comandofilmes.xyz/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes1.xyz)
 
 ### 🧲 [HDR Torrent](https://hdrtorrent.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hdrtorrent.com/)
 
-### 🧲 [Starck Filmes](https://www.starckfilmes.com/)
+### 🧲 [Starck Filmes](https://starckfilmes-v8.com)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.starckfilmes.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/starckfilmes-v8.com)
 
 ### 🧲 [Catálogo BeTor](https://catalogo.betor.top/)
 
