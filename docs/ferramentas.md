@@ -71,8 +71,8 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**ubuntu-debullshit!**](https://github.com/polhdez/ubuntu-debullshit) - Retira a coleta de dados e os snaps da Canonical, **em versões mais recentes do Ubuntu (incluindo LTS), a telemetria é mais opt-out - você precisa desativá-la durante a instalação** - Post original por [u/klfld](https://www.reddit.com/r/linux/comments/13fj1xf/ubuntudebullshit_script_to_get_vanilla_gnome/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button).
 - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Reduz ruídos e barulho ambiente, fica atrás apenas do Easy Effects e [Tenacity (fork do Audacity)](https://tenacityaudio.org/) nesse quesito.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV com suporte para TV ao vivo, filmes e seriados. Possui desenvolvimento ativo apenas para o Mint, no entanto, pode rodar em qualquer distro com a build ou pelo [Distrobox](https://distrobox.it) (recomendado) - Repo para o circle-flags disponível em [packages-linuxmint.](http://packages.linuxmint.com/pool/main/c/circle-flags/)
-- [Czkawka](https://github.com/qarmin/czkawka) - Varredura em lote de duplicatas, pastas vazias, imagens semelhantes e outros arquivos desnecessários do sistema.
 - 🌟 [**GameMode**](https://github.com/FeralInteractive/gamemode) - Abre uma brecha para que jogos (e aplicações) recebam otimizações sem exigir tanto poder de processamento da CPU/GPU - Tópico original do [mastercomfig.](https://docs.comfig.app/latest/os/linux/#gamemode)
+- [Czkawka](https://github.com/qarmin/czkawka) - Varredura em lote de duplicatas, pastas vazias, imagens semelhantes e outros arquivos desnecessários do sistema.
 
 ## ► **Ferramentas para MacOS**
 
