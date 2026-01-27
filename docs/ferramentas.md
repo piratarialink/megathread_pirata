@@ -109,7 +109,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► **Bypassers de sites de redirecionamento**
 
-- 🌟 [**Bypass All Shortlinks Debloated**](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) - Consegue acelerar o timer e extrair o link final de páginas que te fazem esperar como a linkvertise, daughablelea, stfly-me, entre outras.
+- 🌟 [**Bypass All Shortlinks Debloated**](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated) - Consegue acelerar o timer e extrair o link final de páginas que te fazem esperar como a linkvertise, daughablelea, stfly-me, entre outras.
 - [AdsBypasser](https://adsbypasser.github.io/) - Burla anúncios do tipo contagem regressiva ou continue na página e evita janelas pop-up de anúncios.
 - [Bypass-vip](https://bypass.vip) - Outro bypasser com a mesma função.
 - [FastForward](https://github.com/FastForwardTeam/FastForward) - Extensão de navegador de código aberto para "contornar sites que fazem você esperar (como adf.ly), fazem você fazer algo (por exemplo, show.co e sub2unlock .com) e até rastreadores (como bit.ly e t.co)"
@@ -160,7 +160,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► **Userscripts úteis**
 
-- [Violentmonkey](https://violentmonkey.github.io/) - Gerenciador de userscripts de código aberto.
+- 🌟 [**Violentmonkey**](https://violentmonkey.github.io/) - Gerenciador de userscripts de código aberto.
 - [Tampermonkey](https://www.tampermonkey.net/) - Gerenciador de userscripts de código aberto.
 - [greasyfork.org](https://greasyfork.org/) - Repo para incontáveis ​​userscripts úteis.
 - [userscripts-mirror.org](https://userscripts-mirror.org/) - Repositório alternativo de scripts. Espelho para Userscripts.org.
@@ -496,7 +496,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 - [Wii U USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) - Ferramenta para baixar jogos do Cemu (coloque titlekeys.ovh no campo de 'Para o Wii U').
 - [Wii U Downloader](https://github.com/Xpl0itU/WiiUDownloader/releases/tag/v2.66) - Feito para baixar jogos (nus) de WiiU diretamente dos servidores da Nintendo. É atualizado quase que diariamente ao contrário do USB Helper.
-- [Winlator@Frost](https://github.com/MrPhryaNikFrosty/Winlator-Frost/) - Fork do emulador homônimo de Wine para Android com algumas funcionalidades extras.
+- [Winlator-Ludashi](https://github.com/StevenMXZ/Winlator-Ludashi) - Fork do emulador homônimo de Wine para Android com algumas funcionalidades extras.
 - [RetroReversing](https://www.retroreversing.com/) - Artigos de engenharia reversa voltada para retrocompatibilidade.
 - [RetroSix Wiki](https://www.retrosix.wiki/) - Explica o funcionamento e reparo de consoles retrô de uma forma simples e didática.
 - [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor/pt-br) - Dedicado a desvendar e pesquisar conteúdo removido ou inutilizado de jogos antigos.
