@@ -14,7 +14,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 1. **Ferramentas essenciais:**
 
    - Navegador: [Firefox](https://mozilla.org/firefox/new/).
-   - Extensões: [uBlock Origin](https://github.com/gorhill/uBlock) + [PopUpOFF](https://popupoff.org) + [Violentmonkey](https://violentmonkey.github.io/) junto desse [script](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated).
+   - Extensões: [uBlock Origin](https://github.com/gorhill/uBlock) + [PopUpOFF](https://popupoff.org) + [Violentmonkey](https://violentmonkey.github.io/) junto desse [script](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated).
    - Configurações recomendadas: [Veja aqui](https://take-me-to.space/UShoGZ7.png). (_Bloqueia anúncios e malware_).
 
 2. **Melhore seu DNS:**
