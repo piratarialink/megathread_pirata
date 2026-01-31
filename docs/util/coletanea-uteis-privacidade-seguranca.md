@@ -14,7 +14,7 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [Firemin](https://rizonesoft.com/downloads/firemin/) / [Chromin](https://rizonesoft.com/sdm_downloads/chromin/) - Diminui o consumo de memória RAM por navegadores derivados do Firefox e Chromium.
  
-- [privacy.sexy](https://privacy.sexy/) - Scripts para aplicar práticas recomendadas de privacidade e segurança no Windows e macOS.
+- [privacy.sexy](https://privacy.sexy/) - Scripts para aplicar patches recomendados de privacidade, segurança e debloat no Windows 11, Ubuntu e macOS.
 
 - [Shell](https://github.com/moudey/Shell) - Gerenciador multitarefa feito para o menu de contexto do Windows File Explorer.
 

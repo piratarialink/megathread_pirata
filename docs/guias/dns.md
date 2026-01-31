@@ -18,7 +18,7 @@ Este guia apresenta o passo a passo de como configurar o DNS tanto no Windows qu
 
 A seguir, listamos os provedores de DNS com servidores no Brasil, que não bloqueiam sites piratas e/ou oferecem bom desempenho para usuários brasileiros:
 
-Cloudflare DNS
+**Cloudflare DNS**
 
 - IPv4: `1.1.1.1` e `1.0.0.1`
 
@@ -26,7 +26,7 @@ Cloudflare DNS
 
 - Excelente desempenho, mas não bloqueia anúncios em sites e apps.
 
-AdGuard DNS
+**AdGuard DNS**
 
 - IPv4: `94.140.14.14` e `94.140.15.15`
 
@@ -34,13 +34,13 @@ AdGuard DNS
 
 - Especializado em bloquear anúncios e rastreadores, ideal para uma navegação mais limpa.
 
-NextDNS
+**NextDNS**
 
 - IPv4: Obtido diretamente pelo site nextdns.io
 
 - Funciona de maneira similar ao AdGuard, mas possui limitações no plano gratuito. Ao utilizar listas de bloqueios adicionais, alguns redirecionadores podem deixar de funcionar – inclusive o histórico do app YouTube – sendo necessário incluir o domínio s.youtube.com na whitelist.
 
-DNS público do Google
+**DNS público do Google**
 
 - IPv4: `8.8.8.8` e `8.8.4.4`
 

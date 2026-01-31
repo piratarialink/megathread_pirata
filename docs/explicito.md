@@ -25,7 +25,7 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 [Empornium](https://empornium.is) - Tracker de conteúdo explícito.
 
-[ExoticaZ](https://exoticaz.to) - Tracker com foco em JAV sem ou com censura (possui photobooks também.)
+[ExoticaZ](https://exoticaz.to) - Tracker com foco em JAV sem ou com censura (possui photobooks também)
 
 [Sleazyfork](https://sleazyfork.org)
 

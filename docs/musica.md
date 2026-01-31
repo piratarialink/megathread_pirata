@@ -36,7 +36,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🌟 [**Audio wareZ**](https://audioz.download/)
 
-- O AudioZ é uma biblioteca imensa com plugins para FL Studio, VSTs, vídeos educacionais e partituras.
+- O AudioZ é uma biblioteca imensa com plugins para o FL Studio, VSTs, vídeos educacionais e partituras.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audioz.download/)
 
 ### 🔗 [3ost](https://3ost.ru/) • Cadastre-se • Interface em russo
@@ -84,7 +84,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - O melhor fórum para se encontrar performances em HD de artistas internacionais, álbuns lossless e sons em AC3 (Dolby Atmos).
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/sharemania.us/)
 
-### 🔗 [SquidWTF](https://us.qobuz.squid.wtf/)
+### 🌟 [**SquidWTF**](https://us.qobuz.squid.wtf/)
 
 - Ripa áudios do Qobuz em FLAC (para transcodar em qualquer formato lossy).
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/us.qobuz.squid.wtf/)
@@ -150,6 +150,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytdn.netlify.app/)
 
+### 🌟 [**Monochrome**](https://monochrome.samidy.com/)
+
+- Permite que tu ouça músicas de vários serviços de streaming online pela WebUI, gratuito e sem anúncios, oferece download em FLAC, modo karaokê, criação de playlists, exportar/importar e etc.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytdn.netlify.app/)
+
 ### 🖥️ [Murglar](https://murglar.app/docs/en/en-index.html)
 
 - Baixa músicas do Deezer e Spotify em diferentes formatos. Um ponto negativo seu é ser um aplicativo de código fechado.
@@ -160,7 +165,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🖥️ [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui)
 
-- Um GUI wrapper multiplataforma para yt-dlp escrito em PySide6.
+- Um GUI-wrapper multiplataforma para o yt-dlp escrito em PySide6.
 
 ### 🖥️ [Nicotine+](https://nicotine-plus.org/)
 
@@ -197,7 +202,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Esses downloaders são rápidos, não custam nada para usar e são seguros. Escolha a plataforma de música e utilize-a sem quaisquer limitações.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/soundloaders.com/)
 
-### 🖥️ [spotDL](https://spotdl.readthedocs.io/en/latest/)
+### 🌟 [**spotDL**](https://spotdl.readthedocs.io/en/latest/)
 
 - Identifica músicas das listas de reprodução do Spotify no YouTube, baixa-as e adiciona a capa do álbum, letras e metadados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/spotdl.readthedocs.io/)
@@ -232,9 +237,9 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Um downloader de música e podcast do Spotify muito personalizado. É aconselhável que você utilize Zotify usando uma conta de streamer.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gitlab.com/)
 
-### 🖥️ [SpotX](https://github.com/SpotX-Official/SpotX)
+### 🌟 [**SpotX**](https://github.com/SpotX-Official/SpotX)
 
-- Bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial do Spotify. Disponibiliza temas para o client e outras personalizações.
+- Modificação do cliente oficial do Spotify que bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial. Disponibiliza temas para o client e outras personalizações.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com)
 
 ## 🔁 Ferramentas diversas
