@@ -23,10 +23,16 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.fm/)
 
+### 🌟 [Pomfy](https://pomfy.online/) / [2](https://pomfy.stream/) / [API](https://api.pomfy.stream/)
+
+- O Pomfy é um espaço com milhares de filmes e séries internacionais e nacionais, disponível tanto no idioma original, quanto dublado; sempre na melhor qualidade.
+- Baixa presença de anúncios (aparecem apenas nos players).
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pomfy.online/)
+
 ### 🌟 [Hypeflix](https://hypeflix.sbs/)
 
 - Prove do melhor do streaming nacional e internacional no seu celular ou televisão.
-- Anúncios existem, mas estes não atrapalham tanto a experiência (desative o JavaScript em sites novos com o uBlock).
+- Anúncios existem, mas estes não atrapalham tanto a experiência.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hypeflix.sbs/)
 
 ### 🌟 [Seu Seriado](https://seuseriados.com/)
@@ -60,13 +66,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Fonte para muitos filmes e séries do Betterflix.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/superflix1.cloud)
-
-### ▶️ [Pomfy](https://pomfy.online/) / [2](https://pomfy.stream/) / [API](https://api.pomfy.stream/)
-
-- Site de filmes e séries com áudios originais, dublados e legendados. Sempre na melhor qualidade.
-- Baixa presença de anúncios (aparece apenas nos players).
-- Entre no canal do [Telegram](https://t.me/pomfyfilmeseseries) e/ou servidor do [Discord](https://discord.gg/4ehXJRU54S).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pomfy.online/)
 
 ### ▶️ [NetCine](https://netcinex.si/)
 
@@ -110,7 +109,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [HydraHD](https://hydrahd.me/)
 
-- Sem precisar se inscrever, aproveite filmes e séries gratuitos em streaming na maior biblioteca.
+- Sem precisar se cadastrar, aproveite filmes e séries gratuitos em streaming na maior biblioteca.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hydrahd.me/)
 
 ### 🌟 [Cinemaos](https://cinemaos.live)
