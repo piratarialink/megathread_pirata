@@ -139,9 +139,9 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Emulador C++ gratuito e de código aberto atualmente apenas para Windows.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pj64-emu.com/)
 
-### 🔗 [GUI Mupen de Rosalie](https://github.com/Rosalie241/RMG/) • 64
+### 🔗 [Rosalie's Mupen GUI](https://github.com/Rosalie241/RMG/) • 64
 
-- Front-end para o mupen64plus baseado em C++ com uma interface de usuário simples.
+- Front-end e wrapper para o mupen64plus baseado em C++ com uma interface de usuário simples.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [**Ryujinx**](https://git.ryujinx.app/ryubing/ryujinx) • Switch
