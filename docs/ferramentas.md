@@ -20,14 +20,14 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 ## ► **Ferramentas para Windows / Office**
 
 - 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O Ohook ativa a licença do Office e o HWID ativa permanentemente o Windows 10/11, também converte a versão Retail do Office em versão de Volume. [**Guia**](guias/ativacao-office-win.md)
-- [Microsoft Toolkit](https://gitlab.com/-/project/11037551/uploads/f73eea2588a1ba5e81e529658089b20d/MTKV274.7z) - Utilitário de multipropósito: pode ativar o Windows, editar componentes e gerir a licença. Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
+- [Microsoft Toolkit](https://gitlab.com/-/project/11037551/uploads/f73eea2588a1ba5e81e529658089b20d/MTKV274.7z) - Utilitário de multipropósito: pode ativar o Windows, editar componentes e gerir a licença - Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Ferramenta de código aberto que permite renomear arquivos pelo RegEx (expressões regulares) via PowerRename e melhorar a UX para uma produtividade maior.
 - 🌟 [**TSforge**](https://massgrave.dev/tsforge) - Ativa o suporte estendido de 3 anos para dispositivos com Windows 10 professional 22H2. **Nota: a versão LTSC receberá atualizações de segurança até 2027 enquanto que a versão IoT LTSC terá suporte até 2032 - usar a licença de volume do [ODT](https://gravesoft.dev/office_c2r_custom) para baixar o pacote office e o [Alt App Installer](https://github.com/mjishnu/alt-app-installer) para baixar programas da Microsoft Store.**
-- [Winhancer](https://github.com/memstechtips/Winhance) - Feito para personalizar, desbloquear, melhorar a privacidade/desempenho e a capacidade de resposta do sistema no Windows 11.
-- [Optimizer](https://github.com/hellzerg/optimizer) - Projetado para aprimorar sua privacidade e segurança no Windows.
+- [Winhancer](https://github.com/memstechtips/Winhance) - Feito para personalizar, desbloquear, melhorar o desempenho e a capacidade de resposta do sistema no Windows 11.
+- [Optimizer](https://github.com/hellzerg/optimizer) - Projetado para aprimorar a privacidade e segurança no Windows.
 - [WinUtil](https://github.com/ChrisTitusTech/winutil) - Script do powershell feito pelo canal do YouTube Chris Titus Tech - Instala programas, ajustes, correções e atualizações.
 - 🌟 [**Sysinternals**](https://learn.microsoft.com/pt-br/sysinternals/downloads/) - Conjunto de scripts e programas destinados a usuários avançados feito pelo engenheiro de software Mark Russinovich; contém ferramentas para auditar o uso de processos no Windows e facilitar a descoberta de rootkits.
-- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (Esse programa é melhor do que parece).
+- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (esse programa é melhor do que parece).
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
 - 🌟 [**Remove WindowsAI**](https://github.com/zoicware/RemoveWindowsAI) - Remove o copilot, componentes de IA e integrações no notepad - [outros recursos podem ser desativados manualmente.](https://github.com/zoicware/RemoveWindowsAI/blob/main/OtherAIFeatures.md)
 - [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado, bem como automatiza funções.
@@ -45,7 +45,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [OS.click](https://os.click/en/Windows) - Fornece download intacto de versões mais recentes do Windows.
 - [arquivo corenoc.de](https://archive.org/details/digital_river) - ISOs do Windows 7 que estavam disponíveis no DigitalRiverContent da Microsoft CDN.
 - [the-eye.eu/public/MSDN](https://archive.org/details/MSDNArchive) - O backup de 2,7 TB do dump MSDN do antigo The Eye. Tem muitas ISOs difíceis de encontrar, Windows 7, etc.
-- [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors para LTSB, LTSC e ISOs do Windows 10 da edição do consumidor. Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431)
+- [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors para LTSB, LTSC e ISOs do Windows 10 da edição do consumidor - Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431)
 - [ISOs do Windows no NNMClub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 11 da edição do consumidor.
 - [pastebin do abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
 - [pastebin do abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
@@ -53,25 +53,25 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► **Ferramentas para Linux / BSD**
 
-- 🌟 [**LinuxToys**](https://linux.toys/) - Projeto tocado pelo youtuber e dev brasileiro psygreg; corrige o bug de captura de áudio do OBS, instala o prism launcher, waydroid, chaotic AUR, bottles (um gerenciador para o wine) e o lucidglyph - testado e estável para Debian, Ubuntu e Arch, **usuários do Fedora podem enfrentar problemas.**
+- 🌟 [**LinuxToys**](https://linux.toys/) - Projeto tocado pelo youtuber e dev brasileiro psygreg; corrige o bug de captura de áudio do OBS, instala o waydroid, chaotic AUR, bottles (um gerenciador para o wine), lucidglyph e ferramentas para sysadmins - testado e estável para Debian, Ubuntu e Arch.
+- [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a descoberta de novos programas (flatpaks) e que pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de ISOs customizadas carregadas todos os dias.
-- [HSLS](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Técnicas de hardening para sysadmins ou para quem deseja um servidor doméstico eficaz e protegido (sendo Debian no modo headless a melhor distro para essa função).
 - 🌟 [**Hints**](https://github.com/AlfredoSequeida/hints?tab=readme-ov-file) - Feito para quem já está habituado a usar sobretudo o teclado em comparação com o mouse, atente-se a configuração específica do seu gerenciador de janelas [seguindo esse passo a passo.](https://github.com/AlfredoSequeida/hints/wiki/Window-Manager-and-Desktop-Environment-Setup-Guide)
 - [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um tema GTK3/GTK4 aprovado pela comunidade.
 - [Falkon](https://flathub.org/en/apps/org.kde.falkon) - Navegador feito pela KDE para sistemas derivados do Unix, é baseado no motor de renderização QtWebEngine e vem com adblock próprio já instalado.
 - 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
-- [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a descoberta de novos programas (flatpaks) e pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio escrito em Python; oferece separação em tags, playlists, álbuns e avaliações como recurso.
 - [Hyprland](https://hypr.land/) - O Hyprland é um compositor de janelas derivado do wayland destinado a usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
-- 🌟 [**htop**](https://htop.dev/) - Para monitorar processos do sistema executando em segundo plano através da linha de comando, você pode acionar prioridades com base em seu critério pré-definido.
-- [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar diversas versões do OS X no Linux. Com suporte a GPU dedicada e a novas versões BETA + _recovery images_.
+- 🌟 [**GameMode**](https://github.com/FeralInteractive/gamemode) - Abre uma brecha para que jogos (e aplicações) recebam otimizações sem exigir tanto poder de processamento da CPU/GPU - Tópico original do [mastercomfig.](https://docs.comfig.app/latest/os/linux/#gamemode)
+- [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar diversas versões do OS X no Linux. Com suporte a GPU dedicada + macOS Tahoe.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
-- 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova anúncios da Canonical como o Ubuntu PRO e mensagens ESM com esse método. Post original do [Ask Ubuntu](https://askubuntu.com/a/1438510).
+- 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova anúncios da Canonical como o Ubuntu PRO e mensagens ESM com esse método - Post original do [Ask Ubuntu](https://askubuntu.com/a/1438510).
 - [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Port não oficial do Lossless Scaling para GNU/Linux e Steam Deck; necessita da dll do lossless scaling para funcionar, a qual você pode extrair da [versão marítima do LS sem pagar nada](https://cs.rin.ru/forum/viewtopic.php?f=41&t=94507&hilit=lossless+scallin&start=1155).
 - [KDE Plasma](https://kde.org/plasma-desktop) - DE e gerenciador de janelas com um workflow sem bugs e extremamente conveniente para FreeBSD, OpenBSD e Fedora.
-- 🌟 [**ubuntu-debullshit!**](https://github.com/polhdez/ubuntu-debullshit) - Retira a coleta de dados e os snaps da Canonical, **em versões mais recentes do Ubuntu (incluindo LTS), a telemetria é mais opt-out - você precisa desativá-la durante a instalação**. Post original por [u/klfld](https://www.reddit.com/r/linux/comments/13fj1xf/ubuntudebullshit_script_to_get_vanilla_gnome/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button).
+- 🌟 [**ubuntu-debullshit!**](https://github.com/polhdez/ubuntu-debullshit) - Retira a coleta de dados e os snaps da Canonical, **em versões mais recentes do Ubuntu (incluindo LTS), a telemetria é mais opt-out - você precisa desativá-la durante a instalação** - Post original por [u/klfld](https://www.reddit.com/r/linux/comments/13fj1xf/ubuntudebullshit_script_to_get_vanilla_gnome/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button).
 - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Reduz ruídos e barulho ambiente, fica atrás apenas do Easy Effects e [Tenacity (fork do Audacity)](https://tenacityaudio.org/) nesse quesito.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV com suporte para TV ao vivo, filmes e seriados. Possui desenvolvimento ativo apenas para o Mint, no entanto, pode rodar em qualquer distro com a build ou pelo [Distrobox](https://distrobox.it) (recomendado) - Repo para o circle-flags disponível em [packages-linuxmint.](http://packages.linuxmint.com/pool/main/c/circle-flags/)
+- 🌟 [**htop**](https://htop.dev/) - Para monitorar processos do sistema executando em segundo plano através da linha de comando, você pode acionar prioridades com base em seu critério pré-definido.
 - [Czkawka](https://github.com/qarmin/czkawka) - Varredura em lote de duplicatas, pastas vazias, imagens semelhantes e outros arquivos desnecessários do sistema.
 
 ## ► **Ferramentas para MacOS**
@@ -94,8 +94,8 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 ## ► **Adblockers & Bypassers**
 
 - 🌟 [**uBlock Origin**](https://github.com/gorhill/uBlock#installation) - para bloquear a maioria dos anúncios e pop-ups.
-- [AdNauseam](https://adnauseam.io/) - Baseado no uBlock Origin. Projetado para ofuscar os dados de navegação e proteger os usuários do rastreamento por redes de publicidade
-- [Pi-hole](https://pi-hole.net/) - Bloqueio de anúncios em toda a rede
+- [AdNauseam](https://adnauseam.io/) - Baseado no uBlock Origin. Projetado para ofuscar os dados de navegação e proteger os usuários do rastreamento por redes de publicidade.
+- [Pi-hole](https://pi-hole.net/) - Bloqueio de anúncios em toda a rede.
 - [AdAway](https://adaway.org/) - AdAway é um bloqueador de anúncios de código aberto para Android, funciona melhor no Android (e derivados) com root.
 - [Blokada 5](https://blokada.org/) - Blokada é um bloqueador de anúncios e aplicativo voltado a privacidade no Android.
 - 🌟 [**nuMatrix**](https://codeberg.org/arek/nuMatrix) - Controla requests de terceiros, o que faz com que anúncios de urls nocivas não sejam exibidos (exemplo: embedmovies.org); preste atenção quanto a categoria XHR, pois se refere a scripts que podem ser invasivos ou maliciosos.
@@ -103,13 +103,13 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [ControlD](https://controld.com/free-dns?freeResolverType=blockMalwareAndAds&helpPane=dns) - Servidor de DNS semelhante ao AdGuard que bloqueia anúncios até mesmo dentro de aplicativos.
 - [Unpaywall](https://unpaywall.org/products/extension) - Verifica se o artigo científico que você estiver lendo está disponivel para baixar gratuitamente.
 - [Mendeley Web Importer](https://www.mendeley.com/reference-management/web-importer) - Consegue fazer o mesmo que o Unpaywall faz.
-- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Bloqueia anúncios e permite pular músicas no aplicativo de desktop do Windows Spotify.
+- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Bloqueia anúncios e permite pular músicas no aplicativo de desktop do Spotify no Windows.
 - [EZblocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) - executável leve que bloqueia e silencia os anúncios do Spotify no Windows.
-- [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Bloqueia anúncios no site do Spotify
+- [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Bloqueia anúncios no site do Spotify.
 
 ## ► **Bypassers de sites de redirecionamento**
 
-- 🌟 [**Bypass All Shortlinks Debloated**](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) - Consegue acelerar o timer e extrair o link final de páginas que te fazem esperar como a linkvertise, daughablelea, stfly-me, entre outras.
+- 🌟 [**Bypass All Shortlinks Debloated**](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated) - Consegue acelerar o timer e extrair o link final de páginas que te fazem esperar como a linkvertise, daughablelea, stfly-me, entre outras.
 - [AdsBypasser](https://adsbypasser.github.io/) - Burla anúncios do tipo contagem regressiva ou continue na página e evita janelas pop-up de anúncios.
 - [Bypass-vip](https://bypass.vip) - Outro bypasser com a mesma função.
 - [FastForward](https://github.com/FastForwardTeam/FastForward) - Extensão de navegador de código aberto para "contornar sites que fazem você esperar (como adf.ly), fazem você fazer algo (por exemplo, show.co e sub2unlock .com) e até rastreadores (como bit.ly e t.co)"
@@ -118,7 +118,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► Burladores de paywall
 
-- 🌟 [**Bypass Paywalls Clean**](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para Firefox para burlar Paywall.
+- 🌟 [**Bypass Paywalls Clean**](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para o Firefox para burlar paywalls.
 - [BrainlyBypassPaywall](https://gitlab.com/Dwyriel/Greasyfork-Scripts/-/tree/main/BrainlyBypassPaywall?ref_type=heads) - Reseta a contagem diária do Brainly para evadir o paywall de limite diário.
 - [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
 - [Bypass paywalls - Método UA](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o User-Agent para o Google Bot.
@@ -131,36 +131,36 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 > Alguns sites DDL podem oferecer apenas downloads por links premium, o que significa que o download do arquivo estará disponível somente por meio de um host (Nitroflare, Rapidgator...) que bloqueia o seu acesso, a menos que você esteja disposto a pagar uma assinatura para esse mesmo host. Os preços podem ser um pouco extravagantes, especialmente quando você considera que muitos sites DDL podem usar hosts de arquivos diferentes, portanto, não seria viável pagar por várias dessas assinaturas.
 
-- 🌟 **[Pago]** [**Real Debrid**](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o _torrent swarm_,, a principal causa de recebimento de cartas de violação de direitos autorais.
-- **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito do real-debrid
-- **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid
-- **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também
+- 🌟 **[Pago]** [**Real Debrid**](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como rapidgator, uploaded, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o _torrent swarm_, a principal causa de recebimento de cartas de violação de direitos autorais.
+- **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito do real-debrid.
+- **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid.
+- **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também.
 - [leechpremium](https://leechpremium.net/) - Este é um serviço de download gratuito com o qual você pode realizar downloads premium.
   **Desative o seu adblock e o ative novamente quando o site carregar.**
 - **[Trialware]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
 - **[Trialware]** [Leech Master](https://t.me/leechmaster_bot) - Bot do Telegram para baixar arquivos de até 100 MB de tamanho no NitroFlare (consegue burlar a necessidade de conta premium), peça para outra pessoa enviar o link se o período de teste acabar.
-- [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd
-- [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium
+- [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd.
+- [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium.
 - **[Pago]** [Linksnappy](https://linksnappy.com/) - Agregador de conteúdo que permite extrair arquivos de vários serviços de armazenamento em nuvem.
 
 ## ► Sites de rastreamento da cena / P2P
 
 Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritamente como quadros de avisos e não oferecem downloads de nenhum conteúdo postado. [Guia](guias/lancamentos-predbs.md) / [Regras](https://scenerules.org/)
 
-- [predb.org](http://predb.org/) - Rastreador de cena
-- [predb.me](https://predb.me/) - Rastreador de cena
-- [predb.net](https://predb.net/) - Rastreador de cena
-- [srrdb.com](http://srrdb.com/) - Rastreador de cenas.
+- [predb.org](http://predb.org/) - Rastreador da cena.
+- [predb.me](https://predb.me/) - Rastreador da cena.
+- [predb.net](https://predb.net/) - Rastreador da cena.
+- [srrdb.com](http://srrdb.com/) - Rastreador da cena.
   Operadores de pesquisa muito úteis para filtrar resultados. Como pesquisar:
   `r:palavra_chave_da_busca`;
   `nfo:yes` ou `no` para saber se um determinado item é um arquivo NFO ou não;
   `category: cat games`, `cat tv`, `cat tv-HD`, `cat tv-HD-x264`.
-- [xrel.to/releases.html](https://www.xrel.to/releases.html) - Rastreador de cena
-- **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para versões P2P
+- [xrel.to/releases.html](https://www.xrel.to/releases.html) - Rastreador da cena.
+- **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para lançamentos P2P.
 
 ## ► **Userscripts úteis**
 
-- [Violentmonkey](https://violentmonkey.github.io/) - Gerenciador de userscripts de código aberto.
+- 🌟 [**Violentmonkey**](https://violentmonkey.github.io/) - Gerenciador de userscripts de código aberto.
 - [Tampermonkey](https://www.tampermonkey.net/) - Gerenciador de userscripts de código aberto.
 - [greasyfork.org](https://greasyfork.org/) - Repo para incontáveis ​​userscripts úteis.
 - [userscripts-mirror.org](https://userscripts-mirror.org/) - Repositório alternativo de scripts. Espelho para Userscripts.org.
@@ -175,7 +175,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Evite a instalação de aplicativos indesejados.
 - [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript para baixar legendas do youtube.
 - [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript para baixar vídeos do youtube.
-- [YouTube share url si parameter remover](https://greasyfork.org/en/scripts/474050-youtube-share-url-si-parameter-remover) - Retira o parâmetro de rastreamento do link de compartilhamento do YouTube.
+- [YouTube share url si parameter remover](https://greasyfork.org/en/scripts/474050-youtube-share-url-si-parameter-remover) - Retira o parâmetro de rastreamento do link de compartilhamento do youTube.
 - [Desbloqueie as etapas do Symbolab e verifique as soluções](https://pastebin.com/wA3QQkCj) - Userscript: [archive](https://web.archive.org/web/20200818154537/https://pastebin.com/wA3QQkCj)
 - [Unlimiteddownloader](https://github.com/A-SunsetMkt-Forks/Tampermonkey-Script/blob/main/Unlimited_downloader.js) - Baixa vídeos HLS.
 
@@ -190,7 +190,8 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Proxies / Desbloqueadores de sites piratas
 
-- [Knaben](https://knaben.info/) - Lista de proxies conhecidos oferecidos por vários sites piratas populares
+- [Knaben](https://knaben.info/) - Lista de proxies conhecidos oferecidos por vários sites piratas populares.
+- [Deep Web Nest](https://deepwebnest.com/)
 - [Torrent Mirror](https://www.torrentmirror.net/)
 - [Unblock Ninja!](https://unblockninja.com/)
 - [TorrentBay](https://torrentbay.to/)
@@ -205,7 +206,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 :::warning Cliente torrent Bitlord [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
 :::
 
-- [Webtorrent](https://webtorrent.io/desktop/) - Cliente de streaming de torrent.
+- [Webtorrent](https://webtorrent.io/desktop/) - Cliente para torrents de streaming.
 - [Transmission](https://transmissionbt.com/about/) - Bem simples de usar e com abundância de torrents (5k-10k+), é bem estável na versão CLI.
 - [Transmission Web](https://www.reddit.com/r/pirataria/comments/1n3mffa/como_configurar_o_transmission_web_para_funcionar/) - Use o transmission no android pelo termux e o controle através do navegador, extremamente prático de se manusear.
 - 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que procura rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/guia-plugins-qbittorrrent.md)
@@ -214,9 +215,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Cliente torrent de código aberto.
 - [Tixati](https://www.tixati.com/download/) - Extremamente personalizável. Todos os menus podem ser reorganizados e o esquema de cores pode ser alterado completamente.
 - [BiglyBT](https://www.biglybt.com/) - Cliente bittorrent repleto de recursos, código aberto, sem anúncios. Uma continuação do popular cliente anteriormente conhecido como Vuze.
-- [kTorrent](https://apps.kde.org/ktorrent/) - cliente Torrent para linux.
+- [kTorrent](https://apps.kde.org/ktorrent/) - Cliente torrent para linux.
 - [rTorrent](https://github.com/rakshasa/rtorrent) - Cliente de torrent baseado em terminal para linux.
-- [ruTorrent para rTorrent](https://github.com/Novik/ruTorrent) - IU de gerenciamento da Web para rtorrent.
+- [ruTorrent para rTorrent](https://github.com/Novik/ruTorrent) - IU de gerenciamento da web para o rtorrent.
 
 ## ► Centros de Mídia / Clientes
 
@@ -224,20 +225,20 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - 🌟 [**Stremio Desktop**](https://github.com/Zaarrg/stremio-desktop-v5/releases) - Este é um aplicativo de desktop para Stremio, desenvolvido com WebView2 e Qt6, permitindo que você aproveite a versão mais recente da [interface web](https://stremio.zarg.me/) com desempenho e funções aprimoradas.
 - 🌟 [**Plex Media Server**](https://www.plex.tv/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix, pode ser configurado com o UnRaid ou TrueNAS Scale.
 - 🌟 [**Jellyfin Media Server**](https://jellyfin.org/) - Netflix auto-hospedado de código aberto. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
-- [Plexamp](https://plexamp.com/) - Plex, mas para música. Disponível em ios, mac, windows, linux e android
+- [Plexamp](https://plexamp.com/) - Plex, mas para música. Disponível em versões para ios, mac, windows, linux e android.
 - **[Pago]** [Emby Media Server](https://emby.media/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante a Netflix.
 - 🌟 [**Kodi**](https://kodi.tv/) - Centro de mídia de home theater. Hospeda seu próprio conteúdo ou adicione fontes de conteúdo online [Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/).
-- [OSMC](https://osmc.tv/) - Centro de mídia de home theater. Fork do Kodi, fornece uma interface do usuário simples para Raspberry Pi e Apple TV
+- [OSMC](https://osmc.tv/) - Centro de mídia de home theater. Fork do Kodi, fornece uma interface do usuário simples para Raspberry Pi e Apple TV.
 
 ## ► Gerenciadores de mídia / automação
 
-- [Jackett](https://github.com/Jackett/Jackett) - Indexador completo. Ele permite que você adicione muitos rastreadores de torrent diferentes ao aplicativo, no qual você pode fazer todas as suas pesquisas. Em conjunto com sonarr/radarr, você pode adicionar a Jackett como um indexador a eles, permitindo que eles pesquisem em qualquer um ou em todos os rastreadores de torrent que você adicionou à jaqueta.
-- 🌟 [**Autobrr**](https://autobrr.com) - É possível configurá-lo para baixar automaticamente. De qualquer feed, você define uma regra para adicionar uma categoria, por exemplo, e ele segue o que você definiu. [**Guia**](guias/autobrr.md)
-- [Sonarr](https://sonarr.tv/) - Download automático de programas de TV onde você pode adicionar novos programas para monitorar e baixará automaticamente todos os novos episódios assim que estiverem disponíveis em sites de torrent.
+- 🌟 [**Jackett**](https://github.com/Jackett/Jackett) - Indexador completo e local. Ele permite que você adicione e procure conteúdo em muitos rastreadores de torrent diferentes. Em conjunto com sonarr/radarr, você pode adicionar o Jackett como um indexador, permitindo que pesquisem em qualquer um dos trackers privados ou não que você adicionou ao aplicativo.
+- [Sonarr](https://sonarr.tv/) - Download automático de programas de TV onde você pode adicionar novos programas para monitorar e baixar automaticamente novos episódios assim que estiverem disponíveis nos sites de torrent.
 - [Radarr](https://radarr.video/) - Igual ao Sonarr, mas para filmes.
 - [Prowlarr](https://prowlarr.com/) - Faz o mesmo papel do Jackett, só que melhor.
 - [Cross-Seed](https://github.com/cross-seed/cross-seed) - Ressuscita ou encontra arquivos elegíveis e os injeta diretamente no seu cliente torrent.
 - [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Automatiza tarefas que desperdiçam tempo no qBitTorrent.
+- 🌟 [**Autobrr**](https://autobrr.com) - É possível configurá-lo para baixar automaticamente. De qualquer feed, você define uma regra para adicionar uma categoria, por exemplo, e ele segue o que você definiu. [**Guia**](guias/autobrr.md)
 - [Medusa](https://pymedusa.com/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [SickChill](https://sickchill.github.io/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [Lidarr](https://lidarr.audio/) - Um Radarr para álbuns musicais.
@@ -246,7 +247,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Ferramentas de mídia
 
 - 🌟 [**OBS Studio**](https://github.com/obsproject/obs-studio) - Aplicativo de desktop de código aberto, tende a ser opção mais prática quando o assunto é gravação de tela.
-- [davincibox](https://github.com/zelikos/davincibox) - Instala as dependências necessárias para rodar o DaVinci Resolve (um software de edição de vídeo excelente e 90% do tempo gratuito) no Fedora.
+- [davincibox](https://github.com/zelikos/davincibox) - Instala as dependências necessárias para rodar o DaVinci Resolve (um software de edição não-linear de vídeo excelente e 90% do tempo gratuito) no Fedora.
 - [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente audio codec AC3.
 - [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
 - [VLsub](https://github.com/opensubtitles/vlsub-opensubtitles-com) - Baixa legendas diretamente pelo vlc sem ter que abrir o site do opensubtitles.
@@ -275,7 +276,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Ferramentas de download
 
-- [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
+- [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites.
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto e muito mais.
 - [Côc Côc](https://coccoc.com/) - Navegador vietnamita que baixa vídeos da hotmart/kiwify apenas no PC.
 - [DownThemAll](https://github.com/downthemall/downthemall) - Perfeito para download massivo de arquivos.
@@ -297,7 +298,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy.
 - [Allavsoft](https://www.allavsoft.com/) - Downloader de mídia.
 - [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injector para aplicativos UWP.
-- [Fetchv](https://fetchv.net/pt-br) - Downloader de vídeos
+- [Fetchv](https://fetchv.net/pt-br) - Downloader de vídeos.
 - [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Baixa em massa de episódios de anime para vários sites, em várias resoluções, com ou sem episódios de preenchimento.
 - [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp.
 - [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download.
@@ -314,7 +315,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Ferramentas de download on-line
 
 - 🌟 [**Cobalt**](https://cobalt.tools/) - Baixe vídeos/áudios do tiktok, reddit, twitter e outros sites. Se a instância principal não funcionar com o YouTube, você pode tentar outras instâncias (as marcadas em verde são as mais seguras): https://instances.cobalt.best/.
-- [9xbuddy](https://9xbuddy.com/) - Youtube / site de download de vários sites
+- [9xbuddy](https://9xbuddy.com/) - Youtube / site para download de mídia de várias plataformas.
 - [calameodownload](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento público do Calameo como imagens ou PDFs. Acesse o site com uma VPN.
 - [Cnvmp3](https://cnvmp3.com/) - Converta vídeos do YouTube para MP3 ou MP4 e baixe-os com este conversor rápido e gratuito do YouTube. O CnvMP3 é livre de anúncios, seguro e suporta qualidade de até 320 kbps.
 - [Ezmp3](https://ezmp3.co/) - EzMP3 é o conversor de YouTube para MP3 sem anúncios que permite converter vídeos de até 12 horas de duração. Você pode cortar o áudio e escolher uma taxa de bits de 64 kbps a 320 kbps.
@@ -345,9 +346,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Pairdrop](https://pairdrop.net/) - Compartilhamento local de arquivos em seu navegador. Inspirado no AirDrop da Apple. Fork do Snapdrop.
 - [SyncThing](https://syncthing.net/) - Compartilhe arquivos/pastas entre computadores. Configure pastas compartilhadas que serão sincronizadas automaticamente entre os dispositivos.
 - [file.pizza](https://file.pizza/) - Transferências seguras de arquivos peer-to-peer. Útil para transferências rápidas de arquivos únicos.
-- [instant.io](https://instant.io/) - Mesmo conceito do file.pizza
-- [xkcd949.com](http://xkcd949.com/) - Mesmo conceito do file.pizza
-- [ShareDrop.io](https://www.sharedrop.io/) - Mesmo conceito do file.pizza
+- [instant.io](https://instant.io/) - Mesmo conceito do file.pizza.
+- [xkcd949.com](http://xkcd949.com/) - Mesmo conceito do file.pizza.
+- [ShareDrop.io](https://www.sharedrop.io/) - Mesmo conceito do file.pizza.
 - [snapdrop.net](https://snapdrop.net) - Mesmo conceito do file.pizza.
 - [wetransfer.com](https://wetransfer.com/) - Envie links autoexpiráveis ​​de até 2 GB de tamanho.
 - [LanXchange](https://github.com/tfg13/LanXchange) - Envie arquivos do PC para o Smartphone e vice-versa pelo wifi local (não usa internet).
@@ -374,7 +375,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 - [PopUpOFF](https://popupoff.org/) - Impede que pop-ups e bloqueadores carreguem, componente essencial para quem detesta anúncios.
 - [Absolute Enable Right Click and Copy](https://addons.mozilla.org/pt-BR/firefox/addon/absolute-enable-right-click/) - Permite clicar com o botão direito e copiar em websites que tentam impedir isso, também pode remover proteções anti cópia para vídeos e imagens.
-- [Arquivos da Web](https://github.com/dessant/web-archives) - Arquivos da Web é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
+- [Web Archives](https://github.com/dessant/web-archives) - O "arquivos da web" é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
 - [User Agent Switcher and Manager](https://github.com/ray-lothian/UserAgent-Switcher) - Faz com que os sites pensem que você está usando outro tipo de aparelho, eficaz para achar brechas em páginas que não solicitam JavaScript ligado a todo momento como o hospedador de arquivos _anonfile.de_, por exemplo.
 - [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados. Na minha opinião, a melhor ferramenta para customizar e escurecer sites.
 - [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers/) - Separa a sua navegação na web em diferentes _containers_. O que pode parecer inútil à primeira vista, no entanto, isso confunde CDNs que tentam vigiar o seu histórico e cookies sem o seu consentimento. 
@@ -393,7 +394,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Scanbitbot](https://t.me/scanbitbot) - Mostra o ID de qualquer canal/grupo, seja ele privado ou não.
 - **[Pago]** [SMSPVA](https://smspva.com) / [SMSPool](https://smspool.net) - Número virtual internacional para contornar restrições regionalmente. Utilize uma VPN do país escolhido quando for se registrar.
 - [Tg mirror](https://github.com/viniped/tg_mirror) - Clona canais/grupos de maneira automatizada. Inicie o script com o foward_module.py.
-- [Save restricted content bot](https://t.me/Saverestrictedcont_Bot) - Use apenas em última hipótese caso não consiga salvar conteúdo protegido com o tg mirror.
+- [Save restricted content bot](https://t.me/Ai1t_src1Bot) - Use apenas em última hipótese caso não consiga salvar conteúdo protegido com o tg mirror.
 
 ## ► **Discord**
 
@@ -423,7 +424,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 ## ► **Inteligência Artificial**
 
 - 🌟 [**G4F**](https://g4f.dev/) - ChatGPT 5 local, gratuito e ilimitado. Alguns provedores como a Azure exigem de você uma chave API para o g4f.client que pode ser gerada com o seu ID de usuário do Hugging Face.
-- [reshare.dev](https://reshare.dev) - Tenha acesso ao SORA através de um invite code da comunidade, [necessário se cadastrar antes](https://emailnator.com) - Você também pode se cadastrar no aplicativo do SORA via Aurora Store + Shizuku Installer e a partir daí logar no site com uma VPN. **Nota: para ter acesso ao último modelo do Veo (outra IA voltada a criação de vídeos), fique atento à [essa lista aqui](https://fmhy.net/ai#video-generation).**
+- [reshare.dev](https://reshare.dev) - Tenha acesso ao SORA através de um código de convite da comunidade, [necessário se cadastrar antes](https://emailnator.com) - você também pode se cadastrar no aplicativo do SORA via aurora store + shizuku installer e a partir daí logar no site com uma VPN. **Nota: para ter acesso ao último modelo do Veo (outra IA voltada a criação de vídeos), fique atento à [essa lista aqui](https://fmhy.net/ai#video-generation).**
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar. **Nota:** caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura, algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6), [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) e [DIG](https://digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion/) (onion) - podem não funcionar na maior parte do tempo.
@@ -477,8 +478,8 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 #### ► **Ferramentas para Steam**
 
 - 🌟 [**SteamDB**](https://steamdb.info/extension/) - Obtém informações de DLC para ferramentas como CreamAPI, GreenLuma e SmartSteamEmu.
-- [Steam Content Packager](https://cs.rin.ru/forum/viewtopic.php?f=29&t=77526) - Ferramenta para limpar arquivos Steam. Empacota seus arquivos do jogo Steam enquanto remove informações de identificação visando compartilhá-los com o subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) do cs.rin.ru
-- [Goldberg Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - Emulador Steam. Crackeie seu próprio jogo Steam ou os arquivos Steam limpos compartilhados no subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) do cs.rin.ru
+- [Steam Content Packager](https://cs.rin.ru/forum/viewtopic.php?f=29&t=77526) - Ferramenta para limpar arquivos Steam. Empacota seus arquivos do jogo Steam enquanto remove informações de identificação visando compartilhá-los com o subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) do cs.rin.ru.
+- [Goldberg Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - Emulador Steam. Crackeie seu próprio jogo Steam ou os arquivos Steam limpos compartilhados no subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) do cs.rin.ru.
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Emulador Steam. 
 - [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Outro emulador Steam.
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Desbloqueie todas as DLCs em jogos Steam legítimos. [Guia](https://www.reddit.com/r/pirataria/comments/1i4g3rc/comment/m7uug93/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button)
@@ -495,7 +496,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 - [Wii U USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) - Ferramenta para baixar jogos do Cemu (coloque titlekeys.ovh no campo de 'Para o Wii U').
 - [Wii U Downloader](https://github.com/Xpl0itU/WiiUDownloader/releases/tag/v2.66) - Feito para baixar jogos (nus) de WiiU diretamente dos servidores da Nintendo. É atualizado quase que diariamente ao contrário do USB Helper.
-- [Winlator@Frost](https://github.com/MrPhryaNikFrosty/Winlator-Frost/) - Fork do emulador homônimo de Wine para Android com algumas funcionalidades extras.
+- [Winlator-Ludashi](https://github.com/StevenMXZ/Winlator-Ludashi) - Fork do emulador homônimo de Wine para Android com algumas funcionalidades extras.
 - [RetroReversing](https://www.retroreversing.com/) - Artigos de engenharia reversa voltada para retrocompatibilidade.
 - [RetroSix Wiki](https://www.retrosix.wiki/) - Explica o funcionamento e reparo de consoles retrô de uma forma simples e didática.
 - [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor/pt-br) - Dedicado a desvendar e pesquisar conteúdo removido ou inutilizado de jogos antigos.
