@@ -80,7 +80,7 @@ Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e cois
 
 - [enhanced-h264ify](https://github.com/alextrv/enhanced-h264ify) - Torna os vídeos compatíveis com h.264, o que pode diminuir o consumo de RAM e puxa menos do processador em comparação com o codec original que o YouTube usa.
 
-- [BlockTube](https://github.com/amitbl/blocktube) - Impede que yt shorts e vídeos com menos de mil visualizações apareçam no seu feed principal; também esconde canais por nome e ID. Usar com o [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) para remover thumbnails apelativas/feitas preguiçosamente com inteligência artificial.
+- [BlockTube](https://github.com/amitbl/blocktube) / [YTBlock](https://ytblock.netlify.app/) - Impede que yt shorts e vídeos com menos de mil visualizações apareçam no seu feed principal; também esconde canais por nome e ID - ou até mesmo por idioma através do YTBlock. Usar com o [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) para remover thumbnails apelativas/feitas preguiçosamente com inteligência artificial.
 
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Salta os anúncios que os youtubers colocam no vídeo. Usar com o [Return Youtube Dislike](https://github.com/Anarios/return-youtube-dislike).
 
