@@ -233,11 +233,6 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/lermangas.me/)
 
-#### 🌸 [BATO](https://bato.to/)
-
-- Atende leitores japoneses / coreanos com uma vasta coleção de mangás.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bato.to/)
-
 #### 🌸 [MangaFox](https://fanfox.net/)
 
 - Acesse centenas de títulos de mangá de alta qualidade gratuitamente online, com uma lista diariamente atualizada.
