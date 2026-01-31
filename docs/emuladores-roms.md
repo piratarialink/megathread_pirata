@@ -243,7 +243,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**Vimm's Lair**](https://vimm.net/)
 
-- O melhor e mais seguro site para encontrar roms. dedicado a preservação de vários sistemas e centenas de jogos.
+- O melhor e mais seguro site para encontrar roms, dedicado a preservação de vários sistemas e centenas de jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
 ### 🌟 [**r/Roms Megathread**](https://r-roms.github.io/) / [2](https://r-roms.gitlab.io/megathread/)
@@ -253,7 +253,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**Myrient**](https://myrient.erista.me/)
 
-- Coleção de videogames estruturada e acessível de mais 200 TB de tamanho.
+- Coleção de videogames estruturada e acessível de mais de 200 TB de tamanho.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/myrient.erista.me/)
 
 ### 🔗 [PSX Downloads](https://psxdownloads.us/) - Necessário Registrar-se
