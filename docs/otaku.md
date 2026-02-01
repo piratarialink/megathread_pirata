@@ -221,7 +221,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌟 [MangáFire](https://mangafire.to/)
 
-- O portal oferece uma grande seleção de quadrinhos mangá para todos os leitores e um layout amigável e simples de navegar. (Aplique o Filtro para Português BR)
+- Portal que oferece uma grande seleção de tankōbons e até mesmo kanzenbans para todos os leitores via um layout amigável e simples de navegar. (Aplique o Filtro para Português BR)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangafire.to/)
 
 #### 🌸 [Sakura Mangás](https://sakuramangas.org/)
