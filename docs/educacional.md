@@ -156,6 +156,10 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Pasta contendo as disciplinas fundamentais para concursos.
 
+### 📂 [Drive do Xand](https://drive.google.com/drive/folders/1-DjHgdiNyeGXIAmPrzyk-JjLHEqCfcuV)
+
+- Algumas gigas de documentos que foram preservados ao longo do tempo, bastante material útil para EFOMM, ESA, EsPCEx e IME.
+  
 ### 📂 [Apostilas antigas do SENAI](https://drive.google.com/drive/folders/1cidsj7wAg4iGMAvyVQtzg8pxL5D569ZS)
 
 - Sobre automação, gestão, eletricidade predial e outras áreas.
