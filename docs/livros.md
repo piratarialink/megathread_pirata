@@ -129,14 +129,18 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 - Ampla gama de livros para kindle de maneira organizada.
 
-## 🔦 Buscadores
+## 🔦 Buscadores / Indexadores
 
 ### 🌟 [Anna's Archive](https://br.annas-archive.li/)
 
 - O "acervo da anna" é um poderoso mecanismo de pesquisa cujas fontes são as _shadow libraries_ mais conhecidas e usadas amplamente: libgen. z-library, sci-hub, entre outras.
 - Constantemente muda de domínio, para checar qualquer proxy que esteja funcionando, acesse o [SLUM](https://open-slum.org/).
-
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/annas-archive.li/)
+
+### 🔍 [Boooky](https://iatizei.notion.site/Boooky-2efb6ffcf47a80e19a5fc6c4d2ac2f35)
+
+- Diretório nacional para as principais e melhores bibliotecas virtuais do momento.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/iatizei.notion.site/)
 
 ### 🔍 [Buscador de Livros Rave](https://ravebooksearch.com/)
 
