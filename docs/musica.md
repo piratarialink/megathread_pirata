@@ -152,7 +152,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🌟 [**Monochrome**](https://monochrome.samidy.com/)
 
-- Permite que tu ouça músicas de vários serviços de streaming online pela WebUI, gratuito e sem anúncios, oferece download em FLAC, modo karaokê, criação de playlists, exportar/importar e etc.
+- Permite que tu ouça músicas de vários serviços de streaming online pela WebUI, gratuito e sem anúncios, oferece download em FLAC Hi-Res, modo karaokê, criação de playlists, exportar/importar e etc.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytdn.netlify.app/)
 
 ### 🖥️ [Murglar](https://murglar.app/docs/en/en-index.html)
@@ -335,11 +335,6 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - Media player que suporta consumo contínuo de música com sua biblioteca de música centralizada.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/soundbound.app/)
-
-### 🔗 [Spowlo](https://github.com/BobbyESP/Spowlo)
-
-- Downloader do Spotify utilizando o poder do Jetpack Compose, Material You e a biblioteca spotDL Python.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [**xManager**](https://www.xmanagerapp.com/)
 
