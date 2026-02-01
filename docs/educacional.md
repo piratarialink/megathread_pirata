@@ -156,10 +156,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Pasta contendo as disciplinas fundamentais para concursos.
 
-### 📂 [Drive de Pobre](https://drivedepobre.com/)
-
-- Plataforma criada para facilitar o acesso gratuito a arquivos e conteúdos educacionais de diversas áreas de conhecimento.
-
 ### 📂 [Apostilas antigas do SENAI](https://drive.google.com/drive/folders/1cidsj7wAg4iGMAvyVQtzg8pxL5D569ZS)
 
 - Sobre automação, gestão, eletricidade predial e outras áreas.
