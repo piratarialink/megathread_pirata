@@ -262,19 +262,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Uma variedade de séries de TV, filmes, animes e documentários aclamados sem nenhum custo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/yassflix.net/)
 
-### ▶️ [Betterflix](https://betterflix.vercel.app/)
-
-- Repleto de filmes, séries, doramas, animes e canais de TV, tudo de graça. Dublado e Legendado.
-- Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
-
-### ▶️ [Pomfy](https://pomfy.online/) / [2](https://pomfy.stream/) / [API](https://api.pomfy.stream/)
-
-- Site de filmes e séries com áudios originais, dublados e legendados. Sempre na melhor qualidade.
-- Baixa presença de anúncios (aparece apenas nos players).
-- Entre no canal do [Telegram](https://t.me/pomfyfilmeseseries) e/ou servidor do [Discord](https://discord.gg/4ehXJRU54S).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pomfy.online/)
-
 ## 📺️ TV
 
 ### 🌟 [Rede Canais TV](https://redecanaistv.gl/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/)
