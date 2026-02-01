@@ -129,7 +129,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 - Ampla gama de livros para kindle de maneira organizada.
 
-## 🔦 Buscadores / Indexadores
+## 🔦 Buscadores/Indexadores
 
 ### 🌟 [Anna's Archive](https://br.annas-archive.li/)
 
