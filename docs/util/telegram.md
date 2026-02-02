@@ -4,4 +4,4 @@ Recentemente o novo admin postou um anúncio publicitário no grupo e só o remo
 
 Por tais motivos iremos cortar vínculos com o grupo do Telegram.
 
-Diante de qualquer problema sobre o canal favor não comunicar mais o time da moderação do sub r/pirataria. Grato.
+Diante de qualquer problema com relação ao canal deck pirata favor não comunicar mais o time da moderação do sub r/pirataria. Grato.
