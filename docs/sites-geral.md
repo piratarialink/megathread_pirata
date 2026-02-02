@@ -79,7 +79,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🔗 [Pirataria](https://t.me/trackerslist)
 
-- Participe da comunidade de marujos no mensageiro azul / [Nota sobre o chat](telegram.md)
+- Participe da comunidade de marujos no mensageiro azul / [Nota importante](telegram.md)
 
 ### 🤖 [Search bot](https://t.me/en_SearchBot)
 
