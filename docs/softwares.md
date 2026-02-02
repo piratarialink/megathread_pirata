@@ -42,14 +42,6 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - Softwares completos, amostras de áudio, tutoriais, e-books e vídeos podem ser encontrados aqui.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4download.net/)
 
-### 🔗 [AppNee](https://appnee.com/)
-
-:::warning Fez o upload de ativadores inseguros como o KMSPico em várias ocasiões, navegue com cautela.
-:::
-
-- Concentra-se em programas gratuitos, independentes e portáteis e dedica-se a fornecer constantemente software útil aos usuários.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/appnee.com/)
-
 ### 🔗 [Apps Torrent](https://appstorrent.ru/) • MacOS
 
 - Blog russo extremamente útil para usuários da Apple com artigos que demonstram como desativar o Gatekeeper e ter controle total sobre o terminal de comando.
@@ -155,11 +147,6 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 - Repacker de programas crackeados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/repack.me/)
-
-### 🔗 [PeskTop](https://pesktop.com/) • Interface em árabe
-
-- Recurso para Windows, Android e Mac OS, fornecendo acesso direto a montes de conteúdo crackeado.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/pesktop.com/)
 
 ### 🔗 [Scnlog](https://scnlog.me/)
 
