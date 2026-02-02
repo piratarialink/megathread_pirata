@@ -96,9 +96,14 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Jogue jogos online piratas com seus amigos, de forma gratuita com suporte de convite via Steam.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
 
-### 🔗 [ElAmigos](https://elamigos.site/)
+### 🌟 [ElEmigos](https://elenemigos.com/)
 
-- Cada versão é sem perdas, sem recodificação de áudio, vídeo ou texturas. Uma opção popular para obter novos jogos para PC.
+- Ótima seleção de videogames da Steam para instalação via arquivos zipados e sem restrições de DRM.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/elenemigos.com/)/)
+
+### 🔗 [Elamigos](https://elamigos.site/)
+
+- Releases sem perdas, sem recodificação de áudio, com vídeo + texturas. Uma opção popular para obter novos jogos para PC.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/elamigos.site/)
 
 ### 🔗 [Abandonware Games](https://abandonwaregames.net/)
@@ -193,17 +198,6 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Jogos pré-instalados totalmente gratuitos! Nenhum conteúdo foi removido ou compactado e a fonte é confiável.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamrip.com/)
 
-### 🔗 [STEAMTURN](https://steamturn.com/)
-
-- Ótima seleção de videogames da Steam para instalação sem restrições de DRM.
-- Como é um site novo, é necessário tomar o devido cuidado como baixar primeiro na VM ou na Área Restrita do Windows.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamrturn.com/)
-
-### 🔗 [GAMERROOF](https://gamerroof.com/)
-
-- Baixe games sem complicação alguma neste diretório de jogos 0800.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamerroof.com/)
-
 ### 🔗 [EPINGI](https://epingi.com/)
 
 - Outro site novo, sempre tome o devido cuidado ao fazer download como, por exemplo, baixar primeiro na VM ou na Área Restrita.
@@ -229,7 +223,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Um número considerável de jogos está disponível gratuitamente, incluindo GOG e outros lançamentos da cena.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrminatorr.com/)
 
-### 🌟 [World of PC](https://worldofpcgames.com/)
+### 🔗 [World of PC](https://worldofpcgames.com/)
 
 - Explore uma vasta coletânea de jogos para Windows, Linux e Mac.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/worldofpcgames.com/)
