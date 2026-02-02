@@ -77,7 +77,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 - Grupo para quem busca material e papo de qualidade sobre Trackers, Warez e Usenet. Não importa a fonte, seja p2p ou scene.
 
-### 🔗 [Pirataria](https://t.me/trackerslist)
+### 🔗 [Deck Pirata](https://t.me/trackerslist)
 
 - Participe da comunidade de marujos no mensageiro azul / [Nota importante](telegram.md)
 
