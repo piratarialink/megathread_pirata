@@ -111,7 +111,7 @@ export default {
           { text: "📁 Pirated Games", link: "https://rentry.org/pgames/" },
           { text: "📁 Ripped", link: "https://ripped.guide/" },
           { text: "📁 The Index", link: "https://theindex.moe/" },
-          { text: "📁 Wotaku", link: "https://wotaku.moe/" },
+          { text: "📁 Wotaku", link: "https://wotaku.wiki/" },
         ],
       },
     ],
