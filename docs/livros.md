@@ -99,11 +99,11 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/pdfroom.com/)
 
-## 💥 Quadrinhos
+## 💥 Gibis
 
 ### 🔗 [Darkseid Club](https://site.ds-club.net/)
 
-- O Darkseid Club é um grupo formado por fãs da nona arte e em especial pelo universo da editora DC Comic
+- O Darkseid Club é um grupo formado por fãs da nona arte e em especial pelo universo da editora DC Comics.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/site.ds-club.net/)
 
 ### 🔗 [HQ Now](https://www.hq-now.com/)
