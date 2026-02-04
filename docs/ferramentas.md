@@ -112,7 +112,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**Bypass All Shortlinks Debloated**](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated) - Consegue acelerar o timer e extrair o link final de páginas que te fazem esperar como a linkvertise (antigo adf.ly), daughablelea, stfly-me, entre outras.
 - [AdsBypasser](https://adsbypasser.github.io/) - Burla anúncios do tipo contagem regressiva ou continue na página e evita janelas pop-up de anúncios.
 - [Bypass-vip](https://bypass.vip) - Outro bypasser com a mesma função.
-- [FastForward](https://github.com/FastForwardTeam/FastForward) - Extensão de navegador de código aberto para "contornar sites que fazem você esperar (como adf.ly), fazem você fazer algo (por exemplo, show.co e sub2unlock .com) e até rastreadores (como bit.ly e t.co)"
+- [FastForward](https://github.com/FastForwardTeam/FastForward) - Extensão de navegador de código aberto para contornar sites que fazem você esperar, fazem você fazer algo (por exemplo, show.co e sub2unlock .com) e até rastreadores (como bit.ly e t.co).
 - [Skip Redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) - Extrai a url final de sites que funcionam como intermediários.
 - [adLBypasser](https://greasyfork.org/en/scripts/439469-adlbypasser-v1-6-ouo-io-uii-io-exe-io-bc-vc-adf-ly-more-no-ads/code) - Pode burlar links de tráfego pago rapidamente.
 
