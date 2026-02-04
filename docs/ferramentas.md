@@ -109,7 +109,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► **Bypassers de sites de redirecionamento**
 
-- 🌟 [**Bypass All Shortlinks Debloated**](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated) - Consegue acelerar o timer e extrair o link final de páginas que te fazem esperar como a linkvertise, daughablelea, stfly-me, entre outras.
+- 🌟 [**Bypass All Shortlinks Debloated**](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated) - Consegue acelerar o timer e extrair o link final de páginas que te fazem esperar como a linkvertise (antigo adf.ly), daughablelea, stfly-me, entre outras.
 - [AdsBypasser](https://adsbypasser.github.io/) - Burla anúncios do tipo contagem regressiva ou continue na página e evita janelas pop-up de anúncios.
 - [Bypass-vip](https://bypass.vip) - Outro bypasser com a mesma função.
 - [FastForward](https://github.com/FastForwardTeam/FastForward) - Extensão de navegador de código aberto para "contornar sites que fazem você esperar (como adf.ly), fazem você fazer algo (por exemplo, show.co e sub2unlock .com) e até rastreadores (como bit.ly e t.co)"
