@@ -11,7 +11,7 @@ Ajustar as configurações de DNS pode oferecer diversos benefícios, como:
 - Contorno de bloqueios de sites, como Rede Canais e Bludv;
 
 - Bloqueio de anúncios em aplicativos de dispositivos Android.
-
+.
 Este guia apresenta o passo a passo de como configurar o DNS tanto no Windows quanto em dispositivos Android.
 
 ## 1 - Principais Provedores de DNS
