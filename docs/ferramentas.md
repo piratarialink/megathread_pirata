@@ -53,7 +53,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► **Ferramentas para Linux / BSD**
 
-- 🌟 [**LinuxToys**](https://linux.toys/) - Projeto tocado pelo dev brasileiro psygreg; corrige o bug de captura de áudio do OBS, instala o waydroid, chaotic AUR, bottles (um gerenciador para o wine), lucidglyph e ferramentas para sysadmins - testado e estável para Debian, Ubuntu e Arch.
+- 🌟 [**LinuxToys**](https://linux.toys/) - Projeto tocado pelo dev brasileiro psygreg que corrige o bug de captura de áudio do OBS, instala o waydroid, chaotic AUR, bottles (um gerenciador para o wine), lucidglyph e algumas ferramentas para sysadmins - estável para Debian, Ubuntu e Arch.
 - [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a descoberta de novos programas (flatpaks) e que pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de ISOs customizadas carregadas todos os dias.
 - 🌟 [**Hints**](https://github.com/AlfredoSequeida/hints?tab=readme-ov-file) - Feito para quem já está habituado a usar sobretudo o teclado em comparação com o mouse, atente-se a configuração específica do seu gerenciador de janelas [seguindo esse passo a passo.](https://github.com/AlfredoSequeida/hints/wiki/Window-Manager-and-Desktop-Environment-Setup-Guide)
