@@ -63,12 +63,13 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 ### 🌟 [Steam Ticket Generator](https://github.com/denuvosanctuary/steam-ticket-generator)
 
 - Método já recomendado pelo cs.rin.ru que consiste no compartilhamento do token Denuvo de uma pessoa para outra.  
-- [Discord](https://discord.gg/anti-denuvo-sanctuary): Sem paywalls, sem limites, sua única e melhor opção para jogar jogos com Denuvo. [Guia](https://www.reddit.com/r/pirataria/s/oOUFLDzxvO) de como usar.
+- [Discord](https://discord.gg/anti-denuvo-sanctuary): sem paywalls, sem limites, sua única e melhor opção para jogar jogos com Denuvo. [Guia](https://www.reddit.com/r/pirataria/s/oOUFLDzxvO) de como usar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
   
 ### 🔗 [Steam Auto Crack](https://github.com/SteamAutoCracks/Steam-auto-crack)
 
-- Usa o emulador Goldberg para jogos offline que só rodam com a licença da Steam. Não crackeia jogos com Denuvo.
+- Programa GUI para jogos offline que só rodam com a licença da Steam. Remove o DRM da Steam e burla a necessidade do cliente oficial para desktop.
+- Não consegue crackear jogos com Denuvo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ## 📥 Download direto
@@ -139,14 +140,12 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 ### 🔗 [GameDrive.org](https://gamedrive.org/)
 
 - Repacks gratuitos com jogos pré-instalados de DODI, ElAmigos, FitGirl e muito mais por meio de conexões diretas de alta velocidade.
-- Não confundir com [GamesDrive](https://gamesdrive.net/) abaixo ↓
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamedrive.org/)
 
-### 🔗 [GamesDrive](https://gamesdrive.net/)
+### 🔗 [Scene.cat](https://scene.cat/)
 
 - Fórum amigável, especializado em fornecer repacks de repackers incríveis como DODI, FitGirl e outros. Aproveite os jogos!
-- Não confundir com [GameDrive](https://gamedrive.org/) acima ↑
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamesdrive.net/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/scene.cat/)
 
 ### 🔗 [GamesPCFull](https://gamepcfull.com/)
 
