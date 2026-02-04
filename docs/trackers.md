@@ -66,6 +66,13 @@ Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisa
 - H&R de 5 dias.
 - Fora do ar no momento e com retorno incerto
 
+### 🧲 [Samaritano](https://samaritano.cc/) | SAM
+
+- Conteúdo geral/UNIT3D.
+- Comunidade ativa dentro do tracker, e uma parte dedicada a entretenimento.
+- Aberto ocasionalmente para novos cadastros e aplicações.
+- Possui sistema de H&R, porém facilita construir ratio com as regras de freeleech e suporte a automação.
+
 ### 🧲 [ShaKaw](https://tracker.shakaw.com.br/entrar.php)
 
 - Animes legendados por fansubs, mangás, doramas, live actions, tokusatsus e mais.
