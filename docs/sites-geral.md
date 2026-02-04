@@ -79,7 +79,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🔗 [Deck Pirata](https://t.me/trackerslist)
 
-- Canal exclusivo para informações sobre trackers. / [Nota importante](/util/telegram.md)
+- Canal exclusivo para informações sobre trackers. / [Nota importante](https://www.reddit.com/r/pirataria/comments/1quu4ll/aviso_importante_o_rpirataria_cortou_rela%C3%A7%C3%B5es_com/)
 
 ### 🤖 [Search bot](https://t.me/en_SearchBot)
 
