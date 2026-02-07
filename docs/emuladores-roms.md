@@ -246,7 +246,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - O melhor e mais seguro site para encontrar roms, dedicado a preservação de vários sistemas e centenas de jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
-### 🌟 [**Myrient**](https://myrient.erista.me/files/Redump/)
+### 🌟 [**Myrient**](https://myrient.erista.me/files/No-Intro/)
 
 - Coleção de videogames estruturada e acessível de mais de 200 TB de tamanho.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/myrient.erista.me/)
