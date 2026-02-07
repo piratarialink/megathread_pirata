@@ -231,7 +231,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🔗 [Codelist](https://codelist.cc/v3/)
 
-- Outro site para temas e plugins _nulled_ para o wordpress, recomenda-se o uso do wordfennce.
+- Outro site para temas e plugins _nulled_ para o wordpress, recomenda-se o uso do wordfence.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/codelist.cc/)
 
 ## 🔑 Keygens & Serials
