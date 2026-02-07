@@ -224,14 +224,14 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - Você precisará entrar no Discord do dono para conseguir as senhas de alguns programas.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/vfxmed.com/)
 
-### 🔗 [SCRiPTMAFiA](https://scriptmafia.org/)
+### 🔗 [Babiato](https://babia.to/)
 
-- e-books, coleções GFX e _nulled scripts_.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scriptmafia.org/)
+- Possui um sistema próprio para testar a segurança de temas e componentes do wordpress _nulled_.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/babia.to/)
 
 ### 🔗 [Codelist](https://codelist.cc/v3/)
 
-- Temas e plugins _nulled_ para o WordPress.
+- Outro site para temas e plugins _nulled_ para o wordpress, recomenda-se o uso do wordfennce.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/codelist.cc/)
 
 ## 🔑 Keygens & Serials
