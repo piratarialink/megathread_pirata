@@ -25,7 +25,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Gerenciador de pacotes do Android, oferece uma gama de recursos para usuários com root e sem por meio do wireless debugging. Pode gerir permissões de apps, bloquear anúncios direto do componente-fonte e validar checksums.
 
-### 🔗 [AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M)
+### 🔗 [AntiSplit-M](https://github.com/FlutterGenerator/AntiSplit-M) 
 
 - Transforma .APKS/.APKM/.XAPK em .APKs, alternativa excelente para aquelas lojas proprietárias que os sites de apps modificados te obrigam a baixar.
 
@@ -48,8 +48,12 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [ReVanced](https://revanced.app)
 
-- Um gerenciador que aplica patchs e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário o APK do Youtube)
+- Um gerenciador que aplica patches e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário o APK do Youtube)
 - [Guia para aplicar ReVanced no YT (Instale a versão sugerida do YouTube via ADB)](https://www.reddit.com/r/revancedapp/comments/159zbb6/guide_youtube_revanced/)
+
+### 🔗 [Morphe Manager](https://morphe.software/)
+
+- O Morphe é um aplicativo feito para gerir modificações e fixes com facilidade no Youtube e Reddit. É de código aberto e baseado no ReVanced.
 
 ### 🔗 [Seal](https://github.com/JunkFood02/Seal)
 
@@ -70,13 +74,13 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis)
 
-- Aplicativo Android para baixar Video/Audio usando yt-dlp.
+- Aplicativo Android para baixar Video/Audio usando yt-dlp, melhor substituto para o SnapTube.
 
 ## 🍎 IOS
 
 ### 🌟 [Sidestore](https://sidestore.io/) / [AltStore](https://altstore.io/) / [Scarlet](https://usescarlet.com/)
 
-- Permite instalar aplicativos fora da App Store sem necessidade de jailbreak.
+- Permite instalar aplicativos fora da App Store sem necessidade de jailbreak. [Guia de como instalar .IPAs](https://rentry.org/how-to-install-ipa-files)
 
 ### 🌟 [LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
@@ -331,31 +335,23 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [AlveeMods](https://t.me/AlveeMods)
 
-- Apks modificados
+- Lança versões modificadas de apks da arquitetura arm64-v8a das mais variadas finalidades desde edição de vídeo até reprodutores de áudio.
 
 ### 🔗 [Raiyan Mods](https://t.me/raiyanmods)
 
-- Apks modificados, especialmente VPNs
+- Aplicativos modificados para celulares Android arm64-v8a e armeabi-v7a. Bom, especialmente com relação a VPNs e clientes modificados para o telegram.
 
 ### 🔗 [Droid Haven](https://t.me/droidhaven) • Em russo
 
-- Aplicativos modificados para Android
-
-### 🔗 [IPA Softs HUB](https://t.me/ipasoftsbot) • Em russo
-
-- IPAs modificados
-
-### 🔗 [RVX Lite](https://t.me/rvx_lite)
-
-- Mods ReVanced Advanced (Youtube, Reddit, Twitter...) modificados usando o ReVancify
+- Canal russo que publica jogos e aplicativos patcheados/crackeados para o sistema operacional Android.
 
 ### 🔗 [Re𝕍ɑnced Brasil](https://t.me/revancedbrasil)
 
-- Mods ReVanced Advanced (YouTube, Reddit, Twitter...)
+- Grupo de discussão em português sobre patches do ReVanced Manager para YouTube, Reddit e Twitter.
 
 ### 🔗 [MCPE APK Releases](https://t.me/mcperelease)
 
-- APKs do Minecraft PE com Xbox Live funcional apenas versões estáveis, sem betas
+- APKs do Minecraft PE com Xbox Live funcional apenas versões estáveis, sem betas.
 
 ## 🔦 Buscadores
 
@@ -366,7 +362,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔍 [APK Mods Search](https://apkmodsearch.pages.dev/)
 
-- Para APKs modificados, agilizando o acesso de boas fontes.
+- Para APKs modificados, agilizando o acesso a boas fontes confiáveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmodsearch.pages.dev/)
 
 ### 🔍 [ShowAppsLike](https://www.showappslike.com/)
