@@ -143,7 +143,7 @@ UniTv / BTV / Brasil TV - são IPTVs tradicionais com tv box própria (ou às ve
 **Lista .M3U**: Trata-se de uma lista que você assina (índice de um repositório de arquivos) após instalar um player como tivimate ou um add-on de IPTV no Kodi, caso você tenha uma Android TV, Mi Box/Stick ou Amazon Fire Stick na sua casa. Se não for a sua situação, logo será necessário comprar uma tv box (hardware com sistema operacional que já vem com listas .m3u prontas) dos provedores de IPTV já citados anteriormente.
 Se você já possui uma android tv ou um dos sticks, a box torna-se completamente opcional, no entanto, isso pode levar a tempos de espera e carregamento maiores.
 
-> Observação: Nunca aceite IPTVs de revendedores, consulte nosso [grupo do telegram para listas gratuitas de IPTV.](https://t.me/UnCopyGroup)
+> Observação: Nunca aceite IPTVs de revendedores, consulte nosso [grupo do lemmy para listas gratuitas de IPTV.](https://lemmy.dbzer0.com/c/pirataria)
 
 **PlayReady**: Tecnologia semelhante ao Widevine criada pela Microsoft para prevenção de cópia de mídia.
 
