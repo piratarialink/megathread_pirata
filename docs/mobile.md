@@ -74,7 +74,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis)
 
-- Aplicativo Android para baixar Video/Audio usando yt-dlp, melhor substituto para o Snaptube.
+- Aplicativo Android para baixar vídeo/áudio usando yt-dlp, melhor substituto para o Snaptube.
 
 ## 🍎 IOS
 
