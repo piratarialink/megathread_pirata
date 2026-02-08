@@ -338,7 +338,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [sandboxie+](https://sandboxie-plus.com/) - "Sandbox" para computador fraco.
 - [Hattered: Limpeza pós-infecção por malware](https://mefrraz.github.io/hattered/pages/guides/guia_de_limpeza_pos_infecao.html)
 - [Passos preliminares para evitar contaminações por malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide/)
-- [Guia do u/orchestralblend](guias/antivírus)
+- [Guia do u/orchestralblend](guias/antivirus)
 
 ## ► Compartilhamento de arquivos
 
