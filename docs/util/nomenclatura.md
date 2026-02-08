@@ -37,7 +37,7 @@ No geral, os benefícios de se ter um tracker (sobretudo privado) é ter uma var
 
 > Normalmente no final de cada arquivo é colocado o nome do grupo e/ou encoder que fez o release
 
-**WEB-DL**: Fonte do release, normalmente oriunda de plataformas online, a fonte pode variar.
+**WEB-DL**: Fonte do release, normalmente oriunda de plataformas online de streaming, a fonte pode variar.
 
 **BD-R**: Ripagem em totalidade do disco, contendo filme, extras, menu, trailers e tudo o que tiver no disco pode vir em .ISO ou aberto em BDMV.
 
