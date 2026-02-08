@@ -340,7 +340,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Raiyan Mods](https://t.me/raiyanmods)
 
-- Aplicativos modificados para celulares Android arm64-v8a e armeabi-v7a. Bom, especialmente com relação a VPNs e clientes modificados para o telegram.
+- Aplicativos modificados para celulares Android arm64-v8a e armeabi-v7a. Bom, especialmente em relação a VPNs e clientes modificados para o telegram.
 
 ### 🔗 [Droid Haven](https://t.me/droidhaven) • Em russo
 
