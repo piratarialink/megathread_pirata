@@ -344,7 +344,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Droid Haven](https://t.me/droidhaven) • Em russo
 
-- Canal russo que publica jogos e aplicativos patcheados/crackeados para o sistema operacional Android.
+- Canal russo que publica jogos e aplicativos premium patcheados/crackeados para o sistema operacional Android.
 
 ### 🔗 [Re𝕍ɑnced Brasil](https://t.me/revancedbrasil)
 
