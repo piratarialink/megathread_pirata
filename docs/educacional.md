@@ -168,7 +168,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🔗 [Polemic Knowledge Clone](https://t.me/+-eUQNwLw9G5mNDUx)
 
-- Backup do canal do Polemic.
+- Backup do canal do Polemic / [Projeto novo com o mesmo nome.](https://bio.site/bepolemic)
 
 ### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 
