@@ -62,6 +62,10 @@ Guia de como converter Mangás para Kindle com Hakuneko e KCC para aproveitá-lo
 
 Quer configurar o Jellyfin e a Família Arr de forma simples e eficiente? Este guia te mostra como fazer isso usando Docker Compose. Aprenda passo a passo a criar e gerenciar seus contêineres Docker para garantir uma experiência suave de streaming de mídia e organização de conteúdo para toda a família. Com este guia, você estará pronto para aproveitar ao máximo essas poderosas ferramentas de entretenimento em casa.
 
+## 📑 ➜ [Os piores e menos piores antivírus](guias/antivirus)
+
+O termo "malware" define vírus, trojans e afins. No geral, são arquivos maliciosos com o único objetivo de prejudicar você. Este guia fala um pouco sobre tais ameaças e também oferece uma visão geral sobre produtos de segurança que pessoalmente testamos e recomendados para usar no dia a dia ou para quando você tiver aquele arquivo suspeito chatinho com mais de 1 giga guardado no seu micro ou smartphone.
+
 ## 📑 ➜ [Guia do Orchestralblend](guias/orchestralblend.md)
 
 Alguns programas úteis. Tanto para Android quanto para Windows.
