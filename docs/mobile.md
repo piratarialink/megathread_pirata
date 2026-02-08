@@ -190,7 +190,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [Mobilism](https://forum.mobilism.org/index.php) • Necessário Cadastro
 
-- Recurso obrigatório para aplicativos e livros. Muitas pessoas confiam nele e fornecem acesso direto às versões mais recentes dos arquivos.
+- Recurso obrigatório para aplicativos e livros. Confiado pela comunidade, o site fornece acesso direto às versões mais recentes de apks modificados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/)
 
 ### 🌟 [MODYOLO](https://modyolo.com/)
