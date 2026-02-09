@@ -26,7 +26,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 🌟 [Pomfy](https://pomfy.online/) / [2](https://pomfy.stream/) / [API](https://api.pomfy.stream/)
 
 - O Pomfy é um espaço com milhares de filmes e séries internacionais e nacionais, disponível tanto no idioma original, quanto dublado; sempre na melhor qualidade.
-- Baixa presença de anúncios (aparecem apenas nos players).
+- Baixa presença de anúncios, aparecem apenas nos players - use um adblock.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pomfy.online/)
 
 ### 🌟 [Hypeflix](https://hypeflix.sbs/)
@@ -34,6 +34,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Prove do melhor do streaming nacional e internacional no seu celular ou televisão.
 - Anúncios existem, mas estes não atrapalham tanto a experiência.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hypeflix.sbs/)
+
+### 🌟 [Pobreflix](https://pobreflixtv.pw/)
+
+- Novo projeto depois que o pobreflix.cc caiu, grande acervo de filmes e shows de TV na web.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
 
 ### 🌟 [Seu Seriado](https://seuseriados.com/)
 
@@ -94,10 +99,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [Overflix](https://overflixtv.app/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/overflixtv.app/)
-
-### ▶️ [Pobreflix](https://pobreflixtv.cc/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
 
 ## 🆎 Legendados
 
