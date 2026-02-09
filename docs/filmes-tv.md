@@ -37,7 +37,8 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [Pobreflix](https://pobreflixtv.pw/)
 
-- Novo projeto depois que o pobreflix.cc caiu, grande acervo de filmes e shows de TV na web.
+- Novo projeto depois que o domínio pobreflix.cc caiu, grande acervo de filmes e shows de TV na web.
+- Lembre-se de usar um adblock.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
 
 ### 🌟 [Seu Seriado](https://seuseriados.com/)
