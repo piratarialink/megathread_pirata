@@ -3,7 +3,7 @@
 Warez refere-se à distribuição de software, jogos, filmes, cursos e outros conteúdos digitais pirateados.
 
 :::info ⚠️ Lembrete rápido
-Participe de nosso [canal do Telegram](https://t.me/trackerslist) para ser avisado quando surgir novos cadastros para Warez.
+Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para ser avisado quando surgir novos cadastros para Warez.
 :::
 
 ### 🏴‍☠️ [Megaturbo](https://megaturbo.org)
