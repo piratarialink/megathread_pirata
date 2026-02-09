@@ -190,7 +190,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Proxies / Desbloqueadores de sites piratas
 
-- [Knaben](https://knaben.info/) - Lista de proxies conhecidos oferecidos por vários sites piratas populares.
+- [Knaben](https://knaben.info/)
 - [Deep Web Nest](https://deepwebnest.com/)
 - [Torrent Mirror](https://www.torrentmirror.net/)
 - [Unblock Ninja!](https://unblockninja.com/)
