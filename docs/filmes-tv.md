@@ -285,7 +285,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [Multicanais](https://multicanais.legal/) / [2](https://multicanais.forum/)
 
-- Oferece Canais ao vivo
+- Oferece canais ao vivo e streaming de eventos esportivos como UFC e Libertadores assim que são iniciados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
 
 ### 📺️ [EmbedCanais](https://embedcanais.com/)
