@@ -268,7 +268,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - Os usuários são ajudados por este mecanismo de busca a encontrar downloads de software gratuito. Inclui interface com novos links, bem como uma lista de sites atualizados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ravesoftwaresearch.pages.dev/)
 
-## 🧵 Torrents
+## 🧵 Torrent/P2P
 
 ### 🌟 [M0nkrus](https://vk.com/monkrus) | [📣](https://t.me/m0nkrus/) • Interface em russo
 
