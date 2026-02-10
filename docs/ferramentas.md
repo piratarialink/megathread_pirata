@@ -334,7 +334,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [abuse.ch](https://abuse.ch) - Database de domínios/endereços IP usados por cibercriminosos, inclua estes dados na blocklist de seu firewall ou simplesmente use o [portmaster](https://safing.io/) (que já vem com esta lista de bloqueio por padrão).
 - [tria.ge](https://tria.ge/) - Ambiente de testes online.
 - [VirusTotal](https://www.virustotal.com/) / [Metadefender](https://metadefender.com/) - Serviços da Web que verificam arquivos e URLs.
-- [TarnKappe](https://tarnkappe.info/artikel/it-sicherheit/malware) - Notícias sobre a cena de cibersegurança. **Use um tradutor.**
+- [ycombinator.com](https://news.ycombinator.com/news) - Agregador de notícias sobre a cena de cibersegurança - **use um tradutor.**
 - [sandboxie+](https://sandboxie-plus.com/) - "Sandbox" para computador fraco.
 - [Hattered: Limpeza pós-infecção por malware](https://mefrraz.github.io/hattered/pages/guides/guia_de_limpeza_pos_infecao.html)
 - [Passos preliminares para evitar contaminações por malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide/)
@@ -510,6 +510,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 - [Brainser](https://github.com/p1ratrulezzz/brainser) - Melhor forma de ativar as IDEs do JetBrains, caso não funcione você pode tentar [isso aqui](https://www.reddit.com/r/pirataria/comments/1js9lc7/comment/mlqghtb/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button) - Post original do [Typical Society.](https://losper.net/topic/283-activation-instruction-jetbrains/)
 - [SlideDownloaders](https://slidedownloaders.com/) - Downloader gratuito do SlideShare - rápido, seguro e sem necessidade de inscrição.
 - [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de download do Terabox.
+- [TarnKappe](https://tarnkappe.info/forum/) - Fórum alemão de pirataria - use um tradutor.
 - [Unddit](https://undelete.pullpush.io) - Veja posts e comentários removidos do Reddit.
 - [SlideSaver](https://slidesaver.app/) - Downloader de Slideshare.
 - [Clonezilla](https://clonezilla.org/) - Cria pontos de restauração de imagens ISO e os salva em um pendrive.
