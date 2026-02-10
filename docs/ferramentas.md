@@ -26,7 +26,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Winhancer](https://github.com/memstechtips/Winhance) - Feito para personalizar, desbloquear, melhorar o desempenho e a capacidade de resposta do sistema no Windows 11.
 - [Optimizer](https://github.com/hellzerg/optimizer) - Projetado para aprimorar a privacidade e segurança no Windows.
 - [WinUtil](https://github.com/ChrisTitusTech/winutil) - Script do powershell feito pelo canal do YouTube Chris Titus Tech - Instala programas, ajustes, correções e atualizações.
-- 🌟 [**Sysinternals**](https://learn.microsoft.com/pt-br/sysinternals/downloads/) - Conjunto de scripts e programas destinados a usuários avançados feito pelo engenheiro de software Mark Russinovich; contém ferramentas para auditar o uso de processos no Windows e facilitar a descoberta de rootkits.
+- 🌟 [**Sysinternals**](https://learn.microsoft.com/pt-br/sysinternals/downloads/) - Conjunto de scripts e programas destinados a usuários avançados feito pelo engenheiro de software Mark Russinovich; contém ferramentas para auditar o uso de processos em sistemas Windows e facilitar a descoberta de rootkits.
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (esse programa é melhor do que parece).
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
 - 🌟 [**Remove WindowsAI**](https://github.com/zoicware/RemoveWindowsAI) - Remove o copilot, componentes de IA e integrações no notepad - [outros recursos podem ser desativados manualmente.](https://github.com/zoicware/RemoveWindowsAI/blob/main/OtherAIFeatures.md)
