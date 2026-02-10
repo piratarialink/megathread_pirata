@@ -19,7 +19,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### 🌟 [Rede Canais TV](https://redecanaistv.gs/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/)
 
-- Oferece Canais ao vivo com alta qualidade
+- Oferece uma ampla gama de canais ao vivo com a mais alta qualidade.
 - Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
 
@@ -139,7 +139,12 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - É possível assistir replays de Fórmula 1 via o sinal da Sky Sports Britânica. **Use-o no desktop.**
 
-## 🧲 Torrent
+## 🧲 Torrent/P2P
+
+### 🔗 [Ace Stream User Interface](https://acestreamui.app/)
+
+- Interface de usuário na Web que se conecta a engine do Ace Stream instalado em execução e usa sua API para busca e reprodução.
+- Execute o Ace Stream e apenas abra a interface web, ela permitirá que você encontre todos os streams disponíveis no momento e os assista no navegador / vlc / ace player / vlc remoto na TV.
 
 ### 🔗 [rutracker.org > Esportes](https://rutracker.org/forum/index.php?c=28)
 
