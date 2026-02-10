@@ -340,7 +340,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Mecanismo de busca que ajuda seus usuários a encontrar downloads de videogames gratuitos. Inclui novos links, bem como uma lista de sites atualizados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravegamesearch.pages.dev/)
 
-## 🧵 Torrents
+## 🧵 Torrent/P2P
 
 ### 🌟 [DODI Repacks](https://dodi-repacks.site/)
 
