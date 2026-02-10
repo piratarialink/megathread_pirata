@@ -25,7 +25,14 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### 🌟 [Multicanais](https://multicanais.legal/) / [2](https://multicanais.forum/)
 
+- Canais pagos e streaming de eventos esportivos como UFC e Libertadores assim que são iniciados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
+
+### 📺️ [Betterflix](https://betterflix.vercel.app/)
+
+- Transmissões ao vivo de jogos de futebol, com várias opções de canais.
+- Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
 
 ### 📺️ [TV0800](https://tv0800.pro/esportes/)
 
@@ -54,12 +61,6 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 📺️ [EmbedCanais](https://embedcanais.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/embedcanais.com/)
-  
-### 📺️ [Betterflix](https://betterflix.vercel.app/)
-
-- Transmissões ao vivo de jogos de futebol, com várias opções de canais.
-- Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
 
 ## 🏟 **Reprises**
 
