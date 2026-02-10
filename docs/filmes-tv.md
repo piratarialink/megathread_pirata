@@ -367,7 +367,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 _[**Outros apps para assistir filmes e séries podem ser encontrados aqui**](outros/filmesmobile)_
 ‎ 
 
-## 🧵 Torrents
+## 🧵 Torrent/P2P
 
 ### 🌟 [EZTV](https://eztvx.to/)
 
