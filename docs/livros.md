@@ -169,7 +169,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Plugin para o Calibre para remover DRM de livros comprados na Amazon ou Google Books.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hakuneko.download/)
 
-## 🧵 Torrents
+## 🧵 Torrent/P2P
 
 ### 🧲 [Academic Torrents](https://academictorrents.com/)
 
