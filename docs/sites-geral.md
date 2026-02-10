@@ -85,7 +85,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 - Substitui a busca nativa e obsoleta do Telegram.
 
-## 🧲 Torrents
+## 🧲 Torrent/P2P
 
 ### 🌟 [Bitmagnet](https://bitmagnet.io/setup/installation.html)
 
