@@ -206,7 +206,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 :::warning Cliente torrent Bitlord [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
 :::
 
-- [Webtorrent](https://webtorrent.io/desktop/) - Cliente para torrents de streaming.
+- [Webtorrent](https://webtorrent.io/desktop/) - Cliente para reproduzir torrents de filmes e streaming sem ter que esperar o torrent terminar baixar.
 - [Transmission](https://transmissionbt.com/about/) - Bem simples de usar e com abundância de torrents (5k-10k+), é bem estável na versão CLI.
 - [Transmission Web](https://www.reddit.com/r/pirataria/comments/1n3mffa/como_configurar_o_transmission_web_para_funcionar/) - Use o transmission no android pelo termux e o controle através do navegador, extremamente prático de se manusear.
 - 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que procura rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/guia-plugins-qbittorrrent.md)
