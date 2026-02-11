@@ -107,7 +107,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [EZblocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) - executável leve que bloqueia e silencia os anúncios do Spotify no Windows.
 - [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Bloqueia anúncios no site do Spotify.
 
-## ► **Bypassers de sites de redirecionamento**
+## ► Bypassers de sites de redirecionamento
 
 - 🌟 [**Bypass All Shortlinks Debloated**](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated) - Consegue acelerar o timer e extrair o link final de páginas que te fazem esperar como a linkvertise (antigo adf.ly), daughablelea, stfly-me, entre outras.
 - [AdsBypasser](https://adsbypasser.github.io/) - Burla anúncios do tipo contagem regressiva ou continue na página e evita janelas pop-up de anúncios.
@@ -219,7 +219,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [rTorrent](https://github.com/rakshasa/rtorrent) - Cliente de torrent baseado em terminal para linux.
 - [ruTorrent para rTorrent](https://github.com/Novik/ruTorrent) - IU de gerenciamento da web para o rtorrent.
 
-## ► Centros de Mídia / Clientes
+## ► Centros de mídia / Clientes
 
 - 🌟 [**Stremio**](https://www.stremio.com/) - Gerenciador de biblioteca para múltiplos vídeos, com suporte a plugins para transmissão de diversas fontes de mídia, incluindo torrents. Confira também o subreddit [Stremio Addons](https://www.reddit.com/r/StremioAddons/), o [guia](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/) sobre como assistir juntos e o [guia](https://pirataria.link/guias/guia-stremio) básico de como usar Stremio. Sobre seeds, veja essa [nota](https://pirataria.link/outros/stremio).
 - 🌟 [**Stremio Desktop**](https://github.com/Zaarrg/stremio-desktop-v5/releases) - Este é um aplicativo de desktop para Stremio, desenvolvido com WebView2 e Qt6, permitindo que você aproveite a versão mais recente da [interface web](https://stremio.zarg.me/) com desempenho e funções aprimoradas.
@@ -328,7 +328,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - **[Pago]** [ultra.cc](https://ultra.cc/) - De 1 até 50 Gbps de bandwidth no plano básico, estabeleça um [limite](./images/ultra.png) de semeação dentro do qBit para não prejudicar outros usuários.
 - **[Pago]** [whatbox.ca](https://whatbox.ca/plans) - Servidor localizado nos EUA (excelente para brasileiros) e maior tráfego se comparado com o ultra seedbox.
 
-## ► **Segurança**
+## ► Segurança
 
 - [av-comparatives.org](https://www.av-comparatives.org/) - Análises de proteção antivírus.
 - [abuse.ch](https://abuse.ch) - Database de domínios/endereços IP usados por cibercriminosos, inclua estes dados na blocklist de seu firewall ou simplesmente use o [portmaster](https://safing.io/) (que já vem com esta lista de bloqueio por padrão).
@@ -354,7 +354,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [wetransfer.com](https://wetransfer.com/) - Envie links autoexpiráveis ​​de até 2 GB de tamanho.
 - [LanXchange](https://github.com/tfg13/LanXchange) - Envie arquivos do PC para o Smartphone e vice-versa pelo wifi local (não usa internet).
 
-## ► **Hospedagem de arquivos**
+## ► Hospedagem de arquivos
 
 - [IPFS](https://github.com/ipfs/ipfs-desktop/releases) - Serve arquivos que podem ser preservados temporariamente em cache ou pinados e assim armazenados para sempre. O conteúdo pode ser acessado tanto por um node seu quanto por [gateways públicas](https://ipfs.github.io/public-gateway-checker/) ou privadas.
 - [catbox.moe](https://catbox.moe/) - Upload de vídeos (webm, mp4) e imagens. Não permite arquivos .exe, .scr, .cpl, .doc e .jar. 
@@ -364,7 +364,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - **[Pago]** [Filedot](https://filedot.to/) - Hospedagem na nuvem, muito semelhante ao Mega.
 - [Take-me-to-space](https://take-me-to.space/) - Hospeda imagens. Necessário se cadastrar antes de começar a utilizar.
 
-## ► **Renomeação de arquivos**
+## ► Renomeação de arquivos
 
 - **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Cinderela.Baiana.2005.1080p.BluRay.DD5.x264). [Guia](https://mefrraz.github.io/hattered/pages/guides/organizar_ficheiros_com_filebot.html)
 - [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Mesmo conceito do filebot, mas gratuito.
@@ -372,7 +372,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Ant Renamer](https://antp.be/software/renamer) - Ótimo para gerenciamento rápido de strings em massa (para Plex, por exemplo).
 - [Bulk Renamer Utility](http://www.bulkrenameutility.co.uk/) - Outra forma de renomear arquivos de maneira rápida.
 
-## ► **Extensões**
+## ► Extensões
 
 - [PopUpOFF](https://popupoff.org/) - Impede que pop-ups e bloqueadores carreguem, componente essencial para quem detesta anúncios.
 - [Absolute Enable Right Click and Copy](https://addons.mozilla.org/pt-BR/firefox/addon/absolute-enable-right-click/) - Permite clicar com o botão direito e copiar em websites que tentam impedir isso, também pode remover proteções anti cópia para vídeos e imagens.
