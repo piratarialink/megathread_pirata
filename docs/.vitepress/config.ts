@@ -58,7 +58,7 @@ export default {
     sidebar: [
       {
         text: "Tópicos",
-        collapsible: true,
+        collapsed: false,
         items: [
           { text: "⚓️ Perguntas Frequentes", link: "faq" },
           { text: "🧭 Uso Geral", link: "sites-geral" },
@@ -76,8 +76,14 @@ export default {
           { text: "🌊 Trackers", link: "trackers" },
           { text: "🏴‍☠️ Warez", link: "warez" },
           { text: "☣️ Sites e Programas Perigosos", link: "sites-inseguros" },
-          { text: "🚫 Adulto", link: "adulto" },
         ],
+      },
+      {
+      text: 'Outros',
+      collapsed: true,
+      items: [
+        { text: "🚫 Adulto", link: "adulto" },
+      ]
       },
       {
         text: "Recomendado",
