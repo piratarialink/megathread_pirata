@@ -148,15 +148,15 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### 🔗 [rutracker.org > Esportes](https://rutracker.org/forum/index.php?c=28)
 
-- Subfórum de esportes no rutracker.
+- Subfórum em russo de esportes no rutracker, use um tradutor como o [TWP](https://github.com/FilipePS/Traduzir-paginas-web) no firefox - torrent de eventos olímpicos de verão e inverno, futebol, hóquei, luta livre e demais categorias.
 
 ### 🔗 [Sport Video](https://www.sport-video.org.ua/)
 
-- Torrent de futebol, corrida, beisebol, basquete, futebol, hóquei, rugby, e outros esportes.
+- Torrent de corrida, beisebol, basquete, futebol, hóquei, rugby, e outros esportes. Junte-se ao canal do Telegram para conteúdo adicional que não está disponível no portal oficial.
 
 ### 🔗 [F1Carreras](https://f1carreras.xyz/application)
 
-- Tracker privado focado em streaming 4k para fãs de automobilismo.
+- Tracker privado focado em streaming 4k para fãs de automobilismo (e compartilhamento de mídia digital).
 
 ---
 
