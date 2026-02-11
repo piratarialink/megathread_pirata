@@ -3,7 +3,7 @@
 ‎ 
 ‎ 
 
-Aqui está uma compilação que fui acumulando com o tempo de _bookmarks_ e coisas úteis para quase tudo.
+Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coisas úteis para quase tudo.
 ‎ 
 
 ---
