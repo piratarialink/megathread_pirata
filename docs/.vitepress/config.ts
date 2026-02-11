@@ -79,13 +79,6 @@ export default {
         ],
       },
       {
-      text: 'Diversos',
-      collapsed: true,
-      items: [
-        { text: "🚫 Adulto", link: "/outros/adulto.md" },
-      ]
-      },
-      {
         text: "Recomendado",
         collapsible: true,
         items: [
@@ -119,6 +112,13 @@ export default {
           { text: "📁 The Index", link: "https://theindex.moe/" },
           { text: "📁 Wotaku", link: "https://wotaku.wiki/" },
         ],
+      },
+      {
+      text: 'Diversos',
+      collapsed: true,
+      items: [
+        { text: "🚫 Adulto", link: "/outros/adulto.md" },
+      ]
       },
     ],
     editLink: {
