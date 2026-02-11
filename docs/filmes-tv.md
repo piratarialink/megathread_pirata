@@ -283,9 +283,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Aqui estãos algumas threads populares com listas IPTV grátis: [1](https://htforum.net/forums/iptv-e-servicos-de-streaming.96/), [2](https://htforum.net/threads/lista-iptv-gratis.4288/) e [3](https://htforum.net/threads/iptv-gratis-tv-aberta.86/#).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/htforum.net/)
 
-### 🌟 [Multicanais](https://multicanais.legal/) / [2](https://multicanais.forum/)
+### 🌟 [Multicanais](https://multicanaishd.bid/) / [2](https://multicanaishd.best/)
 
 - Oferece canais ao vivo e streaming de eventos esportivos como UFC e Libertadores assim que são iniciados.
+- Anúncios enfadonhos existem mas estes podem ser burlados com o PopUpOFF.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
 
 ### 📺️ [EmbedCanais](https://embedcanais.com/)
