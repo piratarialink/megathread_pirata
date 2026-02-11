@@ -156,7 +156,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### 🔗 [F1Carreras](https://f1carreras.xyz/application)
 
-- Tracker privado focado em streaming 4k para fãs de automobilismo (e compartilhamento de mídia digital).
+- Tracker privado focado em streaming 4k e HD para fãs de automobilismo (e compartilhamento de mídia digital).
 
 ---
 
