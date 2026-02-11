@@ -78,8 +78,7 @@ export default {
           { text: "☣️ Sites e Programas Perigosos", link: "sites-inseguros" },
         ],
       },
-      {
-      text: 'Outros',
+      text: 'Diversos',
       collapsed: true,
       items: [
         { text: "🚫 Adulto", link: "adulto" },
