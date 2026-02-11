@@ -150,10 +150,10 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytdn.netlify.app/)
 
-### 🌟 [**Monochrome**](https://monochrome.samidy.com/)
+### 🌟 [**Monochrome**](https://monochrome.samidy.com/) / [2](https://monochrome.tf/) / [3](https://monochrome.prigoana.com/) / [4](https://monochrome-back.pages.dev/)
 
 - Permite que tu ouça músicas de vários serviços de streaming online pela WebUI, gratuito e sem anúncios, oferece download em FLAC Hi-Res, modo karaokê, criação de playlists, exportar/importar e etc.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytdn.netlify.app/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/monochrome.samidy.com/)
 
 ### 🖥️ [Murglar](https://murglar.app/docs/en/en-index.html)
 

@@ -17,7 +17,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - Muitas dessas ferramentas que acionarem seu navegador, Windows Defender e antivírus pessoal, são falsos positivos.
   :::
 
-## ► **Ferramentas para Windows / Office**
+## ► Ferramentas para Windows / Office
 
 - 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O Ohook ativa a licença do Office e o HWID ativa permanentemente o Windows 10/11, também converte a versão Retail do Office em versão de Volume. [**Guia**](guias/ativacao-office-win.md)
 - [Microsoft Toolkit](https://gitlab.com/-/project/11037551/uploads/f73eea2588a1ba5e81e529658089b20d/MTKV274.7z) - Utilitário de multipropósito: pode ativar o Windows, editar componentes e gerir a licença - Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
@@ -38,7 +38,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [AME Wizard](https://ameliorated.io) - Outro fixer para o Windows 11.
 - 🌟 [**Windhawk**](https://windhawk.net/) - Alguns ajustes extras como customização da barra de tarefas (diminuir ou aumentar os ícones - torna-lá translúcida com o translucenttb), restaurar o antigo menu de contexto e corrigir o uso das teclas em dois monitores.
 
-## ► **Downloads modificados/intactos do Windows e do Office**
+## ► Downloads modificados/intactos do Windows e do Office
 
 - 🌟 [**GIM**](https://massgrave.dev/genuine-installation-media) - ISOs do Windows para rodar máquinas virtuais. Versões antigas do Office (2016/2013) também podem ser baixadas gratuitamente.
 - [files.rg-adguard.net](https://files.rg-adguard.net/) - Substituto do tb.rg-adguard.net.
@@ -51,10 +51,10 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [pastebin do abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
 - [Microsoft Media Creation Tool](https://www.microsoft.com/pt-br/software-download/windows10) - Página da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
 
-## ► **Ferramentas para Linux / BSD**
+## ► Ferramentas para Linux / BSD
 
 - 🌟 [**LinuxToys**](https://linux.toys/) - Projeto tocado pelo dev brasileiro psygreg que corrige o bug de captura de áudio do OBS, instala o waydroid, chaotic AUR, bottles (um gerenciador para o wine), lucidglyph e algumas ferramentas para sysadmins - estável para Debian, Ubuntu e Arch.
-- [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a descoberta de novos programas (flatpaks) e que pode substituir o Snap Store (propriedade da Canonical) no Ubuntu.
+- [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a compatibilidade dos programas entre as distribuições através do flatpak - pode substituir o Snap Store da Canonical.
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de ISOs customizadas carregadas todos os dias.
 - 🌟 [**Hints**](https://github.com/AlfredoSequeida/hints?tab=readme-ov-file) - Feito para quem já está habituado a usar sobretudo o teclado em comparação com o mouse, atente-se a configuração específica do seu gerenciador de janelas [seguindo esse passo a passo.](https://github.com/AlfredoSequeida/hints/wiki/Window-Manager-and-Desktop-Environment-Setup-Guide)
 - [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um tema GTK3/GTK4 aprovado pela comunidade.
@@ -74,7 +74,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**htop**](https://htop.dev/) - Para monitorar processos do sistema executando em segundo plano através da linha de comando, você pode acionar prioridades com base em seu critério pré-definido.
 - [Czkawka](https://github.com/qarmin/czkawka) - Varredura em lote de duplicatas, pastas vazias, imagens semelhantes e outros arquivos desnecessários do sistema.
 
-## ► **Ferramentas para MacOS**
+## ► Ferramentas para MacOS
 
 - 🌟 [**FMHY - Hackintosh**](https://fmhy.net/system-tools#hackintosh) - Algumas recomendações úteis.
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Imagens do OSX para criar pendrives bootáveis com hackintosh (pelo menos de versões que ainda suportam o processador da intel). [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
@@ -91,7 +91,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - **[Pago]** [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - Limita o uso da Internet e envio de dados para servidores específicos.
 - [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Para iMacs antigos que não suportam a versão mais atual do sistema.
 
-## ► **Adblockers & Bypassers**
+## ► Adblockers & Bypassers
 
 - 🌟 [**uBlock Origin**](https://github.com/gorhill/uBlock#installation) - para bloquear a maioria dos anúncios e pop-ups.
 - [AdNauseam](https://adnauseam.io/) - Baseado no uBlock Origin. Projetado para ofuscar os dados de navegação e proteger os usuários do rastreamento por redes de publicidade.
@@ -107,7 +107,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [EZblocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) - executável leve que bloqueia e silencia os anúncios do Spotify no Windows.
 - [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Bloqueia anúncios no site do Spotify.
 
-## ► **Bypassers de sites de redirecionamento**
+## ► Bypassers de sites de redirecionamento
 
 - 🌟 [**Bypass All Shortlinks Debloated**](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated) - Consegue acelerar o timer e extrair o link final de páginas que te fazem esperar como a linkvertise (antigo adf.ly), daughablelea, stfly-me, entre outras.
 - [AdsBypasser](https://adsbypasser.github.io/) - Burla anúncios do tipo contagem regressiva ou continue na página e evita janelas pop-up de anúncios.
@@ -158,7 +158,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [xrel.to/releases.html](https://www.xrel.to/releases.html) - Rastreador da cena.
 - **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Rastreador para lançamentos P2P.
 
-## ► **Userscripts úteis**
+## ► Userscripts úteis
 
 - 🌟 [**Violentmonkey**](https://violentmonkey.github.io/) - Gerenciador de userscripts de código aberto.
 - [Tampermonkey](https://www.tampermonkey.net/) - Gerenciador de userscripts de código aberto.
@@ -219,7 +219,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [rTorrent](https://github.com/rakshasa/rtorrent) - Cliente de torrent baseado em terminal para linux.
 - [ruTorrent para rTorrent](https://github.com/Novik/ruTorrent) - IU de gerenciamento da web para o rtorrent.
 
-## ► Centros de Mídia / Clientes
+## ► Centros de mídia / Clientes
 
 - 🌟 [**Stremio**](https://www.stremio.com/) - Gerenciador de biblioteca para múltiplos vídeos, com suporte a plugins para transmissão de diversas fontes de mídia, incluindo torrents. Confira também o subreddit [Stremio Addons](https://www.reddit.com/r/StremioAddons/), o [guia](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/) sobre como assistir juntos e o [guia](https://pirataria.link/guias/guia-stremio) básico de como usar Stremio. Sobre seeds, veja essa [nota](https://pirataria.link/outros/stremio).
 - 🌟 [**Stremio Desktop**](https://github.com/Zaarrg/stremio-desktop-v5/releases) - Este é um aplicativo de desktop para Stremio, desenvolvido com WebView2 e Qt6, permitindo que você aproveite a versão mais recente da [interface web](https://stremio.zarg.me/) com desempenho e funções aprimoradas.
@@ -328,7 +328,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - **[Pago]** [ultra.cc](https://ultra.cc/) - De 1 até 50 Gbps de bandwidth no plano básico, estabeleça um [limite](./images/ultra.png) de semeação dentro do qBit para não prejudicar outros usuários.
 - **[Pago]** [whatbox.ca](https://whatbox.ca/plans) - Servidor localizado nos EUA (excelente para brasileiros) e maior tráfego se comparado com o ultra seedbox.
 
-## ► **Segurança**
+## ► Segurança
 
 - [av-comparatives.org](https://www.av-comparatives.org/) - Análises de proteção antivírus.
 - [abuse.ch](https://abuse.ch) - Database de domínios/endereços IP usados por cibercriminosos, inclua estes dados na blocklist de seu firewall ou simplesmente use o [portmaster](https://safing.io/) (que já vem com esta lista de bloqueio por padrão).
@@ -372,7 +372,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Ant Renamer](https://antp.be/software/renamer) - Ótimo para gerenciamento rápido de strings em massa (para Plex, por exemplo).
 - [Bulk Renamer Utility](http://www.bulkrenameutility.co.uk/) - Outra forma de renomear arquivos de maneira rápida.
 
-## ► **Extensões**
+## ► Extensões
 
 - [PopUpOFF](https://popupoff.org/) - Impede que pop-ups e bloqueadores carreguem, componente essencial para quem detesta anúncios.
 - [Absolute Enable Right Click and Copy](https://addons.mozilla.org/pt-BR/firefox/addon/absolute-enable-right-click/) - Permite clicar com o botão direito e copiar em websites que tentam impedir isso, também pode remover proteções anti cópia para vídeos e imagens.
@@ -387,22 +387,23 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - Extensão já recomendada pelo FMHY que impede que domínios usem APIs baseadas em JavaScript para coletar a impressão digital de seu _browser_.
 - [LocalCDN](https://www.localcdn.org/) - Melhor alternativa para o Decentraleyes, redireciona requisições de bibliotecas web mais comuns (aka Cloudflare CDN) para uma versão armazenada localmente, reduzindo uso de dados e aumentando sua privacidade.
 
-## ► **Telegram**
+## ► Telegram
 
+- [tdl](https://docs.iyear.me/tdl/) - Aplicativo CLI no desktop para encaminhar mensagens de chats restritos via um post por vez, também te permite upar/exportar qualquer conteúdo de canais abertos.
 - [Vidsender](https://github.com/viniped/vidsender) - Método mais fácil para upar vários vídeos de uma vez só de forma organizada.
 - [Forkgram](https://github.com/Forkgram/TelegramAndroid) - Melhoria visível na velocidade de upload e download em dispositivos Android.
-- [tg-archive](https://github.com/knadh/tg-archive) - Arquiva grupos no formato HTML estático.
+- [tg-archive](https://github.com/knadh/tg-archive) - Arquiva grupos como páginas de HTML estático na web.
 - [Scanbitbot](https://t.me/scanbitbot) - Mostra o ID de qualquer canal/grupo, seja ele privado ou não.
 - **[Pago]** [SMSPVA](https://smspva.com) / [SMSPool](https://smspool.net) - Número virtual internacional para contornar restrições regionalmente. Utilize uma VPN do país escolhido quando for se registrar.
 - [Tg mirror](https://github.com/viniped/tg_mirror) - Clona canais/grupos de maneira automatizada. Inicie o script com o foward_module.py.
-- [Save restricted content bot](https://t.me/Ai1t_src1Bot) - Use apenas em última hipótese caso não consiga salvar conteúdo protegido com o tg mirror.
+- [Save restricted content bot](https://t.me/Ai1t_src1Bot) - Use apenas em última hipótese caso não consiga salvar conteúdo protegido com o tg mirror/tdl.
 
-## ► **Discord**
+## ► Discord
 
 - [Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - Diretório de clientes não-oficiais, como o Revenge (Android) e BetterDiscord (PC).
 - [Porque é que não se pode confiar no Discord](/outros/discord.md)
 
-## ► **Tor**
+## ► Tor
 
 :::warning O pirataria.link não se responsabiliza por links, endereços de phishing, conteúdo ou eventuais perdas causadas dentro da rede.
 :::
@@ -414,7 +415,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Suprbay](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/)
 - [Autodefesa digital](http://tdtf5fdpfjgpxci4pqrtr5cvmsytqu25c2kdbflllz37k5glz6bexcyd.onion/)
 
-## ► **VPS grátis**
+## ► VPS grátis
 
 > Para hospedar servidores próprios de rust, minecraft, bot do telegram, storage e outros projetos.
 Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](https://www.tabnews.com.br/JuanMathewsRebelloSantos/por-tudo-que-e-mais-sagrado-pare-de-usar-vps-cara-aqui-vai-algumas-dicas-matadoras)
@@ -422,7 +423,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter.
 - [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado na China para burlar o firewall. A velocidade pode cair drasticamente por conta de sua finalidade citada anteriormente.
 
-## ► **Inteligência Artificial**
+## ► Inteligência Artificial
 
 - 🌟 [**G4F**](https://g4f.dev/) - ChatGPT 5 local, gratuito e ilimitado. Alguns provedores como a Azure exigem de você uma chave API para o g4f.client que pode ser gerada com o seu ID de usuário do Hugging Face.
 - [reshare.dev](https://reshare.dev) - Tenha acesso ao SORA através de um código de convite da comunidade, [necessário se cadastrar antes](https://emailnator.com) - você também pode se cadastrar no aplicativo do SORA via aurora store + shizuku installer e a partir daí logar no site com uma VPN. **Nota: para ter acesso ao último modelo do Veo (outra IA voltada a criação de vídeos), fique atento à [essa lista aqui](https://fmhy.net/ai#video-generation).**
@@ -433,13 +434,13 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado.
 - [pyVideoTrans](https://pyvideotrans.com/) - Mesmo conceito do Legen: embute hardsubs em vídeos com base no Whisper, com a única diferença de poder dublar e sincronizar a fala automaticamente.
  
-## ► **Motores de busca**
+## ► Motores de busca
 
 - [Meawfy](https://meawfy.com/) - Um mecanismo de busca especializado em encontrar arquivos hospedados no Mega.nz.
 - [Mediafire Trend](https://mediafiretrend.com/) - Ferramenta de pesquisa para o Mediafire.
 - [File Pursuit](https://filepursuit.com/) - Milhões de arquivos em servidores da Web.
 
-## ► **SSH**
+## ► SSH
 
 > São serviços de tunelamento que usam o protocolo Secure Shell para transmitir uma conexão de dados móveis ilimitada.
 **Fique atento as mensagens do [nosso lemmy](https://lemmy.dbzer0.com/c/pirataria) para obter os arquivos EHI do HTTP Injector.**
@@ -450,7 +451,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [HTTP Injector](https://httpinjector.com/)
 - [NetMod VPN Client](https://sourceforge.net/projects/netmodhttp/)
 
-## ► **Contas & Vazamentos**
+## ► Contas & Vazamentos
 
 :::warning O pirataria.link não responde pelo compartilhamento de dados pessoais por terceiros.
 :::
@@ -461,9 +462,9 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [CrackingX](https://crackingx.com) - Combolists e contas de streaming.
 - **[Pago]** [Kotas](https://www.kotas.com.br/servico/kotas) - Divida logins da Udemy, Babbel, Proton VPN, CapCut e Canva Pro com outros usuários da web.
 
-## ► **Ferramentas para Jogos**
+## ► Ferramentas para Jogos
 
-#### ► **Geral**
+#### ► Geral
 
 - 🌟 [**LumaPlay**](https://cs.rin.ru/forum/viewtopic.php?f=29&t=67197&hilit=lumaplay) - Rode jogos que dependem do suporte online da Uplay/Connect DRM da Ubisoft para funcionar.
 - [CapFrameX](https://github.com/CXWorld/CapFrameX?tab=readme-ov-file) - Usa o overlay do RivaTuner para capturar o framerate durante o gameplay. O RTSS é somente um provedor aqui, o programa completo não é instalado no seu computador.
@@ -476,7 +477,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [Better xCloud](https://github.com/redphx/better-xcloud) - Userscript para melhorar a jogatina do Xbox Cloud (Xbox Game Pass) e da Remote Play em navegadores.
 - [Smart Online Fix](https://github.com/BadKiko/steam-online-fix-launcher) - Ferramenta para iniciar e organizar jogos do online-fix-me no Linux.
 
-#### ► **Ferramentas para Steam**
+#### ► Ferramentas para Steam
 
 - 🌟 [**SteamDB**](https://steamdb.info/extension/) - Obtém informações de DLC para ferramentas como CreamAPI, GreenLuma e SmartSteamEmu.
 - [Steam Content Packager](https://cs.rin.ru/forum/viewtopic.php?f=29&t=77526) - Ferramenta para limpar arquivos Steam. Empacota seus arquivos do jogo Steam enquanto remove informações de identificação visando compartilhá-los com o subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) do cs.rin.ru.
@@ -488,12 +489,12 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [SteamEmuUtility](https://github.com/turusudiro/SteamEmuUtility) - Extensão do launcher Playnite para rodar o GreenLuma/SmartSteamEmu.
 - [Steamless](https://github.com/atom0s/Steamless) - Remove o SteamStub DRM dos executáveis ​​do jogo Steam se eles o contiverem. Para ser usado em conjunto com um emulador Steam se o emulador sozinho não for suficiente para quebrar a proteção do jogo.
 
-#### ► **Ferramentas para a Epic Games**
+#### ► Ferramentas para a Epic Games
 
 - [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Desbloqueador de DLC para o Epic Online Services. Funciona apenas para jogos que você possui. Recursos como multijogador, conquistas, etc. permanecem totalmente funcionais.
 - [Free-games-claimer](https://github.com/vogler/free-games-claimer) - Automaticamente reinvidica jogos gratuitos da Epic Store.
 
-#### ► **Emuladores**
+#### ► Emuladores
 
 - [Wii U USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) - Ferramenta para baixar jogos do Cemu (coloque titlekeys.ovh no campo de 'Para o Wii U').
 - [Wii U Downloader](https://github.com/Xpl0itU/WiiUDownloader/releases/tag/v2.66) - Feito para baixar jogos (nus) de WiiU diretamente dos servidores da Nintendo. É atualizado quase que diariamente ao contrário do USB Helper.
@@ -504,7 +505,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=29)
 
-## ► **Ferramentas Diversas**
+## ► Ferramentas Diversas
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
 - [Brainser](https://github.com/p1ratrulezzz/brainser) - Melhor forma de ativar as IDEs do JetBrains, caso não funcione você pode tentar [isso aqui](https://www.reddit.com/r/pirataria/comments/1js9lc7/comment/mlqghtb/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button) - Post original do [Typical Society.](https://losper.net/topic/283-activation-instruction-jetbrains/)
