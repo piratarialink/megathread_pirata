@@ -117,7 +117,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
 - Warez refere-se à distribuição de software, jogos, filmes, cursos e outros conteúdos digitais pirateados.
 
-### 🚫 [Adulto](adulto.md)
+### 🚫 [Adulto](/outros/adulto.md)
 
 - Entrando nessa seção, você concorda que é maior de 18 anos de idade.
 
