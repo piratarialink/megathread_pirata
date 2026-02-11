@@ -58,7 +58,7 @@ export default {
     sidebar: [
       {
         text: "Tópicos",
-        collapsed: false,
+        collapsible: true,
         items: [
           { text: "⚓️ Perguntas Frequentes", link: "faq" },
           { text: "🧭 Uso Geral", link: "sites-geral" },
