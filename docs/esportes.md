@@ -144,8 +144,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### 🔗 [Ace Stream User Interface](https://acestreamui.app/)
 
-- Interface de usuário na Web que se conecta a engine do Ace Stream instalado em execução e usa sua API para busca e reprodução.
-- Execute o Ace Stream e apenas abra a interface web, ela permitirá que você encontre todos os streams disponíveis no momento e os assista no navegador / vlc / ace player / vlc remoto na TV.
+- Site que se conecta com a engine do Ace Stream instalada no seu dispositivo para encontrar todos os streams de esportes disponíveis no momento - assista no navegador / vlc / ace player ou vlc remoto na TV.
 
 ### 🔗 [rutracker.org > Esportes](https://rutracker.org/forum/index.php?c=28)
 
