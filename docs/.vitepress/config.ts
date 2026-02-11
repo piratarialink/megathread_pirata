@@ -119,6 +119,7 @@ export default {
       collapsed: true,
       items: [
         { text: "🚫 Adulto", link: "/outros/adulto.md" },
+         { text: "🏔️ Codeberg", link: "https://codeberg.org/pirataria/megathread" },
       ]
       },
     ],
