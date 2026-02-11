@@ -82,9 +82,7 @@ export default {
       text: 'Diversos',
       collapsed: true,
       items: [
-        { text: "🚫 Adulto", link: "adulto" },
-
-        
+        { text: "🚫 Adulto", link: "/outros/adulto.md" },
       ]
       },
       {
