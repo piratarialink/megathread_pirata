@@ -86,6 +86,7 @@ export default {
           { text: "🔗 Publicações úteis", link: "publicacoes" },
           { text: "🗺️ Guias", link: "guias" },
           { text: "🔒 Privacidade", link: "privacidade" },
+          { text: "✨ Coletânea", link: "/util/coletanea.md" },
         ],
       },
       {
