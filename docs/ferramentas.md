@@ -62,14 +62,14 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio escrito em Python; oferece separação em tags, playlists, álbuns e avaliações como recurso.
 - [Hyprland](https://hypr.land/) - O Hyprland é um compositor de janelas derivado do wayland destinado a usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
+- [KDE Plasma](https://kde.org/plasma-desktop) - DE e gerenciador de janelas com um workflow sem bugs e extremamente conveniente para FreeBSD, OpenBSD e Fedora.
+- [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Reduz ruídos e barulho ambiente, fica atrás apenas do Easy Effects e Adobe Audition nesse quesito.
 - 🌟 [**GameMode**](https://github.com/FeralInteractive/gamemode) - Abre uma brecha para que jogos (e aplicações) recebam otimizações sem exigir tanto poder de processamento da CPU/GPU - Tópico original do [mastercomfig.](https://docs.comfig.app/latest/os/linux/#gamemode)
 - [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar diversas versões do OS X no Linux. Com suporte a GPU dedicada + macOS Tahoe.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
 - 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova anúncios da Canonical como o Ubuntu PRO na linha de comando e mensagens ESM com esse método - Post original do [Ask Ubuntu](https://askubuntu.com/a/1438510).
 - 🌟 [**ubuntu-debullshit!**](https://github.com/polhdez/ubuntu-debullshit) - Retira a coleta de dados e os snaps da Canonical, **em versões mais recentes do Ubuntu (incluindo LTS), a telemetria é mais opt-out - você precisa desativá-la durante a instalação** - Post original por [u/klfld](https://www.reddit.com/r/linux/comments/13fj1xf/ubuntudebullshit_script_to_get_vanilla_gnome/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button).
 - [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Port não oficial do Lossless Scaling para GNU/Linux e Steam Deck; necessita da dll do lossless scaling para funcionar, a qual você pode extrair da [versão marítima do LS sem pagar nada](https://cs.rin.ru/forum/viewtopic.php?f=41&t=94507&hilit=lossless+scallin&start=1155).
-- [KDE Plasma](https://kde.org/plasma-desktop) - DE e gerenciador de janelas com um workflow sem bugs e extremamente conveniente para FreeBSD, OpenBSD e Fedora.
-- [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Reduz ruídos e barulho ambiente, fica atrás apenas do Easy Effects e Adobe Audition nesse quesito.
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV com suporte para TV ao vivo, filmes e seriados. Possui desenvolvimento ativo apenas para o Mint, no entanto, pode rodar em qualquer distro com a build ou pelo [Distrobox](https://distrobox.it) (recomendado) - Repo para o circle-flags disponível em [packages-linuxmint.](http://packages.linuxmint.com/pool/main/c/circle-flags/)
 - 🌟 [**htop**](https://htop.dev/) - Para monitorar processos do sistema executando em segundo plano através da linha de comando, você pode acionar prioridades com base em seu critério pré-definido.
 - [Czkawka](https://github.com/qarmin/czkawka) - Varredura em lote de duplicatas, pastas vazias, imagens semelhantes e outros arquivos desnecessários do sistema.
@@ -395,6 +395,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [tg-archive](https://github.com/knadh/tg-archive) - Arquiva grupos como páginas de HTML estático na web.
 - [Scanbitbot](https://t.me/scanbitbot) - Mostra o ID de qualquer canal/grupo, seja ele privado ou não.
 - **[Pago]** [SMSPVA](https://smspva.com) / [SMSPool](https://smspool.net) - Número virtual internacional para contornar restrições regionalmente. Utilize uma VPN do país escolhido quando for se registrar.
+- [RestrictedContentDL](https://github.com/bisnuray/RestrictedContentDL) - Ferramenta para hospedar um container no Docker e fazer o forward de conteúdo protegido - coloque os IDs na configuração e rode os localmente - Post original do [u/c5e3](https://old.reddit.com/r/androidapps/comments/1ktt3fw/bypass_telegram_channel_copyforward_restrictions/)
 - [Tg mirror](https://github.com/viniped/tg_mirror) - Clona canais/grupos de maneira automatizada. Inicie o script com o foward_module.py.
 - [Save restricted content bot](https://t.me/Ai1t_src1Bot) - Use apenas em última hipótese caso não consiga salvar conteúdo protegido com o tg mirror/tdl.
 
@@ -418,7 +419,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► VPS grátis
 
 > Para hospedar servidores próprios de rust, minecraft, bot do telegram, storage e outros projetos.
-Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](https://www.tabnews.com.br/JuanMathewsRebelloSantos/por-tudo-que-e-mais-sagrado-pare-de-usar-vps-cara-aqui-vai-algumas-dicas-matadoras)
+Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](https://archive.ph/O0Iz1)
 
 - [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter.
 - [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado na China para burlar o firewall. A velocidade pode cair drasticamente por conta de sua finalidade citada anteriormente.
@@ -508,7 +509,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 ## ► Ferramentas Diversas
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
-- [Brainser](https://github.com/p1ratrulezzz/brainser) - Melhor forma de ativar as IDEs do JetBrains, caso não funcione você pode tentar [isso aqui](https://www.reddit.com/r/pirataria/comments/1js9lc7/comment/mlqghtb/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button) - Post original do [Typical Society.](https://losper.net/topic/283-activation-instruction-jetbrains/)
+- [Brainser](https://github.com/p1ratrulezzz/brainser) - Melhor forma de ativar as IDEs do JetBrains, caso não funcione você pode tentar [isso aqui](https://www.reddit.com/r/pirataria/comments/1js9lc7/comment/mlqghtb/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button) - Post original do [Typical Society.](https://web.archive.org/web/20250829061702/https://losper.net/topic/283-activation-instruction-jetbrains/)
 - [SlideDownloaders](https://slidedownloaders.com/) - Downloader gratuito do SlideShare - rápido, seguro e sem necessidade de inscrição.
 - [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de download do Terabox.
 - [TarnKappe](https://tarnkappe.info/forum/) - Fórum alemão de pirataria - use um tradutor.

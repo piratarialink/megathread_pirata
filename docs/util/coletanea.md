@@ -52,7 +52,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [czkawka](https://github.com/qarmin/czkawka) - Aplicativo multifuncional para encontrar duplicatas, pastas vazias, imagens semelhantes, etc.
 
-- [Spotube](https://github.com/KRTirtho/spotube) - 🎧 Cliente Spotify de código aberto que não requer premium nem Electron! Disponível para desktop e celular!
+- [Spotube](https://github.com/KRTirtho/spotube) - 🎧 Cliente Spotify de código aberto que não requer premium [nem Electron!](https://web.archive.org/web/20251128101108/https://www.xda-developers.com/sick-every-pc-program-electron-app/) Disponível para desktop e celular!
 
 ### Coisas baseadas em hardware
 
@@ -72,7 +72,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [Continuum](https://github.com/cygnusx-1-org/continuum) - Para quem quiser usar Reddit sem conta, e sem aquele app LIXOSO; baixe o [Obtainium](https://github.com/ImranR98/Obtainium) também (para atualizar automaticamente do GitHub).
 
-- [FFUpdater](https://github.com/Tobi823/ffupdater) - Updater para navegador amigável à privacidade.
+- [FFUpdater](https://github.com/Tobi823/ffupdater) - Updater amigável à privacidade para navegadores baseados no Firefox e no Chromium.
 
 - [Aegis](https://github.com/beemdevelopment/Aegis) - Um aplicativo gratuito, seguro e de código aberto para Android para gerenciar seus tokens de verificação em duas etapas.
 
@@ -98,7 +98,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [Cryptomator](https://github.com/cryptomator/cryptomator) - Criptografia transparente multiplataforma client-side de seus arquivos na nuvem.
 
-- [Tenacity](https://tenacityaudio.org) -Tenacity é um editor de áudio multipista multiplataforma, fácil de usar e com privacidade, FLOSS, para Windows, macOS, Linux e outros sistemas operacionais.
+- [Tenacity](https://tenacityaudio.org/) - Tenacity é um editor de áudio multipista multiplataforma, fácil de usar, FLOSS, e disponível para Windows, BSD, Linux e outros sistemas operacionais.
 
 - [Mullvad Browser](https://mullvad.net/pt/browser) - Mullvad Browser é uma versão do Tor Browser com integrações da rede onion removidas, visando fornecer tecnologias de navegador anti-fingerprint do Tor Browser para os usuários. É desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
 
