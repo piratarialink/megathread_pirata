@@ -395,7 +395,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [tg-archive](https://github.com/knadh/tg-archive) - Arquiva grupos como páginas de HTML estático na web.
 - [Scanbitbot](https://t.me/scanbitbot) - Mostra o ID de qualquer canal/grupo, seja ele privado ou não.
 - **[Pago]** [SMSPVA](https://smspva.com) / [SMSPool](https://smspool.net) - Número virtual internacional para contornar restrições regionalmente. Utilize uma VPN do país escolhido quando for se registrar.
-- [RestrictedContentDL](https://github.com/bisnuray/RestrictedContentDL) - Ferramenta para hospedar um container no Docker e fazer o forward de conteúdo protegido - coloque os IDs na configuração e rode os localmente - Post original do [u/c5e3](https://old.reddit.com/r/androidapps/comments/1ktt3fw/bypass_telegram_channel_copyforward_restrictions/)
+- [RestrictedContentDL](https://github.com/bisnuray/RestrictedContentDL) - Ferramenta para hospedar um container no Docker e fazer o forward de conteúdo protegido - coloque os IDs na configuração e rode os localmente - Post original por [u/c5e3](https://old.reddit.com/r/androidapps/comments/1ktt3fw/bypass_telegram_channel_copyforward_restrictions/).
 - [Tg mirror](https://github.com/viniped/tg_mirror) - Clona canais/grupos de maneira automatizada. Inicie o script com o foward_module.py.
 - [Save restricted content bot](https://t.me/Ai1t_src1Bot) - Use apenas em última hipótese caso não consiga salvar conteúdo protegido com o tg mirror/tdl.
 
