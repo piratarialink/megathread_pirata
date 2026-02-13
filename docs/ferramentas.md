@@ -395,6 +395,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [tg-archive](https://github.com/knadh/tg-archive) - Arquiva grupos como páginas de HTML estático na web.
 - [Scanbitbot](https://t.me/scanbitbot) - Mostra o ID de qualquer canal/grupo, seja ele privado ou não.
 - **[Pago]** [SMSPVA](https://smspva.com) / [SMSPool](https://smspool.net) - Número virtual internacional para contornar restrições regionalmente. Utilize uma VPN do país escolhido quando for se registrar.
+- [RestrictContentDL](https://github.com/bisnuray/RestrictedContentDL) - Ferramenta para hospedar um container no Docker e fazer o forward de conteúdo protegido - coloque os IDs na configuração e rode os localmente.
 - [Tg mirror](https://github.com/viniped/tg_mirror) - Clona canais/grupos de maneira automatizada. Inicie o script com o foward_module.py.
 - [Save restricted content bot](https://t.me/Ai1t_src1Bot) - Use apenas em última hipótese caso não consiga salvar conteúdo protegido com o tg mirror/tdl.
 
@@ -508,7 +509,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 ## ► Ferramentas Diversas
 
 - [Debrid Media Manager](https://github.com/debridmediamanager/debrid-media-manager?tab=readme-ov-file) - Mostra quais são os arquivos em cached no Real Debrid.
-- [Brainser](https://github.com/p1ratrulezzz/brainser) - Melhor forma de ativar as IDEs do JetBrains, caso não funcione você pode tentar [isso aqui](https://www.reddit.com/r/pirataria/comments/1js9lc7/comment/mlqghtb/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button) - Post original do [Typical Society.](https://losper.net/topic/283-activation-instruction-jetbrains/)
+- [Brainser](https://github.com/p1ratrulezzz/brainser) - Melhor forma de ativar as IDEs do JetBrains, caso não funcione você pode tentar [isso aqui](https://www.reddit.com/r/pirataria/comments/1js9lc7/comment/mlqghtb/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button) - Post original do [Typical Society.](https://web.archive.org/web/20250829061702/https://losper.net/topic/283-activation-instruction-jetbrains/)
 - [SlideDownloaders](https://slidedownloaders.com/) - Downloader gratuito do SlideShare - rápido, seguro e sem necessidade de inscrição.
 - [Save Terabox Videos](https://t.me/TeraboxDownloader_aBot) - Retira o limite da taxa de download do Terabox.
 - [TarnKappe](https://tarnkappe.info/forum/) - Fórum alemão de pirataria - use um tradutor.
