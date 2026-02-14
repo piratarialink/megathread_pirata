@@ -50,6 +50,8 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [Upscayl](https://github.com/upscayl/upscayl) - Upscaler de imagens para Linux, MacOS e Windows que usa inteligência artificial, desenvolvido com a filosofia Linux-First.
 
+- [Photopea](https://www.photopea.com/) - Um editor de arquivos PSD hospedado na web, perfeito para retoques simples e ocasionais em fotos e imagens.
+  
 - [SpotX](https://github.com/amd64fox/SpotX/) - Cliente Spotify modificado. Bloqueia anúncios e atualizações e muito mais.
 
 - [2fa.directory](https://2fa.directory/br/) - Fonte independente de informações sobre quais serviços suportam MFA/2FA.
