@@ -194,14 +194,17 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 ### 🖥️ [Murglar](https://murglar.app/docs/en/en-index.html)
 
 - Baixa músicas do Deezer e Spotify em diferentes formatos. Um ponto negativo seu é ser um aplicativo de código fechado.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/murglar.app/)
 
 ### 🖥️ [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
 - Ferramenta para baixar imagens/vídeos/música/texto de vários sites.
-
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
+  
 ### 🖥️ [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui)
 
 - Um GUI-wrapper multiplataforma para o yt-dlp escrito em PySide6.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🖥️ [OrpheusDL](https://github.com/yarrm80s/orpheusdl)
 
