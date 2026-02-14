@@ -46,9 +46,13 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [Dangerzone](https://dangerzone.rocks/) - Converte PDFs e demais documentos maliciosos em arquivos seguros para leitura e compartilhamento.
 
+- [Stirling-PDF](https://www.stirling.com/download) / [simplepdf.eu](https://simplepdf.eu/) - Softwares para editar, recortar ou criar PDFs.
+
 - [Upscayl](https://github.com/upscayl/upscayl) - IA upscaler de imagens para Linux, MacOS e Windows, desenvolvido com a filosofia Linux-First.
 
 - [SpotX](https://github.com/amd64fox/SpotX/) - Cliente Spotify modificado. Bloqueia anúncios e atualizações e muito mais.
+
+- [2fa.directory](https://2fa.directory/br/) - Fonte independente de informações sobre quais serviços suportam MFA/2FA.
 
 - [czkawka](https://github.com/qarmin/czkawka) - Aplicativo multifuncional para encontrar duplicatas, pastas vazias, imagens semelhantes, etc.
 
@@ -103,14 +107,6 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 - [Mullvad Browser](https://mullvad.net/pt/browser) - Mullvad Browser é uma versão do Tor Browser com integrações da rede onion removidas, visando fornecer tecnologias de navegador anti-fingerprint do Tor Browser para os usuários. É desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
 
 - [Librewolf](https://librewolf.net/) - Uma versão personalizada do Firefox, focada em privacidade, segurança e liberdade.
-
-### Extremamente útil
-
-- [2fa.directory](https://2fa.directory/int/) - Fonte independente de informações sobre quais serviços suportam MFA/2FA.
-
-- [simplepdf.eu](https://simplepdf.eu/) - Website simples para editar PDFs.
-
-- [Stirling-PDF](https://www.stirlingpdf.com/) - Outra ferramenta simples para editar PDFs.
 
 ### Muito interessante
 
