@@ -46,6 +46,8 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [Dangerzone](https://dangerzone.rocks/) - Converte PDFs e demais documentos maliciosos em arquivos seguros para leitura e compartilhamento.
 
+- [FILExt](https://filext.com/online-file-viewer.html) - Mesmo conceito do Dangerzone só que online - sandbox para documentos de texto compartilhados na rede.
+
 - [Stirling-PDF](https://www.stirling.com/download) / [simplepdf.eu](https://simplepdf.eu/) - Softwares para editar, recortar ou criar PDFs.
 
 - [Upscayl](https://github.com/upscayl/upscayl) - Upscaler de imagens para Linux, MacOS e Windows que usa inteligência artificial, desenvolvido com a filosofia Linux-First.
@@ -66,7 +68,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [Nitrokeys](https://www.nitrokey.com/products/nitrokeys) - Uma alternativa ao Yubikey.
 
-- [Pi-hole](https://pi-hole.net/) - Um buraco negro para anúncios na Internet.
+- [Pi-hole](https://pi-hole.net/) - Um "buraco negro" para anúncios na Internet.
 
 - [Nextcloud](https://nextcloud.com/) - Nextcloud é um software client-server para criar e usar serviços de hospedagem de arquivos. Nextcloud oferece funcionalidade semelhante ao Dropbox, Office 365 ou Google Drive quando usado com suítes de escritório integradas Collabora Online ou OnlyOffice. Ele pode ser hospedado na nuvem ou localmente (HD, SSD, NVMe).
 
@@ -81,6 +83,8 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 - [FFUpdater](https://github.com/Tobi823/ffupdater) - Updater amigável à privacidade para navegadores baseados no Firefox e no Chromium.
 
 - [Aegis](https://github.com/beemdevelopment/Aegis) - Um aplicativo gratuito, seguro e de código aberto para Android para gerenciar seus tokens de verificação em duas etapas.
+
+- [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - Ferramenta open-source para capturar e monitorar o tráfico de internet, aplique filtros para vigiar aplicativos suspeitos ou que estejam sendo executados em segundo plano através do proxy man-in-the-middle dentro do PCA.
 
 ### YouTube
 
@@ -120,7 +124,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [SoloLearn](https://sololearn.org) - É praticamente um duolingo só que voltado para linguagens de programação. Disponível para Android e IOS.
 
-- [Diolinux](https://plus.diolinux.com.br/) - Fórum e canal do YouTube que difunde o uso de Linux no Brasil.
+- [Diolinux](https://plus.diolinux.com.br/) - Fórum de discussão e canal do YouTube que difunde o uso de sistemas Linux no Brasil - da mesma equipe responsável por desenvolver o [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) (um patch de layout para deixar o gimp parecido com o photoshop).
 
 ### Menção honrosa
 
