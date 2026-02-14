@@ -368,7 +368,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 _[**Outros apps para assistir filmes e séries podem ser encontrados aqui**](outros/filmesmobile)_
 ‎ 
 
-## 🧵 Torrent/P2P
+## 🧲 Torrent/P2P
 
 ### 🌟 [EZTV](https://eztvx.to/)
 
@@ -382,23 +382,23 @@ _[**Outros apps para assistir filmes e séries podem ser encontrados aqui**](out
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv1.xyz/)
 
-### 🧲 [Sem Torrent](https://semtorrent.com/)
+### 🔗 [Sem Torrent](https://semtorrent.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/semtorrent.com/)
 
-### 🧲 [Torrent dos Filmes](https://torrentdosfilmes.site/)
+### 🔗 [Torrent dos Filmes](https://torrentdosfilmes.site/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes1.xyz)
 
-### 🧲 [HDR Torrent](https://hdrtorrent.com/)
+### 🔗 [HDR Torrent](https://hdrtorrent.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hdrtorrent.com/)
 
-### 🧲 [Starck Filmes](https://starckfilmes-v8.com)
+### 🔗 [Starck Filmes](https://starckfilmes-v8.com)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/starckfilmes-v8.com)
 
-### 🧲 [Catálogo BeTor](https://catalogo.betor.top/)
+### 🔗 [Catálogo BeTor](https://catalogo.betor.top/)
 
 - Agregador de Agregadores: Encontre facilmente em qual agregador (BluDv, Torrent dos Filmes, Comando e outros) está o conteúdo que você procura.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/catalogo.betor.top/)
