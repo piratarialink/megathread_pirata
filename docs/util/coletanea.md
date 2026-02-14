@@ -102,7 +102,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [Cryptomator](https://github.com/cryptomator/cryptomator) - Criptografia transparente multiplataforma client-side de seus arquivos na nuvem.
 
-- [Tenacity](https://tenacityaudio.org/) - Tenacity é um editor de áudio multipista multiplataforma, fácil de usar, FLOSS, e disponível para Windows, BSD, Linux e outros sistemas operacionais.
+- [Tenacity](https://tenacityaudio.org/) - Tenacity é um editor de áudio multipista multiplataforma, fácil de usar, FLOSS, e disponível para Windows, BSD, Haiku OS, Linux e outros sistemas operacionais.
 
 - [Mullvad Browser](https://mullvad.net/pt/browser) - Mullvad Browser é uma versão do Tor Browser com integrações da rede onion removidas, visando fornecer tecnologias anti-fingerprint do Tor Browser para os usuários. É desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
 
