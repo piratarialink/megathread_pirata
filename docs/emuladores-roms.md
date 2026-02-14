@@ -456,9 +456,9 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Fonte confiável de roms para NSW, por ser um bot do telegram é uma opção viável caso o seu site favorito de roms de Switch seja derrubado.
 
-## 🧵 Torrent/P2P
+## 🧲 Torrent/P2P
 
-### 🧲 [BlueRoms](https://www.blueroms.ws/)
+### 🔗 [BlueRoms](https://www.blueroms.ws/)
 
 - Desfrute de uma vasta coleção de ROMs para PS1, PS2, PS3, PSP, Wii, 3DS e muito mais!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/blueroms.ws/)
