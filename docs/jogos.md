@@ -100,7 +100,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 ### 🌟 [ElEnemigos](https://elenemigos.com/)
 
 - Ótima seleção de videogames da Steam para instalação via arquivos zipados e sem restrições de DRM.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/elenemigos.com/)/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/elenemigos.com/)
 
 ### 🔗 [Elamigos](https://elamigos.site/)
 
