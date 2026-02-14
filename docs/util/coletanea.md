@@ -48,7 +48,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [Stirling-PDF](https://www.stirling.com/download) / [simplepdf.eu](https://simplepdf.eu/) - Softwares para editar, recortar ou criar PDFs.
 
-- [Upscayl](https://github.com/upscayl/upscayl) - IA upscaler de imagens para Linux, MacOS e Windows, desenvolvido com a filosofia Linux-First.
+- [Upscayl](https://github.com/upscayl/upscayl) - Upscaler de imagens para Linux, MacOS e Windows que usa inteligência artificial, desenvolvido com a filosofia Linux-First.
 
 - [SpotX](https://github.com/amd64fox/SpotX/) - Cliente Spotify modificado. Bloqueia anúncios e atualizações e muito mais.
 
