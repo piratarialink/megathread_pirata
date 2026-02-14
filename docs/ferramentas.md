@@ -80,7 +80,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Imagens do OSX para criar pendrives bootáveis com hackintosh (pelo menos de versões que ainda suportam o processador da intel). [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
 - [PKGs do Appstorrent](https://appstorrent.ru/os/) - Site russo com arquivos de firmware de diferentes versões do Mac para fazer upgrade/downgrade.
 - [Pacotes do Office para Mac](https://massgrave.dev/office_for_mac) - Página bem organizada para downloads de imagens do Office para Mac.
-- [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - Script do Macked para baixar aplicativos da Creative Cloud.
+- [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - Script do Macked para baixar aplicativos da Creative Cloud - quando o download terminar, arraste os apps para o [Activation Tool](https://macked.app/adobe-activation-tool-crack.html) para ativá-los.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
 - [Stats](https://github.com/exelban/stats) - O equivalente do HWiNFO para o OS X.
 - [UTM](https://github.com/utmapp/UTM/releases) - VM multissistema baseada no QEMU.
