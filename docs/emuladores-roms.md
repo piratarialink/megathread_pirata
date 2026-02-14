@@ -442,7 +442,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [PT-BR Hud • SRB2](https://mb.srb2.org/addons/pt-br-hud-hud-brasileiro.5400/)
 
-- Sonic Robo Blast 2 é um fangame que vem sendo atualizado desde 1998. Este mod modesto aplica tradução somente no hud de pontos e tempo.
+- Sonic Robo Blast 2 é um fangame que vem sendo atualizado desde 1998. Este mod modesto aplica tradução somente no hud de pontos e tempo. / [Jogue no seu navegador](https://afd2025.srb2.org/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mb.srb2.org/)
 
 ### 🔗 [Rippersanime](https://forum.rippersanime.info/viewforum.php?f=17)
