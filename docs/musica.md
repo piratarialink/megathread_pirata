@@ -24,7 +24,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [MusicBrainz](https://www.musicbrainz.org/)
   
-- Database e provider de capas de álbuns, eps e singles - da mesma empresa que desenvolveu o aplicativo [Picard](https://picard.musicbrainz.org/) para desktop.
+- Database e provider de capas de álbuns, metadados, eps e singles - site da mesma empresa que desenvolveu o aplicativo [Picard](https://picard.musicbrainz.org/) para desktop.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/musicbrainz.org/)
   
 ### 🔗 [r/AudiofiliaBrasil](https://www.reddit.com/r/audiofiliabrasil/)
