@@ -268,7 +268,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - Os usuários são ajudados por este mecanismo de busca a encontrar downloads de software gratuito. Inclui interface com novos links, bem como uma lista de sites atualizados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ravesoftwaresearch.pages.dev/)
 
-## 🧵 Torrent/P2P
+## 🧲 Torrent/P2P
 
 ### 🌟 [M0nkrus](https://vk.com/monkrus) | [📣](https://t.me/m0nkrus/) • Interface em russo
 
@@ -280,22 +280,22 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - Tracker generalista russo desde 2004 em atividade. Para usar a função de pesquisa, é necessário se cadastrar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rutracker.net/)
   
-### 🧲 [Mac Torrents](https://www.torrentmac.net/) • MacOS
+### 🔗 [Mac Torrents](https://www.torrentmac.net/) • MacOS
 
 - Torrents para uma variedade de utilitários, aplicativos, jogos e plug-ins úteis para design gráfico, edição de vídeo e gráficos em movimento.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentmac.net/)
 
-### 🧲 [Team OS](https://www.teamos.xyz) • Necessário Cadastro
+### 🔗 [Team OS](https://www.teamos.xyz) • Necessário Cadastro
 
 - Rastreador privado para vários grupos de lançamento. Este site incrível oferece downloads diretos e de torrent para quase todos os softwares imagináveis.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/teamos.xyz)
 
-### 🧲 [NNMClub](https://nnmclub.to/forum/portal.php?c=19) • Interface em russo
+### 🔗 [NNMClub](https://nnmclub.to/forum/portal.php?c=19) • Interface em russo
 
 - Tracker semi-privado russo.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nnm-club.me/)
 
-### 🧲 [Phoenix Project](https://phoenixproject.app/) • MacOS
+### 🔗 [Phoenix Project](https://phoenixproject.app/) • MacOS
 
 - Substituto do iAnon, contém um amplo repositório de aplicativos e DAWs para Macs.
 - Peça um convite pelo IRC oficial: `irc://irc.phoenixproject.app:+6697`.
