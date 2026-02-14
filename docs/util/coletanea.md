@@ -28,11 +28,11 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
  
 - [KDE Connect](https://kdeconnect.kde.org/) - Uma forma de conectar seu smartphone e computador sem usar a ferramenta Phone Link da Microsoft - já houve momentos em que as versões para Windows deste aplicativo não reconheciam nada, sua experiência pode variar, em todo caso, use o [Sefirah](https://github.com/shrimqy/Sefirah) + [scrcpy](https://github.com/Genymobile/scrcpy) ou o [QtScrcpy](https://github.com/barry-ran/QtScrcpy) que é infinitamente melhor.
 
-- [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - para limpar os drivers da NVIDIA.
+- [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - Para limpar os drivers da NVIDIA.
 
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/) - Alguns ajustes extras do Windows, como restaurar o antigo menu de contexto.
 
-- [ShutUp10++](https://www.oo-software.com/en/shutup10) - Software anti espionagem gratuito para Windows 10 e Windows 11.
+- [ShutUp10++](https://www.oo-software.com/en/shutup10) - Software anti-espionagem gratuito para Windows 10 e Windows 11.
 
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Um ativador de Windows e Office usando métodos de ativação HWID/TSforge/KMS online, com foco em código-fonte aberto e menos detecções de antivírus.
 
