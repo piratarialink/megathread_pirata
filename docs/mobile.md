@@ -190,7 +190,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [Mobilism](https://forum.mobilism.org/index.php) • Necessário Cadastro
 
-- Recurso obrigatório para aplicativos e livros. Confiado pela comunidade, o site fornece acesso direto às versões mais recentes de apks modificados.
+- Recurso obrigatório para aplicativos e livros. Com uma grande base de usuários e confiado pela comunidade, este site fornece acesso direto às versões mais recentes de apks modificados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/)
 
 ### 🌟 [MODYOLO](https://modyolo.com/)
@@ -331,7 +331,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [A2ZAPK](https://a2zapk.io/)
 
-- Indexador completo de apks crackeados e publicados diariamente.
+- Indexador completo de apks crackeados e publicados diariamente a disposição dos usuários.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/a2zapk.io/)
 
 ## 📢 No Telegram
