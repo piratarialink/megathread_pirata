@@ -277,7 +277,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🌟 [**xManager**](https://www.xmanagerapp.com/)
 
-- Aplicativo para instalar o mod sem anúncios e com mais alguns recursos úteis para o cliente do Spotify no Android.
+- Pacote para instalar o mod sem anúncios e com mais alguns recursos úteis para o cliente do Spotify no Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xmanagerapp.com/)
 
 ### 🌟 [**Gyawun**](https://jhelumcorp.github.io/)
