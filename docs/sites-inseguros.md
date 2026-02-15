@@ -54,7 +54,7 @@
 | nosTeam                   | nosteamgames-ro                                                 | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).         |
 | "Ovagames"                | ovagames-net                                                    | **Clone falso**: (_Criado para enganar usuários de propósito_).                              |
 | Repack-Games              | repack-games-com                                                | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).         |
-| 💩 TLauncher              | tlauncher-org/                                                  | **Comportamento antiético** (_Provável spyware de origem suspeita_).                         |
+| 💩 TLauncher              | tlauncher-org                                                  | **Comportamento antiético** (_Provável spyware de origem suspeita_).                         |
 | Steam-Repacks             | steam-repacks-com                                               | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).         |
 | Worldofpcgames            | worldof-pcgames-net                                             | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).         |
 | cracked-games             | cracked-games-com                                               | **Vírus** (_Detectado com malware_).                                                         |
