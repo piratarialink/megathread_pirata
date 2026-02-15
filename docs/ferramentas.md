@@ -210,6 +210,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Webtorrent](https://webtorrent.io/desktop/) - Cliente para reproduzir torrents de filmes e streaming sem ter que esperar o torrent terminar baixar.
 - [Transmission](https://transmissionbt.com/about/) - Bem simples de usar e com abundância de torrents (5k-10k+), é bem estável na versão CLI.
 - [Transmission Web](https://www.reddit.com/r/pirataria/comments/1n3mffa/como_configurar_o_transmission_web_para_funcionar/) - Use o transmission no android pelo termux e o controle através do navegador, extremamente prático de se manusear.
+- [Aria2-WebUI](https://gist.github.com/T4P4N/37ea56f0d54138eeaa1c164c54c3d0f2) - Cliente bittorrent baseado em linha de comando, excelente se usado no termux com wakelock dentro do Android.
 - 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que procura rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/guia-plugins-qbittorrrent.md)
 - [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei.
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Ideal para smartphones.
