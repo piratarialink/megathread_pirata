@@ -132,7 +132,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 > Alguns sites DDL podem oferecer apenas downloads por links premium, o que significa que o download do arquivo estará disponível somente por meio de um host (Nitroflare, Rapidgator...) que bloqueia o seu acesso, a menos que você esteja disposto a pagar uma assinatura para esse mesmo host. Os preços podem ser um pouco extravagantes, especialmente quando você considera que muitos sites DDL podem usar hosts de arquivos diferentes, portanto, não seria viável pagar por várias dessas assinaturas.
 
-- **[Pago]** [**Real Debrid**](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como mediafire, uploadly, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o _torrent swarm_, a principal causa de recebimento de cartas de violação de direitos autorais.
+- **[Pago]** [Real Debrid](https://real-debrid.com/) - Serviço de leeching online que fará o download de torrents e hosts premium, como mediafire, uploadly, etc. para baixar mais tarde diretamente de seus servidores. No que diz respeito ao torrent, é uma boa maneira de evitar que seu IP atinja o _torrent swarm_, a principal causa de recebimento de cartas de violação de direitos autorais.
 - **[Pago]** [Mega Debrid](https://www.mega-debrid.eu/) - Mesmo conceito do real-debrid.
 - **[Pago]** [All Debrid](https://alldebrid.com/) - Mesmo conceito do real-debrid.
 - **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também.
@@ -185,6 +185,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [LegitimateURLShortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt) - Deleta parâmetros de rastreamento de URLs do Google, YouTube, etc.
 - [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - Curadoria de sites que mantêm conteúdo gerado por IA. Importe a versão raw de cada blocklist no desktop ou mobile.
 - [OISD](https://oisd.nl/) - Previne que seu aparelho se conecte a domínios não solicitados/maliciosos.
+- [ublock-hide-yt-shorts](https://github.com/i5heu/ublock-hide-yt-shorts/) - Esconda os vídeos curtos do Youtube que aparecem por padrão no seu feed.
 - [Iploggerfilter](https://github.com/piperun/iploggerfilter) - Nome autoexplicativo.
 - [Fanboy Annoyances List](https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt) - Remove Pop-Ups e outros incômodos.
 - [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - Projeto do github para retirar os anúncios da Twitch. [Guia básico](https://pirataria.link/guias/twitch)
@@ -210,7 +211,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Webtorrent](https://webtorrent.io/desktop/) - Cliente para reproduzir torrents de filmes e streaming sem ter que esperar o torrent terminar baixar.
 - [Transmission](https://transmissionbt.com/about/) - Bem simples de usar e com abundância de torrents (5k-10k+), é bem estável na versão CLI.
 - [Transmission Web](https://www.reddit.com/r/pirataria/comments/1n3mffa/como_configurar_o_transmission_web_para_funcionar/) - Use o transmission no android pelo termux e o controle através do navegador, extremamente prático de se manusear.
-- [Aria2-WebUI](https://gist.github.com/T4P4N/37ea56f0d54138eeaa1c164c54c3d0f2) - Cliente bittorrent baseado em linha de comando, excelente se usado no termux com wakelock dentro do Android.
+- [aria2-webui](https://gist.github.com/T4P4N/37ea56f0d54138eeaa1c164c54c3d0f2) - Cliente bittorrent baseado em linha de comando, excelente se usado no termux com wakelock dentro do Android.
 - 🌟 [**qBittorrent**](https://www.qbittorrent.org/download.php) - Cliente torrent de código aberto. Possui um recurso de pesquisa integrado que procura rastreadores públicos populares. Constantemente atualizado. [**Guia de plugins**](guias/guia-plugins-qbittorrrent.md)
 - [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork do qBittorrent destinado a bloquear clientes de leeching, como o Xunlei.
 - [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - Ideal para smartphones.
