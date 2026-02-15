@@ -132,21 +132,21 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 ‎
 ‎
 
-### 🧵 ➜ Torrent/P2P
+### 🧲 ➜ Torrent/P2P
 
 ---
 
-#### 🧲 [AniRena](https://www.anirena.com/)
+#### 🔗 [AniRena](https://www.anirena.com/)
 
 - Tracker simples para torrents de animes, dramas e músicas.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anirena.com/)
 
-#### 🧲 [Anime Tosho](https://animetosho.org/)
+#### 🔗 [Anime Tosho](https://animetosho.org/)
 
 - Serviço automatizado que espelha torrents de anime para download direto.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animetosho.org/)
 
-#### 🧲 [Anime no Sekai](https://www.ansktracker.net/)
+#### 🔗 [Anime no Sekai](https://www.ansktracker.net/)
 
 - Tracker semi-privado de anime.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/ansktracker.net/)
@@ -162,21 +162,21 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Como pesquisar: `No filter` > `Non-English-translated` > `pt br`.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/nyaa.si/)
 
-#### 🧲 [Projeto AcgnX](https://share.acgnx.se/)
+#### 🔗 [Projeto AcgnX](https://share.acgnx.se/)
 
 - Tracker com mais de 590.000 materiais, interface em chinês.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/share.acgnx.se/)
 
-#### 🧲 [Shakaw](https://tracker.shakaw.com.br/)
+#### 🔗 [Shakaw](https://tracker.shakaw.com.br/)
 
 - Tracker privado. Participe do [servidor do Discord para mais informações](https://discord.gg/dZVbVChdun).
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/tracker.shakaw.com.br/)
 
-#### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
+#### 🔗 [UniOtaku](https://tracker.uniotaku.com/)
 
-- Tracker semi-privado.
+- Tracker semi-privado brasileiro (necessita cadastro, mas qualquer um pode fazer a qualquer momento) de animes legendados por fansubs, ativo desde 2014.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/tracker.uniotaku.com/)  ‎
-#### 🧲 [Erai-Raws](https://www.erai-raws.info/)
+#### 🔗 [Erai-Raws](https://www.erai-raws.info/)
 
 - ScanSubs para quase todas as línguas, fonte para diversos sites de anime.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/erai-raws.info/)‎
