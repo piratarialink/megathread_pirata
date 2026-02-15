@@ -56,7 +56,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [The Mod Archive](https://modarchive.org/)
 
-- Reúne faixas de som feitas em module (que surgiram no Amiga), bastante populares entre a cena antiga - portal que segue em atividade desde 2006.
+- Reúne faixas de som feitas em module: formato que surgiu no commodore amiga bastante popular entre a cena antiga - portal que segue em atividade desde 2006.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/modarchive.org/)
 
 ### 🔗 [3ost](https://3ost.ru/) • Cadastre-se • Interface em russo
