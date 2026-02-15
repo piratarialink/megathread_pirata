@@ -64,7 +64,7 @@
 | 💩 SteamUnlocked          | steamunlocked-net                                               | **Comportamento antiético** (_Uploads de IGG e NosTeam, e host de arquivos muito lento_).    |
 | game-repack               | game-repack-com                                                 | **Fraude** (_Botões de download falsos e remoção de comentários sobre isso_).                |
 | CrackedFully              | crackedfully-com                                                | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).         |
-| Sites falsos da FitGirl   | [lista dos falsos sites](https://rentry.co/FakeFitgirlwebsites) | **Clone falso** (Criado para enganar usuários de propósito).                                 |
+| Sites falsos da FitGirl   | [lista dos sites falsos](https://rentry.co/FakeFitgirlwebsites) | **Clone falso** (Criado para enganar usuários de propósito).                                 |
 | OceanOfGames              | oceanofgames-com                                                | **Vírus** (_Detectado com malware em várias ocasiões_).                                      |
 | CrackingPatching          | crackingpatching-com                                            | **Vírus** (_Detectado com malware_).                                                         |
 | xGIROx                    | xgirox-com                                                      | **Vírus** (_Detectado com malware_).                                                         |
