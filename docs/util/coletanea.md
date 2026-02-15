@@ -102,9 +102,9 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [Mullvad VPN](https://mullvad.net) - Mullvad é uma VPN rápida e barata com foco sério em transparência e segurança. Eles estão em operação desde 2009. A Mullvad está sediada na Suécia.
 
-- [IVPN](https://www.ivpn.net/) - IVPN é outro provedor de VPN premium e está em operação desde 2009. A IVPN está sediada em Gibraltar.
+- [IVPN](https://www.ivpn.net/) - IVPN é outro provedor de VPN premium e está em operação desde 2009. A IVPN está sediada em Gibraltar e conta com uma forte reputação na área de privacidade.
 
-- [Bitwarden](https://bitwarden.com/) - O Bitwarden facilita a geração, armazenamento e proteção de nomes de usuário e senhas exclusivos de qualquer local ou dispositivo.
+- [Bitwarden](https://bitwarden.com/) - O Bitwarden facilita a criação, armazenamento e proteção de nomes de usuário e senhas exclusivos de qualquer local ou dispositivo.
 
 - [Cryptomator](https://github.com/cryptomator/cryptomator) - Criptografia transparente multiplataforma client-side de seus arquivos na nuvem.
 
