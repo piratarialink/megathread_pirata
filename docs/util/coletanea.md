@@ -100,7 +100,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [Proton](https://proton.me/) - O Proton fornece e-mail criptografado, calendário, armazenamento de arquivos e VPN fáceis de usar, baseados no princípio de seus dados, suas regras. Sua privacidade é garantida por criptografia forte, código-fonte aberto e leis de privacidade suíças.
 
-- [Mullvad VPN](https://mullvad.net) - Mullvad é uma VPN rápida e barata com foco sério em transparência e segurança. Eles estão em operação desde 2009. A Mullvad está sediada na Suécia.
+- [Mullvad VPN](https://mullvad.net) - Mullvad é uma VPN rápida e barata com foco sério em transparência e segurança, estão em operação desde 2009 e sediados na Suécia.
 
 - [IVPN](https://www.ivpn.net/) - IVPN é outro provedor de VPN premium e está em operação desde 2009. A IVPN está sediada em Gibraltar e conta com uma forte reputação na área de privacidade.
 
