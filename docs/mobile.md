@@ -321,15 +321,17 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Revdl](https://www.revdl.com/)
 
-- Recursos premium baixando jogos e aplicativos para Android.
+- Recursos premium são liberados simplesmente baixando jogos e aplicativos deste portal.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/revdl.com/)
 
 ### 🔗 [9MOD](https://9mod.com/)
 
+- Compêndio de ferramentas mobile e aplicativos pagos abertos para todo o público.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/9mod.com/)
 
 ### 🔗 [A2ZAPK](https://a2zapk.io/)
 
+- Indexador completo de apks crackeados e publicados diariamente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/a2zapk.io/)
 
 ## 📢 No Telegram
