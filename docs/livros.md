@@ -169,9 +169,9 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Plugin para o Calibre para remover DRM de livros comprados na Amazon ou Google Books.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hakuneko.download/)
 
-## 🧵 Torrent/P2P
+## 🧲 Torrent/P2P
 
-### 🧲 [Academic Torrents](https://academictorrents.com/)
+### 🌟 [Academic Torrents](https://academictorrents.com/)
 
 - Enorme conjunto de dados compartilhados por meio de um sistema distribuído, dando aos pesquisadores acesso a um repositório de dados escalável, seguro e sem risco de falhas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/academictorrents.com/)
@@ -183,7 +183,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Muda constantemente de domínio, para se manter atualizado confira o [subreddit oficial](https://www.reddit.com/r/AudioBookBay/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/audiobookbay.li/)
 
-### 🧲 [MyAnonamouse](https://www.myanonamouse.net/) • Necessário Cadastrar-se
+### 🔗 [MyAnonamouse](https://www.myanonamouse.net/) • Necessário Cadastrar-se
 
 - Ótimo rastreador privado para e-books, audiolivros, desde as mais recentes publicações de grande sucesso até aquelas joias indescritíveis.
 - Para obter um convite, [veja esta página](https://www.myanonamouse.net/inviteapp.php) para mais detalhes.
@@ -270,7 +270,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
 
-- Agregador de fontes/ícones voltado para desenvolvedores & patcher.
+- Patcher e agregador de fontes/ícones voltado para desenvolvedores.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nerdfonts.com/)
 
 ### 🔗 [CreativeFabrica](https://www.creativefabrica.com/freebies/free-fonts/) • Cadastre-se
