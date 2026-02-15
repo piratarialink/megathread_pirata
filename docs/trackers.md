@@ -192,7 +192,7 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 ### 🧲 [OnlyEncodes+](https://onlyencodes.cc/application) | OE
 
 - Encodes x265 e AV1 para streaming.
-- Lançamento da cena tracker com tokens de freeleech quase que diários.
+- A estrela emergente do mundo p2p com tokens de freeleech quase que diários.
 
 ### 🧲 [Orpheus](https://orpheus.network) | OPS | [Entrevista](https://interview.orpheus.network/)
 
