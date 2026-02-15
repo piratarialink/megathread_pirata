@@ -229,7 +229,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Um número considerável de jogos está disponível gratuitamente, incluindo GOG e outros lançamentos da cena especificamente para sistemas Unix.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrminatorr.com/)
 
-## ↗ Launchers de jogos
+## ↗ Launchers de Jogos
 
 ### 🌟 [Heroic Games Launcher](https://heroicgameslauncher.com/)
 
