@@ -65,7 +65,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Shelter](https://github.com/PeterCxy/Shelter)
 
-- Fornece um Perfil de Trabalho (ambiente virtualizado que funciona como um segundo celular) para instalar e clonar apps.
+- Fornece um perfil de trabalho (ambiente virtualizado que funciona como um segundo celular) para instalar e clonar apps.
 
 ### 🌟 [Shizuku](https://github.com/RikkaApps/Shizuku)
 
@@ -331,7 +331,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [A2ZAPK](https://a2zapk.io/)
 
-- Indexador completo de apks crackeados e publicados diariamente a disposição dos usuários.
+- Indexador completo de apks crackeados e publicados diariamente à disposição dos usuários.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/a2zapk.io/)
 
 ## 📢 No Telegram
