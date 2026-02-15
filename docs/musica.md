@@ -272,12 +272,12 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🌟 [**SpotiFLAC-Mobile**](https://github.com/zarzet/SpotiFLAC-Mobile)
 
-- Port do SpotiFLAC escrito em Flutter para iOS e Android.
+- Port do SpotiFLAC escrito em Flutter para iOS e Android, minimalista e pouco exigente em relação a especificações de aparelho.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [**xManager**](https://www.xmanagerapp.com/)
 
-- Aplicativo para instalar mod sem anúncios para o cliente do Spotify no Android.
+- Aplicativo para instalar o mod sem anúncios e com mais alguns recursos úteis para o cliente do Spotify no Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xmanagerapp.com/)
 
 ### 🌟 [**Gyawun**](https://jhelumcorp.github.io/)
