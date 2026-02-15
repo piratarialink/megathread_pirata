@@ -247,7 +247,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Ferramentas de mídia
 
-- 🌟 [**OBS Studio**](https://github.com/obsproject/obs-studio) - Aplicativo de desktop de código aberto, tende a ser opção mais prática quando o assunto é gravação de tela.
+- 🌟 [**OBS Studio**](https://github.com/obsproject/obs-studio) - O Open Broadcaster Software é uma escolha popular entre os usuários para gravar a tela do computador e fazer live streaming, totalmente código aberto, tende a ser opção mais prática em comparação com outros programas proprietários como o Camtasia e Bandicam.
 - [davincibox](https://github.com/zelikos/davincibox) - Instala as dependências necessárias para rodar o DaVinci Resolve (um software de edição não-linear de vídeo excelente e 90% do tempo gratuito) no Fedora.
 - [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente audio codec AC3.
 - [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
