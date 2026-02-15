@@ -270,20 +270,15 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Port do SpotiFLAC escrito em Flutter para iOS e Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🌟 [**Gyawun**](https://jhelumcorp.github.io/)
-
-- Streaming de música de alta qualidade diretamente do seu telefone com facilidade.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/jhelumcorp.github.io/)
-
-### 🌟 [**RiMusic**](https://fast4x.github.io/RiMusic/)
-
-- Aplicativo Android multilíngue e de código aberto projetado para streaming de música diretamente do YouTube.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/fast4x.github.io/)
-
 ### 🌟 [**xManager**](https://www.xmanagerapp.com/)
 
 - Aplicativo para instalar mod sem anúncios para o cliente do Spotify no Android.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xmanagerapp.com/)
+
+### 🌟 [**Gyawun**](https://jhelumcorp.github.io/)
+
+- Streaming de música de alta qualidade diretamente do seu telefone com facilidade.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/jhelumcorp.github.io/)
 
 ### 🌟 [**Spotube**](https://spotube.krtirtho.dev/)
 
