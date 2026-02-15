@@ -97,6 +97,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 ### 🌟 [ElEnemigos](https://elenemigos.com/)
 
 - Ótima seleção de videogames da Steam com restrições de DRM retiradas para instalação através de arquivos zip.
+- Cuidado com o malware em anúncios! Use um [gerenciador de download](https://pirataria.link/ferramentas#%E2%96%BA-gerenciadores-de-download) para baixar dos servidores lentos na medida do possível.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/elenemigos.com/)
 
 ### 🌟 [Online Fix](https://online-fix.me/)
@@ -106,7 +107,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [Ova Games](https://www.ovagames.com/)
 
-- Baixe jogos grátis para PC de várias fontes, incluindo Codex, GOG e ElAmigos. Com excelentes hosts de arquivos, é realmente simples.
+- Baixe jogos grátis para PC de várias fontes, incluindo CODEX, GOG e ElAmigos - com excelentes hosts de arquivos, é realmente simples. / [Falha na conexão? Tente isso.](/guias/dns)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ovagames.com/)
 
 ### 🔗 [Elamigos](https://elamigos.site/)
