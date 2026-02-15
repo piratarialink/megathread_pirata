@@ -220,7 +220,7 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 - Tracker generalista com uma reputação estimada.
 - Abrem para novos cadastros anualmente.
 - Sistema de H&R de 10 dias.
-- Ótimo para garimpar softwares e filmes em hi-res.
+- Ótimo para garimpar software e filmes em hi-res.
 
 ---
 
