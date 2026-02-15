@@ -116,7 +116,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [World of PC](https://worldofpcgames.com/)
 
-- Explore uma vasta coletânea de jogos para Windows, Linux e Mac.
+- Portal criado por volta de 2016 - explore uma vasta coletânea de games nativos para Windows, Linux e Mac.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/worldofpcgames.com/)
 
 ### 🔗 [Abandonware Games](https://abandonwaregames.net/)
