@@ -92,7 +92,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Indexador BitTorrent, rastreador DHT e buscador de torrents.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bitmagnet.io/)
 
-### 🔗 [1337x](https://1337x.to/) / [2](https://1337x.to/about)
+### 🔗 [1337x](https://1337x.to/home) / [2](https://1337x.to/about)
 
 - Lar de alguns dos mais conhecidos repackers e crackers, bem como de uma vasta coleção de arquivos torrent.
 - **Baixar apenas de uploaders verificados - marcados com a faixa azul ou amarela.**
