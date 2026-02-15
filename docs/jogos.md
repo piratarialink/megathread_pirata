@@ -86,7 +86,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🌟 [GOG Games](https://gog-games.to/)
 
-- Cada jogo na biblioteca GOG é gratuito (sem DRM) para download de um vasto compêndio de lançamentos.
+- Cada jogo na biblioteca GOG é gratuito (sem DRM) para download de um vasto compêndio de genêros como RTS, Boomershooter, Simulação, entre outros.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gog-games.to/)
 
 ### 🌟 [Game Bounty](https://gamebounty.world/)
