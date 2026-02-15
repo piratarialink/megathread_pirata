@@ -98,9 +98,9 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - **Baixar apenas de uploaders verificados - marcados com a faixa azul ou amarela.**
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/1337x.to/)
 
-### 🔗 [Bitsearch](https://bitsearch.to/)
+### 🔗 [Bitsearch](https://bitsearch.to/) / [2](https://torrentz2.nz/) / [3](https://solidtorrents.to/)
 
-- Procura avançada que coleta metadados de torrent, como títulos de arquivo, tamanhos de arquivo e um link magnético para fornecer ao visitante.
+- Procura avançada que coleta metadados de torrent, como títulos de arquivo, tamanhos de arquivo e um link magnético para fornecer ao visitante. Muito bem semeado, aparentemente comprou o domínio do SolidTorrents e do Torrentz2.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bitsearch.to/)
 
 ### 🔗 [BT4G](https://bt4g.org/)
@@ -123,7 +123,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Pesquise anonimamente através desta grande coleção em homenagem ao KAT. Os usuários não são rastreados e seus endereços IP são removidos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/idope.se/)
 
-### 🌟 [Knaben Database](https://knaben.org/)
+### 🔗 [Knaben Database](https://knaben.org/)
 
 - Reúne torrents por meio de uma impressionante ferramenta de indexação de múltiplos trackers.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/knaben.org/)
@@ -159,35 +159,10 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Banco de dados considerável de torrents com um extenso catálogo, apresentando uma gama diversificada de mídia. Bem semeado.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentdownloads.pro/)
 
-### 🌟 [TorrentGalaxy](https://torrentgalaxy.to/) / [2](https://torrends.to/proxy/torrentgalaxy)
-
-- A estrela emergente do mundo p2p, com uma comunidade jovem, fresca e aberta onde você pode descobrir quase tudo.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentgalaxy.to/)
-
 ### 🔗 [TorrentLeech](https://www.torrentleech.org/) • Cadastre-se
 
 - Frequentemente são dados convites aos usuários deste cobiçado site rastreador privado, oferecendo torrents em todas as categorias em velocidades incomparáveis.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentleech.org/)
-
-### 🔗 [TorrentLite](https://torrentlite.org/)
-
-- Cataloga todas as formas de mídia de entretenimento em todas as categorias.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentlite.org/)
-
-### 🔗 [Torrentz2](https://torrentz2.nz/)
-
-- Grande motor de busca para os dias atuais que indexa todos os tipos de arquivos da web.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentz2.nz/)
-
-### 🔗 [SolidTorrents](https://solidtorrents.to/)
-
-- Mecanismo de busca de torrent baseado em DHT que se esforça para tornar a descoberta e o download de torrents simples para qualquer pessoa.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/solidtorrents.to/)
-
-### 🔗 [TorrentFunk](https://www.torrentfunk.com/)
-
-- Buscador rápido com as séries de TV, filmes, jogos, software e torrents de anime mais atualizados.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentfunk.com/)
 
 ### 🔗 [TorrentSeeker](https://www.torrentseeker.com/)
 
