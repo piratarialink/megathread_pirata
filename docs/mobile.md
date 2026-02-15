@@ -46,7 +46,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Reprodutor de vídeo escrito em C, é considerado bastante competente e livre de propagandas. Mesmo conceito do [Next Player](https://github.com/anilbeesetti/nextplayer): gratuito e de código aberto.
 
-### 🌟 [ReVanced](https://revanced.app)
+### 🌟 [Re𝕍anced](https://revanced.app)
 
 - Um gerenciador que aplica patches e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário o APK do Youtube)
 - [Guia para aplicar ReVanced no YT (Instale a versão sugerida do YouTube via ADB)](https://www.reddit.com/r/revancedapp/comments/159zbb6/guide_youtube_revanced/)
