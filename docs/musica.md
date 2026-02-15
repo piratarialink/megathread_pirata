@@ -53,7 +53,12 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - Baixe músicas diretamente do Spotify, Apple Music, Amazon Music, Soundcloud, Qobuz, Deezer, Tidal, Napster, Beatport ou KKBOX gratuitamente.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doubledouble.top/)
-  
+
+### 🔗 [The Mod Archive](https://modarchive.org/)
+
+- Reúne faixas de som feitas em module (que surgiram no Amiga), bastante populares entre a cena antiga - em atividade desde 2006.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doubledouble.top/)
+
 ### 🔗 [3ost](https://3ost.ru/) • Cadastre-se • Interface em russo
 
 - Excelentes trilhas sonoras sem perdas e com perdas (_FLAC e MP3 320kbps_) de jogos, filmes e desenhos animados estão incluídas nesta coleção.
