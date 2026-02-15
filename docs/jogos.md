@@ -340,7 +340,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Mecanismo de busca que ajuda seus usuários a encontrar downloads de videogames gratuitos. Inclui novos links, bem como uma lista de sites atualizados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravegamesearch.pages.dev/)
 
-## 🧵 Torrent/P2P
+## 🧲 Torrent/P2P
 
 ### 🌟 [DODI Repacks](https://dodi-repacks.site/)
 
@@ -356,34 +356,34 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - O Steam Verde é uma plataforma online de jogos para PC e Android, oferecendo downloads via torrent com uma interface organizada. Conta com uma comunidade ativa que fornece tutoriais e suporte, além de manter os usuários informados sobre lançamentos. O site possui proteção antivírus e é baseado na plataforma segura Invision Community.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamverde.net)
 
-### 🧲 [Ecológica Verde](https://x.com/Ecologica2Verde)
-:::warning Uma pequena quantia de jogos, [distribuidos pelos mesmos](https://xcancel.com/Reeshasx/status/2008612949381005757), foram retiradas de uma fonte não confiável [IGG-Games](https://pirataria.link/sites-inseguros#%F0%9F%8E%AE-%E2%9E%9C-jogos), utilize por sua conta em risco. Caso for utilizar, cheque de qual fonte foi retirada o jogo antes de baixar.
+### 🔗 [Ecológica Verde](https://x.com/Ecologica2Verde)
+:::warning Uma pequena quantia de jogos, [distribuidos pelos mesmos](https://xcancel.com/Reeshasx/status/2008612949381005757), foram retirados de uma fonte não confiável [IGG-Games](https://pirataria.link/sites-inseguros#%F0%9F%8E%AE-%E2%9E%9C-jogos), utilize por sua conta em risco. Caso for utilizar, cheque de qual fonte foi retirada o jogo antes de baixar.
 :::
 
 - Perfil que divulga links para jogos via torrent, também possui um grupo no Discord bem ativo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/x.com/)
 
-### 🧲 [Online Fix](https://online-fix.me/) [📣](https://t.me/s/onlinefix)
+### 🔗 [Online Fix](https://online-fix.me/) [📣](https://t.me/s/onlinefix)
 
 - Jogue jogos online pirata com seus amigos, de forma gratuita com suporte de convite via Steam.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
 
-### 🧲 [Free GOG PC Games](https://freegogpcgames.com/)
+### 🔗 [Free GOG PC Games](https://freegogpcgames.com/)
 
 - Fornecem jogos DRM-FREE de fontes que foram cuidadosamente examinadas antes de serem disponibilizadas para download.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/freegogpcgames.com/)
 
-### 🧲 [Free Linux PC Games](https://freelinuxpcgames.com/)
+### 🔗 [Free Linux PC Games](https://freelinuxpcgames.com/)
 
 - Fornece jogos pré-instalados e com instaladores compativeis diretamente com Linux, sem precisar da camada de compatibilidade Wine.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/freelinuxpcgames.com/)
 
-### 🧲 [KaOsKrew](https://kaoskrew.org/)
+### 🔗 [KaOsKrew](https://kaoskrew.org/)
 
 - Rippers old school que, pelo menos nas últimas duas décadas, produziram rips e repacks em um ritmo alarmante.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kaoskrew.org/)
 
-### 🧲 [Xatab](https://byxatab.com/) • Interface em russo
+### 🔗 [Xatab](https://byxatab.com/) • Interface em russo
 
 - Este repacker é amplamente considerado como um dos melhores no cenário de videogames piratas, conquistando a confiança dos jogadores em todos os lugares.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/byxatab.com/)
