@@ -74,19 +74,19 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Uma coleção impressionante e confiável de temas de OPs e EDs de anime com links diretos para conteúdo para download de alta qualidade.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animethemes.moe/)
 
-### 🔗 [Folksoundomy: trilhas sonoras de jogos](https://archive.org/details/folksoundomy_gamesoundtracks)
+### 🔗 [Folksoundomy: Game Soundtracks](https://archive.org/details/folksoundomy_gamesoundtracks)
 
 - Uma seleção de músicas de videogame e algumas trilhas sonoras de anime criada por voluntários para ser o mais acessível possível.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
-### 🔗 [KHInsider: Música de videogame](https://downloads.khinsider.com/)
+### 🔗 [KHInsider: Video Game Music](https://downloads.khinsider.com/)
 
 - Definitivamente, um excelente site para downloads de MP3 e sem perdas de trilhas sonoras de jogos de console e PC que, de outra forma, são bastante difíceis de encontrar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloads.khinsider.com/)
 
 ### 🔗 [Scnlog](https://scnlog.me/)
 
-- Uma infinidade de músicas de quase todos os genêros possíveis, inclusive em FLAC.
+- Uma infinidade de músicas de quase todos os genêros e formatos possíveis, inclusive em FLAC.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
 
 ### 🔗 [Sitting on Clouds](https://www.sittingonclouds.net/)
