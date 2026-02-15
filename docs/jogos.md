@@ -84,33 +84,53 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Maior fórum do mundo dedicado à pirataria de videogames, é uma valiosa fonte de jogos e recursos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cs.rin.ru/)
 
-### 🔗 [CDX](https://www.skidrowcodex.net/)
+### 🌟 [GOG Games](https://gog-games.to/)
 
-:::warning Sites com a combinação de nomes: Codex, Cpy, Skidrow, Hoodlum, Reloaded, Simplex, Darksiders, Plaza, etc. podem não ser seguros. Baixe com cautela.
-:::
+- Cada jogo na biblioteca GOG é gratuito (sem DRM) para download de um vasto compêndio de lançamentos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gog-games.to/)
 
-- Quebra o Denuvo de alguns jogos e em alguns casos apenas.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/skidrowcodex.net/)
+### 🌟 [Game Bounty](https://gamebounty.world/)
 
-### 🔗 [Online Fix](https://online-fix.me/)
-
-- Jogue jogos online piratas com seus amigos, de forma gratuita com suporte de convite via Steam.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
+- Variedade de jogos novos e clássicos pré-instalados de fácil acesso para você se divertir.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamebounty.world/)
 
 ### 🌟 [ElEnemigos](https://elenemigos.com/)
 
 - Ótima seleção de videogames da Steam para instalação via arquivos zipados e sem restrições de DRM.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/elenemigos.com/)
 
+### 🌟 [Online Fix](https://online-fix.me/)
+
+- Jogue jogos online piratas com seus amigos, de forma gratuita com suporte de convite via Steam.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
+
+### 🔗 [Ova Games](https://www.ovagames.com/)
+
+- Baixe jogos grátis para PC de várias fontes, incluindo Codex, GOG e ElAmigos. Com excelentes hosts de arquivos, é realmente simples.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ovagames.com/)
+
 ### 🔗 [Elamigos](https://elamigos.site/)
 
 - Releases sem perdas, sem recodificação de áudio, com vídeo + texturas. Uma opção popular para obter novos jogos para PC.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/elamigos.site/)
 
+### 🔗 [World of PC](https://worldofpcgames.com/)
+
+- Explore uma vasta coletânea de jogos para Windows, Linux e Mac.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/worldofpcgames.com/)
+
 ### 🔗 [Abandonware Games](https://abandonwaregames.net/)
 
 - Arquivo que preserva e disponibiliza downloads de jogos antigos de diversas plataformas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/abandonwaregames.net/)
+
+### 🔗 [CODEX](https://www.skidrowcodex.net/)
+
+:::warning Sites com a combinação de nomes: Codex, Cpy, Skidrow, Hoodlum, Reloaded, Simplex, Darksiders, Plaza, etc. podem não ser seguros. Baixe com cautela.
+:::
+
+- Quebra o Denuvo de alguns jogos e em alguns casos apenas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/skidrowcodex.net/)
 
 ### 🔗 [PC Games Abandonware](https://www.pcgamesabandonware.com/en/home)
 
@@ -121,11 +141,6 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 - Jogos inalterados e pré-instalados provenientes diretamente de fontes como ElAmigos, DODI, FitGirl, KaosKrew e Xatab.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/atopgames.com/)
-
-### 🌟 [Game Bounty](https://gamebounty.world/)
-
-- Variedade de jogos novos e clássicos pré-instalados de fácil acesso para você se divertir.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamebounty.world/)
 
 ### 🔗 [Games 4 You](https://g4u.to/)
 
@@ -157,11 +172,6 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Site conhecido na cena por seus lançamentos, fornece uma infinidade de hospedadores de arquivos gratuitos e fáceis de usar que são facilmente acessíveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gload.to/)
 
-### 🌟 [GOG Games](https://gog-games.to/)
-
-- Cada jogo na biblioteca GOG é gratuito (sem DRM) para download de um vasto compêndio de lançamentos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gog-games.to/)
-
 ### 🔗 [MagiPack Games](https://archive.org/details/@magitompg)
 
 - Repacks de jogos retrô, old school e vintage compatíveis com as compilações atuais do Windows.
@@ -181,11 +191,6 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 - Tudo sobre jogos de computador antigos, use um tradutor.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/old-games.ru/)
-
-### 🔗 [Ova Games](https://www.ovagames.com/)
-
-- Baixe jogos grátis para PC de várias fontes, incluindo Codex, GOG e ElAmigos. Com excelentes hosts de arquivos, é realmente simples.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ovagames.com/)
 
 ### 🔗 [PiviGames](https://pivigames.blog/) • Interface em espanhol
 
@@ -219,13 +224,8 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [Torrminatorr](https://torrminatorr.com/) - Necessário Cadastro
 
-- Um número considerável de jogos está disponível gratuitamente, incluindo GOG e outros lançamentos da cena.
+- Um número considerável de jogos está disponível gratuitamente, incluindo GOG e outros lançamentos da cena especificamente para sistemas Unix.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrminatorr.com/)
-
-### 🔗 [World of PC](https://worldofpcgames.com/)
-
-- Explore uma vasta coletânea de jogos para Windows, Linux e Mac.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/worldofpcgames.com/)
 
 ## ↗ Launchers de jogos
 
