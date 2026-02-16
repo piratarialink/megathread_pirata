@@ -103,7 +103,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 ### 🌟 [Online Fix](https://online-fix.me/)
 
 - Jogue jogos online piratas com seus amigos, de forma gratuita com suporte de convite via Steam.
-- Detectado como Game Hack pelo VirusTotal, confie somente nos arquivos que vieram do site acima (procure pelo FixRepair do jogo desejado diante de alguma suspeita).
+- Detectado como Game Hack pelo VirusTotal, falso positivo. Confie somente nos arquivos que vieram do site acima (procure pelo FixRepair do jogo desejado diante de alguma suspeita).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
 
 ### 🔗 [Ova Games](https://www.ovagames.com/)
