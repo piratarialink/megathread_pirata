@@ -298,7 +298,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [kick-dl](https://github.com/juliogarciape/kick-dl) - Mesmo conceito do twitch-dl, só que para a kick.com.
 - [scribd-dl](https://github.com/rkwyu/scribd-dl) - Downloader projetado para o scribd.com e slideshare.net. Caso você não queira instalar as dependências, [existem algumas alternativas aqui](https://pirataria.link/ferramentas#%E2%96%BA-ferramentas-diversas) — embora não sejam tão seguras.
 - [gallery-dl](https://github.com/mikf/gallery-dl) - O gallery-dl é um programa de linha de comando para baixar galerias e coleções de imagens de vários image hosts.
-- [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos, seja MP4, MP3 ou AAC, focado no Edge e Chromium
+- [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos, seja MP4, MP3 ou AAC, focado no Edge e Chromium.
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy, porém, tal qual o TubeDigger em algumas situações somente.
 - **[Trialware]** [Allavsoft](https://www.allavsoft.com/) - Downloader chinês de mídia e elementos da web, é 50% do tempo gratuito e baseado no yt-dlp. Pode lidar com automação e operações que exigem grande esforço também.
 - [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injector para aplicativos UWP para burlar sistemas de criptografia com força bruta, indicado apenas para usuários avançados. 
