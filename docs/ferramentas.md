@@ -306,7 +306,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Baixa em massa de episódios de anime de vários sites, em várias resoluções, com ou sem episódios filler.
 - [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp sem pagar absolutamente um dobrão por isso.
 - [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download.
-- [MPMux](https://mpmux.com/pt) - Pode baixar vídeos no formato HLS, .m3u8, MP4 e WebM, e ainda conta com uma variedade de modos de gravação + recursos extras.
+- [MPMux](https://mpmux.com/pt) - Pode baixar vídeos no formato HLS, .m3u8, MP4 e WebM, e ainda conta com uma variedade de modos de gravação + recursos extras como brinde.
 - [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar e fazer scraping de mídias de vários domínios da internet.
 - **[Trialware]** [StreamFab](https://streamfab.com/) - Programa focado em oferecer a opção de download direto em plataformas de streaming para os usuários - consegue baixar da globoplay, disney+ e hbo max.
 - [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 Gbps por 6 horas do Mega - confira nossa [guia de como burlar a restrição do mega.nz de cota por uso através de proxies.](https://pirataria.link/guias/burlando-limite-mega)
