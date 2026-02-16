@@ -129,7 +129,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 ### 🔗 [CODEX](https://www.skidrowcodex.net/)
 
 - Grupo warez fundado em meados de 2014, conhecido por lançar/compartilhar repacks que quebram o denuvo de alguns jogos - geralmente os mais em alta.
-- **Atenção: sites com a combinação de nomes: Codex, Cpy, Skidrow, Hoodlum, Reloaded, Simplex, Darksiders, Plaza, etc. podem não ser seguros. Baixe com cautela.**
+- **Atenção! Sites com a combinação de nomes: Codex, Cpy, Skidrow, Hoodlum, Reloaded, Simplex, Darksiders, Plaza, etc. podem não ser seguros. Baixe com cautela.**
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/skidrowcodex.net/)
 
 ### 🔗 [PC Games Abandonware](https://www.pcgamesabandonware.com/en/home)
