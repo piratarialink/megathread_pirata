@@ -286,9 +286,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [DownThemAll](https://github.com/downthemall/downthemall) - Perfeito para download massivo de arquivos de grandes tamanhos sejam eles protegidos ou não.
 - **[Trialware]** [Downie](https://software.charliemonroe.net/downie/) - Downloader exclusivo do OS X que pode baixar arquivos de múltiplos hosters de conteúdo - não apenas do YouTube.
 - [Cleverget All-In-One](https://cleverget.org/) - Baixa vídeos de diversas plataformas no PC, gratuito para uso pessoal e baseado em uma gama de modos especialmente feitos para a netflix, amazon prime e apple tv.
-- [1DM](https://www.apps2sd.info/idmp/faq) - Browser e downloader de vídeos de diversas plataformas para o Android.
-- **[Pago]** [1DM+](https://tekmods.com/1dm-browser-video-audio-torrent-downloader/) - Pode obter documentos maiores que 1MB do Doceru.
-- **[Pago]** [TubeDigger](https://www.tubedigger.com/) - Conversor que pode baixar legendas subrip e vídeos da hotmart em alguns casos apenas. 
+- **[Trialware]** [1DM](https://www.apps2sd.info/idmp/faq) - Browser e downloader de vídeos de diversas plataformas para o Android.
+- **[Pago]** [1DM+](https://www.apps2sd.info/idmp/faq) - Pode obter documentos maiores que 1MB do Doceru - [versão marítima](https://tekmods.com/1dm-browser-video-audio-torrent-downloader/).
+- **[Pago]** [TubeDigger](https://www.tubedigger.com/) - Converter que pode baixar legendas subrip e vídeos da hotmart em alguns casos apenas. 
 - 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Fonte inesgotável de recursos para baixar vídeo/áudio, remuxar e mesclar items de uma grande variedade de páginas e plataformas de streaming. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente.
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um GUI-wrapper multiplataforma para o yt-dlp escrito em PySide6.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - Outro frontend para o yt-dlp disponível para sistemas Unix e Windows.
@@ -297,21 +297,21 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [twitch-dl](https://github.com/ihabunek/twitch-dl) - O twitch downloader é um recurso gratuito para obter VODs exclusivos para subs dentro da Twitch.
 - [kick-dl](https://github.com/juliogarciape/kick-dl) - Mesmo conceito do twitch-dl, só que para a kick.com.
 - [scribd-dl](https://github.com/rkwyu/scribd-dl) - Downloader projetado para o scribd.com e slideshare.net. Caso você não queira instalar as dependências, [existem algumas alternativas aqui](https://pirataria.link/ferramentas#%E2%96%BA-ferramentas-diversas) — embora não sejam tão seguras.
-- [gallery-dl](https://github.com/mikf/gallery-dl) - gallery-dl é um programa de linha de comando para baixar galerias e coleções de imagens de vários hosts de imagens.
+- [gallery-dl](https://github.com/mikf/gallery-dl) - O gallery-dl é um programa de linha de comando para baixar galerias e coleções de imagens de vários image hosts.
 - [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos, seja MP4, MP3 ou AAC, focado no Edge e Chromium
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy, porém, tal qual o TubeDigger em algumas situações somente.
-- **[Trialware]** [Allavsoft](https://www.allavsoft.com/) - Downloader chinês 50% do tempo gratuito de mídia e elementos da web, é baseado no yt-dlp e pode lidar com automação e operações que exigem grande esforço.
+- **[Trialware]** [Allavsoft](https://www.allavsoft.com/) - Downloader chinês de mídia e elementos da web, é 50% do tempo gratuito e baseado no yt-dlp. Pode lidar com automação e operações que exigem grande esforço também.
 - [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injector para aplicativos UWP para burlar sistemas de criptografia com força bruta, indicado apenas para usuários avançados. 
-- [Fetchv](https://fetchv.net/pt-br) - Com o FetchV, você poderá fazer o download de vídeos dentro do seu navegador, prático de se usar.
-- [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Baixa em massa de episódios de anime para vários sites, em várias resoluções, com ou sem episódios filler.
-- [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp sem pagar absolutamente nada.
+- [Fetchv](https://fetchv.net/pt-br) - Com o FetchV, você poderá fazer o download de vídeos dentro do seu navegador, prático e intuitivo de se usar.
+- [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Baixa em massa de episódios de anime de vários sites, em várias resoluções, com ou sem episódios filler.
+- [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp sem pagar absolutamente um dobrão por isso.
 - [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download.
-- [MPMux](https://mpmux.com/pt) - Pode baixar vídeos no formato HLS, .m3u8, MP4 e WebM, e ainda vem com uma variedade de modos de gravação + recursos extras.
+- [MPMux](https://mpmux.com/pt) - Pode baixar vídeos no formato HLS, .m3u8, MP4 e WebM, e ainda conta com uma variedade de modos de gravação + recursos extras.
 - [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar e fazer scraping de mídias de vários domínios da internet.
 - **[Trialware]** [StreamFab](https://streamfab.com/) - Programa focado em oferecer a opção de download direto em plataformas de streaming para os usuários - consegue baixar da globoplay, disney+ e hbo max.
-- [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 Gbps por 6 horas do Mega - confira nossa [guia de como burlar a restrição do mega.nz com proxies.](https://pirataria.link/guias/burlando-limite-mega)
+- [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 Gbps por 6 horas do Mega - confira nossa [guia de como burlar a restrição do mega.nz de cota por uso através de proxies.](https://pirataria.link/guias/burlando-limite-mega)
 - [Soundcloud Downloader](https://github.com/NotTobi/soundcloud-dl) - Extensão do Firefox. Ao visitar o site do soundcloud.com será exibido um ícone na barra de tarefas para salvar o que tu deseja ouvir depois.
-- [Katomart](https://katomart.com/) - Aplicativo em produção que faz o download de vídeos de plataformas EaD, legalmente. (de acordo com o artigo 184 do código penal que defende a cópia de obra intelectual para uso privado do copista)
+- [Katomart](https://katomart.com/) - Ferramenta em produção que faz o download de vídeos de plataformas EaD, legalmente. (de acordo com o artigo 184 do código penal que defende a cópia de obra intelectual para uso privado do copista)
 - [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de conteúdo do site GetComics.info facilmente.
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) - Para baixar o vídeo do iPlayer da BBC Brasil sem lidar com pormenores como descriptografia DRM.
 
