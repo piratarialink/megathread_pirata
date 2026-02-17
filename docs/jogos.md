@@ -241,7 +241,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🚀 [Prism Launcher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked?tab=readme-ov-file)
 
-- Um derivado do [Prism Launcher](https://prismlauncher.org/) que desbloqueia o uso de contas offline no Minecraft, FLOSS e gerenciado pela comunidade, disponível para Linux e OS X também! Caso não funcione [tente isso.](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
+- Um derivado do [Prism Launcher](https://prismlauncher.org/) que desbloqueia o uso de contas offline no Minecraft, FLOSS e gerenciado pela comunidade, disponível para sistemas Unix e OS X também! Caso não funcione [tente isso.](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🚀 [Playnite](https://playnite.link/)
