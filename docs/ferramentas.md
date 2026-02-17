@@ -302,7 +302,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy, porém, tal qual o TubeDigger em algumas situações somente.
 - **[Trialware]** [Allavsoft](https://www.allavsoft.com/) - Downloader chinês de mídia e elementos da web, é 50% do tempo gratuito e baseado no yt-dlp. Pode lidar com automação e operações que exigem grande esforço também.
 - [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injector para aplicativos UWP para burlar sistemas de criptografia com força bruta, indicado apenas para usuários avançados.
-- [Instaloader](https://instaloader.github.io/) - Não requer que você logue em sua conta para baixar metadados, vídeos e fotos do instagram. Não permite baixar conteúdo de contas com restrição/perfil privado.
+- [Instaloader](https://instaloader.github.io/) - Não requer que você logue em sua conta para baixar metadados, vídeos e fotos do instagram - não permite baixar conteúdo de contas com restrição/perfil privado.
 - [Fetchv](https://fetchv.net/pt-br) - Com o FetchV, você poderá fazer o download de vídeos dentro do seu navegador, prático e intuitivo de se usar.
 - [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp sem pagar absolutamente um dobrão por isso.
 - [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download.
