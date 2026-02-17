@@ -38,7 +38,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### ▶️ [AnimeDays](https://animedays.org)
 
-- Site seguro para assistir animes **sem interrupções ou anúncios**.
+- Site seguro para assistir animes **sem interrupções ou anúncios**, em várias resoluções, com ou sem episódios filler.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animedays.org/)
 
 #### ▶️ [4anime](https://4anime.gg)
