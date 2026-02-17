@@ -23,7 +23,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [App Manager](https://muntashirakon.github.io/AppManager/en/)
 
-- Gerenciador de pacotes do Android, oferece uma gama de recursos para usuários com root e sem por meio do wireless debugging. Pode gerir permissões de apps, bloquear anúncios direto do componente-fonte e validar checksums.
+- Gerenciador de pacotes do Android, oferece uma gama de recursos para usuários com ou sem root por meio do wireless debugging. Pode gerir permissões de apps, bloquear anúncios direto do componente-fonte e validar checksums.
 
 ### 🔗 [AntiSplit-M](https://github.com/FlutterGenerator/AntiSplit-M) 
 
@@ -106,13 +106,8 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Accrescent](https://accrescent.app/)
 
-- Loja de aplicativos Android moderna e segura que prioriza a privacidade do usuário e a acessibilidade do desenvolvedor.
+- Loja de aplicativos Android atualmente em alpha; bastante moderna e segura, prioriza a privacidade do usuário e a acessibilidade do desenvolvedor.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/accrescent.app/)
-
-### 🔗 [ACMarket](https://acmarket.net/)
-
-- Seleção premium de aplicativos e jogos modificados, aprimorados e crackeados.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/acmarket.com/)
 
 ### 🔗 [Material You](https://github.com/nyas1/Material-You-app-list)
 
@@ -128,7 +123,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [APKMirror](https://www.apkmirror.com/)
 
-- Acesso seguro e irrestrito a uma infinidade de downloads de APK do Android sem custo.
+- Acesso seguro e irrestrito à uma infinidade de downloads de APK do Android sem custo - use o AntiSplit-M para extrair aplicativos em formato APKM.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmirror.com/)
 
 ### 🌟 [APKPure](https://apkpure.net/)
@@ -168,7 +163,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [APKToy](https://www.apktoy.com/)
 
-- Obtenha arquivos APK rapidamente para seus dispositivos sem problemas.
+- Obtenha arquivos APK rapidamente para seu dispositivo enfrentar com problemas de segurança e aplicativos falsos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apktoy.com/)
 
 ### 🔗 [APKSum](https://www.apksum.com/)
@@ -185,32 +180,32 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [Tekmods](https://tekmods.com/)
 
-- Site brasileiro, acesse o chat do telegram para sugerir novos mods ou atualizações.
+- Site pirata brasileiro, acesse o chat do telegram para sugerir novos mods, interagir com a staff ou pedir atualizações.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/tekmods.com/)
 
 ### 🌟 [Mobilism](https://forum.mobilism.org/index.php) • Necessário Cadastro
 
-- Recurso obrigatório para aplicativos e livros. Com uma grande base de usuários e confiado pela comunidade, este site fornece acesso direto às versões mais recentes de apks modificados.
+- Fórum inestimável com uma grande base de usuários e confiado pela comunidade, fornece acesso direto a livros e versões mais recentes de apks modificados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/)
 
 ### 🌟 [MODYOLO](https://modyolo.com/)
 
-- Especializado em modificações de aplicativos e jogos premium de várias fontes.
+- Especializado em modificações de aplicativos e jogos premium de várias fontes, sejam oficiais ou não.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/modyolo.com/)
 
 ### 🌟 [Androeed](https://androeed.store/)
 
-- Descubra uma ampla variedade de jogos, hacks de APK e versões premium.
+- Descubra uma ampla variedade de jogos, hacks de APK e versões premium sem pagar um mísero dobrão sequer!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/androeed.store/)
 
 ### 🔗 [AN1](https://an1.com/)
 
-- Versões mais recentes de jogos e apps Android, garantindo desempenho ideal.
+- Cataloga as versões mais recentes de jogos e apps Android crackeados por outros grupos para download direto.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/an1.com/)
 
 ### 🔗 [Android Republic](https://androidrepublic.org/portal/)
 
-- Mods Android avançados e exclusivos desde 2014, garantindo qualidade e crescimento.
+- Mods avançados e exclusivos desde 2014 para o sistema Android, garantindo qualidade no que distribui.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/androidrepublic.org/)
 
 ### 🔗 [AppDB](https://appdb.to/)
@@ -230,7 +225,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [APKKIT](https://apkkit.com/)
 
-- Downloads seguros de software para smartphones em todo o mundo. Possui uma ampla variedade de aplicativos e jogos.
+- Download seguro de softwares para smartphones disponíveis para o grande público.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkkit.com/)
 
 ### 🔗 [APKMB](https://apkmb.com/)
@@ -255,33 +250,32 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Appteka](https://appteka.store/)
 
-- Loja Android que dá acesso a uma vasta coleção de aplicativos gratuitos e crackeados.
+- Loja Android que dá acesso à uma vasta coleção de aplicativos gratuitos e crackeados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/appteka.store/)
 
 ### 🔗 [ApkVision](https://apkvision.org/)
 
-- Ampla variedade de aplicativos e jogos premium, permitindo downloads em diversas categorias.
+- Gama diversa de aplicativos e jogos premium, permitindo downloads em várias categorias e arquiteturas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkvision.org/)
 
 ### 🔗 [DlAndroid](https://dlandroid.com/)
 
-- Ótimos links para download, onde você pode acessar aplicativos e jogos APK premium gratuitamente.
+- Links para download constantemente atualizados assim que caiem, aqui você pode acessar aplicativos e jogos APK premium de forma gratuita.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/dlandroid.com/)
 
 ### 🔗 [farsroid](https://www.farsroid.com/) • UI em persa
 
-- Downloads de jogos e aplicativos Android mais recentes e seguros com mods testados incluídos.
+- Downloads de jogos e aplicativos Android mais recentes e seguros com mods testados e aprovados incluídos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/farsroid.com/)
 
 ### 🔗 [IOSGods](https://iosgods.com/)
 
 - Conhecido por trazer sempre os últimos lançamentos quando a questão é desbloquear aplicativos no IOS.
-
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/iosgods.com/)
 
 ### 🔗 [iHackedit](https://ihackedit.com/)
 
-- Grande variedade de jogos, aplicativos e mods gratuitos, tornando-o uma ótima escolha.
+- Grande variedade de jogos, aplicativos e mods gratuitos, tornando-o uma ótima escolha para quem quer se aventurar pelos sete mares.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ihackedit.com/)
 
 ### 🔗 [CyPwn](https://ipa.cypwn.xyz/)
@@ -291,7 +285,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [LITEAPKS](https://liteapks.com/)
 
-- Belo site com bom histórico, oferecendo mods exclusivos aos usuários.
+- Belo site com um bom histórico no mundo pirata, oferece mods exclusivos aos usuários.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/liteapks.com/)
 
 ### 🔗 [MicroTech Apps](https://apps.themicrotech.net/)
@@ -311,7 +305,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [RB Mods](https://www.rockmods.net/)
 
-- Fonte de aplicativos Android premium, apresentando apenas os melhores, confiáveis e totalmente funcionais.
+- Fonte de aplicativos Android premium, apresenta apenas os melhores, mais confiáveis e totalmente funcionais aplicativos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/rockmods.net/)
 
 ### 🔗 [ReleaseAPK](https://forum.release-apk.com/index.php) • Necessário Cadastro
