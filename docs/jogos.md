@@ -236,7 +236,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🚀 [Legacy Launcher](https://llaun.ch/pt-BR)
 
-- Um aplicativo completamente seguro e livre de bundleware para Minecraft, ao contrário do TLauncher.
+- Um aplicativo completamente seguro e livre de bundleware para Minecraft, ao contrário do TLauncher - a versão em português do site segue ativa e sem DMCA.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/llaun.ch)
 
 ### 🚀 [Prism Launcher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked?tab=readme-ov-file)
