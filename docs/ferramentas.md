@@ -68,7 +68,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**GameMode**](https://github.com/FeralInteractive/gamemode) - Abre uma brecha para que jogos (e aplicações) recebam otimizações sem exigir tanto poder de processamento da CPU/GPU - Tópico original do [mastercomfig.](https://docs.comfig.app/latest/os/linux/#gamemode)
 - [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar diversas versões do OS X no Linux. Com suporte a GPU dedicada + macOS Tahoe.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
-- 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova anúncios da Canonical como o Ubuntu PRO na linha de comando e mensagens ESM com esse método - Post original do [Ask Ubuntu](https://askubuntu.com/a/1438510).
+- 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova anúncios da Canonical como o Ubuntu PRO no terminal e mensagens ESM com esse método - Post original do [Ask Ubuntu](https://askubuntu.com/a/1438510).
 - 🌟 [**ubuntu-debullshit!**](https://github.com/polhdez/ubuntu-debullshit) - Retira a coleta de dados e os snaps da Canonical, **em versões mais recentes do Ubuntu (incluindo LTS), a telemetria é mais opt-out - você precisa desativá-la durante a instalação** - Post original por [u/klfld](https://www.reddit.com/r/linux/comments/13fj1xf/ubuntudebullshit_script_to_get_vanilla_gnome/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button).
 - [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Port não oficial do Lossless Scaling para GNU/Linux e Steam Deck; necessita da dll do lossless scaling para funcionar, a qual você pode extrair da [versão marítima do LS sem pagar nada](https://cs.rin.ru/forum/viewtopic.php?f=41&t=94507&hilit=lossless+scallin&start=1155).
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV com suporte para TV ao vivo, filmes e seriados. Possui desenvolvimento ativo apenas para o Mint, no entanto, pode rodar em qualquer distro com a build ou pelo [Distrobox](https://distrobox.it) (recomendado) - Repo para o circle-flags disponível em [packages-linuxmint.](http://packages.linuxmint.com/pool/main/c/circle-flags/)
@@ -281,7 +281,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Ferramentas de download
 
 - [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites.
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta para baixar imagens/vídeos/música/texto e muito mais.
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta baseada no yt-dlp para baixar imagens/vídeos/música/texto e muito mais - requer que tu logue na sua conta para efetuar o download direto de redes sociais.
 - [Côc Côc](https://coccoc.com/) - Navegador vietnamita que baixa vídeos da hotmart/kiwify apenas no PC.
 - [DownThemAll](https://github.com/downthemall/downthemall) - Perfeito para download massivo de arquivos de grandes tamanhos sejam eles protegidos ou não.
 - **[Trialware]** [Downie](https://software.charliemonroe.net/downie/) - Downloader exclusivo do OS X que pode baixar arquivos de múltiplos hosters de conteúdo - não apenas do YouTube.
@@ -297,11 +297,12 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [twitch-dl](https://github.com/ihabunek/twitch-dl) - O twitch downloader é um recurso gratuito para obter VODs exclusivos para subs dentro da Twitch.
 - [kick-dl](https://github.com/juliogarciape/kick-dl) - Mesmo conceito do twitch-dl, só que para a kick.com.
 - [scribd-dl](https://github.com/rkwyu/scribd-dl) - Downloader projetado para o scribd.com e slideshare.net. Caso você não queira instalar as dependências, [existem algumas alternativas aqui](https://pirataria.link/ferramentas#%E2%96%BA-ferramentas-diversas) — embora não sejam tão seguras.
-- [gallery-dl](https://github.com/mikf/gallery-dl) - O gallery-dl é um programa de linha de comando para baixar galerias e coleções de imagens de vários image hosts.
+- [gallery-dl](https://github.com/mikf/gallery-dl) - O gallery-dl é um programa CLI para baixar galerias e coleções de imagens de vários image hosts.
 - [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos, seja MP4, MP3 ou AAC, focado no Edge e Chromium.
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy, porém, tal qual o TubeDigger em algumas situações somente.
 - **[Trialware]** [Allavsoft](https://www.allavsoft.com/) - Downloader chinês de mídia e elementos da web, é 50% do tempo gratuito e baseado no yt-dlp. Pode lidar com automação e operações que exigem grande esforço também.
-- [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injector para aplicativos UWP para burlar sistemas de criptografia com força bruta, indicado apenas para usuários avançados. 
+- [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injector para aplicativos UWP para burlar sistemas de criptografia com força bruta, indicado apenas para usuários avançados.
+- [Instaloader](https://instaloader.github.io/) - Não requer que você logue em sua conta para baixar metadados, vídeos e fotos do instagram. Não permite baixar conteúdo de contas com restrição/perfil privado.
 - [Fetchv](https://fetchv.net/pt-br) - Com o FetchV, você poderá fazer o download de vídeos dentro do seu navegador, prático e intuitivo de se usar.
 - [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp sem pagar absolutamente um dobrão por isso.
 - [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download.
