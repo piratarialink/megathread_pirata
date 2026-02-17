@@ -320,20 +320,20 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ## 🔦 Buscadores
 
+### 🌟 [Virgil](https://virgil.samidy.com/Games/) 
+
+- Faz buscas apenas em fontes citadas pelo FMHY, monitorado e constantemente em construção, seu propósito é servir de bússola para encontrar jogos desbloqueados.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/virgil.samidy.com/)
+
 ### 🔍 [Mecanismo de busca programável](https://cse.google.com/cse?cx=20c2a3e5f702049aa)
 
-- Alimentado por um mecanismo de pesquisa personalizado do Google, rápido e eficaz, que pesquisa várias fontes confiáveis.
+- Alimentado por um mecanismo de pesquisa personalizado do Google, um buscador rápido e eficaz, que realiza a pesquisa em fontes altamente confiáveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cse.google.com/)
 
 ### 🔍 [Rezi](https://rezi.one/)
 
 - Motor de busca de jogos rápido e eficiente, sem anúncios, com um banco de dados atualizado a cada 24 horas, inclui praticamente todos os jogos imagináveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/rezi.one/)
-
-### 🔍 [Virgil](https://virgil.samidy.com/Games/) 
-
-- Faz buscas apenas em fontes citadas pelo FMHY, monitorado e constantemente em construção, seu propósito é servir de bússola para encontrar jogos desbloqueados.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/virgil.samidy.com/)
 
 ### 🔍 [Rave](https://ravegamesearch.pages.dev/)
 
