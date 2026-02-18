@@ -31,7 +31,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [microG](https://github.com/microg/GmsCore/wiki)
 
-- Permite integrar perfeitamente aplicativos, serviços e estrutura com os servidores da Google mesmo em aparelhos sem o play services instalado - na maioria das vezes, exige apenas que tu baixe o microG companion e desbloqueie o bootloader para funcionar normalmente.
+- Permite integrar perfeitamente aplicativos, serviços e estrutura com os servidores da Google mesmo em aparelhos sem o play services instalado - exige apenas que tu baixe o microG companion e desbloqueie o bootloader para funcionar normalmente.
 
 ### 🔗 [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade)
 
@@ -60,7 +60,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Seeker Android](https://github.com/jackBonadies/SeekerAndroid)
 
-- Cliente do sistema Android para a rede peer-to-peer do Soulseek. escrito em C#.
+- Cliente do sistema Android para a rede peer-to-peer do Soulseek, inspirado na documentação do Nicotine+ e escrito em C#.
 
 ### 🔗 [Shelter](https://github.com/PeterCxy/Shelter)
 
@@ -73,7 +73,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis)
 
-- Aplicativo para baixar vídeo/áudio usando o yt-dlp, melhor substituto para o Snaptube.
+- Aplicativo para baixar vídeo/áudio usando o yt-dlp, melhor substituto para o Snaptube no celular.
 
 ## 🍎 IOS
 
@@ -184,7 +184,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [Mobilism](https://forum.mobilism.org/index.php) • Necessário Cadastro
 
-- Fórum inestimável com uma grande base de usuários e bastante estimado pela comunidade, fornece acesso direto a livros e versões mais recentes de apks modificados.
+- Fórum incrível com uma grande base de usuários, bastante estimado pela comunidade; fornece acesso direto a livros e versões mais recentes de apks modificados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/)
 
 ### 🌟 [MODYOLO](https://modyolo.com/)
