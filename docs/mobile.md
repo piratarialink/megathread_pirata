@@ -37,9 +37,9 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Módulo para o Android 12 a 15, permitindo aos usuários contornar a restrição do sistema ao downgrade de aplicativos.
 
-### 🌟 [Lucky Patcher](https://forum.mobilism.org/search.php?keywords=lucky+patcher&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search)
+### 🌟 [Lucky Patcher](https://forum.mobilism.org/search.php?keywords=lucky+patcher&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) / [2](https://www.luckypatchers.com/)
 
-- Desbloqueia compras em pacotes APK e retira anúncios - **baixe apenas do balatan (desenvolvedor oficial).**
+- Desbloqueia compras em pacotes APK e retira anúncios - **baixe apenas do balatan/diretamente do site do chelpus (desenvolvedores oficiais).**
 
 ### 🔗 [MPV](https://github.com/mpv-android/mpv-android/releases)
 
