@@ -112,6 +112,7 @@ export default {
           { text: "📁 Ripped", link: "https://ripped.guide/" },
           { text: "📁 The Index", link: "https://theindex.moe/" },
           { text: "📁 Wotaku", link: "https://wotaku.wiki/" },
+          { text: "📁 Miyomi", link: "https://miyomi.pages.dev/" },
         ],
       },
       {
