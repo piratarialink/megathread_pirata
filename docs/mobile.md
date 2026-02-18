@@ -39,7 +39,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [Lucky Patcher](https://forum.mobilism.org/search.php?keywords=lucky+patcher&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search)
 
-- Desbloqueia compras em aplicativos Android e retira anúncios.
+- Desbloqueia compras em pacotes APK e retira anúncios.
 - Baixe apks apenas do balatan (desenvolvedor oficial).
 
 ### 🔗 [MPV](https://github.com/mpv-android/mpv-android/releases)
@@ -55,13 +55,13 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - O Morphe é um aplicativo feito para gerir modificações e fixes com facilidade no Youtube e Reddit. É de código aberto e baseado no ReVanced.
 
-### 🔗 [Seal](https://github.com/JunkFood02/Seal)
+### 🔗 [Seal Plus](https://github.com/MaheshTechnicals/Sealplus)
 
-- Aplicativo para baixar Video/Audio para Android, baseado em yt-dlp, desenvolvido com Material You.
+- Fork do Seal: um aplicativo para baixar vídeo/áudio sem a necessidade de conta, baseado no yt-dlp e desenvolvido com Material You.
 
 ### 🔗 [Seeker Android](https://github.com/jackBonadies/SeekerAndroid)
 
-- Cliente Android para a rede peer-to-peer do Soulseek
+- Cliente do sistema Android para a rede peer-to-peer do Soulseek. escrito em C#
 
 ### 🔗 [Shelter](https://github.com/PeterCxy/Shelter)
 
