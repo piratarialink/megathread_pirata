@@ -230,7 +230,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [APKMB](https://apkmb.com/)
 
-- Aproveite versões modificadas de aplicativos e jogos Android sem nenhum custo.
+- Aproveite versões modificadas de aplicativos e jogos Android sem nenhum custo, graças à esta página.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmb.com/)
 
 ### 🔗 [APKMODY](https://apkmody.io/)
@@ -263,9 +263,9 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Links para download constantemente atualizados assim que caiem, aqui você pode acessar aplicativos e jogos APK premium de forma gratuita.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/dlandroid.com/)
 
-### 🔗 [farsroid](https://www.farsroid.com/) • UI em persa
+### 🔗 [farsroid](https://www.farsroid.com/) • Interface em persa
 
-- Downloads de jogos e aplicativos Android mais recentes e seguros com mods testados e aprovados incluídos.
+- Download seguro de mods para jogos e aplicativos do Android, logo após o upload, o arquivo APK é testado, aprovado e publicado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/farsroid.com/)
 
 ### 🔗 [IOSGods](https://iosgods.com/)
