@@ -151,4 +151,6 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
 ### 📁 [Wotaku](https://wotaku.pages.dev/)
 
+### 📁 [Miyomi](https://miyomi.pages.dev/)
+
 ---
