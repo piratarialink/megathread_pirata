@@ -60,7 +60,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Seeker Android](https://github.com/jackBonadies/SeekerAndroid)
 
-- Cliente do sistema Android para a rede peer-to-peer do Soulseek. escrito em C#
+- Cliente do sistema Android para a rede peer-to-peer do Soulseek. escrito em C#.
 
 ### 🔗 [Shelter](https://github.com/PeterCxy/Shelter)
 
