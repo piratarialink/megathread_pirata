@@ -185,7 +185,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [Mobilism](https://forum.mobilism.org/index.php) • Necessário Cadastro
 
-- Fórum inestimável com uma grande base de usuários e confiado pela comunidade, fornece acesso direto a livros e versões mais recentes de apks modificados.
+- Fórum inestimável com uma grande base de usuários e bastante estimado pela comunidade, fornece acesso direto a livros e versões mais recentes de apks modificados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/)
 
 ### 🌟 [MODYOLO](https://modyolo.com/)
