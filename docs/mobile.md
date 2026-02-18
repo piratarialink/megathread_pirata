@@ -29,9 +29,9 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Transforma .APKS/.APKM/.XAPK em .APKs, alternativa excelente para aquelas lojas proprietárias que os sites de apps modificados te obrigam a baixar.
 
-### 🔗 [Gbox](https://www.gboxlab.com/)
+### 🔗 [microG](https://github.com/microg/GmsCore/wiki)
 
-- Integra perfeitamente aplicativos, serviços, estrutura e loja do Google.
+- Permite integrar perfeitamente aplicativos, serviços e estrutura com os servidores da Google mesmo em aparelhos sem o play services instalado - na maioria das vezes, exige apenas que tu baixe o microG companion e desbloqueie o bootloader para funcionar normalmente.
 
 ### 🔗 [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade)
 
@@ -39,8 +39,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [Lucky Patcher](https://forum.mobilism.org/search.php?keywords=lucky+patcher&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search)
 
-- Desbloqueia compras em pacotes APK e retira anúncios.
-- Baixe apks apenas do balatan (desenvolvedor oficial).
+- Desbloqueia compras em pacotes APK e retira anúncios - **baixe apenas do balatan (desenvolvedor oficial).**
 
 ### 🔗 [MPV](https://github.com/mpv-android/mpv-android/releases)
 
