@@ -52,7 +52,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 ### 🌟 [Hydra](https://github.com/hydralauncher/hydra)
 
 - Hydra é um launcher de jogos com seu próprio cliente bittorrent integrado e um scraper de repack autogerenciado.
-- [Links](https://hydralinks.cloud) para fontes Hydra.
+- [Links para as fontes do Hydra.](https://hydralinks.cloud)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [ARMGDDN Browser](https://cs.rin.ru/forum/viewtopic.php?f=14&t=140593)
