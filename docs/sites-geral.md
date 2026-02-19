@@ -39,7 +39,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🔗 [AlternativeTo](https://alternativeto.net/)
 
-- Lista links oficiais de download de programas, com um destaque maior para os de código aberto.
+- Indexador completo de links oficiais de download de recursos e programas da web, com um destaque maior para os de código aberto.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/alternativeto.net/)
 
 ### 🔗 [VirusTotal](https://virustotal.com/)
