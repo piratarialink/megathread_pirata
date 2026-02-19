@@ -142,7 +142,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [APK Thing](https://www.apkthing.com/)
 
-- Seleção de aplicativos Android gratuitos disponíveis. Seu destino preferido.
+- Destino preferido para aplicativos Android gratuitos e de código aberto. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkthing.com/)
 
 ### 🔗 [APKCombo](https://apkcombo.com/)
@@ -157,7 +157,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [apkmonk](https://www.apkmonk.com/)
 
-- Aplicativos para necessidades pessoais, empresariais e criativas e em constante evolução.
+- Aplicativos para pessoas com necessidades importantes, empresariais, criativas e em constante evolução.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmonk.com/)
 
 ### 🔗 [APKToy](https://www.apktoy.com/)
@@ -204,7 +204,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Android Republic](https://androidrepublic.org/portal/)
 
-- Mods avançados e exclusivos desde 2014 para o sistema Android, garantindo qualidade no que distribui.
+- Mods avançados e exclusivos desde 2014 para o sistema Android, garante qualidade no que distribui.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/androidrepublic.org/)
 
 ### 🔗 [AppDB](https://appdb.to/)
