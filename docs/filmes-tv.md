@@ -359,9 +359,14 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Aplicativo de streaming que permite assistir vídeos, filmes e séries de TV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/stremio.com/)
 
-### 🌟 [Streamyfin](https://github.com/streamyfin/streamyfin)
+### 🌟 [CloudStream](https://github.com/recloudstream/cloudstream)
 
-- Cliente do Jellyfin para gerenciar arquivos com facilidade.
+- Centro de mídia escrito em Kotlin, especializado em smartphones e android TVs. [Link para a extensão brasileira](https://github.com/saimuelbr/saimuelrepo)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [Streamyfin](https://github.com/streamyfin/streamyfin)
+
+- Cliente do Jellyfin para gerenciar arquivos com rapidez e facilidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ‎ ‎ 
