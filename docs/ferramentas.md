@@ -392,7 +392,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Telegram
 
 - [Vidsender](https://github.com/viniped/vidsender) - Método mais fácil para upar vários vídeos de uma vez só de forma organizada.
-- [tdl](https://docs.iyear.me/tdl/) - Programa CLI para encaminhar uma mensagem de cada vez de chats/canais restritos, também te permite upar/exportar qualquer conteúdo de canais abertos.
+- [tdl](https://docs.iyear.me/tdl/) - Programa escrito em Golang para encaminhar uma mensagem de cada vez de chats/canais restritos, também te permite upar/exportar qualquer conteúdo de canais abertos.
 - [Forkgram](https://github.com/Forkgram/TelegramAndroid) - Melhoria visível na velocidade de upload e download em dispositivos Android.
 - [tg-archive](https://github.com/knadh/tg-archive) - Arquiva grupos como páginas de HTML estático na web.
 - [Scanbitbot](https://t.me/scanbitbot) - Mostra o ID de qualquer canal/grupo, seja ele privado ou não.
