@@ -94,7 +94,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► Adblockers & Bypassers
 
-- 🌟 [**uBlock Origin**](https://github.com/gorhill/uBlock#installation) - para bloquear a maioria dos anúncios e pop-ups.
+- 🌟 [**uBlock Origin**](https://github.com/gorhill/uBlock#installation) - Para bloquear a maioria dos anúncios e pop-ups.
 - [AdNauseam](https://adnauseam.io/) - Baseado no uBlock Origin. Projetado para ofuscar os dados de navegação e proteger os usuários do rastreamento por redes de publicidade.
 - [Pi-hole](https://pi-hole.net/) - Bloqueio de anúncios em toda a rede.
 - [AdAway](https://adaway.org/) - AdAway é um bloqueador de anúncios de código aberto para Android, funciona melhor no Android (e derivados) com root.
@@ -392,7 +392,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Telegram
 
 - [Vidsender](https://github.com/viniped/vidsender) - Método mais fácil para upar vários vídeos de uma vez só de forma organizada.
-- [tdl](https://docs.iyear.me/tdl/) - Programa CLI para encaminhar uma mensagem de cada vez de chats/canais restritos, também te permite upar/exportar qualquer conteúdo de canais abertos.
+- [tdl](https://docs.iyear.me/tdl/) - Programa escrito em Golang para encaminhar uma mensagem de cada vez de chats/canais restritos, também te permite upar/exportar qualquer conteúdo de canais abertos.
 - [Forkgram](https://github.com/Forkgram/TelegramAndroid) - Melhoria visível na velocidade de upload e download em dispositivos Android.
 - [tg-archive](https://github.com/knadh/tg-archive) - Arquiva grupos como páginas de HTML estático na web.
 - [Scanbitbot](https://t.me/scanbitbot) - Mostra o ID de qualquer canal/grupo, seja ele privado ou não.
