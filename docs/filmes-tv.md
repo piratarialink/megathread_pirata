@@ -356,7 +356,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [Stremio](https://www.stremio.com/) + [Add-ons de dublagem PT-BR](/guias/guia-stremio) - [Nota Importante!](/outros/stremio.md)
 
-- Aplicativo de streaming que permite assistir vídeos, filmes e séries de TV.
+- Aplicativo de streaming que te permite assistir vídeos, filmes e séries de TV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/stremio.com/)
 
 ### 🌟 [CloudStream](https://github.com/recloudstream/cloudstream)
