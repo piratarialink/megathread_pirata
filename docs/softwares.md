@@ -19,7 +19,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🌟 [LRepacks](https://lrepacks.net/) • Interface em russo
 
-- Desde inúmeros aplicativos portáteis até utilitários apreciados pelo público, tudo é distribuído gratuitamente há mais de dez anos.
+- Desde inúmeros aplicativos portáteis até utilitários adorados pelo grande público, tudo é distribuído gratuitamente há mais de dez anos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lrepacks.net/)
 
 ### 🌟 [CRACKSurl](https://cracksurl.com/)
@@ -122,11 +122,6 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 - DAWs, bibliotecas de samples, plug-ins VST, multitracks e outros softwares de produção musical são fortemente enfatizados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/magesy.blog/)
-
-### 🔗 [MicroTech](https://programs.themicrotech.net/)
-
-- Visa simplificar o acesso aos programas mais recentes, melhorando continuamente e mantendo-se atualizado com a tecnologia mais moderna.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/programs.themicrotech.net/)
 
 ### 🔗 [Mutaz](https://www.mutaz.pro/)
 
