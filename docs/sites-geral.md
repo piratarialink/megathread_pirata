@@ -64,7 +64,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🔗 [Lumpysoft](https://lumpysoft.com/)
 
-- Encontra dorks no Google de forma fácil e automatizada, excelente maneira de conseguir pdfs, epubs e demais documentos.
+- Encontra dorks no Google de forma fácil e automatizada, excelente maneira de se conseguir pdfs, epubs e demais documentos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lumpysoft.com/)
 
 ## 📣 No Telegram

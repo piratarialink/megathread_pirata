@@ -19,28 +19,23 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🌟 [LRepacks](https://lrepacks.net/) • Interface em russo
 
-- Numerosos aplicativos portáteis e utilitários apreciados pelos usuários por mais de dez anos.
+- Desde inúmeros aplicativos portáteis até utilitários adorados pelo grande público, tudo é distribuído gratuitamente há mais de dez anos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lrepacks.net/)
 
 ### 🌟 [CRACKSurl](https://cracksurl.com/)
 
-- Software atualizado diariamente visando proporcionar uma experiência rápida todos os dias.
+- Softwares são atualizados quase que diariamente visando proporcionar uma experiência rápida e segura para os usuários.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/)
 
 ### 🌟 [Mobilism](https://forum.mobilism.org/index.php) • Necessário Cadastro
 
-- Recurso obrigatório para aplicativos e livros. Muitas pessoas confiam nele e fornecem acesso às versões mais recentes dos arquivos.
+- Fórum incrível com uma grande base de usuários, bastante estimado pela comunidade; fornece acesso direto a livros e versões mais recentes de programas modificados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.mobilism.org/)
 
 ### 🌟 [Sanet](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
 
 - Site referência na cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
-
-### 🔗 [4DOWNLOAD](https://4download.net/)
-
-- Softwares completos, amostras de áudio, tutoriais, e-books e vídeos podem ser encontrados aqui.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4download.net/)
 
 ### 🔗 [Apps Torrent](https://appstorrent.ru/) • MacOS
 
@@ -128,11 +123,6 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - DAWs, bibliotecas de samples, plug-ins VST, multitracks e outros softwares de produção musical são fortemente enfatizados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/magesy.blog/)
 
-### 🔗 [MicroTech](https://programs.themicrotech.net/)
-
-- Visa simplificar o acesso aos programas mais recentes, melhorando continuamente e mantendo-se atualizado com a tecnologia mais moderna.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/programs.themicrotech.net/)
-
 ### 🔗 [Mutaz](https://www.mutaz.pro/)
 
 - Fornece downloads de software para dispositivos Windows, Mac e Android e não requer registro.
@@ -152,11 +142,6 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 - Banco de dados com uma variedade de programas para Windows, Mac e Linux.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
-
-### 🔗 [Soft Gozar](https://www.softgozar.com/) • Interface em persa
-
-- Atualizado frequentemente, com versões completas e irrestritas apenas dos melhores aplicativos disponíveis.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softgozar.com/)
 
 ### 🔗 [YasDL](https://www.yasdl.com/) • Interface em persa
 

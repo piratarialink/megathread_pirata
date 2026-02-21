@@ -49,7 +49,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [ISOs do Windows no NNMClub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 11 da edição do consumidor.
 - [pastebin do abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
 - [pastebin do abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
-- [Fido](https://github.com/pbatard/Fido) - Script do powershell para ser em usado em conjunto com o Rufus na hora de criar o pendrive bootável.
+- [Fido](https://github.com/pbatard/Fido) - Script do powershell para ser usado em conjunto com o Rufus na hora de criar o pendrive bootável.
 - [Microsoft Media Creation Tool](https://www.microsoft.com/pt-br/software-download/windows10) - Página da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
 
 ## ► Ferramentas para Linux / BSD

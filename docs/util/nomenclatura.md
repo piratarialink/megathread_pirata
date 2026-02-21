@@ -63,7 +63,7 @@ No geral, os benefícios de se ter um tracker (sobretudo privado) é ter uma var
 
 **Leecher**: São os usuários que estão baixando o conteúdo, captando as pequenas partes do arquivo dos seeders para armazenar no seu computador ou qualquer outra mídia. Também pode significar sanguessuga baixando muito mais do que enviando, sofrendo em muitos casos punições de Hit-and-Run.
 
-**Hit-and-run (H&R)**: Significa baixar um conteúdo e não semear depois que ele estiver completo. É abreviado HnR ou H&R. Trackers privados punem este tipo de atitude impedindo que a pessoa baixe algum conteúdo, então se a pessoa não semeia pelo tempo estipulado nas regras leva a punição, e com reincidência leva a perda de permissões como baixar e até mesmo o banimento.
+**Hit-and-run (H&R)**: Significa baixar um conteúdo e não semear depois que ele estiver completo. É abreviado para HnR ou H&R. Trackers privados punem este tipo de atitude impedindo que a pessoa baixe algum conteúdo, então se a pessoa não semeia pelo tempo estipulado nas regras leva a punição, e com reincidência leva a perda de permissões como baixar e até mesmo o banimento.
 
 **Lurker**: usuário que apenas baixa arquivos do grupo, mas não adiciona novos conteúdos. É o famoso leva e não traz, leva do site A para o B, mas não leva do B para o A. Isso não significa necessariamente que o usuário não irá semear. Não confundir com leecher.
 
