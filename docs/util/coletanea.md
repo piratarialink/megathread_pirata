@@ -68,6 +68,8 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [Nitrokeys](https://www.nitrokey.com/products/nitrokeys) - Uma alternativa ao Yubikey.
 
+- [ZLUDA](https://github.com/vosen/ZLUDA) / [BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Utilitários essenciais para gerar aceleração CUDA de GPU nas unidades de processamento gráfico da AMD e Intel Arc.
+  
 - [Pi-hole](https://pi-hole.net/) - Um "buraco negro" para anúncios na Internet.
 
 - [Nextcloud](https://nextcloud.com/) - Nextcloud é um software client-server para criar e usar serviços de hospedagem de arquivos. Nextcloud oferece funcionalidade semelhante ao Dropbox, Office 365 ou Google Drive quando usado com suítes de escritório integradas Collabora Online ou OnlyOffice. Ele pode ser hospedado na nuvem ou localmente (HD, SSD, NVMe).
