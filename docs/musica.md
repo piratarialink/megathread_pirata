@@ -26,7 +26,12 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
   
 - Fonte independente e provider de capas de álbuns, metadados, tags, eps e singles - site da mesma empresa que desenvolveu o aplicativo [Picard](https://picard.musicbrainz.org/) para desktop.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/musicbrainz.org/)
+
+### 🔗 [HydrogenAudio](https://wiki.hydrogenaudio.org/index.php?title=Hydrogenaudio_Knowledgebase:Main_Page)
   
+- Base de conhecimento completa e fórum para mais informações e detalhes sobre codecs de áudio, reprodutores, guias de ripagem, etc.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/wiki.hydrogenaudio.org/)
+
 ### 🔗 [r/AudiofiliaBrasil](https://www.reddit.com/r/audiofiliabrasil/)
 
 - Comunidade de audiogeeks com dicas, sorteios, feedbacks e links para promoções nas principais lojas virtuais.
@@ -66,7 +71,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [BitMidi](https://bitmidi.com/)
 
-- Ouça e compartilhe faixas de áudio MIDI de filmes, jogos e séries.
+- Ouça e compartilhe faixas de áudio MIDI de filmes, videojogos e séries nostálgicas ou do momento.
 - [Resultados de Segurança da URL](https://bitmidi.com/)
 
 ### 🔗 [AnimeThemes](https://animethemes.moe/)
@@ -139,6 +144,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - ytify é um cliente de streaming gratuito de áudio com eficiência de recursos para o YouTube e o YouTube Music.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytify.netlify.app/)
 
+### 🔗 [TheMusicFire.net](https://themusicfire.net/)
+
+- Baixe e escute música eletrônica paga sem se cadastrar: desde mainstream EDM até techno underground.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/themusicfire.net/)
+
 ## 🎵 Aplicativos para Desktop
 
 ### 🌟 [**SpotiFLAC**](https://github.com/afkarxyz/SpotiFLAC)
@@ -148,7 +158,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🌟 [**Monochrome**](https://monochrome.samidy.com/) / [2](https://monochrome.tf/) / [3](https://monochrome.prigoana.com/) / [4](https://monochrome-back.pages.dev/)
 
-- Permite que tu ouça músicas de vários serviços de streaming online pela WebUI, gratuito e sem anúncios, oferece download em FLAC Hi-Res, modo karaokê, criação de playlists, exportar/importar e etc.
+- Permite que tu escute músicas de vários serviços de streaming online pela WebUI, gratuito e sem anúncios, oferece download em FLAC Hi-Res, modo karaokê, criação de playlists, exportar/importar e etc.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/monochrome.samidy.com/)
 
 ### 🌟 [**Nicotine+**](https://nicotine-plus.org/)

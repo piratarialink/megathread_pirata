@@ -67,7 +67,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [Lemuroid](https://f-droid.org/en/packages/com.swordfish.lemuroid/)
 
-- Emulador de código aberto sem anúncios para o Android.
+- Emulador de código aberto sem anúncios para o Android - publicado sob a licença GPLv3.
 
 ### 🔗 [MAME](https://www.mamedev.org/)
 

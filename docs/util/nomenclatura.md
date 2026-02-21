@@ -97,6 +97,8 @@ No geral, os benefícios de se ter um tracker (sobretudo privado) é ter uma var
 
 **Cross-seed**: Semear o mesmo conteúdo em trackers diferentes sob o mesmo cliente torrent.
 
+**DHT** / **PEX** / **LPD** : Meio pelo qual cada cliente bittorrent localiza um ao outro, deixar isso ativado é ruim para trackers privados pois permite que qualquer um que não faça parte da comunidade de compartilhamento se aproveite de torrents com seeds.
+
 **Gazelle** / **UNIT3D**: Frameworks para tracker privado.
 
 ## Usenet
@@ -147,7 +149,7 @@ Se você já possui uma android tv ou um dos sticks, a box torna-se completament
 
 **PlayReady**: Tecnologia semelhante ao Widevine criada pela Microsoft para prevenção de cópia de mídia.
 
-**Port-forwarding**: É uma maneira de seu cliente torrent se conectar a uma porta específica do seu roteador sem passar pelo CGNAT e sem esgotar a banda. Pode ser exigida por alguns trackers privados que só aceitam conexão IPv4.
+**Port-forwarding**: É uma maneira de seu cliente torrent se conectar a uma porta específica do seu roteador sem passar pelo CGNAT e sem esgotar a banda, aumentando assim a velocidade da conexão entre peers. Pode ser exigida por alguns trackers privados que só aceitam conexão IPv4.
 ‎
 
 **Torrent Swarm**: É a lista de endereços IP dos peers mostrada pelo cliente torrent. **É essencial que você esteja conectado a uma VPN enquanto semeia/baixa para que o seu endereço não se torne visível para outras pessoas dentro da mesma rede P2P.**
