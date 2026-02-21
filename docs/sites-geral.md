@@ -34,7 +34,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🌟 [**Hattered**](https://mefrraz.github.io/hattered/index.html)
 
-- Página tuga com dicas, guias e uma biblioteca de conteúdo livre online.
+- Página tuga criada em 2025 contendo dicas, guias e uma biblioteca de conteúdo livre online.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mefrraz.github.io/hattered/)
 
 ### 🔗 [AlternativeTo](https://alternativeto.net/)
@@ -54,7 +54,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🔗 [4get](https://4get.ca/instances)
 
-- Não esconde resultados de navegação por DRM com o Yandex selecionado.
+- Não esconde resultados de navegação por DRM com o Yandex selecionado, use outra instância além da oficial para não lidar com captcha constante.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4get.ch/)
 
 ### 🔗 [The Eye](https://the-eye.eu/)
@@ -64,7 +64,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🔗 [Lumpysoft](https://lumpysoft.com/)
 
-- Encontra dorks no Google de forma fácil e automatizada.
+- Encontra dorks no Google de forma fácil e automatizada, excelente maneira de conseguir pdfs, epubs e demais documentos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lumpysoft.com/)
 
 ## 📣 No Telegram
