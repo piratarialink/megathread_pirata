@@ -94,7 +94,9 @@
 | CrackedFully                   | crackedfully-com                           | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                                      |
 | Ventoy                         | ventoy-net                                 | **Comportamento antiético** (_Foi descoberto um [backdoor](https://github.com/ventoy/Ventoy/issues/2795) no seu código fonte_). |
 | 💩 Raton Downloads             | ratondownload-net-br                       | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).                                      |
+| Soft Gozar                        | softgozar-com                                | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).                                   |
 | HaxPC                          | haxpc-net                                  | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                                      |
+| 4download                        | 4download-net                                | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).                              |
 | KoLomPC                        | kolompc-com                                | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                                      |
 | Portable4PC                    | portable4pc-com                            | **Comportamento antiético** (_Regras ruins e inserção de vírus de forma planejada_).                                      |
 | 💩 Cybermania                  | cybermania-ws                              | **Comportamento antiético** (_Inserção de trojan de acesso remoto de forma planejada_).                                   |
