@@ -362,7 +362,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 📣 [Tudo de Bom em AUDIOLIVROS](https://t.me/Tudo_de_BOM_em_AUDIOLIVROS)
 
-### 📣 [ITSBooks](https://t.me/ITSBooks)
+### 📣 [Information Security Books](https://t.me/ITSBooks)
 
 ### 📣 [Audiolivros](https://t.me/audiolivros)
 
