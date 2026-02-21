@@ -26,7 +26,12 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
   
 - Fonte independente e provider de capas de álbuns, metadados, tags, eps e singles - site da mesma empresa que desenvolveu o aplicativo [Picard](https://picard.musicbrainz.org/) para desktop.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/musicbrainz.org/)
+
+### 🔗 [HydrogenAudio](https://wiki.hydrogenaudio.org/index.php?title=Hydrogenaudio_Knowledgebase:Main_Page)
   
+- Base de conhecimento completa e fórum para mais informações e detalhes sobre codecs de áudio, reprodutores, guias de ripagem, etc.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/wiki.hydrogenaudio.org/)
+
 ### 🔗 [r/AudiofiliaBrasil](https://www.reddit.com/r/audiofiliabrasil/)
 
 - Comunidade de audiogeeks com dicas, sorteios, feedbacks e links para promoções nas principais lojas virtuais.
