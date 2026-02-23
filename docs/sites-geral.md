@@ -29,7 +29,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🌟 [**TRaSH Guides**](https://trash-guides.info/)
 
-- Aprenda a montar servidor de mídia, criar e organizar pastas nos programas Arr, configurar o qBittorrent e muito mais.
+- Aprenda a montar servidor de mídia, criar e organizar pastas nos programas do ecossistema Arr, configurar o qBittorrent e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/trash-guides.info/)
 
 ### 🌟 [**Hattered**](https://mefrraz.github.io/hattered/index.html)
