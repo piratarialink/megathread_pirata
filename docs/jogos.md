@@ -106,15 +106,15 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Detectado como Game Hack pelo VirusTotal, falso positivo. Confie somente nos arquivos que vieram do site acima (procure pelo FixRepair do jogo desejado diante de alguma suspeita).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
 
+### 🌟 [Elamigos](https://elamigos.site/)
+
+- Releases sem perdas, sem recodificação de áudio, com vídeo + texturas. Uma opção popular para obter novos jogos para PC.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/elamigos.site/)
+
 ### 🔗 [Ova Games](https://www.ovagames.com/)
 
 - Baixe jogos grátis para PC de várias fontes, incluindo CODEX, GOG e ElAmigos - com excelentes hosts de arquivos, é realmente simples. / [Falha na conexão? Tente isso.](/guias/dns)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ovagames.com/)
-
-### 🔗 [Elamigos](https://elamigos.site/)
-
-- Releases sem perdas, sem recodificação de áudio, com vídeo + texturas. Uma opção popular para obter novos jogos para PC.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/elamigos.site/)
 
 ### 🔗 [World of PC](https://worldofpcgames.com/)
 
