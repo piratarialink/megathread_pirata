@@ -106,7 +106,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Detectado como Game Hack pelo VirusTotal, falso positivo. Confie somente nos arquivos que vieram do site acima (procure pelo FixRepair do jogo desejado diante de alguma suspeita).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
 
-### 🌟 [Elamigos](https://elamigos.site/)
+### 🌟 [ElAmigos](https://elamigos.site/)
 
 - Releases sem perdas, sem recodificação de áudio, com vídeo + texturas. Uma opção popular para obter novos jogos para PC.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/elamigos.site/)
