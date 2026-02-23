@@ -69,7 +69,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🔗 [Ecológica Verde](https://bsky.app/profile/ecologica.bsky.social)
 
-- Perfil no bluesky com links confiáveis e grupo no discord bem ativo.
+- Perfil no bluesky com links confiáveis e grupo no discord bem ativo, videojogos e programas pagos crackeados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bsky.app/)
 
 ### 🔗 [FileRiver](https://fileriver.net/)
@@ -135,7 +135,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🔗 [Repack.me](https://repack.me/) • Interface em russo
 
-- Repacker de programas crackeados. Use de preferência a extensão [Translate This Page](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) do firefox para acessá-lo.
+- Repacker de programas crackeados. Use de preferência a extensão [Translate Web Pages](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) do firefox para acessá-lo.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/repack.me/)
 
 ### 🔗 [Scnlog](https://scnlog.me/)
