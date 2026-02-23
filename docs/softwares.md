@@ -104,7 +104,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
   
 ### 🔗 [MSJ](https://www.macserialjunkie.com/forum/) • Cadastre-se • MacOS
 
-- Bom fórum de discussão onde os membros da comunidade discutem tudo sobre o MacOS e trocam softwares e jogos crackeados.
+- Bom fórum de discussão onde os membros da comunidade discutem tudo sobre o Macintosh e trocam softwares e jogos crackeados.
 - Alguns foristas pagam cracks protegidos por paywall no Macked e vazam no MSJ.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/macserialjunkie.com/)
 
