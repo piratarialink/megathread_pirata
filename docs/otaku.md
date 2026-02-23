@@ -182,10 +182,12 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🔗 [AnimeDB](https://anidb.net/)
 
 - Base de dados internacional sobre animes e legendas em inglês e japonês.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/anidb.net/)
 
 #### 🔗 [InfoAnime](https://www.infoanime.com.br/)
 
 - Acompanhamento de projetos de fansubers e scanlators brasileiros: focado em Tokusatsus, Doramas e mangás.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.infoanime.com.br/)
 
 ‎
 ‎
@@ -194,14 +196,15 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 ---
 
-#### 🔗 [GoAnime](https://github.com/alvarorichard/GoAnime)
+#### 🔗 [GoAnime](https://www.goanime.fun/)
 
-- Ferramenta TUI escrita em Golang que baixa animes em PT-BR (dublado ou legendado) diretamente de outros sites através do web scraping.
+- Ferramenta TUI escrita em Golang que baixa animes em PT-BR (dublado ou legendado) diretamente de outros sites através de web scraping.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.goanime.fun/)
 
 #### 🔗 [Ani-cli](https://github.com/pystardust/ani-cli)
 
-- Ferramenta CLI similar ao GoAnime, porém em inglês. Puxa dados do site allmanga.to.
-
+- Ferramenta CLI similar ao GoAnime, porém em inglês; disponível para sistemas Windows e Linux.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 ‎
 ‎
 
