@@ -57,7 +57,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**LinuxToys**](https://linux.toys/) - Projeto tocado pelo dev brasileiro psygreg que corrige o bug de captura de áudio do OBS, instala o waydroid, chaotic AUR, bottles, lucidglyph e algumas ferramentas para sysadmins - estável para Debian, Ubuntu e Arch.
 - [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a compatibilidade dos programas entre as distribuições através do flatpak - pode substituir a Snap Store da Canonical.
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de ISOs customizadas carregadas todos os dias.
-- 🌟 [**Heroic Launcher**](https://heroicgameslauncher.com/) - Adiciona uma camada extra de compatibilidade com o framework .NET demais bibliotecas da Microsoft através de recursos como o proton GE, e winetricks para games/programas não-nativos e crackeados.
+- 🌟 [**Heroic Launcher**](https://heroicgameslauncher.com/) - Adiciona uma camada extra de compatibilidade com o framework .NET e demais bibliotecas da Microsoft através de recursos como o proton GE, e winetricks para games/programas não-nativos e crackeados.
 - [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um tema GTK3/GTK4 aprovado pela comunidade.
 - [Falkon](https://flathub.org/en/apps/org.kde.falkon) - Navegador feito pela KDE para sistemas derivados do Unix, é baseado no motor de renderização QtWebEngine e vem com adblock próprio já instalado.
 - 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
