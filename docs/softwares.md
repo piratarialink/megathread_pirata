@@ -74,7 +74,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🔗 [FileRiver](https://fileriver.net/)
 
-- Fileriver é um site para baixar programas gratuitos e ativadores
+- Fileriver é um site para baixar programas pagos e ativadores sem partir para o estresse que é tirar a mão do bolso.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fileriver.net/)
 
 ### 🔗 [G-MEH](https://g-meh.com/)
@@ -89,7 +89,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🔗 [Gustavortech](https://gustavortech.com/)
 
-- Disponibiliza alguns cracks gratuitos de programas.
+- Portal nacional em português que disponibiliza alguns cracks gratuitos de programas.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gustavortech.com/)
 
 ### 🔗 [Haxmac](https://haxmac.cc/) • MacOS
@@ -110,12 +110,12 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🔗 [MacBB](https://macbb.org/) • MacOS
 
-- Fonte inesgotável de pirataria relacionada ao sistema operacional da Apple.
+- Fonte inesgotável de pirataria relacionada ao sistema operacional e aplicativos da Apple.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/macbb.org/)
   
 ### 🔗 [MAD](https://www.macappdownload.com/) • MacOS
 
-- Vários aplicativos MacOS disponíveis, cobrindo uma ampla variedade. No entanto, o site usa hosts de arquivos premium, o que não é amigável para usuários gratuitos.
+- Vários aplicativos para OS X disponíveis, cobrindo uma ampla variedade. No entanto, o site usa hosts de arquivos premium, o que não é amigável para usuários gratuitos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/macappdownload.com/)
 
 ### 🔗 [MaGeSY](https://www.magesy.blog/)
@@ -130,17 +130,17 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🔗 [NMac](https://nmac.to/hub/) • MacOS
 
-- Muitos aplicativos gratuitos disponíveis para MacOS sem limites ou truques. Basta clicar à frente para iniciar o download, muito fácil.
+- Muitos aplicativos gratuitos disponíveis para MacOS sem limites ou truques. Basta clicar para iniciar o download direto, muito fácil.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nmac.to/)
 
 ### 🔗 [Repack.me](https://repack.me/) • Interface em russo
 
-- Repacker de programas crackeados.
+- Repacker de programas crackeados. Use de preferência a extensão [Translate This Page](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) do firefox para acessá-lo.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/repack.me/)
 
 ### 🔗 [Scnlog](https://scnlog.me/)
 
-- Banco de dados com uma variedade de programas para Windows, Mac e Linux.
+- Banco de dados com uma variedade de programas para sistemas operacionais Windows, Mac e GNU/Linux.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
 
 ### 🔗 [YasDL](https://www.yasdl.com/) • Interface em persa
@@ -185,7 +185,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🔗 [Freepreset](https://freepreset.net/)
 
-- Dedicado a ajudá-lo a obter predefinições de lightroom premium, luts, ações de photoshop e uma infinidade de outros materiais de design.
+- Dedicado a ajudá-lo a obter predefinições de lightroom premium, LUTs, ações de photoshop e uma infinidade de outros materiais de design.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/freepreset.net/)
 
 ### 🔗 [PSD Keys](https://psdkeys.com/)
@@ -257,7 +257,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🌟 [M0nkrus](https://vk.com/monkrus) | [📣](https://t.me/m0nkrus/) • Interface em russo
 
-- Repacker Monkrus para diferentes aplicativos **pré-instalados**; altamente classificado, confiável e mais conhecido por seus repacks relacionados à Adobe.
+- Repacker para diferentes aplicativos **pré-instalados**; altamente classificado, confiável e mais conhecido por seus repacks relacionados à Adobe.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/vk.com/)
 
 ### 🌟 [Rutracker](https://rutracker.net/) / [2](https://rutracker.org/)
