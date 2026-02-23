@@ -46,16 +46,16 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Alternativa rápida após o encerramento do 4anime original. Os animes populares têm legendas em PT-BR.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/4anime.gg/)
 
-#### ▶️ [Animes Totais](https://animestotais.xyz)
-
-- Necessário se cadastrar para acessar o site.
-
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animestotais.xyz/)
-
 #### ▶️ [Hinata Soul](https://www.hinatasoul.com)
 
-- Oferece animes em **HD e Full HD** para assistir.
+- Oferece animes em **HD e Full HD** para assistir. [Falha na conexão? Tente isso.](guias/dns.md)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/hinatasoul.com/)
+
+#### ▶️ [Betterflix](https://betterflix.vercel.app/)
+
+- Repleto de animes, na maior qualidade possível com os recém lançamentos - use um adblock!
+- Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
 
 #### ▶️ [Anime Yabu](https://www.animeyabu.org)
 
@@ -81,12 +81,6 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/q1n.net/)
 
-#### ▶️ [Betterflix](https://betterflix.vercel.app/)
-
-- Repleto de animes, na maior qualidade possível com os recém lançamentos.
-- Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
-
 ### 📥 ➜ Download Direto
 
 ---
@@ -94,7 +88,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🌟 [Anitsu](https://anitsu.moe/#)
 
 - Grande catálogo, inclui praticamente todos os títulos imagináveis, até mesmo os mais obscuros com legenda em português. Ademais, o site disponibiliza servidores para download, contendo também vários formatos e faixas de dublagem.
-  **Use um reprodutor de mídia de sua preferência no lugar do VLC.**
+- **Use um reprodutor de mídia de sua preferência no lugar do VLC.**
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anitsu.moe/)
 
 #### 🔗 [Anime Tosho](   https://animetosho.org/)
@@ -187,11 +181,13 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🔗 [AnimeDB](https://anidb.net/)
 
-- Base de dados internacional sobre animes e legendas em inglês.
+- Base de dados internacional sobre animes e legendas em inglês e japonês.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/anidb.net/)
 
 #### 🔗 [InfoAnime](https://www.infoanime.com.br/)
 
-- Acompanhamento de projetos de fansubers e scanlators brasileiros.
+- Acompanhamento de projetos de fansubers e scanlators brasileiros: focado em Tokusatsus, Doramas e mangás.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.infoanime.com.br/)
 
 ‎
 ‎
@@ -200,14 +196,15 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 ---
 
-#### 🔗 [GoAnime](https://github.com/alvarorichard/GoAnime)
+#### 🔗 [GoAnime](https://www.goanime.fun/)
 
-- Ferramenta CLI que baixa animes em PT-BR (dublado ou legendado.)
+- Ferramenta TUI escrita em Golang que baixa animes em PT-BR (dublado ou legendado) diretamente de outros sites através de web scraping.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.goanime.fun/)
 
 #### 🔗 [Ani-cli](https://github.com/pystardust/ani-cli)
 
-- Ferramenta CLI similar ao GoAnime, porém em inglês
-
+- Ferramenta CLI similar ao GoAnime, porém em inglês; disponível para sistemas Windows e Linux.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 ‎
 ‎
 
