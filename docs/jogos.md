@@ -231,7 +231,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🌟 [Heroic Games Launcher](https://heroicgameslauncher.com/)
 
-- Software brasileiro, adiciona uma camada extra de compatibilidade com bibliotecas .NET runtime e demais libraries da Microsoft através de ferramentas como o proton GE, winecfg e winetricks para games não-nativos (e crackeados) no Linux.
+- Software brasileiro, adiciona uma camada extra de compatibilidade com o framework .NET demais bibliotecas da Microsoft através de ferramentas como o proton GE, winecfg e winetricks para games não-nativos e crackeados no Linux.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/heroicgameslauncher.com/)
 
 ### 🚀 [Legacy Launcher](https://llaun.ch/pt-BR)
