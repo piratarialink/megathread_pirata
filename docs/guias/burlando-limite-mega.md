@@ -52,7 +52,7 @@ Vamos para a opção de proxy:
 Vamos ativar a opção "Use SmartProxy" e deixar marcada a opção "Sequential". Em "Proxy list refresh (minutes)", deixe em 10.
 
 No campo, coloque os proxies no formato pedido e salve. 
-Para isso, nós acessaremos o [ProxyScrape](https://proxyscrape.com/free-proxy-list), e ao clicar em "Get Free Proxy List" escolheremos logo em seguida a opção ".txt" e faremos o download do arquivo.
+Para isso, nós acessaremos o [ProxyScrape](https://proxyscrape.com/free-proxy-list), e ao clicar em "Get Free Proxy List" escolheremos logo em seguida a opção ".txt" e faremos o download do arquivo. [(tempgmail)](https://tempgmail.net)
 
 Após, clique em "File" -> "New download" e cole o link do Mega. O link será adicionado à lista de Downloads. Após isso, basta esperar até a conclusão do download.
 

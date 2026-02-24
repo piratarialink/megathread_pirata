@@ -170,7 +170,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🌟 [GFX Hub](https://gfx-hub.co/)
 
-- Apresenta uma mega coleção de assets para Unity, Adobe e design gráfico no geral.
+- Apresenta uma mega coleção de assets para Unity, CorelDRAW e design gráfico no geral.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gfx-hub.co/)
 
 ### 🔗 [GFXDomain](https://gfxdomain.co/)
@@ -257,7 +257,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🌟 [M0nkrus](https://vk.com/monkrus) | [📣](https://t.me/m0nkrus/) • Interface em russo
 
-- Repacker para diferentes aplicativos **pré-instalados**; altamente classificado, confiável e mais conhecido por seus repacks relacionados à Adobe.
+- Repacker para diferentes aplicativos **pré-instalados**; altamente classificado, confiável e mais conhecido por seus repacks relacionados à Adobe e Autodesk.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/vk.com/)
 
 ### 🌟 [Rutracker](https://rutracker.net/) / [2](https://rutracker.org/)

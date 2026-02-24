@@ -71,7 +71,7 @@ No geral, os benefícios de se ter um tracker (sobretudo privado) é ter uma var
 
 **Magnet Link: Link Magnético**: São links usados para acessar o conteúdo a ser feito o download via P2P sem a necessidade do arquivo torrent.
 
-> Exemplo: magnet:?xt=urn:btih:41a43b8b896e6db2babad8bc061e72f7cd6e1253&dn=xyzabcd.mp4&xl=387498234
+> Exemplo: magnet:?xt=urn:btih:8d3547b8385755d4678f13c0a561a3ec623c2927&dn=43987437634&xl=118619271323&tr
 
 **Semear**: Estar disponibilizando o arquivo para demais pessoas baixarem.
 

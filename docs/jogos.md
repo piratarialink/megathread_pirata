@@ -106,7 +106,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Detectado como Game Hack pelo VirusTotal, falso positivo. Confie somente nos arquivos que vieram do site acima (procure pelo FixRepair do jogo desejado diante de alguma suspeita).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
 
-### 🌟 [Elamigos](https://elamigos.site/)
+### 🌟 [ElAmigos](https://elamigos.site/)
 
 - Releases sem perdas, sem recodificação de áudio, com vídeo + texturas. Uma opção popular para obter novos jogos para PC.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/elamigos.site/)
@@ -231,7 +231,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🌟 [Heroic Games Launcher](https://heroicgameslauncher.com/)
 
-- Software brasileiro, adiciona uma camada extra de compatibilidade com o framework .NET demais bibliotecas da Microsoft através de ferramentas como o proton GE, winecfg e winetricks para games não-nativos e crackeados no Linux.
+- Software brasileiro, adiciona uma camada extra de compatibilidade com o framework .NET e demais bibliotecas da Microsoft através de ferramentas como o proton GE, winecfg e winetricks para games não-nativos e crackeados no Linux.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/heroicgameslauncher.com/)
 
 ### 🚀 [Legacy Launcher](https://llaun.ch/pt-BR)
