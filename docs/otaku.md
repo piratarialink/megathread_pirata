@@ -299,7 +299,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 ### 🎌 ➜ Leitores de Mangá
 
 :::info Planilha no Docs com informações das extensões para serem usadas em apps como Aniyomi, Tachiyomi, Dantotsu, etc.: [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
-**Recomendamos também a leitura da seção de addons do [Wotaku](https://wotaku.wiki/guides/#extension-repos).**
+**Recomendamos também a leitura da seção de addons do [Wotaku](https://wotaku.wiki/guides/#extension-repos) e do [Miyomi](https://miyomi.pages.dev/extensions), em particular para fontes brasileiras [Extensões FelipeGFA](https://miyomi.pages.dev/extensions/extens-es-felipegfa).**
 :::
 
 ---
