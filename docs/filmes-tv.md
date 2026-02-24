@@ -405,7 +405,7 @@ _[**Outros apps para assistir filmes e séries podem ser encontrados aqui**](out
 
 ### 🔗 [Catálogo BeTor](https://catalogo.betor.top/)
 
-- Agregador de Agregadores: Encontre facilmente em qual agregador (BluDv, Torrent dos Filmes, Comando e outros) está o conteúdo que você procura.
+- Agregador de agregadores: encontre facilmente em qual agregador (BluDv, Torrent dos Filmes, Comando e outros) o que você procura.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/catalogo.betor.top/)
 
 ## 🖊 Legendas
