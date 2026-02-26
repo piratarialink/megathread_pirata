@@ -103,12 +103,12 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Procura avançada que coleta metadados de torrent, como títulos de arquivo, tamanhos de arquivo e um link magnético para fornecer ao visitante. Muito bem semeado, aparentemente comprou o domínio do SolidTorrents e do Torrentz2.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bitsearch.to/)
 
-### 🔗 [BT4G](https://bt4g.org/)
+### 🌟 [BT4G](https://bt4g.org/)
 
 - Uma forma de busca de torrents que usa DHT, o seu objetivo é facilitar a localização e o download de torrents para todos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bt4g.org/)
 
-### 🔗 [BTDigg](https://btdig.com/)
+### 🌟 [BTDigg](https://btdig.com/)
 
 - Excelente motor de busca BitTorrent DHT que reúne metadados e retorna links magnéticos em vez de armazenar material.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/btdig.com/)
@@ -166,7 +166,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🔗 [TorrentSeeker](https://www.torrentseeker.com/)
 
-- Faz buscas nos sites mais populares de torrent e demais sites específicos.
+- Agregador que realiza buscas nos sites mais populares de torrent e demais endereços específicos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentseeker.com/)
 
 ## 📑 Dados da cena dos Trackers
@@ -185,7 +185,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Lista muito completa que demonstra praticamente todos os Trackers Privados usados online.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hdvinnie.github.io/)
 
-### 🔗 [Install Gentoo](https://igwiki.lyci.de/wiki/Private_trackers)  
+### 🔗 [InstallGentoo](https://igwiki.lyci.de/wiki/Private_trackers)  
 
 - Página de autoria do /g/, apresenta com uma riqueza de detalhes a história da cena tracker e também fornece algumas dicas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/igwiki.lyci.de/)

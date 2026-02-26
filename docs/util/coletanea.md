@@ -82,9 +82,9 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [Continuum](https://github.com/cygnusx-1-org/continuum) - Para quem quiser usar Reddit sem conta, e sem aquele app LIXOSO; baixe o [Obtainium](https://github.com/ImranR98/Obtainium) também (para atualizar automaticamente do GitHub).
 
-- [FFUpdater](https://github.com/Tobi823/ffupdater) - Updater amigável à privacidade para navegadores baseados no Firefox e no Chromium.
+- [FFUpdater](https://github.com/Tobi823/ffupdater) - Updater amigável à privacidade para navegadores baseados no Firefox - como o Fennec - e no Chromium.
 
-- [Aegis](https://github.com/beemdevelopment/Aegis) - Um aplicativo gratuito, seguro e de código aberto para Android para gerenciar seus tokens de verificação em duas etapas.
+- [Aegis](https://github.com/beemdevelopment/Aegis) - Um aplicativo gratuito, seguro e de código aberto para Android para gerenciar seus tokens de verificação em duas etapas. Funciona em praticamente quase todo site ou app imaginável.
 
 - [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - Ferramenta open-source para capturar e monitorar o tráfico de internet, aplique filtros para vigiar aplicativos suspeitos ou que estejam sendo executados em segundo plano através do proxy man-in-the-middle dentro do PCA.
 
