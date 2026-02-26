@@ -97,12 +97,12 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 ## ► Adblockers & Bypassers
 
 - 🌟 [**uBlock Origin**](https://github.com/gorhill/uBlock#installation) - Para bloquear a maioria dos anúncios e pop-ups.
+- [AdGuard](https://adguard-dns.io/pt_br/public-dns.html) - O AdGuard é uma extensão para navegadores e servidor de DNS para bloqueio de anúncios e de rastreamento em toda a rede.
 - [AdNauseam](https://adnauseam.io/) - Baseado no uBlock Origin. Projetado para ofuscar os dados de navegação e proteger os usuários do rastreamento por redes de publicidade.
 - [Pi-hole](https://pi-hole.net/) - Bloqueio de anúncios em toda a rede.
 - [AdAway](https://adaway.org/) - AdAway é um bloqueador de anúncios de código aberto para Android, funciona melhor no Android (e derivados) com root.
 - [Blokada 5](https://blokada.org/) - Blokada é um bloqueador de anúncios e aplicativo voltado a privacidade no Android.
 - 🌟 [**nuMatrix**](https://codeberg.org/arek/nuMatrix) - Controla requests de terceiros, o que faz com que anúncios de urls nocivas não sejam exibidos (exemplo: embedmovies.org); preste atenção quanto a categoria XHR, pois se refere a scripts que podem ser invasivos ou maliciosos.
-- [AdGuard](https://adguard-dns.io/pt_br/public-dns.html) - O AdGuard é um servidor de DNS para bloqueio de anúncios e rastreamento em toda a rede.
 - [ControlD](https://controld.com/free-dns?freeResolverType=blockMalwareAndAds&helpPane=dns) - Servidor de DNS semelhante ao AdGuard que bloqueia anúncios até mesmo dentro de aplicativos.
 - [Unpaywall](https://unpaywall.org/products/extension) - Verifica se o artigo científico que você estiver lendo está disponivel para baixar gratuitamente.
 - [Mendeley Web Importer](https://www.mendeley.com/reference-management/web-importer) - Consegue fazer o mesmo que o Unpaywall faz.
@@ -259,7 +259,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - 🌟 [**Tenacity**](https://tenacityaudio.org/) - O Tenacity é um novo fork do Audacity, este programa pode reduzir ruídos/barulho ambiente e garantir a autenticidade de transcodes FLAC através da análise de espectograma.
 - **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Acrescenta a opção de converter vídeos para MP4 no After Effects.
 - [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
-- [eCut](http://eng.e-cut.ru/) - Plugin para otimizar o CorelDraw.
+- [eCut](http://eng.e-cut.ru/) - Plugin para otimizar o CorelDRAW Graphics Suite.
 - [Dash-MPD-File](https://github.com/emarsden/dash-mpd-cli) - Uma aplicação cli para download de mídia em manifests MPD (MPEG_DASH).
 - [OpenCut](https://opencut.app/) - Alternativa open-source para o CapCut, atualmente está na versão beta e ainda segue aguardando um overhaul completo pelo mantenedor do projeto. WebUI, não exige aplicativo dedicado.
 
