@@ -140,6 +140,11 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Acesse uma variedade de aplicativos Android populares com milhares de opções.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkamp.com/)
 
+### 🔗 [APK Amp](https://apkamp.com/)
+
+- Acesse uma variedade de aplicativos Android populares com milhares de opções.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkamp.com/)
+
 ### 🔗 [APK Thing](https://www.apkthing.com/)
 
 - Destino preferido para aplicativos Android gratuitos e de código aberto. 
@@ -209,7 +214,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [AppDB](https://appdb.to/)
 
-- Variedade enorme de IPAs pagas que podem ser baixadas gratuitamente.
+- Variedade enorme de IPAs pagas e releases sem perdas que podem ser baixados gratuitamente no Ipad e Iphone.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/appdb.to/)
 
 ### 🔗 [APK Home](https://apkhome.io/)
