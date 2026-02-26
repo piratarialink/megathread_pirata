@@ -243,7 +243,7 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 ### 🧲 [Linuxtracker](https://linuxtracker.org/)
 
 - Focado em ISOs Linux.
-- Quantidade razoável de torrents upados todos os dias.
+- Quantidade razoável de torrents compartilhados todos os dias.
 
 ### 🧲 [Extremlymtorrents](https://extremlymtorrents.ws/)
 
