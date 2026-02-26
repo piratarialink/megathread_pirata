@@ -278,7 +278,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Esta seleção de fontes gratuitas para uso comercial ajudará você a escolher o tipo ideal para o seu próximo projeto.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/creativefabrica.com/)
 
-### 🔗 [Fontes Cufon](https://www.cufonfonts.com/)
+### 🔗 [Cufon Fonts](https://www.cufonfonts.com/)
 
 - O maior repositório de fontes gratuitas do mundo que suporta Webfonts para designers e desenvolvedores.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cufonfonts.com/)
@@ -318,19 +318,19 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Acesso gratuito a fontes com licenças válidas ideais para suas necessidades de design.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fontspace.com/)
 
-### 🔗 [Fonte Chinesa Gratuita](https://www.freechinesefont.com/)
+### 🔗 [Free Chinese Font](https://www.freechinesefont.com/)
 
-- Descubra fontes de combinação de chinês e inglês gratuitas que você pode baixar em formatos de caracteres simplificados ou tradicionais.
+- Descubra uma combinação de fontes chinesas gratuitas que você pode baixar em formatos de caracteres simplificados ou tradicionais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/freechinesefont.com)
 
-### 🔗 [Fonte japonesa gratuita](https://www.freejapanesefont.com/)
+### 🔗 [Free Japanese Font](https://www.freejapanesefont.com/)
 
-- Descubra fontes de combinação japonesas e inglesas gratuitas que você pode baixar com hiragana, katakana, romaji e kanji já incluídos.
+- Descubra fontes japonesas gratuitas que você pode baixar: hiragana, katakana, romaji e kanji já incluídos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/freejapanesefont.com/)
 
-### 🔗 [Fonte coreana grátis](https://www.freekoreanfont.com/)
+### 🔗 [Free Korean Font](https://www.freekoreanfont.com/)
 
-- Descubra fontes combinadas coreanas e inglesas gratuitas que você pode baixar para usar em seu próximo belo projeto.
+- Descubra fontes coreanas gratuitas para baixar e utilizar em seu próximo projeto.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/freekoreanfont.com)
 
 ### 🔗 [FreeFonts1](https://www.freefonts1.com/)
