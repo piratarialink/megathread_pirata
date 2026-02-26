@@ -257,7 +257,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🌟 [M0nkrus](https://vk.com/monkrus) | [📣](https://t.me/m0nkrus/) • Interface em russo
 
-- Repacker para diferentes aplicativos **pré-instalados**; altamente classificado, confiável e mais conhecido por seus repacks relacionados à Adobe e Autodesk.
+- Repacker para diferentes aplicativos **pré-instalados**; altamente classificado, confiável e mais conhecido por seus repacks relacionados a Creative Cloud e Autodesk Fusion.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/vk.com/)
 
 ### 🌟 [Rutracker](https://rutracker.net/) / [2](https://rutracker.org/)

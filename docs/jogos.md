@@ -86,13 +86,18 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🌟 [GOG Games](https://gog-games.to/)
 
-- Cada jogo na biblioteca GOG é gratuito (sem DRM) para download dentro um vasto compêndio de genêros como RTS, Boomershooter, Simulação, entre outros - não confundir com a [GOG Store.](https://www.gog.com/en/)
+- Cada jogo na biblioteca GOG é gratuito (sem DRM) para download dentro um vasto compêndio de genêros como RTS, Boomershooter, Simulação, entre outros - não confundir com a [GOG.com.](https://www.gog.com/en/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gog-games.to/)
 
 ### 🌟 [Game Bounty](https://gamebounty.world/)
 
 - Variedade de jogos novos e clássicos pré-instalados de fácil acesso para você se divertir.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamebounty.world/)
+
+### 🌟 [ElAmigos](https://elamigos.site/)
+
+- Releases sem perdas, sem recodificação de áudio, com vídeo + texturas. Uma opção popular para obter novos jogos para PC.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/elamigos.site/)
 
 ### 🌟 [ElEnemigos](https://elenemigos.com/)
 
@@ -105,11 +110,6 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Jogue jogos online piratas com seus amigos, de forma gratuita com suporte de convite via Steam.
 - Detectado como Game Hack pelo VirusTotal, falso positivo. Confie somente nos arquivos que vieram do site acima (procure pelo FixRepair do jogo desejado diante de alguma suspeita).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
-
-### 🌟 [ElAmigos](https://elamigos.site/)
-
-- Releases sem perdas, sem recodificação de áudio, com vídeo + texturas. Uma opção popular para obter novos jogos para PC.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/elamigos.site/)
 
 ### 🔗 [Ova Games](https://www.ovagames.com/)
 
@@ -251,7 +251,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🚀 [GOG Galaxy](https://www.gog.com/galaxy)
 
-- Para jogar no Windows/MacOS, programa produzido e mantido pela empresa por trás da GOG store.
+- Para jogar no Windows/MacOS, programa produzido e mantido pela empresa por trás da GOG.com.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gog.com/)
 
 ### 🚀 [Lutris](https://lutris.net/)

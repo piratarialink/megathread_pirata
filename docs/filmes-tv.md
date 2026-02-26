@@ -361,7 +361,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [CloudStream](https://github.com/recloudstream/cloudstream)
 
-- Centro de mídia escrito em Kotlin, especializado em smartphones e android TVs. [Link para a extensão brasileira](https://github.com/saimuelbr/saimuelrepo)
+- Centro de mídia escrito em Kotlin, especializado em smartphones e android TVs. [Link para a extensão brasileira](https://github.com/saimuelbr/saimuelrepo) / [2](https://github.com/lawlietbr/lietrepo)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [Streamyfin](https://github.com/streamyfin/streamyfin)
