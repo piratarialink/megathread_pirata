@@ -58,7 +58,7 @@ Guia útil de como verificar lançamentos de jogos usando PreDB's com explicaç�
 
 Guia de como converter Mangás para Kindle com Hakuneko e KCC para aproveitá-los em seu Kindle.
 
-## 📑 ➜ [Jellyfin e Familia Arr - Docker Compose](guias/jellyfin-arr)
+## 📑 ➜ [Jellyfin e Família Arr - Docker Compose](guias/jellyfin-arr)
 
 Quer configurar o Jellyfin e a Família Arr de forma simples e eficiente? Este guia te mostra como fazer isso usando Docker Compose. Aprenda passo a passo a criar e gerenciar seus contêineres Docker para garantir uma experiência suave de streaming de mídia e organização de conteúdo para toda a família. Com este guia, você estará pronto para aproveitar ao máximo essas poderosas ferramentas de entretenimento em casa.
 
