@@ -22,7 +22,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 :::tip **Dica:** A melhor forma de se usar o Z-Library é via [bot do Telegram](/outros/zlibrary.md)
 :::
 
-- Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, textos acadêmicos e livros de interesse geral.
+- Esforço de compartilhamento de arquivos para artigos de periódicos acadêmicos, papers e livros de interesse geral/utilidade pública.
 - [Checar URLs atualizadas](https://www.reddit.com/r/zlibrary/wiki/index/access/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/z-library.sk/)
 
