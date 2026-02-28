@@ -181,7 +181,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [yuzu](https://krakenfiles.com/view/xFdCTjoGjv/file.html) / [2](https://buzzheavier.com/f/GMEScmhcQAA=) / [3](https://megaup.net/7w6tc/Yuzu_+_Source.rar) • Switch
 
-- **Não é mais desenvolvido.** Os Jogos podem ser jogados usando esse emulador de código aberto.
+- **Não é mais desenvolvido.** Os jogos podem ser experimentados usando esse emulador de código aberto.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/krakenfiles.com/)
 
 ## 🔵 Sega
