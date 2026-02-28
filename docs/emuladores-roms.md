@@ -87,14 +87,19 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## 📦 Microsoft
 
+### 🔗 [DOSBox](https://www.dosbox.com/download.php?main=1) • MS-DOS
+
+- Preservando os clássicos do DOS e suas variantes através da jogabilidade, adaptado para PCs e notebooks modernos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.dosbox.com/)
+  
 ### 🔗 [xemu](https://xemu.app/) • Xbox
 
 - Programa de código aberto que permite aos usuários jogar em todos os sistemas operacionais.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xemu.app/)
 
-### 🔗 [xenia](https://xenia.jp/) • Xbox 360
+### 🔗 [xenia](https://xenia.jp/download/) • Xbox 360
 
-- Ótimo projeto que simula jogos amados de 360 em PCs modernos.
+- Ótimo projeto que simula jogos amados de 360 em computadores de mesa de última geração. [Fork experimental](https://github.com/xenia-canary/xenia-canary)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/xenia.jp/)
 
 ## 🟥 Nintendo
