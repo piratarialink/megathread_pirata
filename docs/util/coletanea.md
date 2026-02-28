@@ -42,7 +42,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [spot-dl](https://github.com/spotDL/spotify-downloader) - Baixe suas playlists e músicas do Spotify com a arte do álbum e metadados (do YouTube se encontrar uma correspondência).
 
-- [ffmpeg](https://ffmpeg.org/download.html) - FFmpeg é uma coleção de bibliotecas e ferramentas para processar conteúdo multimídia como áudio, vídeo, legendas e metadados relacionados.
+- [ffmpeg](https://ffmpeg.org/download.html) - O FFmpeg é uma coleção de bibliotecas e ferramentas para processar conteúdo multimídia como áudio, vídeo, legendas e metadados relacionados.
 
 - [Dangerzone](https://dangerzone.rocks/) - Converte PDFs e demais documentos maliciosos em arquivos seguros para leitura e compartilhamento.
 
@@ -50,12 +50,14 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [Stirling-PDF](https://www.stirling.com/download) / [simplepdf.eu](https://simplepdf.eu/) - Softwares para editar, recortar ou criar PDFs.
 
-- [Upscayl](https://github.com/upscayl/upscayl) - Upscaler de imagens para Linux, MacOS e Windows que usa inteligência artificial, desenvolvido com a filosofia Linux-First.
+- [Upscayl](https://github.com/upscayl/upscayl) - Upscaling em tempo real de imagens para o Linux, MacOS e Windows, baseado em inteligência artificial e desenvolvido com a filosofia Linux-First.
 
 - [Photopea](https://www.photopea.com/) - Um editor de arquivos PSD hospedado na web, perfeito para retoques simples e ocasionais em fotos e imagens.
   
-- [SpotX](https://github.com/amd64fox/SpotX/) - Cliente Spotify modificado. Bloqueia anúncios e atualizações e muito mais.
+- [SpotX](https://github.com/amd64fox/SpotX/) - Cliente modificado para o Spotify no desktop - bloqueia anúncios, atualizações forçadas, telemetria e muito mais.
 
+- [tempgmail](https://tempgmail.net) / [addy.io](https://addy.io/) / [simplelogin](https://simplelogin.io) - Caixa de mensagens temporária para evitar o recebimento de spams e tentativas de golpe. O primeiro é considerado o melhor por ser gmail, contudo a experiência pode variar.
+ 
 - [2fa.directory](https://2fa.directory/br/) - Fonte independente de informações sobre quais serviços suportam MFA/2FA.
 
 - [czkawka](https://github.com/qarmin/czkawka) - Aplicativo multifuncional para encontrar duplicatas, pastas vazias, imagens semelhantes, etc.
@@ -72,7 +74,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
   
 - [Pi-hole](https://pi-hole.net/) - Um "buraco negro" para anúncios na Internet.
 
-- [Nextcloud](https://nextcloud.com/) - Nextcloud é um software client-server para criar e usar serviços de hospedagem de arquivos. Nextcloud oferece funcionalidade semelhante ao Dropbox, Office 365 ou Google Drive quando usado com suítes de escritório integradas Collabora Online ou OnlyOffice. Ele pode ser hospedado na nuvem ou localmente (HD, SSD, NVMe).
+- [Nextcloud](https://nextcloud.com/) - Nextcloud é um software client-server para criar e usar serviços de hospedagem de arquivos. Oferece funcionalidade semelhante ao Dropbox, Office 365 ou Google Drive quando usado com as suítes de escritório integradas Collabora Online ou OnlyOffice. Pode ser hospedado na nuvem ou localmente (HD, SSD, NVMe).
 
 ### Android
 
