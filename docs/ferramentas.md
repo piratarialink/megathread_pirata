@@ -65,7 +65,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio escrito em Python; oferece separação em tags, playlists, álbuns e avaliações como recurso.
 - [Hyprland](https://hypr.land/) - O Hyprland é um compositor de janelas derivado do wayland destinado a usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
 - [KDE Plasma](https://kde.org/plasma-desktop) - DE e gerenciador de janelas com um workflow sem bugs e extremamente conveniente para FreeBSD, OpenBSD e Fedora.
-- [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Reduz ruídos e barulho ambiente, fica atrás apenas do Easy Effects e Adobe Audition nesse quesito.
+- [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Software escrito em golang para reduzir ruídos e barulho ambiente, fica atrás apenas do [EasyEffects](https://github.com/wwmm/easyeffects?tab=readme-ov-file) e Adobe Audition nesse quesito.
 - [GameMode](https://github.com/FeralInteractive/gamemode) - Abre uma brecha para que jogos (e aplicações) recebam otimizações sem exigir tanto poder de processamento da CPU/GPU - Tópico original do [mastercomfig.](https://docs.comfig.app/latest/os/linux/#gamemode)
 - 🌟 [**Hints**](https://github.com/AlfredoSequeida/hints?tab=readme-ov-file) - Feito para quem já está habituado a usar sobretudo o teclado em comparação com o mouse, atente-se a configuração específica do seu gerenciador de janelas [seguindo esse passo a passo.](https://github.com/AlfredoSequeida/hints/wiki/Window-Manager-and-Desktop-Environment-Setup-Guide)
 - [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar diversas versões do OS X no Linux. Com suporte a GPU dedicada + macOS Tahoe.
@@ -81,7 +81,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 - 🌟 [**FMHY - Hackintosh**](https://fmhy.net/system-tools#hackintosh) - Algumas recomendações úteis.
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Imagens do OSX para criar pendrives bootáveis com hackintosh (pelo menos de versões que ainda suportam o processador da intel). [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
-- [PKGs do Appstorrent](https://appstorrent.ru/os/) - Site russo com arquivos de firmware de diferentes versões do Mac para fazer upgrade/downgrade.
+- [PKGs do Appstorrent](https://appstorrent.ru/os/) - Site russo com arquivos de firmware de diferentes versões do Macintosh para fazer upgrade/downgrade.
 - [Pacotes do Office para Mac](https://massgrave.dev/office_for_mac) - Página bem organizada para downloads de imagens do Office para Mac.
 - [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - Script do Macked para baixar aplicativos da Creative Cloud - quando o download terminar, arraste os apps para o [Activation Tool](https://macked.app/adobe-activation-tool-crack.html) para ativá-los.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
@@ -174,7 +174,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Permite a cópia de texto de sites que tentam impedir que você use a função de copiar.
 - [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adiciona botão ao lado de links encurtados que resolve o URL para sua localização verdadeira.
 - [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Permite selecionar/realçar links em vez do comportamento padrão de arrastá-los.
-- [Botão Sci-hub](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adiciona um botão sci-hub a inúmeros sites de artigos acadêmicos/acadêmicos para desbloquear o artigo que está sendo visualizado.
+- [Botão Sci-hub](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adiciona um botão para acessar inúmeros sites de artigos acadêmicos e desbloquear o artigo que está sendo visualizado.
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Evite a instalação de aplicativos indesejados.
 - [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript para baixar legendas do youtube.
 - [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript para baixar vídeos do youtube.
@@ -237,7 +237,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Gerenciadores de mídia / automação
 
-- 🌟 [**Jackett**](https://github.com/Jackett/Jackett) - Indexador completo e local. Ele permite que você adicione e procure conteúdo em muitos rastreadores de torrent diferentes. Em conjunto com sonarr/radarr, você pode adicionar o Jackett como um indexador, permitindo que pesquisem em qualquer um dos trackers privados ou não que você adicionou ao aplicativo.
+- 🌟 [**Jackett**](https://github.com/Jackett/Jackett) - Indexador completo e local. Ele permite que você adicione e procure conteúdo em muitos rastreadores de torrent diferentes. Em conjunto com sonarr/radarr, você pode adicionar o Jackett como um indexador, permitindo que pesquisem em qualquer um dos trackers privados que você adicionou ao aplicativo.
 - [Sonarr](https://sonarr.tv/) - Download automático de programas de TV onde você pode adicionar novos programas para monitorar e baixar automaticamente novos episódios assim que estiverem disponíveis nos sites de torrent.
 - [Radarr](https://radarr.video/) - Igual ao Sonarr, mas para filmes.
 - [Prowlarr](https://prowlarr.com/) - Faz o mesmo papel do Jackett, só que melhor.
@@ -251,10 +251,10 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Ferramentas de mídia
 
-- 🌟 [**OBS Studio**](https://github.com/obsproject/obs-studio) - O Open Broadcaster Software é uma escolha popular entre os usuários para gravar a tela do computador e fazer live streaming, totalmente código aberto, tende a ser opção mais prática em comparação com outros programas proprietários como o Camtasia e Bandicam.
-- [davincibox](https://github.com/zelikos/davincibox) - Instala as dependências necessárias para rodar o DaVinci Resolve (um software de edição não-linear de vídeo excelente e 90% do tempo gratuito) no Fedora.
-- [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente audio codec AC3.
-- [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
+- 🌟 [**OBS Studio**](https://github.com/obsproject/obs-studio) - O Open Broadcaster Software é uma escolha popular entre os usuários para gravar a tela do computador e fazer live streaming, totalmente código aberto, tende a ser opção mais prática em comparação com outros programas proprietários como o RecExperts, Camtasia e Bandicam.
+- [davincibox](https://github.com/zelikos/davincibox) - Instala as dependências necessárias para rodar o DaVinci Resolve (um software de edição não-linear de vídeo excelente e 90% do tempo gratuito) no Fedora e Nobara.
+- [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente o codec de áudio AC3.
+- [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Pode combinar diferentes formatos de vídeo e gerar arquivos em formato .mkv com uma ou várias faixas de legenda e áudio.
 - [VLsub](https://github.com/opensubtitles/vlsub-opensubtitles-com) - Baixa legendas diretamente pelo vlc sem ter que abrir o site do opensubtitles.
 - 🌟 [**Tenacity**](https://tenacityaudio.org/) - O Tenacity é um novo fork do Audacity, este programa pode reduzir ruídos/barulho ambiente e garantir a autenticidade de transcodes FLAC através da análise de espectograma.
 - **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Acrescenta a opção de converter vídeos para MP4 no After Effects.
@@ -291,7 +291,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - **[Trialware]** [1DM](https://www.apps2sd.info/idmp/faq) - Browser e downloader de vídeos de diversas plataformas para o sistema operacional Android.
 - **[Pago]** [1DM+](https://www.apps2sd.info/idmp/faq) - Pode obter documentos maiores que 1MB do Doceru - [versão marítima](https://tekmods.com/1dm-browser-video-audio-torrent-downloader/).
 - **[Pago]** [TubeDigger](https://www.tubedigger.com/) - Converter que pode baixar legendas subrip e vídeos da hotmart em alguns casos apenas. 
-- 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Fonte inesgotável de recursos para baixar vídeo/áudio, remuxar e mesclar items de uma grande variedade de páginas e plataformas de streaming. Veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente.
+- 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Fonte inesgotável de recursos para baixar vídeo/áudio, remuxar e mesclar items de uma grande variedade de páginas e plataformas de streaming. Roda apenas no modo headless, veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente.
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um GUI-wrapper multiplataforma para o yt-dlp escrito em PySide6.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - Outro frontend para o yt-dlp disponível para sistemas Unix e Windows.
 - 🌟 **[Trialware]** [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade, algumas funções só podem ser desbloqueadas pagando.
@@ -361,8 +361,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Hospedagem de arquivos
 
 - [IPFS](https://github.com/ipfs/ipfs-desktop/releases) - Serve arquivos que podem ser preservados temporariamente em cache ou pinados e assim armazenados para sempre. O conteúdo pode ser acessado tanto por um node seu quanto por [gateways públicas](https://ipfs.github.io/public-gateway-checker/) ou privadas.
+- [OnionShare](https://onionshare.org/) - Mesmo conceito do IPFS, hospeda seu próprio site .onion para receber e enviar arquivos de forma anônima pela rede TOR.
 - [catbox.moe](https://catbox.moe/) - Upload de vídeos (webm, mp4) e imagens. Não permite arquivos .exe, .scr, .cpl, .doc e .jar. 
-- [Litterbox](https://litterbox.catbox.moe/) - Mesmo conceito do catbox.moe, mas com um limite maior de até 1 GB.
+- [Litterbox](https://litterbox.catbox.moe/) - Semelhante ao catbox.moe, porém com um limite maior de até 1 GB.
 - [file.kiwi](https://file.kiwi/) - Permite hospedar arquivos por até 90 horas - sem limite para upload. 
 - [anonfile.de](https://anonfile.de/upload/) - Uma alternativa caso o file.kiwi fique fora do ar.
 - **[Pago]** [Filedot](https://filedot.to/) - Hospedagem na nuvem, muito semelhante ao Mega.
