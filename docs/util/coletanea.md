@@ -84,7 +84,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [FFUpdater](https://github.com/Tobi823/ffupdater) - Updater amigável à privacidade para navegadores baseados no Firefox - como o Fennec - e no Chromium.
 
-- [Aegis](https://github.com/beemdevelopment/Aegis) - Um aplicativo gratuito, seguro e de código aberto para Android para gerenciar seus tokens de verificação em duas etapas. Funciona em praticamente quase todo site ou app imaginável.
+- [Aegis](https://github.com/beemdevelopment/Aegis) - Um aplicativo gratuito, seguro e de código aberto para Android para gerenciar seus tokens de verificação em duas etapas offline. Funciona em praticamente quase todo site ou app imaginável.
 
 - [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - Ferramenta open-source para capturar e monitorar o tráfico de internet, aplique filtros para vigiar aplicativos suspeitos ou que estejam sendo executados em segundo plano através do proxy man-in-the-middle dentro do PCA.
 
