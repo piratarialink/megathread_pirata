@@ -237,7 +237,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Gerenciadores de mídia / automação
 
-- 🌟 [**Jackett**](https://github.com/Jackett/Jackett) - Indexador completo e local. Ele permite que você adicione e procure conteúdo em muitos rastreadores de torrent diferentes. Em conjunto com sonarr/radarr, você pode adicionar o Jackett como um indexador, permitindo que pesquisem em qualquer um dos trackers privados ou não que você adicionou ao aplicativo.
+- 🌟 [**Jackett**](https://github.com/Jackett/Jackett) - Indexador completo e local. Ele permite que você adicione e procure conteúdo em muitos rastreadores de torrent diferentes. Em conjunto com sonarr/radarr, você pode adicionar o Jackett como um indexador, permitindo que pesquisem em qualquer um dos trackers privados que você adicionou ao aplicativo.
 - [Sonarr](https://sonarr.tv/) - Download automático de programas de TV onde você pode adicionar novos programas para monitorar e baixar automaticamente novos episódios assim que estiverem disponíveis nos sites de torrent.
 - [Radarr](https://radarr.video/) - Igual ao Sonarr, mas para filmes.
 - [Prowlarr](https://prowlarr.com/) - Faz o mesmo papel do Jackett, só que melhor.
@@ -361,8 +361,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Hospedagem de arquivos
 
 - [IPFS](https://github.com/ipfs/ipfs-desktop/releases) - Serve arquivos que podem ser preservados temporariamente em cache ou pinados e assim armazenados para sempre. O conteúdo pode ser acessado tanto por um node seu quanto por [gateways públicas](https://ipfs.github.io/public-gateway-checker/) ou privadas.
+- [OnionShare](https://onionshare.org/) - Mesmo conceito do IPFS, hospeda seu próprio site .onion para receber e enviar arquivos de forma anônima pela rede TOR.
 - [catbox.moe](https://catbox.moe/) - Upload de vídeos (webm, mp4) e imagens. Não permite arquivos .exe, .scr, .cpl, .doc e .jar. 
-- [Litterbox](https://litterbox.catbox.moe/) - Mesmo conceito do catbox.moe, mas com um limite maior de até 1 GB.
+- [Litterbox](https://litterbox.catbox.moe/) - Semelhante ao catbox.moe, porém com um limite maior de até 1 GB.
 - [file.kiwi](https://file.kiwi/) - Permite hospedar arquivos por até 90 horas - sem limite para upload. 
 - [anonfile.de](https://anonfile.de/upload/) - Uma alternativa caso o file.kiwi fique fora do ar.
 - **[Pago]** [Filedot](https://filedot.to/) - Hospedagem na nuvem, muito semelhante ao Mega.
