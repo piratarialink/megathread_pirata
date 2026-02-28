@@ -251,10 +251,10 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Ferramentas de mídia
 
-- 🌟 [**OBS Studio**](https://github.com/obsproject/obs-studio) - O Open Broadcaster Software é uma escolha popular entre os usuários para gravar a tela do computador e fazer live streaming, totalmente código aberto, tende a ser opção mais prática em comparação com outros programas proprietários como o Camtasia e Bandicam.
-- [davincibox](https://github.com/zelikos/davincibox) - Instala as dependências necessárias para rodar o DaVinci Resolve (um software de edição não-linear de vídeo excelente e 90% do tempo gratuito) no Fedora.
-- [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente audio codec AC3.
-- [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Gera o arquivo de vídeo em formato .mkv com uma ou várias faixas de legenda e áudio.
+- 🌟 [**OBS Studio**](https://github.com/obsproject/obs-studio) - O Open Broadcaster Software é uma escolha popular entre os usuários para gravar a tela do computador e fazer live streaming, totalmente código aberto, tende a ser opção mais prática em comparação com outros programas proprietários como o RecExperts, Camtasia e Bandicam.
+- [davincibox](https://github.com/zelikos/davincibox) - Instala as dependências necessárias para rodar o DaVinci Resolve (um software de edição não-linear de vídeo excelente e 90% do tempo gratuito) no Fedora e Nobara.
+- [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos. Também suporta nativamente o codec de áudio AC3.
+- [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Pode combinar diferentes formatos de vídeo e gerar arquivos em formato .mkv com uma ou várias faixas de legenda e áudio.
 - [VLsub](https://github.com/opensubtitles/vlsub-opensubtitles-com) - Baixa legendas diretamente pelo vlc sem ter que abrir o site do opensubtitles.
 - 🌟 [**Tenacity**](https://tenacityaudio.org/) - O Tenacity é um novo fork do Audacity, este programa pode reduzir ruídos/barulho ambiente e garantir a autenticidade de transcodes FLAC através da análise de espectograma.
 - **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Acrescenta a opção de converter vídeos para MP4 no After Effects.
