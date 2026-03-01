@@ -292,11 +292,6 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Belo site com um bom histórico no mundo pirata, oferece mods exclusivos aos usuários.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/liteapks.com/)
 
-### 🔗 [MicroTech Apps](https://apps.themicrotech.net/)
-
-- Baixe todos os aplicativos Android com links diretos e rápidos para facilitar o acesso.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apps.themicrotech.net/)
-
 ### 🔗 [PDALIFE](https://pdalife.com/)
 
 - Alternativa às lojas de aplicativos tradicionais, oferecendo downloads gratuitos para aplicativos Android e iOS.
