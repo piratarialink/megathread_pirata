@@ -62,7 +62,6 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um tema GTK3/GTK4 aprovado pela comunidade.
 - [Falkon](https://flathub.org/en/apps/org.kde.falkon) - Navegador feito pela KDE para sistemas derivados do Unix, é baseado no motor de renderização QtWebEngine e vem com adblock próprio já instalado.
 - 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
-- [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio escrito em Python; oferece separação em tags, playlists, álbuns e avaliações como recurso.
 - [Hyprland](https://hypr.land/) - O Hyprland é um compositor de janelas derivado do wayland destinado a usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
 - [KDE Plasma](https://kde.org/plasma-desktop) - DE e gerenciador de janelas com um workflow sem bugs e extremamente conveniente para FreeBSD, OpenBSD e Fedora.
 - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Software escrito em golang para reduzir ruídos e barulho ambiente, fica atrás apenas do [EasyEffects](https://github.com/wwmm/easyeffects?tab=readme-ov-file) e Adobe Audition nesse quesito.
@@ -260,6 +259,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Acrescenta a opção de converter vídeos para MP4 no After Effects.
 - [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
 - [eCut](http://eng.e-cut.ru/) - Plugin para otimizar o CorelDRAW Graphics Suite.
+- [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio completo e alternativa para o Foobar2000/AIMP no Linux; oferece separação em tags, playlists, álbuns e avaliações como recurso.
 - [OpenCut](https://opencut.app/) - Alternativa open-source para o CapCut, atualmente está na versão beta e ainda segue aguardando um overhaul completo pelo mantenedor do projeto. WebUI, não exige aplicativo dedicado.
 
 ## ► Gerenciadores de download
