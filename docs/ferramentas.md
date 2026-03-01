@@ -260,7 +260,6 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Acrescenta a opção de converter vídeos para MP4 no After Effects.
 - [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
 - [eCut](http://eng.e-cut.ru/) - Plugin para otimizar o CorelDRAW Graphics Suite.
-- [Dash-MPD-File](https://github.com/emarsden/dash-mpd-cli) - Uma aplicação cli para download de mídia em manifests MPD (MPEG_DASH).
 - [OpenCut](https://opencut.app/) - Alternativa open-source para o CapCut, atualmente está na versão beta e ainda segue aguardando um overhaul completo pelo mantenedor do projeto. WebUI, não exige aplicativo dedicado.
 
 ## ► Gerenciadores de download
@@ -295,7 +294,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um GUI-wrapper multiplataforma para o yt-dlp escrito em PySide6.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - Outro frontend para o yt-dlp disponível para sistemas Unix e Windows.
 - 🌟 **[Trialware]** [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade, algumas funções só podem ser desbloqueadas pagando.
-- [Cat-catch](https://github.com/xifangczy/cat-catch) - O cat-catch é uma extensão de origem chinesa para o Firefox e Chrome, pode baixar vídeos de sites de emissoras de tv.
+- [Cat-Catch](https://github.com/xifangczy/cat-catch) - O cat-catch é uma extensão de origem chinesa para o Firefox e Chrome, pode baixar vídeos de sites de emissoras de tv.
 - [twitch-dl](https://github.com/ihabunek/twitch-dl) - O twitch downloader é um recurso gratuito para obter VODs exclusivos para subs dentro da Twitch.
 - [kick-dl](https://github.com/juliogarciape/kick-dl) - Mesmo conceito do twitch-dl, só que para a kick.com.
 - [scribd-dl](https://github.com/rkwyu/scribd-dl) - Downloader projetado para o scribd.com e slideshare.net. Caso você não queira instalar as dependências, [existem algumas alternativas aqui](https://pirataria.link/ferramentas#%E2%96%BA-ferramentas-diversas) — embora não sejam tão seguras.
@@ -303,13 +302,13 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos, seja MP4, MP3 ou AAC, focado no Edge e Chromium.
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy, porém, tal qual o TubeDigger em algumas situações somente.
 - **[Trialware]** [Allavsoft](https://www.allavsoft.com/) - Downloader chinês de mídia e elementos da web, é 50% do tempo gratuito e baseado no yt-dlp. Pode lidar com automação e operações que exigem grande esforço também.
-- [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL e Injector para aplicativos UWP para burlar sistemas de criptografia com força bruta, indicado apenas para usuários avançados.
 - [Instaloader](https://instaloader.github.io/) - Não requer que você logue em sua conta para baixar metadados, vídeos e fotos do instagram - não permite baixar conteúdo de contas com restrição/perfil privado.
-- [Fetchv](https://fetchv.net/pt-br) - Com o FetchV, você poderá fazer o download de vídeos dentro do seu navegador, prático e intuitivo de se usar.
+- [FetchV](https://fetchv.net/pt-br) - Com o FetchV, você poderá fazer o download de vídeos dentro do seu navegador, prático e intuitivo de se usar.
 - [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp sem pagar absolutamente um dobrão por isso.
 - [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download.
 - [MPMux](https://mpmux.com/pt) - Pode baixar vídeos no formato HLS, .m3u8, MP4 e WebM, e ainda conta com uma variedade de modos de gravação + recursos extras como brinde.
 - [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar e fazer scraping de mídias de vários domínios da internet.
+- [Dash-MPD-File](https://github.com/emarsden/dash-mpd-cli) - Um utilitário de linha de comando para download de mídia em manifests MPD (MPEG_DASH).
 - **[Trialware]** [StreamFab](https://streamfab.com/) - Programa focado em oferecer a opção de download direto em plataformas de streaming para os usuários - consegue baixar da globoplay, disney+ e hbo max.
 - [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 Gbps por 6 horas do Mega - confira nossa [guia de como burlar a restrição do mega.nz de cota por uso através de proxies.](https://pirataria.link/guias/burlando-limite-mega)
 - [Soundcloud Downloader](https://github.com/NotTobi/soundcloud-dl) - Extensão do Firefox. Ao visitar o site do soundcloud.com será exibido um ícone na barra de tarefas para salvar o que tu deseja ouvir depois.
