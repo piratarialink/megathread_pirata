@@ -240,13 +240,14 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Sonarr](https://sonarr.tv/) - Download automático de programas de TV onde você pode adicionar novos programas para monitorar e baixar automaticamente novos episódios assim que estiverem disponíveis nos sites de torrent.
 - [Radarr](https://radarr.video/) - Igual ao Sonarr, mas para filmes.
 - [Prowlarr](https://prowlarr.com/) - Faz o mesmo papel do Jackett, só que melhor.
-- [Cross-Seed](https://github.com/cross-seed/cross-seed) - Ressuscita ou encontra arquivos elegíveis e os injeta diretamente no seu cliente torrent.
+- [Cross-Seed](https://github.com/cross-seed/cross-seed) - Ressuscita ou encontra arquivos elegíveis e os injeta diretamente no seu cliente torrent com o auxílio do indexador torznab.
 - [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Automatiza tarefas que desperdiçam tempo no qBitTorrent.
 - 🌟 [**Autobrr**](https://autobrr.com) - É possível configurá-lo para baixar automaticamente. De qualquer feed, você define uma regra para adicionar uma categoria, por exemplo, e ele segue o que você definiu. [**Guia**](guias/autobrr.md)
 - [Medusa](https://pymedusa.com/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [SickChill](https://sickchill.github.io/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
 - [Lidarr](https://lidarr.audio/) - Um Radarr para álbuns musicais.
 - [PT-depiler](https://github.com/pt-plugins/PT-depiler) - Compatível com diversos frameworks de sites privados de torrents (NexusPHP, Unit3D e Gazelle), esta ferramenta simplifica e acelera o download de torrents e realiza também outras operações.
+- [NZBHydra2](https://github.com/theotherp/nzbhydra2?tab=readme-ov-file) - Motor de busca para indexadores newznab da usenet e trackers com torznab, pode ser integrado com o Jackett, Sonarr e Lidarr - realiza a procura por arquivos existentes em sites como o nzbindex.com, anime no sekai, etc.
 
 ## ► Ferramentas de mídia
 
