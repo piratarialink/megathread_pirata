@@ -31,7 +31,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [microG](https://github.com/microg/GmsCore/wiki)
 
-- Permite integrar perfeitamente aplicativos, serviços e estrutura com os servidores da Google mesmo em aparelhos sem o play services instalado - exige apenas que tu baixe o microG companion e desbloqueie o bootloader para funcionar normalmente.
+- Permite integrar perfeitamente aplicativos, serviços e estrutura com os servidores da Google nos celulares com root - exige apenas que tu baixe o microG companion e desbloqueie o bootloader para funcionar normalmente.
 
 ### 🔗 [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade)
 
