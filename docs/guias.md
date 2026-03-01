@@ -18,13 +18,13 @@ Quer ativar o Windows e o Office sem estresse? Este guia prático te mostra como
 
 Para uma experiência ainda melhor na Twitch. Tenha em mente que a qualidade da stream pode cair enquanto o ad passar.
 
-## 📑 ➜ [Passos para instalar plugins de pesquisa no qBitTorrent](guias/guia-plugins-qbittorrrent.md)
-
-Guia para instalar plugins ao qBitTorrent, permitindo fazer buscas de fontes seguras de diversos indexadores.
-
 ## 📑 ➜ [Como baixar arquivos de bots IRC/XDCC](guias/guia-xdcc)
 
 Dentro da chamada "pirâmide da pirataria", no mesmo nível dos trackers de torrent públicos, existem canais de IRC com bots que compartilham arquivos via XDCC, os chamados Fservers, bastante populares principalmente entre os fãs de animes. Neste tutorial, irei explicar o básico de como baixar animes legendados através destes Fservers, e darei algumas referências ao final para quem quiser se aprofundar mais sobre como usar o IRC.
+
+## 📑 ➜ [Passos para instalar plugins de pesquisa no qBitTorrent](guias/guia-plugins-qbittorrrent.md)
+
+Guia para instalar plugins ao qBitTorrent, permitindo fazer buscas de fontes seguras de diversos indexadores.
 
 ## 📑 ➜ [Como abrir portas no roteador em rede CGNAT](guias/cgnat-portas)
 
