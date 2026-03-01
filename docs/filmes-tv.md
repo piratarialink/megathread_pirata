@@ -59,7 +59,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [Clube do Dual](https://clubedodual.com/index.php?app=core&module=system&controller=login)
 
 - Fórum de compartilhamento de faixas de dublagem em português brasileiro.
-- Você pode tentar obter um convite em [nosso grupo do telegram.](https://t.me/trackerslist)
+- Você pode tentar obter um convite em [nosso grupo do lemmy.](https://lemmy.dbzer0.com/c/pirataria)
 - [Resultados de segurança da URL](https://clubedodual.com/)
 
 ### ▶️ [Betterflix](https://betterflix.vercel.app/)
