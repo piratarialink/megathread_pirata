@@ -57,8 +57,8 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**LinuxToys**](https://linux.toys/) - Projeto tocado pelo dev brasileiro psygreg que corrige o bug de captura de áudio do OBS, instala o Waydroid, chaotic AUR, Bottles, lucidglyph e algumas ferramentas para sysadmins - estável para Debian, Ubuntu e Arch.
 - [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a compatibilidade dos programas entre as distribuições através do flatpak - pode substituir a Snap Store da Canonical.
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de ISOs customizadas compartilhadas todos os dias.
-- [LinOffice](https://github.com/eylenburg/linoffice) - Office 365 LTSB/LTSC/CE em uma VM conteinerizada com o podman-compose - feito com base no [WinApps](https://github.com/winapps-org/winapps), QEMU e Docker - [Guia](https://gist.github.com/eylenburg/38e5da371b7fedc0662198efc66be57b#option-1-running-office-2024-or-365-with-linoffice) / [Patch do office 2013](https://gist.github.com/shrestha-bishal/dae0d674ef81197bc8cc39153b7ebbb3) e do [wine com autodesk fusion](https://codeberg.org/cryinkfly/Autodesk-Fusion-360-on-Linux)
-- 🌟 [**Heroic Launcher**](https://heroicgameslauncher.com/) - Adiciona uma camada extra de compatibilidade com o framework .NET e demais bibliotecas da Microsoft através de recursos como o Proton GE, e WineTricks para games/programas não-nativos e crackeados.
+- [LinOffice](https://github.com/eylenburg/linoffice) - Office 365 LTSB/LTSC/CE em uma VM conteinerizada com o podman-compose - feito com base no [WinApps](https://github.com/winapps-org/winapps), QEMU e Docker; permite a ativação pelo massgrave - [Guia](https://gist.github.com/eylenburg/38e5da371b7fedc0662198efc66be57b#option-1-running-office-2024-or-365-with-linoffice) / [Patch do office 2013](https://gist.github.com/shrestha-bishal/dae0d674ef81197bc8cc39153b7ebbb3) e do [wine com autodesk fusion](https://codeberg.org/cryinkfly/Autodesk-Fusion-360-on-Linux)
+- 🌟 [**Heroic Games Launcher**](https://heroicgameslauncher.com/) - Adiciona uma camada extra de compatibilidade com o framework .NET e demais bibliotecas da Microsoft através de recursos como o Proton GE, e WineTricks para games/programas não-nativos e crackeados.
 - [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um tema GTK3/GTK4 aprovado pela comunidade.
 - [Falkon](https://flathub.org/en/apps/org.kde.falkon) - Navegador feito pela KDE para sistemas derivados do Unix, é baseado no motor de renderização QtWebEngine e vem com adblock próprio já instalado.
 - 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
@@ -82,7 +82,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Imagens do OSX para criar pendrives bootáveis com hackintosh (pelo menos de versões que ainda suportam o processador da intel). [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
 - [PKGs do Appstorrent](https://appstorrent.ru/os/) - Site russo com arquivos de firmware de diferentes versões do Macintosh para fazer upgrade/downgrade.
 - [Pacotes do Office para Mac](https://massgrave.dev/office_for_mac) - Página bem organizada para downloads de imagens do Office para Mac.
-- [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - Script do Macked para baixar aplicativos da Creative Cloud - quando o download terminar, arraste os apps para o [Activation Tool](https://macked.app/adobe-activation-tool-crack.html) para ativá-los.
+- [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader/blob/main/readme-en.md) - Script do Macked para baixar aplicativos da Creative Cloud - quando o download terminar, arraste os apps para o [Activation Tool](https://macked.app/adobe-activation-tool-crack.html) para ativá-los.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
 - [Stats](https://github.com/exelban/stats) - O equivalente do HWiNFO para o OS X.
 - [UTM](https://github.com/utmapp/UTM/releases) - VM multissistema baseada no QEMU.
@@ -237,10 +237,10 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Gerenciadores de mídia / automação
 
 - 🌟 [**Jackett**](https://github.com/Jackett/Jackett) - Indexador completo e local. Ele permite que você adicione e procure conteúdo em muitos rastreadores de torrent diferentes. Em conjunto com sonarr/radarr, você pode adicionar o Jackett como um indexador, permitindo que pesquisem em qualquer um dos trackers privados que você adicionou ao aplicativo.
-- [Sonarr](https://sonarr.tv/) - Download automático de programas de TV onde você pode adicionar novos programas para monitorar e baixar automaticamente novos episódios assim que estiverem disponíveis nos sites de torrent.
+- [Sonarr](https://sonarr.tv/) - Download automático de programas de TV onde você pode adicionar novos programas para monitorar e baixar automaticamente novos episódios assim que estiverem disponíveis em rastreadores de torrent.
 - [Radarr](https://radarr.video/) - Igual ao Sonarr, mas para filmes.
 - [Prowlarr](https://prowlarr.com/) - Faz o mesmo papel do Jackett, só que melhor.
-- [Cross-Seed](https://github.com/cross-seed/cross-seed) - Ressuscita ou encontra arquivos elegíveis e os injeta diretamente no seu cliente torrent com o auxílio do indexador torznab.
+- [Cross-Seed](https://github.com/cross-seed/cross-seed) - Ressuscita ou encontra torrents elegíveis e os injeta diretamente no seu cliente torrent com o auxílio do indexador torznab.
 - [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Automatiza tarefas que desperdiçam tempo no qBitTorrent.
 - 🌟 [**Autobrr**](https://autobrr.com) - É possível configurá-lo para baixar automaticamente. De qualquer feed, você define uma regra para adicionar uma categoria, por exemplo, e ele segue o que você definiu. [**Guia**](guias/autobrr.md)
 - [Medusa](https://pymedusa.com/) - Muito boa alternativa ao Sonarr. Uma ferramenta automática de download de programas de TV.
@@ -272,12 +272,12 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 **O gerenciador Free Download Manager é considerado riskware. O site oficial da aplicação distribuiu uma [versão do programa para Linux infectada por spyware durante anos.](https://www.bleepingcomputer.com/news/security/free-download-manager-site-redirected-linux-users-to-malware-for-years/) Não é mais seguro confiar no seu desenvolvedor.**
 :::
 
-- [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de HTTP, FTP, BitTorrent, Magnet, etc.
+- [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de uma gama de protocolos como o HTTP, FTP, BitTorrent, Magnet, etc.
 * [JDownloader2](http://jdownloader.org/jdownloader2) - É distinto dos demais gerenciadores de download porque suporta o download de hosts de links premium como o **NitroFlare** - apenas em situações que não exigem conta. Reúna e cole todos os links de um arquivo dividido em partes para baixá-lo.
 * **[Trialware]** [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente [faça isso](https://rentry.org/installidm).
 * [Brisk Download Manager](https://github.com/AminBhst/brisk) - Outro gerenciador de downloads muito bom, embora seja um pouco lento.
 * [pyLoad](https://pyload.net/) - Download manager leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
-* [aria2](https://aria2.github.io/) - Gerenciador de downloads e cliente BitTorrent multiplataforma baseado em linha de comando. Preparado para lidar com múltiplos arquivos ao mesmo tempo.
+* [aria2](https://aria2.github.io/) - Gerenciador de downloads e cliente BitTorrent muito semelhante ao cURL. Preparado para lidar com múltiplos ficheiros e protocolos de envio ao mesmo tempo.
 * [ArrowDL](https://www.arrow-dl.com/) - Aplicativo para desktop que o ajuda a organizar e manter seus downloads; possui uma interface limpa e amigável e acima de tudo, é open-source.
 
 ## ► Ferramentas de download
@@ -290,12 +290,12 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Cleverget All-In-One](https://cleverget.org/) - Baixa vídeos de diversas plataformas no PC, gratuito para uso pessoal e baseado em uma gama de modos especialmente feitos para a netflix, amazon prime e apple tv.
 - **[Trialware]** [1DM](https://www.apps2sd.info/idmp/faq) - Browser e downloader de vídeos de diversas plataformas para o sistema operacional Android.
 - **[Pago]** [1DM+](https://www.apps2sd.info/idmp/faq) - Pode obter documentos maiores que 1MB do Doceru - [versão marítima](https://tekmods.com/1dm-browser-video-audio-torrent-downloader/).
-- **[Pago]** [TubeDigger](https://www.tubedigger.com/) - Converter que pode baixar legendas subrip e vídeos da hotmart em alguns casos apenas. 
+- **[Pago]** [TubeDigger](https://www.tubedigger.com/) - Conversor de arquivos que pode baixar legendas subrip e vídeos da hotmart em alguns casos apenas. 
 - 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Fonte inesgotável de recursos para baixar vídeo/áudio, remuxar e mesclar items de uma grande variedade de páginas e plataformas de streaming. Roda apenas no modo headless, veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente.
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um GUI-wrapper multiplataforma para o yt-dlp escrito em PySide6.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - Outro frontend para o yt-dlp disponível para sistemas Unix e Windows.
 - 🌟 **[Trialware]** [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade, algumas funções só podem ser desbloqueadas pagando.
-- [Cat-Catch](https://github.com/xifangczy/cat-catch) - O cat-catch é uma extensão de origem chinesa para o Firefox e Chrome, pode baixar vídeos de sites de emissoras de tv.
+- [Cat-Catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md) - O cat-catch é uma extensão de origem chinesa para navegador, ela pode filtrar, exibir e reproduzir os elementos de uma página assim que for carregada.
 - [twitch-dl](https://github.com/ihabunek/twitch-dl) - O twitch downloader é um recurso gratuito para obter VODs exclusivos para subs dentro da Twitch.
 - [kick-dl](https://github.com/juliogarciape/kick-dl) - Mesmo conceito do twitch-dl, só que para a kick.com.
 - [scribd-dl](https://github.com/rkwyu/scribd-dl) - Downloader projetado para o scribd.com e slideshare.net. Caso você não queira instalar as dependências, [existem algumas alternativas aqui](https://pirataria.link/ferramentas#%E2%96%BA-ferramentas-diversas) — embora não sejam tão seguras.
