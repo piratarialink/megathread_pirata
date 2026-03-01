@@ -259,7 +259,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Acrescenta a opção de converter vídeos para MP4 no After Effects.
 - [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
 - [eCut](http://eng.e-cut.ru/) - Plugin para otimizar o CorelDRAW Graphics Suite.
-- [Quod Libet](https://quodlibet.readthedocs.org/en/latest/) - Reprodutor de áudio completo e alternativa para o Foobar2000/AIMP no Linux; oferece separação em tags, playlists, álbuns e avaliações como recurso.
+- [Quod Libet](https://quodlibet.readthedocs.io/en/latest/downloads.html) - Reprodutor de áudio constantemente atualizado, livre e alternativa para o Foobar2000/AIMP no Linux; oferece separação em tags, playlists, álbuns e avaliações como recurso.
 - [OpenCut](https://opencut.app/) - Alternativa open-source para o CapCut, atualmente está na versão beta e ainda segue aguardando um overhaul completo pelo mantenedor do projeto. WebUI, não exige aplicativo dedicado.
 
 ## ► Gerenciadores de download
