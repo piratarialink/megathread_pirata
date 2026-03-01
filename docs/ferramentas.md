@@ -312,7 +312,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - **[Trialware]** [StreamFab](https://streamfab.com/) - Programa focado em oferecer a opção de download direto em plataformas de streaming para os usuários - consegue baixar da globoplay, disney+ e hbo max.
 - [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 Gbps por 6 horas do Mega - confira nossa [guia de como burlar a restrição do mega.nz de cota por uso através de proxies.](https://pirataria.link/guias/burlando-limite-mega)
 - [Soundcloud Downloader](https://github.com/NotTobi/soundcloud-dl) - Extensão do Firefox. Ao visitar o site do soundcloud.com será exibido um ícone na barra de tarefas para salvar o que tu deseja ouvir depois.
-- [Katomart](https://katomart.com/) - Ferramenta em produção que faz o download de vídeos de plataformas EaD, legalmente. (de acordo com o artigo 184 do código penal que defende a cópia de obra intelectual para uso privado do copista)
+- [Katomart](https://github.com/katomaro/katomart) - Ferramenta em produção que faz o download de vídeos de plataformas EaD, legalmente. (de acordo com o artigo 184 do código penal que defende a cópia de obra intelectual para uso privado do copista)
 - [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de conteúdo do site GetComics.info facilmente.
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) - Para baixar o vídeo do iPlayer da BBC Brasil/Mundo sem lidar com pormenores irritantes como descriptografia de DRM.
 
