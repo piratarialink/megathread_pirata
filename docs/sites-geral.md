@@ -29,17 +29,17 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🌟 [**TRaSH Guides**](https://trash-guides.info/)
 
-- Aprenda a montar servidor de mídia, criar e organizar pastas nos programas do ecossistema Arr, configurar o qBittorrent e muito mais.
+- Aprenda a montar um servidor de mídia, criar e organizar pastas nos programas do ecossistema Arr, configurar o qBittorrent e muito mais.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/trash-guides.info/)
 
 ### 🌟 [**Hattered**](https://mefrraz.github.io/hattered/index.html)
 
-- Página tuga criada em 2025 contendo dicas, guias e uma biblioteca de conteúdo livre online.
+- Página tuga criada em 2025 contendo dicas, guias, diretórios e uma biblioteca de conteúdo livre online.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mefrraz.github.io/hattered/)
 
 ### 🔗 [AlternativeTo](https://alternativeto.net/)
 
-- Indexador completo de links oficiais de download de recursos e programas da web, com um destaque maior para os de código aberto.
+- Indexador completo de links oficiais de download de recursos e programas da web, com um destaque maior para aplicações de código aberto.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/alternativeto.net/)
 
 ### 🔗 [VirusTotal](https://virustotal.com/)
