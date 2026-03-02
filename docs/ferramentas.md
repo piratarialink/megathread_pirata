@@ -328,7 +328,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Seedboxes
 
-- 🌟 **[Trialware]** [**torbox.app**](https://www.torbox.app/) - Seedbox gratuito que permite baixar torrents de até **10 GB** de tamanho. **Nota:** se você deseja se tornar premium, evite comprar de semeadores, eles são muito caros - [add-on do torbox.app para o stremio aqui.](https://stremio-addons.com/torbox.html)
+- 🌟 **[Trialware]** [**torbox.app**](https://www.torbox.app/) - Seedbox semi-gratuito que permite baixar torrents de até **10 GB** de tamanho. **Nota:** se você deseja se tornar premium, evite comprar de semeadores, eles são muito caros - [add-on do torbox.app para o stremio aqui.](https://stremio-addons.com/torbox.html)
 - **[Pago]** [ultra.cc](https://ultra.cc/) - De 1 até 50 Gbps de bandwidth no plano básico, estabeleça um [limite](./images/ultra.png) de semeação dentro do qBit para não prejudicar outros usuários.
 - **[Pago]** [whatbox.ca](https://whatbox.ca/plans) - Servidor localizado nos EUA (excelente para brasileiros) e maior tráfego se comparado com o ultra seedbox.
 
