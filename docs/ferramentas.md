@@ -295,7 +295,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um GUI-wrapper multiplataforma para o yt-dlp escrito em PySide6.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - Outro frontend para o yt-dlp disponível para sistemas Unix e Windows.
 - 🌟 **[Trialware]** [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade, algumas funções só podem ser desbloqueadas pagando.
-- [Cat-Catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md) - O cat-catch é uma extensão de origem chinesa para navegador, ela pode filtrar, exibir e reproduzir os elementos de uma página assim que for carregada.
+- [Cat-Catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md) - O cat-catch é uma extensão de origem chinesa para navegador, ela pode filtrar, exibir em tempo real e reproduzir os elementos de uma página assim que for carregada.
 - [twitch-dl](https://github.com/ihabunek/twitch-dl) - O twitch downloader é um recurso gratuito para obter VODs exclusivos para subs dentro da Twitch.
 - [kick-dl](https://github.com/juliogarciape/kick-dl) - Mesmo conceito do twitch-dl, só que para a kick.com.
 - [scribd-dl](https://github.com/rkwyu/scribd-dl) - Downloader projetado para o scribd.com e slideshare.net. Caso você não queira instalar as dependências, [existem algumas alternativas aqui](https://pirataria.link/ferramentas#%E2%96%BA-ferramentas-diversas) — embora não sejam tão seguras.
