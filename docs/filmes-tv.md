@@ -103,18 +103,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🆎 Legendados
 
-### 🌟 [MovieMaze](https://moviemaze.cc/)
-
-- O MovieMaze aparentemente comprou o Freek.to
-- Infinidade de filmes, séries e animes. Aceita legenda que vc baixou de outros sites.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/moviemaze.cc/)
-
 ### 🌟 [HydraHD](https://hydrahd.me/)
 
 - Sem precisar se cadastrar, aproveite filmes e séries gratuitos em streaming na maior biblioteca.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hydrahd.me/)
 
-### 🌟 [Cinemaos](https://cinemaos.live)
+### 🌟 [CinemaOS](https://cinemaos.live)
 
 - Legendas em português brasileiro para blockbusters/seriados populares e canais gratuitos de IPTV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cinemaos.live/)
@@ -124,20 +118,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Filmes e séries em 1080p ou em até 4k disponível com o token do Real Debrid, extensão ou proxy personalizado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pstream.mov/)
 
-### 🌟 [Cinema Deck](https://cinemadeck.com/)
+### 🌟 [uCinema](https://ucinema.so/)
 
-- Mergulhe em um mundo de entretenimento ilimitado com milhares de filmes e programas de TV abrangendo vários gêneros.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cinemadeck.com/)
-
-### 🌟 [CorsFlix](https://corsflix.us.kg/)
-
-- Entretenimento sem fim na ponta dos seus dedos, com acesso instantâneo aos últimos lançamentos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/corsflix.us.kg/)
-
-### 🌟 [Novafork](https://novafork.cc/)
-
-- Atendendo a todos os gostos, a variedade de filmes inclui desde clássicos até sucessos de bilheteria.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/novafork.com/)
+- Atendendo a todos os gostos, a variedade de filmes inclui desde clássicos até sucessos de bilheteria com suporte para legendas multilíngues.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ucinema.so/)
 
 ### ▶️ [HDToday](https://hdtoday.tv/)
 
@@ -146,48 +130,19 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [uCinema](https://ucinema.so/)
 
-- O melhor site de streaming de filmes gratuito com a ajuda de servidores de streaming rápidos e suporte para legendas multilíngues.
+- Atendendo a todos os gostos, a variedade de filmes inclui desde clássicos até sucessos de bilheteria com suporte para legendas multilíngues.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ucinema.so/)
-
-### ▶️ [Sudo-Flix](https://sudo-flix.rip/)
-
-- sudo-flix mudou o dominio para "sudo-flix.rip" é um fork do movie-web que permanece ativo mesmo após o encerramento do movie-web.app. sudo-flix.lol é executado em um VPS privado e auto-hospedado. Não há anúncios e contém uma grande variedade de filmes e séries.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sudo-flix.rip/)
 
 ### ▶️ [Doramogo](https://www.doramogo.net/)
 
-- O Doramogo é um site de streamings de doramas legendados que funciona desde fevereiro de 2025. Recomendamos o bloqueador de anúncios ativado por conta dos anúncios terceiros no player de vídeo.
+- O Doramogo é um site de streamings de doramas legendados que funciona desde fevereiro de 2025. Recomendamos que o adblock esteja ativado por conta dos anúncios de terceiros no player de vídeo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.doramogo.net/)
 
-### ▶️ [Binge](https://bingemaster.netlify.app/)
+### ▶️ [CinebyTV](https://broflix.cc/)
 
-- Streaming de filmes eficiente, conteúdo atraente e uma interface de usuário agradável.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bingemaster.netlify.app/)
-
-### ▶️ [WooFlix](https://wooflix.tv/)
-
-- Acesso fácil a novos lançamentos, séries de TV populares, filmes em HD e episódios completos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/wooflix.tv/)
-
-### ▶️ [BrocoFlix](https://brocoflix.com/)
-
-- Refúgio para todos os piratas aficionados por cinema, este tesouro cinematográfico é puro ouro.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/brocoflix.com/)
-
-### ▶️ [BroFlix](https://broflix.cc/)
-
-- Ampla biblioteca de filmes e séries com toda a emoção dos sucessos de bilheteria.
+- Aparentemente o domínio broflix.co foi comprado.
+- Entretenimento sem fim com toda a emoção dos sucessos de bilheteria e das plataformas de streaming.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/broflix.cc/)
-
-### ▶️ [Cinema Unlocked](https://cinemaunlocked.com/)
-
-- Transmita filmes, explore uma grande coleção e descubra novas maravilhas.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cinemaunlocked.com/)
-
-### ▶️ [CucuFlix](https://cucuflix.xyz/)
-
-- Transmita gratuitamente, a qualquer hora e em qualquer lugar, seus filmes e programas favoritos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cucuflix.xyz/)
 
 ### ▶️ [DashFlix](https://dashflix.top/)
 
@@ -204,11 +159,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Seus programas e filmes favoritos de graça - rápido, incrível e divertido.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/filmex.to/)
 
-### ▶️ [FlixHQ](https://flixhq.click/)
-
-- Desde 2023 aberto para o público em geral, assista filmes e programas de TV online instantaneamente.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/flixhq.click/)
-
 ### ▶️ [FshareTV](https://fsharetv.co/)
 
 - Plataforma incrível que oferece uma vasta coleção de filmes antigos e programas de TV, além de uma fantástica seleção de animações.
@@ -219,45 +169,15 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Desbrave mares repletos de tesouros com novos filmes e webséries.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/heartive.pages.dev/)
 
-### ▶️ [Kipflix](https://kipflix.xyz/) / [2](https://kipwatch.xyz/)
-
-- Um site de fácil navegação que oferece streaming em HD de filmes e programas de TV.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kipflix.xyz/)
-
-### ▶️ [Kipstream](https://kipstream.lol/)
-
-- Descubra seu próximo filme favorito com uma seleção incomparável de filmes.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kipstream.lol/)
-
-### ▶️ [Movie Streaming Site](https://openstream.thegrass.xyz/)
-
-- Explore e aproveite uma grande variedade de gêneros e títulos no conforto da sua casa.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/openstream.thegrass.xyz/)
-
-### ▶️ [Movietly](https://movietly.com/)
-
-- Grande biblioteca de recursos e obras da sétima arte, entrega uma experiência de streaming inigualável.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/movietly.com/)
-
-### ▶️ [Nunflix](https://nunflix.live/) / [2](https://nunflix.org/) / [3](https://nunflix-ey9.pages.dev/) / [4](https://nunflix-firebase.firebaseapp.com/) / [5](https://nunflix-firebase.web.app/)
-
-- Uma jornada cinematográfica pelo entretenimento sem fim com uma interface intuitiva.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/nunflix.live/)
-
 ### ▶️ [PressPlay](https://www.pressplay.top/)
 
 - Vasta seleção de filmes e episódios de alta qualidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pressplay.top/)
 
-### ▶️ [RgShows](https://www.rgshows.me/)
-
-- Plataforma fácil de usar com uma infinidade de filmes para você assistir.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/rgshows.me/)
-
-### ▶️ [Rive](https://rivestream.live/) / [2](https://rivestream.xyz/) / [3](https://cinemaos-v2.vercel.app/)
+### ▶️ [Rive](https://rivestream.xyz/) 
 
 - Você pode assistir a todos os vídeos de graça, de forma rápida e incrível, sem precisar fazer login ou se registrar.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/rivestream.live/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/rivestream.xyz/)
 
 ### ▶️ [YassFlix](https://yassflix.net/)
 
