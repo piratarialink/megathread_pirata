@@ -147,7 +147,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Os usuários são ajudados por este motor de busca a encontrar downloads gratuitos de e-books, bem como audiobooks.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravebooksearch.com/)
 
-## 🖱 Aplicativos para Computador
+## 💼 Aplicativos
 
 ### 🔗 [Libation](https://github.com/rmcrackan/Libation)
 

@@ -282,27 +282,25 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Ferramentas de download
 
-- [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno para baixar vídeos e áudios de centenas de sites.
+- [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno e prático para fazer o download de vídeos e faixas de áudio de centenas de milhares de sites.
+- [Media Downloader](https://github.com/mhogomchungu/media-downloader) - Wrapper simples para o wget, you-get, svtplay-dl, lux e [safaribooks](https://github.com/lorenzodifuccia/safaribooks?tab=readme-ov-file) - confira a [wiki oficial](https://github.com/mhogomchungu/media-downloader/wiki/Extensions) para instalar outras extensões manualmente como pacotes json.
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta baseada no yt-dlp para baixar imagens/vídeos/música/texto e muito mais - requer que tu logue na sua conta para efetuar o download direto de redes sociais.
-- [Côc Côc](https://coccoc.com/) - Navegador vietnamita que baixa vídeos da hotmart/kiwify apenas no PC.
 - [DownThemAll](https://github.com/downthemall/downthemall) - Perfeito para download massivo de arquivos de grandes tamanhos sejam eles protegidos ou não.
 - **[Trialware]** [Downie](https://software.charliemonroe.net/downie/) - Downloader exclusivo do OS X que pode baixar arquivos de múltiplos hosters de conteúdo - não apenas do YouTube.
-- [Cleverget All-In-One](https://cleverget.org/) - Baixa vídeos de diversas plataformas no PC, gratuito para uso pessoal e baseado em uma gama de modos especialmente feitos para a netflix, amazon prime e apple tv.
 - **[Trialware]** [1DM](https://www.apps2sd.info/idmp/faq) - Browser e downloader de vídeos de diversas plataformas para o sistema operacional Android.
 - **[Pago]** [1DM+](https://www.apps2sd.info/idmp/faq) - Pode obter documentos maiores que 1MB do Doceru - [versão marítima](https://tekmods.com/1dm-browser-video-audio-torrent-downloader/).
 - **[Pago]** [TubeDigger](https://www.tubedigger.com/) - Conversor de arquivos que pode baixar legendas subrip e vídeos da hotmart em alguns casos apenas. 
 - 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Fonte inesgotável de recursos para baixar vídeo/áudio, remuxar e mesclar items de uma grande variedade de páginas e plataformas de streaming. Roda apenas no modo headless, veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente.
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um GUI-wrapper multiplataforma para o yt-dlp escrito em PySide6.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - Outro frontend para o yt-dlp disponível para sistemas Unix e Windows.
-- 🌟 **[Trialware]** [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade, algumas funções só podem ser desbloqueadas pagando.
+- 🌟 **[Trialware]** [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8K** e em flac sem perder qualidade, algumas funções só podem ser desbloqueadas pagando.
 - [Cat-Catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md) - O cat-catch é uma extensão de origem chinesa para navegador, ela pode filtrar, exibir em tempo real e reproduzir os elementos de uma página assim que for carregada.
 - [twitch-dl](https://github.com/ihabunek/twitch-dl) - O twitch downloader é um recurso gratuito para obter VODs exclusivos para subs dentro da Twitch.
 - [kick-dl](https://github.com/juliogarciape/kick-dl) - Mesmo conceito do twitch-dl, só que para a kick.com.
 - [scribd-dl](https://github.com/rkwyu/scribd-dl) - Downloader projetado para o scribd.com e slideshare.net. Caso você não queira instalar as dependências, [existem algumas alternativas aqui](https://pirataria.link/ferramentas#%E2%96%BA-ferramentas-diversas) — embora não sejam tão seguras.
-- [gallery-dl](https://github.com/mikf/gallery-dl) - O gallery-dl é um programa CLI para baixar galerias e coleções de imagens de vários image hosts.
+- [gallery-dl](https://github.com/mikf/gallery-dl) - O gallery-dl é um programa CLI para baixar galerias e coleções de imagens do pinterest, reddit, imgur e twitter.
 - [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos, seja MP4, MP3 ou AAC, focado no Edge e Chromium.
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy, porém, tal qual o TubeDigger em algumas situações somente.
-- **[Trialware]** [Allavsoft](https://www.allavsoft.com/) - Downloader chinês de mídia e elementos da web, é 50% do tempo gratuito e baseado no yt-dlp. Pode lidar com automação e operações que exigem grande esforço também.
 - [Instaloader](https://instaloader.github.io/) - Não requer que você logue em sua conta para baixar metadados, vídeos e fotos do instagram - não permite baixar conteúdo de contas com restrição/perfil privado.
 - [FetchV](https://fetchv.net/pt-br) - Com o FetchV, você poderá fazer o download de vídeos dentro do seu navegador, prático e intuitivo de se usar.
 - [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp sem pagar absolutamente um dobrão por isso.
@@ -314,6 +312,8 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 Gbps por 6 horas do Mega - confira nossa [guia de como burlar a restrição do mega.nz de cota por uso através de proxies.](https://pirataria.link/guias/burlando-limite-mega)
 - [Soundcloud Downloader](https://github.com/NotTobi/soundcloud-dl) - Extensão do Firefox. Ao visitar o site do soundcloud.com será exibido um ícone na barra de tarefas para salvar o que tu deseja ouvir depois.
 - [Katomart](https://github.com/katomaro/katomart) - Ferramenta em produção que faz o download de vídeos de plataformas EaD, legalmente. (de acordo com o artigo 184 do código penal que defende a cópia de obra intelectual para uso privado do copista)
+- [Côc Côc](https://coccoc.com/) - Navegador vietnamita gratuito que baixa vídeos/objetos da hotmart/kiwify apenas no computador.
+- [Cleverget All-In-One](https://cleverget.org/) - Baixa vídeos de diversas plataformas no PC, gratuito para uso pessoal e baseado em uma gama de modos especialmente feitos para a netflix, amazon prime e apple TV.
 - [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de conteúdo do site GetComics.info facilmente.
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) - Para baixar o vídeo do iPlayer da BBC Brasil/Mundo sem lidar com pormenores irritantes como descriptografia de DRM.
 
