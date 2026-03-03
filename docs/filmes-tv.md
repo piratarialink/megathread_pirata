@@ -128,11 +128,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Plataforma com diversas séries e filmes legendados adicionados constantemente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hdtoday.tv/)
 
-### ▶️ [uCinema](https://ucinema.so/)
-
-- Atendendo a todos os gostos, a variedade de filmes inclui desde clássicos até sucessos de bilheteria com suporte para legendas multilíngues.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ucinema.so/)
-
 ### ▶️ [Doramogo](https://www.doramogo.net/)
 
 - O Doramogo é um site de streamings de doramas legendados que funciona desde fevereiro de 2025. Recomendamos que o adblock esteja ativado por conta dos anúncios de terceiros no player de vídeo.
