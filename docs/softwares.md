@@ -264,11 +264,6 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 - Tracker generalista russo desde 2004 em atividade. Para usar a função de pesquisa, é necessário se cadastrar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rutracker.net/)
-  
-### 🔗 [Mac Torrents](https://www.torrentmac.net/) • MacOS
-
-- Torrents para uma variedade de utilitários, aplicativos, jogos e plug-ins úteis para design gráfico, edição de vídeo e gráficos em movimento.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentmac.net/)
 
 ### 🔗 [Team OS](https://www.teamos.xyz) • Necessário Cadastro
 
