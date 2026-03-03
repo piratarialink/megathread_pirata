@@ -62,6 +62,10 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
 
+#### ▶️ [AniTube](https://www.anitube.news)
+
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.anitube.news/)
+
 #### ▶️ [Anime Yabu](https://www.animeyabu.org)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.animeyabu.org/)
