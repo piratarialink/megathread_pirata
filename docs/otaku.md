@@ -36,19 +36,24 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Está com bloqueio de DMCA na página principal e no desktop, funciona normalmente pelo aplicativo.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/tomatoanimes.com/)
 
-#### ▶️ [AnimeDays](https://animedays.org)
+#### ▶️ [DattebayoBR](https://www.dattebayo-br.com/)
 
-- Site seguro para assistir animes **sem interrupções ou anúncios**, em várias resoluções, com ou sem episódios filler.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animedays.org/)
+- Espaço seguro para assistir animes, tokusatsus e donghuas - os anúncios geralmente são embutidos no player de vídeo para evitar qualquer risco de malware - em várias resoluções, com ou sem episódios filler.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.dattebayo-br.com/)
+
+#### ▶️ [Goyabu](https://goyabu.io/)
+
+- Aproveite de uma estensa lista de gêneros em volta de obras audiovisuais nipônicas e escolha o que acompanhar a qualquer momento e em qualquer lugar.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/https://goyabu.io/)
 
 #### ▶️ [4anime](https://4anime.gg)
 
-- Alternativa rápida após o encerramento do 4anime original. Os animes populares têm legendas em PT-BR.
+- Alternativa confiável após o encerramento do 4anime original. Os animes populares têm legendas em PT-BR.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/4anime.gg/)
 
 #### ▶️ [Hinata Soul](https://www.hinatasoul.com)
 
-- Oferece animes em **HD e Full HD** para assistir. [Falha na conexão? Tente isso.](guias/dns.md)
+- Descubra novos clássicos e animações em **HD/Full HD/Hi-Res** para assistir enquanto estiver online. [Falha na conexão? Tente isso.](guias/dns.md)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/hinatasoul.com/)
 
 #### ▶️ [Betterflix](https://betterflix.vercel.app/)
@@ -87,11 +92,11 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌟 [Anitsu](https://anitsu.moe/#)
 
-- Grande catálogo, inclui praticamente todos os títulos imagináveis, até mesmo os mais obscuros com legenda em português. Ademais, o site disponibiliza servidores para download, contendo também vários formatos e faixas de dublagem.
+- Grande catálogo, inclui praticamente todos os títulos imagináveis, até mesmo lost medias com legenda em português. Ademais, o site disponibiliza servidores para download, contendo também vários formatos e faixas de dublagem.
 - **Use um reprodutor de mídia de sua preferência no lugar do VLC.**
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anitsu.moe/)
 
-#### 🔗 [Anime Tosho](   https://animetosho.org/)
+#### 🔗 [Anime Tosho](https://animetosho.org/)
 
 - Serviço automatizado que espelha torrents de anime para downloads diretos.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animetosho.org/)
@@ -192,7 +197,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 ‎
 ‎
 
-### 🧰 ➜ Programas - Anime
+### 💼 ➜ Programas - Anime
 
 ---
 
