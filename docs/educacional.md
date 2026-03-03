@@ -190,7 +190,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 - Possui material e cartilha que irão te ensinar do zero a passar no ITA.
 
-### 🔗 [ENEM SOLIDÁRIO 2026!⏳📚!](https://t.me/Enemmateriais2025)
+### 🔗 [ENEM SOLIDÁRIO 2026!⏳📚!](https://t.me/enemsolidario2026)
 
 - Comunidade ativa para compartilhamento de materiais para o ENEM.
 
