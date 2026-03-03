@@ -171,7 +171,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [BrocoFlix](https://brocoflix.com/)
 
-- Refúgio para todos os aficionados por cinema, este tesouro cinematográfico é um verdadeiro deleite.
+- Refúgio para todos os piratas aficionados por cinema, este tesouro cinematográfico é puro ouro.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/brocoflix.com/)
 
 ### ▶️ [BroFlix](https://broflix.cc/)
@@ -191,7 +191,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [DashFlix](https://dashflix.top/)
 
-- Mergulhe no mundo encantador dos filmes, nós selecionamos com paixão uma seleção diversificada
+- Mergulhe no mundo encantador dos filmes, escolhidos a dedo com paixão por uma seleção diversificada.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/dashflix.top/)
 
 ### ▶️ [Donkey](https://donkey.to/)
@@ -201,22 +201,22 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [FilmeX](https://filmex.to/)
 
-- Seus programas e filmes favoritos de graça, rápido, incrível e divertido.
+- Seus programas e filmes favoritos de graça - rápido, incrível e divertido.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/filmex.to/)
 
 ### ▶️ [FlixHQ](https://flixhq.click/)
 
-- O site de filmes gratuito desde 2023 para assistir filmes e programas de TV online instantaneamente.
+- Desde 2023 aberto para o público em geral, assista filmes e programas de TV online instantaneamente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/flixhq.click/)
 
 ### ▶️ [FshareTV](https://fsharetv.co/)
 
-- Plataforma incrível que oferece uma vasta coleção de filmes antigos e programas de TV, além de uma deliciosa seleção de animações.
+- Plataforma incrível que oferece uma vasta coleção de filmes antigos e programas de TV, além de uma fantástica seleção de animações.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fsharetv.co/)
 
 ### ▶️ [Heartive](https://heartive.pages.dev/)
 
-- A diversão espera por você enquanto os usuários mergulham em um tesouro de novos filmes e webséries.
+- Desbrave mares repletos de tesouros com novos filmes e webséries.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/heartive.pages.dev/)
 
 ### ▶️ [Kipflix](https://kipflix.xyz/) / [2](https://kipwatch.xyz/)
@@ -236,12 +236,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [Movietly](https://movietly.com/)
 
-- Grande biblioteca e recursos interessantes, além de oferecer uma experiência de streaming inigualável.
+- Grande biblioteca de recursos e obras cinematográficas interessantes, entrega uma experiência de streaming inigualável.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/movietly.com/)
 
 ### ▶️ [Nunflix](https://nunflix.live/) / [2](https://nunflix.org/) / [3](https://nunflix-ey9.pages.dev/) / [4](https://nunflix-firebase.firebaseapp.com/) / [5](https://nunflix-firebase.web.app/)
 
-- Uma jornada cinematográfica por entretenimento sem fim com uma interface intuitiva.
+- Uma jornada cinematográfica pelo entretenimento sem fim com uma interface intuitiva.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nunflix.live/)
 
 ### ▶️ [PressPlay](https://www.pressplay.top/)
@@ -402,6 +402,10 @@ _[**Outros apps para assistir filmes e séries podem ser encontrados aqui**](out
 ### 🔗 [Starck Filmes](https://starckfilmes-v8.com)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/starckfilmes-v8.com)
+
+### 🔗 [YTS Brasil](https://ytsbr.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ytsbr.com)
 
 ### 🔗 [Catálogo BeTor](https://catalogo.betor.top/)
 
