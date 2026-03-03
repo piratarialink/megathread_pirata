@@ -154,10 +154,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - sudo-flix mudou o dominio para "sudo-flix.rip" é um fork do movie-web que permanece ativo mesmo após o encerramento do movie-web.app. sudo-flix.lol é executado em um VPS privado e auto-hospedado. Não há anúncios e contém uma grande variedade de filmes e séries.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sudo-flix.rip/)
 
-### ▶️ [KissAsian](https://kissasian.lu/)
+### ▶️ [Doramogo](https://www.doramogo.net/)
 
-- KissAsian é um site de streamings de doramas legendados que funciona desde 2015. Recomendamos o bloqueador de anúncios ativado por conta dos anúncios terceiros no player de vídeo.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kissasian.lu/)
+- O Doramogo é um site de streamings de doramas legendados que funciona desde fevereiro de 2025. Recomendamos o bloqueador de anúncios ativado por conta dos anúncios terceiros no player de vídeo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.doramogo.net/)
 
 ### ▶️ [Binge](https://bingemaster.netlify.app/)
 
@@ -236,7 +236,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [Movietly](https://movietly.com/)
 
-- Grande biblioteca de recursos e obras cinematográficas interessantes, entrega uma experiência de streaming inigualável.
+- Grande biblioteca de recursos e obras da sétima arte, entrega uma experiência de streaming inigualável.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/movietly.com/)
 
 ### ▶️ [Nunflix](https://nunflix.live/) / [2](https://nunflix.org/) / [3](https://nunflix-ey9.pages.dev/) / [4](https://nunflix-firebase.firebaseapp.com/) / [5](https://nunflix-firebase.web.app/)
