@@ -43,7 +43,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### ▶️ [Goyabu](https://goyabu.io/)
 
-- Aproveite de uma estensa lista de gêneros em volta de obras audiovisuais nipônicas e escolha o que acompanhar a qualquer momento e em qualquer lugar.
+- Aproveite de uma extensa lista de gêneros em volta de obras audiovisuais nipônicas e escolha o que acompanhar a qualquer momento e em qualquer lugar.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/https://goyabu.io/)
 
 #### ▶️ [4anime](https://4anime.gg)
