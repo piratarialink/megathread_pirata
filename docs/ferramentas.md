@@ -283,7 +283,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Ferramentas de download
 
 - [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Um aplicativo GUI moderno e prático para fazer o download de vídeos e faixas de áudio de centenas de milhares de sites.
-- [Media Downloader](https://github.com/mhogomchungu/media-downloader) - Wrapper simples para o wget, you-get, svtplay-dl, lux e [safaribooks](https://github.com/lorenzodifuccia/safaribooks?tab=readme-ov-file) - confira a [wiki oficial](https://github.com/mhogomchungu/media-downloader/wiki/Extensions) para instalar outras extensões manualmente como json.
+- [Media Downloader](https://github.com/mhogomchungu/media-downloader) - Wrapper simples para o wget, you-get, svtplay-dl, lux e [safaribooks](https://github.com/lorenzodifuccia/safaribooks?tab=readme-ov-file) - confira a [wiki oficial](https://github.com/mhogomchungu/media-downloader/wiki/Extensions) para instalar outras extensões manualmente como pacotes json.
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Ferramenta baseada no yt-dlp para baixar imagens/vídeos/música/texto e muito mais - requer que tu logue na sua conta para efetuar o download direto de redes sociais.
 - [DownThemAll](https://github.com/downthemall/downthemall) - Perfeito para download massivo de arquivos de grandes tamanhos sejam eles protegidos ou não.
 - **[Trialware]** [Downie](https://software.charliemonroe.net/downie/) - Downloader exclusivo do OS X que pode baixar arquivos de múltiplos hosters de conteúdo - não apenas do YouTube.
@@ -293,12 +293,12 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Fonte inesgotável de recursos para baixar vídeo/áudio, remuxar e mesclar items de uma grande variedade de páginas e plataformas de streaming. Roda apenas no modo headless, veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente.
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um GUI-wrapper multiplataforma para o yt-dlp escrito em PySide6.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - Outro frontend para o yt-dlp disponível para sistemas Unix e Windows.
-- 🌟 **[Trialware]** [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8k** e em flac sem perder qualidade, algumas funções só podem ser desbloqueadas pagando.
+- 🌟 **[Trialware]** [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8K** e em flac sem perder qualidade, algumas funções só podem ser desbloqueadas pagando.
 - [Cat-Catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md) - O cat-catch é uma extensão de origem chinesa para navegador, ela pode filtrar, exibir em tempo real e reproduzir os elementos de uma página assim que for carregada.
 - [twitch-dl](https://github.com/ihabunek/twitch-dl) - O twitch downloader é um recurso gratuito para obter VODs exclusivos para subs dentro da Twitch.
 - [kick-dl](https://github.com/juliogarciape/kick-dl) - Mesmo conceito do twitch-dl, só que para a kick.com.
 - [scribd-dl](https://github.com/rkwyu/scribd-dl) - Downloader projetado para o scribd.com e slideshare.net. Caso você não queira instalar as dependências, [existem algumas alternativas aqui](https://pirataria.link/ferramentas#%E2%96%BA-ferramentas-diversas) — embora não sejam tão seguras.
-- [gallery-dl](https://github.com/mikf/gallery-dl) - O gallery-dl é um programa CLI para baixar galerias e coleções de imagens de vários image hosts.
+- [gallery-dl](https://github.com/mikf/gallery-dl) - O gallery-dl é um programa CLI para baixar galerias e coleções de imagens do pinterest, reddit, imgur e twitter.
 - [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos, seja MP4, MP3 ou AAC, focado no Edge e Chromium.
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy, porém, tal qual o TubeDigger em algumas situações somente.
 - [Instaloader](https://instaloader.github.io/) - Não requer que você logue em sua conta para baixar metadados, vídeos e fotos do instagram - não permite baixar conteúdo de contas com restrição/perfil privado.
