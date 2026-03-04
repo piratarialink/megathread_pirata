@@ -132,8 +132,8 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 
 ### 🧲 [CGpeers](https://www.cgpeers.to/login.php) | CGP
 
-- Tracker privado do blog CGPersia.com.
-- Um lugar-comum para discutir sobre pirataria de produtos da Adobe.
+- Tracker privado do blog focado em sfx e design gráfico CGPersia.com.
+- Um lugar comum para se discutir sobre pirataria de produtos da Adobe.
 
 ### 🧲 Cinematik | TIK
 
