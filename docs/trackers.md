@@ -106,8 +106,8 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 
 ### 🧲 [AlphaRatio](https://alpharatio.cc/) | AR
 
-- Tracker generalista
-- Abrem para novos cadastros anualmente
+- Tracker generalista.
+- Abrem para novos cadastros anualmente.
 
 ### 🧲 [Animebytes](https://animebytes.tv) | AB
 
