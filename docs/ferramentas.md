@@ -314,7 +314,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Katomart](https://github.com/katomaro/katomart) - Ferramenta em produção que faz o download de vídeos de plataformas EaD, legalmente. (de acordo com o artigo 184 do código penal que defende a cópia de obra intelectual para uso privado do copista)
 - [Côc Côc](https://coccoc.com/) - Navegador vietnamita gratuito que baixa vídeos/objetos da hotmart/kiwify apenas no computador.
 - [Cleverget All-In-One](https://cleverget.org/) - Baixa vídeos de diversas plataformas no PC, gratuito para uso pessoal e baseado em uma gama de modos especialmente feitos para a netflix, amazon prime e apple TV.
-- [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de conteúdo do site GetComics.info facilmente.
+- [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de gibis do site getcomics.info facilmente.
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) - Para baixar o vídeo do iPlayer da BBC Brasil/Mundo sem lidar com pormenores irritantes como descriptografia de DRM.
 
 ## ► Ferramentas de download on-line
