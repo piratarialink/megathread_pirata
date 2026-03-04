@@ -89,7 +89,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Definitivamente, um excelente site para downloads de MP3 e sem perdas de trilhas sonoras de jogos de console e PC que, de outra forma, são bastante difíceis de encontrar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloads.khinsider.com/)
 
-### 🔗 [Scnlog](https://scnlog.me/)
+### 🔗 [Scnlog](https://scnlog.me/music/)
 
 - Uma infinidade de músicas de quase todos os genêros e formatos possíveis, inclusive em FLAC.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
@@ -111,7 +111,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [RMW](https://rock-metal-wave.ru/)
 
-- Rock pauleira e metal em FLAC, use um tradutor como o Google ou a extensão "Translate This Page" no Firefox.
+- Rock pauleira e metal em FLAC, use um tradutor como o Google ou a extensão "Translate Web Pages" no Firefox.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rock-metal-wave.ru/)
 
 ### 🔗 [BestMP3Converter](https://www.bestmp3converter.com/)
@@ -128,11 +128,6 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - Basta colar seu link nesta ferramenta on-line rápida e gratuita para baixar músicas, listas de reprodução e álbuns do Spotify em formato mp3.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/spotifymate.com/)
-
-### 🔗 [TubeMP3](https://tubemp3.to/)
-
-- De forma rápida e incrivelmente simples, procure e baixe músicas MP3 gratuitas do YouTube com ótima qualidade.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/tubemp3.to/)
 
 ### 🔗 [YTMP3Hub](https://ytmp3hub.com/)
 
