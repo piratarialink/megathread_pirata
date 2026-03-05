@@ -84,13 +84,14 @@
 | 💩 Aptoide      | aptoide-com                | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).
 | IPAOMTK      | ipaomtk-com                 | **Vírus** (_Detectado com malware em várias ocasiões_).                                               |
 | OceanOfApks  | oceanofapks-com             | **Vírus** (_Detectado com malware em várias ocasiões_).                                               |
+| MicroTech Apps  | apps-themicrotech-net             | **Vírus** (_Detectado com malware em várias ocasiões_).                                               |
 | 💩 Happy Mod | happymod-com (proxies)      | **Suspeito** (_Reposta apks modificados de outros sites e permite anúncios clickjacking em excesso_). |
 
 # ⚙️ ➜ Software
 
 | 📋 **NOME**                    | 🪢 **URL** (_Não clicável_)                | 🚩 **PERIGOSO**                                                                                                           |
 |:-------------------------------|:-------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| KMSPico                        |                                            | **Ativador** (_O projeto original foi descontinuado, qualquer site que o disponibilize é fraude_).                        |
+| KMSPico                        |                                            | **Ativador** (_O projeto original foi [descontinuado](https://forums.mydigitallife.net/threads/kmspico-official-thread.65739/), qualquer site que o disponibilize é fraude_).                        |
 | CrackedFully                   | crackedfully-com                           | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).                                      |
 | Ventoy                         | ventoy-net                                 | **Comportamento antiético** (_Foi descoberto um [backdoor](https://github.com/ventoy/Ventoy/issues/2795) no seu código fonte_). |
 | 💩 Raton Downloads             | ratondownload-net-br                       | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).                                      |
