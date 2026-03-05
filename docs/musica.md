@@ -49,10 +49,10 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Um contêiner para downloads gratuitos de música através do YouTube Music, Soundcloud, Qobuz, Spotify, Deezer e outros serviços.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lucida.su/)
 
-### 🌟 [**SquidWTF**](https://us.qobuz.squid.wtf/)
+### 🌟 [**SquidWTF**](https://qobuz.squid.wtf/)
 
-- Ripa áudios do Qobuz em FLAC (para transcodar em qualquer formato lossy).
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/us.qobuz.squid.wtf/)
+- Ripa áudios do Qobuz em FLAC (para transcodar em qualquer formato lossy), possui uma seleção de países para escolher a fonte também.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/qobuz.squid.wtf/)
 
 ### 🌟 [**doubledouble**](https://doubledouble.top/)
 
