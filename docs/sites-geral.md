@@ -57,10 +57,10 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Não esconde resultados de navegação por DRM com o Yandex selecionado, use outra instância além da oficial para não lidar com captcha constante.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4get.ch/)
 
-### 🔗 [The Eye](https://the-eye.eu/)
+### 🔗 [Files.dog](https://files.dog/)
 
-- Arquivo do the-eye.eu (antiga plataforma de armazenamento com download direto e torrents), contém muita coisa que foi deletada ou sumiu do domínio original.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/the-eye.eu/)
+- Repositório aberto e sem fins lucrativos inspirado no antigo the-eye.eu, contém uma miríade de ISOs e torrents retirados de toda a internet.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/files.dog/)
 
 ### 🔗 [Lumpysoft](https://lumpysoft.com/)
 
