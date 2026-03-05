@@ -43,8 +43,9 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**GIM**](https://massgrave.dev/genuine-installation-media) - ISOs do Windows para rodar máquinas virtuais. Versões antigas do Office (2016/2013) também podem ser baixadas gratuitamente.
 - [files.rg-adguard.net](https://files.rg-adguard.net/) - Substituto do tb.rg-adguard.net.
 - [OS.click](https://os.click/en/Windows) - Fornece download intacto de versões mais recentes do Windows.
-- [arquivo corenoc.de](https://archive.org/details/digital_river) - ISOs do Windows 7 que estavam disponíveis no DigitalRiverContent da Microsoft CDN.
-- [the-eye.eu/public/MSDN](https://archive.org/details/MSDNArchive) - O backup de 2,7 TB do dump MSDN do antigo The Eye. Tem muitas ISOs difíceis de encontrar, Windows 7, etc.
+- [arquivo corenoc.de](https://archive.org/details/digital_river) - ISOs do Windows 7 que estavam disponíveis no site DigitalRiverContent (Microsoft 365 CDN).
+- [files.dog/MSDN](https://files.dog/MSDN/) - Acervo dedicado a preservar ISOs extraidas do domínio http://msdn.microsoft.com (MSDN) - agora extinto.
+- [the-eye.eu/public/MSDN](https://archive.org/details/MSDNArchive) - O backup de 2,7 TB do dump "MSDN" do antigo The Eye. Obtenha gratuitamente ISOs difíceis de encontrar, como Windows 7 e XP por exemplo.
 - [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors para LTSB, LTSC e ISOs do Windows 10 da edição do consumidor - Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431)
 - [ISOs do Windows no NNMClub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular fórum russo e rastreador de torrent. Torrents para LTSC e ISOs do Windows 11 da edição do consumidor.
 - [pastebin do abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
