@@ -146,7 +146,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [Donkey](https://donkey.to/)
 
-- Entretenimento global com diversos filmes e programas de TV, comece a assistir hoje mesmo.
+- Entretenimento global com uma miríade filmes e programas de TV pagos para todos os tipos de público.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/donkey.to/)
 
 ### ▶️ [FilmeX](https://filmex.to/)
