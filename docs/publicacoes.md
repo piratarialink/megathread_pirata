@@ -4,10 +4,6 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 
 ## ► Geral
 
-- [[GUIA] ADDON BRAZUCA TORRENTS (STREMIO) + DEBRID](https://www.reddit.com/r/pirataria/comments/1o2yzfn/guia_addon_brazuca_torrents_stremio_debrid/) - Feito por [u/old_pirate12](https://www.reddit.com/user/old_pirate12/)
-  
-- [Index público e brasileiro para filmes e séries no Prowlarr](https://www.reddit.com/r/pirataria/comments/1o4awqj/index_p%C3%BAblico_e_brasileiro_para_filmes_e_s%C3%A9ries/) - Feito por [u/dougppaz_](https://www.reddit.com/user/dougppaz_/)
-
 - [Como usar um DNS Privado no Android e bloquear anúncios + desbloquear sites censurados](https://www.reddit.com/r/pirataria/comments/1ip6236/como_trocar_o_dns_no_windows_e_android/) - Feito por [u/YuriRosas](https://www.reddit.com/user/YuriRosas/)
 
 - [Ah se eu pudesse traduzir conteúdos em tempo real!](https://phtn.app/post/lemmy.dbzer0.com/4186580) - Feito por [u/Dreadwhole](https://phtn.app/u/Dreadwhole@lemmy.dbzer0.com)
@@ -33,6 +29,12 @@ Publicações úteis para ajudá-lo em suas viagens marítimas.
 - [Como Piratear Mangás e HQs](https://phtn.app/post/lemmy.dbzer0.com/1923254) - Feito por [u/Hittstain](https://www.reddit.com/user/Hittstain/)
 
 ## ► Filmes, Séries e TV
+
+- 🌟 [Alternativas ao STREMIO](https://www.reddit.com/r/pirataria/comments/1rk440m/alternativas_ao_stremio/) - Feito por [u/EltonR94](https://www.reddit.com/user/EltonR94/)
+
+- [[GUIA] ADDON BRAZUCA TORRENTS (STREMIO) + DEBRID](https://www.reddit.com/r/pirataria/comments/1o2yzfn/guia_addon_brazuca_torrents_stremio_debrid/) - Feito por [u/old_pirate12](https://www.reddit.com/user/old_pirate12/)
+  
+- [Index público e brasileiro para filmes e séries no Prowlarr](https://www.reddit.com/r/pirataria/comments/1o4awqj/index_p%C3%BAblico_e_brasileiro_para_filmes_e_s%C3%A9ries/) - Feito por [u/dougppaz_](https://www.reddit.com/user/dougppaz_/)
 
 - [RealDebrid - A melhor forma de assistir seus conteúdos favoritos multiplataforma em alta velocidade](https://phtn.app/post/lemmy.dbzer0.com/1707503) - Feito por [u/Dreadwhole](https://phtn.app/u/Dreadwhole@lemmy.dbzer0.com)
 
