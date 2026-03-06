@@ -59,7 +59,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 ### 🔗 [Files.dog](https://files.dog/)
 
-- Repositório aberto e sem fins lucrativos inspirado no antigo the-eye.eu, contém uma miríade de ISOs e torrents retirados de toda a internet.
+- Repositório aberto e sem fins lucrativos inspirado no antigo the-eye.eu, contém uma miríade de ISOs e roms retirados de toda a internet.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/files.dog/)
 
 ### 🔗 [Lumpysoft](https://lumpysoft.com/)
