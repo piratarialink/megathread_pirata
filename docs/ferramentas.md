@@ -297,7 +297,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - 🌟 **[Trialware]** [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8K** e em flac sem perder qualidade, algumas funções só podem ser desbloqueadas pagando.
 - [Cat-Catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md) - O cat-catch é uma extensão de origem chinesa para navegador, ela pode filtrar, exibir em tempo real e reproduzir os elementos de uma página assim que for carregada.
 - [twitch-dl](https://github.com/ihabunek/twitch-dl) - O twitch downloader é um recurso gratuito para obter VODs exclusivos para subs dentro da Twitch.
-- [kick-dl](https://github.com/juliogarciape/kick-dl) - Mesmo conceito do twitch-dl, só que para a kick.com.
+- [KickNoSub](https://github.com/Enmn/KickNoSub/tree/main/extension) - Mesmo conceito do twitch-dl, só que para a kick.com - use a extensão de preferência.
 - [scribd-dl](https://github.com/rkwyu/scribd-dl) - Downloader projetado para o scribd.com e slideshare.net. Caso você não queira instalar as dependências, [existem algumas alternativas aqui](https://pirataria.link/ferramentas#%E2%96%BA-ferramentas-diversas) — embora não sejam tão seguras.
 - [gallery-dl](https://github.com/mikf/gallery-dl) - O gallery-dl é um programa CLI para baixar galerias e coleções de imagens do pinterest, reddit, imgur e twitter.
 - [CocoCut](https://cococut.net/locales/pt-br/) - Suporta o download de arquivos em diferentes formatos, seja MP4, MP3 ou AAC, focado no Edge e Chromium.
@@ -309,7 +309,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [MPMux](https://mpmux.com/pt) - Pode baixar vídeos no formato HLS, .m3u8, MP4 e WebM, e ainda conta com uma variedade de modos de gravação + recursos extras como brinde.
 - [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar e fazer scraping de mídias de vários domínios da internet.
 - [Dash-MPD-File](https://github.com/emarsden/dash-mpd-cli) - Um utilitário de linha de comando para download de mídia em manifests MPD (MPEG_DASH).
-- **[Trialware]** [StreamFab](https://streamfab.com/) - Programa focado em oferecer a opção de download direto em plataformas de streaming para os usuários - consegue baixar da globoplay, disney+ e hbo max.
+- **[Trialware]** [StreamFab](https://streamfab.com/) / [StreamGaGa](https://video.streamgaga.com/) - Programa focado em oferecer a opção de download direto em plataformas de streaming para os usuários - consegue baixar da globoplay, disney+ e HBO max - [Post útil do u/The_Dukes_Of_Hazzard](https://www.reddit.com/r/Piracy/comments/1okh13r/comment/nr6hksj/?context=3)
 - [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 Gbps por 6 horas do Mega - confira nossa [guia de como burlar a restrição do mega.nz de cota por uso através de proxies.](https://pirataria.link/guias/burlando-limite-mega)
 - [Soundcloud Downloader](https://github.com/NotTobi/soundcloud-dl) - Extensão do Firefox. Ao visitar o site do soundcloud.com será exibido um ícone na barra de tarefas para salvar o que tu deseja ouvir depois.
 - [Katomart](https://github.com/katomaro/katomart) - Ferramenta em produção que faz o download de vídeos de plataformas EaD, legalmente. (de acordo com o artigo 184 do código penal que defende a cópia de obra intelectual para uso privado do copista)
