@@ -42,7 +42,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [spot-dl](https://github.com/spotDL/spotify-downloader) - Baixe suas playlists e músicas do Spotify com a arte do álbum e metadados (do YouTube se encontrar uma correspondência).
 
-- [ffmpeg](https://ffmpeg.org/download.html) - O FFmpeg é uma coleção de bibliotecas e ferramentas para processar conteúdo multimídia como áudio, vídeo, legendas e metadados relacionados.
+- [FFmpeg](https://ffmpeg.org/download.html) - O ffmpeg é uma coleção de bibliotecas e ferramentas para processar conteúdo multimídia como áudio, vídeo, legendas e metadados relacionados.
 
 - [Dangerzone](https://dangerzone.rocks/) - Converte PDFs e demais documentos maliciosos em arquivos seguros para leitura e compartilhamento.
 
