@@ -15,7 +15,8 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 
 ### 🧲 [Anime No Sekai](https://ansktracker.net/) | ANSK
 
-- Tracker de lançamentos internos da fansub ANSK com 20 anos de atividade.
+- Tracker de lançamentos internos da fansub ANSK
+- **Freeleech disponível em todo o site devido ao encerramento das atividades.**
 - Oferece um bot XDCC público para download de packs via IRC.
 - Sem suporte a automação.
 
@@ -178,6 +179,7 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 ### 🧲 [Milkie](https://milkie.cc/) | MIL
 
 - Tracker generalista.
+- Está na lista de tracker banidos do r/OpenSignups por estar quase sempre aberto.
 - Convites pelo [Discord](https://discord.gg/rZYAFuZ).
 
 ### 🧲 [MyAnonaMouse](https://myanonamouse.net) | MAM | [Entrevista](https://www.myanonamouse.net/inviteapp.php)
@@ -214,6 +216,11 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 
 - Focado em filmes cult
 - Pode ser acessado por meio do MAM. VIP + 50 GB de upload + conta com 6 meses.
+
+### 🧲 [SpeedApp](https://speedapp.io)
+
+- Tracker romeno voltado para filmes e séries.
+- Seed obrigatório de dois dias e sistema de sub-fórums onde PUs podem criar canais públicos para compartilhar o que quiserem.
 
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
 
