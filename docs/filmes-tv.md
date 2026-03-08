@@ -116,7 +116,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 🌟 [Aether](https://aether.mom/) / [2](https://legacy.aether.mom) / [3](https://aether.bar)
 
 - Melhor alternativa para o finado P-Stream e suas instâncias.
-- Filmes e séries em 1080p ou em até 4k disponível com o token do Freebbox, extensão ou proxy personalizado.
+- Filmes e séries em 1080p ou em até 4k disponível com o token do Febbox, extensão ou proxy personalizado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pstream.mov/)
 
 ### 🌟 [uCinema](https://ucinema.so/)
