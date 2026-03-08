@@ -57,7 +57,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 - 🌟 [**LinuxToys**](https://linux.toys/) - Projeto tocado pelo dev brasileiro psygreg que corrige o bug de captura de áudio do OBS, instala o Waydroid, chaotic AUR, Bottles, lucidglyph e algumas ferramentas para sysadmins - estável para Debian, Ubuntu e Arch.
 - [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a compatibilidade dos programas entre as distribuições através do flatpak - pode substituir a Snap Store da Canonical.
-- [linuxtracker.org](https://linuxtracker.org/) - Quantidade considerável de ISOs customizadas compartilhadas todos os dias.
+- [linuxtracker.org](https://linuxtracker.org/) - Quantidade enorme de ISOs customizadas compartilhadas quase todos os dias.
 - [LinOffice](https://github.com/eylenburg/linoffice) - Office 365 LTSB/LTSC/CE em uma VM conteinerizada com o podman-compose - feito com base no [WinApps](https://github.com/winapps-org/winapps), QEMU e Docker; permite a ativação pelo massgrave - [Guia](https://gist.github.com/eylenburg/38e5da371b7fedc0662198efc66be57b#option-1-running-office-2024-or-365-with-linoffice) / [Patch do office 2013](https://gist.github.com/shrestha-bishal/dae0d674ef81197bc8cc39153b7ebbb3) e do [wine com autodesk fusion](https://codeberg.org/cryinkfly/Autodesk-Fusion-360-on-Linux)
 - 🌟 [**Heroic Games Launcher**](https://heroicgameslauncher.com/) - Adiciona uma camada extra de compatibilidade com o framework .NET e demais bibliotecas da Microsoft através de recursos como o Proton GE, e WineTricks para games/programas não-nativos e crackeados.
 - [Xfce Look](https://www.xfce-look.org/) / [KDE Store](https://store.kde.org/) - Se desfaça do tema padrão de seu _desktop environment_ por um tema GTK3/GTK4 aprovado pela comunidade.
@@ -163,11 +163,11 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Userscripts úteis
 
-- 🌟 [**Violentmonkey**](https://violentmonkey.github.io/) - Gerenciador de userscripts de código aberto.
-- [Tampermonkey](https://www.tampermonkey.net/) - Gerenciador de userscripts de código aberto.
-- [greasyfork.org](https://greasyfork.org/) - Repo para incontáveis ​​userscripts úteis.
+- 🌟 [**Violentmonkey**](https://violentmonkey.github.io/) - Gerenciador de userscripts de código aberto que implementa JS personalizado e funções extras.
+- [Tampermonkey](https://www.tampermonkey.net/) - Gerenciador de userscripts.
+- [greasyfork.org](https://greasyfork.org/pt-BR) - Repo para incontáveis ​​userscripts úteis.
 - [userscripts-mirror.org](https://userscripts-mirror.org/) - Repositório alternativo de scripts. Espelho para Userscripts.org.
-- [openuserjs.org](https://openuserjs.org/) - repositório alternativo de scripts.
+- [openuserjs.org](https://openuserjs.org/) - Repositório alternativo de userscripts.
 - [TinyShield](https://cdn.jsdelivr.net/npm/@list-kr/tinyshield@latest/dist/tinyShield.user.js) - Defuser para os sites não saberem que você está usando adblock.
 - [Doceru Userscript](https://github.com/etoshy/Doceru-Userscript) - Extrai livros e documentos do docer.ar, docubra.com e doceru.com sem a necessidade de abrir o menu do inspecionar — com botão de download e barra de progresso.
 - [Passei Direto Bypass](https://greasyfork.org/en/scripts/480840-passei-direto-bypass) - Desembaça respostas no site da Passei Direto.
@@ -178,6 +178,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Evite a instalação de aplicativos indesejados.
 - [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript para baixar legendas do youtube.
 - [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript para baixar vídeos do youtube.
+- [Youtube Alchemy](https://greasyfork.org/en/scripts/521686-youtube-alchemy) - Um canivete suiço para o youtube que oferece uma miríade de recursos e melhorias.
 - [YouTube share url si parameter remover](https://greasyfork.org/en/scripts/474050-youtube-share-url-si-parameter-remover) - Retira o parâmetro de rastreamento do link de compartilhamento do youTube.
 - [Desbloqueie as etapas do Symbolab e verifique as soluções](https://pastebin.com/wA3QQkCj) - Userscript: [archive](https://web.archive.org/web/20200818154537/https://pastebin.com/wA3QQkCj)
 - [Unlimiteddownloader](https://github.com/A-SunsetMkt-Forks/Tampermonkey-Script/blob/main/Unlimited_downloader.js) - Baixa vídeos HLS.
