@@ -166,7 +166,6 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - 🌟 [**Violentmonkey**](https://violentmonkey.github.io/) - Gerenciador de userscripts de código aberto que implementa JS personalizado e funções extras.
 - [Tampermonkey](https://www.tampermonkey.net/) - Gerenciador de userscripts.
 - [greasyfork.org](https://greasyfork.org/pt-BR) - Repo para incontáveis ​​userscripts úteis.
-- [userscripts-mirror.org](https://userscripts-mirror.org/) - Repositório alternativo de scripts. Espelho para Userscripts.org.
 - [openuserjs.org](https://openuserjs.org/) - Repositório alternativo de userscripts.
 - [TinyShield](https://cdn.jsdelivr.net/npm/@list-kr/tinyshield@latest/dist/tinyShield.user.js) - Defuser para os sites não saberem que você está usando adblock.
 - [Doceru Userscript](https://github.com/etoshy/Doceru-Userscript) - Extrai livros e documentos do docer.ar, docubra.com e doceru.com sem a necessidade de abrir o menu do inspecionar — com botão de download e barra de progresso.
