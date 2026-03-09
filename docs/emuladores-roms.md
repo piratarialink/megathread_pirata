@@ -111,7 +111,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**Dolphin**](https://dolphin-emu.org/) • GameCube + Wii
 
-- Excelente compatibilidade com a grande maioria dos jogos para ambos os sistemas.
+- Excelente compatibilidade com a grande maioria dos jogos para ambos os sistemas Wii e GameCube.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/dolphin-emu.org/)
 
 ### 🔗 [FCEUX](https://fceux.com/web/home.html) • Famicom
