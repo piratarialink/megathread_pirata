@@ -1,4 +1,4 @@
-# Pare de ver pornografia
+# Combatendo o vício em pornografia
 
 **[Clean Browsing](https://cleanbrowsing.org/filters/)** - DNS gratuito para bloquear conteúdo sensível.
 
@@ -12,4 +12,4 @@
 
 ---
 
-[**ou prossiga para o diretório**](/outros/explicito.md)
+[**prosseguir para o diretório mesmo assim**](/outros/explicito.md)
