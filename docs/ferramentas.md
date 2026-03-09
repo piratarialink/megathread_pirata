@@ -55,7 +55,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► Ferramentas para Linux / BSD
 
-- 🌟 [**LinuxToys**](https://github.com/psygreg/linuxtoys) - Projeto tocado pelo dev brasileiro psygreg que corrige o bug de captura de áudio do OBS, instala o Waydroid, Blender, chaotic AUR, Bottles, lucidglyph e algumas ferramentas para sysadmins - estável para Debian, Ubuntu e Arch.
+- 🌟 [**LinuxToys**](https://github.com/psygreg/linuxtoys) - Projeto que corrige o bug de captura de áudio do OBS, instala o Waydroid, Blender, chaotic AUR, Bottles, lucidglyph e algumas ferramentas para sysadmins - estável para Debian, Ubuntu e Arch.
 - [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a compatibilidade dos programas entre as distribuições através do flatpak - pode substituir a Snap Store da Canonical.
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade enorme de ISOs customizadas compartilhadas quase todos os dias.
 - [LinOffice](https://github.com/eylenburg/linoffice) - Office 365 LTSB/LTSC/CE em uma VM conteinerizada com o podman-compose - feito com base no [WinApps](https://github.com/winapps-org/winapps), QEMU e Docker; permite a ativação pelo massgrave - [Guia](https://gist.github.com/eylenburg/38e5da371b7fedc0662198efc66be57b#option-1-running-office-2024-or-365-with-linoffice) / [Patch do office 2013](https://gist.github.com/shrestha-bishal/dae0d674ef81197bc8cc39153b7ebbb3) e do [wine com autodesk fusion](https://codeberg.org/cryinkfly/Autodesk-Fusion-360-on-Linux)
@@ -65,7 +65,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
 - [Hyprland](https://hypr.land/) - O Hyprland é um compositor de janelas derivado do wayland destinado a usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
 - [KDE Plasma](https://kde.org/plasma-desktop) - DE e gerenciador de janelas com um workflow sem bugs e extremamente conveniente para FreeBSD, OpenBSD e Fedora.
-- [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Software escrito em golang para reduzir ruídos e barulho ambiente, fica atrás apenas do [EasyEffects](https://github.com/wwmm/easyeffects?tab=readme-ov-file) e Adobe Audition nesse quesito.
+- [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Software escrito em golang para reduzir ruídos e barulho ambiente, fica atrás apenas do [EasyEffects](https://github.com/wwmm/easyeffects?tab=readme-ov-file) e Adobe Audition nesse quesito em particular.
 - [GameMode](https://github.com/FeralInteractive/gamemode) - Abre uma brecha para que jogos (e aplicações) recebam otimizações sem exigir tanto poder de processamento da CPU/GPU - Tópico original do [mastercomfig.](https://docs.comfig.app/latest/os/linux/#gamemode)
 - 🌟 [**Hints**](https://github.com/AlfredoSequeida/hints?tab=readme-ov-file) - Feito para quem já está habituado a usar sobretudo o teclado em comparação com o mouse, atente-se a configuração específica do seu gerenciador de janelas [seguindo esse passo a passo.](https://github.com/AlfredoSequeida/hints/wiki/Window-Manager-and-Desktop-Environment-Setup-Guide)
 - [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar diversas versões do OS X no Linux. Com suporte a GPU dedicada + macOS Tahoe.
