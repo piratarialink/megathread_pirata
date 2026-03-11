@@ -35,11 +35,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Anúncios existem, mas estes não atrapalham tanto a experiência.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hypeflix.sbs/)
 
-### 🌟 [Pobreflix](https://pobreflixtv.pw/)
+### 🌟 [Stream Verde](https://streamverde.net/)
 
-- Novo projeto depois que o domínio pobreflix.cc caiu, grande acervo de filmes e shows de TV na web.
-- Lembre-se de usar um adblock.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
+- Site idealizado pelo grupo por trás da Steam Verde.
+- Conta com novelas, doramas, séries e obras da sétima arte - aberto para o público em geral.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/streamverde.net/)
 
 ### 🌟 [Seu Seriado](https://seuseriados.com/)
 
@@ -55,6 +55,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Lançamentos com resolução 1080p, 720p ou até em HD puro para blockbusters. Em caso de anti-adblock, use o nuMatrix.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcinex.si/)
+
+### 🌟 [Pobreflix](https://pobreflixtv.pw/)
+
+- Novo projeto depois que o domínio pobreflix.cc caiu, grande acervo de filmes e shows de TV na web.
+- Lembre-se de usar um adblock.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
 
 ### ▶️ [Clube do Dual](https://clubedodual.com/index.php?app=core&module=system&controller=login)
 
@@ -105,7 +111,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [HydraHD](https://hydrahd.me/)
 
-- Sem precisar se cadastrar, aproveite filmes e séries gratuitos em streaming na maior biblioteca.
+- Sem precisar se cadastrar, aproveite filmes e séries gratuitos em streaming diretamente neste acervo online.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hydrahd.me/)
 
 ### 🌟 [CinemaOS](https://cinemaos.live)
@@ -147,7 +153,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [Donkey](https://donkey.to/)
 
-- Entretenimento global com uma miríade filmes e programas de TV pagos para todos os tipos de público.
+- Entretenimento global com uma miríade filmes e programas de TV pagos para todos os tipos de audiência.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/donkey.to/)
 
 ### ▶️ [FilmeX](https://filmex.to/)
@@ -167,7 +173,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [PressPlay](https://www.pressplay.top/)
 
-- Vasta seleção de filmes e episódios de alta qualidade.
+- Vasta miríade de filmes e episódios na mais altíssima qualidade visual e sonora.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pressplay.top/)
 
 ### ▶️ [Rive](https://rivestream.xyz/) 
