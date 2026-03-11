@@ -292,6 +292,11 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Belo site com um bom histórico no mundo pirata, oferece mods exclusivos aos usuários.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/liteapks.com/)
 
+### 🔗 [Moe's App Hub](https://moe.mohkg1017.pro/)
+
+- Aplicativos para iOS escolhidos a mão e com recursos otimizados ainda por cima: contando com desde mods para o Swiftgram até o YouTube.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/moe.mohkg1017.pro/)
+
 ### 🔗 [PDALIFE](https://pdalife.com/)
 
 - Alternativa às lojas de aplicativos tradicionais, oferecendo downloads gratuitos para aplicativos Android e iOS.
