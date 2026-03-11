@@ -48,7 +48,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [FILExt](https://filext.com/online-file-viewer.html) - Mesmo conceito do Dangerzone só que online - sandbox para documentos de texto compartilhados na rede.
 
-- [Stirling-PDF](https://www.stirling.com/download) / [simplepdf.eu](https://simplepdf.eu/) - Softwares para editar, recortar ou criar PDFs.
+- [Stirling-PDF](https://www.stirling.com/download) / [simplepdf.eu](https://simplepdf.eu/) - Software para editar, recortar ou criar PDFs.
 
 - [Upscayl](https://github.com/upscayl/upscayl) - Upscaling em tempo real de imagens para o Linux, MacOS e Windows, baseado em inteligência artificial e desenvolvido com a filosofia Linux-First.
 
