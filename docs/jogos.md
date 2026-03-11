@@ -353,7 +353,8 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fitgirl-repacks.site/)
 
 ### 🌟 [Steam Verde](https://steamverde.net/)
-- O Steam Verde é uma plataforma online de jogos para PC e Android, oferecendo downloads via torrent com uma interface organizada. Conta com uma comunidade ativa que fornece tutoriais e suporte, além de manter os usuários informados sobre lançamentos. O site possui proteção antivírus e é baseado na plataforma segura Invision Community.
+- O Steam Verde é uma plataforma online de jogos para PC e Android, oferecendo downloads via torrent com uma interface organizada. Conta com uma comunidade ativa que fornece tutoriais e suporte, além de manter os usuários informados sobre lançamentos.
+- O site possui proteção antivírus e é baseado na plataforma segura Invision Community.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamverde.net)
 
 ### 🔗 [Ecológica Verde](https://x.com/Ecologica2Verde)
