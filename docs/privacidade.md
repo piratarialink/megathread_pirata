@@ -25,6 +25,16 @@ A inviolabilidade do lar só pode ser excepcionada em casos de flagrante delito,
 
 > Art. 22. § 1º III - cumpre mandado de busca e apreensão domiciliar após às 21h (vinte e uma horas) ou antes das 5h (cinco horas).
 
+## Violação de direito autoral
+
+### Lei n° 9.610/1998
+
+> Art. 46. Título II - Não constitui ofensa aos direitos autorais: a reprodução, em um só exemplar de pequenos trechos, para uso privado do copista, desde que feita por este, sem intuito de lucro;
+
+E o mesmo artigo, no Título I, Alínea d, estabelece que está permitida a reprodução:
+
+> de obras literárias, artísticas ou científicas, para uso exclusivo de deficientes visuais, sempre que a reprodução, sem fins comerciais, seja feita mediante o sistema Braille ou outro procedimento em qualquer suporte para esses destinatários;
+
 ## Navegadores
 
 ### [Librewolf](https://librewolf.net/)
@@ -203,9 +213,9 @@ No VeryCrypt você pode manter uma partição só sua e outra escondida para mom
 
 ### [LUKS](https://gitlab.com/cryptsetup/cryptsetup)
 
-Com o LUKS você pode criar um arquivo simples ou até mesmo um conjunto de arquivos criptografados no Linux que, quando desbloqueados, formam um LVM com os seus dados. Ao fornecer um formato em disco, ele não apenas facilita a compatibilidade entre distribuições, mas também fornece gerenciamento seguro de múltiplas senhas de usuários. O LUKS é um padrão de criptografia gratuito e de código aberto, feito para que você tenha certeza de que não há backdoors.
+Com o LUKS você pode criar um arquivo simples ou até mesmo um conjunto de arquivos criptografados no Linux que, quando desbloqueados, formam um LVM (Logical Volume Manager) com os seus dados. Ao fornecer um formato em disco, ele não apenas facilita a compatibilidade entre distribuições, mas também fornece gerenciamento seguro de múltiplas senhas de usuários. O LUKS é um padrão de criptografia gratuito e de código aberto, feito para que você tenha certeza de que não há backdoors.
 
-Melhores distros embarcadas com LUKS: **Debian** para servidores (recebe suporte oficial para a maioria dos programas), **Fedora** com KDE (Bazzite é uma vertente do Fedora mais indicada para gamers), **Arch** com i3 ou qualquer outro window manager minimalista (Endeavour e CachyOS são sistemas _rolling release_ derivados do Arch voltados para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
+Melhores distros embarcadas com LUKS: **Debian** para servidores (recebe suporte oficial pela maioria dos programas), **Fedora** com KDE (Bazzite é uma vertente do Fedora mais indicada para gamers), **Arch** com i3 ou qualquer outro window manager minimalista (Endeavour e CachyOS são sistemas _rolling release_ derivados do Arch voltados para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
 
 :::info Caso você seja um usuário avançado, [distros sem systemd](https://nosystemd.org/) (boas para privacidade) também são uma opção
 :::
