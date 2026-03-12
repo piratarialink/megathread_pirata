@@ -36,7 +36,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**Wintoys**](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge e o OneDrive com a opção "Digital Markets Act" ligada (quando não funcionar, [tente isso](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)), retira os anúncios da Microsoft e habilita o "God Mode".
 - [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à uma experiência moderna no Windows.
 - [AME Wizard](https://ameliorated.io) - Outro fixer para o Windows 11.
-- 🌟 [**Windhawk**](https://windhawk.net/) - Alguns ajustes extras como customização da barra de tarefas (diminuir ou aumentar os ícones - torna-lá translúcida), restaurar o antigo menu de contexto e corrigir o uso das teclas em dois monitores.
+- 🌟 [**Windhawk**](https://windhawk.net/) - Alguns ajustes extras como customização da barra de tarefas (diminuir ou aumentar os ícones - torná-la translúcida), restaurar o antigo menu de contexto e corrigir o uso das teclas em dois monitores.
 
 ## ► Downloads modificados/intactos do Windows e do Office
 
