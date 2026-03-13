@@ -64,7 +64,11 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [Shelter](https://github.com/PeterCxy/Shelter)
 
-- Fornece um perfil de trabalho (ambiente virtualizado que funciona como um segundo celular) para instalar e clonar apps.
+- Fornece um perfil de trabalho (ambiente virtualizado que funciona como um segundo celular) para instalar e clonar apps de um jeito minimamente seguro.
+
+### 🔗 [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall)
+
+- Firewall leve e à altura do NetGuard que não exige conexão por VPN nem root, pode bloquear o acesso à internet por um ou múltiplos aplicativos diferentes ao mesmo tempo. Projetado para rodar com o Shizuku/ADB.
 
 ### 🌟 [Shizuku](https://github.com/thedjchi/Shizuku)
 
@@ -73,7 +77,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis)
 
-- Aplicativo para baixar vídeo/áudio usando o yt-dlp, melhor substituto para o Snaptube no celular.
+- Aplicativo para baixar vídeo/áudio usando o yt-dlp, melhor substituto para o Snaptube no celular por não possuir coleta de dados nem telemetria.
 
 ## 🍎 IOS
 
