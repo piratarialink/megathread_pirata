@@ -66,7 +66,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Fornece um perfil de trabalho (ambiente virtualizado que funciona como um segundo celular) para instalar e clonar apps.
 
-### 🌟 [Shizuku](https://github.com/RikkaApps/Shizuku)
+### 🌟 [Shizuku](https://github.com/thedjchi/Shizuku)
 
 - Escala privilégios no android sem a necessidade de root/CFW. Caso não funcione de primeira, desative e ative o Wireless Debugger mais de uma vez.
 - [Apps que funcionam com o shizuku.](https://technastic-com.translate.goog/best-shizuku-apps-mods-android/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)
