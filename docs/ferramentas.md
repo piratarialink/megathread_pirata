@@ -51,7 +51,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [pastebin do abbodi1406 para imagens ISO do Office 2019 / Office 365 C2R](https://pastebin.com/raw/PLhB7UnK) - Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
 - [pastebin do abbodi1406 para imagens do Office 2016 C2R](https://pastebin.com/raw/e8JiAw6E) - Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
 - [Fido](https://github.com/pbatard/Fido) - Script do powershell para ser usado em conjunto com o Rufus na hora de criar o pendrive bootável.
-- [Microsoft Media Creation Tool](https://www.microsoft.com/pt-br/software-download/windows10) - Página da Microsoft para baixar o Windows 10 e criar mídia de instalação USB.
+- [Microsoft Media Creation Tool](https://www.microsoft.com/pt-br/software-download) - Página da Microsoft para baixar o Windows 10/11 e criar mídia de instalação a partir de um Pen Drive USB.
 
 ## ► Ferramentas para Linux / BSD
 
