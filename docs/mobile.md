@@ -73,7 +73,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 ### 🌟 [Shizuku](https://github.com/thedjchi/Shizuku)
 
 - Escala privilégios no android sem a necessidade de root/CFW. Caso não funcione de primeira, desative e ative o Wireless Debugger mais de uma vez.
-- [Apps que funcionam com o shizuku.](https://technastic-com.translate.goog/best-shizuku-apps-mods-android/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp)
+- [Lista completa de aplicativos que funcionam com o Shizuku.](https://github.com/timschneeb/awesome-shizuku?tab=readme-ov-file#apps)
 
 ### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis)
 
