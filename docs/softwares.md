@@ -133,14 +133,19 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - Muitos aplicativos gratuitos disponíveis para MacOS sem limites ou truques. Basta clicar para iniciar o download direto, muito fácil.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nmac.to/)
 
+### 🔗 [Random Cracks](https://randomcracks.com/)
+
+- Software crackeado e plugins para macOS e especialmente para Windows 11! Use o VirusTotal ou a VM do tria.ge se estiver com algum pé atrás diante de qualquer programa potencialmente perigoso.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/randomcracks.com/)
+
 ### 🔗 [Repack.me](https://repack.me/) • Interface em russo
 
-- Repacker de programas crackeados. Use de preferência a extensão [Translate Web Pages](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) do firefox para acessá-lo.
+- Repacker de programas crackeados. Use de preferência a extensão [Translate Web Pages](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) do firefox para traduzir a página em tempo real e saber onde deve navegar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/repack.me/)
 
 ### 🔗 [Scnlog](https://scnlog.me/)
 
-- Banco de dados com uma variedade de programas para sistemas operacionais Windows, Mac e GNU/Linux.
+- Banco de dados com uma variedade de programas de edição de vídeo e áudio para os sistemas operacionais Windows, Macintosh e GNU/Linux.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
 
 ### 🔗 [YasDL](https://www.yasdl.com/) • Interface em persa
