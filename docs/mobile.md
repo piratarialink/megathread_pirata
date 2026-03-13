@@ -68,7 +68,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🔗 [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall)
 
-- Firewall leve e à altura do NetGuard que não exige conexão por VPN nem root, pode bloquear o acesso à internet por um ou múltiplos aplicativos diferentes ao mesmo tempo. Projetado para rodar com o Shizuku/ADB.
+- Firewall leve que não exige conexão por VPN nem root, pode bloquear o acesso à internet de um ou múltiplos aplicativos diferentes ao mesmo tempo. Projetado para rodar com o Shizuku/ADB - melhor alternativa para o NetGuard.
 
 ### 🌟 [Shizuku](https://github.com/thedjchi/Shizuku)
 
