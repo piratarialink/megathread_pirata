@@ -33,7 +33,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado, bem como automatiza funções.
 - [Chocolatey](https://chocolatey.org/) - Um instalador de linha de comando para o Windows, muito semelhante ao WinGet.
 - [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
-- 🌟 [**Wintoys**](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge e o OneDrive com a opção "Digital Markets Act" ligada (quando não funcionar, [tente isso](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)), retira os anúncios da Microsoft e habilita o "God Mode".
+- 🌟 [**Wintoys**](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge e o OneDrive com a opção "Digital Markets Act" ligada (quando não funcionar, [tente isso](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)), retira os anúncios da Microsoft no menu iniciar e habilita o "Modo Deus" para criar uma espécie de painel de controle estendido no Windows 11, com todas as opções do sistema reunidas em uma só pasta. 
 - [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à uma experiência moderna no Windows.
 - [AME Wizard](https://ameliorated.io) - Outro fixer para o Windows 11.
 - 🌟 [**Windhawk**](https://windhawk.net/) - Alguns ajustes extras como customização da barra de tarefas (diminuir ou aumentar os ícones - torná-la translúcida), restaurar o antigo menu de contexto e corrigir o uso das teclas em dois monitores.
@@ -252,15 +252,16 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Ferramentas de mídia
 
-- 🌟 [**OBS Studio**](https://github.com/obsproject/obs-studio) - O Open Broadcaster Software é uma escolha popular entre os usuários para gravar a tela do computador e fazer live streaming, totalmente código aberto, opção mais prática em comparação com outros programas proprietários como o RecExperts, Camtasia e Bandicam.
+- 🌟 [**OBS Studio**](https://github.com/obsproject/obs-studio) - O Open Broadcaster Software é uma escolha popular entre os usuários para gravar a tela do computador e fazer live streaming, totalmente código aberto, opção mais prática em comparação a outros programas proprietários como o RecExperts, Camtasia e Bandicam.
 - [davincibox](https://github.com/zelikos/davincibox) - Instala as dependências necessárias para rodar o DaVinci Resolve (um software de edição não-linear de vídeo excelente, sem marca d'água e 90% do tempo gratuito) no Fedora e Nobara.
 - [Handbrake](https://handbrake.fr/) - Transcoda vídeos para outros formatos, e também suporta nativamente o codec de áudio AC3 - O [FFmpeg](https://ffmpeg.org/) é o mais indicado como substituto para usuários de Windows e Android.
 - [MKVToolNix](https://mkvtoolnix.download/downloads.html) - Pode combinar diferentes formatos de vídeo e gerar arquivos em formato .mkv com uma ou várias faixas de legenda e áudio.
 - [VLsub](https://github.com/opensubtitles/vlsub-opensubtitles-com) - Baixa legendas diretamente pelo vlc sem ter que abrir o site do opensubtitles.
 - 🌟 [**Tenacity**](https://tenacityaudio.org/) - O Tenacity é um novo fork do Audacity, este programa pode reduzir ruídos/barulho ambiente e garantir a autenticidade de transcodes FLAC através da análise de espectograma.
 - **[Pago]** [After Codecs](https://www.autokroma.com/AfterCodecs/Download#Changelog) - Acrescenta a opção de converter vídeos para MP4 no After Effects.
-- [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo de legendas SRT.
-- [eCut](http://eng.e-cut.ru/) - Plugin para otimizar o CorelDRAW Graphics Suite.
+- [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit/releases) - Consegue ajustar o tempo e o fluxo de trabalho de legendas SRT de forma bastante competente.
+- [RVE](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolação de frame rate e otimização de vídeos inugualável em grande parte feita **offline**. Conta com binários para Windows, Linux e Steam - continuação experimental do projeto relegado do Rife ESRGAN.
+ - [eCut](http://eng.e-cut.ru/) - Plugin para otimizar o CorelDRAW Graphics Suite 2025/2026.
 - [Quod Libet](https://quodlibet.readthedocs.io/en/latest/downloads.html) - Reprodutor de áudio constantemente atualizado, livre e alternativa para o Foobar2000/AIMP no Linux; oferece separação em tags, playlists, álbuns e avaliações como recurso.
 - [OpenCut](https://opencut.app/) - Alternativa open-source para o CapCut, atualmente está na versão beta e ainda segue aguardando um overhaul completo pelo mantenedor do projeto. WebUI, não exige aplicativo dedicado.
 
