@@ -268,6 +268,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 ### 🌟 [Rutracker](https://rutracker.net/) / [2](https://rutracker.org/)
 
 - Tracker generalista russo desde 2004 em atividade. Para usar a função de pesquisa, é necessário se cadastrar.
+- Possui uma [seção dedicada à programas para Linux.](https://rutracker.org/forum/viewforum.php?f=1381)
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rutracker.net/)
 
 ### 🔗 [Team OS](https://www.teamos.xyz) • Necessário Cadastro
