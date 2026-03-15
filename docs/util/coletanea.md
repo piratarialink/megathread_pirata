@@ -62,7 +62,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [czkawka](https://github.com/qarmin/czkawka) - Aplicativo multifuncional para encontrar duplicatas, pastas vazias, imagens semelhantes, etc.
 
-- [Spotube](https://github.com/KRTirtho/spotube) - 🎧 Cliente para o Spotify de código aberto que não requer premium [nem Electron!](https://web.archive.org/web/20251128101108/https://www.xda-developers.com/sick-every-pc-program-electron-app/) Disponível para desktop e celular!
+- [Spotube](https://github.com/KRTirtho/spotube) - 🎧 Cliente de código aberto para o Spotify que não requer premium [nem Electron!](https://web.archive.org/web/20251128101108/https://www.xda-developers.com/sick-every-pc-program-electron-app/) Disponível para desktop e celular!
 
 ### Coisas baseadas em hardware
 
