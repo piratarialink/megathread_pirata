@@ -114,9 +114,14 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Rock pauleira e metal em FLAC, use um tradutor como o Google ou a extensão "Translate Web Pages" no Firefox.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rock-metal-wave.ru/)
 
+### 🔗 [SpecialForDJs](https://specialfordjs.org/) / [2](https://musicvibez.org/)
+
+- Há mais de 13 anos distribuindo lançamentos exclusivos da cena da house e dance music eletrônica (EDM).
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/specialfordjs.org/)
+
 ### 🔗 [BestMP3Converter](https://www.bestmp3converter.com/)
 
-- Permite obter arquivos de áudio de vídeos do YouTube gratuitamente em qualidade de 320kbps.
+- Permite obter arquivos de áudio de vídeos do YouTube gratuitamente em qualidade de MP3 320kbps.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bestmp3converter.com/)
 
 ### 🔗 [Spotify Downloader](https://spotdownloader.com/)
@@ -128,11 +133,6 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - Basta colar seu link nesta ferramenta on-line rápida e gratuita para baixar músicas, listas de reprodução e álbuns do Spotify em formato mp3.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/spotifymate.com/)
-
-### 🔗 [YTMP3Hub](https://ytmp3hub.com/)
-
-- Você pode pesquisar e baixar facilmente arquivos MP3 gratuitos do YouTube, que é rápido e muito simples de usar.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ytmp3hub.com/)
 
 ### 🔗 [ytify](https://ytify.netlify.app/)
 
@@ -292,7 +292,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🌟 [**Spotube**](https://spotube.krtirtho.dev/)
 
-- Cliente Spotify de código aberto que não requer premium [nem Electron!](https://web.archive.org/web/20251128101108/https://www.xda-developers.com/sick-every-pc-program-electron-app/) Disponível para desktop e celular!
+- Cliente para o Spotify de código aberto que não requer premium [nem Electron!](https://web.archive.org/web/20251128101108/https://www.xda-developers.com/sick-every-pc-program-electron-app/) Disponível para desktop e celular!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/spotube.krtirtho.dev/)
 
 ### 🔗 [Namida](https://github.com/namidaco/namida)
