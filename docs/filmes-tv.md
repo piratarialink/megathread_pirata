@@ -66,7 +66,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Fórum de compartilhamento de faixas de dublagem em português brasileiro.
 - Você pode tentar obter um convite em [nosso grupo do lemmy.](https://lemmy.dbzer0.com/c/pirataria)
-- [Resultados de segurança da URL](https://clubedodual.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/clubedodual.com/)
 
 ### ▶️ [Betterflix](https://betterflix.vercel.app/)
 
