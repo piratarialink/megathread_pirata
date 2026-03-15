@@ -292,7 +292,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🌟 [**Spotube**](https://spotube.krtirtho.dev/)
 
-- Cliente para o Spotify de código aberto que não requer premium [nem Electron!](https://web.archive.org/web/20251128101108/https://www.xda-developers.com/sick-every-pc-program-electron-app/) Disponível para desktop e celular!
+- Cliente de código aberto para o Spotify que não requer premium [nem Electron!](https://web.archive.org/web/20251128101108/https://www.xda-developers.com/sick-every-pc-program-electron-app/) Disponível para desktop e celular!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/spotube.krtirtho.dev/)
 
 ### 🔗 [Namida](https://github.com/namidaco/namida)
