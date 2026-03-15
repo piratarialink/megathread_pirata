@@ -34,7 +34,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [ShutUp10++](https://www.oo-software.com/en/shutup10) - Software anti-espionagem gratuito para Windows 10 e Windows 11.
 
-- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Um ativador de Windows e Office usando métodos de ativação HWID/TSforge/KMS online, com foco em código-fonte aberto e menos detecções de antivírus.
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Um ativador de Windows e Office que usa os métodos de ativação HWID/TSforge para remover limites impostos por licenciamento, com foco em código-fonte aberto.
 
 - [BurntSushi](https://github.com/OpenByteDev/burnt-sushi) - Adblocker para o cliente do Spotify no Windows.
 
@@ -56,7 +56,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
   
 - [SpotX](https://github.com/amd64fox/SpotX/) - Cliente modificado para o Spotify no desktop - bloqueia anúncios, atualizações forçadas, telemetria e muito mais.
 
-- [tempgmail](https://tempgmail.net) / [addy.io](https://addy.io/) / [simplelogin](https://simplelogin.io) - Caixa de mensagens temporária para evitar o recebimento de spams e tentativas de golpe. O primeiro é considerado o melhor por ser gmail, contudo a experiência pode variar.
+- [tempgmail](https://tempgmail.net) / [emailnator](https://www.emailnator.com) / [simplelogin](https://simplelogin.io) - Caixa de mensagens temporária para evitar o recebimento de spams e tentativas de golpe. O primeiro é considerado o melhor por ser gmail, contudo a experiência pode variar.
  
 - [2fa.directory](https://2fa.directory/br/) - Fonte independente de informações sobre quais serviços suportam MFA/2FA.
 
