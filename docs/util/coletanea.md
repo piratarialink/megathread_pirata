@@ -24,7 +24,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [ShareX](https://getsharex.com/) - Alternativa superior ao programa de captura de tela padrão. Disponível para Macintosh, Windows e Steam.
 
-- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - Vários recursos interessantes da Microsoft que não são implementados no Windows por padrão.
+- [Microsoft PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Vários recursos interessantes oferecidos pela Microsoft que não são implementados no Windows por padrão.
  
 - [KDE Connect](https://kdeconnect.kde.org/) - Uma forma de conectar seu smartphone e computador sem usar a ferramenta Phone Link da Microsoft - já houve momentos em que as versões para Windows deste aplicativo não reconheciam nada, sua experiência pode variar, em todo caso, use o [Sefirah](https://github.com/shrimqy/Sefirah) + [scrcpy](https://github.com/Genymobile/scrcpy) ou o [QtScrcpy](https://github.com/barry-ran/QtScrcpy) que é infinitamente melhor.
 
