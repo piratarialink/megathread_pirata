@@ -78,7 +78,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 ### Android
 
-- [F-Droid](https://f-droid.org/) - F-Droid é um catálogo instalável de aplicativos FOSS (software gratuito e de código aberto) para a plataforma Android. O cliente facilita navegar, instalar e acompanhar atualizações em seu dispositivo.
+- [F-Droid](https://f-droid.org/) - O F-Droid é um catálogo inigualável de aplicativos FOSS (software gratuito e de código aberto) para a plataforma Android. Com ele é possível buscar, instalar e acompanhar atualizações em seu dispositivo.
 
 - [Canta - Uninstall any app without root!](https://github.com/samolego/Canta) - Canta permite que você desinstale qualquer aplicativo do seu dispositivo, mesmo se você não tiver acesso root. Precisa ser usado com o [Shizuku](https://shizuku.rikka.app/) - especialmente bom para aqueles aplicativos empurrados pela operadora e que não servem para nada (SIM Toolkit).
 
