@@ -87,7 +87,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## 📦 Microsoft
 
-### 🔗 [DOSBox](https://www.dosbox.com/download.php?main=1) • MS-DOS
+### 🔗 [DOSBox-X](https://dosbox-x.com/) • MS-DOS
 
 - Preservando os clássicos do DOS e suas variantes através da jogabilidade, adaptado para PCs e notebooks modernos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.dosbox.com/)
