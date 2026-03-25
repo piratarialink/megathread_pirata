@@ -427,7 +427,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 > Para hospedar servidores próprios de rust, minecraft, bot do telegram, storage e outros projetos.
 Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](https://archive.ph/O0Iz1)
 
-- [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter.
+- [Oracle VCN](https://www.oracle.com/br/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter e mercado pago.
 - [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado na China para burlar o firewall. A velocidade pode cair drasticamente por conta de sua finalidade citada anteriormente.
 
 ## ► Inteligência Artificial
