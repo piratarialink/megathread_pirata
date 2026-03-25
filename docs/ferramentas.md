@@ -433,8 +433,6 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 ## ► Inteligência Artificial
 
 - 🌟 [**G4F**](https://g4f.dev/) - ChatGPT local, gratuito e ilimitado. Alguns provedores como a Azure exigem de você uma chave API para o g4f.client que pode ser gerada com o seu ID de usuário do Hugging Face.
-- [reshare.dev](https://reshare.dev) - Acesse o SORA através de um código de convite da comunidade, [necessário se cadastrar antes](https://tempgmail.net) - também é possível se registrar no aplicativo do SORA via aurora store + shizuku installer e logar no site com uma VPN.
-**Nota: para usar o último modelo do Veo (agente de criação de vídeos), fique atento à [essa lista aqui](https://fmhy.net/ai#video-generation).**
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar - caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura, algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6), [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) e [DIG](https://digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion/) (onion) - podem não funcionar na maior parte do tempo.
