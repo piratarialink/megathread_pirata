@@ -31,7 +31,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### 🌟 [EmbedCanais](https://embedcanais.com/)
 
-- Reúne em um só lugar o TNT Brasil, Pacote Premiere, Combate e Noticiário. Abra o player e copie o iframe para incorporar o vídeo no seu site ou projeto pessoal com poucos cliques.
+- Reúne em um só lugar o TNT Brasil, Pacote Premiere, Combate TV e noticiário de interesse local/internacional. Abra o player e copie o iframe para incorporar o vídeo no seu site ou projeto pessoal com poucos cliques.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/embedcanais.com/)
 
 ### 📺️ [Betterflix](https://betterflix.vercel.app/)
