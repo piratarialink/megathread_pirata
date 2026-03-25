@@ -261,6 +261,17 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Dump fantástico de ROMs de diversos consoles, links para alguns jogos populares do Myrient estão disponíveis aqui.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/r-roms.github.io/)
 
+### 🌟 [**Not UltraNX**](https://not.ultranx.ru/en)
+
+- Site do projeto [UltraNX](https://github.com/Ultra-NX/UltraNX/blob/main/README_ENG.md) - um CFW para Switch focado em tweaks.
+- ROMs para switch, com download sem anúncios e extremamente rápido. Basta apenas criar um usuário (nome e senha apenas - qualquer uma serve).
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/not.ultranx.ru/)
+
+### 🔗 [Abandonware Games](https://abandonwaregames.net/)
+
+- Arquivo que preserva e disponibiliza downloads de jogos antigos de diversos sistemas e modelos de console da quinta e sexta geração.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/abandonwaregames.net/)
+
 ### 🔗 [PSX Downloads](https://psxdownloads.us/) - Necessário Registrar-se
 
 - Oferece alguns jogos traduzidos e dublados (Fan-dubs) em PT-BR para PS1, PS2 e PS3.
@@ -270,17 +281,10 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - 180 jogos fantásticos. Basta baixar e extrair o arquivo zip de 19 MB.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
-
-### 🌟 [**Not UltraNX**](https://not.ultranx.ru/en)
-
-- Site do projeto [UltraNX](https://github.com/Ultra-NX/UltraNX/blob/main/README_ENG.md) - um CFW para Switch focado em tweaks.
-- ROMs para switch, com download sem anúncios e extremamente rápido.
-- Basta apenas criar um usuário (nome e senha apenas - qualquer uma serve).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/not.ultranx.ru/)
   
 ### 🔗 [CDRomance](https://cdromance.com/)
 
-- Coleção de jogos da era de 128 bits da sexta geração de consoles, bem como títulos de 8 bits.
+- Coleção de jogos da era de 128 bits da sexta geração de consoles, bem como títulos de 8 bits. Agora com uma cara nova totalmente voltada para dispositivos móveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cdromance.com/)
 
 ### 🔗 [Cylum's Sega Master System ROM Collection](https://archive.org/details/cylums-sega-master-system-rom-collection)
@@ -335,7 +339,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [RomHack Plaza](https://romhackplaza.org)
 
-- Mesmo conceito do RHDN.
+- Mesmo conceito do RHDN, ótimo recurso de backup caso ele venha a cair.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhackplaza.org/)
 
 ### 🌟 [**Rom Hustler**](https://romhustler.org/)
