@@ -29,6 +29,11 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - MMA, SporTV, ESPN do Brasil e Internacional - anúncios enfadonhos existem mas estes podem ser burlados com o PopUpOFF.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
 
+### 🌟 [EmbedCanais](https://embedcanais.com/)
+
+- Reúne em um só lugar o TNT Brasil, Pacote Premiere, Combate e Noticiário. Abra o player e copie o iframe para incorporar o vídeo no seu site ou projeto pessoal com poucos cliques.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/embedcanais.com/)
+
 ### 📺️ [Betterflix](https://betterflix.vercel.app/)
 
 - Transmissões ao vivo de jogos de futebol, com várias opções de canais.
@@ -58,10 +63,6 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 📺️ [CXTV](https://www.cxtv.com.br/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cxtv.com.br/)
-
-### 📺️ [EmbedCanais](https://embedcanais.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/embedcanais.com/)
 
 ## 🏟 **Reprises**
 
