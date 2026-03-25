@@ -74,6 +74,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
 
+### ▶️ [Romaflix](https://romaflix.top/)
+
+- Filmes, séries e canais ao vivos sem anúncios, pop-ups ou rastreadores.
+- Front-end disponível para auditoria: [GitHub](https://github.com/andrinhh/RomaflixPublic).
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/romaflix.top/)
+
 ### ▶️ [Superflix](https://superflix1.cloud/)
 
 - Fonte para muitos filmes e séries do Betterflix.
