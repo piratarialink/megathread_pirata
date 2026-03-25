@@ -277,6 +277,11 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Oferece alguns jogos traduzidos e dublados (Fan-dubs) em PT-BR para PS1, PS2 e PS3.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/psxdownloads.us/)
 
+### 🔗 [WinWorld](https://winworldpc.com/library/games)
+
+- Um verdadeiro museu repleto de tesouros digitais como sharewares e abandonwares da era dos microcomputadores DOS e Unix.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/winworldpc.com/)
+  
 ### 🔗 [Best NES Games](https://archive.org/details/best-nes-games)
 
 - 180 jogos fantásticos. Basta baixar e extrair o arquivo zip de 19 MB.
@@ -309,7 +314,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [NesGM](https://nesgm.net/) • UI em espanhol
 
-- ROMs para Nintendo Switch e outras plataformas são o foco principal.
+- ROMs para Nintendo Switch e outros consoles da "Big N" são o carro-chefe.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nesgm.net/)
 
 ### 🔗 [NXBrew](https://nxbrew.net/)
@@ -364,7 +369,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**RomUlation**](https://www.romulation.org/)
 
-- Reviva sua infância agora mesmo com jogos de console retrô direto do seu PC.
+- Reviva sua infância agora mesmo com jogos de console retrô diretamente no seu PC.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romulation.org/)
 
 ### 🔗 [**Ziperto**](https://www.ziperto.com)
