@@ -261,17 +261,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Dump fantástico de ROMs de diversos consoles, links para alguns jogos populares do Myrient estão disponíveis aqui.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/r-roms.github.io/)
 
-### 🌟 [**Not UltraNX**](https://not.ultranx.ru/en)
-
-- Site do projeto [UltraNX](https://github.com/Ultra-NX/UltraNX/blob/main/README_ENG.md) - um CFW para Switch focado em tweaks.
-- ROMs para switch, com download sem anúncios e extremamente rápido. Basta apenas criar um usuário (nome e senha apenas - qualquer uma serve).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/not.ultranx.ru/)
-
-### 🔗 [Abandonware Games](https://abandonwaregames.net/)
-
-- Arquivo que preserva e disponibiliza downloads de jogos antigos de diversos sistemas e modelos de console da quinta e sexta geração.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/abandonwaregames.net/)
-
 ### 🔗 [PSX Downloads](https://psxdownloads.us/) - Necessário Registrar-se
 
 - Oferece alguns jogos traduzidos e dublados (Fan-dubs) em PT-BR para PS1, PS2 e PS3.
@@ -312,7 +301,13 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Uma extensa jogoteca para vários sistemas diferentes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/emugames.net/)
 
-### 🔗 [NesGM](https://nesgm.net/) • UI em espanhol
+### 🌟 [**Not UltraNX**](https://not.ultranx.ru/en)
+
+- Site do projeto [UltraNX](https://github.com/Ultra-NX/UltraNX/blob/main/README_ENG.md) - um CFW para Switch focado em tweaks.
+- ROMs para switch, com download sem anúncios e extremamente rápido. Basta apenas criar um usuário (nome e senha apenas - qualquer uma serve).
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/not.ultranx.ru/)
+
+### 🔗 [NesGM](https://nesgm.net/) • Interface em espanhol
 
 - ROMs para Nintendo Switch e outros consoles da "Big N" são o carro-chefe.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nesgm.net/)
