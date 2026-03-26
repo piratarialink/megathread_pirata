@@ -56,12 +56,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Lançamentos com resolução 1080p, 720p ou até em HD puro para blockbusters. Em caso de anti-adblock, use o nuMatrix.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcinex.si/)
 
-### 🌟 [Pobreflix](https://pobreflixtv.pw/)
-
-- Novo projeto depois que o domínio pobreflix.cc caiu, grande acervo de filmes e shows de TV na web.
-- Lembre-se de usar um adblock.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
-
 ### ▶️ [Clube do Dual](https://clubedodual.com/index.php?app=core&module=system&controller=login)
 
 - Fórum de compartilhamento de faixas de dublagem em português brasileiro.
@@ -74,16 +68,22 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
 
+### ▶️ [Superflix](https://superflix1.cloud/)
+
+- Fonte online para muitos filmes e séries do Betterflix, com mídia dublada e legendada.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/superflix1.cloud)
+
 ### ▶️ [Romaflix](https://romaflix.top/)
 
 - Filmes, séries e canais ao vivos sem anúncios, pop-ups ou rastreadores.
 - Front-end disponível para auditoria: [GitHub](https://github.com/andrinhh/RomaflixPublic).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romaflix.top/)
 
-### ▶️ [Superflix](https://superflix1.cloud/)
+### ▶️ [Pobreflix](https://pobreflixtv.pw/)
 
-- Fonte para muitos filmes e séries do Betterflix.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/superflix1.cloud)
+- Novo projeto depois que o domínio pobreflix.cc caiu, grande acervo de filmes e shows de TV na web.
+- Lembre-se de usar um adblock.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
 
 ### ▶️ [NetCine](https://netcinex.si/)
 
