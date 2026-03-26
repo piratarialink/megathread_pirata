@@ -254,6 +254,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🌟 [**Myrient**](https://myrient.erista.me/files/No-Intro/) / [2](https://myrient.erista.me/files/Redump/)
 
 - Coleção de videogames estruturada e acessível de mais de 200 TB de tamanho.
+- [Checar status do backup sendo feito pelo r/savemyrient](https://minerva-archive.org/) / [Discord do Minerva Archive](https://discord.com/invite/m5M6uRbEGr)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/myrient.erista.me/)
 
 ### 🌟 [**r/Roms Megathread**](https://r-roms.github.io/)
