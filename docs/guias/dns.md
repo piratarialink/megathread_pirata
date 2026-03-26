@@ -36,7 +36,7 @@ A seguir, listamos os provedores de DNS com servidores no Brasil, que não bloqu
 
 **NextDNS**
 
-- IPv4: Obtido diretamente pelo site nextdns.io
+- IPv4: Obtido diretamente pelo site [nextdns.io](https://nextdns.io)
 
 - Funciona de maneira similar ao AdGuard, mas possui limitações no plano gratuito. Ao utilizar listas de bloqueios adicionais, alguns redirecionadores podem deixar de funcionar – inclusive o histórico do app YouTube – sendo necessário incluir o domínio s.youtube.com na whitelist.
 

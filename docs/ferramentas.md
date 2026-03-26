@@ -396,7 +396,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Telegram
 
 - [Vidsender](https://github.com/viniped/vidsender) - Método mais fácil para upar vários vídeos de uma vez só de forma organizada.
-- [tdl](https://docs.iyear.me/tdl/) - Programa escrito em Golang para encaminhar uma mensagem de cada vez de chats/canais restritos, também te permite upar/exportar qualquer conteúdo de canais abertos.
+- [tdl](https://docs.iyear.me/tdl/) -  Forward com fallback automático de mensagens vindas de chats/canais privados - encaminhe uma mensagem de cada vez.
 - [Forkgram](https://github.com/Forkgram/TelegramAndroid) - Melhoria visível na velocidade de upload e download em dispositivos Android.
 - [tg-archive](https://github.com/knadh/tg-archive) - Arquiva grupos como páginas de HTML estático na web.
 - [Scanbitbot](https://t.me/scanbitbot) - Mostra o ID de qualquer canal/grupo, seja ele privado ou não.
@@ -427,17 +427,16 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 > Para hospedar servidores próprios de rust, minecraft, bot do telegram, storage e outros projetos.
 Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](https://archive.ph/O0Iz1)
 
-- [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter.
+- [Oracle Cloud Free Tier](https://www.oracle.com/br/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter e mercado pago.
 - [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado na China para burlar o firewall. A velocidade pode cair drasticamente por conta de sua finalidade citada anteriormente.
 
 ## ► Inteligência Artificial
 
-- 🌟 [**G4F**](https://g4f.dev/) - ChatGPT 5 local, gratuito e ilimitado. Alguns provedores como a Azure exigem de você uma chave API para o g4f.client que pode ser gerada com o seu ID de usuário do Hugging Face.
-- [reshare.dev](https://reshare.dev) - Acesse o SORA através de um código de convite da comunidade, [necessário se cadastrar antes](https://tempgmail.net) - também é possível se cadastrar no aplicativo do SORA via aurora store + shizuku installer e logar no site com uma VPN.
-**Nota: para usar o último modelo do Veo (agente de criação de vídeos), fique atento à [essa lista aqui](https://fmhy.net/ai#video-generation).**
+- 🌟 [**G4F**](https://g4f.dev/) - ChatGPT local, gratuito e ilimitado. Alguns provedores como a Azure exigem de você uma chave API para o g4f.client que pode ser gerada com o seu ID de usuário do Hugging Face.
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar - caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura, algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6), [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) e [DIG](https://digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion/) (onion) - podem não funcionar na maior parte do tempo.
+- [Voicebox](https://voicebox.sh/) - Clone qualquer voz em questão de segundos com a ajuda do Qwen TTS, utilize uma voz extraída de um arquivo de som, do ambiente ou do próprio microfone.
 - **[Trialware]** [Roo Code](https://roocode.com) - Gerador/addon de código de programação no IDE Visual Studio Code, suporta integração com modelos pagos e gratuitos da OpenAI, Anthropic, Grok e Google Gemini, apenas para citar alguns.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado.
 - [pyVideoTrans](https://en.pyvideotrans.com/) - Mesmo conceito do Legen: embute hardsubs em vídeos com base no Whisper, com a única diferença de poder dublar e sincronizar a fala automaticamente - obtém melhor desempenho em hardwares com suporte à aceleração de GPU.
@@ -466,6 +465,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 - [TTM](https://t.me/TTMlogsBot) - Bot que coleta credenciais de usuários de diversos sites.
 - [STEAM7](https://t.me/steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas Steam.
+- [22.Do](https://22.do/pt/) - Outlook, Hotmail e Gmail descartável - perfeito para necessidades de curto prazo, como cadastros online e acesso a links de download.
 - **[Pago]** [Xinyu Store](https://xinyustore.com/) - Fornece assinaturas **compartilhadas** da Alura, Qconcursos e estratégia para você estudar a preços justos e acessíveis.
 - [CrackingX](https://crackingx.com) - Combolists e contas de streaming.
 - **[Pago]** [Kotas](https://www.kotas.com.br/servico/kotas) - Divida logins da Udemy, Babbel, Proton VPN, CapCut e Canva Pro com outros usuários da web.

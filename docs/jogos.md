@@ -118,12 +118,12 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [World of PC](https://worldofpcgames.com/)
 
-- Portal criado por volta de 2016 - explore uma vasta coletânea de games nativos para Windows, Linux e Mac.
+- Portal criado por volta de 2016 - explore uma vasta coletânea de games nativos para Windows 11, 10, Linux e Macintosh.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/worldofpcgames.com/)
 
 ### 🔗 [Abandonware Games](https://abandonwaregames.net/)
 
-- Arquivo que preserva e disponibiliza downloads de jogos antigos de diversas plataformas.
+- Arquivo que preserva e disponibiliza downloads de jogos antigos old school de diversos sistemas e consoles.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/abandonwaregames.net/)
 
 ### 🔗 [CODEX](https://www.skidrowcodex.net/)
@@ -144,7 +144,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [Games 4 You](https://g4u.to/)
 
-- Construído por jogadores dedicados que tomam muito cuidado para incluir detalhes sobre cada lançamento do jogo, incluindo seu gênero, ano de lançamento e descrição.
+- Construído por jogadores dedicados que tomam muito cuidado para incluir detalhes sobre cada lançamento dos jogos, incluindo seu gênero, ano de lançamento e descrição.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/g4u.to/)
 
 ### 🔗 [Gamdie](https://gamdie.com/)
@@ -172,24 +172,19 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Site conhecido na cena por seus lançamentos, fornece uma infinidade de hospedadores de arquivos gratuitos e fáceis de usar que são facilmente acessíveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gload.to/)
 
-### 🔗 [MagiPack Games](https://archive.org/details/@magitompg)
-
-- Repacks de jogos retrô, old school e vintage compatíveis com as compilações atuais do Windows.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/magipack.games/)
-
 ### 🔗 [My Abandonware](https://www.myabandonware.com/)
 
-- Fundado em fevereiro de 2009, milhares de jogos foram upados no site ao longo dos anos. Um bom banco de dados de videogames retrô.
+- Fundado em fevereiro de 2009, milhares de jogos foram upados no site ao longo dos anos. Um bom banco de dados de videogames retrô e vintage.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/myabandonware.com/)
 
 ### 🔗 [Old Games Download](https://oldgamesdownload.com/)
 
-- Este projeto foi fundado para preservar os videogames que não estão mais à venda ou para download e têm um significado nostálgico para as pessoas.
+- Este projeto foi fundado para preservar os videogames que não estão mais à venda ou para download e que têm um significado nostálgico para a comunidade.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/oldgamesdownload.com/)
 
 ### 🔗 [Old-Games.RU](https://www.old-games.ru/) • Interface em russo
 
-- Tudo sobre jogos de computador antigos, use um tradutor.
+- Tudo sobre jogos de computador antigos, use um tradutor ou a extensão Translate Web Pages.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/old-games.ru/)
 
 ### 🔗 [PiviGames](https://pivigames.blog/) • Interface em espanhol
