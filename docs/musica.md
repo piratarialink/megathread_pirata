@@ -148,7 +148,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🌟 [**SpotiFLAC**](https://github.com/afkarxyz/SpotiFLAC)
 
-- Consiga músicas do Spotify em FLAC puro com a ajudinha dessa aplicação.
+- Consiga músicas do Spotify em FLAC puro via Amazon Music, Qobuz e Tidal com a ajudinha dessa aplicação.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [**Monochrome**](https://monochrome.samidy.com/) / [2](https://monochrome.tf/) / [3](https://monochrome.prigoana.com/) / [4](https://monochrome-back.pages.dev/)

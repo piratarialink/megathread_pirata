@@ -254,6 +254,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🌟 [**Myrient**](https://myrient.erista.me/files/No-Intro/) / [2](https://myrient.erista.me/files/Redump/)
 
 - Coleção de videogames estruturada e acessível de mais de 200 TB de tamanho.
+- [Checar status do backup sendo feito pelo r/savemyrient](https://minerva-archive.org/) / [Discord do Minerva Archive](https://discord.com/invite/m5M6uRbEGr)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/myrient.erista.me/)
 
 ### 🌟 [**r/Roms Megathread**](https://r-roms.github.io/)
@@ -266,21 +267,19 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Oferece alguns jogos traduzidos e dublados (Fan-dubs) em PT-BR para PS1, PS2 e PS3.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/psxdownloads.us/)
 
+### 🔗 [WinWorld](https://winworldpc.com/library/games)
+
+- Um verdadeiro museu repleto de tesouros digitais como sharewares e abandonwares da era dos microcomputadores DOS e Unix.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/winworldpc.com/)
+  
 ### 🔗 [Best NES Games](https://archive.org/details/best-nes-games)
 
 - 180 jogos fantásticos. Basta baixar e extrair o arquivo zip de 19 MB.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
-
-### 🌟 [**Not UltraNX**](https://not.ultranx.ru/en)
-
-- Site do projeto [UltraNX](https://github.com/Ultra-NX/UltraNX/blob/main/README_ENG.md) - um CFW para Switch focado em tweaks.
-- ROMs para switch, com download sem anúncios e extremamente rápido.
-- Basta apenas criar um usuário (nome e senha apenas - qualquer uma serve).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/not.ultranx.ru/)
   
 ### 🔗 [CDRomance](https://cdromance.com/)
 
-- Coleção de jogos da era de 128 bits da sexta geração de consoles, bem como títulos de 8 bits.
+- Coleção de jogos da era de 128 bits da sexta geração de consoles, bem como títulos de 8 bits. Agora com uma cara nova totalmente voltada para dispositivos móveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cdromance.com/)
 
 ### 🔗 [Cylum's Sega Master System ROM Collection](https://archive.org/details/cylums-sega-master-system-rom-collection)
@@ -303,9 +302,15 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Uma extensa jogoteca para vários sistemas diferentes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/emugames.net/)
 
-### 🔗 [NesGM](https://nesgm.net/) • UI em espanhol
+### 🌟 [**Not UltraNX**](https://not.ultranx.ru/en)
 
-- ROMs para Nintendo Switch e outras plataformas são o foco principal.
+- Site do projeto [UltraNX](https://github.com/Ultra-NX/UltraNX/blob/main/README_ENG.md) - um CFW para Switch focado em tweaks.
+- ROMs para switch, com download sem anúncios e extremamente rápido. Basta apenas criar um usuário (nome e senha apenas - qualquer uma serve).
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/not.ultranx.ru/)
+
+### 🔗 [NesGM](https://nesgm.net/) • Interface em espanhol
+
+- ROMs para Nintendo Switch e outros consoles da "Big N" são o carro-chefe.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nesgm.net/)
 
 ### 🔗 [NXBrew](https://nxbrew.net/)
@@ -335,7 +340,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [RomHack Plaza](https://romhackplaza.org)
 
-- Mesmo conceito do RHDN.
+- Mesmo conceito do RHDN, ótimo recurso de backup caso ele venha a cair.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhackplaza.org/)
 
 ### 🌟 [**Rom Hustler**](https://romhustler.org/)
@@ -360,7 +365,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**RomUlation**](https://www.romulation.org/)
 
-- Reviva sua infância agora mesmo com jogos de console retrô direto do seu PC.
+- Reviva sua infância agora mesmo com jogos de console retrô diretamente no seu PC.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romulation.org/)
 
 ### 🔗 [**Ziperto**](https://www.ziperto.com)
