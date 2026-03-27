@@ -31,6 +31,8 @@ _Nota: CCleaner é propriedade da mesma empresa._
 
 Com o lançamento do Windows 10, surgiu o Windows Defender, um antivírus para o dia a dia, simples, robusto, gratuito, eficaz e sem ofertas de pacotes pagos.
 
+_Algumas funções importantes estão escondidas em sub-menus e só podem ser acessadas com a GUI alternativa do [ConfigureDefender.](https://github.com/AndyFul/ConfigureDefender)_
+
 ## Panda e Kaspersky
 
 O Kaspersky (russo) ganhou uma reputação no mercado e mudou os servidores para a Suécia.
