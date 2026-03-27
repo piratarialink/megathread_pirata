@@ -46,6 +46,7 @@
 | AIMHAVEN                  | aimhaven-com                                                    | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |
 | ApunKaGames               | apunkagames-com                                                 | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |
 | Crohasit                  | crohasit-net                                                    | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |
+| 💩 CoolROM                  | coolrom-com-au                                                    | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |
 | Descarga Game             | descargagame-com                                                | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |
 | Game3rb                   | game3rb-com                                                     | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |
 | GamesTorrents             | gamestorrents-fm                                                | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |
