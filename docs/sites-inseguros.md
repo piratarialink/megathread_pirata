@@ -22,9 +22,9 @@
 | "13**77**x"       | 13**77**x-to                | **Clone falso** (_Criado para enganar usuários de propósito_).                                        |
 | 💩 The Pirate Bay | thepiratebay-org (proxies)  | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).                  |
 | 💩 4shared        | 4shared-com                 | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).                  |
-| KickassTorrents   | kickasstorrents-to          | **Clone falso** (_Criado para enganar usuários de propósito_).                                        |
+| "KickassTorrents"   | kickasstorrents-to          | **Clone falso** (_Criado para enganar usuários de propósito_).                                        |
 | 💩 Baixaki        | baixaki-com-br              | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).                  |
-| 💩 TheRarBg       | therarbg-com/therarbg-to    | **Clone falso** (_Criado para enganar usuários de propósito_).                                        |
+| 💩 "TheRarBg"       | therarbg-com/therarbg-to    | **Clone falso** (_Criado para enganar usuários de propósito_).                                        |
 | "9xbuddy"         | 9xbuddy-online              | **Clone Falso** (_Criado para enganar usuários de propósito_).                                        |
 
 # ⛩️ ➜ Anime
@@ -46,6 +46,7 @@
 | AIMHAVEN                  | aimhaven-com                                                    | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |
 | ApunKaGames               | apunkagames-com                                                 | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |
 | Crohasit                  | crohasit-net                                                    | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |
+| 💩 CoolROM                  | coolrom-com-au                                                    | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |
 | Descarga Game             | descargagame-com                                                | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |
 | Game3rb                   | game3rb-com                                                     | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |
 | GamesTorrents             | gamestorrents-fm                                                | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |

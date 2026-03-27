@@ -31,6 +31,8 @@ _Nota: CCleaner é propriedade da mesma empresa._
 
 Com o lançamento do Windows 10, surgiu o Windows Defender, um antivírus para o dia a dia, simples, robusto, gratuito, eficaz e sem ofertas de pacotes pagos.
 
+_Algumas funções importantes estão escondidas em sub-menus e só podem ser acessadas com a GUI alternativa do [ConfigureDefender.](https://github.com/AndyFul/ConfigureDefender)_
+
 ## Panda e Kaspersky
 
 O Kaspersky (russo) ganhou uma reputação no mercado e mudou os servidores para a Suécia.
@@ -53,7 +55,7 @@ McAfee é meh.
 
 - **Bitdefender**: use a versão de teste gratuita e, quando o teste estiver prestes a terminar, basta reiniciá-lo com outra conta [(tempgmail)](https://tempgmail.net/).
 - **MalwareBytes**: somente para efetuar remoção de malware, não usar no dia a dia.
-- **Windows Defender (Windows 10 e 11)**: usar no dia a dia.
+- **Windows Defender (Windows 10 e 11)**: para usar no dia a dia, de preferência em conjunto com a GUI do [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender).
 
 Use o [Hypatia](https://apt.izzysoft.de/fdroid/index/apk/org.maintainteam.hypatia/) / [Bitdefender Mobile](https://www.bitdefender.com/pt-br/consumer/mobile-security-android) no Android e [VirusTotal](https://www.virustotal.com/gui/) / [Triage](https://tria.ge/) para arquivos menores que 650 mb (para maiores use uma VM), dê preferência para a análise de programas antivírus com reputação no mercado, pois antivírus desconhecidos (como o Arcabit) geralmente só detectam falsos positivos.
 
