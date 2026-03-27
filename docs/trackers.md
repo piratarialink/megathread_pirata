@@ -5,7 +5,7 @@ Trackers são servidores que requerem interação com um cliente de torrent, com
 Trackers podem ser públicos ou privados. Trackers públicos não demandam cadastro de usuários, podendo ser acessados por qualquer pessoa, enquanto trackers privados necessitam de cadastro para acesso. Trackers privados geralmente oferecem maior privacidade aos usuários e costumam ter uma retenção maior para os arquivos compartilhados, porém, nem sempre é fácil conseguir acesso a eles. As principais formas de ingresso são: convite de usuários; entrevista; aplicação; recrutamento oficial em outros trackers privados, e quando abrem o site para novos usuários por tempo limitado.
 
 :::info ⚠️ Lembrete rápido
-Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para ser avisado quando novos Trackers abrirem cadastros. Verifique também mais sobre convites de trackers no [r/OpenSignups](https://www.reddit.com/r/OpenSignups/).
+Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para ser avisado quando novos Trackers abrirem cadastros. Verifique também mais sobre convites de trackers no [OpenSignup](https://opensignup.xyz/).
 :::
 
 ## 🔰 Trackers Brasileiros
