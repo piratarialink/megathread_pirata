@@ -237,7 +237,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌸 [Gdrive de Apollo D. Yagami](https://drive.google.com/drive/folders/18oeYtjfbRipkgSVeIkNx66FGl03na5LR)
 
-- Drive do Google contendo traduções de mangá. Com mais conteúdos incluído no futuro.
+- Drive do Google contendo traduções de mangás. Com ainda mais conteúdo a ser adicionado no futuro.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/drive.google.com)
 
 #### 🌸 [Ler Mangás](https://lermangas.me/)
