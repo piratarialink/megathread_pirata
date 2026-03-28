@@ -30,7 +30,7 @@ features:
     title: Comunidade no Lemmy
     details: O Lemmy é uma rede social altamente confiável imune a ataques de DMCA. Estilo Reddit.
     link: "https://lemmy.dbzer0.com/c/pirataria"
-  - icon: ⭐
+  - icon: 📣
     title: Grupos do Telegram
     details: Nos grupos do telegram temos mais de 2 mil pessoas compartilhando conteúdo e trocando informações e dicas.
     link: "https://pirataria.link/sites-geral#%F0%9F%93%A3-no-telegram"
