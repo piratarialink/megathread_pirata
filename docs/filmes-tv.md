@@ -46,7 +46,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Assista as melhores séries gratuitamente sem a necessidade de cadastro. Praticamente zero buffering.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/seuseriados.com/)
 
-### 🌟 [Cineby](https://www.cineby.app/)
+### 🌟 [Cineby](https://www.cineby.app/) / [2](https://www.cineby.sc/)
 
 - Biblioteca de filmes e programas de TV que fazem deste serviço de streaming uma escolha fantástica. Legendas e áudio em pt-br disponíveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cineby.app/)
@@ -159,7 +159,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [Donkey](https://donkey.to/)
 
-- Entretenimento global com uma miríade filmes e programas de TV pagos para todos os tipos de audiência.
+- Entretenimento global com uma miríade de filmes e programas de TV pagos para todos os tipos de audiência.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/donkey.to/)
 
 ### ▶️ [FilmeX](https://filmex.to/)
