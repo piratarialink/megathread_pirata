@@ -369,7 +369,7 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 - Um fantástico recurso de legendas com uma grande comunidade de colaboradores dedicados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/podnapisi.net/)
 
-## 📢 No Telegram
+## 📣 No Telegram
 
 ### 🌟 [Polemic Filmes](https://t.me/polemicfilmes)
 
