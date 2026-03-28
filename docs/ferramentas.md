@@ -465,7 +465,8 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 - [TTM](https://t.me/TTMlogsBot) - Bot que coleta credenciais de usuários de diversos sites.
 - [STEAM7](https://t.me/steamiq) / [SharedSteam](https://t.me/+5QYQn11dAxMzNDU6) - Contas Steam.
-- [22.Do](https://22.do/pt/) - Outlook, Hotmail e Gmail descartável - perfeito para necessidades de curto prazo, como cadastros online e acesso a links de download.
+- [22.Do](https://22.do/pt/) - Domínio outlook, hotmail e gmail descartável - perfeito para necessidades de curto prazo, como cadastros online e acesso a links de download.
+- [getedumail](https://getedumail.com/) / [edumail](https://edumailfree.com/) - Mesmo conceito do 22.Do mas para endereços de email de instituições educacionais.
 - **[Pago]** [Xinyu Store](https://xinyustore.com/) - Fornece assinaturas **compartilhadas** da Alura, Qconcursos e estratégia para você estudar a preços justos e acessíveis.
 - [CrackingX](https://crackingx.com) - Combolists e contas de streaming.
 - **[Pago]** [Kotas](https://www.kotas.com.br/servico/kotas) - Divida logins da Udemy, Babbel, Proton VPN, CapCut e Canva Pro com outros usuários da web.
