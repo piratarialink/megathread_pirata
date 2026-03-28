@@ -36,7 +36,7 @@
 - Meet: systemli.org, Jitsi
 - Criptomoeda: Monero 
 - Hospedagem: Servers.guru
-- Pesquisa: 4get
+- Pesquisa: 4get/DuckDuckGo
 - Roteador: Qualquer um com OpenWRT (WPA3), recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 
 ## O avançado para privacidade

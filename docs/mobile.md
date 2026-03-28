@@ -336,7 +336,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Indexador completo de apks crackeados e publicados diariamente à disposição dos usuários.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/a2zapk.io/)
 
-## 📢 No Telegram
+## 📣 No Telegram
 
 ### 🔗 [AlveeMods](https://t.me/AlveeMods)
 

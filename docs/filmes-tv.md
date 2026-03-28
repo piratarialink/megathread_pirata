@@ -32,7 +32,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 🌟 [Hypeflix](https://hypeflix.sbs/)
 
 - Prove do melhor do streaming nacional e internacional no seu celular ou televisão.
-- Anúncios existem, mas estes não atrapalham tanto a experiência.
+- Anúncios existem, mas não atrapalham tanto a experiência.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hypeflix.sbs/)
 
 ### 🌟 [Stream Verde](https://streamverde.net/)
@@ -369,7 +369,7 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 - Um fantástico recurso de legendas com uma grande comunidade de colaboradores dedicados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/podnapisi.net/)
 
-## 📢 No Telegram
+## 📣 No Telegram
 
 ### 🌟 [Polemic Filmes](https://t.me/polemicfilmes)
 
