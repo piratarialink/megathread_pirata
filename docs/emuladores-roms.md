@@ -365,7 +365,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**RomUlation**](https://www.romulation.org/)
 
-- Reviva sua infância agora mesmo com jogos de console retrô diretamente no seu PC.
+- Reviva sua infância agora mesmo com jogos de consoles retrô da quinta e sexta geração diretamente no seu computador.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romulation.org/)
 
 ### 🔗 [**Ziperto**](https://www.ziperto.com)

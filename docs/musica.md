@@ -350,7 +350,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Media player que suporta consumo contínuo de música com sua biblioteca de música centralizada.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/soundbound.app/)
 
-## 📢 No Telegram
+## 📣 No Telegram
 
 ### 🤖 [DeezLoad](https://t.me/deezload2bot)
 
