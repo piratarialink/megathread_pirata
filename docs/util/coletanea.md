@@ -56,7 +56,7 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
   
 - [SpotX](https://github.com/amd64fox/SpotX/) - Cliente modificado para o Spotify no desktop - bloqueia anúncios, atualizações forçadas, telemetria e muito mais.
 
-- [tempgmail](https://tempgmail.net) / [emailnator](https://www.emailnator.com) / [simplelogin](https://simplelogin.io) - Caixa de mensagens temporária para evitar o recebimento de spams e tentativas de golpe. Para endereços .edu as alternativas são o [getedumail.com](https://getedumail.com/) e [edumail](https://edumailfree.com/).
+- [tempgmail](https://tempgmail.net) / [emailnator](https://www.emailnator.com) / [simplelogin](https://simplelogin.io) - Caixa de mensagens temporária para evitar o recebimento de spams e tentativas de golpe.
  
 - [2fa.directory](https://2fa.directory/br/) - Fonte independente de informações sobre quais serviços suportam MFA/2FA.
 
