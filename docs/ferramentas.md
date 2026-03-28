@@ -336,7 +336,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► Segurança
 
 - [av-comparatives.org](https://www.av-comparatives.org/) - Análises de proteção antivírus.
-- [abuse.ch](https://abuse.ch) - Database de domínios/endereços IP usados por cibercriminosos, inclua estes dados na blocklist de seu firewall ou simplesmente use o [portmaster](https://safing.io/) (que já vem com esta lista de bloqueio por padrão).
+- [abuse.ch](https://abuse.ch) - Database de domínios/endereços IP usados por cibercriminosos, inclua estes dados na blocklist de seu firewall ou simplesmente use o [portmaster](https://safing.io/) (que já vem com essa lista de bloqueio por padrão).
 - [tria.ge](https://tria.ge/) - Ambiente de testes online.
 - [VirusTotal](https://www.virustotal.com/) / [Metadefender](https://metadefender.com/) - Serviços da Web que verificam arquivos e URLs.
 - [ycombinator.com](https://news.ycombinator.com/news) - Agregador de notícias sobre a cena de cibersegurança - **use um tradutor.**
