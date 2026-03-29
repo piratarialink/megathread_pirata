@@ -235,13 +235,19 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - O flor de cerejeira reúne grupos brasileiros e portugueses de scansubs com o propósito de preservar mangás e outras obras asiáticas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sakuramangas.org/)
 
-#### 🌸 [Gdrive de Apollo D. Yagami](https://drive.google.com/drive/folders/18oeYtjfbRipkgSVeIkNx66FGl03na5LR)
+#### 🌸 [Gdrive do Apollo D. Yagami](https://drive.google.com/drive/folders/18oeYtjfbRipkgSVeIkNx66FGl03na5LR)
 
 - Drive do Google contendo traduções de mangás. Com ainda mais conteúdo a ser adicionado no futuro.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/drive.google.com)
 
+#### 🌸 [KindleOtaku](https://kindleotaku.blogspot.com/)
+
+- Postagem de mangás no formato aceito pelo Kindle. Requer uma conta no Terabox para efetuar o download, algo que você pode criar com um email descartável no tempgmail.net ou semelhantes.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kindleotaku.blogspot.com/)
+
 #### 🌸 [Ler Mangás](https://lermangas.me/)
 
+- Compêndio massivo de conteúdo, esse site também oferece acesso gratuito a recursos incríveis através de uma interface 100% em língua portuguesa!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/lermangas.me/)
 
 #### 🌸 [MangaFox](https://fanfox.net/)
@@ -249,9 +255,9 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Acesse centenas de títulos de mangá de alta qualidade gratuitamente online, com uma lista diariamente atualizada.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fanfox.net/)
 
-#### 🌸 [MangaLife](https://manga4life.com/)
+#### 🌸 [Weeb Central](https://weebcentral.com/)
 
-- Coleção de todos os gêneros de mangá disponível onde os usuários podem ler indefinidamente.
+- Acervo imperdível com todos os gêneros de mangá, espaço onde os usuários podem ler indefinidamente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/manga4life.com/)
 
 #### 🌸 [MangaBuddy](https://mangabuddy.com/)
@@ -261,51 +267,28 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌸 [MangaHub](https://mangahub.io/)
 
-- Fundado há 5 anos, acumulou uma biblioteca considerável de mangá, manhwa e manhua.
+- Fundado há 5 anos, acumulou uma biblioteca considerável de mangás, manhwas e manhuas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangahub.io/)
-
-#### 🌸 [MangaKakalot](https://mangakakalot.com/)
-
-- Grande variedade de séries de mangá acessíveis, com a coleção mais recente aberta para os leitores.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangakakalot.com/)
 
 #### 🌸 [MangaKatana](https://mangakatana.com/)
 
-- Leia mangás online gratuitamente, atualizados a cada hora! Sempre terá material novo.
+- Leia mangás online gratuitamente, atualizados a cada hora! Sempre com material novo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangakatana.com/)
-
-#### 🌸 [MangaKomi](https://mangakomi.io/)
-
-- Obtenha as atualizações mais recentes neste site projetado para uma experiência de leitura incrível.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangakomi.io/)
-
-#### 🌸 [MangaPark](https://mangapark.io/) / [2](https://mangapark.net/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangapark.io/)
 
 #### 🌸 [MangaPill](https://mangapill.com/)
 
-- Leitura de mangá em inglês online, gratuita e sempre com lançamentos de alta qualidade e frescos.
+- Leitura de mangá em inglês online, gratuita e sempre com lançamentos de alta qualidade e inéditos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangapill.com/)
 
 #### 🌸 [Mangaread](https://www.mangaread.org/)
 
+- Obtenha as obras mais recentes neste site projetado para uma experiência de leitura incrível.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangaread.org/)
-
-#### 🌸 [MangaReader](https://mangareader.to/)
-
-- Coleção massiva de conteúdo, este site também oferece acesso gratuito a recursos premium.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mangareader.to/)
 
 #### 🌸 [Toonily](https://toonily.com/)
 
-- Acesso aos seus manhwas premium em inglês traduzidos de editores coreanos de topo.
+- Tenha acesso aos melhores manhwas em inglês traduzidos diretamente de editores coreanos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/toonily.com/)
-
-#### 🌸 [KindleOtaku](https://kindleotaku.blogspot.com/)
-
-- Postagem de mangás no formato aceito pelo Kindle. Requer uma conta no Terabox para efetuar o download, algo que você pode criar por um email descartável no Temp Mail ou semelhantes.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kindleotaku.blogspot.com/)
 
 ‎
 ‎
@@ -390,8 +373,14 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Espaço para quem ama projetos de tradução, atualizado diariamente, apoiadores têm acesso antecipado a lançamentos de obras nipônicas pelo discord.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tsundoku.com.br/)
 
+#### 🔗 [NovelBuddy](https://novelbuddy.com/)
+
+- Comunidade idealizada pelo MangaBuddy.com focada em trazer títulos inéditos e traduzidos para o inglês.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/novelbuddy.com/)
+
 #### 🔗 [NovelsBR](https://novels-br.com/)
 
+- Portal excelente caso você seja um leitor ávido de Light Novels que não pode arcar com textos caríssimos na língua original.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/novels-br.com/)
 
 ‎
