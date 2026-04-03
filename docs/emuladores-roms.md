@@ -166,17 +166,22 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [Snes9x](https://github.com/snes9xgit/snes9x) • Super Famicom
 
-- Compatível com Linux e atualizado todos os anos.
+- Emulador compatível com Linux, otimizado e atualizado todos os anos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+### 🔗 [Eden](https://eden-emu.dev/noscript/index.html) • Switch
+
+- Projeto derivado do finado Sudachi, capaz de emular jogos do primeiro Nintendo Switch no Windows, Linux e FreeBSD.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/eden-emu.dev/)
 
 ### 🔗 [VisualBoyAdvance-M](https://vba-m.com/) • Game Boy + Advance
 
-- Emulador renomado, rápido, leve e simples de começar imediatamente.
+- Emulador renomado, rápido, leve e simples focado em videogames portáteis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vba-m.com/)
 
 ### 🔗 [yuzu](https://krakenfiles.com/view/xFdCTjoGjv/file.html) / [2](https://buzzheavier.com/f/GMEScmhcQAA=) / [3](https://megaup.net/7w6tc/Yuzu_+_Source.rar) • Switch
 
-- **Não é mais desenvolvido.** Os jogos podem ser experimentados usando esse emulador de código aberto.
+- **Não é mais desenvolvido.** - os jogos podem ser experimentados usando esse emulador de código aberto.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/krakenfiles.com/)
 
 ## 🔵 Sega
