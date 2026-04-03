@@ -10,7 +10,7 @@
 
 ### Vou ter problemas se visitar um site pirata ou baixar um determinado arquivo?
 
-- Não no Brasil, mas é sempre bom tomar cuidado, pois os provedores de internet são obrigados a guardar os logs de acesso dos clientes por 1 ano por determinação da Anatel. Portanto, se você for investigado algum dia, seu provedor será obrigado a compartilhar esses logs e não te informará sobre isso.
+- Não no Brasil, mas é sempre bom tomar cuidado, pois os provedores de internet são obrigados a guardar os logs de acesso dos clientes por 1 ano por determinação da Anatel conforme o [Marco Civil da Internet, Lei 12.965/2014, art. 13](https://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2014/Lei/L12965.htm). Portanto, se você for investigado algum dia, seu provedor será obrigado a compartilhar esses logs e não te informará sobre isso.
 
 ### Onde é que eu posso encontrar material pirata?
 
