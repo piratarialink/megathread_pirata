@@ -26,7 +26,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 🌟 [Multicanais](https://multicanaishd.bid/) / [2](https://multicanaishd.best/)
 
 - Canais pagos e streaming de eventos esportivos como Copa do Brasil e Libertadores assim que são iniciados.
-- MMA, SporTV, ESPN do Brasil e Internacional - anúncios enfadonhos existem mas estes podem ser burlados com o PopUpOFF.
+- MMA, SporTV, ESPN do Brasil e Internacional - anúncios enfadonhos existem mas podem ser burlados com o PopUpOFF.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanaishd.bid/)
 
 ### 🌟 [EmbedCanais](https://embedcanais.com/)
