@@ -89,7 +89,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [Meulivro.biz](https://www.meulivro.biz/)
 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/www.meulivro.biz/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/meulivro.biz/)
 
 ### 🔗 [PDFCOFFEE](https://pdfcoffee.com/)
 
@@ -113,7 +113,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [Baixar Quadrinhos](https://baixarhq.com/)
 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarhq.com.net/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarhq.com/)
 
 ### 🔗 [Tudo HQ e Mangá](https://tudohqemanga.com.br/)
 
@@ -121,7 +121,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [The Old Shinobi](https://www.theoldshinobi.site/marvel-comics/)
 
-- [Resultados de Segurança da URL](https://www.urlvoid.com/theoldshinobi.site/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/theoldshinobi.site/)
 
 ## ☁️ Pastas na Nuvem
 
@@ -136,7 +136,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - O "acervo da anna" é um poderoso mecanismo de pesquisa cujas fontes são as _shadow libraries_ mais conhecidas e usadas amplamente: libgen. z-library, sci-hub, entre outras.
 - Constantemente muda de domínio, para checar qualquer proxy que esteja funcionando, acesse o [SLUM](https://open-slum.org/).
 - [Checar URLs atualizadas pela Wikipédia](https://en.wikipedia.org/wiki/Anna%27s_Archive)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/annas-archive.li/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/br.annas-archive.li/)
 
 ### 🔍 [Boooky](https://iatizei.notion.site/Boooky-2efb6ffcf47a80e19a5fc6c4d2ac2f35)
 
@@ -153,7 +153,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 ### 🔗 [Libation](https://github.com/rmcrackan/Libation)
 
 - Faça o download de audiolivros da Audible e PDFs de acompanhamento sem se preocupar com DRM.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [HakuNeko](https://hakuneko.download/)
 
@@ -163,12 +163,12 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 ### 🔗 [Calibre](https://github.com/kovidgoyal/calibre) (Multiplataforma)
 
 - Leitor e conversor de ebooks. Funciona com formatos diversos e tem integração com leitor de ebook (Kindle, Kobo, etc.)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [DeDRM tools](https://github.com/apprenticeharper/DeDRM_tools) (Multiplataforma)
 
 - Plugin para o Calibre para remover DRM de livros comprados na Amazon ou Google Books.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hakuneko.download/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ## 🧲 Torrent/P2P
 
@@ -182,7 +182,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Excelente coleção de audiolivros e compartilha muito conteúdo com o MyAnonamouse.
 - Para baixar sem uma conta, copie o hash de informações e cole-o no seu cliente de torrent. Exemplo: `magnet:?xt=urn:btih:INFOHASH`
 - Muda constantemente de domínio, para se manter atualizado confira o [subreddit oficial](https://www.reddit.com/r/AudioBookBay/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/audiobookbay.li/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/audiobookbay.lu/)
 
 ### 🔗 [MyAnonamouse](https://www.myanonamouse.net/) • Necessário Cadastrar-se
 
@@ -322,7 +322,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 ### 🔗 [Free Chinese Font](https://www.freechinesefont.com/)
 
 - Descubra uma combinação de fontes chinesas gratuitas que você pode baixar em formatos de caracteres simplificados ou tradicionais.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/freechinesefont.com)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/freechinesefont.com/)
 
 ### 🔗 [Free Japanese Font](https://www.freejapanesefont.com/)
 
@@ -332,7 +332,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 ### 🔗 [Free Korean Font](https://www.freekoreanfont.com/)
 
 - Descubra fontes coreanas gratuitas para baixar e utilizar em seu próximo projeto.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/freekoreanfont.com)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/freekoreanfont.com/)
 
 ### 🔗 [FreeFonts1](https://www.freefonts1.com/)
 
@@ -387,7 +387,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ## Está buscando cursos e conteúdos educacionais?
 
-➜ Confira nossa Megathread 🧠 [Educacional](educacional)
+➜ Confira nossa Megathread 🧠 [Educacional](educacional.md)
 
 ## Quer saber mais sobre **Livros** em inglês?
 

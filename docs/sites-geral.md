@@ -35,7 +35,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 ### 🌟 [**Hattered**](https://mefrraz.github.io/hattered/index.html)
 
 - Página tuga criada em 2025 contendo dicas, guias, diretórios e uma biblioteca de conteúdo livre online.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mefrraz.github.io/hattered/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mefrraz.github.io/)
 
 ### 🔗 [AlternativeTo](https://alternativeto.net/)
 
@@ -55,7 +55,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 ### 🔗 [4get](https://4get.ca/instances)
 
 - Não esconde resultados de navegação por DRM com o Yandex selecionado, use outra instância além da oficial para não lidar com captcha constante.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4get.ch/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4get.ca/)
 
 ### 🔗 [Files.dog](https://files.dog/)
 
@@ -147,7 +147,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 
 - Tem uma vasta biblioteca com muitos gêneros diferentes. É bem distribuído e considerado o rastreador público mais abrangente.
 - Para usar a função de pesquisa, você precisa se cadastrar.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rutracker.org/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rutracker.net/)
 
 ### 🔗 [snowfl](https://snowfl.com/)
 
@@ -174,7 +174,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 ### 🔗 [PreDB](https://predb.net/) / [2](https://predb.me/)
 
 - Este serviço exibe dados de tendências coletados de inúmeras fontes online.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hdvinnie.github.io/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/predb.net/)
 
 ### 🔗 [Megathread de Trackers Privados](trackers.md)
 

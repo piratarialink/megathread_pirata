@@ -21,13 +21,13 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - Oferece uma ampla gama de canais ao vivo com a mais alta qualidade de transmissão. [Falha na conexão? Tente isso.](guias/dns.md)
 - Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanaistv.gs/)
 
 ### 🌟 [Multicanais](https://multicanaishd.bid/) / [2](https://multicanaishd.best/)
 
 - Canais pagos e streaming de eventos esportivos como Copa do Brasil e Libertadores assim que são iniciados.
 - MMA, SporTV, ESPN do Brasil e Internacional - anúncios enfadonhos existem mas estes podem ser burlados com o PopUpOFF.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanaishd.bid/)
 
 ### 🌟 [EmbedCanais](https://embedcanais.com/)
 
@@ -38,11 +38,11 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 - Transmissões ao vivo de jogos de futebol, com várias opções de canais.
 - Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app/)
 
 ### 📺️ [TV0800](https://tv0800.pro/esportes/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/piratatvs.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.pro/)
 
 ### 📺️ [TV Online](https://tvonline.fan/)
 
@@ -50,7 +50,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### 📺️ [Futemax](https://futemax.moi/) / [2](https://futemax.rent/) / [3](https://futemax.luxe/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.rent/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.moi/)
 
 ### 📺️ [Buffsports](https://buffsports.io/)
 
@@ -75,7 +75,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 📺️ [FullReplays](https://www.fullreplays.com/)
 
 -  Site gringo para acompanhar jogos da premier league assim que as partidas acabarem.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.fullreplays.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/fullreplays.com/)
   
 ### 📺️ [Footballia](https://footballia.net/)
 

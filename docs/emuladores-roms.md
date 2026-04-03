@@ -57,7 +57,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🔗 [webЯcade](https://www.webrcade.com/)
 
 - Em uma ampla variedade de plataformas, os jogos são executados nativamente no navegador, sob o controle de feeds de jogos baseados em nuvem.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/webarcade.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/webrcade.com/)
 
 ## 👾 Multisistema
 
@@ -90,7 +90,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🔗 [DOSBox-X](https://dosbox-x.com/) • MS-DOS
 
 - Preservando os clássicos do DOS e suas variantes através da jogabilidade, adaptado para PCs e notebooks modernos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.dosbox.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/dosbox-x.com/)
   
 ### 🔗 [xemu](https://xemu.app/) • Xbox
 
@@ -152,7 +152,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🌟 [**Ryujinx**](https://git.ryujinx.app/ryubing/ryujinx) • Switch
 
 - Fork feito pelo GreemDev com base no emulador original de Switch escrito em C# que foi descontinuado.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ryujinx.app/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/git.ryujinx.app/)
 
 ### 🔗 [SameBoy](https://sameboy.github.io/) • Game Boy + Color + Super
 
@@ -167,11 +167,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🔗 [Snes9x](https://github.com/snes9xgit/snes9x) • Super Famicom
 
 - Compatível com Linux e atualizado todos os anos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-### 🔗 [Sudachi](https://github.com/emuplace/sudachi.emuplace.app) • Switch
-
-- Uma boa alternativa para o Ryujinx.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [VisualBoyAdvance-M](https://vba-m.com/) • Game Boy + Advance
@@ -321,7 +316,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🌟 [**SMWC**](https://www.smwcentral.net/?p=main)
 
 - Espaço voltado à preservação de romhacks da franquia super mario.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.smwcentral.net/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/smwcentral.net/)
 
 ### 🔗 [Retro Roms "Best" Set](https://archive.org/details/retro-roms-best-set)
 
@@ -378,7 +373,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🌟 [Project Restoration](https://github.com/leoetlino/project-restoration)
 
 - Este patch para o Majora's Mask de 3DS resolve alguns dos problemas mais conhecidos dentro do jogo.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [Smash Remix](https://smash64.online/remix/)
 
@@ -441,7 +436,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/jogostraduzidos.com/)
 
 ### 🔗 [GGames](https://ggames.com.br/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gggames.com)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ggames.com.br/)
 
 ## ❤ Projetos de tradução
 
@@ -475,4 +470,4 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## Está buscando Jogos de Computador?
 
-➜ Confira nosso tópico sobre 🎮 [Jogos](jogos)
+➜ Confira nosso tópico sobre 🎮 [Jogos](jogos.md)

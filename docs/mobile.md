@@ -363,7 +363,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 ### 🌟 [Virgil](https://virgil.samidy.com/Mobile/#gsc.tab=0)
 
 - Tendo como referência-base o FMHY, este motor de busca realiza a procura de aplicativos para Android em diversos sites piratas. Basta inserir a palavra-chave e então filtrar pela arquitetura do seu aparelho.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/playsearch.kaki87.net/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/virgil.samidy.com/)
 
 ### 🔍 [Advanced Google Play Search](https://playsearch.kaki87.net/)
 
@@ -382,7 +382,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ## Está buscando Programas para Computador?
 
-➜ Confira nosso tópico sobre ⚙️ [Softwares](softwares)
+➜ Confira nosso tópico sobre ⚙️ [Softwares](softwares.md)
 
 ---
 

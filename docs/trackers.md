@@ -286,4 +286,4 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 ➜ **[Veja a lista completa de trackers privados aqui](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)**
 
 **Está buscando sites para download de filmes e séries via torrent?**
-Confira nossos tópicos sobre 🎦 [Filmes e TV](filmes-tv#🧲-torrents) e ⛩️ [Otaku](otaku#📑-3-➜-torrents)
+Confira nossos tópicos sobre 🎦 [Filmes e TV](filmes-tv.md#🧲-torrents) e ⛩️ [Otaku](otaku.md#📑-3-➜-torrents)

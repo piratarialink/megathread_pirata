@@ -72,7 +72,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 ### 🔗 [BitMidi](https://bitmidi.com/)
 
 - Ouça e compartilhe faixas de áudio MIDI de filmes, videojogos e séries nostálgicas ou do momento.
-- [Resultados de Segurança da URL](https://bitmidi.com/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bitmidi.com/)
 
 ### 🔗 [AnimeThemes](https://animethemes.moe/)
 
@@ -127,7 +127,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 ### 🔗 [Spotify Downloader](https://spotdownloader.com/)
 
 - Aplicativo da Web simples que permite o download de músicas em uma faixa, álbum ou lista de reprodução.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/spotify-downloader.com/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/spotdownloader.com/)
 
 ### 🔗 [SpotifyMate](https://spotifymate.com/)
 
@@ -189,7 +189,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 ### 🌟 [**SpotX**](https://github.com/SpotX-Official/SpotX)
 
 - Modificação do cliente oficial do Spotify que bloqueia todos os anúncios de banner, vídeo e áudio e oculta podcasts, episódios e audiolivros da página inicial. Disponibiliza temas para o client e outras personalizações.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🖥️ [Deemix](https://github.com/bambanah/deemix)
 
@@ -249,7 +249,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 ### 🖥️ [Tidal-Media-Downloader](https://doc.yaronzz.com/post/tidal_dl_installation/)
 
 - Com esta ferramenta, você pode baixar músicas e filmes do Tidal com metadados e escolher a resolução do vídeo e a qualidade do áudio.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doc.yaronzz.com)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doc.yaronzz.com/)
 
 ### 🖥️ [Zotify](https://gitlab.com/team-zotify/zotify)
 
@@ -358,4 +358,4 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## Está buscando apps para ouvir/baixar **Música** no Celular?
 
-➜ Confira nosso tópico sobre 📱 [Mobile](mobile#📑-➜-musica)
+➜ Confira nosso tópico sobre 📱 [Mobile](mobile.md#📑-➜-musica)

@@ -23,7 +23,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
 3. **Cliente de torrent confiável:**
 
-   - Recomendação: [qBittorrent](https://www.qbittorrent.org/) com _kill switch habilitado_ e [plugins de pesquisa](https://pirataria.link/guias/guia-plugins-qbittorrrent)
+   - Recomendação: [qBittorrent](https://www.qbittorrent.org/) com _kill switch habilitado_ e [plugins de pesquisa](https://pirataria.link/guias/guia-plugins-qbittorrrent.md)
 
 4. **Considere usar uma VPN (opcional):**
 

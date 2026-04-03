@@ -45,7 +45,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [GGames](https://ggames.com.br/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gggames.com.br/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ggames.com.br/)
 
 ## ⚙ Programas
 
@@ -66,11 +66,10 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - [Discord](https://discord.gg/anti-denuvo-sanctuary): sem paywalls, sem limites, sua única e melhor opção para jogar jogos com Denuvo. [Guia](https://www.reddit.com/r/pirataria/s/oOUFLDzxvO) de como usar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
   
-### 🔗 [Steam Auto Crack](https://github.com/SteamAutoCracks/Steam-auto-crack)
+### 🔗 Steam Auto Crack (indisponível)
 
 - Programa GUI para jogos offline que só rodam com a licença da Steam. Remove o DRM da Steam e burla a necessidade do cliente oficial para desktop.
 - Não consegue crackear jogos com Denuvo.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ## 📥 Download direto
 
@@ -113,7 +112,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🔗 [Ova Games](https://www.ovagames.com/)
 
-- Baixe jogos grátis para PC de várias fontes, incluindo CODEX, GOG e ElAmigos - com excelentes hosts de arquivos, é realmente simples. / [Falha na conexão? Tente isso.](/guias/dns)
+- Baixe jogos grátis para PC de várias fontes, incluindo CODEX, GOG e ElAmigos - com excelentes hosts de arquivos, é realmente simples. / [Falha na conexão? Tente isso.](/guias/dns.md)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ovagames.com/)
 
 ### 🔗 [World of PC](https://worldofpcgames.com/)
@@ -232,7 +231,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 ### 🚀 [Legacy Launcher](https://llaun.ch/pt-BR)
 
 - Um aplicativo completamente seguro e livre de bundleware para Minecraft, ao contrário do TLauncher - a versão em português do site segue ativa e sem DMCA.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/llaun.ch)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/llaun.ch/)
 
 ### 🚀 [Prism Launcher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked?tab=readme-ov-file)
 
@@ -275,7 +274,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 ### 🔗 [Nitrome](https://www.nitrome.com/all-games/)
 
 - Página pertencente aos produtores de Shovel Knight e Magic Touch, com games pensados para celulares e games em HTML5.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.nitrome.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/nitrome.com/)
 
 ### 🔗 [Addicting Games](https://www.addictinggames.com/)
 
@@ -350,7 +349,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 ### 🌟 [Steam Verde](https://steamverde.net/)
 - O Steam Verde é uma plataforma online de jogos para PC e Android, oferecendo downloads via torrent com uma interface organizada. Conta com uma comunidade ativa que fornece tutoriais e suporte, além de manter os usuários informados sobre lançamentos.
 - O site possui proteção antivírus e é baseado na plataforma segura Invision Community.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamverde.net)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamverde.net/)
 
 ### 🔗 [Ecológica Verde](https://x.com/Ecologica2Verde)
 :::warning Uma pequena quantia de jogos, [distribuídos pelos mesmos](https://archive.is/tjAKm), foram retirados da fonte não confiável [IGG-Games](https://pirataria.link/sites-inseguros#%F0%9F%8E%AE-%E2%9E%9C-jogos), utilize por sua conta em risco - caso for utilizar, cheque de qual fonte foi retirada o jogo antes de baixar.
@@ -386,4 +385,4 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ## Está buscando Emuladores e ROMs?
 
-➜ Confira nossa Megathread sobre 🕹️ [Emuladores e ROMs](emuladores-roms)
+➜ Confira nossa Megathread sobre 🕹️ [Emuladores e ROMs](emuladores-roms.md)
