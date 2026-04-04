@@ -253,7 +253,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**MiNERVA Archive**](https://minerva-archive.org/browse/No-Intro/) / [2](https://minerva-archive.org/browse/Redump/)
 
-- Backup organizado pelo r/savemyrient da coleção de mais de 200 TB de tamanho do agora desativado Myrient.
+- Backup organizado pelo r/savemyrient da coleção de mais de 200 TB de tamanho do agora desativado Myrient. Crie uma conta gratuita no [torbox.app](https://www.torbox.app/) para acessar os arquivos salvos em cached.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/minerva-archive.org/)
 
 ### 🌟 [**r/Roms Megathread**](https://r-roms.github.io/)
