@@ -258,7 +258,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🌸 [Weeb Central](https://weebcentral.com/)
 
 - Acervo imperdível com todos os gêneros de mangá, espaço onde os usuários podem ler indefinidamente.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/manga4life.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/weebcentral.com/)
 
 #### 🌸 [MangaBuddy](https://mangabuddy.com/)
 
@@ -331,9 +331,9 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Aplicativo para desktop que funciona como leitor de mangás e plataforma de streaming de anime.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-#### 🔗 [Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi)
+#### 🔗 [Animetail](https://github.com/Animetailapp/Animetail)
 
-- Fork do Aniyomi com a função de mangás restaurada e recursos extras.
+- O repositório original do Kuukiyomi foi removido. Link aponta para um fork ativo com propostas semelhantes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 #### 🔗 [Animiru](https://github.com/Quickdesh/Animiru)
@@ -366,7 +366,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🔗 [Novel Mania](https://novelmania.com.br/)
 
 - Leia LNs e Webnovels de todos os gêneros com a melhor tradução disponibilizada em português brasileiro!
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/novelmania.com.br/)
 
 #### 🔗 [Tsundoku](https://tsundoku.com.br/)
 

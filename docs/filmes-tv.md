@@ -54,7 +54,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 🌟 [GoFlix](https://goflixy.lol/)
 
 - Lançamentos com resolução 1080p, 720p ou até em HD puro para blockbusters. Em caso de anti-adblock, use o nuMatrix.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcinex.si/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/goflixy.lol/)
 
 ### ▶️ [Clube do Dual](https://clubedodual.com/index.php?app=core&module=system&controller=login)
 
@@ -66,28 +66,27 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Repleto de filmes, séries, doramas, animes e canais de TV, tudo de graça.
 - Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app/)
 
 ### ▶️ [Superflix](https://superflix1.cloud/)
 
 - Fonte online para muitos filmes e séries do Betterflix, com mídia dublada e legendada.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/superflix1.cloud)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/superflix1.cloud/)
 
 ### ▶️ [Romaflix](https://romaflix.top/)
 
 - Filmes, séries e canais ao vivos sem anúncios, pop-ups ou rastreadores.
-- Front-end disponível para auditoria: [GitHub](https://github.com/andrinhh/RomaflixPublic).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romaflix.top/)
 
 ### ▶️ [Pobreflix](https://pobreflixtv.pw/)
 
 - Novo projeto depois que o domínio pobreflix.cc caiu, grande acervo de filmes e shows de TV na web.
 - Lembre-se de usar um adblock.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.cc/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.pw/)
 
 ### ▶️ [NetCine](https://netcinex.si/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/goflix.lol/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcinex.si/)
 
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
 
@@ -107,7 +106,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [MemoriadaTV](https://www.memoriadatv.com/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/pscan/memoriadatv.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/memoriadatv.com/)
 
 ### ▶️ [Overflix](https://overflixtv.app/)
 
@@ -129,7 +128,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Melhor alternativa para o finado P-Stream e suas instâncias.
 - Filmes e séries em 1080p ou em até 4k disponível com o token do Febbox, extensão ou proxy personalizado.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pstream.mov/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/aether.mom/)
 
 ### 🌟 [uCinema](https://ucinema.so/)
 
@@ -144,7 +143,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [Doramogo](https://www.doramogo.net/)
 
 - O Doramogo é um site de streamings de doramas legendados que funciona desde fevereiro de 2025. Recomendamos que o adblock esteja ativado por conta dos anúncios de terceiros no player de vídeo.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.doramogo.net/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/doramogo.net/)
 
 ### ▶️ [CinebyTV](https://broflix.cc/)
 
@@ -198,7 +197,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Oferece canais ao vivo com a mais alta qualidade: ESPN, Band Sports, CazéTV, etc.
 - Muda constantemente de domínio, para se manter atualizado confira o [discord oficial](https://discord.com/invite/kydZZBGwTy).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/xn--90afacaz8cml9ac9f.xn--p1ai/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanaistv.gl/)
 
 ### 🌟 [TV a Cabo](https://tvacabo.free.nf/)
 
@@ -215,7 +214,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Oferece canais ao vivo e streaming de eventos esportivos como UFC e Libertadores assim que são iniciados.
 - Anúncios enfadonhos existem mas estes podem ser burlados com o PopUpOFF.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanais.legal/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanaishd.bid/)
 
 ### 📺️ [EmbedCanais](https://embedcanais.com/)
 
@@ -231,7 +230,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 📺️ [Rei dos Canais](https://reidoscanais.vip/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/reidoscanais.app/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/reidoscanais.vip/)
 
 ### 📺️ [TV0800](https://tv0800.pro/)
 
@@ -278,11 +277,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Vários canais ao vivo, de várias categorias pra você escolher.
 - Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app/)
   
 ## 📱 Celular
 
-### 🌟 [Stremio](https://www.stremio.com/) + [Add-ons de dublagem PT-BR](/guias/guia-stremio) - [Nota Importante!](/outros/stremio.md)
+### 🌟 [Stremio](https://www.stremio.com/) + [Add-ons de dublagem PT-BR](/guias/guia-stremio.md) - [Nota Importante!](/outros/stremio.md)
 
 - Aplicativo de streaming que te permite assistir vídeos, filmes e séries de TV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/stremio.com/)
@@ -298,7 +297,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ‎ ‎ 
-_[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**](outros/filmesmobile)_
+_[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**](outros/filmesmobile.md)_
 ‎ 
 
 ## 🧲 Torrent/P2P
@@ -321,7 +320,7 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 ### 🔗 [Torrent dos Filmes](https://torrentdosfilmes.site/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes1.xyz)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes.site/)
 
 ### 🔗 [HDR Torrent](https://hdrtorrent.com/)
 
@@ -329,11 +328,11 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 ### 🔗 [Starck Filmes](https://starckfilmes-v8.com)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/starckfilmes-v8.com)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/starckfilmes-v8.com/)
 
 ### 🔗 [YTS Brasil](https://ytsbr.com/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ytsbr.com)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ytsbr.com/)
 
 ### 🔗 [Catálogo BeTor](https://catalogo.betor.top/)
 
@@ -377,4 +376,4 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 ## Está buscando apps para assistir/baixar **Filmes e Séries** no Celular?
 
-➜ Confira nossa Megathread sobre 📱 [Mobile](mobile#📑-➜-filmes-e-tv)
+➜ Confira nossa Megathread sobre 📱 [Mobile](mobile.md#📑-➜-filmes-e-tv)

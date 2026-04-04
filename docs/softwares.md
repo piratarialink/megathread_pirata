@@ -95,7 +95,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 ### 🔗 [Haxmac](https://haxmac.cc/) • MacOS
 
 - Distribui aplicativos desbloqueados da Apple e da Adobe.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/haxmac.cc)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/haxmac.cc/)
 
 ### 🔗 [Macked](https://macked.app) • MacOS • Interface em chinês
 
@@ -163,8 +163,8 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 ### 🔗 [Install IDM](https://rentry.org/installidm)
 
 - Tutorial que ensina a ativar o Internet Download Manager.
-- Se não dar certo, [tente isso aqui](https://github.com/lstprjct/IDM-Activation-Script).
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/cracksurl.com/)
+- Se não der certo, [tente isso aqui](https://github.com/WindowsAddict/IDM-Activation-Script).
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rentry.org/)
 
 ## 🎨 Pacotes de recursos
 
@@ -239,7 +239,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 ### 🔗 [SerialShack](https://www.serialshack.com/) 
 
 - Um dos sites mais antigos de serials ainda online. Novos links de download são adicionados todos os dias junto com um arquivo .NFO ou Patcher de grupos da cena.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/www.serialshack.com/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/serialshack.com/)
   
 ### 🔗 [SmartSerials](https://smartserials.com/) 
 
@@ -274,12 +274,12 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 ### 🔗 [Team OS](https://www.teamos.xyz) • Necessário Cadastro
 
 - Rastreador privado para vários grupos de lançamento. Este site incrível oferece downloads diretos e de torrent para quase todos os softwares imagináveis.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/teamos.xyz)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/teamos.xyz/)
 
 ### 🔗 [NNMClub](https://nnmclub.to/forum/portal.php?c=19) • Interface em russo
 
 - Tracker semi-privado russo.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nnm-club.me/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/nnmclub.to/)
 
 ### 🔗 [Phoenix Project](https://phoenixproject.app/) • MacOS
 
@@ -296,4 +296,4 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ## Está buscando Aplicativos para Celular?
 
-➜ Confira nosso tópico sobre 📱 [Mobile](mobile)
+➜ Confira nosso tópico sobre 📱 [Mobile](mobile.md)

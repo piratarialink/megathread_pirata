@@ -19,7 +19,7 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 ### 🏴‍☠️ [DirtyWarez](https://forum.dirtywarez.com/)
 
 - Mídia digital, programas, chaves de ativação. Aberto para cadastros
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/dirtywarez.com/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.dirtywarez.com/)
 
 ### 🏴‍☠️ [HubWarez](https://hubwarez.tv/forum/register.php)
 
@@ -39,7 +39,7 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 ### 🏴‍☠️ [Tela de Cinema](https://teladecinema.forumeiros.com/) | TDC
 
 - Filmes e TV. Aberto para cadastros.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/teladecinema.furmeiros.com/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/teladecinema.forumeiros.com/)
 
 ### 🏴‍☠️ [TheToonZ](https://www.thetoonz.com/) | TTZ
 

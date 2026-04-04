@@ -57,7 +57,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🔗 [webЯcade](https://www.webrcade.com/)
 
 - Em uma ampla variedade de plataformas, os jogos são executados nativamente no navegador, sob o controle de feeds de jogos baseados em nuvem.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/webarcade.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/webrcade.com/)
 
 ## 👾 Multisistema
 
@@ -90,7 +90,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🔗 [DOSBox-X](https://dosbox-x.com/) • MS-DOS
 
 - Preservando os clássicos do DOS e suas variantes através da jogabilidade, adaptado para PCs e notebooks modernos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.dosbox.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/dosbox-x.com/)
   
 ### 🔗 [xemu](https://xemu.app/) • Xbox
 
@@ -152,7 +152,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🌟 [**Ryujinx**](https://git.ryujinx.app/ryubing/ryujinx) • Switch
 
 - Fork feito pelo GreemDev com base no emulador original de Switch escrito em C# que foi descontinuado.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ryujinx.app/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/git.ryujinx.app/)
 
 ### 🔗 [SameBoy](https://sameboy.github.io/) • Game Boy + Color + Super
 
@@ -166,22 +166,22 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [Snes9x](https://github.com/snes9xgit/snes9x) • Super Famicom
 
-- Compatível com Linux e atualizado todos os anos.
+- Emulador compatível com Linux, otimizado e atualizado todos os anos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🔗 [Sudachi](https://github.com/emuplace/sudachi.emuplace.app) • Switch
+### 🔗 [Eden](https://eden-emu.dev/noscript/index.html) • Switch
 
-- Uma boa alternativa para o Ryujinx.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+- Projeto derivado do finado Sudachi, capaz de emular jogos do primeiro Nintendo Switch no Windows, Linux e FreeBSD.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/eden-emu.dev/)
 
 ### 🔗 [VisualBoyAdvance-M](https://vba-m.com/) • Game Boy + Advance
 
-- Emulador renomado, rápido, leve e simples de começar imediatamente.
+- Emulador renomado, rápido, leve e simples focado em videogames portáteis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vba-m.com/)
 
 ### 🔗 [yuzu](https://krakenfiles.com/view/xFdCTjoGjv/file.html) / [2](https://buzzheavier.com/f/GMEScmhcQAA=) / [3](https://megaup.net/7w6tc/Yuzu_+_Source.rar) • Switch
 
-- **Não é mais desenvolvido.** Os jogos podem ser experimentados usando esse emulador de código aberto.
+- **Não é mais desenvolvido.** - os jogos podem ser experimentados usando esse emulador de código aberto.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/krakenfiles.com/)
 
 ## 🔵 Sega
@@ -205,7 +205,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [DuckStation](https://www.duckstation.org/) • PlayStation 1
 
-- Emulador de console com ênfase em jogabilidade, velocidade e acessibilidade de longo prazo.
+- Emulador de PS1 com ênfase em jogabilidade, velocidade e acessibilidade de longo prazo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/duckstation.org/)
 
 ### 🌟 [**ePSXe**](https://www.epsxe.com/) • PlayStation 1
@@ -251,11 +251,10 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - O melhor e mais seguro site para encontrar roms, dedicado a preservação de vários sistemas e centenas de jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
-### 🌟 [**Myrient**](https://myrient.erista.me/files/No-Intro/) / [2](https://myrient.erista.me/files/Redump/)
+### 🌟 [**MiNERVA Archive**](https://minerva-archive.org/browse/No-Intro/) / [2](https://minerva-archive.org/browse/Redump/)
 
-- Coleção de videogames estruturada e acessível de mais de 200 TB de tamanho.
-- [Checar status do backup sendo feito pelo r/savemyrient](https://minerva-archive.org/) / [Discord do Minerva Archive](https://discord.com/invite/m5M6uRbEGr)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/myrient.erista.me/)
+- Backup organizado pelo r/savemyrient da coleção de mais de 200 TB de tamanho do agora desativado Myrient. Crie uma conta gratuita no [torbox.app](https://www.torbox.app/) para acessar os torrents salvos em cached.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/minerva-archive.org/)
 
 ### 🌟 [**r/Roms Megathread**](https://r-roms.github.io/)
 
@@ -321,7 +320,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🌟 [**SMWC**](https://www.smwcentral.net/?p=main)
 
 - Espaço voltado à preservação de romhacks da franquia super mario.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.smwcentral.net/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/smwcentral.net/)
 
 ### 🔗 [Retro Roms "Best" Set](https://archive.org/details/retro-roms-best-set)
 
@@ -345,7 +344,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**Rom Hustler**](https://romhustler.org/)
 
-- Gama mais abrangente de ROMs excelentes disponíveis para download gratuito.
+- Gama bastante abrangente de ROMs excelentes disponíveis para download gratuito.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhustler.org/)
 
 ### 🔗 [Romspedia](https://www.romspedia.com/)
@@ -378,7 +377,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🌟 [Project Restoration](https://github.com/leoetlino/project-restoration)
 
 - Este patch para o Majora's Mask de 3DS resolve alguns dos problemas mais conhecidos dentro do jogo.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [Smash Remix](https://smash64.online/remix/)
 
@@ -441,7 +440,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/jogostraduzidos.com/)
 
 ### 🔗 [GGames](https://ggames.com.br/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gggames.com)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ggames.com.br/)
 
 ## ❤ Projetos de tradução
 
@@ -475,4 +474,4 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## Está buscando Jogos de Computador?
 
-➜ Confira nosso tópico sobre 🎮 [Jogos](jogos)
+➜ Confira nosso tópico sobre 🎮 [Jogos](jogos.md)

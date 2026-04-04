@@ -10,7 +10,7 @@
 
 ### Vou ter problemas se visitar um site pirata ou baixar um determinado arquivo?
 
-- Não no Brasil, mas é sempre bom tomar cuidado, pois os provedores de internet são obrigados a guardar os logs de acesso dos clientes por 1 ano por determinação da Anatel. Portanto, se você for investigado algum dia, seu provedor será obrigado a compartilhar esses logs e não te informará sobre isso.
+- Não no Brasil, mas é sempre bom tomar cuidado, pois os provedores de internet são obrigados a guardar os logs de acesso dos clientes por 1 ano por determinação da Anatel conforme o [Marco Civil da Internet, Lei 12.965/2014, art. 13](https://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2014/Lei/L12965.htm). Portanto, se você for investigado algum dia, seu provedor será obrigado a compartilhar esses logs e não te informará sobre isso.
 
 ### Onde é que eu posso encontrar material pirata?
 
@@ -21,7 +21,7 @@
 ### Como eu posso acessar sites que minha operadora bloqueou?
 
 - O Sistema de Nomes de Domínio (DNS) é um serviço essencial para a navegação na internet. Ele funciona como um "catálogo telefônico" da web, traduzindo nomes de domínio (como exemplo.com) em endereços IP que os computadores usam para se conectar aos servidores. Sem o DNS, teríamos que memorizar longas sequências de números para acessar sites.
-- Por padrão, seu provedor de internet (ISP) atribui um DNS próprio, que muitas vezes é lento e sujeito a restrições, bloqueando o acesso a determinados sites. Para melhorar a velocidade da sua navegação e evitar censura, é recomendável alterar seu DNS. Você pode fazer isso seguindo este guia: [Como trocar o DNS no Windows e Android.](/guias/dns)
+- Por padrão, seu provedor de internet (ISP) atribui um DNS próprio, que muitas vezes é lento e sujeito a restrições, bloqueando o acesso a determinados sites. Para melhorar a velocidade da sua navegação e evitar censura, é recomendável alterar seu DNS. Você pode fazer isso seguindo este guia: [Como trocar o DNS no Windows e Android.](/guias/dns.md)
 
 ### Como eu posso evitar malware indesejado?
 

@@ -206,7 +206,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## Está buscando Livros?
 
-➜ Confira nossa Megathread sobre 📚 [Livros](livros)
+➜ Confira nossa Megathread sobre 📚 [Livros](livros.md)
 
 ➜ Mais sobre **Conteúdo Educacional e Cursos** nos links gringos a seguir:
 

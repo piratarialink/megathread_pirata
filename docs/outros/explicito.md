@@ -9,6 +9,8 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 [Sukebei](https://sukebei.nyaa.si) - Clone +18 do Nyaa.
 
+[zi0.cc](https://zi0.cc/) - Diretório de jogos H - use o [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)
+
 [CPG repacks](https://cpgrepacks.site)
 
 [PriivaC Downloader](https://t.me/tgDownPrivacyBot) - Baixador de mídias de assinaturas do Privacy.

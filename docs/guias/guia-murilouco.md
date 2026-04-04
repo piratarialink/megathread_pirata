@@ -10,7 +10,7 @@ A primeira forma de contornar este problema é encher seu site de anúncios até
 
 Eu diria que o principal site dessa natureza hoje é o ilustre RedeCanais, pela sua vasta gama de conteúdo e até hoje estar de pé. De fato, essa é a principal forma que eu uso até hoje para ver desenhos animados como bob esponja, que eu não quero ter o compromisso de precisar baixar o negócio para assistir antes.
 
-> Sites podem ser encontrados no [🎦 ➜ Filmes e TV](../filmes-tv)
+> Sites podem ser encontrados no [🎦 ➜ Filmes e TV](../filmes-tv.md)
 
 Não preciso nem dizer que você provavelmente vai precisar de um boqueador de anúncios como o uBlock Origin para ver qualquer coisa lá.
 

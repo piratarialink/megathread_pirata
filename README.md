@@ -17,7 +17,7 @@ Nossa comunidade é bem-vinda para contribuir na manutenção e atualização da
 
 1. Faça um [fork](https://github.com/piratarialink/megathread_pirata/fork) deste repositório para o seu perfil GitHub.
 2. Crie uma nova branch para suas alterações.
-3. Faça as edições necessárias nos arquivos Markdown, situado na pasta docs/pages.
+3. Faça as edições necessárias nos arquivos Markdown, situado na pasta docs/.
 4. Envie um pull request para este repositório principal.
 5. Explique quais mudanças e adições você fez e por qual motivo aquela mudança ou adição seria interessante.
 6. De preferência que seja um site nacional, mas se for um site gringo está de bom grado.
