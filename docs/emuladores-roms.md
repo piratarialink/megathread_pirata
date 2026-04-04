@@ -243,7 +243,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**Internet Archive**](https://archive.org/details/emulation)
 
-- Milhares de rom-sets e dumps de CD-ROMs em formato de ISO.
+- Acervo aberto e sem fins lucrativos com milhares de rom-sets e dumps de CD-ROMs em formato de ISO.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
 ### 🌟 [**Vimm's Lair**](https://vimm.net/)
@@ -253,17 +253,18 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**MiNERVA Archive**](https://minerva-archive.org/browse/No-Intro/) / [2](https://minerva-archive.org/browse/Redump/)
 
-- Backup organizado pelo r/savemyrient da coleção de mais de 200 TB de tamanho do agora desativado Myrient. Crie uma conta gratuita no [torbox.app](https://www.torbox.app/) para acessar os torrents salvos em cached.
+- Backup organizado pelo r/savemyrient da coleção de mais de 200 TB de tamanho do agora desativado Myrient.
+- Crie uma conta gratuita no [torbox.app](https://www.torbox.app/) para acessar os torrents salvos em cached.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/minerva-archive.org/)
 
 ### 🌟 [**r/Roms Megathread**](https://r-roms.github.io/)
 
-- Dump fantástico de ROMs de diversos consoles, links para alguns jogos populares do Myrient estão disponíveis aqui.
+- Dump fantástico de ROMs de diversos consoles, links para jogos populares que estão disponíveis no archive.org podem ser encontrados aqui.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/r-roms.github.io/)
 
 ### 🔗 [PSX Downloads](https://psxdownloads.us/) - Necessário Registrar-se
 
-- Oferece alguns jogos traduzidos e dublados (Fan-dubs) em PT-BR para PS1, PS2 e PS3.
+- Oferece alguns jogos traduzidos e dublados (Fan-dubs) em português brasileiro para PS1, PS2 e PS3.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/psxdownloads.us/)
 
 ### 🔗 [WinWorld](https://winworldpc.com/library/games)
