@@ -47,20 +47,20 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Inspeciona items e executáveis em cerca de setenta programas antivírus diferentes, em um ambiente completamente virtualizado e seguro.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/virustotal.com/)
 
-### 🔗 [Torrentfreak](https://torrentfreak.com/)
+### 🔗 [Files.dog](https://files.dog/)
 
-- Portal focado em trazer as últimas notícias sobre direitos autorais, privacidade e tudo relacionado a compartilhamento de arquivos.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentfreak.com/)
+- Repositório aberto e sem fins lucrativos inspirado no antigo the-eye.eu, contém uma miríade de ISOs e roms retiradas de toda a internet.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/files.dog/)
 
 ### 🔗 [4get](https://4get.ca/instances)
 
 - Não esconde resultados de navegação por DRM com o Yandex selecionado, use outra instância além da oficial para não lidar com captcha constante.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/4get.ca/)
 
-### 🔗 [Files.dog](https://files.dog/)
+### 🔗 [Torrentfreak](https://torrentfreak.com/)
 
-- Repositório aberto e sem fins lucrativos inspirado no antigo the-eye.eu, contém uma miríade de ISOs e roms retiradas de toda a internet.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/files.dog/)
+- Portal focado em trazer as últimas notícias sobre direitos autorais, privacidade e tudo relacionado a compartilhamento de arquivos.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/torrentfreak.com/)
 
 ### 🔗 [Lumpysoft](https://lumpysoft.com/)
 
