@@ -47,7 +47,7 @@ Se navegar por essa url ela vai retornar um arquivo com extensão .acsm, bem pro
 
 Após ter baixado o arquivo com extensão .acsm vamos convertê-lo para PDF ou EPUB!
 
-Acesse o site [acsmconverter](https://www.acsmconverter.com/)e faça a conversão, clique em _select files_, após clique em converter e por fim faça o download.
+Acesse o site [acsmconverter](https://www.acsmconverter.com/) e faça a conversão, clique em _select files_, após clique em converter e por fim faça o download.
 
 > Lembrando que você pode conseguir converter para outros tipos de arquivo, mas os que testei e deu certo foi PDF e EPUB.
 
