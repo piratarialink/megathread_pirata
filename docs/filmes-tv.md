@@ -176,9 +176,9 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Desbrave mares digitais repletos de tesouros como novos filmes e webséries.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/heartive.pages.dev/)
 
-### ▶️ [PressPlay](https://www.pressplay.top/)
+### ▶️ [PressPlayz](https://www.pressplay.top/)
 
-- Vasta miríade de filmes e episódios na mais altíssima qualidade visual e sonora.
+- Vasto compêndio de filmes e episódios na mais altíssima qualidade visual e sonora.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pressplay.top/)
 
 ### ▶️ [Rive](https://rivestream.xyz/) 
