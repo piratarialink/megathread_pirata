@@ -205,7 +205,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [DuckStation](https://www.duckstation.org/) • PlayStation 1
 
-- Emulador de console com ênfase em jogabilidade, velocidade e acessibilidade de longo prazo.
+- Emulador de PS1 com ênfase em jogabilidade, velocidade e acessibilidade de longo prazo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/duckstation.org/)
 
 ### 🌟 [**ePSXe**](https://www.epsxe.com/) • PlayStation 1
@@ -251,11 +251,10 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - O melhor e mais seguro site para encontrar roms, dedicado a preservação de vários sistemas e centenas de jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
-### 🌟 [**Myrient**](https://myrient.erista.me/files/No-Intro/) / [2](https://myrient.erista.me/files/Redump/)
+### 🌟 [**MiNERVA Archive**](https://minerva-archive.org/browse/No-Intro/) / [2](https://minerva-archive.org/browse/Redump/)
 
-- Coleção de videogames estruturada e acessível de mais de 200 TB de tamanho.
-- [Checar status do backup sendo feito pelo r/savemyrient](https://minerva-archive.org/) / [Discord do Minerva Archive](https://discord.com/invite/m5M6uRbEGr)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/myrient.erista.me/)
+- Backup organizado pelo r/savemyrient da coleção de mais de 200 TB de tamanho do agora desativado Myrient.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/minerva-archive.org/)
 
 ### 🌟 [**r/Roms Megathread**](https://r-roms.github.io/)
 
@@ -345,7 +344,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**Rom Hustler**](https://romhustler.org/)
 
-- Gama mais abrangente de ROMs excelentes disponíveis para download gratuito.
+- Gama bastante abrangente de ROMs excelentes disponíveis para download gratuito.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhustler.org/)
 
 ### 🔗 [Romspedia](https://www.romspedia.com/)
