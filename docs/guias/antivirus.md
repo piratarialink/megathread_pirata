@@ -33,6 +33,8 @@ Com o lançamento do Windows 10, surgiu o Windows Defender, um antivírus para o
 
 _Algumas funções importantes estão escondidas em sub-menus e só podem ser acessadas com a GUI alternativa do [ConfigureDefender.](https://github.com/AndyFul/ConfigureDefender)_
 
+![defender](./images/defender.png)
+
 ## Panda e Kaspersky
 
 O Kaspersky (russo) ganhou uma reputação no mercado e mudou os servidores para a Suécia.
