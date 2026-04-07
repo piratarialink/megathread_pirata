@@ -59,7 +59,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a compatibilidade dos programas entre as distribuições através de flatpaks - pode substituir os pacotes snaps da Canonical.
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade enorme de ISOs personalizadas compartilhadas todos os dias.
 - [LinOffice](https://github.com/eylenburg/linoffice) - Office 365 LTSB/LTSC/CE em uma VM conteinerizada com o podman-compose - feito com base no [WinApps](https://github.com/winapps-org/winapps), QEMU e Docker; permite a ativação pelo massgrave - [Guia](https://gist.github.com/eylenburg/38e5da371b7fedc0662198efc66be57b#option-1-running-office-2024-or-365-with-linoffice) / [Patch do office 2013](https://gist.github.com/shrestha-bishal/dae0d674ef81197bc8cc39153b7ebbb3) e do [wine com autodesk fusion](https://codeberg.org/cryinkfly/Autodesk-Fusion-360-on-Linux)
-- 🌟 [**Heroic Games Launcher**](https://heroicgameslauncher.com/) - Adiciona uma camada extra de compatibilidade com o framework .NET e demais bibliotecas da Microsoft através de recursos como o Proton GE, e WineTricks para games/programas não-nativos e crackeados.
+- 🌟 [**Heroic Games Launcher**](https://heroicgameslauncher.com/) - Adiciona uma camada extra de compatibilidade com o framework .NET e demais bibliotecas da Microsoft através de recursos como o Proton GE e ProtonTricks para games/programas não-nativos e crackeados.
 - [Hyprland](https://hypr.land/) - O Hyprland é um compositor de janelas derivado do wayland destinado a usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
 - [KDE Plasma](https://kde.org/plasma-desktop) - DE e gerenciador de janelas com um workflow sem bugs e extremamente conveniente para FreeBSD, OpenBSD e Fedora.
 - 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
@@ -203,7 +203,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 :::info Nota: 
 
-**uTorrent [empacotou um minerador de bitcoin opcional e malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880), numa tentativa de praticar _cryptojacking_. A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.**
+**uTorrent [empacotou um minerador de bitcoin opcional e malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880), numa tentativa de praticar _cryptojacking_. A interface do usuário inclui anúncios, no entanto, esses [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.**
 :::
 
 :::warning Cliente torrent Bitlord [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
