@@ -621,7 +621,7 @@ Agora, algumas configurações adicionais ao Plex. Clique na **Chave de Fenda** 
 
 - **Coleções - Hide Collections but show their items**
 
-## Adição (forçar português) @jaum20
+## Adição: forçar português por @jaum20
 
 ![](./images/sonarr-radarr-plex-21.png)
 
