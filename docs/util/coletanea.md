@@ -38,6 +38,8 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [BurntSushi](https://github.com/OpenByteDev/burnt-sushi) - Adblocker para o cliente do Spotify no Windows.
 
+- [Hardentools](https://github.com/hardentools/hardentools) - Para desativar funções que expõem o seu sistema a graves riscos de segurança. (VBA do Microsoft Office, File Name Extensions e por aí vai)
+
 ### Coisa realmente boa
 
 - [spot-dl](https://github.com/spotDL/spotify-downloader) - Baixe suas playlists e músicas do Spotify com a arte do álbum e metadados (do YouTube se encontrar uma correspondência).
