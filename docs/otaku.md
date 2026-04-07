@@ -27,7 +27,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌟 [RedeCanais](https://redecanais.sh/browse-animes-videos-1-date.html)
 
-- Incrível coleção de animes em excelente qualidade e dublados em PT-BR oferecidos para download direto através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
+- Incrível coleção shonen/seinen em excelente qualidade e dublados em PT-BR oferecidos para download direto através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
 - Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/redecanais.gl/)
 
@@ -181,7 +181,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/tracker.uniotaku.com/)  ‎
 #### 🔗 [Erai-Raws](https://www.erai-raws.info/)
 
-- ScanSubs para quase todas as línguas, fonte para diversos sites de anime.
+- ScanSubs para quase todas as línguas, fonte para diversos sites focados em seinen.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/erai-raws.info/)‎
 ‎
 ### 📰 ➜ Legendas
