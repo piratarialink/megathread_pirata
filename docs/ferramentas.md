@@ -528,5 +528,5 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 - [SlideSaver](https://slidesaver.app/) - Downloader de Slideshare.
 - [Clonezilla](https://clonezilla.org/) - Cria pontos de restauração de imagens ISO e os salva em um pendrive.
 - [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries.
-- [Rewind](https://github.com/Neo23x0/Rewind) - Medidas imediatas contra infecção por vírus.
+- [NoiseCloud](https://github.com/unlucas-br/noisecloud) - Permite esconder arquivos de qualquer formato dentro de vídeos comuns no YouTube.
 - [Vdownloaders](https://scribd.vdownloaders.com/) - Visualize e baixe documentos do Scribd sem logar ou ter conta premium.
