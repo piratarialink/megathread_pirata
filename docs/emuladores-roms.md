@@ -276,6 +276,11 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - 180 jogos fantásticos. Basta baixar e extrair o arquivo zip de 19 MB.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
+
+### 🔗 [Portal Digerati](https://digerati.vinizinho.net/)
+
+- Site criado para registrar e indexar a preservação feita no Internet Archive de mídias publicadas pela Digerati Editorial.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/digerati.vizinho.net/)
   
 ### 🔗 [CDRomance](https://cdromance.com/)
 
@@ -299,7 +304,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [Emu Games](https://www.emugames.net/)
 
-- Uma extensa jogoteca para vários sistemas diferentes.
+- Uma extensa jogoteca para vários sistemas e games diferentes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/emugames.net/)
 
 ### 🌟 [**Not UltraNX**](https://not.ultranx.ru/en)
@@ -320,17 +325,17 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**SMWC**](https://www.smwcentral.net/?p=main)
 
-- Espaço voltado à preservação de romhacks da franquia super mario.
+- Espaço voltado à preservação de romhacks da franquia Super Mario.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/smwcentral.net/)
 
 ### 🔗 [Retro Roms "Best" Set](https://archive.org/details/retro-roms-best-set)
 
-- Oferece a lista dos melhores jogos mais amplamente aceita.
+- Oferece a lista dos melhores jogos mais amplamente aceita pelo público.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
 ### 🔗 [Retrostic](https://www.retrostic.com/)
 
-- Pretende fornecer todos os arquivos ROM ou ISO concebíveis para um jogo antigo arquivado.
+- Projeto que busca arquivar todas as ROMs e ISOs imagináveis em um único só lugar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/retrostic.com/)
 
 ### 🌟 [**RHDN**](https://romhacking.net)
@@ -350,7 +355,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [Romspedia](https://www.romspedia.com/)
 
-- Enciclopédia para ROMs e ISOs, onde você pode baixar vários jogos.
+- Enciclopédia para ROMs e ISOs, lugar onde você pode baixar vários jogos também.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romspedia.com/)
 
 ### 🔗 [ROMSFUN](https://romsfun.com/)
