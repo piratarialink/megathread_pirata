@@ -1,6 +1,6 @@
 # Jellyfin e familia Arr - Docker Compose
 
-Guia quase completo do servidor caseiro para assistir filmes e séries com o Docker, estaremos utilizando o Jellyfin. Eu estarei utilizando o OS Ubuntu Server, eu tentarei ser o mais amigável possível, mas se uma parte você não entendeu, pergunte nas respostas. Nas configurações de cada aplicativo, recomendo usar as configurações da megathread, já que aqui irei só ensinar a usar o Docker. Neste guia nós vamos utilizar:
+Guia quase completo do servidor caseiro para assistir filmes e séries com o Docker, estaremos utilizando o Jellyfin. Eu estarei utilizando o Ubuntu Server, eu tentarei ser o mais amigável possível. Nas configurações de cada aplicativo, recomendo usar as configurações da megathread, já que aqui irei só ensinar a usar o Docker. Neste guia nós vamos utilizar:
 
 - Docker: Uma ferramenta que nos permite colocar as aplicações em containers, e isso nos permite distribuir um único arquivo ou comando que poderá ser rodado em qualquer sistema. (Neste guia vamos usar o Docker Compose)
 - Prowlarr: Um aplicativo que rodará em seu navegador que nos permite buscar torrents em diversos sites.
