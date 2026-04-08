@@ -279,7 +279,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [Portal Digerati](https://digerati.vinizinho.net/)
 
-- Site criado para registrar e indexar a preservação feita no Internet Archive de mídias publicadas pela Digerati Editorial.
+- Site criado para catalogar mídias da Digerati Editorial que estão no Internet Archive.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/digerati.vizinho.net/)
   
 ### 🔗 [CDRomance](https://cdromance.com/)
