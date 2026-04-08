@@ -483,6 +483,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 - [Rclone](https://github.com/rclone/rclone) - Responsável por transferir seus saves de jogos crackeados para a nuvem. Funciona como CLI apenas.
 - [GameMode](https://github.com/FeralInteractive/gamemode) - Abre uma brecha no Linux para que jogos recebam otimizações sem exigir tanto poder de processamento da CPU/GPU - Tópico original do [mastercomfig.](https://docs.comfig.app/latest/os/linux/#gamemode)
+- [CreamInstaller](https://cs.rin.ru/forum/viewtopic.php?f=20&t=154539) - Gera e instala desbloqueadores de DLC para jogos da Steam, Ubisoft e da Epic. [Subreddit](https://www.reddit.com/r/Creaminstaller/)
 - [Linux Crack Tips](https://www.reddit.com/r/LinuxCrackSupport/) - Subreddit para se obter suporte técnico de jogos crackeados no sistema do pinguim.
 - [ProtonDB](https://www.protondb.com/) - Database de jogos que rodam e não rodam em distros Linux. [Leitura interessante](https://plus.diolinux.com.br/t/execute-jogos-windows-no-linux-com-o-proton-da-steam/38745)
 - [Better xCloud](https://github.com/redphx/better-xcloud) - Userscript para melhorar a jogatina do Xbox Cloud (Xbox Game Pass) e da Remote Play em navegadores.
@@ -495,8 +496,8 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [Goldberg Emulator](https://github.com/Detanup01/gbe_fork) - Emulador da Steam. Crackeie seu próprio jogo Steam ou os arquivos Steam limpos compartilhados no subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) do cs.rin.ru.
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Emulador da Steam. 
 - [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Outro emulador da Steam.
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Desbloqueie todas as DLCs em jogos Steam legítimos. [Guia](https://www.reddit.com/r/pirataria/comments/1i4g3rc/comment/m7uug93/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button)
-- [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) - Instala e configura automaticamente o CreamAPI para jogos Steam.
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Desbloqueia todas as DLCs em jogos Steam legítimos. [Guia](https://www.reddit.com/r/pirataria/comments/1i4g3rc/comment/m7uug93/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button)
+- [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) - Instala e configura automaticamente o CreamAPI para jogos da Steam.
 - [SteamEmuUtility](https://github.com/turusudiro/SteamEmuUtility) - Extensão do launcher Playnite para rodar o GreenLuma/SmartSteamEmu.
 - [Steamless](https://github.com/atom0s/Steamless) - Remove o SteamStub DRM dos executáveis ​​do jogo Steam se eles o contiverem. Para ser usado em conjunto com um emulador Steam se o emulador sozinho não for suficiente para quebrar a proteção do jogo.
 
