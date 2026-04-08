@@ -157,6 +157,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🌟 [Dark Mahou](https://darkmahou.org/)
 
 - Site brasileiro de anime com arquivos torrent para baixar de graça.
+- Recomendamos o uso de adblock devido a quantidade imensa de anúncios maliciosos.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/darkmahou.org/)
 
 #### 🌟 [Nyaa.si](https://nyaa.si/) / [Nyaa.land](https://nyaa.land/)
