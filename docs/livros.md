@@ -44,7 +44,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [Datassette](https://datassette.org/)
 
-- Livros, Manuais e Revistas antigas sobre informática, videogames e diversos.
+- Livros, manuais e revistas antigas sobre informática, entretenimento, videogames e assuntos diversos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/datassette.org/)
 
 ### 🔗 [OceanofPDF](https://oceanofpdf.com/category/languages/portuguese-language-books/?id=000192234242)
