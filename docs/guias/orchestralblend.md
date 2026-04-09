@@ -40,7 +40,7 @@
 
 ## Android
 
-- Revanced stuff
+- Revanced
 - gptAssist
 - HeliBoard
 - Librera FD
