@@ -7,7 +7,7 @@
 
 ## 2. Iniciando uma instância "Always-Free"
 
-## 3. Se conectando na VM pelo Ubuntu
+## 3. Se conectando na VM pelo Linux
 
 ## 4. Se conectando na VM pelo Windows
 
