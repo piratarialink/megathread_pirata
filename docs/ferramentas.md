@@ -526,7 +526,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 - [TarnKappe](https://tarnkappe.info/forum/) - Fórum alemão de pirataria - use um tradutor.
 - [FeedFlow](https://www.feedflow.dev/) - Gerenciador RSS de código aberto para Android e Desktop, acompanhe os seus sites e canais do YouTube favoritos sem a necessidade de se ter uma conta.
 - [SlideSaver](https://slidesaver.app/) - Downloader de Slideshare.
-- [Clonezilla](https://clonezilla.org/) - Cria pontos de restauração de imagens ISO e os salva em um pendrive.
+- [Clonezilla](https://clonezilla.org/) - Cria pontos de restauração de imagens ISO e salve-os em um pendrive.
 - [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries.
-- [NoiseCloud](https://github.com/unlucas-br/noisecloud) - Permite esconder arquivos de qualquer formato dentro de vídeos comuns no YouTube.
+- [NoiseCloud](https://github.com/unlucas-br/noisecloud) - Use o YouTube como se fosse um drive infinito, esconda arquivos de qualquer formato dentro dos vídeos.
 - [Vdownloaders](https://scribd.vdownloaders.com/) - Visualize e baixe documentos do Scribd sem logar ou ter conta premium.
