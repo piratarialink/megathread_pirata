@@ -1,4 +1,4 @@
-# 📑 ➜ Criando uma VPS gratuita com 24GB de RAM na Oracle CI
+# 📑 ➜ Criando uma VPS gratuita com 24gb de RAM na Oracle CI
 
 ::info Essa página é ainda um esboço.
 :::
