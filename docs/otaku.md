@@ -178,7 +178,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🔗 [UniOtaku](https://tracker.uniotaku.com/)
 
-- Tracker semi-privado brasileiro (necessita cadastro, mas qualquer um pode fazer a qualquer momento) de animes legendados por fansubs, ativo desde 2014.
+- Tracker privado brasileiro de animes legendados por fansubs, ativo desde 2014.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/tracker.uniotaku.com/)  ‎
 #### 🔗 [Erai-Raws](https://www.erai-raws.info/)
 
