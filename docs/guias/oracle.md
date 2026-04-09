@@ -15,4 +15,4 @@
 
 ## 6. Configurando o painel Coolify 
 
-# Créditos
+### Créditos
