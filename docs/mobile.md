@@ -25,7 +25,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Gerenciador de pacotes do Android, oferece uma gama de recursos para usuários com ou sem root por meio do wireless debugging. Pode gerir permissões de apps, bloquear anúncios direto do componente-fonte e validar checksums.
 
-### 🔗 [AntiSplit-M](https://github.com/FlutterGenerator/AntiSplit-M) 
+### 🔗 [AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) 
 
 - Transforma .APK**S**/.APKMs/.XAPKs em pacotes .APK, alternativa excelente para aquelas lojas proprietárias que os sites de apps modificados te obrigam a baixar.
 
