@@ -157,7 +157,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🔗 [HakuNeko](https://hakuneko.download/)
 
-- O downloader de mangá e anime multiplataforma permite que você salve material para uso offline de uma variedade de sites.
+- Downloader de mangá e anime multiplataforma, permite que você salve material para uso offline de uma variedade de sites.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hakuneko.download/)
 
 ### 🔗 [Calibre](https://github.com/kovidgoyal/calibre) (Multiplataforma)
