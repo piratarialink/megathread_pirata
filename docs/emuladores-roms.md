@@ -169,7 +169,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Emulador compatível com Linux, otimizado e atualizado todos os anos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🔗 [Eden](https://eden-emu.dev/noscript/index.html) • Switch
+### 🌟 [**Eden**](https://eden-emu.dev/noscript/index.html) • Switch
 
 - Projeto derivado do finado Sudachi, capaz de emular jogos do primeiro Nintendo Switch no Windows, Linux e FreeBSD.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/eden-emu.dev/)
