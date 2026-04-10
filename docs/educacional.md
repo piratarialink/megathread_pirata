@@ -77,7 +77,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 📥 Download direto
 
-### 🌟 **[Cursos do Polemic Knowledge](https://linktr.ee/bepolemic)** - Acesse o Polemic ZIP, filmes e docs no linktree.
+### 🌟 **[Cursos do Polemic Knowledge](https://linktr.ee/bepolemic)** 
+
+- Acesse o grupo do Polemic ZIP, filmes e docs pelo linktree.
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/linktr.ee/)
 
 ### 🔗 [Online Courses](https://online-courses.club/)
