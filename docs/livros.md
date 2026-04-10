@@ -194,7 +194,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🌟 [LibriVox](https://librivox.org/)
 
-- Liberação acústica de obras de domínio público, permitindo download e audição.
+- Audiolivros de obras de domínio público, feitos com o apoio de voluntários de todo o mundo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/librivox.org/)
 
 ### 🌟 [VisionVox](https://visionvox.com.br/)
