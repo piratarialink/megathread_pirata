@@ -503,7 +503,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 
 #### ► Ferramentas para a Epic Games
 
-- [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Desbloqueador de DLC para o Epic Online Services. Funciona apenas para jogos que você possui. Recursos como multijogador, conquistas, etc. permanecem totalmente funcionais.
+- [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Desbloqueador de DLC para o Epic Online Services. Funciona apenas para jogos que você possui. Recursos como partidas multiplayer e conquistas permanecem totalmente funcionais.
 - [Free-games-claimer](https://github.com/vogler/free-games-claimer) - Automaticamente reinvidica jogos gratuitos da Epic Store.
 
 #### ► Emuladores
