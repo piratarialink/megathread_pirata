@@ -89,7 +89,7 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 
 ### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
 
-- Tracker semi-privado (necessita cadastro, mas qualquer um pode fazer a qualquer momento) de animes legendados por fansubs, ativo desde 2014.
+- Tracker privado brasileiro de animes legendados por fansubs, ativo desde 2014.
 - Sem H&R, exige apenas ratio global > 0.3.
 
 ---
