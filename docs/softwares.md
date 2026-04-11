@@ -258,7 +258,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 ### 🌟 [M0nkrus](https://w18.monkrus.ws/) / [2](https://vk.com/monkrus) / [3](https://monkrus.dvuzu.com/) / [📣](https://t.me/real_monkrus/) • Interface em russo
 
 - Repacker para diferentes aplicativos **pré-instalados**; altamente classificado, confiável e mais conhecido por seus repacks relacionados a Creative Cloud e Autodesk Fusion.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/vk.com/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/w18.monkrus.ws/)
 
 ### 🌟 [Rutracker](https://rutracker.net/) / [2](https://rutracker.org/)
 
