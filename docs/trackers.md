@@ -13,13 +13,6 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 :::danger 💣 Brsociety-pro é golpe! [Saiba mais.](https://t.me/CopyrightBR/1935)
 :::
 
-### 🧲 [Anime No Sekai](https://ansktracker.net/) | ANSK
-
-- Tracker de lançamentos internos da fansub ANSK
-- **Freeleech disponível em todo o site devido ao encerramento das atividades.**
-- Oferece um bot XDCC público para download de packs via IRC.
-- Sem suporte a automação.
-
 ### 🧲 [Amigos Share Club](https://cliente.amigos-share.club/) | ASC
 
 - Conteúdo geral/UNIT3D.
