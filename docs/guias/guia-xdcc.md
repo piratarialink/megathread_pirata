@@ -26,7 +26,7 @@ Mas como saber qual comando usar para receber um episódio específico de um ani
 Exemplos de packlists são:
 
 - Animes/Português:
-  - **AnimeNSK**: [https://packs.ansktracker.net/](https://packs.ansktracker.net/)
+  - **AnimeNSK**: [https://packs.ansktracker.net/](https://packs.ansktracker.net/) • RIP
   - **Eternal Animes**: [https://packs.eternalanimes.org/](https://packs.eternalanimes.org/)
   - **Lolicons Anônimos/Avalon Fansub**: [https://packs.cgnat.net/](https://packs.cgnat.net/)
 - Animes/Inglês:
@@ -41,7 +41,7 @@ Muitas vezes, na própria packlist, já é fornecida a informação do servidor 
 
 ## Na prática
 
-Para um exemplo prático, faremos o download do 1º episódio do anime _New Game!_ no tracker brasileiro _Anime no Sekai_, que possui uma packlist e bot xdcc em funcionamento, utilizando o client HexChat.
+Para um exemplo prático, faremos o download do 1º episódio do anime _New Game!_ no tracker brasileiro _Anime no Sekai_ (RIP), que possui uma packlist e bot xdcc em funcionamento, utilizando o client HexChat.
 
 1. Primeiramente, visitamos a tracklist na internet:
 
