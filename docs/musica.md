@@ -79,6 +79,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Uma coleção impressionante e confiável de temas de OPs e EDs de anime com links diretos para conteúdo para download de alta qualidade.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/animethemes.moe/)
 
+### 🔗 [iTD Music](https://ww2.itdmusicy.com)
+
+- O melhor site para encontrar arquivos em M4A do iTunes Plus e para download de clipes musicais do Apple Music/Tidal.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/ww2.itdmusicy.com/)
+
 ### 🔗 [Folksoundomy: Game Soundtracks](https://archive.org/details/folksoundomy_gamesoundtracks)
 
 - Uma seleção de músicas de videogame e algumas trilhas sonoras de anime criada por voluntários para ser o mais acessível possível.
