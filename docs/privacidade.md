@@ -158,17 +158,18 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 :::warning O Pi-hole é somente para usúarios avançados
 :::
 
-## Provedores de E-mail
+## Clientes de E-mail
 
 :::tip Se a sua intenção for usar e-mail para atividades na web que exigem mais sigilo, talvez não valha a pena usar provedores da clearnet. Neste contexto, comunique-se por meio de [**OpenPGP**](https://www.openpgp.org/software/) + serviços de e-mail hospedados na rede Tor como [Mail2Tor](http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/) (o melhor), [TorBox](http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/) (um dos melhores), [Cock.li](http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/) (o mais estável) e [Deep Mail](http://deepmailv2xihwk7ie5q3nlmyflvjlqhvlzt3wih43eo44sfvfingeqd.onion/) (nacional e amigável com postfix)
 ‎ 
 
-**Você também pode hospedar seu próprio MTA dentro do [Mailcow](https://github.com/mailcow/mailcow-dockerized) ou [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox) integrado com o Tor, embora isso não seja muito indicado por ser algo extremamente complexo e custoso**
+**Você também pode hospedar seu próprio MTA dentro do [Mailcow](https://github.com/mailcow/mailcow-dockerized) ou [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox), embora isso não seja muito indicado por ser algo extremamente complexo e custoso**
 :::
 
-### [Mailbox.org](https://mailbox.org/)
+### [Thunderbird](https://www.thunderbird.net/pt-BR/)
 
-Mailbox.org é um serviço de e-mail baseado na Alemanha que oferece recursos avançados de privacidade e segurança. Ele funciona em servidores IMAP, SMTP e fornece aos usuários endereços de email personalizáveis, armazenamento de e-mail criptografado, filtro de spam eficiente e uma interface de usuário amigável. Ademais, o Mailbox.org oferece recursos como calendário, contatos, armazenamento de arquivos e ferramentas de colaboração, tornando-se uma solução abrangente para comunicação e produtividade. Possui um período de testes gratuito de 30 dias onde as mensagens podem ser encaminhadas apenas para outras contas da mailbox.org. 
+O Thunderbird pode tornar a comunicação segura mais viável através do suporte integrado para o proxy SOCKS5, DNS over HTTPS, envio criptografado de mensagens, e filtro de spam eficiente. Além disso, atende aos principais provedores e servidores de correio eletrônico do mercado, seja através do IMAP ou POP3. Disponibiliza recursos avançados de privacidade e segurança como suporte para chat via os protocolos XMPP/IRC e também se destaca dos demais clientes de e-mail feitos para rodar em navegadores e aplicativos, por impedir a execução remota de scripts e imagens por padrão, o que resulta em um ambiente isolado e capaz de barrar o compartilhamento de malware em redes domésticas ou compartilhadas. Base para outros projetos sem ligação com a Mozilla como o [Betterbird](https://www.betterbird.eu/) e o [K-9 Mail](https://k9mail.app/) no Android.
+
 
 ## Sistema Operacional Android
 
