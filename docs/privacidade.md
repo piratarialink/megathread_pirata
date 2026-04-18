@@ -104,35 +104,84 @@ O Bitwarden é um gerenciador de senhas de código aberto e plataforma de segura
 
 O KeePassXC é um gerenciador de senhas de código aberto e local, projetado para armazenar e gerar senhas seguras de forma criptografada. Ele oferece recursos como a organização de senhas em um banco de dados protegido por senha mestra, autenticação de dois fatores e a capacidade de sincronização de banco de dados entre dispositivos. O KeePassXC é altamente personalizável e suporta uma variedade de recursos adicionais, como anexos de arquivos e campos personalizados.
 
-## VPN
+## :lock: VPN
 
-Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que cria uma conexão segura e criptografada entre o dispositivo do usuário e um servidor remoto. Essa conexão permite que o usuário navegue na internet de forma segura, protegendo sua privacidade e anonimato online. As VPNs são utilizadas para ocultar o endereço IP do usuário, contornar restrições geográficas, proteger dados sensíveis contra hackers em redes públicas, e acessar conteúdos bloqueados por governos ou empresas. Elas funcionam criptografando o tráfego de dados, tornando-o ilegível para qualquer pessoa que tente interceptá-lo. As VPNs também podem ser usadas para acesso remoto a redes corporativas de forma segura. No entanto, é importante escolher um provedor de VPN confiável que mantenha uma política rigorosa de não registro e ofereça velocidades de conexão satisfatórias.
+Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que cria uma conexão segura e criptografada entre o dispositivo do usuário e um servidor remoto. Essa conexão permite que o usuário navegue na internet de forma segura, protegendo sua privacidade online. As VPNs são utilizadas para ocultar o endereço IP do usuário, contornar restrições geográficas, proteger dados sensíveis contra hackers em redes públicas, e acessar conteúdos bloqueados por governos ou empresas. Elas funcionam criptografando o tráfego de dados, tornando-o ilegível para qualquer pessoa que tente interceptá-lo. As VPNs também podem ser usadas para acesso remoto a redes corporativas de forma segura. No entanto, é importante escolher um provedor de VPN confiável que mantenha uma política rigorosa de não registro e ofereça velocidades de conexão satisfatórias.
 
-### [Mullvad VPN](https://mullvad.net/)
+::: tip Nesse tópico não utilizamos links comissionados
+Alguns sites e influenciadores recomendam VPNs duvidosas apenas pela comissão, prejudicando sua audiência em troca de dinheiro. Nesse tópico não utilizamos links comissionados. Você pode verificar por conta própria, analisando os links
+:::
 
-- Barata, rápida e com vários servidores
-- Suporta Monero
+::: danger VPN não é uma garantia de anonimato
+Uma VPN ajuda a proteger sua privacidade online, criptografando seu tráfego e ocultando seu IP. No entanto, ela não garante anonimato total, pois ainda existem formas de rastrear suas atividades, como cookies e metadados. Para anonimato completo, outras ferramentas, como o Tor, podem ser necessárias
+:::
+
+### [Mullvad VPN](https://mullvad.net/pt)
+Considerada a melhor VPN disponível no mercado em termos de privacidade e segurança. Um dos seus principais diferenciais é que não exige e-mail ou dados pessoais para criar uma conta, sendo o acesso feito por meio de um número gerado automaticamente.
+
+- Sem registos
+- [Código aberto](https://github.com/mullvad)
+- Jurisdição segura
+- Suporta Monero para pagamentos anônimos
+- Aceita criptomoeda(s): Bitcoin (On-chain e Lightning Network) e Bitcoin Cash
+
+:::info Disponível nas plataformas
+Linux, Windows, macOS, Android e iOS
+:::
 
 ![Mullvad](./images/mullvad_vpn.png)
 
+### [Proton VPN](https://protonvpn.com/pt-br)
+Logo depois da Mullvad, a Proton VPN é geralmente considerada uma das melhores opções do mercado. Ela é desenvolvida pela equipe da Proton, a mesma por trás do Proton Mail, e tem uma forte reputação em proteção de dados.
+
+- Sem registos
+- [Código aberto](https://github.com/ProtonVPN)
+- Jurisdição segura
+- Preços regionalizados
+- Permite port forwarding
+- Aceita criptomoeda(s): Bitcoin (On-chain)
+
+:::info Disponível nas plataformas
+Linux, Windows, macOS, Android e iOS
+:::
+
+![Proton VPN](./images/proton_vpn.png)
+
 ### [IVPN](https://www.ivpn.net/)
+Considerada uma das opções mais sólidas junto de serviços como Mullvad e Proton VPN, sendo bastante valorizada por quem prioriza privacidade máxima na internet.
 
-- Ótima alternativa para a Mullvad VPN
+- Sem registos
+- [Código aberto](https://github.com/ivpn)
+- Suporta Monero para pagamentos anônimos
+- Aceita criptomoeda(s): Bitcoin (On-chain e Lightning Network)
 
-### [Private Internet Access](https://www.privateinternetaccess.com/)
+:::info Disponível nas plataformas
+Linux, Windows, macOS, Android e iOS
+:::
 
-- Suporta port-forwarding, fazendo suportar a rede P2P (peer-to-peer)
+![IVPN](./images/ivpn.png)
 
-### [ProtonVPN](https://protonvpn.com)
+Se nenhuma das opções acima atender aos seus requisitos, você pode tentar essas alternativas. Elas não são tão confiáveis ou seguras quanto as mencionadas anteriormente, mas funcionam:
 
-- Suporta port-forwarding, fazendo suportar a rede P2P (peer-to-peer)
+### [Private Internet Access](https://www.privateinternetaccess.com/pt/)
+- Permite port forwarding
 
-### [AirVPN](https://airvpn.org/buy/)
+### [AirVPN](https://airvpn.org/)
+- [Código aberto](https://github.com/AirVPN)
+- Permite port forwarding
+- Suporta Monero para pagamentos anônimos
 
-- Suporta port-forwarding, fazendo suportar a rede P2P (peer-to-peer)
-- Suporta Monero
+:::warning Evite se possível
+AirVPN deve ser a última opção como VPN, seus servidores não são bons
+:::
 
-:::warning AirVPN deve ser a última opção como VPN, seus servidores não são bons
+### Links úteis para esse tópico
+::: tip [Techlore VPN Toolkit](https://vpn.techlore.tech/)  
+Compare provedores de VPN com vários filtros. Analise práticas de privacidade, recursos de segurança, jurisdições e especificações técnicas para encontrar o melhor serviço de VPN para suas necessidades específicas  
+:::
+
+::: tip [Kumu](https://embed.kumu.io/9ced55e897e74fd807be51990b26b415#vpn-company-relationships)
+Analise os financiadores, influenciadores e as polêmicas envolvidas em cada provedor de VPN
 :::
 
 ## Bloqueador de anúncios e rastreadores
