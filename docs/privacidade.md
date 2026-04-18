@@ -160,7 +160,7 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 
 ## Clientes de E-mail
 
-:::tip Se a sua intenção for um provedor para atividades na web que exigem mais sigilo, talvez não valha a pena usar domínios da clearnet. Nesse contexto, comunique-se por meio de [**OpenPGP**](https://www.openpgp.org/software/) + serviços de e-mail hospedados na rede Tor como [Mail2Tor](http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/) (o melhor), [TorBox](http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/) (um dos melhores), [Cock.li](http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/) (o mais estável) e [Deep Mail](http://deepmailv2xihwk7ie5q3nlmyflvjlqhvlzt3wih43eo44sfvfingeqd.onion/) (nacional e amigável com postfix)
+:::tip Se a sua intenção for um provedor para atividades na web que exigem mais sigilo, talvez não valha a pena usar domains da clearnet. Nesse contexto, comunique-se por meio de [**OpenPGP**](https://www.openpgp.org/software/) + serviços de e-mail hospedados na rede Tor como [Mail2Tor](http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/) (o melhor), [TorBox](http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/) (um dos melhores), [Cock.li](http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/) (o mais estável) e [Deep Mail](http://deepmailv2xihwk7ie5q3nlmyflvjlqhvlzt3wih43eo44sfvfingeqd.onion/) (nacional e amigável com postfix)
 ‎ 
 
 **Você também pode hospedar seu próprio MTA dentro do [Mailcow](https://github.com/mailcow/mailcow-dockerized) ou [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox), embora isso não seja muito indicado por ser algo extremamente complexo e custoso**
