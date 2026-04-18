@@ -170,7 +170,7 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 
 O Thunderbird pode tornar a comunicação mais segura através do suporte integrado para proxy SOCKS5, DNS-over-HTTPS e criptografia de mensagens. Também oferece forte proteção para o seu provedor de e-mail favorito (seja ele IMAP ou POP3) e recursos avançados de privacidade como chat via protocolo XMPP ou IRC. Além disso, se destaca dos demais clientes de e-mail ao impedir a execução automática de scripts e imagens embutidas por padrão, resultando em um ambiente isolado e capaz de barrar o compartilhamento de malware em uma cadeia de dispositivos. 
 
-- Base para outros projetos sem ligação com a Mozilla como o [Betterbird](https://www.betterbird.eu/) e o [K-9 Mail](https://k9mail.app/) no Android.
+- Base para outros projetos sem ligação com a Mozilla como o [Betterbird](https://www.betterbird.eu/) e o [K-9 Mail](https://k9mail.app/).
 
 
 ## Sistema Operacional Android
