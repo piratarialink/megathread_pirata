@@ -161,7 +161,7 @@ Crie um orçamento de acordo com o modelo demonstrado, o destinatário será o s
 
 Tendo como objetivo fazer reverse proxy dentro do Coolify e assim mitigar riscos.
 
-Em suma, faremos isso através de uma gambiarra sem a CloudFlare, já que a mesma não aceita os domínios da lista do DigitalPlat FreeDomain.
+Em suma, faremos isso através de uma gambiarra sem a CloudFlare, já que a mesma não aceita muito bem os domínios da lista do DigitalPlat FreeDomain.
 
 Acesse o site https://domain.digitalplat.org/ e crie uma conta com o GitHUb para não lidar com KYC.
 
