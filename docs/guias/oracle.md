@@ -27,7 +27,7 @@ Clique no botão "Criar Instância"
 
 Em posicionamento, deixe no que está, caso aconteça algum problema, tente mudar para AD 2 ou AD 3
 
-Agora mude o sistema operacional que tu vai utilizar do padrão que é o Oracle Linux para o do Ubuntu Server 24.04
+Agora mude o sistema operacional que tu vai utilizar do padrão que é o Oracle Linux para o do Ubuntu Server 24.04/LTS
 
 Para configurar algo simples como o Pi-Hole, recomendo você seguir adiante com o volume VM.Standard.E2.1.Micro em "Especialidade e Geração Anterior".
 
