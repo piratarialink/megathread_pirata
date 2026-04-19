@@ -83,7 +83,7 @@ Dê permissão read-and-write
 
 ### No Windows
 
-**Método fácil: Instale e abra o PuTTy Gen**
+**Método fácil: Instale e abra o PuTTY Gen**
 
 Site oficial: https://putty.software/
 
