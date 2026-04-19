@@ -21,7 +21,7 @@ Testado e aprovado com:
 
 Indo para a parte em que você se cadastra, antes de terminar, selecione a região "US-West Phoenix" que é a região que terá melhor ping para quem mora no Brasil, **Preste atenção! Não escolha São Paulo ou qualquer outra localidade próxima ao seu endereço porque uma vez escolhida, não tem como alterar essa opção!**
 
-Assim que entrar no painel, pesquisa naquela barrinha do topo: instâncias e clique na primeira sugestão que aparecer para ti.
+Assim que entrar no painel, pesquise naquela barrinha do topo o termo "instâncias" e clique na primeira sugestão que aparecer para ti.
 
 Clique no botão "Criar Instância"
 
