@@ -64,7 +64,7 @@ O usuário sempre será ubuntu e o endereço é o IP público da VPS
 
  ssh -i <endereço/da/chaveprivada.key> ubuntu@endereçoaqui
 
- Você pode utilizar aliases também para se conectar - a LLM é sua amiga.
+ Você pode utilizar aliases também para se conectar - a LLM é sua amiga, lembre-se.
 
 ### No Windows
 
