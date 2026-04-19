@@ -187,6 +187,7 @@ Nota: se estiver pensando em usar o Jellyfin dessa forma, recomendo dar uma olha
 
 - https://guides.viren070.me/selfhosting/oracle
 - https://docs.oracle.com/pt-br/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm
+- https://docs.oracle.com/pt-br/iaas/Content/Compute/Tasks/connect-to-linux-instance.htm
 - https://youtu.be/CgjfyEt38fI
 - https://youtu.be/1XSsxMhnGTs
 - https://youtu.be/GyIjFjuhGDg
