@@ -78,9 +78,9 @@ O usuário sempre será ubuntu e o endereço é o IP público da VPS
 
 Dê permissão read-and-write
 
- ` chmod 600 <endereço/da/chaveprivada.key>`
+ ` chmod 600 /root/endereçodachaveprivada.key`
 
- ` ssh -i <endereço/da/chaveprivada.key> ubuntu@endereçoaqui`
+ ` ssh -i /root/endereçodachaveprivada.key ubuntu@endereçodamáquinaaqui`
 
  Você pode utilizar aliases também para se conectar - O GPT é seu amigo, lembre-se.
 
@@ -118,7 +118,7 @@ Clique nas Propriedades da chave privada
 
  ![oracle9](./images/oracle9.png)
 
-Vá para Segurança e depois Avançado
+Vá para Segurança e depois em configurações Avançadas
 
  ![oracle10](./images/oracle10.png)
  
@@ -128,7 +128,7 @@ Habilitar Herança > Converter as permissões herdadas em permissões explícita
  
 Remova todos os outros usuários e Salve
 
-` ssh -i <endereço/da/chaveprivada.key> ubuntu@endereçoaqui`
+` ssh -i C:/endereço/da/chaveprivada.key ubuntu@endereçodamáquinaaqui`
 
 Quando logar, é essencial que atualize todos os pacotes com os comandos:
 
