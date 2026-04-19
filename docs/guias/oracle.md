@@ -36,7 +36,9 @@ Para configurar algo simples como o Pi-Hole, recomendo você seguir adiante com 
 
 Estarei usando a forma Ampere nesse tutorial:
 
-Pule a etapa de segurança Always-Free eligible não tem direito a isso.
+Clique na setinha no lado esquerdo e mude esta config para quatro núcleos e 24 de memória 
+
+Pule a etapa de segurança - pacote Always-Free eligible não tem direito a isso.
 
 Em rede crie uma nova VCN (Virtual Cloud Network)
 
@@ -46,9 +48,9 @@ Baixe as chaves SSH pública e privada
 
 Selecionar VPU entre 10 até 120 e tamanho do volume entre 50 até 200 GB
 
-O custo estimado é apenas uma projeção do que você iria pagar em um plano comum, não leve a sério
-
 Revisar tudo e clicar em "Criar".
+
+Marque tudo o que site pedir, o custo estimado é apenas uma projeção do que você iria pagar em um plano comum, desconsidere-o
 
 ## 3. Se conectando a VM com o Secure Shell
 
