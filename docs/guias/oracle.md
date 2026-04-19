@@ -6,7 +6,7 @@
 ## 1. Conta e limites estipulados
 
 Conseguindo acesso no modo Free Tier você tem direito até quatro instâncias com o processador ARM, cada uma com no total 200 GB de storage e 24 de RAM + 4 Gbps de banda larga.
-Independentemente do que fizer, será necessário comfirmar sua identidade com o cartão de crédito, não vale cartão pré pago daqueles que você gera no DigitalPurse ou PicPay, precisa ser um cartão válido com os dados e endereço do titular, no caso você.
+Independentemente do que fizer, será necessário comfirmar sua identidade com o cartão de crédito, não vale cartão pré pago daqueles que você gera no DigitalPurse ou PicPay, precisa ser um cartão com os dados e endereço do titular, no caso você.
 
 ::info Será feita uma retirada no valor de 600 reais do seu limite como forma de teste mas a quantia é reembolsada na hora.
 :::
@@ -19,7 +19,7 @@ Testado e aprovado com:
 
 ## 2. Iniciando uma instância "Always-Free"
 
-Indo para a parte em que você se cadastra, antes de terminar, selecione a região "US-West Phoenix" que é a região que terá melhor ping para quem mora no Brasil, **Preste atenção! Não escolha São Paulo ou qualquer outra localidade próxima ao seu endereço porque uma vez escolhida, não tem como alterar essa opção!**
+Indo para a parte em que você se cadastra, antes de terminar, selecione a região "US-West Phoenix" que é a região que terá melhor ping para quem mora no Brasil, **Preste atenção! Não escolha São Paulo ou qualquer outro local baseado no Brasil porque uma vez escolhida a localidade, não tem como voltar atrás!**
 
 Assim que entrar no painel, pesquise naquela barrinha do topo o termo "instâncias" e clique na primeira sugestão que aparecer para ti.
 
