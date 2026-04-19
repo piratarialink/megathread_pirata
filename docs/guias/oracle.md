@@ -119,7 +119,7 @@ Vá para Segurança e depois Avançado
 
  ![oracle10](./images/oracle10.png)
  
-Habilitar Herança > Converter as permissões herdadas em permissões explicitas no objeto
+Habilitar Herança > Converter as permissões herdadas em permissões explícitas no objeto
 
  ![oracle11](./images/oracle11.png)
  
@@ -131,7 +131,7 @@ Remova todos os outros usuários e Salve
 
 Alguns serviços como o Coolify, SearXNG e OpenVPN têm como requisito a porta de entrada do Web Socket e certificado SSL, vamos abri-las nesse exato momento:
 
-Clique no nome da sua instância, vá para a aba Rede e clique no nome da sua sub-rede que foi criada, depois segurança de novo e "Default security list for..."
+Clique no nome da sua instância, vá para a aba Rede e clique no nome da sua sub-rede que foi criada, depois "Segurança" de novo e "Default security list for..."
 
 ![oracleportas](./images/oracleportas.png)
 
@@ -169,7 +169,8 @@ Clique em registrar no menu do lado esquerdo e crie o site que você quiser.
 
 ![digitalplat1](./images/digitalplat1.png)
 
-OBS: Dando uma estrela no repósitorio oficial deles você ganha mais um domínio totalmente de graça.
+:::info Dando uma estrela no repósitorio oficial deles você ganha mais um domínio totalmente de graça.
+:::
 
 Posterior a criação do domain, agora chegou a vez de configurar um DNS Dinâmico, usarei a Hostry como exemplo:
 
