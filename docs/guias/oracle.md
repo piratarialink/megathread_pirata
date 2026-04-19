@@ -90,7 +90,7 @@ O usuário sempre será ubuntu e o endereço é o IP público da VPS
 
 ssh -i <endereço/da/chaveprivada.key> ubuntu@endereçoaqui
 
-## 5. Como abrir portas do servidor
+## 4. Como abrir portas do servidor
 
 Alguns serviços como o Coolify, SearXNG e OpenVPN têm como requisito a porta de entrada do Web Socket e certificado SSL, vamos abri-las nesse exato momento:
 
@@ -98,9 +98,9 @@ Clique no nome da sua instância, vá para a aba Rede e clique no nome da sua su
 
 Adicionar Regras de Entrada > Faça conforme a imagem abaixo, alterando apenas o Intervalo de Portas de Destino para o que te exigirem.
 
-## 6. BÔNUS: Obtendo o seu próprio domínio
+## 5. BÔNUS: Obtendo o seu próprio domínio
 
-Em suma, fazendo uma gambiarra sem o CloudFlare já que ela não aceita os domínios que terminam com a lista do DigitalPlat FreeDomain.
+Em suma, fazendo uma gambiarra sem a CloudFlare já que ela não aceita os domínios da lista do DigitalPlat FreeDomain.
 
 Acesse o site crie uma conta com o GitHUb para não lidar com KYC.
 
