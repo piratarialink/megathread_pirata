@@ -62,6 +62,7 @@ Siga a instrução conforme o print acima. Caso a janela do ubuntu 20.04 esteja 
 Com o UBUNTU 20.04 aberto, na linha de comando digite:
 
 ` mkdir -p autobrr/config`
+
 Teste se o docker está funcionando, basta digitar:
 
 ` docker`
