@@ -12,6 +12,7 @@ Testado e aprovado com:
 
 - Bandeira VISA 
 - Cartão Mercado Pago
+- Cartão Itaú
 - Cartão Inter GLOBAL
 
 ![oracle1.1](./images/oracle1.1.png)
@@ -30,7 +31,7 @@ Clique no botão "Criar Instância"
 
 Em posicionamento, deixe no que está, caso aconteça algum problema, tente mudar para AD 2 ou AD 3
 
-Agora mude o sistema operacional que tu vai utilizar do padrão que é o Oracle Linux para o do Ubuntu Server 24.04/LTS
+Agora mude o sistema operacional que tu vai utilizar do padrão Oracle Linux para o do Ubuntu (Server) 24.04/LTS
 
 ![oracle1](./images/oracle1.png)
 
@@ -52,7 +53,7 @@ Em rede crie uma nova VCN (Virtual Cloud Network)
 
 ![oracle4](./images/oracle4.png)
 
-Se não for designado um endereço IPV4 automaticamente, basta encerrar a VM assim que concluir todo o processo e criar outra logo em seguida.
+Se não for designado um endereço IPv4 automaticamente, basta encerrar a VM assim que concluir todo o processo e criar outra logo em seguida.
 
 Baixe as chaves SSH pública e privada
 
@@ -101,7 +102,7 @@ Mude para "All Files" > Carregue o arquivo .key
 
 Insira uma senha e clique em Save Private Key
 
-Feche a janela, abra o PuTTY, vá em SSH > Auth > Connection e procure pelo .pku
+Feche a janela, abra o PuTTY, vá em SSH > Auth > Connection e procure pelo .ppk
 
 ![oracle9.1](./images/oracle9.1.png)
 
