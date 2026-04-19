@@ -34,4 +34,6 @@ Feito. Você instalou com sucesso um novo plugin de pesquisa para qBittorrent.
 
 Guia sugerido por [u/Dehast](https://www.reddit.com/u/Dehast).
 
-Guia baseado em [qbittorrent search plugins install wiki](https://github.com/qbittorrent/search-plugins/wiki/Install-search-plugins)
+Guia baseado em [qbittorrent search plugins install wiki](https://github.com/qbittorrent/search-plugins/wiki/Install-search-plugins).
+
+Veja também o guia: [Configuração Essencial do qBittorrent](https://mefrraz.github.io/hattered/pages/guides/configuracao_essencial_do_qbittorrent.html) no Hattered.
