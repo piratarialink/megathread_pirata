@@ -100,7 +100,9 @@ Adicionar Regras de Entrada > Faça conforme a imagem abaixo, alterando apenas o
 
 ## 5. BÔNUS: Obtendo o seu próprio domínio
 
-Em suma, fazendo uma gambiarra sem a CloudFlare já que ela não aceita os domínios da lista do DigitalPlat FreeDomain.
+Para fazer reverse proxy dentro do Coolify e assim mitigar riscos.
+
+Em suma, através de uma gambiarra sem a CloudFlare já que ela não aceita os domínios da lista do DigitalPlat FreeDomain.
 
 Acesse o site crie uma conta com o GitHUb para não lidar com KYC.
 
