@@ -13,6 +13,6 @@
 
 ## 5. Como abrir portas do servidor
 
-## 6. Configurando o painel Coolify 
+## 6. BÔNUS: Obtendo o seu próprio domínio
 
 ### Créditos
