@@ -19,7 +19,7 @@ Testado e aprovado com:
 
 ## 2. Iniciando uma instância "Always-Free"
 
-Indo para a parte em que você se cadastra, antes de terminar, selecione a região "US-West Phoenix" que é a região que terá melhor ping para quem mora no Brasil. **Preste atenção! Não escolha São Paulo ou qualquer outro local próximo a sua residênciaa porque uma vez escolhida a localidade, não tem como voltar atrás!**
+Indo para a parte em que você se cadastra, antes de terminar, selecione a região "US-West Phoenix" que é a região que terá melhor ping para quem mora no Brasil. **Preste atenção! Não escolha São Paulo ou qualquer outro local próximo a sua residência porque uma vez escolhida a localidade, não tem como voltar atrás!**
 
 Assim que entrar no painel, pesquise naquela barrinha do topo o termo "instâncias" e clique na primeira sugestão que aparecer para ti.
 
