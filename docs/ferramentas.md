@@ -428,7 +428,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 > Para hospedar servidor próprio na nuvem de rust, minecraft, bot do telegram e centro de mídia como o jellyfin e plex.
 Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](https://www.tabnews.com.br/JuanMathewsRebelloSantos/por-tudo-que-e-mais-sagrado-pare-de-usar-vps-cara-aqui-vai-algumas-dicas-matadoras)
 
-- [Oracle Cloud Free Tier](https://www.oracle.com/br/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter e mercado pago. [Tutorial](https://youtu.be/1XSsxMhnGTs)
+- [Oracle Cloud Free Tier](https://www.oracle.com/br/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter e mercado pago. [Guia](guias/oracle.md)
 - [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado na China para burlar o firewall. A velocidade pode cair drasticamente por conta de sua finalidade citada anteriormente.
 
 ## ► Inteligência Artificial
@@ -436,8 +436,8 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - 🌟 [**G4F**](https://g4f.dev/) - ChatGPT local, gratuito e ilimitado. Alguns provedores como a Azure exigem de você uma chave API para o g4f.client que pode ser gerada com o seu ID de usuário do Hugging Face.
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [OpenClaude](https://github.com/Gitlawb/openclaude) - Reimplementação do código fonte vazado do Claude Code, suporta integração com modelos pagos e gratuitos da OpenAI, Alibaba, Anthropic e Google Gemini, apenas para citar alguns. [Vídeo explicativo](https://youtu.be/7S7vqSudSx0)
-- [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura, algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6), [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) e [DIG](https://digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion/) (onion) - podem não funcionar na maior parte do tempo.
-- [Voicebox](https://voicebox.sh/) - Clone qualquer voz em questão de segundos com a ajuda do Qwen TTS, extraída a partir de um arquivo local, som ambiente ou do próprio microfone.
+- [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura, algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6) e [DIG](https://digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion/) (onion) - podem não funcionar na maior parte do tempo.
+- [Voicebox Studio](https://voicebox.sh/) - Clone qualquer voz em questão de segundos com a ajuda do Qwen TTS, extraída a partir de um arquivo local, som ambiente ou do próprio microfone.
 - **[Freemium]** [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar - caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado.
 - [pyVideoTrans](https://en.pyvideotrans.com/) - Mesmo conceito do Legen: embute hardsubs em vídeos com base no Whisper, com a única diferença de poder dublar e sincronizar a fala automaticamente - obtém melhor desempenho em hardwares com suporte à aceleração de GPU.
@@ -526,7 +526,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 - [TarnKappe](https://tarnkappe.info/forum/) - Fórum alemão de pirataria - use um tradutor.
 - [FeedFlow](https://www.feedflow.dev/) - Gerenciador RSS de código aberto para Android e Desktop, acompanhe os seus sites e canais do YouTube favoritos sem a necessidade de se ter uma conta.
 - [SlideSaver](https://slidesaver.app/) - Downloader de Slideshare.
-- [Clonezilla](https://clonezilla.org/) - Cria pontos de restauração de imagens ISO e salve-os em um pendrive.
+- [Clonezilla](https://clonezilla.org/) - Cria pontos de restauração de imagens ISO e salve-os em um pendrive. [Vídeo explicativo](https://youtu.be/8hwi2O6CZZg)
 - [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries.
 - [NoiseCloud](https://github.com/unlucas-br/noisecloud) - Use o YouTube como se fosse um drive infinito, esconda arquivos de qualquer formato dentro dos vídeos.
 - [Vdownloaders](https://scribd.vdownloaders.com/) - Visualize e baixe documentos do Scribd sem logar ou ter conta premium.
