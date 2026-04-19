@@ -17,10 +17,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🗣 Dublados
 
-### 🌟 [CineRave](http://cinerave.netlify.app)
-
-- site bem completo, com filmes, séries e canais ao vivo,watch party (assistir junto com amigos, sincronizado e com chat em tempo real),conteúdos atualizados diariamente.
-
 ### 🌟 [Rede Canais](https://redecanais.fm/) / [2](https://redecanais.fi/) / [3](https://redecanais.ps/)
 
 - Incrível variedade de filmes de excelente qualidade oferecidos para download direto através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
@@ -81,6 +77,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Filmes, séries e canais ao vivos sem anúncios, pop-ups ou rastreadores.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romaflix.top/)
+
+### ▶️ [CineRave](http://cinerave.netlify.app)
+
+- Bem completo, com filmes, séries e canais ao vivo, watch party (assistir junto com amigos, sincronizado e com chat em tempo real), conteúdo atualizado diariamente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cinerave.netlify.app/)
 
 ### ▶️ [PobreFlix](https://lospobreflix.site/)
 
