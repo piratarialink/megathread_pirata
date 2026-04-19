@@ -177,7 +177,7 @@ Clique em registrar no menu do lado esquerdo e crie o site que você quiser.
 
 ![digitalplat1](./images/digitalplat1.png)
 
-:::info Dando uma estrela no repósitorio oficial deles você ganha mais um domínio totalmente de graça.
+:::info Dando uma estrela no repositório oficial deles você ganha mais um domínio totalmente de graça.
 :::
 
 Posterior a criação do domain, agora chegou a vez de configurar um DNS Dinâmico, usarei a Hostry como exemplo:
