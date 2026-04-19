@@ -100,9 +100,9 @@ Adicionar Regras de Entrada > Faça conforme a imagem abaixo, alterando apenas o
 
 ## 5. BÔNUS: Obtendo o seu próprio domínio
 
-Para fazer reverse proxy dentro do Coolify e assim mitigar riscos.
+Tendo como objetivo fazer reverse proxy dentro do Coolify e assim mitigar riscos.
 
-Em suma, através de uma gambiarra sem a CloudFlare já que ela não aceita os domínios da lista do DigitalPlat FreeDomain.
+Em suma, através de uma gambiarra sem a CloudFlare, já que a mesma não aceita os domínios da lista do DigitalPlat FreeDomain.
 
 Acesse o site crie uma conta com o GitHUb para não lidar com KYC.
 
@@ -114,7 +114,7 @@ Posterior a criação do domain, agora chegou a vez de configurar um DNS Dinâmi
 
 Aponte os NameServers para que o DigitalPlat possa vê-los. Isso irá gastar um free slot que estava disponível no DigitalPlat.
 
-Pronto, você acabou de descobrir uma maneira nova de se preocupar o tempo inteiro com bots rondando sua página.
+Pronto, você acabou de descobrir uma maneira nova de se preocupar o tempo todo com bots rondando sua página.
 
 Nota: se estiver pensando em usar o Jellyfin dessa forma, recomendo tu dar uma olhada no TailScale.
 
