@@ -112,7 +112,7 @@ OBS: Dando uma estrela no repósitorio oficial deles você ganha mais um domíni
 
 Posterior a criação do domain, agora chegou a vez de configurar um DNS Dinâmico, usarei a Hostry como exemplo:
 
-Aponte os NameServers para que o DigitalPlat possa vê-los. Isso irá gastar um free slot que estava disponível no DigitalPlat.
+Aponte os NameServers para que o DigitalPlat possa vê-los. Isso irá gastar um free slot que estava disponível.
 
 Pronto, você acabou de descobrir uma maneira nova de se preocupar o tempo todo com bots rondando sua página.
 
