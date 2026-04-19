@@ -30,6 +30,10 @@ Guia para instalar plugins ao qBitTorrent, permitindo fazer buscas de fontes seg
 
 Na era da conectividade digital, a necessidade de acessar serviços e aplicativos específicos através da internet se tornou uma parte fundamental do nosso dia a dia. No entanto, para muitos usuários, a configuração de portas no roteador pode ser um desafio, especialmente em redes CGNAT (Carrier Grade Network Address Translation). Este artigo mergulha no processo de abrir portas em um roteador em uma rede CGNAT, desvendando os segredos por trás dessa tarefa aparentemente complicada e oferecendo soluções simples para garantir uma conexão eficaz e sem obstáculos.
 
+## 📑 ➜ [Criando uma VPS gratuita com 24gb de RAM na Oracle CI](guias/oracle.md)
+
+Definindo um nome de usuário e virtual machine da forma correta, você terá acesso a um server 100% gratuito para brincar um pouco ou até mesmo fazer o deploy de suas aplicações na web, muitas vezes dentro de um processo que envolve abrir portas e mexer em configurações específicas do nginx funcionando em paralelo à sua máquina local.
+
 ## 📑 ➜ [Como configurar o DNS no Windows e Android](guias/dns.md)
 
 Desenvolvido para oferecer uma visão clara e prática sobre como configurar o DNS em diferentes dispositivos. Ele é um ponto de partida sólido, mas sabemos que sempre há espaço para melhorias.

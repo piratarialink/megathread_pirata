@@ -67,7 +67,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar diversas versões do OS X no Linux. Com suporte a GPU dedicada + macOS Tahoe.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) - Executa a tarefa de remapear os botões laterais do mouse sem precisar recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
 - 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova anúncios da Canonical como o Ubuntu PRO no terminal e mensagens ESM com esse método - Post original do [Ask Ubuntu](https://askubuntu.com/a/1438510).
-- 🌟 [**ubuntu-debullshit!**](https://github.com/polhdez/ubuntu-debullshit) - Retira a coleta de dados e o snapd da Canonical, **em versões mais recentes do Ubuntu (incluindo LTS), a telemetria é mais opt-out - você precisa desativá-la durante a instalação** - Post original por [u/klfld](https://www.reddit.com/r/linux/comments/13fj1xf/ubuntudebullshit_script_to_get_vanilla_gnome/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button).
+- 🌟 [**ubuntu-debullshit!**](https://github.com/polhdez/ubuntu-debullshit) - Retira a coleta de dados e o snapd da Canonical, **em versões mais recentes do Ubuntu, a telemetria é mais opt-out - você precisa desativá-la durante a instalação** - Post original por [u/klfld](https://www.reddit.com/r/linux/comments/13fj1xf/ubuntudebullshit_script_to_get_vanilla_gnome/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button).
 - [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Port não oficial do Lossless Scaling para GNU/Linux e Steam Deck; necessita da dll do lossless scaling para funcionar, a qual você pode extrair da [versão marítima do LS sem pagar nada](https://cs.rin.ru/forum/viewtopic.php?f=41&t=94507&hilit=lossless+scallin&start=1155).
 - [Falkon](https://www.falkon.org/download/) - Navegador feito pela KDE para sistemas derivados do Unix, é baseado no motor de renderização QtWebEngine e vem com adblock próprio já instalado.
 - 🌟 [**Hints**](https://github.com/AlfredoSequeida/hints?tab=readme-ov-file) - Feito para quem já está habituado a usar sobretudo o teclado em comparação com o mouse, atente-se a configuração específica do seu gerenciador de janelas [seguindo esse passo a passo.](https://github.com/AlfredoSequeida/hints/wiki/Window-Manager-and-Desktop-Environment-Setup-Guide)
@@ -78,7 +78,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 ## ► Ferramentas para MacOS
 
 - 🌟 [**FMHY - Hackintosh**](https://fmhy.net/system-tools#hackintosh) - Algumas recomendações úteis.
-- [gibMacOS](https://github.com/corpnewt/gibMacOS) - Imagens do OSX para criar pendrives bootáveis com hackintosh. (pelo menos de versões que ainda suportam o processador da intel) [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
+- [gibMacOS](https://github.com/corpnewt/gibMacOS) - Imagens do OSX para criar pendrives bootáveis com hackintosh (pelo menos de versões que ainda suportam o processador da intel). [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
 - [PKGs do Appstorrent](https://appstorrent.ru/os/) - Site russo com arquivos de firmware de diferentes versões do Macintosh para fazer upgrade/downgrade.
 - [Pacotes do Office para Mac](https://massgrave.dev/office_for_mac) - Página bem organizada para downloads de imagens do Office para Mac.
 - [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader/blob/main/readme-en.md) - Script do Macked para baixar aplicativos da Creative Cloud - quando o download terminar, arraste os apps para o [Activation Tool](https://macked.app/adobe-activation-tool-crack.html) para ativá-los.
@@ -428,7 +428,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 > Para hospedar servidor próprio na nuvem de rust, minecraft, bot do telegram e centro de mídia como o jellyfin e plex.
 Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](https://www.tabnews.com.br/JuanMathewsRebelloSantos/por-tudo-que-e-mais-sagrado-pare-de-usar-vps-cara-aqui-vai-algumas-dicas-matadoras)
 
-- [Oracle Cloud Free Tier](https://www.oracle.com/br/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter e mercado pago. [Tutorial](https://youtu.be/1XSsxMhnGTs)
+- [Oracle Cloud Free Tier](https://www.oracle.com/br/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter e mercado pago. [Guia](guias/oracle.md)
 - [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado na China para burlar o firewall. A velocidade pode cair drasticamente por conta de sua finalidade citada anteriormente.
 
 ## ► Inteligência Artificial
@@ -436,8 +436,8 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - 🌟 [**G4F**](https://g4f.dev/) - ChatGPT local, gratuito e ilimitado. Alguns provedores como a Azure exigem de você uma chave API para o g4f.client que pode ser gerada com o seu ID de usuário do Hugging Face.
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [OpenClaude](https://github.com/Gitlawb/openclaude) - Reimplementação do código fonte vazado do Claude Code, suporta integração com modelos pagos e gratuitos da OpenAI, Alibaba, Anthropic e Google Gemini, apenas para citar alguns. [Vídeo explicativo](https://youtu.be/7S7vqSudSx0)
-- [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura, algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6), [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) e [DIG](https://digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion/) (onion) - podem não funcionar na maior parte do tempo.
-- [Voicebox](https://voicebox.sh/) - Clone qualquer voz em questão de segundos com a ajuda do Qwen TTS, extraída a partir de um arquivo local, som ambiente ou do próprio microfone.
+- [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura, algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6) e [DIG](https://digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion/) (onion) - podem não funcionar na maior parte do tempo.
+- [Voicebox Studio](https://voicebox.sh/) - Clone qualquer voz em questão de segundos com a ajuda do Qwen TTS, extraída a partir de um arquivo local, som ambiente ou do próprio microfone.
 - **[Freemium]** [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar - caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado.
 - [pyVideoTrans](https://en.pyvideotrans.com/) - Mesmo conceito do Legen: embute hardsubs em vídeos com base no Whisper, com a única diferença de poder dublar e sincronizar a fala automaticamente - obtém melhor desempenho em hardwares com suporte à aceleração de GPU.
@@ -526,7 +526,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 - [TarnKappe](https://tarnkappe.info/forum/) - Fórum alemão de pirataria - use um tradutor.
 - [FeedFlow](https://www.feedflow.dev/) - Gerenciador RSS de código aberto para Android e Desktop, acompanhe os seus sites e canais do YouTube favoritos sem a necessidade de se ter uma conta.
 - [SlideSaver](https://slidesaver.app/) - Downloader de Slideshare.
-- [Clonezilla](https://clonezilla.org/) - Cria pontos de restauração de imagens ISO e salve-os em um pendrive.
+- [Clonezilla](https://clonezilla.org/) - Cria pontos de restauração de imagens ISO e salve-os em um pendrive. [Vídeo explicativo](https://youtu.be/8hwi2O6CZZg)
 - [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries.
 - [NoiseCloud](https://github.com/unlucas-br/noisecloud) - Use o YouTube como se fosse um drive infinito, esconda arquivos de qualquer formato dentro dos vídeos.
 - [Vdownloaders](https://scribd.vdownloaders.com/) - Visualize e baixe documentos do Scribd sem logar ou ter conta premium.

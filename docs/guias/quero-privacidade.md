@@ -20,7 +20,7 @@
 
 - Configurar o navegador para excluir todos os dados sempre que você for fechá-lo (histórico, cookies, senhas, etc.): isso diminui a possibilidade de ter as contas invadidas e você não precisa se preocupar em caso de acesso não autorizado ao seu dispositivo
 - VPN: IVPN com Multihop ou Mullvad
-- Email: Autohospedado com mailcow/mail-in-a-box ou mailbox.org/cock.li + Thunderbird
+- Email: Autohospedado com mailcow/mail-in-a-box ou cock.li + Thunderbird
 - Encriptação de Email: GnuPG, GPG4WIN no Windows ou OpenKeychain no Android
 - Armazenamento: HD ou SSD com VeraCrypt
 - Criptografia: Cryptomator e VeraCrypt (AES-128-GCM, XChaCha20-Poly1305)
@@ -30,7 +30,7 @@
 - XMPP: Servidores que suportam OMEMO + Thunderbird, Psi+ ou Gajim
 - Android: GrapheneOS, LineageOS ou CalyxOS
 - Desktop: Linux com LUKS (Live Boot com Whonix/Tails OS para um sigilo maior)
-- Anti-DDoS: Anubis
+- Anti-Scraping: Anubis
 - Provedor de dominio: Sarek Oy, Porkbun
 - Git: Forgejo
 - Meet: systemli.org, Jitsi
