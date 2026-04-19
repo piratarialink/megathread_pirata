@@ -21,7 +21,7 @@ Testado e aprovado com:
 
 Primeiro, vá para o site: https://www.oracle.com/br/cloud/free/
 
-Indo para a parte em que você se cadastra, antes de terminar, selecione a região "US-West Phoenix" que é a região que terá melhor ping para quem mora no Brasil. **PRESTE ATENÇÃO! NÃO ESCOLHA SÃO PAULO OU QUALQUER OUTRO LOCAL PRÓXIMO A SUA RESIDÊNCIA PORQUE UMA VEZ ESCOLHIDA A LOCALIDADE, NÃO TEM COMO VOLTAR ATRÁS!**
+Indo para a parte em que você se cadastra, antes de terminar, **selecione a região "US-West Phoenix"** que é a região que terá melhor ping para quem mora no Brasil. **PRESTE ATENÇÃO! NÃO ESCOLHA SÃO PAULO OU QUALQUER OUTRO LOCAL PRÓXIMO A SUA RESIDÊNCIA PORQUE UMA VEZ ESCOLHIDA A LOCALIDADE, NÃO TEM COMO VOLTAR ATRÁS!**
 
 ![oracle1.2](./images/oracle1.2.png)
 
