@@ -173,11 +173,11 @@ OBS: Dando uma estrela no repósitorio oficial deles você ganha mais um domíni
 
 Posterior a criação do domain, agora chegou a vez de configurar um DNS Dinâmico, usarei a Hostry como exemplo:
 
-![digitalplat2](./images/digitalplat2.png)
+![digitalplat2.1](./images/digitalplat2.1.png)
 
 Aponte os NameServers para que o DigitalPlat possa vê-los. Isso irá gastar um free slot que estava disponível.
 
-![digitalplat3](./images/digitalplat3.png)
+![digitalplat2](./images/digitalplat2.png)
 
 Pronto, você acabou de descobrir uma maneira nova de se preocupar 24/7 com bots rondando sua página.
 
