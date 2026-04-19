@@ -37,7 +37,7 @@ Agora mude o sistema operacional que tu vai utilizar do padrão que é o Oracle 
 
 ![oracle2.1](./images/oracle2.1.png)
 
-Para configurar algo simples como o Pi-Hole, recomendo você seguir adiante com o volume VM.Standard.E2.1.Micro em "Especialidade e Geração Anterior".
+Para configurar algo simples como o Pi-Hole, recomendo você seguir adiante com o volume VM.Standard.E2.1.Micro em "Especialidade e Geração Anterior"
 
 Estarei usando a forma Ampere nesse tutorial:
 
@@ -53,7 +53,7 @@ Em rede crie uma nova VCN (Virtual Cloud Network)
 
 ![oracle4](./images/oracle4.png)
 
-Se não for designado um endereço IPV4 automaticamente, basta encerrar a VM e criar outra logo em seguida.
+Se não for designado um endereço IPV4 automaticamente, basta encerrar a VM assim que concluir todo o processo e criar outra logo em seguida.
 
 Baixe as chaves SSH pública e privada
 
