@@ -73,7 +73,7 @@ O usuário sempre será ubuntu e o endereço é o IP público da VPS
 
 ### No Linux / Macintosh
 
- Dê permissão read-and-write
+Dê permissão read-and-write
 
  ` chmod 600 <endereço/da/chaveprivada.key>`
 
@@ -89,41 +89,41 @@ Site oficial: https://putty.software/
 
 ![oracle6](./images/oracle6.png)
 
- Deixe RSA marcado
+Deixe RSA marcado
  
- Mude para "All Files" > Carregue o arquivo .key
-
 ![oracle7](./images/oracle7.png)
+ 
+Mude para "All Files" > Carregue o arquivo .key
 
 ![oracle8](./images/oracle8.png)
 
- Insira uma senha e clique em Save Private Key
+Insira uma senha e clique em Save Private Key
 
- Feche a janela, abra o PuTTY, vá em SSH > Auth > Connection e procure pelo .pku
+Feche a janela, abra o PuTTY, vá em SSH > Auth > Connection e procure pelo .pku
 
 ![oracle9.1](./images/oracle9.1.png)
 
 ![oracle9.2](./images/oracle9.2.png)
 
- Digite o endereço da sua máquina neste campo:
+Digite o endereço da sua máquina neste campo:
 
 ![oracle9.3](./images/oracle9.3.png)
 
 **Método chatinho: diretamente com o SSH, vale somente se você estiver usando o Windows Professional:**
 
- Clique nas Propriedades da chave privada
+Clique nas Propriedades da chave privada
 
  ![oracle9](./images/oracle9.png)
 
- Vá para Segurança e depois Avançado
+Vá para Segurança e depois Avançado
 
  ![oracle10](./images/oracle10.png)
  
- Habilitar Herança > Converter as permissões herdadas em permissões explicitas no objeto
+Habilitar Herança > Converter as permissões herdadas em permissões explicitas no objeto
 
  ![oracle11](./images/oracle11.png)
  
- Remova todos os outros usuários e Salve
+Remova todos os outros usuários e Salve
 
 ` ssh -i <endereço/da/chaveprivada.key> ubuntu@endereçoaqui`
 
