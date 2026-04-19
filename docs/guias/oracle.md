@@ -6,7 +6,7 @@
 ## 1. Conta e limites estipulados
 
 Conseguindo acesso no modo Free Tier você tem direito até quatro instâncias com o processador ARM, cada uma com no total 200 GB de storage e 4 Gbps de banda larga.
-Independentemente do que fizer, será necessário comfirmar sua identidade com o cartão de crédito, não vale cartão pré pago daqueles que você gera no DigitalPurse ou PicPay, precisa ser um cartão com os dados e endereço do titular, no caso você.
+Independente do que fizer, será necessário comfirmar sua identidade com o cartão de crédito, não vale cartão pré pago daqueles que você gera no DigitalPurse ou PicPay, precisa ser um cartão com os dados e endereço do titular, no caso você.
 
 ::info Será feita uma retirada no valor de 600 reais do seu limite como forma de teste mas a quantia é reembolsada na hora.
 :::
