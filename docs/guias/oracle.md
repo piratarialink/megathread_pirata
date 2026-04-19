@@ -112,7 +112,7 @@ Posterior a criação do domain, agora chegou a vez de configurar um DNS Dinâmi
 
 Aponte os NameServers para que o DigitalPlat possa vê-los. Isso irá gastar um free slot que estava disponível no DigitalPlat.
 
-Pronto, você acabou de descobrir uma maneira nova de ficar preocupado o tempo inteiro com bots rondando sua página.
+Pronto, você acabou de descobrir uma maneira nova de se preocupar o tempo inteiro com bots rondando sua página.
 
 Nota: se estiver pensando em usar o Jellyfin dessa forma, recomendo tu dar uma olhada no TailScale.
 
