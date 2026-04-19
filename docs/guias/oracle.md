@@ -1,8 +1,5 @@
 # 📑 ➜ Criando uma VPS gratuita com 24gb de RAM na Oracle CI
 
-::info Essa página é ainda um esboço.
-:::
-
 ## 1. Conta e limites estipulados
 
 Conseguindo acesso no modo Free Tier você tem direito até quatro instâncias com o processador ARM, cada uma com no total 200 GB de storage e 4 Gbps de banda larga.
