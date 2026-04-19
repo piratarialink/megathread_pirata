@@ -13,9 +13,9 @@ Independentemente do que fizer, será necessário comfirmar sua identidade com o
 
 Testado e aprovado com:
 
-- Itaú (VISA)
-- Mercado Pago (VISA)
-- Inter GLOBAL
+- Bandeira VISA 
+- Cartão Mercado Pago
+- Cartão Inter GLOBAL
 
 ## 2. Iniciando uma instância "Always-Free"
 
@@ -78,7 +78,7 @@ O usuário sempre será ubuntu e o endereço é o IP público da VPS
 
  Digite o endereço da sua máquina neste campo:
 
- Método chatinho: diretamente com o SSH, se você estiver usando o Windows Professional:
+ Método chatinho: diretamente com o SSH, vale somente se você estiver usando o Windows Professional:
 
  Clique nas Propriedades da chave privada
  
