@@ -18,6 +18,8 @@ Testado e aprovado com:
 
 ## 2. Iniciando uma instância "Always-Free"
 
+Primeiro, vá para o site: https://www.oracle.com/br/cloud/free/
+
 Indo para a parte em que você se cadastra, antes de terminar, selecione a região "US-West Phoenix" que é a região que terá melhor ping para quem mora no Brasil. **PRESTE ATENÇÃO! NÃO ESCOLHA SÃO PAULO OU QUALQUER OUTRO LOCAL PRÓXIMO A SUA RESIDÊNCIA PORQUE UMA VEZ ESCOLHIDA A LOCALIDADE, NÃO TEM COMO VOLTAR ATRÁS!**
 
 ![oracle1.2](./images/oracle1.2.png)
@@ -127,9 +129,15 @@ Remova todos os outros usuários e Salve
 
 ` ssh -i <endereço/da/chaveprivada.key> ubuntu@endereçoaqui`
 
+Quando logar, é essencial que atualize todos os pacotes com os comandos:
+
+` sudo apt-get update`
+
+& ` sudo apt update`
+
 ## 4. Como abrir portas do servidor
 
-Alguns serviços como o Coolify, SearXNG e OpenVPN têm como requisito a porta de entrada do Web Socket e certificado SSL, vamos abri-las nesse exato momento:
+Alguns serviços gratuitos como o [Coolify](https://coolify.io/docs/knowledge-base/server/firewall#coolify-self-hosted), SearXNG e OpenVPN têm como requisito a porta de entrada do Web Socket e certificado SSL, vamos abri-las nesse exato momento:
 
 Clique no nome da sua instância, vá para a aba Rede e clique no nome da sua sub-rede que foi criada, depois "Segurança" de novo e "Default security list for..."
 
@@ -159,7 +167,7 @@ Crie um orçamento de acordo com o modelo demonstrado, o destinatário será o s
 
 ## 6. BÔNUS: Obtendo o seu próprio domínio
 
-Tendo como objetivo fazer reverse proxy dentro do Coolify e assim mitigar riscos.
+Tendo como objetivo fazer reverse proxy dentro do [Coolify](https://coolify.io/docs/get-started/installation#self-hosted-installation) e assim mitigar riscos.
 
 Em suma, faremos isso através de uma gambiarra sem a CloudFlare, já que a mesma não aceita muito bem os domínios da lista do DigitalPlat FreeDomain.
 
