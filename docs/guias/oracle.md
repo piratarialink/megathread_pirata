@@ -92,7 +92,7 @@ ssh -i <endereço/da/chaveprivada.key> ubuntu@endereçoaqui
 
 ## 5. Como abrir portas do servidor
 
-Alguns serviços como o Coolify e OpenVPN têm como requisito a porta de entrada do Web Socket e certificado SSL, vamos abri-las nesse exato momento:
+Alguns serviços como o Coolify, SearXNG e OpenVPN têm como requisito a porta de entrada do Web Socket e certificado SSL, vamos abri-las nesse exato momento:
 
 Clique no nome da sua instância, vá para a aba Rede e clique no nome da sua sub-rede que foi criada, depois segurança de novo e "Default security list for..."
 
@@ -100,13 +100,17 @@ Adicionar Regras de Entrada > Faça conforme a imagem abaixo, alterando apenas o
 
 ## 6. BÔNUS: Obtendo o seu próprio domínio
 
-Em suma, fazendo uma gambiarra sem o CloudFlare já que ele não aceita os domínios que terminam com a lista do DigitalPlat:
+Em suma, fazendo uma gambiarra sem o CloudFlare já que ela não aceita os domínios que terminam com a lista do DigitalPlat FreeDomain.
+
+Acesse o site crie uma conta com o GitHUb para não lidar com KYC.
+
+Clique em registrar e crie o site que você quiser.
 
 OBS: Dando uma estrela no repósitorio oficial deles você ganha mais um domínio totalmente de graça.
 
 Posterior a criação do domain, agora chegou a vez de configurar um DNS Dinâmico, usarei a Hostry como exemplo:
 
-Aponte os NameServers para que o DigitalPlat possa vê-los.
+Aponte os NameServers para que o DigitalPlat possa vê-los. Isso irá gastar um free slot que estava disponível no DigitalPlat.
 
 Pronto, você acabou de descobrir uma maneira nova de ficar preocupado o tempo inteiro com bots rondando sua página.
 
