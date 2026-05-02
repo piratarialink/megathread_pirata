@@ -56,11 +56,12 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Descubra novos clássicos e animações em **HD/Full HD/Hi-Res** para assistir enquanto estiver online. [Falha na conexão? Tente isso.](guias/dns.md)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/hinatasoul.com/)
 
-#### ▶️ [Betterflix](https://betterflix.vercel.app/)
+#### ▶️ [Betterflix](https://betterflix.click/) / [API](https://betterflix.click/api)
 
 - Repleto de animes, na maior qualidade possível com os recém lançamentos - use um adblock!
-- Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
+- Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) para conversar e ficar por dentro das atualizações.
+- Entre na comunidade do [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.click/)
 
 #### ▶️ [AniTube](https://www.anitube.news)
 
