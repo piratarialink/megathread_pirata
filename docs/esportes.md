@@ -34,11 +34,12 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - Reúne em um só lugar o TNT Brasil, Pacote Premiere, Combate TV e noticiário de interesse local/internacional. Abra o player e copie o iframe para incorporar o vídeo no seu site ou projeto pessoal com poucos cliques.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/embedcanais.com/)
 
-### 📺️ [Betterflix](https://betterflix.vercel.app/)
+### 📺️ [Betterflix](https://betterflix.click/)
 
 - Transmissões ao vivo de jogos de futebol, com várias opções de canais.
-- Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app/)
+- Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) para conversar e ficar por dentro das atualizações.
+- Entre na comunidade do [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.click/)
 
 ### 📺️ [TV0800](https://tv0800.pro/esportes/)
 
