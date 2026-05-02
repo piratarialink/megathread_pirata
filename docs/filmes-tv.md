@@ -65,8 +65,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [Betterflix](https://betterflix.click/) / [API](https://betterflix.click/api)
 
 - Repleto de filmes, séries, doramas, animes e canais de TV, tudo de graça.
-- Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) para conversar e ficar por dentro das atualizações.
-- Entre na comunidade do [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
+- Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) e [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.click/)
 
 ### ▶️ [Superflix](https://superflix1.cloud/)
