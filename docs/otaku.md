@@ -59,8 +59,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### ▶️ [Betterflix](https://betterflix.click/) / [API](https://betterflix.click/api)
 
 - Repleto de animes, na maior qualidade possível com os recém lançamentos - use um adblock!
-- Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) para conversar e ficar por dentro das atualizações.
-- Entre na comunidade do [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
+- Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) e [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.click/)
 
 #### ▶️ [AniTube](https://www.anitube.news)
@@ -97,7 +96,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌟 [Anitsu](https://anitsu.moe/#)
 
-- Grande catálogo, inclui praticamente todos os títulos imagináveis, até mesmo lost medias com legenda em português **do Brasil!** Ademais, o site disponibiliza servidores para download de conteúdo em vários formatos com faixas de dublagem.
+- Grande catálogo, inclui praticamente todos os títulos imagináveis, até mesmo lost medias com legenda em português **do Brasil!** Ademais, o site disponibiliza servidores para download de conteúdo em vários formatos com ou sem faixas de dublagem.
 - **Use um reprodutor de mídia de sua preferência no lugar do VLC.**
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anitsu.moe/)
 
@@ -387,7 +386,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 ‎
 
-#### 🔗 [Sekai Visual Novels](https://www.sekaivisualnovels.com/)
+#### 🌟 [Sekai Visual Novels](https://www.sekaivisualnovels.com/)
 
 - Uma das maiores bibliotecas virtuais de noberugēmus da internet brasileira. O servidor oficial é porta de entrada para outros sites e canais que também compartilham do mesmo interesse.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.sekaivisualnovels.com/)
