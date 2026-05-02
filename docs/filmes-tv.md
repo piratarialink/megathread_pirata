@@ -62,7 +62,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Você pode tentar obter um convite em [nosso grupo do lemmy.](https://lemmy.dbzer0.com/c/pirataria)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/clubedodual.com/)
 
-### ▶️ [Betterflix](https://betterflix.click/)
+### ▶️ [Betterflix](https://betterflix.click/) / [API](https://betterflix.click/api)
 
 - Repleto de filmes, séries, doramas, animes e canais de TV, tudo de graça.
 - Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) para conversar e ficar por dentro das atualizações.
