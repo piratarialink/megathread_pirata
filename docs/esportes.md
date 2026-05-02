@@ -37,8 +37,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 📺️ [Betterflix](https://betterflix.click/) / [API](https://betterflix.click/api)
 
 - Transmissões ao vivo de jogos de futebol, com várias opções de canais.
-- Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) para conversar e ficar por dentro das atualizações.
-- Entre na comunidade do [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
+- Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) e [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.click/)
 
 ### 📺️ [TV0800](https://tv0800.pro/esportes/)
