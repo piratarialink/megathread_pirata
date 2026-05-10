@@ -27,6 +27,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - O Pomfy é um espaço com milhares de filmes e séries internacionais e nacionais, disponível tanto no idioma original, quanto dublado; sempre na melhor qualidade.
 - Conta com a presença de anúncios, mas esses aparecem apenas nos players - use um adblock.
+- - No celular, desative o addon PopUpOff nas configurações do seu navegador, se não, o player pode não funcionar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pomfy.online/)
 
 ### 🌟 [Hypeflix](https://hypeflix.sbs/)
