@@ -383,7 +383,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🌟 [Sekai Visual Novels](https://www.sekaivisualnovels.com/)
 
 - Uma das maiores bibliotecas virtuais de noberugēmus da internet brasileira. O servidor oficial é porta de entrada para outros sites e canais que também compartilham do mesmo interesse.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.sekaivisualnovels.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sekaivisualnovels.com/)
 
 #### 🔗 [Patcheados](https://patcheados.org/Jogos/_)
 
