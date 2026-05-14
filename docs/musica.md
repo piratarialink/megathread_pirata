@@ -96,7 +96,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [Scnlog](https://scnlog.me/music/)
 
-- Uma infinidade de músicas de quase todos os genêros e formatos possíveis, inclusive em FLAC.
+- Uma infinidade de músicas de quase todos os gêneros e formatos possíveis, inclusive em FLAC.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/scnlog.me/)
 
 ### 🔗 [Sitting on Clouds](https://www.sittingonclouds.net/)

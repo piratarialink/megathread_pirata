@@ -86,12 +86,12 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ### 🌟 [GOG Games](https://gog-games.to/)
 
-- Cada jogo na biblioteca GOG é gratuito (sem DRM) para download dentro um vasto compêndio de genêros como RTS, Boomershooter, Simulação, entre outros - não confundir com a [GOG.com.](https://www.gog.com/en/)
+- Cada jogo na biblioteca GOG é gratuito (sem DRM) para download dentro um vasto compêndio de gêneros como RTS, Boomershooter, Simulação, entre outros - não confundir com a [GOG.com.](https://www.gog.com/en/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gog-games.to/)
 
 ### 🌟 [Game Bounty](https://gamebounty.world/)
 
-- Variedade de jogos novos e clássicos pré-instalados de fácil acesso para você se divertir.
+- Variedade de jogos novos e clássicos pré-instalados de diversas categorias como tiro, ação, corrida e VR.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamebounty.world/)
 
 ### 🌟 [ElAmigos](https://elamigos.site/)
@@ -206,11 +206,6 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 - Jogos pré-instalados, incluindo links diretos, juntamente com conteúdo DLC completo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/reloadedsteam.com/)
-
-### 🔗 [SteamGG](https://steamgg.net/)
-
-- Jogos pré-instalados em diversas categorias como tiro, ação, corrida e VR, agilizando o processo de download.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/steamgg.net/)
 
 ### 🔗 [The Collection Chamber](https://collectionchamber.blogspot.com/)
 

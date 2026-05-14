@@ -96,7 +96,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌟 [Anitsu](https://anitsu.moe/#)
 
-- Grande catálogo, inclui praticamente todos os títulos imagináveis, até mesmo lost medias com legenda em português **do Brasil!** Ademais, o site disponibiliza servidores para download de conteúdo em vários formatos com ou sem faixas de dublagem.
+- Grande catálogo, inclui praticamente todos os títulos imagináveis, até mesmo lost medias com legenda e faixas de dublagem em português **do Brasil!**
 - **Use um reprodutor de mídia de sua preferência no lugar do VLC.**
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anitsu.moe/)
 
@@ -352,13 +352,12 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 ## 🍣 Light Novel
 
+#### 🔗 [Baka-Tsuki](https://www.baka-tsuki.org/project/index.php?title=Category:Brazilian_Portuguese)
+
+- Comunidade de tradutores e voluntários cuja missão é trazer títulos raros/clássicos para o inglês e outras línguas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/baka-tsuki.org/)
+
 ‎
-
-#### 🔗 [MahouReader](https://mahoureader.com/)
-
-- Desfrute de novels traduzidas com qualidade e atualizadas regularmente de forma gratuita e livre.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mahoureader.com/)
-  
 #### 🔗 [Novel Mania](https://novelmania.com.br/)
 
 - Leia LNs e Webnovels de todos os gêneros com a melhor tradução disponibilizada em português brasileiro!
@@ -368,11 +367,6 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 - Espaço para quem ama projetos de tradução, atualizado diariamente, apoiadores têm acesso antecipado a lançamentos de obras nipônicas pelo discord.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tsundoku.com.br/)
-
-#### 🔗 [NovelBuddy](https://novelbuddy.com/)
-
-- Comunidade idealizada pelo MangaBuddy.com focada em trazer títulos inéditos e traduzidos para o inglês.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/novelbuddy.com/)
 
 #### 🔗 [NovelsBR](https://novels-br.com/)
 
@@ -391,14 +385,19 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Uma das maiores bibliotecas virtuais de noberugēmus da internet brasileira. O servidor oficial é porta de entrada para outros sites e canais que também compartilham do mesmo interesse.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.sekaivisualnovels.com/)
 
+#### 🔗 [Patcheados](https://patcheados.org/Jogos/_)
+
+- O Patcheados é um projeto dedicado a catalogar e preservar traduções brasileiras feitas por fãs para jogos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/patcheados.org/)
+
 #### 🔗 [KikaChan](https://kikachangames.github.io/projetos/#equipe)
 
-- Grupo dedicado à tradução, adaptação e port de visual novels para o português brasileiro. Sempre buscando oferecer atenção à qualidade e respeito pelas obras originais.
+- Grupo dedicado à tradução, adaptação e port de jogos Higurashi para o português brasileiro. Sempre buscando oferecer atenção à qualidade e respeito pelas obras originais.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kikachangames.github.io/)
 
 #### 🔗 [VNDB](https://vndb.org/)
 
-- Projetado para ser um banco de dados imenso de visual novels e equipes de _fan translation_. (inclusive para materiais em português)
+- Pensado para ser um banco de dados imenso de visual novels e equipes de _fan translation_. (inclusive para materiais em português)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vndb.org/)
 
 ‎

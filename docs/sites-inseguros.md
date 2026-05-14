@@ -71,6 +71,7 @@
 | xGIROx                    | xgirox-com                                                      | **Vírus** (_Detectado com malware_).                                                         |
 | BBRepacks                 | bbrepacks-com                                                   | **Vírus** (_Detectado com malware_).                                                         |
 | Seyter / Qoob             | seyter-com / qoob-com                                           | **Vírus** (_Detectado com malware, tentou mudar de nome_).                                   |
+| SteamGG             | steamgg-net                                           | **Comportamento antiético** (_Inserção de vírus e rastreadores em instaladores de forma planejada_).                                   |
 
 # ▶️ ➜ Filmes e TV
 

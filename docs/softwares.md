@@ -150,10 +150,10 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ## 🧩 Patchers
 
-### 🌟 [GenP](https://gen.paramore.su/)
+### 🌟 [GenP](https://wiki.dbzer0.com/genp-guides/guide/#download-directory)
 
-- Usado para estender a versão trial de aplicativos da Creative Cloud no Windows. [**Guia**](https://wiki.dbzer0.com/genp-guides/guide/) / [**Método fácil com programas já patcheados**](https://wiki.dbzer0.com/genp-guides/guide/#guide-7)
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/gen.paramore.su/)
+- Usado para estender a versão trial de aplicativos da Creative Cloud no Windows. [**Lemmy**](https://lemmy.dbzer0.com/c/GenP) / [**Método fácil com programas já patcheados**](https://wiki.dbzer0.com/genp-guides/guide/#guide-7)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/wiki.dbzer0.com/)
 
 ### 🔗 [Install IDM](https://rentry.org/installidm)
 
