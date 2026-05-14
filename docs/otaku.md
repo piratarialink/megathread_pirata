@@ -356,7 +356,6 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 - Comunidade de tradutores e voluntários cuja missão é trazer títulos raros/clássicos para o inglês e outras línguas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/baka-tsuki.org/)
-
 ‎
 #### 🔗 [Novel Mania](https://novelmania.com.br/)
 
