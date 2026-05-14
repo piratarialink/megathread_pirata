@@ -278,11 +278,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Playlists .M3U de emissoras abertas e livres de copyright do [Brasil](https://github.com/Free-TV/IPTV/blob/master/lists/brazil.md) e do restante do mundo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 📺️ [Betterflix](https://betterflix.vercel.app/)
+### ▶️ [Betterflix](https://betterflix.click/canais?lang=pt) / [API](https://betterflix.click/api)
 
-- Vários canais ao vivo, de várias categorias pra você escolher.
-- Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app/)
+- Mais de 300 canais de tv e jogos ao vivo transmitidos todos os dias. 
+- Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) e [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.click/)
   
 ## 📱 Celular
 

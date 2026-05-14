@@ -96,7 +96,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌟 [Anitsu](https://anitsu.moe/#)
 
-- Grande catálogo, inclui praticamente todos os títulos imagináveis, até mesmo lost medias com legenda em português **do Brasil!** O site também oferece servidores para download de conteúdo em vários formatos com ou sem faixas de dublagem.
+- Grande catálogo, inclui praticamente todos os títulos imagináveis, até mesmo lost medias com legendas e faixas de dublagem em português **do Brasil!**
 - **Use um reprodutor de mídia de sua preferência no lugar do VLC.**
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anitsu.moe/)
 
@@ -383,7 +383,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🌟 [Sekai Visual Novels](https://www.sekaivisualnovels.com/)
 
 - Uma das maiores bibliotecas virtuais de noberugēmus da internet brasileira. O servidor oficial é porta de entrada para outros sites e canais que também compartilham do mesmo interesse.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.sekaivisualnovels.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sekaivisualnovels.com/)
 
 #### 🔗 [Patcheados](https://patcheados.org/Jogos/_)
 
