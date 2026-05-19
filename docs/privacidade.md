@@ -218,9 +218,9 @@ No VeryCrypt você pode manter uma partição só sua e outra escondida para mom
 
 Com o LUKS você pode criar um arquivo simples ou até mesmo um conjunto de arquivos criptografados no Linux que, quando desbloqueados, formam um LVM (Logical Volume Manager) com os seus dados. Ao fornecer um formato em disco, ele não apenas facilita a compatibilidade entre distribuições, mas também fornece gerenciamento seguro de múltiplas senhas de usuários. O LUKS é um padrão de criptografia gratuito e de código aberto, feito para que você tenha certeza de que não há backdoors.
 
-Melhores distros embarcadas com LUKS: **Debian** para servidores (recebe suporte oficial pela maioria dos programas), **Fedora** com KDE (Bazzite é uma vertente do Fedora mais indicada para gamers), **Arch** com i3 ou qualquer outro window manager minimalista (Endeavour e CachyOS são sistemas _rolling release_ derivados do Arch voltados para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
+Melhores distros embarcadas com LUKS: **Debian** para servidores (recebe suporte oficial pela maioria dos programas), **Fedora** com KDE, **Arch** com i3 ou qualquer outro window manager minimalista (Endeavour é um sistema _rolling release_ derivado do Arch voltado para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
 
-:::info Caso você seja um usuário avançado, [distros sem systemd](https://nosystemd.org/) (boas para privacidade) também são uma opção
+:::info Caso você seja um usuário avançado, [distros sem systemd](https://nosystemd.org/) também são uma opção
 :::
 
 ## Criptografia de nuvem
