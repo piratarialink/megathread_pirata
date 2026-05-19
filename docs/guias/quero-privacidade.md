@@ -14,13 +14,13 @@
 - **Jamais** salve senhas pelo navegador, você pode ser vítima de infostealers. Utilize um gerenciador como Bitwarden ou KeePassXC
 - Sempre que possível fornecer um email temporário em sites que não sejam importantes: use de um provedor como o emailnator.com ou guerrilla mail
 - Fotos, vídeos e outros arquivos: remover metadados (informações adicionais que revelam sua localização) com o exiftool ou image toolbox
-- Verifique a procedência de URLs suspeitas: Confira o tempo de registro, selo SSL e certifique-se de que o CNPJ/CPF fornecido na página bate com o que é repassado por sites como [registro.br](https://registro.br/tecnologia/ferramentas/), siteconfiavel.com.br ou [invertexto.com](https://www.invertexto.com/whois).
+- Verifique a procedência de URLs suspeitas: Confira o tempo de registro, selo SSL e certifique-se de que o CNPJ/CPF fornecido na página bate com o que é repassado por sites como [registro.br](https://registro.br/tecnologia/ferramentas/) ou [invertexto.com](https://www.invertexto.com/whois).
 
 ## O intermediário para privacidade
 
 - Configurar o navegador para excluir todos os dados sempre que você for fechá-lo (histórico, cookies, senhas, etc.): isso diminui a possibilidade de ter as contas invadidas e você não precisa se preocupar em caso de acesso não autorizado ao seu dispositivo
 - VPN: IVPN com Multihop ou Mullvad
-- Email: Autohospedado com mailcow/mail-in-a-box ou cock.li + Thunderbird
+- Email: Autohospedado com mailcow/mail-in-a-box ou cock.li + Claws Mail
 - Encriptação de Email: GnuPG, GPG4WIN no Windows ou OpenKeychain no Android
 - Armazenamento: HD ou SSD com VeraCrypt
 - Criptografia: Cryptomator e VeraCrypt (AES-128-GCM, XChaCha20-Poly1305)
