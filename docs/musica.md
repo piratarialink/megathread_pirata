@@ -295,6 +295,16 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Cliente de código aberto para o Spotify que não requer premium [nem Electron!](https://web.archive.org/web/20251128101108/https://www.xda-developers.com/sick-every-pc-program-electron-app/) Disponível para desktop e celular!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/spotube.krtirtho.dev/)
 
+### 🌟 [**Metrolist**](https://metrolist.cc/)
+
+- O substituto definitivo para o Youtube Music. Tenha todos os benefícios do cliente padrão ao seu alcance de forma offline e sem custo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/metrolist.cc/)
+
+### 🔗 [Newpipe](https://newpipe.net/)
+
+- Assista e baixe vídeos do youtube. Também oferece a capacidade de baixar do soundcloud.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/newpipe.net/)
+
 ### 🔗 [Namida](https://github.com/namidaco/namida)
 
 - Um reprodutor de música e vídeo bonito e rico em recursos com suporte para YouTube, feito em Flutter também.
@@ -305,15 +315,15 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Aplicativo de streaming e download de músicas feito em Flutter!
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gokadzev.github.io/)
 
+### 🔗 [SimpMusic](https://github.com/maxrave-dev/SimpMusic)
+
+- Transmita facilmente músicas, vídeos, podcasts e rádio de forma totalmente gratuita.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
 ### 🔗 [LibreTube](https://libre-tube.github.io/)
 
 - Assista, ouça e baixe vídeos do YouTube. Também oferece a capacidade de baixar do soundcloud.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/libre-tube.github.io/)
-
-### 🔗 [Newpipe](https://newpipe.net/)
-
-- Assista e baixe vídeos do youtube. Também oferece a capacidade de baixar do soundcloud.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/newpipe.net/)
 
 ### 🔗 [SpMp](https://github.com/toasterofbread/spmp)
 
@@ -330,20 +340,10 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Aplicativo de streaming de música multiplataforma criado com Flutter para Android, Windows e Linux.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🔗 [LimeMP3](https://limemp3.com/)
-
-- Explore suas músicas preferidas para aqueles dias chuvosos ou quando não há internet.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/limemp3.com/)
-
 ### 🔗 [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler/)
 
-- Cliente Android versátil com suporte para Last.fm, ListenBrainz, Libre.fm e GNU FM.
+- Cliente Android versátil com suporte para a Last.fm, ListenBrainz, Libre.fm e GNU FM.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
-### 🔗 [SimpMusic](https://simpmusic.tech/)
-
-- Transmita facilmente músicas, vídeos, podcasts e rádio de forma totalmente gratuita.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/simpmusic.tech/)
 
 ### 🔗 [Soundbound](https://soundbound.app/)
 
