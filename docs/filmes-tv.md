@@ -140,10 +140,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Atendendo a todos os gostos, a variedade de filmes inclui desde clássicos até sucessos de bilheteria com suporte para legendas multilíngues.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ucinema.so/)
 
-### 🌟 [Bcine](https://bcine.app)
+### 🌟 [Bcine](https://bcine.ru)
 
 - site de streaming que possui reprodução automática, próximo episódio automático, seletor de tema e seu próprio player integrado, esportes ao vivo, lista de favoritos sincronizável, opção de desativar anúncios nas configurações e continuar assistindo.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bcine.app/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bcine.ru/)
 
 ### ▶️ [HDToday](https://hdtoday.tv/)
 
