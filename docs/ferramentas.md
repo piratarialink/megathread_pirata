@@ -117,7 +117,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► Burladores de paywall
 
-- 🌟 [**Bypass Paywalls Clean**](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para o Firefox para burlar paywalls.
+- 🌟 [**Bypass Paywalls Clean**](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve uma extensão do Firefox para burlar paywalls.
 - [BrainlyBypassPaywall](https://gitlab.com/Dwyriel/Greasyfork-Scripts/-/tree/main/BrainlyBypassPaywall?ref_type=heads) - Reseta a contagem diária do Brainly para evadir o paywall de limite diário.
 - [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
 - [Bypass paywalls - Método UA](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o User-Agent para o Google Bot.
@@ -319,7 +319,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Ferramentas de download on-line
 
-- 🌟 [**Cobalt**](https://cobalt.tools/) - Baixe vídeos/áudios do tiktok, reddit, twitter e outros sites. Se a instância principal não funcionar com o YouTube, você pode tentar outras instâncias (as marcadas em verde são as mais seguras): https://instances.cobalt.best/.
+- 🌟 [**Cobalt**](https://cobalt.tools/) - Baixe vídeos/áudios do tiktok, reddit, twitter e outros sites. Se a instância principal não funcionar com o YouTube, você pode tentar outras instâncias (as marcadas em verde são as mais seguras): https://cobalt.directory/.
 - [9xbuddy](https://9xbuddy.com/) - Youtube / site para download de mídia de várias plataformas.
 - [calameodownload](https://calameodownload.com/) - Uma ferramenta online gratuita para baixar qualquer documento público do Calameo como imagens ou PDFs. Acesse o site com uma VPN.
 - [Cnvmp3](https://cnvmp3.com/) - Converta vídeos do YouTube para MP3 ou MP4 e baixe-os com este conversor rápido e gratuito do YouTube. O CnvMP3 é livre de anúncios, seguro e suporta qualidade de até 320 kbps.

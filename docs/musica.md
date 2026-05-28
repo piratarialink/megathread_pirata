@@ -282,7 +282,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🌟 [**SpotiFLAC-Mobile**](https://github.com/zarzet/SpotiFLAC-Mobile)
 
-- Port do SpotiFLAC escrito em Flutter para iOS e Android, minimalista e pouco exigente em relação a especificações de aparelho.
+- Port do SpotiFLAC escrito em Flutter para iOS e Android, minimalista e pouco exigente em relação as especificações de aparelho.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [**Gyawun**](https://jhelumcorp.github.io/)
@@ -297,7 +297,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🌟 [**Metrolist**](https://metrolist.cc/)
 
-- O substituto definitivo para o Youtube Music. Tenha todos os benefícios do cliente padrão ao seu alcance de forma offline e sem custo.
+- Tenha todos os benefícios do cliente padrão do YT Music ao seu alcance de forma offline e sem custo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/metrolist.cc/)
 
 ### 🔗 [Newpipe](https://newpipe.net/)
