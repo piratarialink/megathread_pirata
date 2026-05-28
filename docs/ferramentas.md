@@ -117,7 +117,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► Burladores de paywall
 
-- 🌟 [**Bypass Paywalls Clean**](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve extensão para o Firefox para burlar paywalls.
+- 🌟 [**Bypass Paywalls Clean**](https://x.com/Magnolia1234B) - Perfil no twitter que desenvolve uma extensão do Firefox para burlar paywalls.
 - [BrainlyBypassPaywall](https://gitlab.com/Dwyriel/Greasyfork-Scripts/-/tree/main/BrainlyBypassPaywall?ref_type=heads) - Reseta a contagem diária do Brainly para evadir o paywall de limite diário.
 - [Freedium](https://freedium.cfd/) - Remove paywall somente do Medium.
 - [Bypass paywalls - Método UA](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Mude o User-Agent para o Google Bot.
