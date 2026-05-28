@@ -150,12 +150,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - O Doramogo é um site de streamings de doramas legendados que funciona desde fevereiro de 2025. Recomendamos que o adblock esteja ativado por conta dos anúncios de terceiros no player de vídeo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/doramogo.net/)
 
-### ▶️ [CinebyTV](https://broflix.cc/)
-
-- Aparentemente o domínio broflix.co foi comprado.
-- Entretenimento sem fim com toda a emoção dos sucessos de bilheteria e das plataformas de streaming.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/broflix.cc/)
-
 ### ▶️ [DashFlix](https://dashflix.top/)
 
 - Mergulhe no mundo encantador dos filmes, escolhidos a dedo com paixão por uma seleção diversificada.
