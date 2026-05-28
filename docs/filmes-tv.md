@@ -142,7 +142,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [Bcine](https://bcine.ru)
 
-- site de streaming que possui reprodução automática, próximo episódio automático, seletor de tema e seu próprio player integrado, esportes ao vivo, lista de favoritos sincronizável, opção de desativar anúncios nas configurações e continuar assistindo.
+- Possui reprodução automática, seletor de tema e player próprio integrado, esportes ao vivo, lista de favoritos sincronizável, opção de desativar anúncios nas configurações e continuar assistindo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bcine.ru/)
 
 ### ▶️ [HDToday](https://hdtoday.tv/)
