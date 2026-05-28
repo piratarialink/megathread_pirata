@@ -140,6 +140,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Atendendo a todos os gostos, a variedade de filmes inclui desde clássicos até sucessos de bilheteria com suporte para legendas multilíngues.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ucinema.so/)
 
+### 🌟 [Bcine](https://bcine.ru)
+
+- Possui reprodução automática, seletor de tema e player próprio integrado, esportes ao vivo, lista de favoritos sincronizável, opção de desativar anúncios nas configurações e continuar assistindo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bcine.ru/)
+
 ### ▶️ [HDToday](https://hdtoday.tv/)
 
 - Plataforma com diversas séries e filmes legendados adicionados constantemente.
