@@ -129,11 +129,6 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 - Acesso seguro e irrestrito à uma infinidade de downloads de APK do Android sem custo - use o AntiSplit-M para extrair aplicativos em formato APKM.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkmirror.com/)
 
-### 🌟 [APKPure](https://apkpure.net/)
-
-- Experiência de download de software diversificada e segura, sem a necessidade de extensões extras.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/apkpure.net/)
-
 ### 🌟 [Uptodown](https://www.uptodown.com/) • Interface em Espanhol
 
 - Loja de aplicativos multiplataforma para Android, oferecendo acesso irrestrito a uma variedade de aplicativos.
