@@ -87,7 +87,8 @@
 | IPAOMTK      | ipaomtk-com                 | **Vírus** (_Detectado com malware em várias ocasiões_).                                               |
 | OceanOfApks  | oceanofapks-com             | **Vírus** (_Detectado com malware em várias ocasiões_).                                               |
 | MicroTech Apps  | apps-themicrotech-net             | **Vírus** (_Detectado com malware em várias ocasiões_).                                               |
-| 💩 Happy Mod | happymod-com (proxies)      | **Suspeito** (_Reposta apks modificados de outros sites e permite anúncios clickjacking em excesso_). |
+| 💩 APKPure | apkpure-net      | **Comportamento antiético** (_Upou versão do Telegram com infostealer_). |
+| Happy Mod | happymod-com (+proxies)      | **Suspeito** (_Reposta apks modificados de outros sites e permite anúncios clickjacking em excesso_). |
 
 # ⚙️ ➜ Software
 
