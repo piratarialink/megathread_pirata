@@ -59,7 +59,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🔗 [Downloadly.IR](https://downloadlynet.ir/)
 
-- Abundância de programas de engenharia, além de outras dezenas de informações e add-ons úteis para o dia-a-dia.
+- Abundância de programas de engenharia, além de outras dezenas de informações e add-ons úteis para o dia a dia.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloadlynet.ir/)
   
 ### 🔗 [Download Geral](https://www.downloadgeral.com/aplicativos/windows)
