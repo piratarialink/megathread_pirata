@@ -31,8 +31,6 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 [Sleazyfork](https://sleazyfork.org)
 
-[9xbuddy](https://9xbuddy.com/pt) - Baixador de vídeos de vários sites adultos.
-
 [Os Reformados](https://osreformados.com)
 
 [COOMER](https://coomer.st) - Backup gratuito de todos os Onlyfans e Fansly.
