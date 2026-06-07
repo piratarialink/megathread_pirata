@@ -17,8 +17,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 🎓 Streaming
 
-### 🌟 **[Cursos do Acervo 'clone'](https://t.me/+qgdqvEfryvQ3NzIx)** - Você pode assistir aos cursos pelo Telegram.
-
 ### ▶️ **[curso em vídeo](https://www.cursoemvideo.com/)** - Cursos
 
 ### ▶️ **[kultivi](https://app.kultivi.com/)** - Cursos
