@@ -25,7 +25,7 @@
 
 ### Como eu posso evitar malware indesejado?
 
-- Baixe softwares apenas de fontes confiáveis e oficiais. Estas fontes podem ser encontradas na Megathread do nosso subreddit.
+- Baixe programas apenas de fontes confiáveis e oficiais. Estas fontes podem ser encontradas na Megathread do nosso subreddit.
 - Mantenha um antivírus atualizado para detectar possíveis ameaças. Alguns softwares piratas podem conter malware, e um antivírus eficiente pode ajudar a identificá-los. O próprio Windows Defender da Microsoft já basta. [Leitura importante](/guias/antivirus.md).
 - Antes de baixar qualquer software, **pesquise sobre o site em que irá baixar o programa no reddit**, e preferencialmente procure saber se o site se encontra na Megathread.
 - Se possível, confirme a autenticidade do arquivo comparando checksums ou hashes fornecidos pelo site oficial com os do arquivo que você baixou.
@@ -34,7 +34,7 @@
 - No desktop, crie uma conta no [tria.ge](https://tria.ge/) primeiro; depois, faça o upload do arquivo que tu quer analisar no mega ou no file kiwi. Copie o link do mega ou file kiwi e cole ele dentro da VM do triage; no final, o site irá dizer se tal executável ou .apk é seguro ou não.
 - Tome muito cuidado com arquivos protegidos por senha ou arquivos .EXE, .SH, .RPM, .DEB, .BAT, .PDF, .HMTL, .DLL e com [ataques do tipo RTLO](https://www.reddit.com/r/linuxquestions/comments/124984c/how_does_one_protect_themselves_from_the_rtloltlo/?tl=pt-br), esses tipos de extensão podem ser usadas para ter acesso total ao seu computador, explorar vulnerabilidades 0-day - seria interessante também mudar a data do sistema para ter certeza de que não há nenhum payload escondido.
 - Esteja ciente dos riscos: Reconheça que o uso de softwares piratas envolve riscos significativos, incluindo a exposição a malware e perda de dados.
-- Em vez de recorrer a aplicações piratas, explore alternativas legais, como **softwares de código aberto** ou cloud gaming como a xcloud e o boosteroid.
+- Em vez de recorrer a aplicações piratas, explore alternativas legais, como **softwares de código aberto** ou [aplicações gratuitas na web](https://alternativeto.net/lists/43795/web-applications/).
 
 ### Como eu posso remover um site da megathread?
 
