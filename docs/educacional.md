@@ -144,6 +144,10 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## ☁ Pastas na nuvem
 
+### 📂 [Drive de pobre](https://drivedepobre.com/)
+
+- Plataforma criada para facilitar o acesso gratuito a arquivos, você pode ajudá-la a se manter ativa doando conteúdo educacional relevante ou monetariamente.
+
 ### 📂 [Material Aeronáutico](https://linktr.ee/aviationPiracy)
 
 - Três pastas distintas com materiais diversos de aviação, incluindo simulados e livros para banca ANAC de piloto privado, comercial e comissário.
