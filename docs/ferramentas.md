@@ -70,7 +70,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Hypnotix](https://github.com/linuxmint/hypnotix) - Cliente de IPTV com suporte para TV ao vivo, filmes e seriados. Possui desenvolvimento ativo apenas para o Mint, no entanto, pode rodar em qualquer distro com a build ou pelo [Distrobox](https://distrobox.it) (recomendado) - Repo para o circle-flags disponível em [packages-linuxmint.](http://packages.linuxmint.com/pool/main/c/circle-flags/)
 - [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a compatibilidade dos programas entre as distribuições através de flatpaks - pode substituir os pacotes snaps da Canonical.
 - [Hints](https://github.com/AlfredoSequeida/hints?tab=readme-ov-file) - Feito para quem já está habituado a usar sobretudo o teclado em comparação com o mouse, atente-se a configuração específica do seu gerenciador de janelas [seguindo esse passo a passo.](https://github.com/AlfredoSequeida/hints/wiki/Window-Manager-and-Desktop-Environment-Setup-Guide)
-- 🌟[**EasyEffects**](https://github.com/wwmm/easyeffects?tab=readme-ov-file) - Software escrito em C++ e Python feito para reduzir ruídos e barulho ambiente, fica atrás apenas do Fairlight nesse quesito em particular.
+- 🌟 [**EasyEffects**](https://github.com/wwmm/easyeffects?tab=readme-ov-file) - Software escrito em C++ e Python feito para reduzir ruídos e barulho ambiente, fica atrás apenas do Fairlight nesse quesito em particular.
 - [Czkawka](https://github.com/qarmin/czkawka) - Varredura em lote de duplicatas, pastas vazias, imagens semelhantes e outros arquivos desnecessários do sistema.
 
 ## ► Ferramentas para MacOS
