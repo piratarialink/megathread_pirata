@@ -79,7 +79,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Aplicativo para baixar vídeo/áudio usando o yt-dlp, melhor substituto para o Snaptube no celular por não possuir coleta de dados nem telemetria.
 
-## 🍎 IOS
+## 🍎 iOS
 
 ### 🌟 [Sidestore](https://sidestore.io/) / [AltStore](https://altstore.io/) / [Scarlet](https://usescarlet.com/)
 
@@ -88,7 +88,7 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
-- Executa tarefas em alguns modelos de IOS sem lidar com restrições como a quantidade máxima imposta para apps instalados via sideloading.
+- Executa tarefas em algumas versões do iOS sem lidar com restrições como a quantidade máxima imposta para apps instalados via sideloading.
 
 ## 🛍 Catálogo e Lojas
 
