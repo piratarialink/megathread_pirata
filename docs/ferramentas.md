@@ -273,12 +273,13 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 :::
 
 - [Motrix](https://github.com/agalwood/Motrix) - Motrix é um gerenciador de download completo que suporta download de uma gama de protocolos como o HTTP, FTP, BitTorrent, Magnet, etc.
-* [JDownloader2](http://jdownloader.org/jdownloader2) - É distinto dos demais gerenciadores de download porque suporta o download de hosts de links premium como o **NitroFlare** - apenas em situações que não exigem conta. Reúna e cole todos os links de um arquivo dividido em partes para baixá-lo.
-* **[Trialware]** [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente [faça isso](https://rentry.org/installidm).
-* [Brisk Download Manager](https://github.com/AminBhst/brisk) - Outro gerenciador de downloads muito bom, embora seja um pouco lento.
-* [pyLoad](https://pyload.net/) - Download manager leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
-* [aria2](https://aria2.github.io/) - Gerenciador de downloads e cliente BitTorrent muito semelhante ao cURL. Preparado para lidar com múltiplos ficheiros e protocolos de envio ao mesmo tempo.
-* [ArrowDL](https://www.arrow-dl.com/) - Aplicativo para desktop que o ajuda a organizar e manter seus downloads; possui uma interface limpa e amigável e acima de tudo, é open-source.
+- [Persepolis](https://persepolisdm.github.io/) - Um GUI para o aria2 com extensão disponível para integração via os browsers Librewolf e Firefox, mantido pela comunidade de software livre.
+- [JDownloader2](http://jdownloader.org/jdownloader) - É distinto dos demais gerenciadores de download porque suporta o download de hosts de links premium como o **NitroFlare** - apenas em situações que não exigem conta. Reúna e cole todos os links de um arquivo dividido em partes para baixá-lo.
+- **[Trialware]** [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente [faça isso](https://rentry.org/installidm).
+- [Brisk Download Manager](https://github.com/AminBhst/brisk) - Outro gerenciador de downloads muito bom, embora seja um pouco lento.
+- [pyLoad](https://pyload.net/) - Download manager leve escrito em python. Gerenciado por meio de uma interface de usuário da WEB.
+- [aria2](https://aria2.github.io/) - Gerenciador de downloads e cliente BitTorrent muito semelhante ao cURL. Preparado para lidar com múltiplos ficheiros e protocolos de envio ao mesmo tempo.
+- [ArrowDL](https://www.arrow-dl.com/) - Aplicativo para desktop que o ajuda a organizar e manter seus downloads; possui uma interface limpa e amigável e acima de tudo, é open-source.
 
 ## ► Ferramentas de download
 
