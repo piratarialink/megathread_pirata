@@ -83,12 +83,12 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ### 🌟 [Sidestore](https://sidestore.io/) / [AltStore](https://altstore.io/) / [Scarlet](https://usescarlet.com/)
 
-- Permite instalar aplicativos fora da App Store sem necessidade de jailbreak.
+- Permite instalar aplicativos fora da App Store sem necessidade de jailbreak e USB Debugging.
 - [Guia de como instalar .IPAs](https://rentry.org/how-to-install-ipa-files)
 
 ### 🌟 [LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
-- Executa apps em alguns modelos de IOS sem lidar com restrições de assinatura de código.
+- Executa tarefas em alguns modelos de IOS sem lidar com restrições como a quantidade máxima imposta para apps instalados via sideloading.
 
 ## 🛍 Catálogo e Lojas
 
