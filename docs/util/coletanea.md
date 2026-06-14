@@ -100,8 +100,6 @@ Aqui está uma compilação do que fui acumulando com o tempo, _bookmarks_ e coi
 
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Salta os anúncios que os youtubers colocam no vídeo. Usar com o [Return Youtube Dislike](https://github.com/Anarios/return-youtube-dislike).
 
-- [YouTube No Translation](https://github.com/YouG-o/YouTube_No_Translation) - Bloqueia traduções simultâneas da dublagem do YouTube, disponível para o navegador web Firefox, Chrome, Edge e Safari.
-
 ### Serviços focados em privacidade e segurança
 
 - [Proton](https://proton.me/) - O Proton fornece e-mail criptografado, calendário, armazenamento de arquivos e VPN fáceis de usar, baseados no princípio de seus dados, suas regras. Sua privacidade é garantida por criptografia forte, código-fonte aberto e leis de privacidade suíças.
