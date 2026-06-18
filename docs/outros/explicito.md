@@ -35,6 +35,6 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 [COOMER](https://coomer.st) - Backup gratuito de todos os Onlyfans e Fansly.
 
-[KEMONO](https://kemono.cr/)
+[KEMONO](https://kemono.cr/) / [PAWCHIVE](https://pawchive.st/)
 
 ---
