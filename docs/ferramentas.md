@@ -63,7 +63,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) -  Remapeia os botões laterais do mouse sem que seja preciso recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
 - 🌟 [**TimeShift**](https://github.com/linuxmint/timeshift) - Cria pontos de restauração incrementais de arquivos do sistema, útil para quando for preciso reverter falhas causadas por chaves pgp ou pacotes ppa instáveis.
 - [ULTMOS](https://github.com/Coopydood/ultimate-macOS-KVM) - Usa o KVM (Kernel Virtual Machine) para replicar diversas versões do OS X no Linux. Com suporte a GPU dedicada + macOS Tahoe.
-- [Faugus Launcher](https://github.com/Faugus/faugus-launcher) - Adiciona uma camada extra de compatibilidade com o framework .NET e demais bibliotecas da Microsoft através de recursos como o Proton GE e WineTricks para jogos/programas crackeados.
+- [FSearch](https://github.com/cboxdoerfer/fsearch) - O equivalente ao programa "Everything" do Windows, localize filenames por RegEx ou wildcards ou até mesmo mais rápido com o [comando find](https://stackoverflow.com/a/62144813) no terminal. 
 - 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova anúncios da Canonical como o Ubuntu PRO no terminal e mensagens ESM com esse método - Post original do [Ask Ubuntu](https://askubuntu.com/a/1438510).
 - 🌟 [**ubuntu-debullshit!**](https://github.com/polhdez/ubuntu-debullshit) - Retira a coleta de dados e o snapd da Canonical, **em versões mais recentes do Ubuntu, a telemetria é mais opt-out - você precisa desativá-la durante a instalação** - Post original por [u/klfld](https://www.reddit.com/r/linux/comments/13fj1xf/ubuntudebullshit_script_to_get_vanilla_gnome/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button).
 - [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Port não oficial do Lossless Scaling para GNU/Linux e Steam Deck; necessita da dll do lossless scaling para funcionar, a qual você pode extrair da [versão marítima do LS sem pagar nada](https://cs.rin.ru/forum/viewtopic.php?f=41&t=94507&hilit=lossless+scallin&start=1155).
@@ -71,7 +71,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a compatibilidade dos programas entre as distribuições através de flatpaks - pode substituir os pacotes snaps da Canonical.
 - [Hints](https://github.com/AlfredoSequeida/hints?tab=readme-ov-file) - Feito para quem já está habituado a usar sobretudo o teclado em comparação com o mouse, atente-se a configuração específica do seu gerenciador de janelas [seguindo esse passo a passo.](https://github.com/AlfredoSequeida/hints/wiki/Window-Manager-and-Desktop-Environment-Setup-Guide)
 - 🌟 [**EasyEffects**](https://github.com/wwmm/easyeffects?tab=readme-ov-file) - Software escrito em C++ e Python feito para reduzir ruídos e barulho ambiente, fica atrás apenas do Fairlight nesse quesito em particular.
-- [Czkawka](https://github.com/qarmin/czkawka) - Varredura em lote de duplicatas, pastas vazias, imagens semelhantes e outros arquivos desnecessários do sistema.
+- [Czkawka](https://github.com/qarmin/czkawka) - Varredura em lote de duplicatas, pastas vazias, imagens semelhantes e arquivos grandes do sistema.
 
 ## ► Ferramentas para MacOS
 
@@ -485,6 +485,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [Rclone](https://github.com/rclone/rclone) - Responsável por transferir seus saves de jogos crackeados para a nuvem. Funciona como CLI apenas.
 - [GameMode](https://github.com/FeralInteractive/gamemode) - Abre uma brecha no Linux para que jogos recebam otimizações sem exigir tanto poder de processamento da CPU/GPU - Tópico original do [mastercomfig.](https://docs.comfig.app/latest/os/linux/#gamemode)
 - [CreamInstaller](https://cs.rin.ru/forum/viewtopic.php?f=20&t=154539) - Gera e instala desbloqueadores de DLC para jogos da Steam, Ubisoft e da Epic. [Subreddit](https://www.reddit.com/r/Creaminstaller/)
+- [Faugus Launcher](https://github.com/Faugus/faugus-launcher) - Camada extra de compatibilidade com o framework .NET e demais bibliotecas da Microsoft via Proton GE e WineTricks para jogos crackeados no Unix.
 - [Linux Crack Tips](https://www.reddit.com/r/LinuxCrackSupport/) - Subreddit para se obter suporte técnico de jogos crackeados no sistema do pinguim.
 - [ProtonDB](https://www.protondb.com/) - Database de jogos que rodam e não rodam em distros Linux. [Leitura interessante](https://plus.diolinux.com.br/t/execute-jogos-windows-no-linux-com-o-proton-da-steam/38745)
 - [Better xCloud](https://github.com/redphx/better-xcloud) - Userscript para melhorar a jogatina do Xbox Cloud (Xbox Game Pass) e da Remote Play em navegadores.
