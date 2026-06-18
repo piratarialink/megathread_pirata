@@ -21,7 +21,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Incrível variedade de filmes de excelente qualidade oferecidos para download direto através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
 - Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.fm/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.pet/)
 
 ### 🌟 [Pomfy](https://pomfy.online/) / [2](https://pomfy.stream/) / [API](https://api.pomfy.stream/)
 
@@ -197,11 +197,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 📺️ TV
 
-### 🌟 [Rede Canais TV](https://redecanaistv.gl/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/)
+### 🌟 [Rede Canais TV](https://redecanaistv.cool/) / [2](https://redecanaistv.wales/)
 
 - Oferece canais ao vivo com a mais alta qualidade: ESPN, Band Sports, CazéTV, etc.
-- Muda constantemente de domínio, para se manter atualizado confira o [discord oficial](https://discord.com/invite/kydZZBGwTy).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanaistv.gl/)
+- Muda constantemente de domínio, para se manter atualizado confira sempre a megathread.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanaistv.cool/)
 
 ### 🌟 [TV a Cabo](https://tvacabo.free.nf/)
 
