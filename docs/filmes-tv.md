@@ -290,10 +290,21 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Aplicativo de streaming que te permite assistir vídeos, filmes e séries de TV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/stremio.com/)
 
+### 🌟 [Nuvio](https://github.com/NuvioMedia)
+
+- Um hub de mídia moderno para Android e iOS, desenvolvido com Kotlin Multiplatform e Compose Multiplatform. Com suporte a addons do Stremio e versão desktop em desenvolvimento. Ótima alternativa ao Stremio, uma vez que possuí todas funções pagas do Stremio, gratuitamente. [Post com guias e infos gerais](https://www.reddit.com/r/Nuvio/s/v4gABF5vqf)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
 ### 🌟 [CloudStream](https://github.com/recloudstream/cloudstream)
 
 - Centro de mídia escrito em Kotlin, especializado em smartphones e android TVs. [Link para a extensão brasileira](https://github.com/saimuelbr/saimuelrepo) / [2](https://github.com/lawlietbr/lietrepo)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+
+
+### 🔗 [StreamX](https://streamx-app.com/)
+
+- StreamX é o reprodutor de IPTV simplificado para iOS. Comece a assistir seus canais, filmes e séries favoritos sem se preocupar com menus complexos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/streamx-app.com/)
 
 ### 🔗 [Streamyfin](https://github.com/streamyfin/streamyfin)
 
