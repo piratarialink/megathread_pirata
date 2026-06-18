@@ -30,9 +30,8 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (esse programa é melhor do que parece).
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
 - 🌟 [**Remove WindowsAI**](https://github.com/zoicware/RemoveWindowsAI) - Remove o Copilot e barra a reinstalação de recursos de LLM - alguns desses ainda devem ser desativados manualmente como o agente local do [Studio Effects.](https://github.com/zoicware/RemoveWindowsAI/blob/main/OtherAIFeatures.md), Paint e Microsoft 365. (exclua a pasta do Local Manager no WindowsApps com o [Bulk Crap Uninstaller](https://www.bcuninstaller.com/))
-- [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado, bem como automatiza funções.
-- [Chocolatey](https://chocolatey.org/) - Um instalador de linha de comando para o Windows, muito semelhante ao WinGet.
-- [Scoop](https://github.com/ScoopInstaller/Scoop) - Outro instalador de linha de comando.
+- [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado, melhor se for usado em conjunto com o [windows-ahk.](http://windows-ahk.bibeka.com.np/)
+- [UniGetUI](https://devolutions.net/unigetui/) - Um painel de comando para os gerenciadores de pacote winget, scoop, chocolatey, pip e powershell gallery.
 - 🌟 [**Wintoys**](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge e o OneDrive com a opção "Digital Markets Act" ligada (quando não funcionar, [tente isso](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)), e ativa o "Modo Deus" - espécie de painel de controle estendido, com todas as opções do sistema reunidas em uma só pasta. 
 - [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à uma experiência moderna e segura no Windows.
 - [Windhawk](https://windhawk.net/) - Alguns ajustes extras como customização da barra de tarefas (diminuir ou aumentar os ícones - torná-la translúcida), restaurar o antigo menu de contexto e corrigir o uso das teclas em dois monitores.
