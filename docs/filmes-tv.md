@@ -17,7 +17,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🗣 Dublados
 
-### 🌟 [Rede Canais](https://redecanais.pet/) / [2](https://redecanais.fm/)
+### 🌟 [Rede Canais](https://redecanais.pet/) / [2](https://redecanais.fm/) / [3](https://redecanais.cool/)
 
 - Incrível variedade de filmes de excelente qualidade oferecidos para download direto através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
 - Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
