@@ -292,7 +292,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [Nuvio](https://github.com/NuvioMedia)
 
-- Um hub de mídia moderno para Android e iOS, desenvolvido com Kotlin Multiplatform e Compose Multiplatform. Ótima alternativa ao Stremio, uma vez que possui todas funções pagas do Stremio, gratuitamente. [Post importante](https://www.reddit.com/r/Nuvio/s/v4gABF5vqf)
+- Um hub de mídia moderno para Android e iOS. Ótima alternativa ao Stremio, uma vez que possui todas funções pagas do Stremio, gratuitamente. [Post importante](https://www.reddit.com/r/Nuvio/s/v4gABF5vqf)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [CloudStream](https://github.com/recloudstream/cloudstream)
