@@ -318,13 +318,17 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv1.xyz/)
 
+### 🔗 [Comando](https://comando1.com/) / [2](https://comandotorrents.to/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comando1.com/)
+
 ### 🔗 [Sem Torrent](https://semtorrent.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/semtorrent.com/)
 
-### 🔗 [Torrent dos Filmes](https://torrentdosfilmes.site/)
+### 🔗 [Torrent dos Filmes](https://torrentdosfilmes-v2.xyz/) / [2](https://torrentdosfilmes1.site/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes.site/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes1.site/)
 
 ### 🔗 [HDR Torrent](https://hdrtorrent.com/)
 
