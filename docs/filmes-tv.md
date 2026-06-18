@@ -277,7 +277,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Playlists .M3U de emissoras abertas e livres de copyright do [Brasil](https://github.com/Free-TV/IPTV/blob/master/lists/brazil.md) e do restante do mundo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### ▶️ [Betterflix](https://betterflix.click/canais?lang=pt) / [API](https://betterflix.click/api)
+### 📺️ [Betterflix](https://betterflix.click/canais?lang=pt) / [API](https://betterflix.click/api)
 
 - Mais de 300 canais de tv e jogos ao vivo transmitidos todos os dias. 
 - Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) e [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
@@ -292,14 +292,13 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [Nuvio](https://github.com/NuvioMedia)
 
-- Um hub de mídia moderno para Android e iOS, desenvolvido com Kotlin Multiplatform e Compose Multiplatform. Com suporte a addons do Stremio e versão desktop em desenvolvimento. Ótima alternativa ao Stremio, uma vez que possuí todas funções pagas do Stremio, gratuitamente. [Post com guias e infos gerais](https://www.reddit.com/r/Nuvio/s/v4gABF5vqf)
+- Um hub de mídia moderno para Android e iOS, desenvolvido com Kotlin Multiplatform e Compose Multiplatform. Ótima alternativa ao Stremio, uma vez que possuí todas funções pagas do Stremio, gratuitamente. [Post importante](https://www.reddit.com/r/Nuvio/s/v4gABF5vqf)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [CloudStream](https://github.com/recloudstream/cloudstream)
 
 - Centro de mídia escrito em Kotlin, especializado em smartphones e android TVs. [Link para a extensão brasileira](https://github.com/saimuelbr/saimuelrepo) / [2](https://github.com/lawlietbr/lietrepo)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
-
 
 ### 🔗 [StreamX](https://streamx-app.com/)
 
