@@ -190,21 +190,6 @@ Um sistema operacional mobile privado e seguro com compatibilidade de aplicativo
 
 ![LineageOS](./images/lineage_os.jpg)
 
-## Criptomoedas
-
-### [Bisq](https://bisq.network)
-
-Bisq é uma DEX de código aberto exclusiva para desktop que permite que você troque moedas fiduciárias (via PIX do Brasil ou SEPA para residentes de Portugal) por bitcoin, monero, litecoin e ethereum através do p2p; funciona somente com o serviço Tor que a propósito já vem integrado após a instalação do cliente.
-
-**Nota importante:** o bitcoin core não é confidencial por padrão, mas existem algumas formas relativamente fáceis de contornar isso, por exemplo: passar seus bitcoins para rede liquid e retornar para on-chain utilizando a [boltz.exchange](https://boltz.exchange) (**não compre ou transfira btc por meio da rede lightning**).
-
-Além do método referido, também é possível usar mixers que atuam por técnicas coinjoin como o [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver), uma ferramenta que exige um full node seu, ou seja, a blockchain inteira; é um localhost muito seguro. Dos outros participantes, ele exigirá o mesmo. Você envia do seu endereço para um gerado pelo JoinMarket e os outros participantes também, assim ele mistura as transações, tudo isso, de forma descentralizada.
-
-:::tip A [Electrum Wallet](https://electrum.org/) é uma alternativa viável à carteira oficial do bitcoin, pois não exige que você baixe a blockchain inteira no seu computador
-:::
-
-:::warning Evite corretoras de cripto como a Binance, Kraken e Mercado Bitcoin - CEXs que envolvem a exposição de seus dados pessoais (KYC) e desenvolvimento baseado em código fechado
-:::
 
 ## Criptografia de disco
 
