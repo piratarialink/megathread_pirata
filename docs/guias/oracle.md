@@ -1,8 +1,11 @@
-# 📑 ➜ Criando uma VPS gratuita com 24gb de RAM na Oracle CI
+# 📑 ➜ Criando uma VPS gratuita com 12gb de RAM na Oracle CI
+
+:::danger A Oracle confirmou a mudança do modo free tier: agora instâncias ARM (ampere) poderão ter no máximo 2 OCPUs e 12gb de RAM cada, para AMD o limite continua sendo o mesmo.
+:::
 
 ## 1. Conta e limites estipulados
 
-Conseguindo acesso no modo Free Tier você tem direito até quatro instâncias com o processador ARM, cada uma com no total 200 GB de storage e 4 Gbps de largura de banda.
+Conseguindo acesso no modo Free Tier você tem direito até quatro instâncias com o processador ARM, cada uma com no total 200 GB de storage e ~2 Gbps de largura de banda.
 Independente do que fizer, será necessário confirmar sua identidade com o cartão de crédito, não vale cartão pré pago daqueles que você gera no DigitalPurse ou PicPay, precisa ser um cartão com os dados e endereço do titular, no caso você.
 
 :::info Será feita uma retirada no valor de 600 reais do seu limite como forma de teste mas a quantia é reembolsada na hora.
@@ -43,7 +46,7 @@ Estarei usando a forma Ampere nesse tutorial:
 
 ![oracle2.2](./images/oracle2.2.png)
 
-Clique na setinha no lado esquerdo e mude esta config para quatro núcleos e 24 de memória 
+Clique na setinha no lado esquerdo e mude esta config para dois núcleos e 12 de memória 
 
 ![oracle3](./images/oracle3.png)
 
