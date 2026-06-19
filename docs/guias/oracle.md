@@ -46,7 +46,7 @@ Estarei usando a forma Ampere nesse tutorial:
 
 ![oracle2.2](./images/oracle2.2.png)
 
-Clique na setinha no lado esquerdo e mude esta config para dois núcleos e 12 de memória 
+Clique na setinha no lado esquerdo e mude esta config para ~~quatro núcleos e 24 de memória~~ (dois núcleos e 12 de memória agora)
 
 ![oracle3](./images/oracle3.png)
 
