@@ -30,7 +30,7 @@ Na era da conectividade digital, a necessidade de acessar serviços e aplicativo
 
 Desenvolvido para oferecer uma visão clara e prática sobre como configurar o DNS em diferentes dispositivos. Esse tutorial é um ponto de partida sólido, mas sabemos que sempre há espaço para melhorias.
 
-## 📑 ➜ [Criando uma VPS gratuita com 24gb de RAM na Oracle CI](guias/oracle.md)
+## 📑 ➜ [Criando uma VPS gratuita com 12gb de RAM na Oracle CI](guias/oracle.md)
 
 Definindo um usuário e uma virtual machine da forma correta, você terá acesso a um server 100% gratuito para brincar um pouco ou até mesmo fazer o deploy de suas aplicações na web, muitas vezes dentro de um processo que envolve abrir portas e mexer em configurações específicas do nginx funcionando em paralelo à sua máquina local.
 
