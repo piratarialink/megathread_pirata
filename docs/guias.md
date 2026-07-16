@@ -32,7 +32,7 @@ Desenvolvido para oferecer uma visão clara e prática sobre como configurar o D
 
 ## 📑 ➜ [Criando uma VPS gratuita com 12gb de RAM na Oracle CI](guias/oracle.md)
 
-Definindo um usuário e uma virtual machine da forma correta, você terá acesso a um server 100% gratuito para brincar um pouco ou até mesmo fazer o deploy de suas aplicações na web, muitas vezes dentro de um processo que envolve abrir portas e mexer em configurações específicas do nginx funcionando em paralelo à sua máquina local.
+Definindo um usuário e uma virtual machine da forma correta, você terá acesso a um server 100% gratuito para brincar um pouco, hospedar seu próprio agente de IA localmente na sua máquina ou até mesmo fazer o deploy de suas aplicações na web, muitas vezes dentro de um processo que envolve abrir portas e mexer em configurações específicas do nginx funcionando em paralelo à sua máquina local.
 
 ## 📑 ➜ [Guia de como burlar restrição de download do Archive.org](guias/como-burlar-restrição-de-download-archive-org.md)
 
