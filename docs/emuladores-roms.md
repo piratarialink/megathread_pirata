@@ -329,11 +329,26 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Use a extensão [PopupOFF](https://popupoff.org/) por conta de anti-adblock.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nxbrew.net/)
 
+### 🔗 [Old Games Download](https://oldgamesdownload.com/)
+
+- Este projeto foi fundado para preservar os videogames que não estão mais à venda ou para download e que têm um significado nostálgico para a comunidade.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/oldgamesdownload.com/)
+
+### 🔗 [Old-Games.RU](https://www.old-games.ru/) • Interface em russo
+
+- Tudo sobre jogos de computador antigos, use um tradutor ou a extensão Translate Web Pages do Filipe Dev.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/old-games.ru/)
+
 ### 🌟 [**SMWC**](https://www.smwcentral.net/?p=main)
 
 - Espaço mais voltado à preservação de romhacks e fangames da franquia Super Mario.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/smwcentral.net/)
 
+### 🔗 [PC Games Abandonware](https://www.pcgamesabandonware.com/en/home)
+
+- Redescubra jogos clássicos e nostálgicos gratuitamente com uma seção dedicada para emuladores.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pcgamesabandonware.com/)
+  
 ### 🔗 [Retro Roms "Best" Set](https://archive.org/details/retro-roms-best-set)
 
 - Oferece a lista dos melhores jogos mais amplamente aceita pelo público.
@@ -379,16 +394,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Reviva sua infância agora mesmo com jogos de consoles retrô da quinta e sexta geração diretamente no seu computador.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romulation.org/)
 
-### 🔗 [Old Games Download](https://oldgamesdownload.com/)
-
-- Este projeto foi fundado para preservar os videogames que não estão mais à venda ou para download e que têm um significado nostálgico para a comunidade.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/oldgamesdownload.com/)
-
-### 🔗 [Old-Games.RU](https://www.old-games.ru/) • Interface em russo
-
-- Tudo sobre jogos de computador antigos, use um tradutor ou a extensão Translate Web Pages do Filipe Dev.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/old-games.ru/)
-
 ### 🔗 [The Collection Chamber](https://collectionchamber.blogspot.com/)
 
 - Uma seleção significativa de jogos clássicos otimizados para o Windows moderno.
@@ -398,11 +403,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Arquivo que preserva e disponibiliza downloads de jogos antigos old school de diversos sistemas e consoles.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/abandonwaregames.net/)
-
-### 🔗 [PC Games Abandonware](https://www.pcgamesabandonware.com/en/home)
-
-- Redescubra jogos clássicos e nostálgicos gratuitamente com uma seção dedicada para emuladores.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pcgamesabandonware.com/)
 
 ### 🔗 [**Ziperto**](https://www.ziperto.com)
 
