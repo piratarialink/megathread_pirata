@@ -280,6 +280,18 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## 📱 Celular
 
+### 🌟 [YT Music Revanced](https://revanced.app/)
+
+- Patcher do Youtube e Youtube Music para bloquear anúncios e desbloquear funções nos aplicativos.
+- Para o funcionamento correto no Android Auto, deve-se usar o MicroG RE.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/revanced.app/)
+
+### 🌟 [YT Music Morphe](https://morphe.software/)
+
+- Alternativa para o Revanced
+- Já funciona direto no Android Auto sem problemas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/morphe.software/)
+
 ### 🌟 [**SpotiFLAC-Mobile**](https://github.com/zarzet/SpotiFLAC-Mobile)
 
 - Port do SpotiFLAC escrito em Flutter para iOS e Android, minimalista e pouco exigente em relação as especificações de aparelho.
