@@ -85,7 +85,7 @@ Dê permissão read-only:
 
  ` ssh -i /root/endereçodachaveprivada.key ubuntu@endereçodamáquinaaqui`
 
- Você pode utilizar aliases também para se conectar - O GPT é seu amigo, lembre-se.
+ Você pode utilizar aliases também para se conectar - mais detalhes no link a seguir: https://www.computerhope.com/unix/ualias.htm
 
 ### No Windows
 
