@@ -64,7 +64,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🌟 [**RetroArch**](https://www.retroarch.com/)
 
 - Sua interface gráfica elegante permite que você jogue programas de DOS e PC-98 em uma variedade de PCs e plataformas.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.retroarch.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/retroarch.com/)
     
 ### 🔗 [ares](https://ares-emu.net/)
 
