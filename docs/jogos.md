@@ -121,21 +121,11 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Portal criado por volta de 2016 - explore uma vasta coletânea de games nativos para Windows 11, 10, Linux e Macintosh.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/worldofpcgames.com/)
 
-### 🔗 [Abandonware Games](https://abandonwaregames.net/)
-
-- Arquivo que preserva e disponibiliza downloads de jogos antigos old school de diversos sistemas e consoles.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/abandonwaregames.net/)
-
 ### 🔗 [CODEX](https://www.skidrowcodex.net/)
 
 - Grupo warez fundado em meados de 2014, conhecido por lançar/compartilhar repacks que quebram o denuvo de alguns jogos - geralmente os mais em alta.
 - **Atenção! Sites com a combinação de nomes: Codex, Cpy, Skidrow, Hoodlum, Reloaded, Simplex, Darksiders, Plaza, etc. podem não ser seguros. Baixe com cautela.**
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/skidrowcodex.net/)
-
-### 🔗 [PC Games Abandonware](https://www.pcgamesabandonware.com/en/home)
-
-- Descubra jogos clássicos gratuitamente com uma seção dedicada para emuladores.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pcgamesabandonware.com/)
 
 ### 🔗 [AtopGames](https://atopgames.com/)
 
@@ -172,21 +162,6 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Site conhecido na cena por seus lançamentos, fornece uma infinidade de hospedadores de arquivos gratuitos e fáceis de usar que são facilmente acessíveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gload.to/)
 
-### 🔗 [My Abandonware](https://www.myabandonware.com/)
-
-- Fundado em fevereiro de 2009, milhares de jogos foram upados no site ao longo dos anos. Um bom banco de dados de videogames retrô e vintage.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/myabandonware.com/)
-
-### 🔗 [Old Games Download](https://oldgamesdownload.com/)
-
-- Este projeto foi fundado para preservar os videogames que não estão mais à venda ou para download e que têm um significado nostálgico para a comunidade.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/oldgamesdownload.com/)
-
-### 🔗 [Old-Games.RU](https://www.old-games.ru/) • Interface em russo
-
-- Tudo sobre jogos de computador antigos, use um tradutor ou a extensão Translate Web Pages.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/old-games.ru/)
-
 ### 🔗 [PiviGames](https://pivigames.blog/) • Interface em espanhol
 
 - Os videogames podem ser baixados gratuitamente e são ocasionalmente baseados nos lançamentos do ElAmigos. As opções de host de arquivos incluem MediaFire e MEGA.
@@ -206,11 +181,6 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 - Jogos pré-instalados, incluindo links diretos, juntamente com conteúdo DLC completo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/reloadedsteam.com/)
-
-### 🔗 [The Collection Chamber](https://collectionchamber.blogspot.com/)
-
-- Uma seleção significativa de jogos clássicos otimizados para o Windows moderno.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/collectionchamber.blogspot.com/)
 
 ### 🔗 [Torrminatorr](https://torrminatorr.com/) - Necessário Cadastro
 
