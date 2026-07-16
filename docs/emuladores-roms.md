@@ -106,7 +106,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [Cemu](https://cemu.info/) • Wii U
 
-- Jogue a maioria dos jogos do console mais subestimado da Nintendo, é anualmente atualizado com novos recursos.
+- Jogue a maioria dos jogos do console mais subestimado da Big N, é anualmente atualizado com novos recursos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cemu.info/)
 
 ### 🌟 [**Dolphin**](https://dolphin-emu.org/) • GameCube + Wii
@@ -186,12 +186,17 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## 🔵 Sega
 
+### 🌟 [ClownMDEmu](https://clownacy.wordpress.com/tag/clownmdemu/) • Mega Drive/Sega CD
+
+- Frontend para videojogos da era 16 bits da Sega.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/clownacy.wordpress.com)
+
 ### 🔗 [Flycast](https://github.com/flyinghead/flycast) • Dreamcast
 
 - Bom emulador multiplataforma que também suporta Naomi, Naomi 2 e Atomiswave.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🌟 [**Kega Fusion**](https://www.carpeludum.com/kega-fusion/) / [2](https://segaretro.org/Kega_Fusion) • Todos os consoles **lançados antes** Sega Saturn
+### 🌟 [**Kega Fusion**](https://www.carpeludum.com/kega-fusion/) / [2](https://segaretro.org/Kega_Fusion) • Todos os consoles **lançados antes** do Sega Saturn
 
 - Uma enorme ênfase na precisão, altamente otimizado e funciona muito bem.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/carpeludum.com/)
