@@ -17,7 +17,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## 📒 Diversos
 
-### 🌟 [Wiki geral de emulação](https://emulation.gametechwiki.com/index.php/Main_Page)
+### 🌟 [**Wiki geral de emulação**](https://emulation.gametechwiki.com/index.php/Main_Page)
 
 - Lista incrível de emuladores que seguem ativos e atualizados regularmente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/emulation.gametechwiki.com/)
@@ -61,30 +61,36 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## 👾 Multisistema
 
+### 🌟 [**RetroArch**](https://www.retroarch.com/)
+
+- Sua interface gráfica elegante permite que você jogue programas de DOS e PC-98 em uma variedade de PCs e plataformas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.retroarch.com/)
+    
 ### 🔗 [ares](https://ares-emu.net/)
 
 - Emulador de código aberto e cross-platform que prioriza precisão e preservação.
-
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ares-emu.net/)
+  
 ### 🔗 [Lemuroid](https://f-droid.org/en/packages/com.swordfish.lemuroid/)
 
 - Emulador de código aberto sem anúncios para o Android - publicado sob a licença GPLv3.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/f-droid.org/)
 
 ### 🔗 [MAME](https://www.mamedev.org/)
 
 - Simulação de sistemas de jogos arcade em PCs de jogos e outros dispositivos de jogos.
-
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.mamedev.org/)
+  
 ### 🔗 [Mednafen](https://mednafen.github.io/)
 
 - Emulador portátil baseado em argumentos que faz uso de OpenGL e SDL.
-
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mednafen.github.io/)
+  
 ### 🔗 [OpenEmu](https://openemu.org/) • MacOS
 
 - Adaptável e capaz de simular uma ampla gama de sistemas de videogame.
-
-### 🔗 [RetroArch](https://www.retroarch.com/)
-
-- Sua interface gráfica elegante permite que você jogue jogos antigos em uma variedade de PCs e consoles.
-
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/openemu.org/)
+  
 ## 📦 Microsoft
 
 ### 🔗 [DOSBox-X](https://dosbox-x.com/) • MS-DOS
@@ -186,7 +192,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## 🔵 Sega
 
-### 🌟 [ClownMDEmu](https://clownacy.wordpress.com/tag/clownmdemu/) • Mega Drive/Sega CD
+### 🌟 [**ClownMDEmu**](https://clownacy.wordpress.com/tag/clownmdemu/) • Mega Drive/Sega CD
 
 - Frontend para videojogos da era 16 bits da Sega.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/clownacy.wordpress.com)
