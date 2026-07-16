@@ -289,6 +289,20 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 ‎
 ‎
 
+### 🧲 ➜ Torrent/P2P
+
+---
+
+#### 🌟 [Nyaa.si](https://nyaa.si/) / [Nyaa.land](https://nyaa.land/)
+
+- Referência quando o assunto é mangás em torrent.
+- Como pesquisar obras em pt-BR: `No filter` > `Non-English-translated` > `pt br`.
+- A maioria dos mangás não está disponível em português
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/nyaa.si/)
+
+‎
+‎
+
 ### 🎌 ➜ Leitores de Mangá
 
 :::info Planilha no Docs com informações das extensões para serem usadas em apps como Aniyomi, Tachiyomi, Dantotsu, etc.: [Link](https://docs.google.com/spreadsheets/d/1Hc0hsUK1uNlh8zI0bAvFHzvbWt-RTKcBox4KxAZ9Z8c/edit?usp=drive_link)
@@ -417,7 +431,11 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🔗 [QG - Baltigo mangás](https://t.me/MangasBrasil)
 
-
-
-
 ‎
+
+## 📱 Kindle
+
+### 🔗 [KCC - Kindle Comic Converter](https://github.com/ciromattia/kcc)
+
+- Programa para adaptar quadrinhos e principalmente mangás para o formato e tamanho do Kindle.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)

@@ -101,27 +101,53 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ## 💥 Gibis
 
-### 🔗 [Darkseid Club](https://site.ds-club.net/)
+### 🌟 [GetComics](https://getcomics.org/)
 
-- O Darkseid Club é um grupo formado por fãs da nona arte e em especial pelo universo da editora DC Comics.
+- Website gringo com ótimo acervo de HQs para download em .CBZ e .CBR.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/getcomics.org/)
+
+### 🌟 [WinxClubMagazinesBr](https://winxclubmagazinesbr.blogspot.com/)
+
+- WinxClub é um blog do blogspot com um acervo **gigantesco** de gibis de Turma da Mônica e Turma da Mônica Jovem.
+- Leitura online e download em PDF disponivel no Mega e Mediafire.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/winxclubmagazinesbr.blogspot.com/)
+
+### 🌟 [BatCave](https://batcave.biz/)
+
+- Acervo gringo enorme de quadrinhos.
+- Leitura online.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/batcave.biz/)
+
+### 🔗 [Darkseid Club](https://site.ds-club.net/)  • Necessário Cadastrar-se
+
+- O Darkseid Club é um grupo formado por fãs de quadrinhos com foco na DC Comics.
+- O site deles pode ser bem lento, mas é uma ótima fonte de quadrinhos DC traduzidos para PT-BR.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/site.ds-club.net/)
+
+### 🔗 [KuroScan](https://kuroscan.blogspot.com/)
+
+- KuroScan é uma Scan especializada nas HQs de Julia Kendall.
+- Downloads disponíveis no MediaFire, 4Shared e Mega.
+
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/kuroscan.blogspot.com/)
+
+### 🔗 [SoQuadrinhos](https://site.soquadrinhos.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/site.soquadrinhos.com/)
+
+### 🔗 [NdranghetaHQs](https://ndrangheta-br.blogspot.com/)
+
+- Blogspot de quadrinhos offstream. Foco em HQs europeias.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ndrangheta-br.blogspot.com/)
 
 ### 🔗 [HQ Now](https://www.hq-now.com/)
 
 - Scan de revistas populares e clássicas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hq-now.com/)
 
-### 🔗 [Baixar Quadrinhos](https://baixarhq.com/)
-
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/baixarhq.com/)
-
 ### 🔗 [Tudo HQ e Mangá](https://tudohqemanga.com.br/)
 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/tudohqemanga.com.br/)
-
-### 🔗 [The Old Shinobi](https://www.theoldshinobi.site/marvel-comics/)
-
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/theoldshinobi.site/)
 
 ## ☁️ Pastas na Nuvem
 
@@ -361,7 +387,9 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ## 📑 No Telegram
 
-### 📣 [Tudo de Bom em AUDIOLIVROS](https://t.me/Tudo_de_BOM_em_AUDIOLIVROS)
+### 🌟 [Utopia Cultural Scans](https://t.me/+u4i2ooZPspQ4NGVh)
+
+- Scan brasileira de quadrinhos em ótima qualidade.
 
 ### 📣 [Information Security Books](https://t.me/ITSBooks)
 

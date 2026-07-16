@@ -316,10 +316,6 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 ## 🧲 Torrent/P2P
 
-### 🌟 [EZTV](https://eztvx.to/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/eztvx.to/)
-
 ### 🌟 [Rede Torrent](https://redetorrent.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
@@ -327,6 +323,10 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 ### 🌟 [BluDV](https://bludv1.xyz/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv1.xyz/)
+
+### 🌟 [EZTV](https://eztvx.to/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/eztvx.to/)
 
 ### 🔗 [Comando](https://comando1.com/) / [2](https://comandotorrents.to/)
 
