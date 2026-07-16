@@ -262,6 +262,11 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Dump fantástico de ROMs de diversos consoles, links para jogos populares que estão disponíveis no archive.org podem ser encontrados aqui.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/r-roms.github.io/)
 
+### 🔗 [My Abandonware](https://www.myabandonware.com/)
+
+- Fundado em fevereiro de 2009, trata-se de um acervo com milhares de jogos retrô e vintage que foram salvos ao longo dos anos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/myabandonware.com/)
+
 ### 🔗 [PSX Downloads](https://psxdownloads.us/) - Necessário Registrar-se
 
 - Oferece alguns jogos traduzidos e dublados (Fan-dubs) em português brasileiro para PS1, PS2 e PS3.
@@ -373,6 +378,31 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Reviva sua infância agora mesmo com jogos de consoles retrô da quinta e sexta geração diretamente no seu computador.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romulation.org/)
+
+### 🔗 [Old Games Download](https://oldgamesdownload.com/)
+
+- Este projeto foi fundado para preservar os videogames que não estão mais à venda ou para download e que têm um significado nostálgico para a comunidade.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/oldgamesdownload.com/)
+
+### 🔗 [Old-Games.RU](https://www.old-games.ru/) • Interface em russo
+
+- Tudo sobre jogos de computador antigos, use um tradutor ou a extensão Translate Web Pages do Filipe Dev.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/old-games.ru/)
+
+### 🔗 [The Collection Chamber](https://collectionchamber.blogspot.com/)
+
+- Uma seleção significativa de jogos clássicos otimizados para o Windows moderno.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/collectionchamber.blogspot.com/)
+
+### 🔗 [Abandonware Games](https://abandonwaregames.net/)
+
+- Arquivo que preserva e disponibiliza downloads de jogos antigos old school de diversos sistemas e consoles.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/abandonwaregames.net/)
+
+### 🔗 [PC Games Abandonware](https://www.pcgamesabandonware.com/en/home)
+
+- Redescubra jogos clássicos e nostálgicos gratuitamente com uma seção dedicada para emuladores.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pcgamesabandonware.com/)
 
 ### 🔗 [**Ziperto**](https://www.ziperto.com)
 
