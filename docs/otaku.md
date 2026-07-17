@@ -135,8 +135,8 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 ‎
 ‎
 
-### 🧲 ➜ Torrent/P2P
-
+### 🧲 ➜ Torrent/P2P -
+Anime
 ---
 
 #### 🔗 [AniRena](https://www.anirena.com/)
@@ -179,6 +179,8 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 - ScanSubs para quase todas as línguas, fonte para diversos sites focados em seinen.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/erai-raws.info/)‎
+
+
 ‎
 ### 📰 ➜ Legendas
 
@@ -289,7 +291,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 ‎
 ‎
 
-### 🧲 ➜ Torrent/P2P
+### 🧲 ➜ Torrent/P2P - Mangá
 
 ---
 
@@ -365,6 +367,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 ‎
 
 ## 🍣 Light Novel
+
 
 #### 🔗 [Baka-Tsuki](https://www.baka-tsuki.org/project/index.php?title=Category:Brazilian_Portuguese)
 
