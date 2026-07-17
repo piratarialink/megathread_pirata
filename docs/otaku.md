@@ -90,6 +90,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/q1n.net/)
 
+
 ### 📥 ➜ Download Direto
 
 ---
