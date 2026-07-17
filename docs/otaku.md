@@ -135,8 +135,8 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 ‎
 ‎
 
-### 🧲 ➜ Torrent/P2P -
-Anime
+### 🧲 ➜ Torrent/P2P - Anime
+
 ---
 
 #### 🔗 [AniRena](https://www.anirena.com/)
@@ -367,6 +367,7 @@ Anime
 ‎
 
 ## 🍣 Light Novel
+
 
 
 #### 🔗 [Baka-Tsuki](https://www.baka-tsuki.org/project/index.php?title=Category:Brazilian_Portuguese)
