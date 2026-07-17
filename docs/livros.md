@@ -103,7 +103,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🌟 [GetComics](https://getcomics.org/)
 
-- Website gringo com ótimo acervo de HQs para download em .CBZ e .CBR.
+- Website gringo com ótimo acervo de HQs para download em CBZ e CBR.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/getcomics.org/)
 
 ### 🌟 [WinxClubMagazinesBr](https://winxclubmagazinesbr.blogspot.com/)
