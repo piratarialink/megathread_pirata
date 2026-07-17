@@ -160,7 +160,6 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 ### 🌟 [Anna's Archive](https://br.annas-archive.li/)
 
 - O "acervo da anna" é um poderoso mecanismo de pesquisa cujas fontes são as _shadow libraries_ mais conhecidas e usadas amplamente: libgen. z-library, sci-hub, entre outras.
-- Constantemente muda de domínio, para checar qualquer proxy que esteja funcionando, acesse o [SLUM](https://open-slum.org/).
 - [Checar URLs atualizadas pela Wikipédia](https://en.wikipedia.org/wiki/Anna%27s_Archive)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/br.annas-archive.li/)
 
