@@ -61,7 +61,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [dmenu](https://tools.suckless.org/dmenu/) - Launcher minimalista feito originalmente para o X window system porém muito eficaz em dotfiles com o compositor wayland, pode executar binários e scripts definidos pelo usuário ou grupo.
 - [Input Remapper](https://github.com/sezanzeb/input-remapper/) -  Remapeia os botões laterais do mouse sem que seja preciso recompilar o Kernel. É uma ótima alternativa para o [Piper](https://github.com/libratbag/piper).
 - 🌟 [**TimeShift**](https://github.com/linuxmint/timeshift) - Cria pontos de restauração incrementais de arquivos do sistema, útil para quando for preciso reverter falhas causadas por chaves pgp ou pacotes ppa instáveis.
-- [LACT](https://github.com/ilya-zlobintsev/LACT) - Controle de velocidade da fan e do clock da GPU, melhor se usado em conjunto com o thermald + parâmetros do thermal-conf.xml - consulte o limite para overclocking no site do fabricante da sua placa de vídeo antes.
+- [LACT](https://github.com/ilya-zlobintsev/LACT) - Controle de velocidade da fan e do clock da GPU, melhor se usado em conjunto com o thermald + parâmetros do thermal-conf.xml - consulte o boost clock no site da fabricante de sua placa de vídeo antes.
 - [FSearch](https://github.com/cboxdoerfer/fsearch) - O equivalente ao programa "Everything" do Windows, localize filenames por RegEx ou wildcards ou até mesmo mais rápido com o [comando find](https://stackoverflow.com/a/62144813) no terminal. 
 - 🌟 [**UnspamifyUbuntu**](https://github.com/Skyedra/UnspamifyUbuntu) - Remova anúncios da Canonical como o Ubuntu PRO no terminal e mensagens ESM com esse método - Post original do [Ask Ubuntu](https://askubuntu.com/a/1438510).
 - 🌟 [**ubuntu-debullshit!**](https://github.com/polhdez/ubuntu-debullshit) - Retira a coleta de dados e o snapd da Canonical, **em versões mais recentes do Ubuntu, a telemetria é mais opt-out - você precisa desativá-la durante a instalação** - Post original por [u/klfld](https://www.reddit.com/r/linux/comments/13fj1xf/ubuntudebullshit_script_to_get_vanilla_gnome/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button).
@@ -89,6 +89,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - **[Freemium]** [AIDente](https://apphousekitchen.com/) - Aumenta a vida útil da bateria do MacBook.
 - **[Pago]** [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - Limita o uso da Internet e envio de dados para servidores específicos.
 - [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Para iMacs antigos que não suportam a versão mais atual do sistema.
+- [OpCore Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - Crie a EFI do Hackintosh em menos de cinco minutos - [Vídeo explicativo](https://youtu.be/Uz-BPNTrScc)
 
 ## ► Adblockers & Bypassers
 
@@ -271,7 +272,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 **O gerenciador Free Download Manager é considerado riskware. O site oficial da aplicação distribuiu uma [versão do programa para Linux infectada por spyware durante anos.](https://www.bleepingcomputer.com/news/security/free-download-manager-site-redirected-linux-users-to-malware-for-years/) Não é mais seguro confiar no seu desenvolvedor.**
 :::
 
-- [Motrix Next](https://motrix-next.pages.dev/) - Sucessor do Motrix original, suporta download de uma gama de protocolos como o HTTP, FTP, BitTorrent, Magnet, etc.
+- [Motrix Next](https://motrix-next.pages.dev/) - "Sucessor" do Motrix original, suporta download de uma gama de protocolos como o HTTP, FTP, BitTorrent, Magnet, etc.
 - [Persepolis](https://persepolisdm.github.io/) - Um GUI para o aria2 com extensão disponível para integração via os browsers Librewolf e Firefox, mantido pela comunidade de software livre.
 - [JDownloader2](http://jdownloader.org/jdownloader) - É distinto dos demais gerenciadores de download porque suporta o download de hosts de links premium como o **NitroFlare** - apenas em situações que não exigem conta. Reúna e cole todos os links de um arquivo dividido em partes para baixá-lo.
 - **[Trialware]** [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com/download.html) - Gerenciador de download pago que suporta o download de uma variedade de hosts de arquivo. Suporta download de vídeo de muitos sites. Use a avaliação gratuita e, quando a avaliação estiver chegando ao fim, simplesmente [faça isso](https://rentry.org/installidm).
@@ -436,6 +437,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [G4F](https://g4f.dev/) - Modelos do Antigravity e OpenRouter rodando localmente na sua máquina. Alguns provedores como a Azure exigem de você uma chave API para o g4f.client que pode ser gerada com o seu [ID de usuário do Hugging Face](https://g4f.dev/members.html).
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [OpenClaude](https://github.com/Gitlawb/openclaude) - Reimplementação do código fonte vazado do Claude Code, suporta integração com modelos pagos e gratuitos da OpenAI, Alibaba, Anthropic e Google Gemini, apenas para citar alguns. [Vídeo explicativo](https://youtu.be/7S7vqSudSx0)
+- **[Freemium]** [Prezi](https://prezi.com/pt/) - Cria apresentações e diagramações em questão de segundos, exige pagamento de assinatura para exportar em PPT.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura, algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6) e [DIG](https://digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion/) (onion) - podem não funcionar na maior parte do tempo.
 - [Voicebox Studio](https://voicebox.sh/) - Clone qualquer voz em questão de segundos com a ajuda do Qwen TTS, extraída a partir de um arquivo local, som ambiente ou do próprio microfone.
 - **[Freemium]** [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar - caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
