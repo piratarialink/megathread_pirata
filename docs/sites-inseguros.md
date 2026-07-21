@@ -61,8 +61,8 @@
 | cracked-games             | cracked-games-com                                               | **Vírus** (_Detectado com malware_).                                                         |
 | Wifi4Games                | wifi4games-com                                                  | **Vírus** (_Detectado com malware_).                                                         |
 | 💩 IGG Games / Load Games | igg-games-com / loadgames-com                                   | **Comportamento antiético** (_Doxxou o dono de outro site e permite anúncios clickjacking_). |
-| GameFabrique              | gamefabrique-com                                                | **Adware** (_Instaladores com adware e uploads de IGG_).                                     |
-| 💩 SteamUnlocked          | steamunlocked-net                                               | **Comportamento antiético** (_Uploads de IGG e NosTeam, e host de arquivos muito lento_).    |
+| GameFabrique              | gamefabrique-com                                                | **Adware** (_Instaladores com adware e uploads da IGG Games_).                                     |
+| 💩 SteamUnlocked          | steamunlocked-net                                               | **Comportamento antiético** (_Uploads da IGG e do NosTeam, e host de arquivos muito lento_).    |
 | game-repack               | game-repack-com                                                 | **Fraude** (_Botões de download falsos e remoção de comentários sobre isso_).                |
 | CrackedFully              | crackedfully-com                                                | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |
 | Sites falsos da FitGirl   | [lista dos sites falsos](https://rentry.co/FakeFitgirlwebsites) | **Clone falso** (Criado para enganar usuários de propósito).                                 |
