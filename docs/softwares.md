@@ -82,11 +82,6 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - Dedicado a ferramentas de produção musical, incluindo DAWs e plugins. As bibliotecas de amostra só podem ser acessadas por membros premium.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/g-meh.com/)
 
-### 🔗 [GetintoWAY](https://getintoway.com/)
-
-- Oferece repacks pré-ativados, inclusive para os softwares da Adobe.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/getintoway.com/)
-
 ### 🔗 [Gustavortech](https://gustavortech.com/)
 
 - Portal nacional em português que disponibiliza alguns cracks gratuitos de programas.
