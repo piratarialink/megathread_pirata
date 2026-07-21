@@ -151,6 +151,9 @@ Adicionar Regras de Entrada > Faça conforme a imagem abaixo, alterando apenas o
 
 ![oracle12](./images/oracle12.png)
 
+:::danger Por motivos de segurança, troque a porta padrão do SSH (22 ou 2222) por outro número de porta seguindo o guia relatado: https://askubuntu.com/a/1542405
+:::
+
 ## 5. Como criar um alerta para quando o uso da ultrapassar o limite gratuito
 
 Clique no menu com três riscos no canto superior esquerdo
