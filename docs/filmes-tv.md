@@ -117,6 +117,14 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/overflixtv.app/)
 
+### ▶️ [Pinguim Cinema](https://pinguimcinema.space/)
+
+- Acervo de Filmes, Séries, Animes e Doramas
+- Também conta com uma seção de TV, com uma lista variada de Canais
+- Atualizado constantemente com novas produções e lançamentos
+- Sem poluição visual de anúncios
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pinguimcinema.space/)
+
 ## 🆎 Legendados
 
 ### 🌟 [HydraHD](https://hydrahd.me/)
