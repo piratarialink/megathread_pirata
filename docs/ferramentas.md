@@ -74,9 +74,8 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 
 ## ► Ferramentas para MacOS
 
-- 🌟 [**FMHY - Hackintosh**](https://fmhy.net/system-tools#hackintosh) - Algumas recomendações úteis.
-- [gibMacOS](https://github.com/corpnewt/gibMacOS) - Imagens do OSX para criar pendrives bootáveis com hackintosh (pelo menos de versões que ainda suportam o processador da intel). [Guia para iniciantes](https://github.com/corpnewt/gibMacOS/files/13452582/gibMacOS.Guide.pdf)
-- [PKGs do Appstorrent](https://appstorrent.ru/os/) - Site russo com arquivos de firmware de diferentes versões do Macintosh para fazer upgrade/downgrade.
+- 🌟 [**OpCore Simplify**](https://github.com/lzhoang2801/OpCore-Simplify) - Crie a EFI do Hackintosh em menos de cinco minutos - [Vídeo explicativo](https://youtu.be/Uz-BPNTrScc)
+- [PKGs do Appstorrent](https://appstorrent.ru/os/) - Site russo com arquivos de firmware de diferentes versões do Macintosh para fazer upgrade/downgrade e criar pendrive bootável dentro do Hackintosh.
 - [Pacotes do Office para Mac](https://massgrave.dev/office_for_mac) - Página bem organizada para downloads de imagens do Office para Mac.
 - [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader/blob/main/readme-en.md) - Script do Macked para baixar aplicativos da Creative Cloud - quando o download terminar, arraste os apps para o [Activation Tool](https://macked.app/adobe-activation-tool-crack.html) para ativá-los.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
@@ -89,7 +88,6 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - **[Freemium]** [AIDente](https://apphousekitchen.com/) - Aumenta a vida útil da bateria do MacBook.
 - **[Pago]** [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - Limita o uso da Internet e envio de dados para servidores específicos.
 - [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Para iMacs antigos que não suportam a versão mais atual do sistema.
-- [OpCore Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - Crie a EFI do Hackintosh em menos de cinco minutos - [Vídeo explicativo](https://youtu.be/Uz-BPNTrScc)
 
 ## ► Adblockers & Bypassers
 
