@@ -125,6 +125,13 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Sem poluição visual de anúncios
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pinguimcinema.space/)
 
+### ▶️ [CDMovieDB](https://cdmoviedb.com)
+- Biblioteca de Filmes e Séries
+- Contamos com API para consulta da biblioteca
+- Adicione o conteúdo você mesmo
+- Todos os conteúdos adicionados são detalhadamente analisados
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cdmoviedb.com/)
+
 ## 🆎 Legendados
 
 ### 🌟 [HydraHD](https://hydrahd.me/)
