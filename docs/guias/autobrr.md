@@ -31,7 +31,7 @@ Após instalado siga para sessão **CONFIGURANDO AUTOBRR**.
 
 ## Instalação do WSL
 
-Aperte "Win+X" e selecione a opção "powershell admi"
+Aperte "Win+X" e selecione a opção "powershell admin"
 
 ![autobrr1](./images/autobrr1.png)
 
@@ -42,11 +42,13 @@ execute o comando:
 Reinicie seu computador após o término da instalação
 
 **INSTALANDO DOCKER DESKTOP**
+
 Acesse a página: https://www.docker.com/products/docker-desktop/
 
 E baixe o executável, realize a instalação.
 
 **BAIXANDO UBUNTU 20.04**
+
 Acesse a loja de softwares do windows e procure por "UBUNTU 20.04"
 
 Realize a instalação e execute, irá abrir uma janela informando para aguardar alguns minutos. Depois, informe o usuário que você deseja criar e uma senha.
@@ -149,6 +151,7 @@ Siga a orientação conforme a imagem Feeds > Edit
 3. Teste a conexão e salve
 
 **ATIVANDO FILTROS**
+
 Uma das principais funções do autobrr, são os filtros. Aqui que a "mágica acontece". Mostraremos um exemplo de configuração, mas não significa que irá funcionar no seu tracker. Caso não funcione, terá que ajustar para conseguir identificar. Use os logs para ver o que está acontecendo.
 
 ![autobrr11](./images/autobrr11.png)
@@ -169,6 +172,7 @@ Nos campos acima, você pode definir qual o tamanho mínimo/máximo que deseja b
 No exemplo acima, está definido para baixar filmes entre os anos 2015 e 2024, com resolução 1080p e o tipo de arquivo sendo .mkv
 
 **ABA "ADVANCED"**
+
 Esta aba possui vários filtros que você pode utilizar valores usando "," ou regex.
 Abaixo está um exemplo para baixar filmes de todos os tipos **(aplicável somente em determinado tracker)**
 
@@ -177,6 +181,7 @@ Abaixo está um exemplo para baixar filmes de todos os tipos **(aplicável somen
 Reforçando... os filtros vão de acordo com cada tracker que você adiciona. Caso não esteja baixando algo que definiu ou não identificando corretamente. Analise os logs para.
 
 **ABA "ACTIONS"**
+
 :::info Na aba de ações, é onde são executados os comandos para mandar o arquivo para seu client torrent, testar para validar seu filtro, etc.
 :::
 Vamos começar testando, para isso defina conforme a imagem abaixo e salve:
