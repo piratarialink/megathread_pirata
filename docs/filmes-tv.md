@@ -407,6 +407,10 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 ### [Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)
 
+### [FenixPlayerBOT](https://t.me/+kRrkPbcUMdgzOGU5)
+
+- Um bot no Telegram com mais de 16 mil filmes  e 2,5 mil séries .
+  
 ## Está buscando apps para assistir/baixar **Filmes e Séries** no Celular?
 
 ➜ Confira nossa Megathread sobre 📱 [Mobile](mobile.md#📑-➜-filmes-e-tv)
