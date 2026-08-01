@@ -300,6 +300,12 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 ## 🧲 Torrent/P2P
 
+
+### 🌟 [Catálogo BeTor](https://catalogo.betor.top/)
+
+- Agregador de agregadores: encontre facilmente em qual agregador (BluDv, Torrent dos Filmes, Comando e outros) o que você procura.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/catalogo.betor.top/)
+
 ### 🌟 [Rede Torrent](https://redetorrent.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
@@ -336,11 +342,6 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ytsbr.com/)
 
-### 🔗 [Catálogo BeTor](https://catalogo.betor.top/)
-
-- Agregador de agregadores: encontre facilmente em qual agregador (BluDv, Torrent dos Filmes, Comando e outros) o que você procura.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/catalogo.betor.top/)
-
 ## 🖊 Legendas
 
 ### 🌟 [OpenSubtitles](https://www.opensubtitles.com) / [2](https://www.opensubtitles.org)
@@ -372,14 +373,14 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 ## 📣 No Telegram
 
+### 🌟 [FenixPlayerBOT](https://t.me/+kRrkPbcUMdgzOGU5)
+
+- Um bot no Telegram com mais de 16 mil filmes  e 2,5 mil séries.
+
 ### 🌟 [Polemic Filmes](https://t.me/polemicfilmes)
 
 ### [Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)
-
-### [FenixPlayerBOT](https://t.me/+kRrkPbcUMdgzOGU5)
-
-- Um bot no Telegram com mais de 16 mil filmes  e 2,5 mil séries .
   
 ## Está buscando apps para assistir/baixar **Filmes e Séries** no Celular?
 
-➜ Confira nossa Megathread sobre 📱 [Mobile](mobile.md#📑-➜-filmes-e-tv)
+➜ Confira nossa Megathread sobre 📱 [Mobile](mobile.md)
