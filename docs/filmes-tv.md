@@ -216,58 +216,60 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Anúncios enfadonhos existem mas estes podem ser burlados com o PopUpOFF.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanaishd.bid/)
 
-### 📺️ [Betterflix](https://betterflix.click/canais?lang=pt) / [API](https://betterflix.click/api)
+### 🔗 [Betterflix](https://betterflix.click/canais?lang=pt) / [API](https://betterflix.click/api)
 
 - Mais de 300 canais de tv e jogos ao vivo transmitidos todos os dias. 
 - Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) e [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.click/)
 
-### 📺️ [Minha TV](https://stremio-addons.net/addons/minha-tv)
+### 🔗 [Minha TV](https://stremio-addons.net/addons/minha-tv)
 
 - Add-on de IPTV para o Stremio. Algumas listas .m3u podem ser obtidas por meio dessa extensão.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/stremio-addons.net/)
 
-### 📺️ [Pluto TV](https://pluto.tv/)
+### 🔗 [Pluto TV](https://pluto.tv/)
 
 - Serviço gratuito de Streaming de televisão da Paramount.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pluto.tv/)
 
-### 📺️ [Cliente simples de IPTV para o Kodi](https://kodi.tv/addons/omega/pvr.iptvsimple/)
+### 🔗 [Cliente simples de IPTV para o Kodi](https://kodi.tv/addons/omega/pvr.iptvsimple/)
 
 - Não é difícil de configurar, porém, pode travar bastante em comparação com provedores tradicionais de IPTV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kodi.tv/)
   
-### 📺️ [Iptv-Brasil-2025](https://github.com/Ramys/Iptv-Brasil-2023)
+### 🔗 [Iptv-Brasil-2025](https://github.com/Ramys/Iptv-Brasil-2023)
 
 - Agregação em massa de listas de IPTV gratuitas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 📺️ [Free TV](https://github.com/Free-TV/IPTV)
+### 🔗 [Free TV](https://github.com/Free-TV/IPTV)
 
 - Playlists .M3U de emissoras abertas e livres de copyright do [Brasil](https://github.com/Free-TV/IPTV/blob/master/lists/brazil.md) e do restante do mundo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 📺️ [Pirata TV](https://piratatvs.com/)
+### 🔗 [Pirata TV](https://piratatvs.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/piratatvs.com/)
 
-### 📺️ [Rei dos Canais](https://reidoscanais.vip/)
+### 🔗 [Rei dos Canais](https://reidoscanais.vip/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/reidoscanais.vip/)
 
-### 📺️ [TV0800](https://tv0800.pro/)
+### 🔗 [TV0800](https://tv0800.pro/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.pro/)
 
-### 📺️ [CXTV](https://www.cxtv.com.br/)
+### 🔗 [CXTV](https://www.cxtv.com.br/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cxtv.com.br/)
 
-### 📺️ [UP Novelas](https://upnovelas.com/) / [NoveFlix](https://noveflix.online/aba/novelas/)
+### 🔗 [UP Novelas](https://upnovelas.com/) / [NoveFlix](https://noveflix.online/aba/novelas/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/upnovelas.com/)
+
   
 ## 📱 Celular
+
 
 ### 🌟 [Stremio](https://www.stremio.com/) + [Add-ons de dublagem PT-BR](/guias/guia-stremio.md) - [Nota Importante!](/outros/stremio.md)
 
@@ -349,22 +351,22 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 - Vasto banco de dados com 2,6 bilhões de palavras em 60 idiomas que serve praticamente todos os filmes ou programas de TV que você possa imaginar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/opensubtitles.com/)
 
-### 🖊️ [SubDl](https://subdl.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/subdl.com/)
-
-### 🖊️ [Legendas.net](https://legendas.net/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/legendas.net/)
-
-### 🖊️ [Legendasdivx.pt](https://www.legendasdivx.pt/forum/ucp.php?mode=register) • Necessário Cadastro
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/legendasdivx.pt/)
-
-### 🖊️ [Addic7ed](https://www.addic7ed.com/)
+### 🔗 [Addic7ed](https://www.addic7ed.com/)
 
 - Um banco de dados de legendas para filmes e programas de TV com traduções online colaborativas da base de usuários para 18 idiomas diferentes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/addic7ed.com/)
+
+### 🔗 [SubDl](https://subdl.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/subdl.com/)
+
+### 🔗 [Legendas.net](https://legendas.net/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/legendas.net/)
+
+### 🔗 [Legendasdivx.pt](https://www.legendasdivx.pt/forum/ucp.php?mode=register) • Necessário Cadastro
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/legendasdivx.pt/)
 
 ## 📣 No Telegram
 
