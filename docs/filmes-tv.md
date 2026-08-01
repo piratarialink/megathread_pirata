@@ -82,7 +82,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### ▶️ [Pinguim Cinema](https://pinguimcinema.space/)
 
-- Acervo de Filmes, Séries, Animes e Doramas. Atualizado constantemente com novas produções e lançamentos
+- Acervo de Filmes, Séries, Animes e Doramas. Atualizado constantemente com novas produções e lançamentos.
 - Sem poluição visual de anúncios na maior parte do tempo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pinguimcinema.space/)
 
@@ -216,37 +216,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Anúncios enfadonhos existem mas estes podem ser burlados com o PopUpOFF.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanaishd.bid/)
 
-### 📺️ [EmbedCanais](https://embedcanais.com/)
+### 📺️ [Betterflix](https://betterflix.click/canais?lang=pt) / [API](https://betterflix.click/api)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/embedcanais.com/)
-
-### 📺️ [NovelasFlix](https://novelasflixbr.net/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/novelasflixbr.net/)
-
-### 📺️ [Pirata TV](https://piratatvs.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/piratatvs.com/)
-
-### 📺️ [Rei dos Canais](https://reidoscanais.vip/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/reidoscanais.vip/)
-
-### 📺️ [TV0800](https://tv0800.pro/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.pro/)
-
-### 📺️ [CXTV](https://www.cxtv.com.br/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cxtv.com.br/)
-
-### 📺️ [NoveFlix - Novelas Online](https://noveflix.net/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/noveflix.net/)
-
-### 📺️ [UP Novelas](https://upnovelas.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/upnovelas.com/)
+- Mais de 300 canais de tv e jogos ao vivo transmitidos todos os dias. 
+- Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) e [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.click/)
 
 ### 📺️ [Minha TV](https://stremio-addons.net/addons/minha-tv)
 
@@ -273,11 +247,25 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Playlists .M3U de emissoras abertas e livres de copyright do [Brasil](https://github.com/Free-TV/IPTV/blob/master/lists/brazil.md) e do restante do mundo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 📺️ [Betterflix](https://betterflix.click/canais?lang=pt) / [API](https://betterflix.click/api)
+### 📺️ [Pirata TV](https://piratatvs.com/)
 
-- Mais de 300 canais de tv e jogos ao vivo transmitidos todos os dias. 
-- Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) e [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.click/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/piratatvs.com/)
+
+### 📺️ [Rei dos Canais](https://reidoscanais.vip/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/reidoscanais.vip/)
+
+### 📺️ [TV0800](https://tv0800.pro/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.pro/)
+
+### 📺️ [CXTV](https://www.cxtv.com.br/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cxtv.com.br/)
+
+### 📺️ [UP Novelas](https://upnovelas.com/) / [NoveFlix](https://noveflix.online/aba/novelas/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/upnovelas.com/)
   
 ## 📱 Celular
 
