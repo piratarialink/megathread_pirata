@@ -105,7 +105,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [HydraHD](https://hydrahd.me/)
 
-- Sem precisar se cadastrar, aproveite filmes e séries gratuitos em streaming diretamente neste acervo online.
+- Aproveite de uma infinidade de filmes e séries em streaming sem efetuar cadastro.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hydrahd.me/)
 
 ### 🌟 [CinemaOS](https://cinemaos.live)
