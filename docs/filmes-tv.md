@@ -378,18 +378,15 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 - Um banco de dados de legendas para filmes e programas de TV com traduções online colaborativas da base de usuários para 18 idiomas diferentes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/addic7ed.com/)
 
-### 🖊️ [Podnapisi](https://www.podnapisi.net/pt_BR/?)
-
-- Um fantástico recurso de legendas com uma grande comunidade de colaboradores dedicados.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/podnapisi.net/)
-
 ## 📣 No Telegram
+
+### 🌟 [Polemic Filmes](https://t.me/polemicfilmes)
+
+- Desfrute dos maiores sucessos de bilheteria sem sair do Telegram.
 
 ### 🌟 [FenixPlayerBOT](https://t.me/+kRrkPbcUMdgzOGU5)
 
-- Um bot no Telegram com mais de 16 mil filmes  e 2,5 mil séries.
-
-### 🌟 [Polemic Filmes](https://t.me/polemicfilmes)
+- Um bot no Telegram com mais de 16 mil filmes e 2,5 mil séries.
 
 ### [Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)
   
