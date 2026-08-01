@@ -29,11 +29,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Conta com a presença de anúncios, mas esses aparecem apenas nos players - use um adblock.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pomfy.online/)
 
-### 🌟 [Hypeflix](https://hypeflix.sbs/)
+### 🌟 [GoFlix](https://goflixy.lol/)
 
-- Prove do melhor do streaming nacional e internacional no seu celular ou televisão.
-- Anúncios existem, mas não atrapalham tanto a experiência.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hypeflix.sbs/)
+- Lançamentos com resolução 1080p, 720p, ou até em FHD para blockbusters. Em caso de anti-adblock, use o nuMatrix.
+- Altere para outros servidores se o servidor padrão não funcionar.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/goflixy.lol/)
 
 ### 🌟 [Stream Verde](https://streamverde.net/)
 
@@ -51,11 +51,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Biblioteca de filmes e programas de TV que fazem deste serviço de streaming uma escolha fantástica. Legendas e áudio em pt-br disponíveis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cineby.app/)
 
-### 🌟 [GoFlix](https://goflixy.lol/)
-
-- Lançamentos com resolução 1080p, 720p ou até em HD puro para blockbusters. Em caso de anti-adblock, use o nuMatrix.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/goflixy.lol/)
-
 ### ▶️ [Clube do Dual](https://clubedodual.com/index.php?app=core&module=system&controller=login)
 
 - Fórum de compartilhamento de faixas de dublagem em português brasileiro.
@@ -68,16 +63,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) e [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.click/)
 
-### ▶️ [Superflix](https://superflix1.cloud/)
-
-- Fonte online para muitos filmes e séries do Betterflix, com mídia dublada e legendada.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/superflix1.cloud/)
-
-### ▶️ [Romaflix](https://romaflix.top/)
-
-- Filmes, séries e canais ao vivos sem anúncios, pop-ups ou rastreadores.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/romaflix.top/)
-
 ### ▶️ [CineRave](http://cinerave.netlify.app)
 
 - Bem completo, com filmes, séries e canais ao vivo, watch party (assistir junto com amigos, sincronizado e com chat em tempo real), conteúdo atualizado diariamente.
@@ -89,6 +74,25 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Lembre-se de usar um adblock.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/lospobreflix.site/)
 
+### ▶️ [Pinguim Cinema](https://pinguimcinema.space/)
+
+- Acervo de Filmes, Séries, Animes e Doramas. Atualizado constantemente com novas produções e lançamentos
+- Também conta com uma seção de TV, com uma lista variada de Canais. Sem poluição visual de anúncios na maior parte do tempo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pinguimcinema.space/)
+
+### ▶️ [CDMovieDB](https://cdmoviedb.com)
+- Biblioteca de Filmes e Séries com API para consulta. Todos os conteúdos adicionados são detalhadamente analisados
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cdmoviedb.com/)
+
+### ▶️ [Superflix](https://superflix1.cloud/)
+
+- Fonte online para muitos filmes e séries do Betterflix, com mídia dublada e legendada.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/superflix1.cloud/)
+
+### ▶️ [MemóriadaTV](https://www.memoriadatv.com/) / [ClubeHD](https://www.clubehd.com)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/memoriadatv.com/)
+
 ### ▶️ [NetCine](https://netcinex.si/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcinex.si/)
@@ -97,46 +101,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
 
-### ▶️ [Vizer](https://novizer.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/novizer.com/)
-
-### ▶️ [Topflix](https://topflix.tv/) / [2](https://topflixtv.me/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/topflix.tv/)
-
-### ▶️ [Warezcdn](https://warezcdn.com/index.php)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/warezcdn.com/)
-
-### ▶️ [MemoriadaTV](https://www.memoriadatv.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/memoriadatv.com/)
-
-### ▶️ [Overflix](https://overflixtv.app/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/overflixtv.app/)
-
-### ▶️ [Pinguim Cinema](https://pinguimcinema.space/)
-
-- Acervo de Filmes, Séries, Animes e Doramas
-- Também conta com uma seção de TV, com uma lista variada de Canais
-- Atualizado constantemente com novas produções e lançamentos
-- Sem poluição visual de anúncios
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pinguimcinema.space/)
-
-### ▶️ [CDMovieDB](https://cdmoviedb.com)
-- Biblioteca de Filmes e Séries
-- Contamos com API para consulta da biblioteca
-- Adicione o conteúdo você mesmo
-- Todos os conteúdos adicionados são detalhadamente analisados
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cdmoviedb.com/)
-
 ## 🆎 Legendados
 
 ### 🌟 [HydraHD](https://hydrahd.me/)
 
-- Sem precisar se cadastrar, aproveite filmes e séries gratuitos em streaming diretamente neste acervo online.
+- Aproveite de uma infinidade de filmes e séries em streaming sem efetuar cadastro.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hydrahd.me/)
 
 ### 🌟 [CinemaOS](https://cinemaos.live)
@@ -331,6 +300,12 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 ## 🧲 Torrent/P2P
 
+
+### 🌟 [Catálogo BeTor](https://catalogo.betor.top/)
+
+- Agregador de agregadores: encontre facilmente em qual agregador (BluDv, Torrent dos Filmes, Comando e outros) o que você procura.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/catalogo.betor.top/)
+
 ### 🌟 [Rede Torrent](https://redetorrent.com/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
@@ -367,11 +342,6 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ytsbr.com/)
 
-### 🔗 [Catálogo BeTor](https://catalogo.betor.top/)
-
-- Agregador de agregadores: encontre facilmente em qual agregador (BluDv, Torrent dos Filmes, Comando e outros) o que você procura.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/catalogo.betor.top/)
-
 ## 🖊 Legendas
 
 ### 🌟 [OpenSubtitles](https://www.opensubtitles.com) / [2](https://www.opensubtitles.org)
@@ -403,10 +373,14 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 ## 📣 No Telegram
 
+### 🌟 [FenixPlayerBOT](https://t.me/+kRrkPbcUMdgzOGU5)
+
+- Um bot no Telegram com mais de 16 mil filmes  e 2,5 mil séries.
+
 ### 🌟 [Polemic Filmes](https://t.me/polemicfilmes)
 
 ### [Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)
-
+  
 ## Está buscando apps para assistir/baixar **Filmes e Séries** no Celular?
 
-➜ Confira nossa Megathread sobre 📱 [Mobile](mobile.md#📑-➜-filmes-e-tv)
+➜ Confira nossa Megathread sobre 📱 [Mobile](mobile.md)
