@@ -66,13 +66,8 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [Betterflix](https://betterflix.click/) / [API](https://betterflix.click/api)
 
 - Repleto de filmes, séries, doramas, animes e canais de TV, tudo de graça.
-- Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) e [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
+- Entre na grupo do [discord](https://discord.gg/H2bGjqTnFK) e [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.click/)
-
-### ▶️ [CineRave](http://cinerave.netlify.app)
-
-- Bem completo, com filmes, séries e canais ao vivo, watch party (assistir junto com amigos, sincronizado e com chat em tempo real), conteúdo atualizado diariamente.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cinerave.netlify.app/)
 
 ### ▶️ [PobreFlix](https://lospobreflix.site/)
 
@@ -80,14 +75,19 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Lembre-se de usar um adblock.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/lospobreflix.site/)
 
+### ▶️ [CineRave](http://cinerave.netlify.app)
+
+- Bem completo, com filmes, séries e canais ao vivo, watch party (assistir junto com amigos, sincronizado e com chat em tempo real), conteúdo atualizado diariamente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cinerave.netlify.app/)
+
 ### ▶️ [Pinguim Cinema](https://pinguimcinema.space/)
 
 - Acervo de Filmes, Séries, Animes e Doramas. Atualizado constantemente com novas produções e lançamentos
-- Também conta com uma seção de TV, com uma lista variada de Canais. Sem poluição visual de anúncios na maior parte do tempo.
+- Sem poluição visual de anúncios na maior parte do tempo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pinguimcinema.space/)
 
 ### ▶️ [CDMovieDB](https://cdmoviedb.com)
-- Biblioteca de Filmes e Séries com API para consulta. Todos os conteúdos adicionados são detalhadamente analisados
+- Biblioteca de Filmes e Séries com API para consulta. Todos os conteúdos adicionados são detalhadamente analisados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cdmoviedb.com/)
 
 ### ▶️ [Superflix](https://superflix1.cloud/)
