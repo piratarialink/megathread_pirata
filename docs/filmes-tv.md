@@ -23,6 +23,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.pet/)
 
+### 🌟 [BRFLIX](https://brflix.lat/)
+
+- Plataforma de streaming de filmes e séries em alta definição (1080p), áudio dublado e legendado.
+- Interface moderna e responsiva, totalmente otimizada para computadores, dispositivos móveis e Smart TVs.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/brflix.lat/)
+
 ### 🌟 [Pomfy](https://pomfy.online/) / [2](https://pomfy.stream/) / [API](https://api.pomfy.stream/)
 
 - O Pomfy é um espaço com milhares de filmes e séries internacionais e nacionais, disponível tanto no idioma original, quanto dublado; sempre na melhor qualidade.
@@ -102,6 +108,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
 
 ## 🆎 Legendados
+
+### 🌟 [BRFLIX](https://brflix.lat/)
+
+- Plataforma de streaming de filmes e séries em alta definição (1080p), áudio dublado e legendado.
+- Interface moderna e responsiva, totalmente otimizada para computadores, dispositivos móveis e Smart TVs.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/brflix.lat/)
 
 ### 🌟 [HydraHD](https://hydrahd.me/)
 
