@@ -32,6 +32,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### 🌟 [GoFlix](https://goflixy.lol/)
 
 - Lançamentos com resolução 1080p, 720p, ou até em FHD para blockbusters. Em caso de anti-adblock, use o nuMatrix.
+- Altere para outros servidores se o servidor padrão não funcionar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/goflixy.lol/)
 
 ### 🌟 [Stream Verde](https://streamverde.net/)
