@@ -109,6 +109,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🆎 Legendados
 
+### 🌟 [BRFLIX](https://brflix.lat/)
+
+- Plataforma de streaming de filmes e séries em alta definição (1080p), áudio dublado e legendado.
+- Interface moderna e responsiva, totalmente otimizada para computadores, dispositivos móveis e Smart TVs.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/brflix.lat/)
+
 ### 🌟 [HydraHD](https://hydrahd.me/)
 
 - Aproveite de uma infinidade de filmes e séries em streaming sem efetuar cadastro.
