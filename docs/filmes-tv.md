@@ -78,6 +78,13 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Filmes, séries e canais ao vivos sem anúncios, pop-ups ou rastreadores.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romaflix.top/)
 
+### ▶️ [BRFLIX](https://brflix.lat/)
+
+- Plataforma de streaming de filmes e séries em alta definição (1080p), áudio dublado e legendado.
+- Interface moderna e responsiva, totalmente otimizada para computadores, dispositivos móveis e Smart TVs.
+- Player nativo leve e rápido, sem anúncios invasivos ou redirecionamentos maliciosos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/brflix.lat/)
+
 ### ▶️ [CineRave](http://cinerave.netlify.app)
 
 - Bem completo, com filmes, séries e canais ao vivo, watch party (assistir junto com amigos, sincronizado e com chat em tempo real), conteúdo atualizado diariamente.
