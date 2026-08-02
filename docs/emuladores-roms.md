@@ -130,9 +130,9 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Fornece emulação precisa e rápida com uma boa seleção de recursos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/melonds.kuribo64.net/)
 
-### 🔗 [Mesen2](https://github.com/SourMesen/Mesen2) • Game Boy + NES + SNES
+### 🔗 [Mesen](https://github.com/nesdev-org/MesenCE) • Game Boy + NES + SNES
 
-- Construído em C++ e C#, este emulador multisistema funciona em Windows e MacOS.
+- Construído em C++ e C#, emulador multisistema com debugger e compatível com Windows e MacOS.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [mGBA](https://mgba.io/) • Game Boy Advance
