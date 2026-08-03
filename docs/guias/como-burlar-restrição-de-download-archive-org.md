@@ -51,6 +51,6 @@ Acesse o site [2pdf](https://2pdf.com/convert-acsm-to-pdf/) e faça a conversão
 
 > Lembrando que você pode conseguir converter para outros tipos de arquivo, mas os que testei e deu certo foi PDF e EPUB.
 
-> Se mesmo assim falhar ou retornar o erro "can´t reach website", experimente a extensão para navegador do elementdavv: https://github.com/elementdavv/internet_archive_downloader
+> Se mesmo assim falhar ou retornar o erro "can't reach website", experimente a extensão para navegador do elementdavv: https://github.com/elementdavv/internet_archive_downloader
 
 Guia feito por [u/wandrey](https://lemmy.eco.br/u/wandrey)
