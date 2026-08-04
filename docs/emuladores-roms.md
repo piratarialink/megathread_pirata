@@ -262,12 +262,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - O melhor e mais seguro site para encontrar roms, dedicado a preservação de vários sistemas e centenas de jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
-### 🌟 [**MiNERVA Archive**](https://minerva-archive.org/browse/No-Intro/) / [2](https://minerva-archive.org/browse/Redump/)
-
-- Backup organizado pelo r/savemyrient da coleção de mais de 200 TB de tamanho do agora desativado Myrient.
-- Crie uma conta gratuita no [torbox.app](https://www.torbox.app/) para acessar os torrents salvos em cached.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/minerva-archive.org/)
-
 ### 🌟 [**r/Roms Megathread**](https://r-roms.github.io/)
 
 - Dump fantástico de ROMs de diversos consoles, links para jogos populares que estão disponíveis no archive.org podem ser encontrados aqui.
@@ -514,6 +508,11 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Fonte confiável de roms para NSW, por ser um bot do telegram é uma opção viável caso o seu site favorito de roms de Switch seja derrubado.
 
 ## 🧲 Torrent/P2P
+
+### 🌟 [**MiNERVA Archive**](https://minerva-archive.org/browse/No-Intro/) / [2](https://minerva-archive.org/browse/Redump/)
+
+- Backup organizado pelo r/savemyrient da coleção de mais de 200 TB de tamanho do agora desativado Myrient.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/minerva-archive.org/)
 
 ### 🔗 [BlueRoms](https://www.blueroms.ws/)
 
