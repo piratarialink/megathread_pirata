@@ -72,11 +72,6 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 - Perfil no bluesky com links confiáveis e grupo no discord bem ativo, videojogos e programas pagos crackeados.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bsky.app/)
 
-### 🔗 [FileRiver](https://fileriver.net/)
-
-- Fileriver é um site para baixar programas pagos e ativadores sem partir para o estresse que é tirar a mão do bolso.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/fileriver.net/)
-
 ### 🔗 [G-MEH](https://g-meh.com/)
 
 - Dedicado a ferramentas de produção musical, incluindo DAWs e plugins. As bibliotecas de amostra só podem ser acessadas por membros premium.
