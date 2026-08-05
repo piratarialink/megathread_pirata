@@ -46,11 +46,6 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Aproveite de uma extensa lista de gêneros em volta de obras audiovisuais nipônicas e escolha o que acompanhar a qualquer momento e em qualquer lugar.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/https://goyabu.io/)
 
-#### ▶️ [4anime](https://4anime.gg)
-
-- Alternativa confiável após o encerramento do 4anime original. Os animes populares têm legendas em PT-BR.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/4anime.gg/)
-
 #### ▶️ [Hinata Soul](https://www.hinatasoul.com)
 
 - Descubra novos clássicos e animações em **HD/Full HD/Hi-Res** para assistir enquanto estiver online. [Falha na conexão? Tente isso.](guias/dns.md)
@@ -70,7 +65,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.animeyabu.org/)
 
-#### ▶️ [Anroll](https://www.anroll.net)
+#### ▶️ [Anroll](https://www.anroll.cc)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anroll.net/)
 
@@ -85,10 +80,6 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### ▶️ [Animesonlinecc](https://animesonlinecc.to)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesonlinecc.org/)
-
-#### ▶️ [Q1N](https://q1n.net)
-
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/q1n.net/)
  ‎
  ‎
 ### 📥 ➜ Download Direto
@@ -403,7 +394,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Uma das maiores bibliotecas virtuais de noberugēmus da internet brasileira. O servidor oficial é porta de entrada para outros sites e canais que também compartilham do mesmo interesse.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sekaivisualnovels.com/)
 
-#### 🔗 [Patcheados](https://patcheados.org/Jogos/_)
+#### 🔗 [Patcheados](https://patcheados.org/Jogos)
 
 - O Patcheados é um projeto dedicado a catalogar e preservar traduções brasileiras feitas por fãs para jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/patcheados.org/)
