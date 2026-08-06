@@ -7,8 +7,6 @@
 
 A privacidade na internet é crucial para encontrar um equilíbrio entre a transparência e o anonimato. Embora seja importante responsabilizar aqueles que cometem crimes ou propagam conteúdos prejudiciais na internet, também é essencial garantir que as pessoas possam se expressar anonimamente quando necessário, sem medo de represálias ou exposição excessiva. Esse equilíbrio protege a liberdade de expressão e a diversidade de vozes, permitindo que todos tenham a oportunidade de participar do espaço digital de maneira segura e inclusiva.
 
-> "O ciclo da vida: consumir recursos para produzir objetos que logo se tornarão lixo. Dados são coletados para criar desejos, lucro e poder, e para gerar medo, autocensura e resignação. Viver com medo é realmente uma experiência marcante, não é? Isso é o que significa ser um escravo." - [autistici.org](https://www.autistici.org/who/telltale)
-
 ## A visita policial
 
 Em hipótese alguma permita a entrada deles na sua residência sem mandado judicial, que é um documento redigido e assinado por um juiz competente para busca e apreensão. No caso de insistência ou ameaças, peça licença e diga que irá chamar seu advogado imediatamente, e o faça! Relate o ocorrido e aguarde sua chegada para continuar o diálogo. Vejamos o que diz o seguinte preceito constitucional:
@@ -187,9 +185,6 @@ Um sistema operacional mobile privado e seguro com compatibilidade de aplicativo
 - Suporta celulares antigos que não recebem mais atualizações de segurança
 - A linha da Motorola é a mais acessível no Brasil
 - Pode restringir totalmente o uso da internet por aplicativos
-
-![LineageOS](./images/lineage_os.jpg)
-
 
 ## Criptografia de disco
 
