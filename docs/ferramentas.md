@@ -30,7 +30,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (esse programa é melhor do que parece).
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
 - 🌟 [**Remove WindowsAI**](https://github.com/zoicware/RemoveWindowsAI) - Remove o Copilot e barra a reinstalação de recursos de LLM - alguns desses ainda devem ser desativados manualmente como o agente local do [Studio Effects.](https://github.com/zoicware/RemoveWindowsAI/blob/main/OtherAIFeatures.md), Paint e Microsoft 365. (exclua a pasta do Local Manager no WindowsApps com o [Bulk Crap Uninstaller](https://www.bcuninstaller.com/))
-- [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado, melhor se for usado em conjunto com o [windows-ahk.](http://windows-ahk.bibeka.com.np/)
+- [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado, para maior praticidade recomenda-se o [windows-ahk](http://windows-ahk.bibeka.com.np/) como substituto.
 - [UniGetUI](https://devolutions.net/unigetui/) - Um painel de comando para os gerenciadores de pacote winget, scoop, chocolatey, pip e powershell gallery.
 - 🌟 [**Wintoys**](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge e o OneDrive com a opção "Digital Markets Act" ligada (quando não funcionar, [tente isso](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)), e ativa o "Modo Deus" - espécie de painel de controle estendido, com todas as opções do sistema reunidas em uma só pasta. 
 - [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à uma experiência moderna e segura no Windows.
@@ -137,7 +137,6 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
   **Desative o seu adblock e o ative novamente quando o site carregar.**
 - **[Freemium]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
 - **[Trialware]** [Leech Master](https://t.me/leechmaster_bot) - Bot do Telegram para baixar arquivos de até 100 MB de tamanho no NitroFlare (consegue burlar a necessidade de conta premium), com o programa de afiliados é possível obter mais créditos também.
-- [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd.
 - [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium.
 - **[Pago]** [Linksnappy](https://linksnappy.com/) - Agregador de conteúdo que permite extrair arquivos de vários serviços de armazenamento em nuvem.
 
@@ -424,7 +423,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► VPS grátis
 
-> Para hospedar servidor próprio na nuvem de rust, minecraft, bot do telegram e centro de mídia como o jellyfin e plex.
+> Para hospedar servidor próprio na nuvem de rust, minecraft vanilla, bot do telegram e centro de mídia como o jellyfin e plex.
 Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](https://www.tabnews.com.br/JuanMathewsRebelloSantos/por-tudo-que-e-mais-sagrado-pare-de-usar-vps-cara-aqui-vai-algumas-dicas-matadoras)
 
 - [Oracle Cloud Free Tier](https://www.oracle.com/br/cloud/free/) - Servidor Linux com 2 núcleos e 12gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter e mercado pago. [Guia](guias/oracle.md)
