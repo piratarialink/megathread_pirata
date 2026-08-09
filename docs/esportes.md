@@ -17,6 +17,12 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ## 🖥 **Transmissão ao vivo**
 
+### 📺️ [BRFLIX TV](https://brflix.online/)
+
+- Transmissões esportivas ao vivo com múltiplos servidores HD.
+- Cobertura completa de futebol (Brasilão Série A e B, Copa do Brasil, Libertadores, Copa Sul-Americana, Champions League, Premier League, La Liga, Serie A e Bundesliga), além de eventos de Fórmula 1, NBA e UFC.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/brflix.online/)
+
 ### 🌟 [Rede Canais TV](https://redecanaistv.gs/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/)
 
 - Oferece uma ampla gama de canais ao vivo com a mais alta qualidade de transmissão. [Falha na conexão? Tente isso.](guias/dns.md)
