@@ -427,6 +427,8 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🔗 [QG - Baltigo mangás](https://t.me/MangasBrasil)
 
+#### 🔗 [Animes Backup](https://t.me/+XyyvEwpjUxw4N2Vh)
+
 ‎
 
 ## 📱 Kindle
