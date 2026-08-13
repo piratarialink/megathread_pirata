@@ -305,7 +305,15 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 ### 🌟 [DODI Repacks](https://dodi-repacks.site/)
 
 - Nome muito conhecido na área. Este repacker é considerado um dos melhores no setor de videogames piratas.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/dodi-repacks.site/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/dodi-repacks.site/)  
+
+:::warning ⚠️ Aviso de Segurança
+
+​Os arquivos de jogos (repacks) do DODI são limpos e seguros, mas a navegação pelo site oficial exige extrema cautela por conta de anúncios e encurtadores altamente agressivos.
+
+Nunca acesse o site sem um bom bloqueador de anúncios ativo, recomendamos uBlock Origin. 
+
+  :::  
 
 ### 🌟 [FitGirl Repacks](https://fitgirl-repacks.site/)
 
