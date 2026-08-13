@@ -321,7 +321,9 @@ Nunca acesse o site sem um bom bloqueador de anúncios ativo, recomendamos uBloc
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fitgirl-repacks.site/)
 
 ### 🔗 [Ecológica Verde](https://x.com/Ecologica2Verde)
-:::warning Uma pequena quantia de jogos, [distribuídos pelos mesmos](https://archive.is/tjAKm), foram retirados da fonte não confiável [IGG-Games](https://pirataria.link/sites-inseguros#%F0%9F%8E%AE-%E2%9E%9C-jogos), utilize por sua conta em risco - caso for utilizar, cheque de qual fonte foi retirada o jogo antes de baixar.
+:::warning ⚠️ Aviso de Segurança
+
+Uma pequena quantia de jogos, [distribuídos pelos mesmos](https://archive.is/tjAKm), foram retirados da fonte não confiável [IGG-Games](https://pirataria.link/sites-inseguros#%F0%9F%8E%AE-%E2%9E%9C-jogos), utilize por sua conta em risco - caso for utilizar, cheque de qual fonte foi retirada o jogo antes de baixar.
 :::
 
 - Perfil que divulga links para jogos via torrent, também possui um grupo no Discord bem ativo.
