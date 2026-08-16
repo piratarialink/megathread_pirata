@@ -198,6 +198,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Oferece canais ao vivo com a mais alta qualidade: ESPN, Band Sports, CazéTV, etc.
 - Muda constantemente de domínio, para se manter atualizado confira sempre a megathread.
+- É essencial utilizar um bloqueador de anúncios robusto ao navegar; pois o site exibe anúncios extremamente agressivos que contêm scripts maliciosos em JS. Mais info acerca do tema [aqui](https://redlib.catsarch.com/r/pirataria/s/3Bopziwr1R).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanaistv.cool/)
 
 ### 🌟 [TV a Cabo](https://tvacabo.free.nf/)
