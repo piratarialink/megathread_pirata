@@ -158,3 +158,4 @@ Se você já possui uma android tv ou um dos sticks, a box torna-se completament
 
 - [u/No-Reason2644](https://www.reddit.com/r/pirataria/comments/1qqginq/termos_torrent_em_ptbr/), [u/vadioxy](https://www.reddit.com/r/pirataria/comments/1mcrkwm/comment/n5wmgwu/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button), [u/anombaiano](https://www.reddit.com/user/anombaiano/), [u/Wandrey](https://lemmy.eco.br/u/wandrey) e [u/orchestralblend](https://www.reddit.com/user/orchestralblend/).
 - [Glossário do FMHY](https://rentry.org/The-Piracy-Glossary).
+- [CopyrightBR](https://copy.pirataria.net/dicionario).
