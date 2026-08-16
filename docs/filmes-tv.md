@@ -21,6 +21,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Incrível variedade de filmes de excelente qualidade oferecidos para download direto através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
 - Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
+- É essencial utilizar um bloqueador de anúncios robusto ao navegar; pois o site exibe anúncios extremamente agressivos que contêm scripts maliciosos em JS. Mais info acerca do tema [aqui](https://redlib.catsarch.com/r/pirataria/s/3Bopziwr1R).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.pet/)
 
 ### 🌟 [BRFLIX](https://brflix.lat/)
@@ -197,6 +198,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Oferece canais ao vivo com a mais alta qualidade: ESPN, Band Sports, CazéTV, etc.
 - Muda constantemente de domínio, para se manter atualizado confira sempre a megathread.
+- É essencial utilizar um bloqueador de anúncios robusto ao navegar; pois o site exibe anúncios extremamente agressivos que contêm scripts maliciosos em JS. Mais info acerca do tema [aqui](https://redlib.catsarch.com/r/pirataria/s/3Bopziwr1R).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanaistv.cool/)
 
 ### 🌟 [TV a Cabo](https://tvacabo.free.nf/)
