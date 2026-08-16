@@ -1,11 +1,11 @@
-# 📑 ➜ Criando uma VPS gratuita com 12gb de RAM na Oracle CI
+# 📑 ➜ Criando uma VPS gratuita com 24gb de RAM na Oracle CI
 
-:::danger A Oracle confirmou a mudança do modo free tier: agora instâncias ARM (ampere) poderão ter no máximo 2 OCPUs e 12gb de RAM cada, para AMD o limite continua sendo o mesmo.
+:::danger Conforme explicado no [sub da comunidade](https://redlib.catsarch.com/r/oraclecloud/comments/1vi74oi/heres_a_clear_difference_for_anyone_wondering_how/), a oracle realizou a mudança do modo free tier: agora instâncias ARM (ampere) poderão ter no máximo 2 OCPUs e 12gb de RAM cada, para AMD e contas PAYG o limite continua sendo o mesmo.
 :::
 
 ## 1. Conta e limites estipulados
 
-Conseguindo acesso no modo Free Tier você tem direito até quatro instâncias com o processador ARM, cada uma com no total 200 GB de storage e ~2 Gbps de largura de banda.
+Conseguindo acesso no modo Free Tier você tem direito até quatro instâncias com o processador ARM, cada uma com no total 200 GB de storage e até 3 Gbps de largura de banda.
 Independente do que fizer, será necessário confirmar sua identidade com o cartão de crédito, não vale cartão pré pago daqueles que você gera no DigitalPurse ou PicPay, precisa ser um cartão com os dados e endereço do titular, no caso você.
 
 :::info Será feita uma retirada no valor de 600 reais do seu limite como forma de teste mas a quantia é reembolsada na hora.
@@ -24,7 +24,8 @@ Testado e aprovado com:
 
 Primeiro, vá para o site: https://www.oracle.com/br/cloud/free/
 
-Indo para a parte em que você se cadastra, antes de terminar, **selecione a região "US-West Phoenix"** que é a região que terá melhor ping para quem mora no Brasil. **PRESTE ATENÇÃO! NÃO ESCOLHA SÃO PAULO OU QUALQUER OUTRO LOCAL PRÓXIMO A SUA RESIDÊNCIA PORQUE UMA VEZ ESCOLHIDA A LOCALIDADE, NÃO TEM COMO VOLTAR ATRÁS!**
+Indo para a parte em que você se cadastra, antes de terminar, **selecione a região "US-West Phoenix"** que é a região que terá melhor ping para quem mora no Brasil. 
+**PRESTE ATENÇÃO! NÃO ESCOLHA SÃO PAULO OU QUALQUER OUTRO LOCAL PRÓXIMO A SUA RESIDÊNCIA PORQUE UMA VEZ ESCOLHIDA A LOCALIDADE, NÃO TEM COMO VOLTAR ATRÁS!**
 
 ![oracle1.2](./images/oracle1.2.png)
 
@@ -46,7 +47,7 @@ Estarei usando a forma Ampere nesse tutorial:
 
 ![oracle2.2](./images/oracle2.2.png)
 
-Clique na setinha no lado esquerdo e mude esta config para ~~quatro núcleos e 24 de memória~~ (dois núcleos e 12 de memória agora)
+Clique na setinha no lado esquerdo e mude esta config para quatro núcleos e 24 de memória (isso vale apenas para quem é PAYG)
 
 ![oracle3](./images/oracle3.png)
 
@@ -115,7 +116,7 @@ Digite o endereço da sua máquina neste campo:
 
 ![oracle9.3](./images/oracle9.3.png)
 
-**Método chatinho: diretamente com o SSH, vale somente se você estiver usando o Windows Professional:**
+**Método chatinho: diretamente com o SSH (vale somente se você estiver usando o Windows Professional):**
 
 Clique nas Propriedades da chave privada
 
