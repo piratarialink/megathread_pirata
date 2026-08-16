@@ -21,20 +21,8 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Incrível variedade de filmes de excelente qualidade oferecidos para download direto através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
 - Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
+- É essencial utilizar um bloqueador de anúncios robusto ao navegar; pois o site exibe anúncios extremamente agressivos que contêm scripts maliciosos em JS. Mais info acerca do tema [aqui](https://redlib.catsarch.com/r/pirataria/s/3Bopziwr1R).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.pet/)
-
-:::warning ⚠️ Aviso de Segurança
-
-​O site Rede Canais exibe anúncios extremamente agressivos que contêm scripts maliciosos em JavaScript.
-
-​Análises em ambiente isolado confirmaram que o site utiliza anúncios com falsos alarmes de vírus (scams), para induzir o usuário a baixar e executar arquivos potencialmente perigosos. 
-
-É essencial utilizar um bloqueador de anúncios robusto (como o uBlock Origin) ao navegar pelo site.
-
-​Nunca baixe nem execute arquivos recomendados por alertas de pop-up. Mantenha os filtros do bloqueador atualizados e considere limpar o cache do navegador para evitar a retenção de scripts maliciosos armazenados localmente.
-
-Acesse [aqui](https://www.reddit.com/r/pirataria/s/3Bopziwr1R) a discussão sobre o tema.
-  :::  
 
 ### 🌟 [BRFLIX](https://brflix.lat/)
 
