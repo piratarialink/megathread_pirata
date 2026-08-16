@@ -29,12 +29,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Interface moderna e responsiva, totalmente otimizada para computadores, dispositivos móveis e Smart TVs.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/brflix.lat/)
 
-### 📺️ [BRFLIX TV](https://brflix.online/)
-
-- Transmissão ao vivo de canais de TV aberta, fechada, esportes e grandes eventos ao vivo.
-- Cobertura dos principais campeonatos como Brasilão Série A e B, Copa do Brasil, Libertadores, Sul-Americana, Champions League, Premier League, La Liga, além de Fórmula 1, NBA e UFC.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/brflix.online/)
-
 ### 🌟 [Pomfy](https://pomfy.online/) / [2](https://pomfy.stream/) / [API](https://api.pomfy.stream/)
 
 - O Pomfy é um espaço com milhares de filmes e séries internacionais e nacionais, disponível tanto no idioma original, quanto dublado; sempre na melhor qualidade.
@@ -221,6 +215,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Oferece canais ao vivo e streaming de eventos esportivos como UFC e Libertadores assim que são iniciados.
 - Anúncios enfadonhos existem mas estes podem ser burlados com o PopUpOFF.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanaishd.bid/)
+
+### 📺️ [BRFLIX TV](https://brflix.online/)
+
+- Transmissão ao vivo de canais de TV aberta, fechada, esportes e grandes eventos ao vivo.
+- Cobertura dos principais campeonatos como Brasilão Série A e B, Copa do Brasil, Libertadores, Sul-Americana, Champions League, Premier League, La Liga, além de Fórmula 1, NBA e UFC.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/brflix.online/)
 
 ### 🔗 [Betterflix](https://betterflix.click/canais?lang=pt) / [API](https://betterflix.click/api)
 
