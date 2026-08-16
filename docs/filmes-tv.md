@@ -229,6 +229,12 @@ Acesse [aqui](https://www.reddit.com/r/pirataria/s/3Bopziwr1R) a discussão sobr
 - Anúncios enfadonhos existem mas estes podem ser burlados com o PopUpOFF.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanaishd.bid/)
 
+### 📺️ [BRFLIX TV](https://brflix.online/)
+
+- Transmissão ao vivo de canais de TV aberta, fechada, esportes e grandes eventos ao vivo.
+- Cobertura dos principais campeonatos como Brasilão Série A e B, Copa do Brasil, Libertadores, Sul-Americana, Champions League, Premier League, La Liga, além de Fórmula 1, NBA e UFC.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/brflix.online/)
+
 ### 🔗 [Betterflix](https://betterflix.click/canais?lang=pt) / [API](https://betterflix.click/api)
 
 - Mais de 300 canais de tv e jogos ao vivo transmitidos todos os dias. 

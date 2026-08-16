@@ -29,10 +29,11 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 - MMA, SporTV, ESPN do Brasil e Internacional - anúncios enfadonhos existem mas podem ser burlados com o PopUpOFF.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanaishd.bid/)
 
-### 🌟 [EmbedCanais](https://embedcanais.com/)
+### 📺️ [BRFLIX TV](https://brflix.online/)
 
-- Reúne em um só lugar o TNT Brasil, Pacote Premiere, Combate TV e noticiário de interesse local/internacional. Abra o player e copie o iframe para incorporar o vídeo no seu site ou projeto pessoal com poucos cliques.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/embedcanais.com/)
+- Transmissões esportivas ao vivo com múltiplos servidores HD.
+- Cobertura completa de futebol (Brasilão Série A e B, Copa do Brasil, Libertadores, Copa Sul-Americana, Champions League, Premier League, La Liga, Serie A e Bundesliga), além de eventos de Fórmula 1, NBA e UFC.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/brflix.online/)
 
 ### 📺️ [Betterflix](https://betterflix.click/canais?lang=pt) / [API](https://betterflix.click/api)
 
