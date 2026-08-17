@@ -226,7 +226,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Audiolivros de obras de domínio público, feitos com o apoio de voluntários de todo o mundo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/librivox.org/)
 
-### 🌟 [VisionVox](https://visionvox.com.br/)
+### ▶️ [VisionVox](https://visionvox.com.br/)
 
 - Criado para facilitar o acesso a livros de diversos gêneros para brasileiros com deficiência visual. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/visionvox.com.br/)
