@@ -173,6 +173,10 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Os usuários são ajudados por este motor de busca a encontrar downloads gratuitos de e-books, bem como audiobooks.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravebooksearch.com/)
 
+### 🔗 [Shadow Library Uptime Monitor (SLUM)](https://open-slum.org)
+- É um monitorador de links dos principais acervos para downloads de livros (zlibrary, annas-archive, libgen, scihub, etc). Listando quais estão online, quais estão off, vale a pena favoritar para sempre ter uma alternativa dos seus sites favoritos 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/open-slum.org/)
+
 ## 💼 Aplicativos
 
 ### 🔗 [Libation](https://github.com/rmcrackan/Libation)
@@ -222,7 +226,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Audiolivros de obras de domínio público, feitos com o apoio de voluntários de todo o mundo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/librivox.org/)
 
-### 🌟 [VisionVox](https://visionvox.com.br/)
+### ▶️ [VisionVox](https://visionvox.com.br/)
 
 - Criado para facilitar o acesso a livros de diversos gêneros para brasileiros com deficiência visual. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/visionvox.com.br/)
