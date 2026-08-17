@@ -2,3 +2,5 @@
 **/.vitepress/cache
 
 node_modules
+
+.idea

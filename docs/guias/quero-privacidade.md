@@ -5,9 +5,9 @@
 
 ## O básico para privacidade
 
-- Privacidade no Firefox: Betterfox ou Arkenfox
+- Privacidade no Firefox: LibreWolf, Betterfox ou Arkenfox
 - uBlock Origin: Javascript sempre desativado em sites novos
-- Navegador baseado em Chromium: Cromite
+- Navegador baseado em Chromium: Cromite e Helium
 - Não cruzar nomes em logins: sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
 - Colocar uma senha na BIOS do computador e trocar a senha do wi-fi/roteador (cole seu endereço IP na barra de URL do navegador ou busque pela opção 'Manage router' no seu aparelho móvel)
 - Criar **passphrases** com espaços e caracteres próprios da língua portuguesa: como `ç`, `~`, `'`
@@ -19,24 +19,24 @@
 ## O intermediário para privacidade
 
 - Configurar o navegador para excluir todos os dados sempre que você for fechá-lo (histórico, cookies, senhas, etc.): isso diminui a possibilidade de ter as contas invadidas e você não precisa se preocupar em caso de acesso não autorizado ao seu dispositivo
-- VPN: IVPN com Multihop ou Mullvad
+- VPN: IVPN com Multihop, AirVPN e Mullvad
 - Email: Autohospedado com mailcow/mail-in-a-box ou cock.li + Claws Mail
-- Encriptação de Email: GnuPG, GPG4WIN no Windows ou OpenKeychain no Android
+- Encriptação de Email: GnuPG, GPG4WIN, Kleopatra no Windows ou OpenKeychain no Android
 - Armazenamento: HD ou SSD com VeraCrypt
 - Criptografia: Cryptomator e VeraCrypt (AES-128-GCM, XChaCha20-Poly1305)
-- Nuvem: systemli.org, NextCloud (chaves SSH, backup e armazenamento KeePassXC/Vaultwarden)
+- Nuvem: NextCloud (chaves SSH, backup e armazenamento KeePassXC/Vaultwarden)
 - Navegador: Baseado no Firefox + nuMatrix + CSS Exfil Protection + Containers + arkenfox.js
-- Chat: Lemmy, SimpleX, Mastodon, XMPP e systemli.org
-- XMPP: Servidores que suportam OMEMO + Thunderbird, Psi+ ou Gajim
-- Android: GrapheneOS, LineageOS ou CalyxOS
+- Chat: Lemmy, SimpleX, Mastodon & XMPP
+- XMPP: Servidores que suportam OMEMO + Thunderbird, Conversations ou Gajim
+- Android: GrapheneOS e LineageOS
 - Desktop: Linux com LUKS (Live Boot com Whonix/Tails OS para um sigilo maior)
 - Anti-Scraping: Anubis
-- Provedor de dominio: Sarek Oy, Porkbun
+- Provedor de dominio: Njalla, Cloudflare & Porkbun
 - Git: Forgejo
-- Meet: systemli.org, Jitsi
+- Meet: Jit.si & Mattermost
 - Criptomoeda: Monero 
 - Hospedagem: Servers.guru
-- Pesquisa: 4get/DuckDuckGo
+- Pesquisa: Kagi/DuckDuckGo
 - Roteador: Qualquer um com OpenWRT (WPA3), recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 
 ## O avançado para privacidade
@@ -48,6 +48,10 @@ Melhor caminho: **p2p** ➜ **BRL** ➜ **BTC ou LTC** ➜ **XMR** ➜ [**Cold W
 - **O IDEAL É RODAR MONERO [LOCALMENTE](https://sethforprivacy.com/guides/run-a-monero-node/) NO SEU PRÓPRIO NODE PARA NÃO CORRER O RISCO DE SER MONITORADO.**
 Mas caso você esteja usando um dispositivo móvel, uma abordagem interessante é filtrar e usar nodes conectados à rede TOR (via [ORBOT](https://github.com/guardianproject/orbot-android)) deste site aqui: https://www.ditatompel.com/monero/remote-node. [[1]](https://pirataria.link/guias/quero-privacidade#creditos)
 
+## Serviços Sem KYC (Know Your Customer)
+
+Encontre corretoras de criptomoedas, carteiras (wallets), VPNs e outros serviços que não exigem KYC (processo de verificação de identidade) — todos verificados e classificados por nível de privacidade. Use criptomoedas sem precisar enviar documentos, comprovar sua identidade ou apresentar um documento oficial emitido pelo governo.
+- [kycnot.me](https://kycnot.me/)
 
 :::warning O projeto pirataria se compromete em recomendar apenas o que na nossa visão é seguro e confiável
 :::
