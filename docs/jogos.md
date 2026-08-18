@@ -323,11 +323,6 @@ Uma pequena quantia de jogos, [distribuídos pelos mesmos](https://archive.is/tj
 - Perfil que divulga links para jogos via torrent, também possui um grupo no Discord bem ativo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/x.com/)
 
-### 🔗 [Online Fix](https://online-fix.me/) [📣](https://t.me/s/onlinefix)
-
-- Jogue jogos online pirata com seus amigos, de forma gratuita com suporte de convite via Steam.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
-
 ### 🔗 [Free GOG PC Games](https://freegogpcgames.com/)
 
 - Fornecem jogos DRM-FREE de fontes que foram cuidadosamente examinadas antes de serem disponibilizadas para download.
