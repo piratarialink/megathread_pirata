@@ -303,16 +303,15 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ## 🧲 Torrent/P2P
 
-### 🌟 [DODI Repacks](https://dodi-repacks.site/)
-
-- Nome muito conhecido na área. Este repacker é considerado um dos melhores no setor de videogames piratas.
-- Os arquivos de jogos (repacks) do DODI são limpos e seguros, mas a navegação pelo site oficial exige extrema cautela por conta de [malvertising](https://en.wikipedia.org/wiki/Malvertising) e encurtadores altamente agressivos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/dodi-repacks.site/)  
-
 ### 🌟 [FitGirl Repacks](https://fitgirl-repacks.site/)
 
 - Um repacker que nasceu na Rússia e que depois evoluiu nos últimos anos de um arquivista doméstico para a "magrinha" mais conhecida da web.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fitgirl-repacks.site/)
+
+### 🌟 [KaOsKrew](https://kaoskrew.org/)
+
+- Rippers old school que, pelo menos nas últimas duas décadas, produziram rips e repacks em um ritmo alarmante.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kaoskrew.org/)
 
 ### 🔗 [Ecológica Verde](https://x.com/Ecologica2Verde)
 :::warning ⚠️ Aviso de Segurança
@@ -333,16 +332,18 @@ Uma pequena quantia de jogos, [distribuídos pelos mesmos](https://archive.is/tj
 - Fornece jogos pré-instalados e com instaladores compativeis diretamente com Linux, sem precisar da camada de compatibilidade Wine.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/freelinuxpcgames.com/)
 
-### 🔗 [KaOsKrew](https://kaoskrew.org/)
-
-- Rippers old school que, pelo menos nas últimas duas décadas, produziram rips e repacks em um ritmo alarmante.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kaoskrew.org/)
-
 ### 🔗 [Xatab](https://byxatab.com/) • Interface em russo
 
 - Este repacker é amplamente considerado como um dos melhores no cenário de videogames piratas, conquistando a confiança dos jogadores em todos os lugares.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/byxatab.com/)
 
+### 🔗 [DODI Repacks](https://dodi-repacks.site/)
+
+- Nome muito conhecido na área. Este repacker é considerado um dos melhores no setor de videogames piratas.
+- Os arquivos de jogos (repacks) do DODI são limpos e seguros, mas a navegação pelo site oficial exige extrema cautela por conta de [malvertising](https://en.wikipedia.org/wiki/Malvertising) e encurtadores altamente agressivos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/dodi-repacks.site/)
+
 ## Está buscando Emuladores e ROMs?
 
 ➜ Confira nossa Megathread sobre 🕹️ [Emuladores e ROMs](emuladores-roms.md)
+
