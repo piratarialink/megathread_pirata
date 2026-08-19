@@ -137,11 +137,6 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Ótima fonte para a mais nova seleção de jogos gratuitos pré-instalados. Os termos "jogo" e "indie" são combinados para criar o nome.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamdie.com/)
 
-### 🔗 [GameDrive.org](https://gamedrive.org/)
-
-- Repacks gratuitos com jogos pré-instalados de DODI, ElAmigos, FitGirl e muito mais por meio de conexões diretas de alta velocidade.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamedrive.org/)
-
 ### 🔗 [Scene.cat](https://scene.cat/)
 
 - Fórum amigável, especializado em fornecer repacks de repackers incríveis como DODI, FitGirl e outros. Aproveite os jogos!
