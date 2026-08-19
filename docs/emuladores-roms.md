@@ -409,11 +409,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Arquivo que preserva e disponibiliza downloads de jogos antigos old school de diversos sistemas e consoles.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/abandonwaregames.net/)
 
-### 🔗 [**Ziperto**](https://www.ziperto.com)
-
-- Excelente para obter roms do Switch, apenas tome cuidado para não sair clicando em qualquer coisa e tenha o bom senso de usar adblock.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/ziperto.com/)
-
 ## 🏠 Homebrew/Quality of Life
 
 ### 🌟 [Project Restoration](https://github.com/leoetlino/project-restoration)
