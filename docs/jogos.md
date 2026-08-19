@@ -332,7 +332,7 @@ Uma pequena quantia de jogos, [distribuídos pelos mesmos](https://archive.is/tj
 - Nome muito conhecido na área. Este repacker é considerado um dos melhores no setor de videogames piratas.
 :::warning ⚠️ Aviso de Segurança
 
-Dodi possui repacks seguros contém seu site é conhecido por possuir acionadores de redirecionamentos maliciosos. Acesse apenas com Ublock Origin, a versão lite não possui proteção adequada. É recomendado acessar a página [1337x](https://1337x.to/user/DODI/) do Dodi ao invés do site dele.
+Dodi possui repacks seguros porém seu site é conhecido por possuir acionadores de redirecionamentos maliciosos. Acesse apenas com Ublock Origin, a versão lite não possui proteção adequada. É recomendado acessar a página [1337x](https://1337x.to/user/DODI/) do Dodi ao invés do site dele.
 :::
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/dodi-repacks.site/)
 
