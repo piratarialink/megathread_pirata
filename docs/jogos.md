@@ -330,7 +330,10 @@ Uma pequena quantia de jogos, [distribuídos pelos mesmos](https://archive.is/tj
 ### 🔗 [DODI Repacks](https://dodi-repacks.site/)
 
 - Nome muito conhecido na área. Este repacker é considerado um dos melhores no setor de videogames piratas.
-- Os arquivos de jogos (repacks) do DODI são limpos e seguros, mas a navegação pelo site oficial exige extrema cautela por conta de [malvertising](https://en.wikipedia.org/wiki/Malvertising) e encurtadores altamente agressivos.
+:::warning ⚠️ Aviso de Segurança
+
+Dodi possui repacks seguros contém seu site é conhecido por possuir acionadores de redirecionamentos maliciosos. Acesse apenas com Ublock Origin, a versão lite não possui proteção adequada. É recomendado acessar a página [1337x](https://1337x.to/user/DODI/) do Dodi ao invés do site dele.
+:::
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/dodi-repacks.site/)
 
 ## Está buscando Emuladores e ROMs?
