@@ -116,11 +116,6 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Baixe jogos grátis para PC de várias fontes, incluindo CODEX, GOG e ElAmigos - com excelentes hosts de arquivos, é realmente simples. / [Falha na conexão? Tente isso.](/guias/dns.md)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ovagames.com/)
 
-### 🔗 [World of PC](https://worldofpcgames.com/)
-
-- Portal criado por volta de 2016 - explore uma vasta coletânea de games nativos para Windows 11, 10, Linux e Macintosh.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/worldofpcgames.com/)
-
 ### 🔗 [CODEX](https://www.skidrowcodex.net/)
 
 - Grupo warez fundado em meados de 2014, conhecido por lançar/compartilhar repacks que quebram o denuvo de alguns jogos - geralmente os mais em alta.
