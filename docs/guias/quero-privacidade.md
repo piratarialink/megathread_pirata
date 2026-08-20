@@ -5,7 +5,7 @@
 
 ## O básico para privacidade
 
-- Privacidade no Firefox: LibreWolf, Betterfox ou Arkenfox
+- Privacidade no Firefox: Betterfox ou Arkenfox
 - uBlock Origin: Javascript sempre desativado em sites novos
 - Navegador baseado em Chromium: Cromite e Helium
 - Não cruzar nomes em logins: sempre use nomes diferentes em todas as redes sociais, de preferência palavras aleatórias
