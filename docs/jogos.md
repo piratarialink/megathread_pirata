@@ -116,11 +116,6 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Baixe jogos grátis para PC de várias fontes, incluindo CODEX, GOG e ElAmigos - com excelentes hosts de arquivos, é realmente simples. / [Falha na conexão? Tente isso.](/guias/dns.md)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ovagames.com/)
 
-### 🔗 [World of PC](https://worldofpcgames.com/)
-
-- Portal criado por volta de 2016 - explore uma vasta coletânea de games nativos para Windows 11, 10, Linux e Macintosh.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/worldofpcgames.com/)
-
 ### 🔗 [CODEX](https://www.skidrowcodex.net/)
 
 - Grupo warez fundado em meados de 2014, conhecido por lançar/compartilhar repacks que quebram o denuvo de alguns jogos - geralmente os mais em alta.
@@ -141,11 +136,6 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 - Ótima fonte para a mais nova seleção de jogos gratuitos pré-instalados. Os termos "jogo" e "indie" são combinados para criar o nome.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamdie.com/)
-
-### 🔗 [GameDrive.org](https://gamedrive.org/)
-
-- Repacks gratuitos com jogos pré-instalados de DODI, ElAmigos, FitGirl e muito mais por meio de conexões diretas de alta velocidade.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gamedrive.org/)
 
 ### 🔗 [Scene.cat](https://scene.cat/)
 
@@ -303,16 +293,15 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 ## 🧲 Torrent/P2P
 
-### 🌟 [DODI Repacks](https://dodi-repacks.site/)
-
-- Nome muito conhecido na área. Este repacker é considerado um dos melhores no setor de videogames piratas.
-- Os arquivos de jogos (repacks) do DODI são limpos e seguros, mas a navegação pelo site oficial exige extrema cautela por conta de [malvertising](https://en.wikipedia.org/wiki/Malvertising) e encurtadores altamente agressivos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/dodi-repacks.site/)  
-
 ### 🌟 [FitGirl Repacks](https://fitgirl-repacks.site/)
 
 - Um repacker que nasceu na Rússia e que depois evoluiu nos últimos anos de um arquivista doméstico para a "magrinha" mais conhecida da web.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/fitgirl-repacks.site/)
+
+### 🌟 [KaOsKrew](https://kaoskrew.org/)
+
+- Rippers old school que, pelo menos nas últimas duas décadas, produziram rips e repacks em um ritmo alarmante.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kaoskrew.org/)
 
 ### 🔗 [Ecológica Verde](https://x.com/Ecologica2Verde)
 :::warning ⚠️ Aviso de Segurança
@@ -322,11 +311,6 @@ Uma pequena quantia de jogos, [distribuídos pelos mesmos](https://archive.is/tj
 
 - Perfil que divulga links para jogos via torrent, também possui um grupo no Discord bem ativo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/x.com/)
-
-### 🔗 [Online Fix](https://online-fix.me/) [📣](https://t.me/s/onlinefix)
-
-- Jogue jogos online pirata com seus amigos, de forma gratuita com suporte de convite via Steam.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
 
 ### 🔗 [Free GOG PC Games](https://freegogpcgames.com/)
 
@@ -338,16 +322,21 @@ Uma pequena quantia de jogos, [distribuídos pelos mesmos](https://archive.is/tj
 - Fornece jogos pré-instalados e com instaladores compativeis diretamente com Linux, sem precisar da camada de compatibilidade Wine.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/freelinuxpcgames.com/)
 
-### 🔗 [KaOsKrew](https://kaoskrew.org/)
-
-- Rippers old school que, pelo menos nas últimas duas décadas, produziram rips e repacks em um ritmo alarmante.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kaoskrew.org/)
-
 ### 🔗 [Xatab](https://byxatab.com/) • Interface em russo
 
 - Este repacker é amplamente considerado como um dos melhores no cenário de videogames piratas, conquistando a confiança dos jogadores em todos os lugares.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/byxatab.com/)
 
+### 🔗 [DODI Repacks](https://dodi-repacks.site/)
+
+- Nome muito conhecido na área. Este repacker é considerado um dos melhores no setor de videogames piratas.
+:::warning ⚠️ Aviso de Segurança
+
+Dodi possui repacks seguros porém seu site é conhecido por possuir acionadores de redirecionamentos maliciosos. Acesse apenas com Ublock Origin, a versão lite não possui proteção adequada. É recomendado acessar a página [1337x](https://1337x.to/user/DODI/) do Dodi ao invés do site dele.
+:::
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/dodi-repacks.site/)
+
 ## Está buscando Emuladores e ROMs?
 
 ➜ Confira nossa Megathread sobre 🕹️ [Emuladores e ROMs](emuladores-roms.md)
+
