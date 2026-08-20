@@ -137,7 +137,7 @@ Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que c
 
 ### [uBlock Origin](https://ublockorigin.com/)
 
-O uBlock Origin é uma extensão de navegador popular projetada para bloquear anúncios, rastreadores e outros elementos indesejados em páginas da web. Ele funciona filtrando o conteúdo da página em tempo real, impedindo que anúncios sejam carregados, o que resulta em uma experiência de navegação mais rápida e limpa. Além de bloquear anúncios, o uBlock Origin também oferece opções avançadas de filtragem, permitindo que os usuários personalizem suas configurações conforme necessário. Esta extensão é conhecida por sua eficácia, baixo consumo de recursos e pela capacidade de proteger a privacidade dos usuários, bloqueando rastreadores e scripts maliciosos.
+O uBlock Origin é uma extensão de navegador robusta projetada para bloquear anúncios, rastreadores e outros elementos indesejados em páginas da web. Ele funciona filtrando o conteúdo da página em tempo real, impedindo que anúncios sejam carregados, o que resulta em uma experiência de navegação mais rápida e limpa. Além de bloquear anúncios, o uBlock Origin também oferece opções avançadas de filtragem, permitindo que os usuários personalizem suas configurações conforme necessário. Esta extensão é conhecida por sua eficácia, baixo consumo de recursos e pela capacidade de proteger a privacidade dos usuários, bloqueando rastreadores e scripts maliciosos.
 
 :::info Adicionar a lista [oisd.nl](https://oisd.nl) como lista adicional
 :::
@@ -168,7 +168,7 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 
 O Thunderbird pode tornar a comunicação mais segura através do suporte integrado para proxy SOCKS5, DNS-over-HTTPS e criptografia de mensagens. Também oferece forte proteção para o seu provedor de e-mail favorito (seja ele IMAP ou POP3) e recursos avançados de privacidade como chat via protocolo XMPP ou IRC. Além disso, se destaca dos demais clientes de e-mail ao impedir a execução automática de scripts e imagens embutidas por padrão, resultando em um ambiente isolado e capaz de barrar o compartilhamento de malware em uma cadeia de dispositivos. 
 
-- Base para outros projetos sem ligação com a Mozilla como o [Betterbird](https://www.betterbird.eu/) e o [K-9 Mail](https://k9mail.app/).
+- Referência para outros projetos sem ligação com a Mozilla como o [Betterbird](https://www.betterbird.eu/), [Pelton](https://pelton.app/) e o [K-9 Mail](https://k9mail.app/).
 
 
 ## Sistema Operacional Android
