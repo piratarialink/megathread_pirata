@@ -116,6 +116,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Interface moderna e responsiva, totalmente otimizada para computadores, dispositivos móveis e Smart TVs.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/brflix.lat/)
 
+### 🌟 [Aether](https://rentry.co/aetherdomains) / [2](https://legacy.aether.mom) / [3](https://aether.bar)
+
+- Melhor alternativa para o finado P-Stream e suas instâncias.
+- Filmes e séries em 1080p ou em até 4k disponível com o token do Febbox, extensão ou proxy personalizado.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/aether.mom/)
+
 ### 🌟 [HydraHD](https://hydrahd.me/)
 
 - Aproveite de uma infinidade de filmes e séries em streaming sem efetuar cadastro.
@@ -125,12 +131,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Legendas em português brasileiro para blockbusters/seriados populares e canais gratuitos de IPTV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cinemaos.live/)
-  
-### 🌟 [Aether](https://aether.mom/) / [2](https://legacy.aether.mom) / [3](https://aether.bar)
-
-- Melhor alternativa para o finado P-Stream e suas instâncias.
-- Filmes e séries em 1080p ou em até 4k disponível com o token do Febbox, extensão ou proxy personalizado.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/aether.mom/)
 
 ### 🌟 [uCinema](https://ucinema.so/)
 
