@@ -163,6 +163,10 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - [Checar URLs atualizadas pela Wikipédia](https://en.wikipedia.org/wiki/Anna%27s_Archive)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/br.annas-archive.li/)
 
+### 🔍 [Shadow Library Uptime Monitor (SLUM)](https://open-slum.org)
+- Monitorador de links dos principais acervos para downloads de livros (zlibrary, annas-archive, libgen, scihub, etc). Listando quais estão online e quais estão off, vale a pena favoritar. 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/open-slum.org/)
+
 ### 🔍 [Boooky](https://iatizei.notion.site/Boooky-2efb6ffcf47a80e19a5fc6c4d2ac2f35)
 
 - Diretório nacional para as principais e melhores bibliotecas virtuais do momento.
@@ -172,10 +176,6 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 - Os usuários são ajudados por este motor de busca a encontrar downloads gratuitos de e-books, bem como audiobooks.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ravebooksearch.com/)
-
-### 🔗 [Shadow Library Uptime Monitor (SLUM)](https://open-slum.org)
-- É um monitorador de links dos principais acervos para downloads de livros (zlibrary, annas-archive, libgen, scihub, etc). Listando quais estão online, quais estão off, vale a pena favoritar para sempre ter uma alternativa dos seus sites favoritos 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/open-slum.org/)
 
 ## 💼 Aplicativos
 
