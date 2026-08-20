@@ -114,8 +114,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 ### 🌟 [BatCave](https://batcave.biz/)
 
-- Acervo gringo enorme de quadrinhos.
-- Leitura online.
+- Acervo gringo enorme de quadrinhos para leitura online.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/batcave.biz/)
 
 ### 🔗 [Darkseid Club](https://site.ds-club.net/)  • Necessário Cadastrar-se
@@ -127,13 +126,8 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 ### 🔗 [KuroScan](https://kuroscan.blogspot.com/)
 
 - KuroScan é uma Scan especializada nas HQs de Julia Kendall.
-- Downloads disponíveis no MediaFire, 4Shared e Mega.
-
+- Downloads disponíveis no MediaFire e Mega. Não baixar do 4shared.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/kuroscan.blogspot.com/)
-
-### 🔗 [SoQuadrinhos](https://site.soquadrinhos.com/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/site.soquadrinhos.com/)
 
 ### 🔗 [NdranghetaHQs](https://ndrangheta-br.blogspot.com/)
 
@@ -148,6 +142,10 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 ### 🔗 [Tudo HQ e Mangá](https://tudohqemanga.com.br/)
 
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/tudohqemanga.com.br/)
+
+### 🔗 [SoQuadrinhos](https://site.soquadrinhos.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/site.soquadrinhos.com/)
 
 ## ☁️ Pastas na Nuvem
 
