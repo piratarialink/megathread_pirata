@@ -7,6 +7,8 @@
 
 A privacidade na internet é crucial para encontrar um equilíbrio entre a transparência e o anonimato. Embora seja importante responsabilizar aqueles que cometem crimes ou propagam conteúdos prejudiciais na internet, também é essencial garantir que as pessoas possam se expressar anonimamente quando necessário, sem medo de represálias ou exposição excessiva. Esse equilíbrio protege a liberdade de expressão e a diversidade de vozes, permitindo que todos tenham a oportunidade de participar do espaço digital de maneira segura e inclusiva.
 
+> "O ciclo da vida: consumir recursos para produzir objetos que logo se tornarão lixo. Dados são coletados para criar desejos, lucro e poder, e para gerar medo, autocensura e resignação. Viver com medo é realmente uma experiência marcante, não é? Isso é o que significa ser um escravo." - [autistici.org](https://www.autistici.org/who/telltale)
+
 ## A visita policial
 
 Em hipótese alguma permita a entrada deles na sua residência sem mandado judicial, que é um documento redigido e assinado por um juiz competente para busca e apreensão. No caso de insistência ou ameaças, peça licença e diga que irá chamar seu advogado imediatamente, e o faça! Relate o ocorrido e aguarde sua chegada para continuar o diálogo. Vejamos o que diz o seguinte preceito constitucional:
@@ -29,15 +31,11 @@ A inviolabilidade do lar só pode ser excepcionada em casos de flagrante delito,
 
 > Art. 46. Título II - Não constitui ofensa aos direitos autorais: a reprodução, em um só exemplar de pequenos trechos, para uso privado do copista, desde que feita por este, sem intuito de lucro;
 
-E o mesmo artigo, no Título I, Alínea d, estabelece que está permitida a reprodução:
-
-> de obras literárias, artísticas ou científicas, para uso exclusivo de deficientes visuais, sempre que a reprodução, sem fins comerciais, seja feita mediante o sistema Braille ou outro procedimento em qualquer suporte para esses destinatários;
-
 ## Navegadores
 
 ### [Librewolf](https://librewolf.net/)
 
-O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Habilita o recurso upstreamed do RFP pelo projeto Tor Uplift e já vem com o Ublock Origin pré-instalado. Você mesmo pode fazer um fork do Librewolf e a partir daí gerar seu próprio navegador local + dependências (recomendado somente para usuários avançados).
+O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Habilita o recurso upstreamed do RFP pelo projeto Tor Uplift. Você mesmo pode fazer um fork do Librewolf e a partir daí gerar seu próprio navegador local + dependências (recomendado somente para usuários avançados).
 
 - Tecnologia Anti-Fingerprinting (Forte)
 - Não é afiliado com a Mozilla Foundation
@@ -71,8 +69,8 @@ Todavia requer que o usuário configure de maneira manual, para uma privacidade 
 O Cromite é para o Chrome/Brave o que o Librewolf é para o Firefox; fork do Chromium baseado no fork do Bromite com bloqueio de anúncios e aprimoramentos de privacidade.
 
 - Anti-Fingerprinting
-- Adblock Plus
-- Baseado em Chromium
+- Adblock Plus built-in
+- Baseado no Chromium
 
 :::info Disponível para Android, Windows e Linux
 :::
@@ -88,6 +86,13 @@ O Navegador Mullvad é uma versão do Navegador Tor com as integrações do rote
 
 :::info Disponível para Windows e Linux
 :::
+
+### [Helium Browser](https://helium.computer/)
+
+Clone do ungoogled chromium feito pela equipe por trás do cobalt.tools com suporte nativo para extensões manifest V2 e funcionalidades adicionais como auto-updater e download automático de listas de filtro para o bloqueador de anúncios embutido. 
+
+- uBlock Origin built-in (Fork do Raymond Hill)
+- Permite usar sua própria instância para serviços de navegação
 
 ## Gerenciador de Senhas
 
@@ -157,12 +162,6 @@ O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo bas
 :::
 
 ## Clientes de E-mail
-
-:::tip Se a sua intenção for usar um provedor para atividades na web que exigem mais sigilo, talvez não valha a pena usar domains da clearnet. Nesse contexto, comunique-se por meio de [**OpenPGP**](https://www.openpgp.org/software/) + serviços de e-mail hospedados na rede Tor como [Mail2Tor](http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/) (o melhor), [TorBox](http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/) (um dos melhores), [Cock.li](http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/) (o mais estável) e [Deep Mail](http://deepmailv2xihwk7ie5q3nlmyflvjlqhvlzt3wih43eo44sfvfingeqd.onion/) (nacional e amigável com postfix)
-‎ 
-
-**Você também pode hospedar seu próprio MTA dentro do [Mailcow](https://github.com/mailcow/mailcow-dockerized) ou [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox), embora isso não seja muito indicado por ser [algo extremamente complexo e custoso](https://www.youtube.com/watch?v=aHpf9eJYeKQ)**
-:::
 
 ### [Thunderbird](https://www.thunderbird.net/pt-BR/)
 
