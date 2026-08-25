@@ -1,6 +1,6 @@
 # 🪶 ➜ Privacidade
 
-:::info Essa página ainda é um esboço. Feito com base nas recomendações do [Privacy Guides](https://www.privacyguides.org/) e [Spyware Watchdog](https://spyware.neocities.org/)
+:::info Essa página ainda é um esboço.
 :::
 
 ## Panorama da Segurança
@@ -50,7 +50,7 @@ E o mesmo artigo, no Título I, Alínea d, estabelece que está permitida a repr
 ## VPN
 - [IVPN](https://www.ivpn.net)
 - [Mullvad](https://mullvad.net/)
-- [AirVPN](https://airvpn.org/buy/) / Suporta port-forwarding , fazendo suportar a rede P2P (peer-to-peer)
+- [AirVPN](https://airvpn.org/buy/) / Suporta port-forwarding, fazendo suportar a rede P2P (peer-to-peer)
 
 ## Nuvem
 - [Nextcloud](https://nextcloud.com/) (Autohospedado)
@@ -95,7 +95,6 @@ E o mesmo artigo, no Título I, Alínea d, estabelece que está permitida a repr
 
 ## Criptomoeda
 - [Monero (XMR)](https://www.getmonero.org/)
-- [ZCash (ZEC)](https://z.cash/)
 
 ## Motor de Pesquisa
 - [DuckDuckGo](https://duckduckgo.com/)
@@ -105,6 +104,10 @@ E o mesmo artigo, no Título I, Alínea d, estabelece que está permitida a repr
 - Qualquer um que suporte [OpenWRT](https://openwrt.org/)
 - [Pi-hole](https://pi-hole.net/) com lista do [oisd.nl](https://oisd.nl/)
 - [pfSense](https://www.pfsense.org/) ou OPNSense.
+
+## Hospedagem
+- [Servers.guru](https://servers.guru)
+- [Njal.la](https://njal.la/)
 
 ## SMS
 - [jmp.chat](https://jmp.chat)
@@ -150,6 +153,8 @@ Um sistema operacional mobile privado e seguro com compatibilidade de aplicativo
 - A linha da Motorola é a mais acessível no Brasil
 - Pode restringir totalmente o uso da internet por aplicativos
 
-## Leitura recomendada
+### [Serviços Sem KYC (Know Your Customer)](https://kycnot.me/)
 
-- [Guia de privacidade para paranoicos](/guias/quero-privacidade.md)
+Encontre corretoras de criptomoedas, carteiras (wallets), VPNs e outros serviços que não exigem KYC (processo de verificação de identidade) — todos verificados e classificados por nível de privacidade. Use criptomoedas sem precisar enviar documentos, comprovar sua identidade ou apresentar um documento oficial emitido pelo governo.
+- [kycnot.me](https://kycnot.me/)
+
