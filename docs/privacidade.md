@@ -35,103 +35,80 @@ E o mesmo artigo, no Título I, Alínea d, estabelece que está permitida a repr
 
 ## Navegadores
 
-### [Librewolf](https://librewolf.net/)
+- [Firefox](https://www.firefox.com/en-US/download/all/) + [arkenfox/user.js](https://github.com/arkenfox/user.js/)
+- [Mullvad Browser](https://mullvad.net/en/browser)
+- [Tor Browser](https://www.torproject.org)
+- [Helium](https://helium.computer/)
+- [LibreWolf](https://librewolf.net/)
+- [Cromite](https://github.com/uazo/cromite)
 
-O Librewolf é um navegador orientado para a privacidade baseado no Firefox. Habilita o recurso upstreamed do RFP pelo projeto Tor Uplift e já vem com o Ublock Origin pré-instalado. Você mesmo pode fazer um fork do Librewolf e a partir daí gerar seu próprio navegador local + dependências (recomendado somente para usuários avançados).
-
-- Tecnologia Anti-Fingerprinting (Forte)
-- Não é afiliado com a Mozilla Foundation
-- Sem telemetria (coleta de dados sobre o uso do usuário)
-
-![Librewolf](./images/librewolf.png)
-
-### [IronFox](https://gitlab.com/ironfox-oss/IronFox)
-
-Procurando manter o legado do Mull Browser vivo, este software leve é o meio mais robusto e confiável de navegar na internet pelo Android, totalmente código aberto, sem anúncios e com a telemetria já desativada desde a primeira interação.
-
-- Personalizado com ênfase na privacidade
-- Hardening avançado contra Fingerprint
-
-:::info Se ainda preferir, você mesmo pode [desativar a telemetria](https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection) no about:config do [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/): outro derivado do firefox mobile também disponível para Android
-:::
-
-:::tip Para adicionar algumas extensões vá para: Configurações > Sobre o IronFox > Toque na logo do IronFox cinco vezes > Volte para o painel de configurações > Avançado > Instalar extensão a partir de arquivo. Isso funciona também em outros navegadores baseados no Gecko
-:::
-
-### [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
-
-Trata-se de um projeto open-source (código aberto), baseado em Chromium, mas sem manipulação do Google: remove os serviços e rastreamento do Google e telemetria.
-Todavia requer que o usuário configure de maneira manual, para uma privacidade ainda mais robusta.
-
-:::tip É fundamental que você use [isso](https://github.com/NeverDecaf/chromium-web-store)
-:::
-
-### [Cromite](https://github.com/uazo/cromite)
-
-O Cromite é para o Chrome/Brave o que o Librewolf é para o Firefox; fork do Chromium baseado no fork do Bromite com bloqueio de anúncios e aprimoramentos de privacidade.
-
-- Anti-Fingerprinting
-- Adblock Plus
-- Baseado em Chromium
-
-:::info Disponível para Android, Windows e Linux
-:::
-
-![Cromite](./images/cromite.png)
-
-### [Mullvad Browser](https://mullvad.net/en/browser)
-
-O Navegador Mullvad é uma versão do Navegador Tor com as integrações do roteamento onion removidas, visando fornecer as tecnologias de anti-reconhecimento do Browser. Ele é gratuito e desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
-
-- Anti-Fingerprinting
-- Modo de navegação privada
-
-:::info Disponível para Windows e Linux
-:::
-
-## Gerenciador de Senhas
-
-### [Bitwarden](https://bitwarden.com/)
-
-O Bitwarden é um gerenciador de senhas de código aberto e plataforma de segurança de dados que permite armazenar de forma segura senhas, cartões de crédito e outros dados confidenciais. Ele oferece recursos como preenchimento automático de senhas, geração segura de senhas, compartilhamento seguro de senhas com outras pessoas e sincronização de dados entre dispositivos. O Bitwarden é acessível por aplicativos para desktop, navegador e dispositivos móveis, garantindo acesso fácil e seguro às suas credenciais em qualquer lugar.
-
-:::info Você pode criar sua própria instância do Bitwarden, instalando o [Vaultwarden](https://github.com/dani-garcia/vaultwarden) em seu servidor - Somente para usúarios avançados
-:::
-
-### [KeePassXC](https://keepassxc.org/)
-
-O KeePassXC é um gerenciador de senhas de código aberto e local, projetado para armazenar e gerar senhas seguras de forma criptografada. Ele oferece recursos como a organização de senhas em um banco de dados protegido por senha mestra, autenticação de dois fatores e a capacidade de sincronização de banco de dados entre dispositivos. O KeePassXC é altamente personalizável e suporta uma variedade de recursos adicionais, como anexos de arquivos e campos personalizados.
+## Gerenciador de Senha
+- [KeePassXC ](https://keepassxc.org/)+ [Nextcloud](https://nextcloud.com/)
+- [Bitwarden](https://bitwarden.com/)
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) (Bitwarden, porém autohospedado)
 
 ## VPN
+- [IVPN](https://www.ivpn.net)
+- [Mullvad](https://mullvad.net/)
+- [AirVPN](https://airvpn.org/buy/) / Suporta port-forwarding , fazendo suportar a rede P2P (peer-to-peer)
 
-Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que cria uma conexão segura e criptografada entre o dispositivo do usuário e um servidor remoto. Essa conexão permite que o usuário navegue na internet de forma segura, protegendo sua privacidade e anonimato online. As VPNs são utilizadas para ocultar o endereço IP do usuário, contornar restrições geográficas, proteger dados sensíveis contra hackers em redes públicas, e acessar conteúdos bloqueados por governos ou empresas. Elas funcionam criptografando o tráfego de dados, tornando-o ilegível para qualquer pessoa que tente interceptá-lo. As VPNs também podem ser usadas para acesso remoto a redes corporativas de forma segura. No entanto, é importante escolher um provedor de VPN confiável que mantenha uma política rigorosa de não registro e ofereça velocidades de conexão satisfatórias.
+## Nuvem
+- [Nextcloud](https://nextcloud.com/) (Autohospedado)
+- [Tresorit](https://tresorit.com/)
+- [Peergos](https://peergos.org/)
 
-### [Mullvad VPN](https://mullvad.net/)
+## Criptografia
+- OpenPGP
+- Kleopatra
+- OpenKeychain no Android
+- [VeraCrypt](https://veracrypt.io) (Windows/Linux), criptografia de disco e de pastas/arquivos.
+- [Cryptomator](https://cryptomator.org/) (Windows/Linux/Android), criptografia de arquivos, os arquivos são criptografados separadamente e não somente em um bloco.
+- [RClone](https://rclone.org/) com qualquer serviço de armazenamento em nuvem.
+- Linux Unified Key Setup (LUKS)
 
-- Barata, rápida e com vários servidores
-- Suporta Monero
+## Email
+- [Mailbox.org](https://mailbox.org)
+- [Tuta](https://tuta.com/)
+- [PurelyMail](https://purelymail.com/)
+- [ProtonMail](https://proton.me/mail)
 
-![Mullvad](./images/mullvad_vpn.png)
+## XMPP
+- Use servidores e clientes que suportam OMEMO/OpenPGP
+- Windows/Linux: [Gajim](https://gajim.org/download/)
+- MacOS/IOS: [Monal](monal-im.org/)
+- Browser: [Movim](mov.im)
+- Android: [Conversations](f-droid.org/en/packages/eu.siacs.conversations/), tem o Monocles também e outros.
 
-### [IVPN](https://www.ivpn.net/)
+## Desktop
+- Linux (distros como [Arch](https://archlinux.org/), [Qubes OS](https://www.qubes-os.org/), [Fedora](https://fedoraproject.org/), [NixOS](https://nixos.org/)
+- Live Boot em Flash Drive com [Whonix](https://www.whonix.org/)/[Tails OS](https://tails.net/)
 
-- Ótima alternativa para a Mullvad VPN
+## Rede social
+- Lemmy, Session, Mastodon, XMPP e Matrix ([Element](https://element.io))
 
-### [Private Internet Access](https://www.privateinternetaccess.com/)
+## Provedor de dominio
+- Cloudflare ou Porkbun, preciso de mais sigilo? Vá de Njalla.
+- [Njal.la](https://njal.la/)
 
-- Suporta port-forwarding, fazendo suportar a rede P2P (peer-to-peer)
+## Meet
+- [Jit.si](https://meet.jit.si/)
 
-### [ProtonVPN](https://protonvpn.com)
+## Criptomoeda
+- [Monero (XMR)](https://www.getmonero.org/)
+- [ZCash (ZEC)](https://z.cash/)
 
-- Suporta port-forwarding, fazendo suportar a rede P2P (peer-to-peer)
+## Motor de Pesquisa
+- [DuckDuckGo](https://duckduckgo.com/)
+- [Kagi](https://kagi.com/)
 
-### [AirVPN](https://airvpn.org/buy/)
+## Roteador
+- Qualquer um que suporte [OpenWRT](https://openwrt.org/)
+- [Pi-hole](https://pi-hole.net/) com lista do [oisd.nl](https://oisd.nl/)
+- [pfSense](https://www.pfsense.org/) ou OPNSense.
 
-- Suporta port-forwarding, fazendo suportar a rede P2P (peer-to-peer)
-- Suporta Monero
-
-:::warning AirVPN deve ser a última opção como VPN, seus servidores não são bons
-:::
+## SMS
+- [jmp.chat](https://jmp.chat)
+- [VirtualSIM](https://virtualsim.net)
 
 ## Bloqueador de anúncios e rastreadores
 
@@ -139,7 +116,7 @@ Uma VPN (Virtual Private Network - Rede Virtual Privada) é uma tecnologia que c
 
 O uBlock Origin é uma extensão de navegador robusta projetada para bloquear anúncios, rastreadores e outros elementos indesejados em páginas da web. Ele funciona filtrando o conteúdo da página em tempo real, impedindo que anúncios sejam carregados, o que resulta em uma experiência de navegação mais rápida e limpa. Além de bloquear anúncios, o uBlock Origin também oferece opções avançadas de filtragem, permitindo que os usuários personalizem suas configurações conforme necessário. Esta extensão é conhecida por sua eficácia, baixo consumo de recursos e pela capacidade de proteger a privacidade dos usuários, bloqueando rastreadores e scripts maliciosos.
 
-:::info Adicionar a lista [oisd.nl](https://oisd.nl) como lista adicional
+:::info Adicionar a lista [oisd.nl](https://oisd.nl) como lista adicional.
 :::
 
 ![uBlock Add](./images/ublock_oisd_add.png)
@@ -150,26 +127,13 @@ O uBlock Origin é uma extensão de navegador robusta projetada para bloquear an
 
 O Pi-hole é uma solução de bloqueio de anúncios e filtragem de conteúdo baseada em rede, geralmente implementada em um Raspberry Pi ou em um servidor local. Funciona como um servidor DNS que intercepta solicitações de DNS feitas por dispositivos na rede e bloqueia solicitações para servidores de anúncios e domínios de conteúdo indesejado. Isso melhora a velocidade de navegação, reduz o consumo de largura de banda e aumenta a privacidade, já que muitos rastreadores e anúncios são bloqueados antes de serem carregados. O Pi-hole também fornece estatísticas detalhadas sobre o tráfego de rede e os domínios bloqueados, permitindo um controle mais preciso sobre o fluxo de dados na rede local.
 
-:::info Utilizar a lista do [PerfLyst](https://github.com/Perflyst/PiHoleBlocklist) para bloquear anúncios na smartTV
-:::
-
-:::warning O Pi-hole é somente para usúarios avançados
-:::
-
 ## Clientes de E-mail
-
-:::tip Se a sua intenção for usar um provedor para atividades na web que exigem mais sigilo, talvez não valha a pena usar domains da clearnet. Nesse contexto, comunique-se por meio de [**OpenPGP**](https://www.openpgp.org/software/) + serviços de e-mail hospedados na rede Tor como [Mail2Tor](http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/) (o melhor), [TorBox](http://torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion/) (um dos melhores), [Cock.li](http://rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion/) (o mais estável) e [Deep Mail](http://deepmailv2xihwk7ie5q3nlmyflvjlqhvlzt3wih43eo44sfvfingeqd.onion/) (nacional e amigável com postfix)
-‎ 
-
-**Você também pode hospedar seu próprio MTA dentro do [Mailcow](https://github.com/mailcow/mailcow-dockerized) ou [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox), embora isso não seja muito indicado por ser [algo extremamente complexo e custoso](https://www.youtube.com/watch?v=aHpf9eJYeKQ)**
-:::
 
 ### [Thunderbird](https://www.thunderbird.net/pt-BR/)
 
 O Thunderbird pode tornar a comunicação mais segura através do suporte integrado para proxy SOCKS5, DNS-over-HTTPS e criptografia de mensagens. Também oferece forte proteção para o seu provedor de e-mail favorito (seja ele IMAP ou POP3) e recursos avançados de privacidade como chat via protocolo XMPP ou IRC. Além disso, se destaca dos demais clientes de e-mail ao impedir a execução automática de scripts e imagens embutidas por padrão, resultando em um ambiente isolado e capaz de barrar o compartilhamento de malware em uma cadeia de dispositivos. 
 
-- Referência para outros projetos sem ligação com a Mozilla como o [Betterbird](https://www.betterbird.eu/), [Pelton](https://pelton.app/) e o [K-9 Mail](https://k9mail.app/).
-
+- Referência para outros projetos sem ligação com a Mozilla como o [Betterbird](https://www.betterbird.eu/) e o [K-9 Mail](https://k9mail.app/).
 
 ## Sistema Operacional Android
 
@@ -185,29 +149,6 @@ Um sistema operacional mobile privado e seguro com compatibilidade de aplicativo
 - Suporta celulares antigos que não recebem mais atualizações de segurança
 - A linha da Motorola é a mais acessível no Brasil
 - Pode restringir totalmente o uso da internet por aplicativos
-
-## Criptografia de disco
-
-### [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
-
-O VeraCrypt inclui suporte para HD, SSD, USB e TF.
-Ele adiciona segurança aprimorada aos algoritmos usados ​para criptografia de sistemas e partições, tornando-os imunes a novos desenvolvimentos em ataques de força bruta. 
-No VeryCrypt você pode manter uma partição só sua e outra escondida para momentos mais "oportunos" ou em situações que sua privacidade esteja em grave perigo.
-
-### [LUKS](https://gitlab.com/cryptsetup/cryptsetup)
-
-Com o LUKS você pode criar um arquivo simples ou até mesmo um conjunto de arquivos criptografados no Linux que, quando desbloqueados, formam um LVM (Logical Volume Manager) com os seus dados. Ao fornecer um formato em disco, ele não apenas facilita a compatibilidade entre distribuições, mas também fornece gerenciamento seguro de múltiplas senhas de usuários. O LUKS é um padrão de criptografia gratuito e de código aberto, feito para que você tenha certeza de que não há backdoors.
-
-Melhores distros embarcadas com LUKS: **Debian** para servidores (recebe suporte oficial pela maioria dos programas), **Fedora** com KDE, **Arch** com i3 ou qualquer outro window manager minimalista (Endeavour é um sistema _rolling release_ derivado do Arch voltado para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
-
-:::info Caso você seja um usuário avançado, [distros sem systemd](https://nosystemd.org/) também são uma opção
-:::
-
-## Criptografia de nuvem
-
-### [Nextcloud](https://nextcloud.com/)
-
-O Nextcloud é uma plataforma de colaboração e armazenamento em nuvem de código aberto, projetada para permitir que indivíduos e organizações gerenciem e compartilhem seus arquivos de forma segura e eficiente. Ele oferece uma ampla gama de recursos, incluindo armazenamento de arquivos, calendário, contatos, compartilhamento de documentos e colaboração em tempo real. O Nextcloud é altamente personalizável e pode ser instalado em **servidores locais ou em provedores de nuvem de terceiros**, oferecendo assim maior controle sobre os dados e garantindo conformidade com requisitos de segurança e privacidade.
 
 ## Leitura recomendada
 
