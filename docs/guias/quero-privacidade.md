@@ -48,11 +48,6 @@ Melhor caminho: **p2p** ➜ **BRL** ➜ **BTC ou LTC** ➜ **XMR** ➜ [**Cold W
 - **O IDEAL É RODAR MONERO [LOCALMENTE](https://sethforprivacy.com/guides/run-a-monero-node/) NO SEU PRÓPRIO NODE PARA NÃO CORRER O RISCO DE SER MONITORADO.**
 Mas caso você esteja usando um dispositivo móvel, uma abordagem interessante é filtrar e usar nodes conectados à rede TOR (via [ORBOT](https://github.com/guardianproject/orbot-android)) deste site aqui: https://www.ditatompel.com/monero/remote-node. [[1]](https://pirataria.link/guias/quero-privacidade#creditos)
 
-## Serviços Sem KYC (Know Your Customer)
-
-Encontre corretoras de criptomoedas, carteiras (wallets), VPNs e outros serviços que não exigem KYC (processo de verificação de identidade) — todos verificados e classificados por nível de privacidade. Use criptomoedas sem precisar enviar documentos, comprovar sua identidade ou apresentar um documento oficial emitido pelo governo.
-- [kycnot.me](https://kycnot.me/)
-
 :::warning O projeto pirataria se compromete em recomendar apenas o que na nossa visão é seguro e confiável
 :::
 
