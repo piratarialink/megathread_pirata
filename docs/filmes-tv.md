@@ -122,10 +122,10 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Filmes e séries em 1080p ou em até 4k disponível com o token do Febbox, extensão ou proxy personalizado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/aether.mom/)
 
-### 🌟 [HydraHD](https://hydrahd.me/)
+### 🌟 [Glitch Moviez](https://www.glitchmoviez.com)
 
 - Aproveite de uma infinidade de filmes e séries em streaming sem efetuar cadastro.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hydrahd.me/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/glitchmoviez.com/)
 
 ### 🌟 [CinemaOS](https://cinemaos.live)
 
