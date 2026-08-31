@@ -41,12 +41,12 @@
 
 ## O avançado para privacidade
 
-- Onde comprar monero: [Telegram](https://t.me/MoneroPagamentosSuporte), [Bisq](https://github.com/bisq-network/bisq), [RetoSwap](https://retoswap.com/#download), [Cake Wallet](https://github.com/cake-tech/cake_wallet/), [Monerujo](https://github.com/m2049r/xmrwallet/), [Infinity Exchanger](https://exchanger.infinity.taxi/), [Trocador](https://trocador.app/pt/) ou qualquer lugar que não precise de identidade (KYC).
+- Onde comprar monero: [Telegram](https://t.me/MoneroPagamentosSuporte), [Bisq](https://github.com/bisq-network/bisq), [RetoSwap](https://retoswap.com/#download), [Cake Wallet](https://github.com/cake-tech/cake_wallet/), [Infinity Exchanger](https://exchanger.infinity.taxi/), [Trocador](https://trocador.app/pt/) ou qualquer lugar que não precise de identidade (KYC).
 - É possível comprar outra moeda e fazer exchange para Monero, esse tipo de troca deixa rastros insignificantes. 
 Melhor caminho: **p2p** ➜ **BRL** ➜ **BTC ou LTC** ➜ **XMR** ➜ [**Cold Wallet**](https://www.getmonero.org/pt-br/downloads/index.html) (sempre receber numa wallet disposable e transferir para a sua).
 - Cobrar e receber por serviços: pessoalmente ou através de plataformas de escrow como o [FairTrade](https://kycnot.me/service/fairtrade) por exemplo.
-- **O IDEAL É RODAR MONERO [LOCALMENTE](https://sethforprivacy.com/guides/run-a-monero-node/) NO SEU PRÓPRIO NODE PARA NÃO CORRER O RISCO DE SER MONITORADO.**
-Mas caso você esteja usando um dispositivo móvel, uma abordagem interessante é filtrar e usar nodes conectados à rede TOR (via [ORBOT](https://github.com/guardianproject/orbot-android)) deste site aqui: https://www.ditatompel.com/monero/remote-node. [[1]](https://pirataria.link/guias/quero-privacidade#creditos)
+- **O ideal é rodar monero [localmente](https://sethforprivacy.com/guides/run-a-monero-node/) no seu próprio node.**
+Caso esteja usando um dispositivo móvel, uma abordagem interessante é filtrar e usar nodes conectados à rede TOR (via [ORBOT](https://github.com/guardianproject/orbot-android)) deste site aqui: https://www.ditatompel.com/monero/remote-node. [[1]](https://pirataria.link/guias/quero-privacidade#creditos)
 
 :::warning O projeto pirataria se compromete em recomendar apenas o que na nossa visão é seguro e confiável
 :::
