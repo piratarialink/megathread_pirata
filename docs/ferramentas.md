@@ -22,16 +22,16 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - 🌟 [**MAS**](https://github.com/massgravel/Microsoft-Activation-Scripts) - Ativa o Windows e o Office. O Ohook ativa a licença do Office e o HWID ativa permanentemente o Windows 10/11, também converte a versão Retail do Office em versão de Volume. [**Guia**](guias/ativacao-office-win.md)
 - [Microsoft Toolkit](https://gitlab.com/-/project/11037551/uploads/f73eea2588a1ba5e81e529658089b20d/MTKV274.7z) - Utilitário de multipropósito: pode ativar o Windows, editar componentes e gerir a licença - Post original do [MyDigitalLife.](https://forums.mydigitallife.net/threads/microsoft-toolkit-continued.82782/)
 - [PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/) - Ferramenta de código aberto que permite renomear arquivos pelo RegEx (expressões regulares) via PowerRename e melhorar a UX para uma produtividade maior.
-- 🌟 [**TSforge**](https://massgrave.dev/tsforge) - Ativa o suporte estendido de 3 anos para dispositivos com Windows 10 professional 22H2. **Nota: Para a versão LTSC usar a licença de volume do [ODT](https://gravesoft.dev/office_c2r_custom) para baixar o pacote office e o [Alt App Installer](https://github.com/mjishnu/alt-app-installer) para baixar programas da Microsoft Store.**
+- [TSforge](https://massgrave.dev/tsforge) - Ativa o suporte estendido de 3 anos para dispositivos com Windows 10 professional 22H2. **Nota: Para a versão LTSC usar a licença de volume do [ODT](https://gravesoft.dev/office_c2r_custom) para baixar o pacote office e o [Alt App Installer](https://github.com/mjishnu/alt-app-installer) para baixar programas da Microsoft Store.**
+- 🌟 [**UniGetUI**](https://devolutions.net/unigetui/) - Um painel de comando para os gerenciadores de pacote winget, scoop, chocolatey, pip e powershell gallery.
 - [Winhancer](https://github.com/memstechtips/Winhance) - Feito para personalizar, desbloquear, melhorar o desempenho e a capacidade de resposta do sistema no Windows 11.
-- [Optimizer](https://github.com/hellzerg/optimizer) - Projetado para aprimorar a privacidade e segurança no Windows.
 - [WinUtil](https://github.com/ChrisTitusTech/winutil) - Script do powershell feito pelo canal do YouTube Chris Titus Tech - Instala programas, ajustes, correções e atualizações.
 - 🌟 [**Sysinternals**](https://learn.microsoft.com/pt-br/sysinternals/downloads/) - Conjunto de scripts e programas destinados a usuários avançado que contém ferramentas para auditar o uso de processos em sistemas Windows e facilitar a descoberta de rootkits.
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Controle de volume para Windows (esse programa é melhor do que parece).
 - [BleachBit](https://github.com/bleachbit/bleachbit) - Limpador de arquivos focado em privacidade que não é afiliado com a avast.
 - 🌟 [**Remove WindowsAI**](https://github.com/zoicware/RemoveWindowsAI) - Remove o Copilot e barra a reinstalação de recursos de LLM - alguns desses ainda devem ser desativados manualmente como o agente local do [Studio Effects.](https://github.com/zoicware/RemoveWindowsAI/blob/main/OtherAIFeatures.md), Paint e Microsoft 365. (exclua a pasta do Local Manager no WindowsApps com o [Bulk Crap Uninstaller](https://www.bcuninstaller.com/))
 - [AutoHotkey](https://www.autohotkey.com/) - Cria hotkeys para o mouse e o teclado, para maior praticidade recomenda-se o [windows-ahk](http://windows-ahk.bibeka.com.np/) como substituto.
-- [UniGetUI](https://devolutions.net/unigetui/) - Um painel de comando para os gerenciadores de pacote winget, scoop, chocolatey, pip e powershell gallery.
+- [Optimizer](https://github.com/hellzerg/optimizer) - Projetado para aprimorar a privacidade e segurança no Windows.
 - 🌟 [**Wintoys**](https://bogdan-patraucean.github.io/about/wintoys/) - Desinstala o navegador Edge e o OneDrive com a opção "Digital Markets Act" ligada (quando não funcionar, [tente isso](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)), e ativa o "Modo Deus" - espécie de painel de controle estendido, com todas as opções do sistema reunidas em uma só pasta. 
 - [NanaZip](https://github.com/M2Team/NanaZip) - Um derivado do 7-Zip destinado à uma experiência moderna e segura no Windows.
 - [Windhawk](https://windhawk.net/) - Alguns ajustes extras como customização da barra de tarefas (diminuir ou aumentar os ícones - torná-la translúcida), restaurar o antigo menu de contexto e corrigir o uso das teclas em dois monitores.
@@ -370,7 +370,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Renomeação de arquivos
 
-- **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Cinderela.Baiana.2005.1080p.BluRay.DD5.x264). [Guia](https://mefrraz.github.io/hattered/pages/guides/organizar_ficheiros_com_filebot.html)
+- **[Pago]** [Filebot](https://www.filebot.net/) - Programa de renomeação de mídia (a licença custa US$ 6/ano). Renomeia para um esquema de nomenclatura adequado definido pelo usuário a partir de convenções de nomenclatura típicas encontradas em torrents (ou seja, Cinderela.Baiana.2005.1080p.BluRay.DD5.x264). [Guia](https://archive.is/TonZa)
 - [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Mesmo conceito do filebot, mas gratuito.
 - [AdvancedRenamer](https://www.advancedrenamer.com/) - Mesmo conceito do filebot, mas gratuito.
 - [Ant Renamer](https://antp.be/software/renamer) - Ótimo para gerenciamento rápido de strings em massa (para Plex, por exemplo).
