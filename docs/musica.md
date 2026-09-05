@@ -54,7 +54,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Baixe músicas diretamente do Spotify, Apple Music, Amazon Music, Soundcloud, Qobuz, Deezer, Tidal, Napster, Beatport ou KKBOX gratuitamente.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doubledouble.top/)
 
-### [KHInsider: Video Game Music**](https://downloads.khinsider.com/) / [2](https://khinsider.squid.wtf/home)
+### 🔗 [KHInsider: Video Game Music](https://downloads.khinsider.com/) / [2](https://khinsider.squid.wtf/home)
 
 - Definitivamente, um excelente site para downloads de MP3 e sem perdas de trilhas sonoras de jogos de console e PC que, de outra forma, são bastante difíceis de encontrar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloads.khinsider.com/)
