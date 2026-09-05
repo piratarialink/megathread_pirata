@@ -77,6 +77,13 @@ O Cromite é para o Chrome/Brave o que o Librewolf é para o Firefox; fork do Ch
 
 ![Cromite](./images/cromite.png)
 
+### [Helium](https://helium.computer/)
+
+Clone do ungoogled chromium feito pela equipe por trás do cobalt.tools com suporte nativo para extensões manifest V2 e funcionalidades adicionais como auto-updater e download automático de listas de filtro para o bloqueador de anúncios embutido. 
+
+- uBlock Origin built-in (Fork do Raymond Hill)
+- Permite usar sua própria instância para serviços de navegação
+
 ### [Mullvad Browser](https://mullvad.net/en/browser)
 
 O Navegador Mullvad é uma versão do Navegador Tor com as integrações do roteamento onion removidas, visando fornecer as tecnologias de anti-reconhecimento do Browser. Ele é gratuito e desenvolvido pelo Projeto Tor e distribuído pela Mullvad, e não requer o uso da VPN da Mullvad.
@@ -86,13 +93,6 @@ O Navegador Mullvad é uma versão do Navegador Tor com as integrações do rote
 
 :::info Disponível para Windows e Linux
 :::
-
-### [Helium Browser](https://helium.computer/)
-
-Clone do ungoogled chromium feito pela equipe por trás do cobalt.tools com suporte nativo para extensões manifest V2 e funcionalidades adicionais como auto-updater e download automático de listas de filtro para o bloqueador de anúncios embutido. 
-
-- uBlock Origin built-in (Fork do Raymond Hill)
-- Permite usar sua própria instância para serviços de navegação
 
 ## Gerenciador de Senhas
 
