@@ -17,6 +17,12 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## 📒 Diversos
 
+### 🔗 [AudioFetcher](https://audiofetcher.com/tools/)
+
+- Ferramentas gratuitas de áudio local no navegador: editar tags e capas de MP3, cortar e converter arquivos sem enviar a mídia ao servidor.
+- O site também oferece conversão de links autorizados no servidor; MP3 grátis até 60 minutos por item, sujeito a uso justo e capacidade. Recursos de playlists têm opção paga.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audiofetcher.com/)
+
 ### 🌟 [**Music Megathread**](https://github.com/MoonWalker440/Music-Megathread)
 
 - Megatópico de pirataria musical organizado por usuários do github.
