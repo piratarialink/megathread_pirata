@@ -49,15 +49,15 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Um contêiner para downloads gratuitos de música através do YouTube Music, Soundcloud, Qobuz, Spotify, Deezer e outros serviços.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/lucida.su/)
 
-### 🌟 [**SquidWTF**](https://qobuz.squid.wtf/)
-
-- Ripa áudios do Qobuz em FLAC (para transcodar em qualquer formato lossy), possui uma seleção de países para escolher a fonte também.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/qobuz.squid.wtf/)
-
 ### 🌟 [**doubledouble**](https://doubledouble.top/)
 
 - Baixe músicas diretamente do Spotify, Apple Music, Amazon Music, Soundcloud, Qobuz, Deezer, Tidal, Napster, Beatport ou KKBOX gratuitamente.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/doubledouble.top/)
+
+### 🌟 [**KHInsider: Video Game Music**](https://downloads.khinsider.com/) / [2](https://khinsider.squid.wtf/home)
+
+- Definitivamente, um excelente site para downloads de MP3 e sem perdas de trilhas sonoras de jogos de console e PC que, de outra forma, são bastante difíceis de encontrar.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloads.khinsider.com/)
 
 ### 🔗 [The Mod Archive](https://modarchive.org/)
 
@@ -88,11 +88,6 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - Uma seleção de músicas de videogame e algumas trilhas sonoras de anime criada por voluntários para ser o mais acessível possível.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/archive.org/)
-
-### 🔗 [KHInsider: Video Game Music](https://downloads.khinsider.com/)
-
-- Definitivamente, um excelente site para downloads de MP3 e sem perdas de trilhas sonoras de jogos de console e PC que, de outra forma, são bastante difíceis de encontrar.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloads.khinsider.com/)
 
 ### 🔗 [Scnlog](https://scnlog.me/music/)
 
