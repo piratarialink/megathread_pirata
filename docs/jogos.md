@@ -84,9 +84,9 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Maior fórum do mundo dedicado à pirataria de videogames, é uma valiosa fonte de jogos e recursos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cs.rin.ru/)
 
-### 🌟 [GOG Games](https://gog-games.to/)
+### 🌟 [GOG Games](https://gog.squid.wtf/) / [2](https://gog-rev.com/)
 
-- Cada jogo na biblioteca GOG é gratuito (sem DRM) para download dentro um vasto compêndio de gêneros como RTS, Boomershooter, Simulação, entre outros - não confundir com a [GOG.com.](https://www.gog.com/en/)
+- Cada jogo na biblioteca GOG é gratuito para download dentro um vasto compêndio de gêneros como RTS, Boomershooter, Simulação, entre outros - não confundir com a [GOG.com.](https://www.gog.com/en/)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/gog-games.to/)
 
 ### 🌟 [Game Bounty](https://gamebounty.world/)
@@ -111,6 +111,12 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 - Detectado como Game Hack pelo VirusTotal, falso positivo. Confie somente nos arquivos que vieram do site acima (procure pelo FixRepair do jogo desejado diante de alguma suspeita).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/online-fix.me/)
 
+### 🔗 [Appnetica](https://appnetica.com/)
+
+- Site com interface em russo, grande parte do conteúdo ripado da GOG.com é postado com antecedência aqui.
+- Usar o [Translate Web Pages](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) do FilipeDev ao navegar.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/appnetica.com/)
+  
 ### 🔗 [Ova Games](https://www.ovagames.com/)
 
 - Baixe jogos grátis para PC de várias fontes, incluindo CODEX, GOG e ElAmigos - com excelentes hosts de arquivos, é realmente simples. / [Falha na conexão? Tente isso.](/guias/dns.md)
