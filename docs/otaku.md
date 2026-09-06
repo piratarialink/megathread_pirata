@@ -81,6 +81,12 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### ▶️ [Animesonlinecc](https://animesonlinecc.to)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesonlinecc.org/)
+
+#### ▶️ [Kairou](https://kairou.space/)
+
+- Acervo de animes com alta definição de vídeo, opções legendadas e dubladas em português do Brasil.
+- Player responsivo com múltiplos servidores HLS, suporte a gestos e integração com [Discord](https://discord.gg/TZkEWCVZr6).
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/kairou.space/)
  ‎
  ‎
 ### 📥 ➜ Download Direto
