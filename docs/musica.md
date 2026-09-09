@@ -17,10 +17,10 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## 📒 Diversos
 
-### 🔗 [AudioFetcher](https://audiofetcher.com/tools/)
+### 🔗 [AudioFetcher](https://audiofetcher.com/)
 
-- Ferramentas gratuitas de áudio local no navegador: editar tags e capas de MP3, cortar e converter arquivos sem enviar a mídia ao servidor.
-- O site também oferece conversão de links autorizados no servidor; MP3 grátis até 60 minutos por item, sujeito a uso justo e capacidade. Recursos de playlists têm opção paga.
+- Conversor de YouTube para MP3 e MP4, sem anúncios, com opções de áudio original em Opus e M4A. A conversão de links é feita no servidor; use conteúdo próprio ou com permissão para baixar.
+- MP3 grátis até 60 minutos por item, sem contagem diária fixa, sujeito a uso justo e capacidade. MP4 tem limites gratuitos mais restritos; playlists completas e limites maiores têm opção paga. Converter para 320 kbps não recupera a qualidade perdida da fonte.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audiofetcher.com/)
 
 ### 🌟 [**Music Megathread**](https://github.com/MoonWalker440/Music-Megathread)
