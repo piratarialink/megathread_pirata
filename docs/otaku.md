@@ -142,7 +142,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Serviço automatizado que espelha torrents de anime para download direto.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animetosho.org/)
 
-#### 🌟 [Dark Mahou](https://darkmahou.org/)
+#### 🌟 [Dark Mahou](https://darkmahou.io/)
 
 - Site brasileiro de anime com arquivos torrent para baixar de graça.
 - Recomendamos o uso de adblock devido a quantidade imensa de [malvertising](https://en.wikipedia.org/wiki/Malvertising).
