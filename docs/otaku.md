@@ -146,7 +146,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 - Site brasileiro de anime com arquivos torrent para baixar de graça.
 - Recomendamos o uso de adblock devido a quantidade imensa de [malvertising](https://en.wikipedia.org/wiki/Malvertising).
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/darkmahou.org/)
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/darkmahou.io/)
 
 #### 🌟 [Nyaa.si](https://nyaa.si/) / [Nyaa.land](https://nyaa.land/)
 
