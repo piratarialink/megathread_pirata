@@ -81,6 +81,11 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### ▶️ [Animesonlinecc](https://animesonlinecc.to)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesonlinecc.org/)
+
+#### ▶️ [AnimesIce](https://animesice.app)
+
+- Site brasileiro de streaming de animes com catálogo em boa qualidade, lançamentos atualizados automaticamente, listas personalizadas e comunidade integrada.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesice.app/)
  ‎
  ‎
 ### 📥 ➜ Download Direto
