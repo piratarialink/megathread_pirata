@@ -58,6 +58,16 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) e [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.click/)
 
+#### ▶️ [Kairou](https://kairou.space/)
+
+- Acervo de animes com alta definição de vídeo, opções legendadas e dubladas em português do Brasil.
+- Player responsivo com múltiplos servidores HLS, suporte a gestos e integração com [Discord](https://discord.gg/TZkEWCVZr6).
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/kairou.space/)
+#### ▶️ [AnimesIce](https://animesice.app)
+
+- Site brasileiro de streaming de animes com catálogo em boa qualidade, lançamentos atualizados automaticamente, listas personalizadas e comunidade integrada.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesice.app/)
+
 #### ▶️ [AniTube](https://www.anitube.news)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.anitube.news/)
@@ -81,7 +91,6 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### ▶️ [Animesonlinecc](https://animesonlinecc.to)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesonlinecc.org/)
- ‎
  ‎
 ### 📥 ➜ Download Direto
 
