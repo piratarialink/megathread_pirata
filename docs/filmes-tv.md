@@ -87,6 +87,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Sem poluição visual de anúncios na maior parte do tempo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pinguimcinema.space/)
 
+### ▶️ [Kairou](https://kairou.space/)
+
+- Player veloz com múltiplos servidores HLS, suporte a Google Cast, AirPlay, gestos touch em mobile e interface moderna e limpa sem anúncios invasivos.
+- Comunidade no [Discord](https://discord.gg/TZkEWCVZr6) para avisos, suporte e pedidos de títulos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kairou.space/)
+
 ### ▶️ [CDMovieDB](https://cdmoviedb.com)
 - Biblioteca de Filmes e Séries com API para consulta. Todos os conteúdos adicionados são detalhadamente analisados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cdmoviedb.com/)
@@ -107,13 +113,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 ### ▶️ [Encontrei.tv](https://encontre.tv/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
-
-### ▶️ [Kairou](https://kairou.space/)
-
-- Plataforma brasileira de streaming de filmes, séries e animes em alta definição, com opções dubladas e legendadas.
-- Player veloz com múltiplos servidores HLS, suporte a Google Cast, AirPlay, gestos touch em mobile e interface moderna e limpa sem anúncios invasivos.
-- Comunidade no [Discord](https://discord.gg/TZkEWCVZr6) para avisos, suporte e pedidos de títulos.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kairou.space/)
 
 ## 🆎 Legendados
 
