@@ -53,10 +53,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Assista as melhores séries gratuitamente sem a necessidade de cadastro. Praticamente zero buffering.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/seuseriados.com/)
 
-### 🌟 [Cineby](https://www.cineby.app/) / [2](https://www.cineby.sc/)
+### 🌟 [Pinguim Cinema](https://pinguimcinema.space/)
 
-- Biblioteca de filmes e programas de TV que fazem deste serviço de streaming uma escolha fantástica. Legendas e áudio em pt-br disponíveis.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cineby.app/)
+- Acervo de Filmes, Séries, Animes e Doramas. Atualizado constantemente com novas produções e lançamentos.
+- Interface moderna e responsiva. Navegação clean.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pinguimcinema.space/)
 
 ### ▶️ [Clube do Dual](https://clubedodual.com/index.php?app=core&module=system&controller=login)
 
@@ -81,11 +82,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Bem completo, com filmes, séries e canais ao vivo, watch party (assistir junto com amigos, sincronizado e com chat em tempo real), conteúdo atualizado diariamente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cinerave.netlify.app/)
 
-### ▶️ [Pinguim Cinema](https://pinguimcinema.space/)
+### ▶️ [Kairou](https://kairou.space/)
 
-- Acervo de Filmes, Séries, Animes e Doramas. Atualizado constantemente com novas produções e lançamentos.
-- Sem poluição visual de anúncios na maior parte do tempo.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pinguimcinema.space/)
+- Player veloz com múltiplos servidores HLS, suporte a Google Cast, AirPlay, gestos touch em mobile e interface moderna e limpa sem anúncios invasivos.
+- Comunidade no [Discord](https://discord.gg/TZkEWCVZr6) para avisos, suporte e pedidos de títulos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kairou.space/)
 
 ### ▶️ [CDMovieDB](https://cdmoviedb.com)
 - Biblioteca de Filmes e Séries com API para consulta. Todos os conteúdos adicionados são detalhadamente analisados.
@@ -141,6 +142,13 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Possui reprodução automática, seletor de tema e player próprio integrado, esportes ao vivo, lista de favoritos sincronizável, opção de desativar anúncios nas configurações e continuar assistindo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bcine.ru/)
+
+### 🌟 [Pinguim Cinema](https://pinguimcinema.space/)
+
+- Acervo de Filmes, Séries, Animes e Doramas. Atualizado constantemente com novas produções e lançamentos.
+- Interface moderna e responsiva. Navegação clean.
+- Múltiplas opções de servidores para assistir, incluindo áudio dublado e legendado.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pinguimcinema.space/)
 
 ### ▶️ [HDToday](https://hdtoday.tv/)
 
@@ -259,9 +267,9 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/piratatvs.com/)
 
-### 🔗 [Rei dos Canais](https://reidoscanais.vip/)
+### 🔗 [Rei dos Canais](https://reidoscanais.st/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/reidoscanais.vip/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/reidoscanais.st/)
 
 ### 🔗 [TV0800](https://tv0800.pro/)
 
