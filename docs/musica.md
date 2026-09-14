@@ -59,6 +59,12 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Definitivamente, um excelente site para downloads de MP3 e sem perdas de trilhas sonoras de jogos de console e PC que, de outra forma, são bastante difíceis de encontrar.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloads.khinsider.com/)
 
+### 🔗 [AudioFetcher](https://audiofetcher.com/)
+
+- Conversor de YouTube para MP3 e MP4, sem anúncios, com opções de áudio original em Opus e M4A. A conversão de links é feita no servidor; use conteúdo próprio ou com permissão para baixar.
+- MP3 grátis até 60 minutos por item, sem contagem diária fixa, sujeito a uso justo e capacidade. MP4 tem limites gratuitos mais restritos; playlists completas e limites maiores têm opção paga. Converter para 320 kbps não recupera a qualidade perdida da fonte.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audiofetcher.com/)
+
 ### 🔗 [The Mod Archive](https://modarchive.org/)
 
 - Portal que reúne faixas de som do tipo "chiptune" (popular entre a demoscene do commodore amiga) com uma grande base de usuários - em atividade desde 2006.

@@ -82,6 +82,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Bem completo, com filmes, séries e canais ao vivo, watch party (assistir junto com amigos, sincronizado e com chat em tempo real), conteúdo atualizado diariamente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cinerave.netlify.app/)
 
+### ▶️ [Kairou](https://kairou.space/)
+
+- Player veloz com múltiplos servidores HLS, suporte a Google Cast, AirPlay, gestos touch em mobile e interface moderna e limpa sem anúncios invasivos.
+- Comunidade no [Discord](https://discord.gg/TZkEWCVZr6) para avisos, suporte e pedidos de títulos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/kairou.space/)
+
 ### ▶️ [CDMovieDB](https://cdmoviedb.com)
 - Biblioteca de Filmes e Séries com API para consulta. Todos os conteúdos adicionados são detalhadamente analisados.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cdmoviedb.com/)
@@ -261,9 +267,9 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/piratatvs.com/)
 
-### 🔗 [Rei dos Canais](https://reidoscanais.vip/)
+### 🔗 [Rei dos Canais](https://reidoscanais.st/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/reidoscanais.vip/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/reidoscanais.st/)
 
 ### 🔗 [TV0800](https://tv0800.pro/)
 
