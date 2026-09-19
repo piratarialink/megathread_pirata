@@ -41,7 +41,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🌟 [**Audio wareZ**](https://audioz.download/)
 
-- O AudioZ é uma biblioteca imensa com plugins para o FL Studio, VSTs, vídeos educacionais e partituras.
+- O AudioZ é uma biblioteca imensa com plugins para o FL Studio, VSTs, sample packs e partituras.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audioz.download/)
 
 ### 🌟 [**Lucida**](https://lucida.su/)
@@ -61,8 +61,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ### 🔗 [AudioFetcher](https://audiofetcher.com/)
 
-- Conversor de YouTube para MP3 e MP4, sem anúncios, com opções de áudio original em Opus e M4A. A conversão de links é feita no servidor; use conteúdo próprio ou com permissão para baixar.
-- MP3 grátis até 60 minutos por item, sem contagem diária fixa, sujeito a uso justo e capacidade. MP4 tem limites gratuitos mais restritos; playlists completas e limites maiores têm opção paga. Converter para 320 kbps não recupera a qualidade perdida da fonte.
+- Conversor de YouTube para MP3 e MP4, sem anúncios, com opções de áudio original em Opus e M4A. MP3 grátis até 60 minutos por item, sem contagem diária fixa, sujeito a uso justo e capacidade.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/audiofetcher.com/)
 
 ### 🔗 [The Mod Archive](https://modarchive.org/)
