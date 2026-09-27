@@ -177,7 +177,7 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 ### 🧲 [Milkie](https://milkie.cc/) | MIL
 
 - Tracker generalista.
-- Está na lista de tracker banidos do r/OpenSignups por estar quase sempre aberto.
+- Está na lista dos trackers banidos do r/OpenSignups por ficar quase sempre aberto.
 - Convites pelo [Discord](https://discord.gg/rZYAFuZ).
 
 ### 🧲 [MyAnonaMouse](https://myanonamouse.net) | MAM | [Entrevista](https://www.myanonamouse.net/inviteapp.php)
