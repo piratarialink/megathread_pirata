@@ -165,7 +165,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Doceru Userscript](https://github.com/etoshy/Doceru-Userscript) - Extrai livros e documentos do docer.ar, docubra.com e doceru.com sem a necessidade de abrir o menu do inspecionar — com botão de download e barra de progresso.
 - [Passei Direto Bypass](https://greasyfork.org/en/scripts/480840-passei-direto-bypass) - Desembaça respostas no site da Passei Direto.
 - [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Permite a cópia de texto de sites que tentam impedir que você use a função de copiar.
-- [Twitter to Nitter Redirector](https://greasyfork.org/pt-BR/scripts/533879-twitter-to-nitter-redirector) - Para visualizar posts do X/Twitter sem a necessidade de se ter uma conta.
+- [Fix Reddit and Twitter/X](https://greasyfork.org/en/scripts/591356-fix-reddit-and-twitter-x/code) - Para visualizar posts do X/Twitter e Reddit sem a necessidade de se ter uma conta.
 - [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adiciona botão ao lado de links encurtados que resolve o URL para sua localização verdadeira.
 - [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Permite selecionar/realçar links em vez do comportamento padrão de arrastá-los.
 - [Botão Sci-hub](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adiciona um botão para acessar inúmeros sites de artigos acadêmicos e desbloquear o artigo que está sendo visualizado.
