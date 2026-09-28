@@ -138,6 +138,11 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 - Generalista.
 - De longe, um dos trackers mais fáceis para aprender a usar apesar de pecar na falta de conteúdo de ponta.
 
+### 🧲 [DocsPedia](https://docspedia.world/)
+
+- Generalista.
+- Conteúdo Geral, Seeds bons. Registros abertos no momento.
+
 ### 🧲 [FileList](https://filelist.io/login.php?returnto=%2F) | FL
 
 - Conteúdo Geral
