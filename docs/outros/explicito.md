@@ -5,6 +5,8 @@ Ao acessá-los você garante que atingiu a maioridade civil.**
 
 **🌟 [**uBlock Origin**](https://github.com/gorhill/uBlock)** - Nunca se esqueça desta extensão.
 
+[EroMe FrontEnd](https://erome.best) - FrontEnd alternativo para o site EroMe
+
 [Redisex](https://redisex.club) - Do mesmo dono do RedeCanais.
 
 [Sukebei](https://sukebei.nyaa.si) - Clone +18 do Nyaa.
