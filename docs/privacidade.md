@@ -7,7 +7,7 @@
 
 A privacidade na internet é crucial para encontrar um equilíbrio entre a transparência e o anonimato. Embora seja importante responsabilizar aqueles que cometem crimes ou propagam conteúdos prejudiciais na internet, também é essencial garantir que as pessoas possam se expressar anonimamente quando necessário, sem medo de represálias ou exposição excessiva. Esse equilíbrio protege a liberdade de expressão e a diversidade de vozes, permitindo que todos tenham a oportunidade de participar do espaço digital de maneira segura e inclusiva.
 
-> "O ciclo da vida: consumir recursos para produzir objetos que logo se tornarão lixo. Dados são coletados para criar desejos, lucro e poder, e para gerar medo, autocensura e resignação. Viver com medo é realmente uma experiência marcante, não é? Isso é o que significa ser um escravo." - [autistici.org](https://www.autistici.org/who/telltale)
+> "O ciclo da vida: consumir recursos para produzir objetos que logo se tornarão lixo. Dados são coletados para criar desejos, lucro e poder, e para gerar medo, autocensura e resignação. Viver com medo é realmente uma experiência marcante, não é? Isso é o que significa ser um escravo." - [autistici.org](https://archive.is/4scRt)
 
 ## A visita policial
 
@@ -50,7 +50,7 @@ Procurando manter o legado do Mull Browser vivo, este software leve é o meio ma
 - Personalizado com ênfase na privacidade
 - Hardening avançado contra Fingerprint
 
-:::info Se ainda preferir, você mesmo pode [desativar a telemetria](https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection) no about:config do [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/): outro derivado do firefox mobile também disponível para Android
+:::info O [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) é outro derivado do firefox mobile para Android
 :::
 
 :::tip Para adicionar algumas extensões vá para: Configurações > Sobre o IronFox > Toque na logo do IronFox cinco vezes > Volte para o painel de configurações > Avançado > Instalar extensão a partir de arquivo. Isso funciona também em outros navegadores baseados no Gecko
@@ -185,6 +185,7 @@ Um sistema operacional mobile privado e seguro com compatibilidade de aplicativo
 - A linha da Motorola é a mais acessível no Brasil
 - Pode restringir totalmente o uso da internet por aplicativos
 
+![Lineage](./images/lineage.png)
 ## Criptografia de disco
 
 ### [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
@@ -197,7 +198,7 @@ No VeryCrypt você pode manter uma partição só sua e outra escondida para mom
 
 Com o LUKS você pode criar um arquivo simples ou até mesmo um conjunto de arquivos criptografados no Linux que, quando desbloqueados, formam um LVM (Logical Volume Manager) com os seus dados. Ao fornecer um formato em disco, ele não apenas facilita a compatibilidade entre distribuições, mas também fornece gerenciamento seguro de múltiplas senhas de usuários. O LUKS é um padrão de criptografia gratuito e de código aberto, feito para que você tenha certeza de que não há backdoors.
 
-Melhores distros embarcadas com LUKS: **Debian** para servidores (recebe suporte oficial pela maioria dos programas), **Fedora** com KDE, **Arch** com i3 ou qualquer outro window manager minimalista (Endeavour é um sistema _rolling release_ derivado do Arch voltado para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
+Melhores distros embarcadas com LUKS: **Debian** para servidores (recebe suporte oficial pela maioria dos programas), **Fedora** com KDE, **Arch** com i3 (Endeavour é um sistema _rolling release_ derivado do Arch voltado para iniciantes) e **Mint Xfce** (para dispositivos com baixo desempenho).
 
 :::info Caso você seja um usuário avançado, [distros sem systemd](https://nosystemd.org/) também são uma opção
 :::

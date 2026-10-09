@@ -200,7 +200,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🔗 [Solidários](https://t.me/GrupoSolidarios)
 
-### 🔗 [Minerva's Project](https://mnrv.lat)
+### 🔗 [Minerva's Project](https://t.me/+OBNz57hf-gUzNjk5)
 
 ## Está buscando Livros?
 

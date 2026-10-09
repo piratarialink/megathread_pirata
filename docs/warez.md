@@ -6,30 +6,20 @@ Warez refere-se à distribuição de software, jogos, filmes, cursos e outros co
 Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para ser avisado quando surgir novos cadastros para Warez.
 :::
 
-### 🏴‍☠️ [Megaturbo](https://megaturbo.org)
+### 🏴‍☠️ [FileWarez](https://filewarez.com.br/) | FW
 
-- Mídia digital, aplicativos para dispositivos móveis e pirataria voltada a educação. Aberto para cadastros.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/megaturbo.org/)
+- Filmes, séries, jogos, softwares. Cadastro apenas com convite.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/filewarez.com.br/)
 
-### 🏴‍☠️ [FileWarez 2.0](https://filewarez.club/) | FW [📣](https://t.me/filewarezclub)
+### 🏴‍☠️ [Otther](https://otther.org)
 
-- Livros jurídicos, filmes, modelos 3D. Cadastro apenas com convite.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/filewarez.club/)
+- Filmes, séries, jogos, softwares. Cadastro apenas com convite.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/otther.org/)
 
-### 🏴‍☠️ [DirtyWarez](https://forum.dirtywarez.com/)
+### 🏴‍☠️ [Warez Directory](https://94fbrdl.com/)
 
-- Mídia digital, programas, chaves de ativação. Aberto para cadastros
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/forum.dirtywarez.com/)
-
-### 🏴‍☠️ [HubWarez](https://hubwarez.tv/forum/register.php)
-
-- Filmes, séries, jogos, software. Aberto para cadastros
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/hubwarez.tv/)
-
-### 🏴‍☠️ [MyWarez](https://mywarez.org/ucp.php?mode=register)
-
-- Música, cursos e shows de TV em língua estrangeira. Aberto para cadastros.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/mywarez.org/)
+- Diretório que lista os warez estrangeiros mais ativos no momento.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/94fbrdl.com/)
 
 ### 🏴‍☠️ [Share Flash](https://www.shareflash.xyz/)
 
@@ -46,12 +36,12 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 - Desenhos antigos e novos, desenhos nacionais. Cadastro apenas com convite.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/thetoonz.com/)
 
+### 🏴‍☠️ [Usina Virtual](https://usinavirtual.com/) | UV
+
+- Filmes, séries, jogos, software desde 2004. Cadastro apenas por convite.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/usinavirtual.com/)
+
 ### 🏴‍☠️ [WarezBook](https://www.warezbook.org/)
 
 - Livros e helpdesk. Aberto para cadastros
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/warezbook.org/)
-
-### 🏴‍☠️ [Usina Virtual](https://usinavirtual.com/)
-
-- Séries e Filmes. Cadastro apenas com convite.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/usinavirtual.com/)

@@ -176,11 +176,6 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 ## 🔨 Apps Modificados
 
-### 🌟 [Tekmods](https://tekmods.com/)
-
-- Site pirata brasileiro, acesse o chat do telegram para sugerir novos mods, interagir com a staff ou pedir atualizações.
-- [Resultados de segurança de URL](https://www.urlvoid.com/scan/tekmods.com/)
-
 ### 🌟 [Mobilism](https://forum.mobilism.org/index.php) • Necessário Cadastro
 
 - Fórum incrível com uma grande base de usuários, bastante estimado pela comunidade; fornece acesso direto a livros e versões mais recentes de apks modificados.

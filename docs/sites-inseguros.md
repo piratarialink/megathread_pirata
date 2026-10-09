@@ -84,6 +84,7 @@
 | 📋 **NOME**  | 🪢 **URL** (_Não clicável_) | 🚩 **PERIGOSO**                                                                                       |
 | :----------- | :-------------------------- | :---------------------------------------------------------------------------------------------------- |
 | 💩 Aptoide      | aptoide-com                | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).
+| 💩 Tekmods      | tekmods-com                 | **Comportamento antiético** (_Upou apk do Snaptube com [trojan bancário](https://app.any.run/tasks/e93a5569-b63a-4908-b492-ee5f7d74e4fd/)_).                                               |
 | IPAOMTK      | ipaomtk-com                 | **Vírus** (_Detectado com malware em várias ocasiões_).                                               |
 | OceanOfApks  | oceanofapks-com             | **Vírus** (_Detectado com malware em várias ocasiões_).                                               |
 | MicroTech Apps  | apps-themicrotech-net             | **Vírus** (_Detectado com malware em várias ocasiões_).                                               |
