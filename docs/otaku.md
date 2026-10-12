@@ -68,6 +68,11 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Site brasileiro de streaming de animes com catálogo em boa qualidade, lançamentos atualizados automaticamente, listas personalizadas e comunidade integrada.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesice.app/)
 
+#### ▶️ [AnimesFHD](https://animesfhd.net/)
+
+- Site de streaming de animes em português, com catálogo organizado por títulos, temporadas e episódios.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesfhd.net/)
+
 #### ▶️ [AniTube](https://www.anitube.news)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.anitube.news/)
