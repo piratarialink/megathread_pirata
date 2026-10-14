@@ -153,11 +153,6 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ## 🎨 Pacotes de recursos
 
-### 🌟 [AERiver](https://aeriver.com/)
-
-- Utilitários para _After Effects_ e templates Premiere Pro "extraídos" do VideoHive.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/aeriver.com/)
-
 ### 🌟 [GFX Hub](https://gfx-hub.co/)
 
 - Apresenta uma mega coleção de assets para Unity, CorelDRAW e design gráfico no geral.
