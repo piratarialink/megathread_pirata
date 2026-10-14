@@ -259,7 +259,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**Vimm's Lair**](https://vimm.net/)
 
-- O melhor e mais seguro site para encontrar roms, dedicado a preservação de centenas de sistemas e jogos.
+- O melhor e mais seguro site para encontrar roms, dedicado à preservação de centenas de sistemas e jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
 ### 🌟 [**Axekin**](https://www.axekin.com/)
