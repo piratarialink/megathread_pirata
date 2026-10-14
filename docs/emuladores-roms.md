@@ -262,6 +262,11 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - O melhor e mais seguro site para encontrar roms, dedicado a preservação de vários sistemas e centenas de jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
 
+### 🌟 [**Axekin**](https://www.axekin.com/)
+
+- Projeto de autoria da equipe de desenvolvimento do AnkerGames. Encontre o que deseja e saia com um link de download - sem adware, sem custo, sem surpresas ruins.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/axekin.com/)
+
 ### 🌟 [**r/Roms Megathread**](https://r-roms.github.io/)
 
 - Dump fantástico de ROMs de diversos consoles, links para jogos populares que estão disponíveis no archive.org podem ser encontrados aqui.
