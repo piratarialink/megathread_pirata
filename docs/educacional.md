@@ -25,8 +25,6 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[primecursos](https://www.primecursos.com.br/)** - Cursos
 
-### ▶️ **[hackers do bem](https://hackersdobem.org.br/formacao#:~:text=vagas%20ser%C3%A3o%20limitadas.-,Conhe%C3%A7a%20mais%20detalhes%20dos%20cursos%20da%20forma%C3%A7%C3%A3o,-Nivelamento)** - Cursos
-
 ### ▶️ **[integra univesp](https://apps.univesp.br/integra/)** - Cursos de ensino superior
 
 ### ▶️ **[academy.omie](https://academy.omie.com.br/)** - Cursos
@@ -58,6 +56,8 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### ▶️ **[unasus](https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=&ordenacao=Relev%C3%A2ncia%20na%20busca)** - Cursos
 
 ### ▶️ **[recode](https://recode.org.br)** - Cursos
+
+### ▶️ **[hackers do bem](https://hackersdobem.org.br/)** - Cursos
 
 ### ▶️ **[ticemtrilhas](https://ticemtrilhas.org.br/)** - Cursos
 
