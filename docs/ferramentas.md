@@ -79,7 +79,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Pacotes do Office para Mac](https://massgrave.dev/office_for_mac) - Página bem organizada para downloads de imagens do Office para Mac.
 - [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader/blob/main/readme-en.md) - Script do Macked para baixar aplicativos da Creative Cloud - quando o download terminar, arraste os apps para o [Activation Tool](https://macked.app/adobe-activation-tool-crack.html) para ativá-los.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
-- [Fusion Media Center](https://fusionapp.dev/) - Para gerenciar streams juntamente com o Infusion e [TorBox + macFUSE](https://github.com/TorBox-App/torbox-media-center).
+- **[Freemium]** [Infuse](https://firecore.com/infuse) - Media center para gerenciar streams juntamente com o [TorBox + macFUSE](https://github.com/TorBox-App/torbox-media-center).
 - [Stats](https://github.com/exelban/stats) - O equivalente do HWiNFO para o OS X.
 - [UTM](https://github.com/utmapp/UTM/releases) - VM multissistema baseada no QEMU.
 - [MacPass](https://github.com/MacPass/MacPass) - Port do KeePass original para o Macintosh.
