@@ -259,8 +259,13 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**Vimm's Lair**](https://vimm.net/)
 
-- O melhor e mais seguro site para encontrar roms, dedicado a preservação de vários sistemas e centenas de jogos.
+- O melhor e mais seguro site para encontrar roms, dedicado à preservação de centenas de sistemas e jogos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vimm.net/)
+
+### 🌟 [**Axekin**](https://www.axekin.com/)
+
+- Projeto de autoria da equipe de desenvolvimento do AnkerGames. Encontre o que deseja e saia com um link de download - sem adware, sem custo, sem surpresas ruins.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/axekin.com/)
 
 ### 🌟 [**r/Roms Megathread**](https://r-roms.github.io/)
 
@@ -356,7 +361,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
   
 ### 🔗 [Retro Roms "Best" Set](https://archive.org/details/retro-roms-best-set)
 
-- Oferece a lista dos melhores jogos mais amplamente aceita pelo público.
+- Oferece a lista dos melhores jogos antigos mais amplamente aceita pelo público por meio do Internet Archive.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
 ### 🔗 [Retrostic](https://www.retrostic.com/)

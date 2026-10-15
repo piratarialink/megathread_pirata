@@ -79,7 +79,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Pacotes do Office para Mac](https://massgrave.dev/office_for_mac) - Página bem organizada para downloads de imagens do Office para Mac.
 - [Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader/blob/main/readme-en.md) - Script do Macked para baixar aplicativos da Creative Cloud - quando o download terminar, arraste os apps para o [Activation Tool](https://macked.app/adobe-activation-tool-crack.html) para ativá-los.
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Praticamente obrigatório caso você não esteja usando um monitor da Apple.
-- [Fusion Media Center](https://fusionapp.dev/) - Para gerenciar streams juntamente com o Infusion e [TorBox + macFUSE](https://github.com/TorBox-App/torbox-media-center).
+- **[Freemium]** [Infuse](https://firecore.com/infuse) - Media center para gerenciar streams juntamente com o [TorBox + macFUSE](https://github.com/TorBox-App/torbox-media-center).
 - [Stats](https://github.com/exelban/stats) - O equivalente do HWiNFO para o OS X.
 - [UTM](https://github.com/utmapp/UTM/releases) - VM multissistema baseada no QEMU.
 - [MacPass](https://github.com/MacPass/MacPass) - Port do KeePass original para o Macintosh.
@@ -434,7 +434,6 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [G4F](https://g4f.dev/) - Modelos do Antigravity e OpenRouter rodando localmente na sua máquina. Alguns provedores como a Azure exigem de você uma chave API para o g4f.client que pode ser gerada com o seu [ID de usuário do Hugging Face](https://g4f.dev/members.html).
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [OpenClaude](https://github.com/Gitlawb/openclaude) - Reimplementação do código fonte vazado do Claude Code, suporta integração com modelos pagos e gratuitos da OpenAI, Alibaba, Anthropic e Google Gemini, apenas para citar alguns. [Vídeo explicativo](https://youtu.be/7S7vqSudSx0)
-- **[Freemium]** [Prezi](https://prezi.com/pt/) - Cria apresentações e diagramações em questão de segundos, exige pagamento de assinatura para exportar em PPT.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura, algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6) e [DIG](https://digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion/) (onion) - podem não funcionar na maior parte do tempo.
 - [Voicebox Studio](https://voicebox.sh/) - Clone qualquer voz em questão de segundos com a ajuda do Qwen TTS, extraída a partir de um arquivo local, som ambiente ou do próprio microfone.
 - **[Freemium]** [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar - caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
