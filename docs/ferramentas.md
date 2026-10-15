@@ -292,6 +292,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - **[Trialware]** [TubeDigger](https://www.tubedigger.com/) - Conversor de arquivos que pode baixar legendas subrip e vídeos da hotmart em alguns casos apenas. 
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um GUI-wrapper multiplataforma para o yt-dlp escrito em PySide6.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - Outro frontend para o yt-dlp disponível para sistemas Unix e Windows.
+- [Arroxy](https://github.com/antonio-orionus/Arroxy) - GUI gratuita e open-source para o yt-dlp no Windows, macOS e Linux. Baixa vídeos, áudios, playlists, canais e legendas do YouTube e de outros sites suportados, com SponsorBlock e interface em português (Brasil).
 - 🌟 **[Freemium]** [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8K** e em flac sem perder qualidade, algumas funções só podem ser desbloqueadas pagando.
 - [Cat-Catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md) - O cat-catch é uma extensão de origem chinesa para navegador, ela pode filtrar, exibir em tempo real e reproduzir os elementos de uma página assim que for carregada.
 - [twitch-dl](https://github.com/ihabunek/twitch-dl) - O twitch downloader é um recurso gratuito para obter VODs exclusivos para subs dentro da Twitch.
