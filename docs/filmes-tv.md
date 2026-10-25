@@ -53,12 +53,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Assista as melhores séries gratuitamente sem a necessidade de cadastro. Praticamente zero buffering.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/seuseriados.com/)
 
-### 🌟 [Pinguim Cinema](https://pinguimcinema.space/)
-
-- Acervo de Filmes, Séries, Animes e Doramas. Atualizado constantemente com novas produções e lançamentos.
-- Interface moderna e responsiva. Navegação clean.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pinguimcinema.space/)
-
 ### ▶️ [Clube do Dual](https://clubedodual.com/index.php?app=core&module=system&controller=login)
 
 - Fórum de compartilhamento de faixas de dublagem em português brasileiro.
