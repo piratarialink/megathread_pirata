@@ -17,6 +17,13 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🗣 Dublados
 
+### 🌟 [RedeToons](https://redetoonstv.win/)
+
+- Plataforma de streaming totalmente gratuita e sem anúncios, com filmes, séries e animes para assistir online.
+- Interface moderna e responsiva, semelhante à Netflix, oferecendo uma experiência de navegação simples e intuitiva.
+- Conta com suporte rápido para solucionar problemas e atender às solicitações dos usuários.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetoonstv.win/)
+
 ### 🌟 [Rede Canais](https://redecanais.pet/) / [2](https://redecanais.fm/) / [3](https://redecanais.cool/)
 
 - Incrível variedade de filmes de excelente qualidade oferecidos para download direto através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
