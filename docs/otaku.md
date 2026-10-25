@@ -63,10 +63,16 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Acervo de animes com alta definição de vídeo, opções legendadas e dubladas em português do Brasil.
 - Player responsivo com múltiplos servidores HLS, suporte a gestos e integração com [Discord](https://discord.gg/TZkEWCVZr6).
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/kairou.space/)
+
 #### ▶️ [AnimesIce](https://animesice.app)
 
 - Site brasileiro de streaming de animes com catálogo em boa qualidade, lançamentos atualizados automaticamente, listas personalizadas e comunidade integrada.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesice.app/)
+
+#### ▶️ [AnimesFHD](https://animesfhd.net/)
+
+- Site de streaming de animes em português, com catálogo organizado por títulos, temporadas e episódios.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animesfhd.net/)
 
 #### ▶️ [AniTube](https://www.anitube.news)
 

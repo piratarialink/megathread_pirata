@@ -397,7 +397,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 - [Vidsender](https://github.com/viniped/vidsender) - Método mais fácil para upar vários vídeos de uma vez só de forma organizada.
 - [tdl](https://docs.iyear.me/tdl/) -  Forward com fallback automático de mensagens vindas de chats/canais privados - encaminhe uma mensagem de cada vez.
-- [Forkgram](https://github.com/Forkgram/TelegramAndroid) - Melhoria visível na velocidade de upload e download em dispositivos Android.
+- [AyuGram](https://t.me/AyuGramReleases) - Melhoria visível na velocidade de upload e download em dispositivos Android.
 - [tg-archive](https://github.com/knadh/tg-archive) - Arquiva grupos como páginas de HTML estático na web.
 - [Scanbitbot](https://t.me/scanbitbot) - Mostra o ID de qualquer canal/grupo, seja ele privado ou não.
 - **[Pago]** [SMSPVA](https://smspva.com) / [NotzSMS](https://t.me/NotzSMSBot) - Número virtual internacional para contornar restrições regionalmente. Tenha preferência por números da Romênia e países balcânicos.
