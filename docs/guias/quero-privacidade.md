@@ -34,14 +34,14 @@
 - Provedor de dominio: Njalla, Cloudflare & Porkbun
 - Git: Forgejo
 - Meet: Jit.si & Mattermost
-- Criptomoeda: Monero 
+- Criptomoeda: Monero e Litecoin
 - Hospedagem: Servers.guru
 - Pesquisa: Kagi/DuckDuckGo
 - Roteador: Qualquer um com OpenWRT (WPA3), recomendo Raspberry Pi 4/5 + Pi-hole com lista do oisd.nl
 
 ## O avançado para privacidade
 
-- Onde comprar monero: [Telegram](https://t.me/MoneroPagamentosSuporte), [Bisq](https://github.com/bisq-network/bisq), [RetoSwap](https://retoswap.com/#download), [Cake Wallet](https://github.com/cake-tech/cake_wallet/), [Infinity Exchanger](https://exchanger.infinity.taxi/), [Trocador](https://trocador.app/pt/) ou qualquer lugar que não precise de identidade (KYC).
+- Onde obter monero: [Bisq](https://github.com/bisq-network/bisq), [RetoSwap](https://retoswap.com/#download), [Cake Wallet](https://github.com/cake-tech/cake_wallet/), [Infinity Exchanger](https://exchanger.infinity.taxi/), [Trocador](https://trocador.app/pt/) ou qualquer lugar que não precise de identidade (KYC).
 - É possível comprar outra moeda e fazer exchange para Monero, esse tipo de troca deixa rastros insignificantes. 
 Melhor caminho: **BRL** ➜ **BTC ou LTC** ➜ **XMR** ➜ [**Cold Wallet**](https://www.getmonero.org/pt-br/downloads/index.html) (comprar litecoin de instituições como o mercado pago, transferir para uma wallet disposable e por fim enviar para uma carteira non-custodial sua).
 - Cobrar e receber por serviços: pessoalmente ou através de plataformas de escrow como o [FairTrade](https://kycnot.me/service/fairtrade) por exemplo.
