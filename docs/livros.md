@@ -57,10 +57,6 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Acesso ilimitado a todo o conhecimento científico, quebrando paywalls acadêmicos desde 2011.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/sci-hub.se/)
 
-### 🔗 [Imperial Library](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/)
-
-- Acervo de livros para ser acessado com o navegador TOR, não necessita de javascript ligado para baixar a maioria das obras.
-
 ### 🔗 [Projeto Gutenberg](https://gutenberg.org/)
 
 - O "Project Gutenberg" é uma biblioteca online de e-books gratuitos. Escolha entre e-books epub e Kindle gratuitos, baixe-os ou leia-os online.
@@ -70,6 +66,11 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 - O "Open Library" é uma iniciativa da [Internet Archive](https://archive.org/), uma organização sem fins lucrativos, que constrói uma biblioteca digital de sites da Internet e outros artefatos culturais em formato digital.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/openlibrary.org/)
+
+### 🔗 [Polvo Livros](https://polvolivros.com/)
+
+- Site nacional, permite o download uma vez por dia sem a criação de conta.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/polvolivros.com/)
 
 ### 🔗 [elivros](https://elivros.info/)
 
