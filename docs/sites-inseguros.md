@@ -24,7 +24,7 @@
 | 💩 4shared        | 4shared-com                 | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).                  |
 | "KickassTorrents"   | kickasstorrents-to          | **Clone falso** (_Criado para enganar usuários de propósito_).                                        |
 | 💩 Baixaki        | baixaki-com-br              | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).                  |
-| 💩 "TheRarBg"       | therarbg-com/therarbg-to    | **Clone falso** (_Criado para enganar usuários de propósito_).                                        |
+| "TheRarBg"       | therarbg-com/therarbg-to    | **Clone falso** (_Criado para enganar usuários de propósito_).                                        |
 | "9xbuddy"         | 9xbuddy-online              | **Clone Falso** (_Criado para enganar usuários de propósito_).                                        |
 
 # ⛩️ ➜ Anime
@@ -65,7 +65,7 @@
 | 💩 SteamUnlocked          | steamunlocked-net                                               | **Comportamento antiético** (_Uploads da IGG e do NosTeam, e host de arquivos muito lento_).    |
 | game-repack               | game-repack-com                                                 | **Fraude** (_Botões de download falsos e remoção de comentários sobre isso_).                |
 | CrackedFully              | crackedfully-com                                                | **Comportamento antiético** (_Inserção de vírus e rastreadores de forma planejada_).         |
-| Sites falsos da FitGirl   | [lista dos sites falsos](https://rentry.co/FakeFitgirlwebsites) | **Clone falso** (Criado para enganar usuários de propósito).                                 |
+| Sites falsos da FitGirl   | [lista dos sites falsos](https://clarasguide.valeena.workers.dev/Guides/FakeFitgirlwebsites/) | **Clone falso** (Criado para enganar usuários de propósito).                                 |
 | OceanOfGames              | oceanofgames-com                                                | **Vírus** (_Detectado com malware em várias ocasiões_).                                      |
 | CrackingPatching          | crackingpatching-com                                            | **Vírus** (_Detectado com malware_).                                                         |
 | xGIROx                    | xgirox-com                                                      | **Vírus** (_Detectado com malware_).                                                         |
