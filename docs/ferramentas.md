@@ -303,19 +303,15 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Udemy Downloader](https://github.com/Puyodead1/udemy-downloader) - Baixa vídeos com DRM da Udemy, porém, tal qual o TubeDigger em algumas situações somente.
 - [Instaloader](https://instaloader.github.io/) - Não requer que você logue em sua conta para baixar metadados, vídeos e fotos do instagram - não permite baixar conteúdo de contas com restrição/perfil privado.
 - [FetchV](https://fetchv.net/pt-br) - Com o FetchV, você poderá fazer o download de vídeos dentro do seu navegador, prático e intuitivo de se usar.
-- [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Baixe músicas do Bandcamp sem pagar absolutamente um dobrão por isso.
 - [Video DownloadHelper](https://www.downloadhelper.net/) - Basta fixar a extensão e dar play no vídeo que ela identifica e oferece várias opções de qualidade para download.
 - [MPMux](https://mpmux.com/pt) - Pode baixar vídeos no formato HLS, .m3u8, MP4 e WebM, e ainda conta com uma variedade de modos de gravação + recursos extras como brinde.
 - [Video Downloader Professional](https://chromewebstore.google.com/detail/video-downloader-professi/elicpjhcidhpjomhibiffojpinpmmpil?hl=en) - Essa extensão para o Google Chrome permite baixar e fazer scraping de mídias de vários domínios da internet.
 - [Dash-MPD-File](https://github.com/emarsden/dash-mpd-cli) - Um utilitário de linha de comando para download de mídia em manifests MPD (MPEG_DASH).
 - **[Trialware]** [StreamFab](https://streamfab.com/) / [StreamGaGa](https://video.streamgaga.com/) - Programa focado em oferecer a opção de download direto em plataformas de streaming para os usuários - consegue baixar da globoplay, disney+ e HBO max - [Post útil do u/The_Dukes_Of_Hazzard](https://www.reddit.com/r/Piracy/comments/1okh13r/guide_how_to_crack_streamgagastreamfab_to/)
 - [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 Gbps por 6 horas do Mega - confira nossa [guia de como burlar a restrição do mega.nz de cota por uso através de proxies.](https://pirataria.link/guias/burlando-limite-mega)
-- [Soundcloud Downloader](https://github.com/NotTobi/soundcloud-dl) - Extensão do Firefox. Ao visitar o site do soundcloud.com será exibido um ícone na barra de tarefas para salvar o que tu deseja ouvir depois.
 - **[Freemium]** [Katomart](https://github.com/katomaro/katomart) - Ferramenta em produção que faz o download de vídeos de plataformas EaD, legalmente. (de acordo com o artigo 184 do código penal que defende a cópia de obra intelectual para uso privado do copista)
 - [Côc Côc](https://coccoc.com/) - Navegador vietnamita gratuito que baixa vídeos/objetos da hotmart/kiwify apenas no computador.
 - [Cleverget All-In-One](https://cleverget.org/) - Baixa vídeos de diversas plataformas no PC, gratuito para uso pessoal e baseado em uma gama de modos especialmente feitos para a netflix, amazon prime e apple TV.
-- [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de gibis do site getcomics.info facilmente.
-- [get_iplayer](https://github.com/get-iplayer/get_iplayer) - Para baixar o vídeo do iPlayer da BBC Brasil/Mundo sem lidar com pormenores irritantes como descriptografia de DRM.
 
 ## ► Ferramentas de download on-line
 
