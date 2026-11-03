@@ -194,6 +194,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Uma variedade de séries de TV, filmes, animes e documentários aclamados sem nenhum custo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/yassflix.net/)
 
+### ▶️ [RIVO](https://rivo.st/)
+
+- Filmes e séries com vários servidores por título e troca automática quando um falha. Legendas em vários idiomas, incluindo português.
+- Assista junto com amigos (reprodução sincronizada com chat), continue de onde parou e lista para assistir depois. Apps para Android, Android TV e Windows.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/rivo.st/)
+
 ## 📺️ TV
 
 ### 🌟 [Rede Canais TV](https://redecanaistv.cool/) / [2](https://redecanaistv.wales/)
