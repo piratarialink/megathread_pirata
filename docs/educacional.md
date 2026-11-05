@@ -23,7 +23,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[mente binária](https://www.mentebinaria.com.br/cursos/)** - Cursos de engenharia reversa
 
-### ▶️ **[primecursos](https://www.primecursos.com.br/)** - Cursos
+### ▶️ **[portal da matemática](https://portaldaobmep.impa.br/)** - Cursos para a OBMEP
 
 ### ▶️ **[integra univesp](https://apps.univesp.br/integra/)** - Cursos de ensino superior
 
@@ -53,15 +53,13 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[mundi](https://mundi.ifsul.edu.br/portal/)** - Cursos
 
-### ▶️ **[unasus](https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=&ordenacao=Relev%C3%A2ncia%20na%20busca)** - Cursos
+### ▶️ **[unasus](https://www.unasus.gov.br/cursos/)** - Cursos
 
 ### ▶️ **[recode](https://recode.org.br)** - Cursos
 
 ### ▶️ **[hackers do bem](https://hackersdobem.org.br/)** - Cursos
 
 ### ▶️ **[ticemtrilhas](https://ticemtrilhas.org.br/)** - Cursos
-
-### ▶️ **[portal da matemática](https://portaldaobmep.impa.br/index.php/site/index?a=1)** - Cursos para a OBMEP
 
 ### ▶️ **[tecpop minas](https://tecpop.mg.gov.br/)** - Cursos
 
