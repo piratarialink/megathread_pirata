@@ -53,6 +53,12 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Assista as melhores séries gratuitamente sem a necessidade de cadastro. Praticamente zero buffering.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/seuseriados.com/)
 
+### 🌟 [RIVO](https://rivo.st/)
+
+- Filmes e séries com vários servidores por título e troca automática quando um falha. Legendas em vários idiomas, incluindo português.
+- Assista junto com amigos (reprodução sincronizada com chat), continue de onde parou ou adicione à lista para assistir depois.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/rivo.st/)
+
 ### ▶️ [Clube do Dual](https://clubedodual.com/index.php?app=core&module=system&controller=login)
 
 - Fórum de compartilhamento de faixas de dublagem em português brasileiro.
@@ -137,13 +143,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Possui reprodução automática, seletor de tema e player próprio integrado, esportes ao vivo, lista de favoritos sincronizável, opção de desativar anúncios nas configurações e continuar assistindo.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bcine.ru/)
 
-### 🌟 [Pinguim Cinema](https://pinguimcinema.space/)
-
-- Acervo de Filmes, Séries, Animes e Doramas. Atualizado constantemente com novas produções e lançamentos.
-- Interface moderna e responsiva. Navegação clean.
-- Múltiplas opções de servidores para assistir, incluindo áudio dublado e legendado.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pinguimcinema.space/)
-
 ### ▶️ [HDToday](https://hdtoday.tv/)
 
 - Plataforma com diversas séries e filmes legendados adicionados constantemente.
@@ -220,7 +219,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Anúncios enfadonhos existem mas estes podem ser burlados com o PopUpOFF.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanaishd.bid/)
 
-### 📺️ [BRFLIX TV](https://brflix.online/)
+### 🔗 [BRFLIX TV](https://brflix.online/)
 
 - Transmissão ao vivo de canais de TV aberta, fechada, esportes e grandes eventos ao vivo.
 - Cobertura dos principais campeonatos como Brasilão Série A e B, Copa do Brasil, Libertadores, Sul-Americana, Champions League, Premier League, La Liga, além de Fórmula 1, NBA e UFC.
