@@ -17,7 +17,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 🎓 Streaming
 
-### ▶️ **[curso em vídeo](https://www.cursoemvideo.com/)** - Cursos variados
+### ▶️ **[curso em vídeo](https://www.cursoemvideo.com/)** - Cursos de tecnologia
 
 ### ▶️ **[kultivi](https://app.kultivi.com/)** - Cursos variados
 
@@ -45,7 +45,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[escolavirtual](https://www.escolavirtual.gov.br/catalogo)** - Cursos variados
 
-### ▶️ **[EV](https://www.ev.org.br/)** - Cursos variados
+### ▶️ **[EV](https://www.ev.org.br/)** - Cursos de tecnologia
 
 ### ▶️ **[veduca](https://veduca.org/course-category/cursos-online-gratuitos/?tutor-course-filter-category=130)** - Cursos variados
 
@@ -57,7 +57,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[recode](https://recode.org.br)** - Cursos variados
 
-### ▶️ **[hackers do bem](https://hackersdobem.org.br/)** - Cursos variados
+### ▶️ **[hackers do bem](https://hackersdobem.org.br/)** - Cursos de tecnologia
 
 ### ▶️ **[ticemtrilhas](https://ticemtrilhas.org.br/)** - Cursos variados
 
