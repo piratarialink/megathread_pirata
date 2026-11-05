@@ -17,9 +17,9 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 🎓 Streaming
 
-### ▶️ **[curso em vídeo](https://www.cursoemvideo.com/)** - Cursos
+### ▶️ **[curso em vídeo](https://www.cursoemvideo.com/)** - Cursos variados
 
-### ▶️ **[kultivi](https://app.kultivi.com/)** - Cursos
+### ▶️ **[kultivi](https://app.kultivi.com/)** - Cursos variados
 
 ### ▶️ **[mente binária](https://www.mentebinaria.com.br/cursos/)** - Cursos de engenharia reversa
 
@@ -27,43 +27,43 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[integra univesp](https://apps.univesp.br/integra/)** - Cursos de ensino superior
 
-### ▶️ **[academy.omie](https://academy.omie.com.br/)** - Cursos
+### ▶️ **[academy.omie](https://academy.omie.com.br/)** - Cursos variados
 
-### ▶️ **[moocs.ggte](https://moocs.ggte.unicamp.br/)** - Cursos
+### ▶️ **[moocs.ggte](https://moocs.ggte.unicamp.br/)** - Cursos variados
 
-### ▶️ **[pensarcursos](https://www.pensarcursos.com.br/)** - Cursos
+### ▶️ **[pensarcursos](https://www.pensarcursos.com.br/)** - Cursos variados
 
-### ▶️ **[openuped](https://www.openuped.eu/courses)** - Cursos
+### ▶️ **[openuped](https://www.openuped.eu/courses)** - Cursos variados
 
-### ▶️ **[eu capacito](https://eucapacito.com.br)** - Cursos
+### ▶️ **[eu capacito](https://eucapacito.com.br)** - Cursos variados
 
-### ▶️ **[wr educacional](https://www.wreducacional.com.br/lista-de-cursos)** - Cursos
+### ▶️ **[wr educacional](https://www.wreducacional.com.br/lista-de-cursos)** - Cursos variados
 
-### ▶️ **[iestudar](https://iestudar.com/)** - Cursos
+### ▶️ **[iestudar](https://iestudar.com/)** - Cursos variados
 
-### ▶️ **[moodle.ifrs](https://moodle.ifrs.edu.br/course/index.php?categoryid=38)** - Cursos
+### ▶️ **[moodle.ifrs](https://moodle.ifrs.edu.br/course/index.php?categoryid=38)** - Cursos variados
 
-### ▶️ **[escolavirtual](https://www.escolavirtual.gov.br/catalogo)** - Cursos
+### ▶️ **[escolavirtual](https://www.escolavirtual.gov.br/catalogo)** - Cursos variados
 
-### ▶️ **[EV](https://www.ev.org.br/)** - Cursos
+### ▶️ **[EV](https://www.ev.org.br/)** - Cursos variados
 
-### ▶️ **[veduca](https://veduca.org/course-category/cursos-online-gratuitos/?tutor-course-filter-category=130)** - Cursos
+### ▶️ **[veduca](https://veduca.org/course-category/cursos-online-gratuitos/?tutor-course-filter-category=130)** - Cursos variados
 
-### ▶️ **[setus](https://setuscursos.com.br/nossos-cursos)** - Cursos
+### ▶️ **[setus](https://setuscursos.com.br/nossos-cursos)** - Cursos variados
 
-### ▶️ **[mundi](https://mundi.ifsul.edu.br/portal/)** - Cursos
+### ▶️ **[mundi](https://mundi.ifsul.edu.br/portal/)** - Cursos variados
 
-### ▶️ **[unasus](https://www.unasus.gov.br/cursos/)** - Cursos
+### ▶️ **[unasus](https://www.unasus.gov.br/cursos/)** - Cursos variados
 
-### ▶️ **[recode](https://recode.org.br)** - Cursos
+### ▶️ **[recode](https://recode.org.br)** - Cursos variados
 
-### ▶️ **[hackers do bem](https://hackersdobem.org.br/)** - Cursos
+### ▶️ **[hackers do bem](https://hackersdobem.org.br/)** - Cursos variados
 
-### ▶️ **[ticemtrilhas](https://ticemtrilhas.org.br/)** - Cursos
+### ▶️ **[ticemtrilhas](https://ticemtrilhas.org.br/)** - Cursos variados
 
-### ▶️ **[tecpop minas](https://tecpop.mg.gov.br/)** - Cursos
+### ▶️ **[tecpop minas](https://tecpop.mg.gov.br/)** - Cursos variados
 
-### ▶️ **[uniasselvi](https://portal.uniasselvi.com.br/cursolivre)** - Cursos
+### ▶️ **[uniasselvi](https://portal.uniasselvi.com.br/cursolivre)** - Cursos variados
 
 ---
 
