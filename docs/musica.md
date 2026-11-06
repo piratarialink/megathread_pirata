@@ -291,7 +291,12 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Alternativa para o Revanced
 - Já funciona direto no Android Auto sem problemas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/morphe.software/)
+- 
+### 🌟 [**MySpoti**](https://github.com/kota-zo/myspoti)
 
+- Client spotify de código aberto de Android que bloqueia anúncio e libera funções premium.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/kota-zo/myspoti)
+  
 ### 🌟 [**SpotiFLAC-Mobile**](https://github.com/zarzet/SpotiFLAC-Mobile)
 
 - Port do SpotiFLAC escrito em Flutter para iOS e Android, minimalista e pouco exigente em relação as especificações de aparelho.
