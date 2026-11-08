@@ -196,7 +196,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 
 ### 🔗 [Babiato](https://babia.to/)
 
-- Possui um sistema próprio para testar a segurança de temas e componentes do wordpress _nulled_.
+- Fórum para webmasters, possui um sistema próprio para testar a segurança de temas e componentes do wordpress _nulled_.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/babia.to/)
 
 ### 🔗 [Codelist](https://codelist.cc/v3/)
