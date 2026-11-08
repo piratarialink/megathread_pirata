@@ -116,7 +116,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Mais de **5000 séries** disponíveis para download gratuito.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/chauthanh.info/)
 
-### 🔗 [New Reiwa](https://newreiwa.com/historia/)
+#### 🔗 [New Reiwa](https://newreiwa.com/historia/)
 
 - Fansub de Tokusatsus do Ultraman e J-Movies, sucessor do finado NewZect e Perfect Zect.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/newreiwa.com/)
