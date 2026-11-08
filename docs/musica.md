@@ -156,11 +156,6 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - Consiga músicas do Spotify em FLAC puro via Amazon Music, Qobuz e Tidal com a ajudinha dessa aplicação.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🌟 [**Monochrome**](https://monochrome.samidy.com/) / [2](https://monochrome.tf/) / [3](https://monochrome.prigoana.com/) / [4](https://monochrome-back.pages.dev/)
-
-- Permite que tu escute músicas de vários serviços de streaming online pela WebUI, gratuito e sem anúncios, oferece download em FLAC Hi-Res, modo karaokê, criação de playlists, exportar/importar e etc.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/monochrome.samidy.com/)
-
 ### 🌟 [**Nicotine+**](https://nicotine-plus.org/)
 
 - Um frontend para o Soulseek frequentemente atualizado com funcionalidades adicionais, mas ainda integrado ao protocolo Soulseek.
@@ -210,6 +205,11 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 - Baixa músicas do Deezer e Spotify em diferentes formatos. Um ponto negativo seu é ser um aplicativo de código fechado.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/murglar.app/)
+
+### 🖥️ [Monochrome](https://monochrome.samidy.com/) / [2](https://monochrome.tf/) / [3](https://monochrome.prigoana.com/) / [4](https://monochrome-back.pages.dev/)
+
+- Permite que tu escute músicas de vários serviços de streaming online pela WebUI, gratuito e sem anúncios, oferece download em FLAC Hi-Res, modo karaokê, criação de playlists, exportar/importar e etc.
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/monochrome.samidy.com/)
 
 ### 🖥️ [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
@@ -280,18 +280,23 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 
 ## 📱 Celular
 
-### 🌟 [YT Music Revanced](https://revanced.app/)
+### 🌟 [**YT Music Revanced**](https://revanced.app/)
 
 - Patcher do Youtube e Youtube Music para bloquear anúncios e desbloquear funções nos aplicativos.
 - Para o funcionamento correto no Android Auto, deve-se usar o MicroG RE.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/revanced.app/)
 
-### 🌟 [YT Music Morphe](https://morphe.software/)
+### 🌟 [**YT Music Morphe**](https://morphe.software/)
 
 - Alternativa para o Revanced
 - Já funciona direto no Android Auto sem problemas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/morphe.software/)
+- 
+### 🌟 [**MySpoti**](https://github.com/kota-zo/myspoti)
 
+- Client de código aberto para o Spotify no Android - bloqueia anúncios e libera funções premium.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/kota-zo/myspoti)
+  
 ### 🌟 [**SpotiFLAC-Mobile**](https://github.com/zarzet/SpotiFLAC-Mobile)
 
 - Port do SpotiFLAC escrito em Flutter para iOS e Android, minimalista e pouco exigente em relação as especificações de aparelho.
