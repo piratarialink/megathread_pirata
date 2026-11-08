@@ -294,7 +294,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 - 
 ### 🌟 [**MySpoti**](https://github.com/kota-zo/myspoti)
 
-- Client de código aberto para o Spotify no Android - bloqueia anúncio e libera funções premium.
+- Client de código aberto para o Spotify no Android - bloqueia anúncios e libera funções premium.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/kota-zo/myspoti)
   
 ### 🌟 [**SpotiFLAC-Mobile**](https://github.com/zarzet/SpotiFLAC-Mobile)
