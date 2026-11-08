@@ -27,8 +27,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌟 [RedeCanais](https://redecanais.sh/browse-animes-videos-1-date.html)
 
-- Incrível coleção shonen/seinen em excelente qualidade e em PT-BR com download direto disponível através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
-- Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
+- Muda constantemente de domínio, para se manter atualizado confira o [subreddit](https://redlib.catsarch.com/r/pirataria) do pirataria / [Falha na conexão? Tente isso aqui.](guias/dns.md)
 - É essencial utilizar um bloqueador de anúncios robusto ao navegar; pois o site exibe anúncios extremamente agressivos que contêm scripts maliciosos em JS. Mais info acerca do tema [aqui](https://redlib.catsarch.com/r/pirataria/s/3Bopziwr1R).
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/redecanais.gl/)
 
@@ -51,12 +50,6 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 - Descubra novos clássicos e animações em **HD/Full HD/Hi-Res** para assistir enquanto estiver online. [Falha na conexão? Tente isso.](guias/dns.md)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/hinatasoul.com/)
-
-#### ▶️ [Betterflix](https://betterflix.click/explorar?type=anime) / [API](https://betterflix.click/api)
-
-- Repleto de animes, na maior qualidade possível com os recém lançamentos - use um adblock!
-- Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) e [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.click/)
 
 #### ▶️ [Kairou](https://kairou.space/)
 
