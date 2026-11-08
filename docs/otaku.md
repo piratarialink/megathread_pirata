@@ -98,7 +98,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🌟 [Anitsu](https://anitsu.moe/#)
 
 - Grande catálogo, inclui praticamente todos os títulos imagináveis, até mesmo lost medias com legendas e faixas de dublagem em português **do Brasil!**
-- **Use um reprodutor de mídia de sua preferência no lugar do VLC.** **O site é invite-only no momento.** 
+- **Use um reprodutor de mídia de sua preferência no lugar do VLC** - **o site é invite-only no momento.** 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anitsu.moe/)
 
 #### 🔗 [Anime Tosho](https://animetosho.org/)
