@@ -19,15 +19,14 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ### 🌟 [Rede Canais](https://redecanais.pet/) / [2](https://redecanais.fm/) / [3](https://redecanais.cool/)
 
-- Incrível variedade de filmes de excelente qualidade oferecidos para download direto através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
-- Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
+- Muda constantemente de domínio, para se manter atualizado confira o [subreddit](https://redlib.catsarch.com/r/pirataria) do pirataria / [Falha na conexão? Tente isso aqui.](guias/dns.md)
 - É essencial utilizar um bloqueador de anúncios robusto ao navegar; pois o site exibe anúncios extremamente agressivos que contêm scripts maliciosos em JS. Mais info acerca do tema [aqui](https://redlib.catsarch.com/r/pirataria/s/3Bopziwr1R).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.pet/)
 
 ### 🌟 [BRFLIX](https://brflix.lat/)
 
-- Plataforma de streaming de filmes e séries em alta definição (1080p), áudio dublado e legendado.
-- Interface moderna e responsiva, totalmente otimizada para computadores, dispositivos móveis e Smart TVs.
+- Plataforma de streaming de filmes e séries em alta definição, áudio dublado e legendado.
+- Lançamentos com resolução 1080p, 720p, ou até em FHD para blockbusters.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/brflix.lat/)
 
 ### 🌟 [Pomfy](https://pomfy.online/) / [2](https://pomfy.stream/) / [API](https://api.pomfy.stream/)
@@ -35,12 +34,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - O Pomfy é um espaço com milhares de filmes e séries internacionais e nacionais, disponível tanto no idioma original, quanto dublado; sempre na melhor qualidade.
 - Conta com a presença de anúncios, mas esses aparecem apenas nos players - use um adblock.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/pomfy.online/)
-
-### 🌟 [GoFlix](https://goflixy.lol/)
-
-- Lançamentos com resolução 1080p, 720p, ou até em FHD para blockbusters. Em caso de anti-adblock, use o nuMatrix.
-- Altere para outros servidores se o servidor padrão não funcionar.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/goflixy.lol/)
 
 ### 🌟 [Stream Verde](https://streamverde.net/)
 
@@ -65,47 +58,34 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Você pode tentar obter um convite em [nosso grupo do lemmy.](https://lemmy.dbzer0.com/c/pirataria)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/clubedodual.com/)
 
+### ▶️ [MemóriadaTV](https://www.memoriadatv.com/) / [ClubeHD](https://www.clubehd.com)
+
+- Clássicos preservados do Cinema e da TV para baixar pelo MEGA ou Terabox.
+- Ajude o site a se manter ativo, doando ou sendo membro VIP.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/memoriadatv.com/)
+
 ### ▶️ [Betterflix](https://betterflix.click/) / [API](https://betterflix.click/api)
 
 - Repleto de filmes, séries, doramas, animes e canais de TV, tudo de graça.
 - Entre na grupo do [discord](https://discord.gg/H2bGjqTnFK) e [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.click/)
 
-### ▶️ [PobreFlix](https://lospobreflix.site/)
-
-- Novo projeto depois que o domínio pobreflix.cc caiu, grande acervo de filmes e shows de TV na web.
-- Lembre-se de usar um adblock.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/lospobreflix.site/)
-
-### ▶️ [CineRave](http://cinerave.netlify.app)
-
-- Bem completo, com filmes, séries e canais ao vivo, watch party (assistir junto com amigos, sincronizado e com chat em tempo real), conteúdo atualizado diariamente.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cinerave.netlify.app/)
-
 ### ▶️ [Kairou](https://kairou.space/)
 
 - Player veloz com múltiplos servidores HLS, suporte a Google Cast, AirPlay, gestos touch em mobile e interface moderna e limpa sem anúncios invasivos.
-- Comunidade no [Discord](https://discord.gg/TZkEWCVZr6) para avisos, suporte e pedidos de títulos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kairou.space/)
 
-### ▶️ [CDMovieDB](https://cdmoviedb.com)
-- Biblioteca de Filmes e Séries com API para consulta. Todos os conteúdos adicionados são detalhadamente analisados.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cdmoviedb.com/)
+### ▶️ [YouFilm](https://www.youfilm.online/)
 
-### ▶️ [Superflix](https://superflix1.cloud/)
-
-- Fonte online para muitos filmes e séries do Betterflix, com mídia dublada e legendada.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/superflix1.cloud/)
-
-### ▶️ [MemóriadaTV](https://www.memoriadatv.com/) / [ClubeHD](https://www.clubehd.com)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/memoriadatv.com/)
+- Layout baseado no YouTube. Interface moderna, clean e responsiva. Milhares de filmes, séries, animes e doramas disponíveis para assistir.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/youfilm.online/)
 
 ### ▶️ [NetCine](https://netcinex.si/)
 
+- Use o [nuMatrix](https://codeberg.org/arek/nuMatrix) para impedir que requests de sites de terceiros com malvertising carreguem.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/netcinex.si/)
 
-### ▶️ [Encontrei.tv](https://encontre.tv/)
+### ▶️ [Encontrei.me](https://encontre.me/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/encontre.tv/)
 
@@ -116,6 +96,14 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Plataforma de streaming de filmes e séries em alta definição (1080p), áudio dublado e legendado.
 - Interface moderna e responsiva, totalmente otimizada para computadores, dispositivos móveis e Smart TVs.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/brflix.lat/)
+
+### 🌟 [YouFilm](https://www.youfilm.online/)
+
+- Streaming indexador, milhares de Filmes, Séries, Animes e Doramas disponíveis para assistir
+- Layout baseado no YouTube. Interface moderna, clean e responsiva. Sua navegação com certeza será confortável
+- Foco não só em assistir, mas interatividade. Você pode ter uma conta, salvar títulos, avaliar e comentar
+- Dublado e Legendado, diversos servidores disponíveis
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/youfilm.online/)
 
 ### 🌟 [Aether](https://rentry.co/aetherdomains) / [2](https://legacy.aether.mom) / [3](https://aether.bar)
 
