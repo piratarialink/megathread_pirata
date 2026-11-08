@@ -38,7 +38,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### ▶️ [DattebayoBR](https://www.dattebayo-br.com/)
 
-- Espaço seguro para assistir mechas, tokusatsus e isekais - os anúncios geralmente são embutidos no player de vídeo para evitar qualquer risco de malware - em várias resoluções, com ou sem episódios filler.
+- Espaço seguro para assistir Mechas, Tokusatsus e Isekais - os anúncios geralmente são embutidos no player de vídeo para evitar qualquer risco de malware - em várias resoluções, com ou sem episódios filler.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.dattebayo-br.com/)
 
 #### ▶️ [Goyabu](https://goyabu.io/)
@@ -98,7 +98,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🌟 [Anitsu](https://anitsu.moe/#)
 
 - Grande catálogo, inclui praticamente todos os títulos imagináveis, até mesmo lost medias com legendas e faixas de dublagem em português **do Brasil!**
-- **O site é invite-only no momento** + **use um reprodutor de mídia de sua preferência no lugar do VLC.**
+- **O site é invite-only no momento** + **use um reprodutor de mídia de sua preferência no lugar do VLC.** / [Server oficial](https://discord.com/invite/shkUHzCWxQ)
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anitsu.moe/)
 
 #### 🔗 [Anime Tosho](https://animetosho.org/)
@@ -116,6 +116,16 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Mais de **5000 séries** disponíveis para download gratuito.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/chauthanh.info/)
 
+### 🔗 [New Reiwa](https://newreiwa.com/historia/)
+
+- Fansub de Tokusatsus do Ultraman e J-Movies, sucessor do finado NewZect e Perfect Zect.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/newreiwa.com/)
+
+#### 🔗 [NoobSubs](https://www.noobsubs.com/)
+
+- Animes com faixas de áudio em inglês e torrents disponíveis.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/noobsubs.com/)
+
 #### 🔗 [Hi10 Anime](https://hi10anime.com/)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/hi10anime.com/)
@@ -123,11 +133,6 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🔗 [Kayoanime](https://kayoanime.com/)
 
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/kayoanime.com/)
-
-#### 🔗 [NoobSubs](https://www.noobsubs.com/)
-
-- Animes com faixas de áudio em inglês e torrents disponíveis.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/noobsubs.com/)
 
 #### 🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
 
