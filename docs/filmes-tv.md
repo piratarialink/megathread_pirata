@@ -291,14 +291,17 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 ### 🌟 [Rede Torrent](https://redetorrent.com/)
 
+- Um site agradável, com links rápidos. O melhor site em termos de qualidade audiovisual no Brasil. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redetorrent.com/)
 
 ### 🌟 [BluDV](https://bludv1.xyz/)
 
+- Alguns filmes e séries extraídos do Blu-ray - lançamentos em 1080p, 3D ou 4K.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/bludv1.xyz/)
 
 ### 🌟 [EZTV](https://eztvx.to/)
 
+- Fórum de compartilhamento, bem semeado mas muitas vezes sem a opção de dublagem em português do Brasil.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/eztvx.to/)
 
 ### 🔗 [Comando](https://comando1.com/) / [2](https://comandotorrents.to/)
@@ -354,13 +357,17 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 ### 🌟 [Polemic Filmes](https://t.me/polemicfilmes)
 
 - Desfrute dos maiores sucessos de bilheteria sem sair do Telegram.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🌟 [FenixPlayerBOT](https://t.me/+kRrkPbcUMdgzOGU5)
 
 - Um bot no Telegram com mais de 16 mil filmes e 2,5 mil séries.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
-### [Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)
-  
+### 🔗 [Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
+
 ## Está buscando apps para assistir/baixar **Filmes e Séries** no Celular?
 
 ➜ Confira nossa Megathread sobre 📱 [Mobile](mobile.md)
