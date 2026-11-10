@@ -25,11 +25,11 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 ---
 
-#### 🌟 [RedeCanais](https://redecanais.sh/browse-animes-videos-1-date.html)
+#### 🌟 [RedeCanais](https://redecanais.social/browse-animes-videos-1-date.html)
 
 - Muda constantemente de domínio, para se manter atualizado confira o [subreddit](https://redlib.catsarch.com/r/pirataria) do pirataria / [Falha na conexão? Tente isso aqui.](guias/dns.md)
 - É essencial utilizar um bloqueador de anúncios robusto ao navegar; pois o site exibe anúncios extremamente agressivos que contêm scripts maliciosos em JS. Mais info acerca do tema [aqui](https://redlib.catsarch.com/r/pirataria/s/3Bopziwr1R).
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/redecanais.gl/)
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/redecanais.social/)
 
 #### ▶️ [Tomato](https://tomatoanimes.com/watch?id=1089)
 
@@ -306,7 +306,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Referência quando o assunto é mangás em torrent.
 - Como pesquisar obras em pt-BR: `No filter` > `Non-English-translated` > `pt br`.
 - A maioria dos mangás não está disponível em português
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/nyaa.si/)
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/nyaa.si/) / [2](https://www.urlvoid.com/scan/nyaa.land/)
 
 ‎
 ‎
