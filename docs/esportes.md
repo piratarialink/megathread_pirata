@@ -17,11 +17,11 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ## 🖥 **Transmissão ao vivo**
 
-### 🌟 [**Rede Canais TV**](https://redecanais.social/canais-de-tv/)
+### 🌟 [**Rede Canais TV**](https://redecanaistv.by/)
 
 - Muda constantemente de domínio, para se manter atualizado confira o [subreddit](https://redlib.catsarch.com/r/pirataria) do pirataria / [Falha na conexão? Tente isso aqui.](guias/dns.md)
 - É essencial utilizar um bloqueador de anúncios robusto ao navegar; pois o site exibe anúncios extremamente agressivos que contêm scripts maliciosos em JS. Mais info acerca do tema [aqui](https://redlib.catsarch.com/r/pirataria/s/3Bopziwr1R).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.social/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanaistv.by/)
 
 ### 🌟 [**Multicanais**](https://multicanaishd.bid/) / [2](https://multicanaishd.best/)
 
