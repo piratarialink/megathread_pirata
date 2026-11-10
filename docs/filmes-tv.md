@@ -302,7 +302,7 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 ### 🔗 [Comando](https://comando1.com/) / [2](https://comandotorrents.to/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comando1.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/comando1.com/) / [2](https://www.urlvoid.com/scan/comandotorrents.to/)
 
 ### 🔗 [Sem Torrent](https://semtorrent.com/)
 
@@ -310,7 +310,7 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 ### 🔗 [Torrent dos Filmes](https://torrentdosfilmes-v2.xyz/) / [2](https://torrentdosfilmes1.site/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes1.site/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/torrentdosfilmes1.site/) / [2](https://www.urlvoid.com/scan/torrentdosfilmes1.site/)
 
 ### 🔗 [HDR Torrent](https://hdrtorrent.com/)
 
@@ -329,7 +329,7 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 ### 🌟 [OpenSubtitles](https://www.opensubtitles.com) / [2](https://www.opensubtitles.org)
 
 - Vasto banco de dados com 2,6 bilhões de palavras em 60 idiomas que serve praticamente todos os filmes ou programas de TV que você possa imaginar.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/opensubtitles.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/opensubtitles.com/) / [2](https://www.urlvoid.com/scan/opensubtitles.org/)
 
 ### 🔗 [Addic7ed](https://www.addic7ed.com/)
 
