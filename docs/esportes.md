@@ -17,17 +17,17 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ## 🖥 **Transmissão ao vivo**
 
-### 🌟 [**Rede Canais TV**](https://redecanaistv.gs/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/)
+### 🌟 [**Rede Canais TV**](https://redecanais.social/canais-de-tv/)
 
 - Muda constantemente de domínio, para se manter atualizado confira o [subreddit](https://redlib.catsarch.com/r/pirataria) do pirataria / [Falha na conexão? Tente isso aqui.](guias/dns.md)
 - É essencial utilizar um bloqueador de anúncios robusto ao navegar; pois o site exibe anúncios extremamente agressivos que contêm scripts maliciosos em JS. Mais info acerca do tema [aqui](https://redlib.catsarch.com/r/pirataria/s/3Bopziwr1R).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanaistv.gs/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.social/)
 
 ### 🌟 [**Multicanais**](https://multicanaishd.bid/) / [2](https://multicanaishd.best/)
 
 - Canais pagos e streaming de eventos esportivos como Copa do Brasil e Libertadores assim que são iniciados.
 - MMA, SporTV, ESPN do Brasil e Internacional - anúncios enfadonhos existem mas podem ser burlados com o PopUpOFF.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanaishd.bid/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanaishd.bid/) / [2](https://www.urlvoid.com/scan/multicanaishd.best/)
 
 ### 🌟 [**BRFLIX TV**](https://brflix.online/)
 
@@ -37,7 +37,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ### 📺️ [Futemax](https://futemax.moi/) / [2](https://futemax.rent/) / [3](https://futemax.luxe/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.moi/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/futemax.moi/) / [2](https://www.urlvoid.com/scan/futemax.rent/) / [3](https://www.urlvoid.com/scan/futemax.luxe/)
 
 ### 📺️ [Buffsports](https://buffsports.io/)
 
