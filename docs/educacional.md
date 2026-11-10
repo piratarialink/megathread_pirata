@@ -19,51 +19,99 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### ▶️ **[curso em vídeo](https://www.cursoemvideo.com/)** - Cursos de tecnologia
 
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/cursoemvideo.com/)
+
 ### ▶️ **[kultivi](https://app.kultivi.com/)** - Cursos variados
+
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/app.kultivi.com/)
 
 ### ▶️ **[mente binária](https://www.mentebinaria.com.br/cursos/)** - Cursos de engenharia reversa
 
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/mentebinaria.com.br/)
+
 ### ▶️ **[portal da matemática](https://portaldaobmep.impa.br/)** - Cursos para a OBMEP
+
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/portaldaobmep.impa.br/)
 
 ### ▶️ **[integra univesp](https://apps.univesp.br/integra/)** - Cursos de ensino superior
 
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/apps.univesp.br/)
+
 ### ▶️ **[academy.omie](https://academy.omie.com.br/)** - Cursos variados
+
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/academy.omie.com.br/)
 
 ### ▶️ **[moocs.ggte](https://moocs.ggte.unicamp.br/)** - Cursos variados
 
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/moocs.ggte.unicamp.br/)
+
 ### ▶️ **[pensarcursos](https://www.pensarcursos.com.br/)** - Cursos variados
+
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/pensarcursos.com.br/)
 
 ### ▶️ **[openuped](https://www.openuped.eu/courses)** - Cursos variados
 
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/openuped.eu/)
+
 ### ▶️ **[eu capacito](https://eucapacito.com.br)** - Cursos variados
+
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/eucapacito.com.br/)
 
 ### ▶️ **[wr educacional](https://www.wreducacional.com.br/lista-de-cursos)** - Cursos variados
 
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/wreducacional.com.br/)
+
 ### ▶️ **[iestudar](https://iestudar.com/)** - Cursos variados
+
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/iestudar.com/)
 
 ### ▶️ **[moodle.ifrs](https://moodle.ifrs.edu.br/course/index.php?categoryid=38)** - Cursos variados
 
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan//moodle.ifrs.edu.br/)
+
 ### ▶️ **[escolavirtual](https://www.escolavirtual.gov.br/catalogo)** - Cursos variados
+
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/escolavirtual.gov.br/)
 
 ### ▶️ **[EV](https://www.ev.org.br/)** - Cursos de tecnologia
 
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/ev.org.br/)
+
 ### ▶️ **[veduca](https://veduca.org/course-category/cursos-online-gratuitos/?tutor-course-filter-category=130)** - Cursos variados
+
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/veduca.org/)
 
 ### ▶️ **[setus](https://setuscursos.com.br/nossos-cursos)** - Cursos variados
 
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/setuscursos.com.br/)
+
 ### ▶️ **[mundi](https://mundi.ifsul.edu.br/portal/)** - Cursos variados
+
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/mundi.ifsul.edu.br/)
 
 ### ▶️ **[unasus](https://www.unasus.gov.br/cursos/)** - Cursos variados
 
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/unasus.gov.br/)
+
 ### ▶️ **[recode](https://recode.org.br)** - Cursos variados
+
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/recode.org.br/)
 
 ### ▶️ **[hackers do bem](https://hackersdobem.org.br/)** - Cursos de tecnologia
 
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/hackersdobem.org.br/)
+
 ### ▶️ **[ticemtrilhas](https://ticemtrilhas.org.br/)** - Cursos variados
+
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/ticemtrilhas.org.br/)
 
 ### ▶️ **[tecpop minas](https://tecpop.mg.gov.br/)** - Cursos variados
 
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/tecpop.mg.gov.br/)
+
 ### ▶️ **[uniasselvi](https://portal.uniasselvi.com.br/cursolivre)** - Cursos variados
+
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/portal.uniasselvi.com.br/)
 
 ---
 
