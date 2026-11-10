@@ -17,11 +17,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🗣 Dublados
 
-### 🌟 [Rede Canais](https://redecanais.social/) / [2](https://redecanais.fm/) / [3](https://redecanais.cool/)
+### 🌟 [Rede Canais](https://redecanais.by/) / [2](https://redecanais.fm/) / [3](https://redecanais.cool/)
 
 - Muda constantemente de domínio, para se manter atualizado confira o [subreddit](https://redlib.catsarch.com/r/pirataria) do pirataria / [Falha na conexão? Tente isso aqui.](guias/dns.md)
 - É essencial utilizar um bloqueador de anúncios robusto ao navegar; pois o site exibe anúncios extremamente agressivos que contêm scripts maliciosos em JS. Mais info acerca do tema [aqui](https://redlib.catsarch.com/r/pirataria/s/3Bopziwr1R).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.social/) / [2](https://www.urlvoid.com/scan/redecanais.fm/) / [3](https://www.urlvoid.com/scan/redecanais.cool/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.by/) / [2](https://www.urlvoid.com/scan/redecanais.fm/) / [3](https://www.urlvoid.com/scan/redecanais.cool/)
 
 ### 🌟 [BRFLIX](https://brflix.lat/)
 
@@ -174,11 +174,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 📺️ TV
 
-### 🌟 [Rede Canais TV](https://redecanais.social/canais-de-tv/) / [2](https://redecanaistv.wales/)
+### 🌟 [Rede Canais TV](https://redecanaistv.by) / [2](https://redecanaistv.wales/)
 
 - Muda constantemente de domínio, para se manter atualizado confira o [subreddit](https://redlib.catsarch.com/r/pirataria) do pirataria / [Falha na conexão? Tente isso aqui.](guias/dns.md)
 - É essencial utilizar um bloqueador de anúncios robusto ao navegar; pois o site exibe anúncios extremamente agressivos que contêm scripts maliciosos em JS. Mais info acerca do tema [aqui](https://redlib.catsarch.com/r/pirataria/s/3Bopziwr1R).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.social) / [2](https://redecanaistv.wales/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanaistv.by) / [2](https://redecanaistv.wales/)
 
 ### 🌟 [TV a Cabo](https://tvacabo.free.nf/)
 
