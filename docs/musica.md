@@ -57,7 +57,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 ### 🔗 [KHInsider: Video Game Music](https://downloads.khinsider.com/) / [2](https://khinsider.squid.wtf/home)
 
 - Definitivamente, um excelente site para downloads de MP3 e sem perdas de trilhas sonoras de jogos de console e PC que, de outra forma, são bastante difíceis de encontrar.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloads.khinsider.com/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/downloads.khinsider.com/) / [2](https://www.urlvoid.com/scan/khinsider.squid.wtf/)
 
 ### 🔗 [AudioFetcher](https://audiofetcher.com/)
 
@@ -122,7 +122,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 ### 🔗 [SpecialForDJs](https://specialfordjs.org/) / [2](https://musicvibez.org/)
 
 - Há mais de 13 anos distribuindo lançamentos exclusivos da cena da house e dance music eletrônica (EDM).
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/specialfordjs.org/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/specialfordjs.org/) / [2](https://www.urlvoid.com/scan/musicvibez.org/)
 
 ### 🔗 [BestMP3Converter](https://www.bestmp3converter.com/)
 
@@ -209,7 +209,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 ### 🖥️ [Monochrome](https://monochrome.samidy.com/) / [2](https://monochrome.tf/) / [3](https://monochrome.prigoana.com/) / [4](https://monochrome-back.pages.dev/)
 
 - Permite que tu escute músicas de vários serviços de streaming online pela WebUI, gratuito e sem anúncios, oferece download em FLAC Hi-Res, modo karaokê, criação de playlists, exportar/importar e etc.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/monochrome.samidy.com/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/monochrome.samidy.com/) / [2](https://www.urlvoid.com/scan/monochrome.tf) / [3](https://www.urlvoid.com/scan/monochrome.prigoana.com) / [4](https://www.urlvoid.com/scan/monochrome-back.pages.dev)
 
 ### 🖥️ [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
