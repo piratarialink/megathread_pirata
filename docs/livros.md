@@ -392,28 +392,51 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 ### 🌟 [Utopia Cultural Scans](https://t.me/+u4i2ooZPspQ4NGVh)
 
 - Scan brasileira de quadrinhos em ótima qualidade.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 📣 [Information Security Books](https://t.me/ITSBooks)
 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
+
 ### 📣 [Audiolivros](https://t.me/audiolivros)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 📣 [Brasil Livros 📚](https://t.me/Brasil_Livros_Canal)
 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
+
 ### 📣 [BIBLIOTECA VIRTUALBR 2](https://t.me/BIBLIOTECAVIRTUALBR2)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 📣 [Leitura de Cordel](https://t.me/+sOmQRO0n7lMwYzhh)
 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
+
 ### 📣 [LIVROS DE PSICOLOGIA, PSICANÁLISE, PEDAGOGIA E FILOSOFIA!](https://t.me/livrosdapsicologia)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 📣 [Livros de Matemática](https://t.me/LivrosLMat)
 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
+
 ### 📣 [Livros de TI](https://t.me/booksti)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 📣 [Não Sou Robô AudioBook📚🎧✌️](https://t.me/naosouroboaudiobooks)
 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
+
 ### 📣 [NOSSA BIBLIOTECA 𝐁𝐑](https://t.me/NOSSABIBLIOTECABR)
 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
+
 ### 📣 [REVISTA VIRTUAL BR](https://t.me/REVISTAVIRTUALBR)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ## Está buscando cursos e conteúdos educacionais?
 
