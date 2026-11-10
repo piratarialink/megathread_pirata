@@ -35,7 +35,7 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 ### 🌟 [Sanet](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
 
 - Site referência na cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/) / [2](https://www.urlvoid.com/scan/sanet.lc/) / [3](https://www.urlvoid.com/scan/sanet.st/) / [4](https://www.urlvoid.com/scan/sanet.ws/)
 
 ### 🔗 [Apps Torrent](https://appstorrent.ru/) • MacOS
 
@@ -243,13 +243,13 @@ Coleção de aplicações com arquivos de suporte e informações voltadas mais 
 ### 🌟 [M0nkrus](https://w18.monkrus.ws/) / [2](https://vk.com/monkrus) / [3](https://monkrus.dvuzu.com/) / [📣](https://t.me/real_monkrus/) • Interface em russo
 
 - Repacker para diferentes aplicativos **com instaladores incluídos**; altamente classificado, confiável e mais conhecido por seus repacks relacionados a Creative Cloud e Autodesk Fusion.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/w18.monkrus.ws/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/w18.monkrus.ws/) / [2](https://www.urlvoid.com/scan/vk.com/) / [3](https://www.urlvoid.com/scan/monkrus.dvuzu.com/)
 
 ### 🌟 [Rutracker](https://rutracker.net/) / [2](https://rutracker.org/)
 
 - Tracker generalista russo desde 2004 em atividade. Para usar a função de pesquisa, é necessário se cadastrar.
 - Possui uma [seção focada em programas para Linux.](https://rutracker.org/forum/viewforum.php?f=1381)
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rutracker.net/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/rutracker.net/) / [2](https://www.urlvoid.com/scan/rutracker.org/)
 
 ### 🔗 [Team OS](https://www.teamos.xyz) • Necessário Cadastro
 
