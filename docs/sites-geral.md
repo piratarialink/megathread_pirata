@@ -67,18 +67,22 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 ### 🔗 [CopyrightBR](https://t.me/CopyrightBR)
 
 - Criado com o intuito de compartilhar notícias e releases da cena pirata brasileira. Contém avisos sobre warez/trackers abertos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🔗 [UnCopy Group](https://t.me/UnCopyGroup)
 
 - Grupo para quem busca material e papo de qualidade sobre Trackers, Warez e Usenet. Não importa a fonte, seja p2p ou scene.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🔗 [Deck Pirata](https://t.me/trackerslist)
 
 - Canal exclusivo para informações sobre trackers. / [Nota importante](https://redlib.catsarch.com/r/pirataria/comments/1quu4ll/aviso_importante_o_rpirataria_cortou_rela%C3%A7%C3%B5es_com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🤖 [Search bot](https://t.me/en_SearchBot)
 
 - Substitui a busca nativa e obsoleta do Telegram.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ## 🧲 Torrent/P2P
 
