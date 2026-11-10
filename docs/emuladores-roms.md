@@ -506,6 +506,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🤖 [NSW Torrent Library](https://t.me/@Switch_library_bot) / [2](https://nswtl.info/)
 
 - Fonte confiável de roms para NSW, por ser um bot do telegram é uma opção viável caso o seu site favorito de roms de Switch seja derrubado.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/) / [2](https://www.urlvoid.com/scan/nswtl.info/)
 
 ## 🧲 Torrent/P2P
 
