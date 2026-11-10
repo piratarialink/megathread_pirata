@@ -17,7 +17,7 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ## 🎓 Streaming
 
-### ▶️ **[Curso em vídeo](https://www.cursoemvideo.com/)** - Cursos de tecnologia
+### ▶️ **[Curso em Vídeo](https://www.cursoemvideo.com/)** - Cursos de tecnologia
 
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/cursoemvideo.com/)
 
@@ -32,6 +32,10 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 ### ▶️ **[Portal da matemática](https://portaldaobmep.impa.br/)** - Cursos para a OBMEP
 
 - [Resultados de segurança de URL](https://www.urlvoid.com/scan/portaldaobmep.impa.br/)
+
+### ▶️ **[Handmade Hero](https://guide.handmadehero.org/)** - Cursos de tecnologia
+
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/guide.handmadehero.org/)
 
 ### ▶️ **[Integra Univesp](https://apps.univesp.br/integra/)** - Cursos de ensino superior
 
