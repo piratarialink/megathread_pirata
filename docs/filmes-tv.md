@@ -62,7 +62,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Clássicos preservados do Cinema e da TV para baixar pelo MEGA ou Terabox.
 - Ajude o site a se manter ativo doando ou sendo membro VIP.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/memoriadatv.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/memoriadatv.com/) / [2](https://www.urlvoid.com/scan/clubehd.com/)
 
 ### ▶️ [Kairou](https://kairou.space/)
 
@@ -195,7 +195,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Oferece canais ao vivo e streaming de eventos esportivos como UFC e Libertadores assim que são iniciados.
 - Anúncios enfadonhos existem mas estes podem ser burlados com o PopUpOFF.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanaishd.bid/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanaishd.bid/) / [2](https://www.urlvoid.com/scan/multicanaishd.best/)
 
 ### 🌟 [BRFLIX TV](https://brflix.online/)
 
@@ -208,25 +208,25 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Add-on de IPTV para o Stremio. Algumas listas .m3u podem ser obtidas por meio dessa extensão.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/stremio-addons.net/)
 
-### 🔗 [Pluto TV](https://pluto.tv/)
-
-- Serviço gratuito de Streaming de televisão da Paramount.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pluto.tv/)
-
 ### 🔗 [Cliente simples de IPTV para o Kodi](https://kodi.tv/addons/omega/pvr.iptvsimple/)
 
 - Não é difícil de configurar, porém, pode travar bastante em comparação com provedores tradicionais de IPTV.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kodi.tv/)
+
+### 🔗 [Free TV](https://github.com/Free-TV/IPTV)
+
+- Playlists .M3U de emissoras abertas e livres de copyright do [Brasil](https://github.com/Free-TV/IPTV/blob/master/lists/brazil.md) e do restante do mundo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
   
 ### 🔗 [Iptv-Brasil-2025](https://github.com/Ramys/Iptv-Brasil-2023)
 
 - Agregação em massa de listas de IPTV gratuitas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
-### 🔗 [Free TV](https://github.com/Free-TV/IPTV)
+### 🔗 [Pluto TV](https://pluto.tv/)
 
-- Playlists .M3U de emissoras abertas e livres de copyright do [Brasil](https://github.com/Free-TV/IPTV/blob/master/lists/brazil.md) e do restante do mundo.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
+- Serviço gratuito de Streaming de televisão da Paramount.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pluto.tv/)
 
 ### 🔗 [Pirata TV](https://piratatvs.com/)
 
@@ -236,17 +236,13 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/reidoscanais.st/)
 
-### 🔗 [TV0800](https://tv0800.pro/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.pro/)
-
 ### 🔗 [CXTV](https://www.cxtv.com.br/)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/cxtv.com.br/)
 
 ### 🔗 [UP Novelas](https://upnovelas.com/) / [NoveFlix](https://noveflix.online/aba/novelas/)
 
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/upnovelas.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/upnovelas.com/) / [2](https://www.urlvoid.com/scan/noveflix.online/)
 
   
 ## 📱 Celular
