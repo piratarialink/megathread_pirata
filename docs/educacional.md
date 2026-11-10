@@ -110,89 +110,124 @@ A educação é o processo de adquirir conhecimento, habilidades e valores funda
 
 ### 🧲 [Download Cursos Top](https://downloadcursos.top/) - Cursos nacionais
 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/downloadcursos.top/)
+
 ### 🧲 [Course Torrent / DDL CSE](https://cse.google.com/cse?cx=37dfc1f1ac9ef45e7) - Pesquisa de cursos em vários sites
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/cse.google.com/)
 
 ### 🧲 [Academic Torrents](https://academictorrents.com/) - Cursos de graduação
 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/academictorrents.com/)
+
 ### 🧲 [Course Club](https://courseclub.me/) - Cursos variados
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/courseclub.me/)
 
 ### 🧲 [Free Course Site](https://freecoursesite.com/) - Cursos variados
 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/freecoursesite.com/)
+
 ### 🧲 [Download Free Course](https://downloadfreecourse.com/) - Cursos variados
 
-### 🧲 [Online Torrent Courses](https://onlinetorrentcourses.com) - Cursos nacionais
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/downloadfreecourse.com/)
 
 ### 🧲 [Docspedia](https://docspedia.world/signup.php) - Cursos / Inscrição Necessária
 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/docspedia.world/)
+
 ### 🧲 [Download Cursos Gratis](https://downloadcursos.gratis/) - Cursos nacionais
 
-**_Use o [PopUpOFF](https://popupoff.org/) e desative o JS_**
+- **_Use o [PopUpOFF](https://popupoff.org/) e desative o JS_**
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/downloadcursos.gratis/) 
 
 ### 🧲 [Online Free Course](https://www.onlinefreecourse.net/) - Cursos da Udemy
 
-### 🧲 [Download Cursos](https://www.downloadcursos.org/) - Cursos nacionais
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/onlinefreecourse.net/)
 
 ### 🧲 [Pimp My Money](https://pimpmymoney.net/) - Cursos de Marketing Digital
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pimpmymoney.net/)
 
 ## ☁ Pastas na nuvem
 
 ### 📂 [Drive de pobre](https://drivedepobre.com/)
 
 - Plataforma criada para facilitar o acesso gratuito a arquivos, você pode ajudá-la a se manter ativa doando conteúdo educacional relevante ou monetariamente.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/drivedepobre.com/)
 
 ### 📂 [Material Aeronáutico](https://linktr.ee/aviationPiracy)
 
 - Três pastas distintas com materiais diversos de aviação, incluindo simulados e livros para banca ANAC de piloto privado, comercial e comissário.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/linktr.ee/)
 
 ### 📂 [Conteúdo para Concursos](https://drive.google.com/drive/folders/1bZyXHZP8BZfxAARxOHR0eURaZ9R_Ducz?usp=drive_link)
 
 - Pasta contendo as disciplinas fundamentais para concursos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/drive.google.com/)
 
 ### 📂 [Drive do Xand](https://drive.google.com/drive/folders/1-DjHgdiNyeGXIAmPrzyk-JjLHEqCfcuV)
 
 - Algumas gigas de documentos que foram preservados ao longo do tempo, bastante material útil para EFOMM, ESA, EsPCEx e IME.
-  
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/drive.google.com/)
+
 ### 📂 [Apostilas antigas do SENAI](https://drive.google.com/drive/folders/1cidsj7wAg4iGMAvyVQtzg8pxL5D569ZS)
 
 - Sobre automação, gestão, eletricidade predial e outras áreas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/drive.google.com/)
 
 ## 📣 No Telegram
 
 ### 🌟 **[Polemic Knowledge](https://bio.site/bepolemic)**
 
 - Grupos para obter cursos, filmes e documentários. Criado como forma de manter o legado do antigo Polemic vivo.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/bio.site/)
 
 ### 🔗 [Courses - Online](https://t.me/+gHMdPm0z3RFiNmYx)
 
 - Videoaulas zipadas e em streaming para você assistir sem sair do Telegram.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🔗 [Império Cursos](https://t.me/imperiocursos)
 
 - Hud utilizado apenas como um portal de acesso para o canal oficial.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🔗 [Dev Samurai - Acervo](https://t.me/devsamurai_acervo)
 
 - Aulas que estavam disponíveis gratuitamente na plataforma Dev Samurai até dezembro de 2025.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🤖 [Search bot](https://t.me/en_SearchBot)
 
 - Substitui a busca nativa e obsoleta do Telegram. Excelente meio para encontrar arquivos e cursos que não são tão acessíveis dentro do app.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🔗 [Rumo ao ITA](https://t.me/rumoaoita)
 
 - Possui material e cartilha que irão te ensinar do zero a passar no ITA.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🔗 [ENEM SOLIDÁRIO 2026!⏳📚!](https://t.me/enemsolidario2026)
 
 - Comunidade ativa para compartilhamento de materiais para o ENEM.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🔗 [Meu Pato Clone](https://t.me/+UuFl_e1X01VkODMx)
 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
+
 ### 🔗 [Extreme Cursos](https://t.me/Extreme_CursosGratis)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🔗 [Árvore do Conhecimento - Canal](https://t.me/arveduconhecimentu)
 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
+
 ### 🔗 [Solidários](https://t.me/GrupoSolidarios)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ## Está buscando Livros?
 
