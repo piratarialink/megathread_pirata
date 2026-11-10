@@ -17,38 +17,23 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ## 🖥 **Transmissão ao vivo**
 
-### 🌟 [Rede Canais TV](https://redecanaistv.gs/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/)
+### 🌟 [**Rede Canais TV**](https://redecanaistv.gs/) / [2](https://redecanaistv.fi/) / [3](https://redecanaistv.ps/)
 
-- Oferece uma ampla gama de canais ao vivo com a mais alta qualidade de transmissão. [Falha na conexão? Tente isso.](guias/dns.md)
-- Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
+- Muda constantemente de domínio, para se manter atualizado confira o [subreddit](https://redlib.catsarch.com/r/pirataria) do pirataria / [Falha na conexão? Tente isso aqui.](guias/dns.md)
 - É essencial utilizar um bloqueador de anúncios robusto ao navegar; pois o site exibe anúncios extremamente agressivos que contêm scripts maliciosos em JS. Mais info acerca do tema [aqui](https://redlib.catsarch.com/r/pirataria/s/3Bopziwr1R).
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanaistv.gs/)
 
-### 🌟 [Multicanais](https://multicanaishd.bid/) / [2](https://multicanaishd.best/)
+### 🌟 [**Multicanais**](https://multicanaishd.bid/) / [2](https://multicanaishd.best/)
 
 - Canais pagos e streaming de eventos esportivos como Copa do Brasil e Libertadores assim que são iniciados.
 - MMA, SporTV, ESPN do Brasil e Internacional - anúncios enfadonhos existem mas podem ser burlados com o PopUpOFF.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/multicanaishd.bid/)
 
-### 📺️ [BRFLIX TV](https://brflix.online/)
+### 🌟 [**BRFLIX TV**](https://brflix.online/)
 
 - Transmissões esportivas ao vivo com múltiplos servidores HD.
 - Cobertura completa de futebol (Brasilão Série A e B, Copa do Brasil, Libertadores, Copa Sul-Americana, Champions League, Premier League, La Liga, Serie A e Bundesliga), além de eventos de Fórmula 1, NBA e UFC.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/brflix.online/)
-
-### 📺️ [Betterflix](https://betterflix.click/canais?lang=pt) / [API](https://betterflix.click/api)
-
-- Transmissões ao vivo de jogos de futebol, com várias opções de canais.
-- Entre na comunidade do [discord](https://discord.gg/H2bGjqTnFK) e [telegram](https://t.me/+LzTPE6nAUoQwMGNh) para conversar e ficar por dentro das atualizações.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.click/)
-
-### 📺️ [TV0800](https://tv0800.pro/esportes/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tv0800.pro/)
-
-### 📺️ [TV Online](https://tvonline.fan/)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tvonline.fan/)
 
 ### 📺️ [Futemax](https://futemax.moi/) / [2](https://futemax.rent/) / [3](https://futemax.luxe/)
 
@@ -68,7 +53,7 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 
 ## 🏟 **Reprises**
 
-### 🌟 [VK Video](https://m.vkvideo.ru/)
+### 🌟 [**VK Video**](https://m.vkvideo.ru/)
 
 - Reassista na íntegra jogos de futebol com narração em português brasileiro sem se preocupar com remoções por DMCA.
 - O aplicativo para dispositivos móveis não funciona corretamente.
@@ -92,75 +77,91 @@ Esporte refere-se à atividade física ou jogo, geralmente competitivo, que util
 ### 📺️ [FullFights](https://watchmmafull.com/)
 
 - Permite rever lutas do UFC 317 e PFL.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/watchmmafull.com/)
 
 ### 📺️ [Watch F1 Full](https://watchf1full.com/)
 
 - Replays gratuitos da Fórmula 1 e MotoGP.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/watchf1full.com/)
 
 ### 📺️ [Sportsurge](https://sportsurge.net/)
 
 - Transmissões ao vivo. MMA, boxe, automobilismo, basquete, futebol português, hóquei.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sportsurge.net/)
 
 ### 📺️ [SportsHD](https://www.worldcupfootball.me/)
 
-- Transmissões ao vivo. MMA, beisebol, basquete, futebol americano, hóquei, NCAAF, NCAAM
+- Transmissões ao vivo. MMA, beisebol, basquete, futebol americano, hóquei, NCAAF, NCAAM.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/worldcupfootball.me/)
 
 ### 📺️ [NFLBite](https://home.nflbite.com/)
 
-- Transmissões ao vivo. Futebol americano
+- Transmissões ao vivo. Futebol americano.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/home.nflbite.com/)
 
 ### 📺️ [NBABite](https://nbabite.com/)
 
-- Transmissões ao vivo. Basquetebol
+- Transmissões ao vivo. Basquetebol.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/nbabite.com/)
 
 ### 📺️ [MMA Streams](https://tonight.mmastreams.cc/)
 
-- Transmissões ao vivo. MMA (UFC)
+- Transmissões ao vivo. MMA (UFC).
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/tonight.mmastreams.cc/)
 
 ## 🥊 Add-ons do Kodi
 
 :::info Real Debrid pode ser necessário em alguns casos
 :::
 
-### 🌟 [Brazuca Play](https://telegra.ph/Brazuca-Community-09-13)
+### 🌟 [**Brazuca Play**](https://telegra.ph/Brazuca-Community-09-13)
 
 - Transmite partidas ao vivo de futebol do Brasil e de outros países com narração em português brasileiro.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/telegra.ph/)
 
 ### 🔗 [OnePlay](https://github.com/oneplayhd/oneplayhd.github.io)
 
 - Atua exclusivamente como um agregador de canais esportivos de TV (e filmes dublados), na maior parte do tempo gratuito e sem propagandas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [F1 Rewind](https://mylostsoulspace.co.uk/repo)
 
 - Add-on do Kodi de reprises da F1TV localizado no repositório do grupo Z3R0. Mesmo método de instalação do Brazuca Play.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mylostsoulspace.co.uk/)
 
 ### 🔗 [Fights On Demand](https://mylostsoulspace.co.uk/repo)
 
 - Outro add-on do grupo Z3R0, replays e lutas em tempo real pelo UFC Fight Pass. **Procure por "Non Debrid UFC Replays".**
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mylostsoulspace.co.uk/)
 
 ## ▶️ Add-ons do Stremio
 
 ### 🔗 [Formulio](https://formulio.hayd.uk/)
 
 - É possível assistir replays de Fórmula 1 via o sinal da Sky Sports Britânica. **Use-o no desktop.**
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/formulio.hayd.uk/)
 
 ## 🧲 Torrent/P2P
 
 ### 🔗 [Ace Stream User Interface](https://acestreamui.app/)
 
 - Site que se conecta a engine do Ace Stream instalada no seu dispositivo para encontrar todos os streams de esportes disponíveis no momento - assista no navegador / vlc / ace player ou vlc remoto na TV.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/acestreamui.app/)
 
 ### 🔗 [rutracker.org > Esportes](https://rutracker.org/forum/index.php?c=28)
 
 - Subfórum em russo de esportes no rutracker, use um tradutor como o [TWP](https://github.com/FilipePS/Traduzir-paginas-web) no firefox - torrent dos jogos olímpicos de verão e inverno, futebol, hóquei, luta livre e demais categorias.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/rutracker.org/)
 
 ### 🔗 [Sport Video](https://www.sport-video.org.ua/)
 
 - Futebol, NFL, NHL, NBA, MLB, Nascar, UFC, Fórmula 1, Indycar, DTM. Junte-se ao canal do Telegram para conteúdo adicional que não está disponível no portal oficial.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sport-video.org.ua/)
 
 ### 🔗 [F1Carreras](https://f1carreras.xyz/application)
 
 - Tracker privado focado em streaming Hi-Res, 4k UHD/HDR, HD e Full HD para fãs de automobilismo (e compartilhamento de mídia digital).
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/f1carreras.xyz/)
 
 ---
 
