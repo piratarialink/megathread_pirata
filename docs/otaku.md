@@ -433,17 +433,28 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌟 [Algo Animes](https://t.me/algoanimes)
 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
+
 #### 🔗 [Toonami](https://t.me/toonamibr)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 #### 🔗 [Central dos Animes](https://t.me/Centraldeanimes_Baltigo)
 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
+
 #### 🔗 [Mangás da Depressão](https://t.me/mangasdepressao)
 
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
+
 #### 🔗 [QG - Baltigo mangás](https://t.me/MangasBrasil)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 #### 🔗 [Animes Backup](https://t.me/+XyyvEwpjUxw4N2Vh)
 
 ‎
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ## 📱 Kindle
 
