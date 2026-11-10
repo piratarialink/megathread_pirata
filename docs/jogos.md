@@ -87,7 +87,7 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 ### 🌟 [GOG Games](https://gog.squid.wtf/) / [2](https://gog-rev.com/)
 
 - Cada jogo na biblioteca GOG é gratuito para download dentro um vasto compêndio de gêneros como RTS, Boomershooter, Simulação, entre outros - não confundir com a [GOG.com.](https://www.gog.com/en/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gog-games.to/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/gog-games.to/) / [2](https://www.urlvoid.com/scan/gog-rev.com/)
 
 ### 🌟 [Game Bounty](https://gamebounty.world/)
 
