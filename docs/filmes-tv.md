@@ -17,11 +17,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 🗣 Dublados
 
-### 🌟 [Rede Canais](https://redecanais.pet/) / [2](https://redecanais.fm/) / [3](https://redecanais.cool/)
+### 🌟 [Rede Canais](https://redecanais.social/) / [2](https://redecanais.fm/) / [3](https://redecanais.cool/)
 
 - Muda constantemente de domínio, para se manter atualizado confira o [subreddit](https://redlib.catsarch.com/r/pirataria) do pirataria / [Falha na conexão? Tente isso aqui.](guias/dns.md)
 - É essencial utilizar um bloqueador de anúncios robusto ao navegar; pois o site exibe anúncios extremamente agressivos que contêm scripts maliciosos em JS. Mais info acerca do tema [aqui](https://redlib.catsarch.com/r/pirataria/s/3Bopziwr1R).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.pet/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.social/) / [2](https://www.urlvoid.com/scan/redecanais.fm/) / [3](https://www.urlvoid.com/scan/redecanais.cool/)
 
 ### 🌟 [BRFLIX](https://brflix.lat/)
 
@@ -33,7 +33,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - O Pomfy é um espaço com milhares de filmes e séries internacionais e nacionais, disponível tanto no idioma original, quanto dublado; sempre na melhor qualidade.
 - Conta com a presença de anúncios, mas esses aparecem apenas nos players - use um adblock.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pomfy.online/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pomfy.online/) / [2](https://www.urlvoid.com/scan/pomfy.stream/)
 
 ### 🌟 [Stream Verde](https://streamverde.net/)
 
@@ -95,7 +95,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Melhor alternativa para o finado P-Stream e suas instâncias.
 - Filmes e séries em 1080p ou em até 4k disponível com o token do Febbox, extensão ou proxy personalizado.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/aether.mom/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/rentry.co/) / [2](https://www.urlvoid.com/scan/legacy.aether.mom/) / [3](https://www.urlvoid.com/scan/aether.bar/)
 
 ### 🌟 [Glitch Moviez](https://www.glitchmoviez.com)
 
@@ -174,11 +174,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 ## 📺️ TV
 
-### 🌟 [Rede Canais TV](https://redecanaistv.cool/) / [2](https://redecanaistv.wales/)
+### 🌟 [Rede Canais TV](https://redecanais.social/canais-de-tv/) / [2](https://redecanaistv.wales/)
 
 - Muda constantemente de domínio, para se manter atualizado confira o [subreddit](https://redlib.catsarch.com/r/pirataria) do pirataria / [Falha na conexão? Tente isso aqui.](guias/dns.md)
 - É essencial utilizar um bloqueador de anúncios robusto ao navegar; pois o site exibe anúncios extremamente agressivos que contêm scripts maliciosos em JS. Mais info acerca do tema [aqui](https://redlib.catsarch.com/r/pirataria/s/3Bopziwr1R).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanaistv.cool/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanais.social) / [2](https://redecanaistv.wales/)
 
 ### 🌟 [TV a Cabo](https://tvacabo.free.nf/)
 
