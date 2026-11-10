@@ -20,64 +20,79 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 ### 🔗 [APK Editor Studio](https://qwertycube.com/apk-editor-studio/)
 
 - Ferramenta robusta e fácil de usar para engenharia reversa de APK.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/qwertycube.com/)
 
 ### 🌟 [App Manager](https://muntashirakon.github.io/AppManager/en/)
 
 - Gerenciador de pacotes do Android, oferece uma gama de recursos para usuários com ou sem root por meio do wireless debugging. Pode gerir permissões de apps, bloquear anúncios direto do componente-fonte e validar checksums.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/muntashirakon.github.io/)
 
 ### 🔗 [AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) 
 
 - Transforma .APK**S**/.APKMs/.XAPKs em pacotes .APK, alternativa excelente para aquelas lojas proprietárias que os sites de apps modificados te obrigam a baixar.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [microG](https://github.com/microg/GmsCore/wiki)
 
 - Permite integrar perfeitamente aplicativos, serviços e estrutura com os servidores da Google nos celulares com root - exige apenas que tu baixe o microG companion e desbloqueie o bootloader para funcionar normalmente.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade)
 
 - Módulo para o Android 12 a 15, permitindo aos usuários contornar a restrição do sistema ao downgrade de aplicativos.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [Lucky Patcher](https://forum.mobilism.org/search.php?keywords=lucky+patcher&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) / [2](https://www.luckypatchers.com/)
 
 - Desbloqueia compras em pacotes APK e retira anúncios - **baixe apenas do balatan/diretamente do site do chelpus (desenvolvedores oficiais).**
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/forum.mobilism.org/) / [2](https://www.urlvoid.com/scan/luckypatchers.com/)
 
 ### 🔗 [MPV](https://github.com/mpv-android/mpv-android/releases)
 
 - Reprodutor de vídeo escrito em C, é considerado bastante competente e livre de propagandas. Mesmo conceito do [Next Player](https://github.com/anilbeesetti/nextplayer): gratuito e de código aberto.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [Re𝕍anced](https://revanced.app)
 
 - Um gerenciador que aplica patches e compila o YouTube com vários Mods incluindo o mod que tira os anúncios. (Necessário o APK do Youtube)
 - [Guia para aplicar ReVanced no YT (Instale a versão sugerida do YouTube via ADB)](https://www.reddit.com/r/revancedapp/comments/159zbb6/guide_youtube_revanced/)
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/revanced.app/)
 
 ### 🔗 [Morphe Manager](https://morphe.software/)
 
 - O Morphe é um aplicativo feito para gerir modificações e fixes com facilidade no Youtube e Reddit. É de código aberto e baseado no ReVanced.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/downloadfreecourse.com/)
 
 ### 🔗 [Seal Plus](https://github.com/MaheshTechnicals/Sealplus)
 
 - Fork do Seal: um aplicativo para baixar vídeo/áudio sem a necessidade de conta, baseado no yt-dlp e desenvolvido com Material You.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/morphe.software/)
 
 ### 🔗 [Seeker Android](https://github.com/jackBonadies/SeekerAndroid)
 
 - Cliente do sistema Android para a rede peer-to-peer do Soulseek, inspirado na documentação do Nicotine+ e escrito em C#.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [Shelter](https://github.com/PeterCxy/Shelter)
 
 - Fornece um perfil de trabalho (ambiente virtualizado que funciona como um segundo celular) para instalar e clonar apps de um jeito minimamente seguro.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🔗 [ShizuWall](https://github.com/AhmetCanArslan/ShizuWall)
 
 - Firewall leve que não exige conexão por VPN nem root, pode bloquear o acesso à internet de um ou múltiplos aplicativos diferentes ao mesmo tempo. Projetado para rodar com o Shizuku/ADB - melhor alternativa para o NetGuard.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [Shizuku](https://github.com/thedjchi/Shizuku)
 
 - Escala privilégios no android sem a necessidade de root/CFW. Caso não funcione de primeira, desative e ative o Wireless Debugger mais de uma vez.
 - [Lista completa de aplicativos que funcionam com o Shizuku.](https://github.com/timschneeb/awesome-shizuku?tab=readme-ov-file#apps)
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/github.com/)
 
 ### 🌟 [YTDLnis](https://github.com/deniscerri/ytdlnis)
 
 - Aplicativo para baixar vídeo/áudio usando o yt-dlp, melhor substituto para o Snaptube no celular por não possuir coleta de dados nem telemetria.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/github.com/)
 
 ## 🍎 iOS
 
@@ -85,10 +100,12 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 
 - Permite instalar aplicativos fora da App Store sem necessidade de jailbreak e USB Debugging.
 - [Guia de como instalar .IPAs](https://rentry.org/how-to-install-ipa-files)
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/sidestore.io/) / [2](https://www.urlvoid.com/scan/altstore.io/) / [3](https://www.urlvoid.com/scan/usescarlet.com/)
 
 ### 🌟 [LiveContainer](https://github.com/LiveContainer/LiveContainer)
 
 - Executa tarefas em algumas versões do iOS sem lidar com restrições como a quantidade máxima imposta para apps instalados via sideloading.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/github.com/)
 
 ## 🛍 Catálogo e Lojas
 
@@ -326,22 +343,27 @@ Mobile, ou smartphones, são dispositivos portáteis que integram a funcionalida
 ### 🔗 [AlveeMods](https://t.me/AlveeMods)
 
 - Lança versões modificadas de apks da arquitetura arm64-v8a das mais variadas finalidades desde edição de vídeo até reprodutores de áudio.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🔗 [Raiyan Mods](https://t.me/raiyanmods)
 
 - Aplicativos modificados para celulares Android arm64-v8a e armeabi-v7a. Bom, especialmente em relação a VPNs e clientes modificados para o telegram.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🔗 [Droid Haven](https://t.me/droidhaven) • Em russo
 
 - Canal russo que publica jogos e aplicativos premium patcheados/crackeados para o sistema operacional Android.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🔗 [Re𝕍ɑnced Brasil](https://t.me/revancedbrasil)
 
 - Grupo de discussão em português sobre patches do ReVanced Manager para YouTube, Reddit e Twitter.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🔗 [MCPE APK Releases](https://t.me/mcperelease)
 
 - APKs do Minecraft PE com Xbox Live funcional apenas versões estáveis, sem betas.
+- [Resultados de segurança de URL](https://www.urlvoid.com/scan/t.me/)
 
 ## 🔦 Buscadores
 
