@@ -372,6 +372,7 @@ A música é a habilidade de organizar o som para produzir qualquer combinação
 ### 🤖 [DeezLoad](https://t.me/deezload2bot)
 
 - Bot que consegue baixar em mp3 320kbps com playlist toda, mesmo sendo playlist nacional ou personalizada do Deezer.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ## Está buscando apps para ouvir/baixar **Música** no Celular?
 
