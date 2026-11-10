@@ -18,6 +18,7 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 - Conteúdo geral/UNIT3D.
 - Ativo desde 2019, um dos trackers de conteúdo geral BR mais antigos, atrás apenas do BJ.
 - Sistema de "doação" oficial em troca de convites.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/amigos-share.club/)
 
 ### 🧲 [Brasil Tracker](https://brasiltracker.org/index.php) | BT
 
@@ -25,6 +26,7 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 - Ativo desde 2018, parte da “santíssima trindade” dos trackers brasileiros com o ASC e o BJ.
 - Fluxo de uploads mais lento, mas constante, com número razoável de seeders.
 - Aberto ocasionalmente para novos cadastros.
+- [Verificação de segurança da URL](hhttps://www.urlvoid.com/scan/brasiltracker.org/)
 
 ### 🧲 [Brasil Japão Share](https://bj-share.info/) | BJ
 
@@ -32,6 +34,7 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 - Ativo desde 2002, é o tracker brasileiro mais tradicional.
 - Inicialmente operou como warez, migrou para torrent privado em 2016.
 - Acesso difícil, convites disponíveis apenas uma vez ao ano para usuários com status de overlord.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/bj-share.info/)
 
 ### 🧲 [CapybaraBR](https://capybarabr.com/register) | CBR
 
@@ -39,12 +42,14 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 - Lançado em março de 2024 por membros com experiência da cena brasileira.
 - Tracker promissor em lançamentos e comunidade ativa, atraiu parte dos usuários do extinto BRS.
 - Não possui sistema de H&R.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/capybarabr.com/)
 
 ### 🧲 [Locadora](https://locadora.cc/) | LCD
 
 - Filmes, séries e animes de alta qualidade.
 - Ativo desde dezembro de 2022, criterioso em lançamentos.
 - Prioriza automação dos processos internos e qualidade em detrimento da quantidade.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/locadora.cc/)
 
 ### 🧲 [Making Off](https://makingoff.org/) | MKO
 
@@ -52,6 +57,7 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 - Cadastro apenas por convite.
 - Utiliza IP.board como motor, aceita apenas conteúdo via torrent.
 - Suporte a automação, meio-termo entre warez e tracker.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/makingoff.org/)
 
 ### 🧲 [Plusteca](https://plusteca.com/register/)
 
@@ -59,6 +65,7 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 - Menor dos trackers brasileiros até o momento.
 - H&R de 5 dias.
 - Fora do ar no momento e com retorno incerto
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/plusteca.com/)
 
 ### 🧲 [Samaritano](https://samaritano.cc/) | SAM
 
@@ -66,12 +73,14 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 - Comunidade ativa dentro do tracker, e uma parte dedicada a entretenimento.
 - Aberto ocasionalmente para novos cadastros e aplicações.
 - Possui sistema de H&R, porém facilita construir ratio com as regras de freeleech e suporte a automação.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/samaritano.cc/)
 
 ### 🧲 [ShaKaw](https://tracker.shakaw.com.br/entrar.php)
 
 - Animes legendados por fansubs, mangás, doramas, live actions, tokusatsus e mais.
 - Ativo desde 2011, aceita cadastros pelo site ou pelo [Discord](https://discord.gg/dZVbVChdun).
 - Sem suporte a automação.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/tracker.shakaw.com.br/)
 
 ### 🧲 [Toca Share](https://tocashare.biz/register) | TS | TcS
 
@@ -79,11 +88,13 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 - Criado em janeiro de 2024, enfrentou confusões internas.
 - Rompimento levou parte da equipe a fundar o Plusteca.
 - H&R de 5 dias.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/tocashare.biz/)
 
 ### 🧲 [UniOtaku](https://tracker.uniotaku.com/)
 
 - Tracker privado brasileiro de animes legendados por fansubs, ativo desde 2014.
 - Sem H&R, exige apenas ratio global > 0.3.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/tracker.uniotaku.com/)
 
 ---
 
@@ -97,26 +108,31 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 - Concentrado em mídia asiática no idioma original somente, como doramas.
 - O discord serve para avisar caso o tracker esteja com registro aberto.
 - Existe a opção de comprar uma seedbox afiliada para conseguir convite.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/avistaz.to/)
 
 ### 🧲 [AlphaRatio](https://alpharatio.cc/) | AR
 
 - Tracker generalista.
 - Abrem para novos cadastros anualmente.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/alpharatio.cc/)
 
 ### 🧲 [Animebytes](https://animebytes.tv) | AB
 
 - Enorme arquivo de anime com grande retenção, mas a organização não é tão boa quanto a de muitos outros rastreadores principais.
 - Pode ser acessado por meio do GGn ou RED.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/animebytes.tv/)
 
 ### 🧲 [AudioNews](https://audionews.org/) | AN
 
 - AudioNews é um tracker de torrents projetado para produtores musicais, em vez de consumidores de música.
 - Possui programas e utilitários portáteis relacionados a áudio.
 - Códigos de convites são oferecidos frequentemente pelo telegram oficial.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/audionews.org/)
 
 ### 🧲 [BakaBT](https://bakabt.me) | BBT
 
 - Tracker de anime muito antigo, conhecido por sua incrível retenção, mas não tem tanto conteúdo quanto o AB ou o Nyaa. Tem entrevistas para participar.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/bakabt.me/)
 
 ### 🧲 BroadcastTheNet | BTN
 
@@ -128,6 +144,7 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 
 - Tracker privado do blog focado em sfx e design gráfico CGPersia.com.
 - Um lugar comum para se discutir sobre pirataria de produtos da Adobe.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/cgpeers.to/)
 
 ### 🧲 Cinematik | TIK
 
@@ -137,21 +154,25 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 
 - Generalista.
 - De longe, um dos trackers mais fáceis para aprender a usar apesar de pecar na falta de conteúdo de ponta.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/digitalcore.club/)
 
 ### 🧲 [FileList](https://filelist.io/login.php?returnto=%2F) | FL
 
 - Conteúdo Geral
 - Seeds bons, internals bons, não é o melhor tracker, mas é um bom intermediário.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/filelist.io/)
 
 ### 🧲 [GazelleGames](https://gazellegames.net) | GGn
 
 - O maior tracker de videogames do mundo.
 - Pode ser acessado por meio do OPS ou RED. Ambos exigem PU e conta com 3 meses.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/gazellegames.net/)
 
 ### 🧲 [HD-Torrents](https://hd-torrents.org/register.php) | HDT | €35
 
 - Filmes e séries.
 - Há opção de pagar para obter convite.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/hd-torrents.org/)
 
 ### 🧲 HDBits | HDB
 
@@ -164,40 +185,48 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 - Tracker generalista.
 - Há opção de pagar para obter convite.
 - Não serve como meio para se ter convites de outros trackers por estar na lista negra do r/OpenSignups.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/iptorrents.com/)
 
-### 🧲 [JPopsuki ](https://jpopsuki.eu/) | JPOP
+### 🧲 [JPopsuki](https://jpopsuki.eu/) | JPOP
 
 - Não há recrutamento no momento.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/jpopsuki.eu/)
 
 ### 🧲 [LearnFlakes](https://learnflakes.net/) | LF
 
 - Tracker focado em cursos de IT. 
 - Não há recrutamento no momento.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/learnflakes.net/)
 
 ### 🧲 [Milkie](https://milkie.cc/) | MIL
 
 - Tracker generalista.
 - Está na lista dos trackers banidos do r/OpenSignups por ficar quase sempre aberto.
 - Convites pelo [Discord](https://discord.gg/rZYAFuZ).
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/milkie.cc/)
 
 ### 🧲 [MyAnonaMouse](https://myanonamouse.net) | MAM | [Entrevista](https://www.myanonamouse.net/inviteapp.php)
 
 - Focado em e-learning .
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/myanonamouse.net/)
 
 ### 🧲 [Nebulance](https://nebulance.io) | NBL
 
 - Séries de TV.
 - Pode ser acessado por meio do MAM. O único requisito é ser PU.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/nebulance.io/)
 
 ### 🧲 [OnlyEncodes+](https://onlyencodes.cc/application) | OE
 
 - Encodes x265 e AV1 para streaming.
 - A estrela emergente do mundo p2p com tokens de freeleech quase que diários.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/onlyencodes.cc/)
 
 ### 🧲 [Orpheus](https://orpheus.network) | OPS | [Entrevista](https://interview.orpheus.network/)
 
 - Focado em músicas.
 - Caso você não queira fazer a entrevista, devido ao longo tempo de espera ou por qualquer outro motivo, a OPS também pode ser acessada por meio do MAM, pois este último tem um processo muito mais rápido e fácil. O único requisito é ser PU.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/orpheus.network/)
 
 ### 🧲 PassThePopcorn | PTP
 
@@ -209,16 +238,19 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 
 - Focado em músicas.
 - Fórum de recrutamento oficial para a maioria dos trackers privados gringos.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/interviewfor.red/)
 
 ### 🧲 [Secret Cinema](https://secret-cinema.pw) | SC
 
 - Focado em filmes cult
 - Pode ser acessado por meio do MAM. VIP + 50 GB de upload + conta com 6 meses.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/secret-cinema.pw/)
 
 ### 🧲 [SpeedApp](https://speedapp.io)
 
 - Tracker romeno voltado para filmes e séries.
 - Seed obrigatório de dois dias e sistema de sub-fórums onde PUs podem criar canais públicos para compartilhar o que quiserem.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/speedapp.io/)
 
 ### 🧲 [TorrentLeech](https://www.torrentleech.org/) | TL
 
@@ -226,6 +258,7 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 - Abrem para novos cadastros anualmente.
 - Sistema de H&R de 10 dias.
 - Ótimo para garimpar software e filmes em hi-res.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/torrentleech.org/)
 
 ---
 
@@ -234,11 +267,13 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 ### 🧲 [Academic Torrents](https://academictorrents.com/)
 
 - Tracker público focado em educação.
-- Repositório com mais de 6 TB de papers e dados de pesquisa.
+- Repositório com mais de 6 TB de papers e dados de pesquisa universitária.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/academictorrents.com/)
 
 ### 🧲 [DocsPedia](https://docspedia.world/)
 
 - Outro tracker público focado em educação.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/docspedia.world/)
   
 ### 🧲 [Tracker2.Postman](http://tracker2.postman.i2p)
 
@@ -249,32 +284,38 @@ Participe de nosso [grupo do lemmy](https://lemmy.dbzer0.com/c/pirataria) para s
 
 - Focado em ISOs Linux.
 - Quantidade razoável de torrents compartilhados todos os dias.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/linuxtracker.org/)
 
 ### 🧲 [Extremlymtorrents](https://extremlymtorrents.ws/)
 
 - Tracker generalista semi-privado romeno.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/extremlymtorrents.ws/)
 
 ### 🧲 [NNMClub](https://nnmclub.to/)
 
 - Tracker semi-privado russo.
 - Versões de lançamento do Windows podem ser encontradas por aqui.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/nnmclub.to/)
 
 ### 🧲 [Nyaa.si](https://nyaa.si/) / [Nyaa.land](https://nyaa.land/)
 
 - Referência quando o assunto é anime e obras asiáticas.
 - Como pesquisar: `No filter` > `Non-English-translated` > `pt br`.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/nyaa.si/) / [2](https://www.urlvoid.com/scan/nyaa.land/)
 
 ### 🧲 [Sktorrent](https://sktorrent.org/)
 
 - Tracker semi-privado focado em games.
 - O cadastro é sempre aberto e obrigatório.
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/sktorrent.org/)
 
 ### 🧲 [Rutracker](https://rutracker.net/) / [2](https://rutracker.org/)
 
 - Tracker generalista russo.
 - Desde 2004 em atividade.
 - Para usar a função de pesquisa, é necessário se cadastrar.
-  ‎
+- [Verificação de segurança da URL](https://www.urlvoid.com/scan/rutracker.net/) / [2](https://www.urlvoid.com/scan/rutracker.org/)
+‎
 
 ‎‎
 ‎
