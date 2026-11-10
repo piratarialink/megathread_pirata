@@ -22,10 +22,10 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 - Milhões de livros gratuitos, filmes, músicas e outros tipos de arquivos estão disponíveis nesta biblioteca sem fins lucrativos.
 - [Resultados de Segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
-### 🌟 [**SoftArchive**](https://softarchive.is/) / [**2**](https://sanet.lc/) / [**3**](https://sanet.st/) / [4](https://sanet.ws/)
+### 🌟 [**SoftArchive**](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
 
 - Site referência na cena fundado em 2004, reconhecido por novos lançamentos de software, jogos, músicas, filmes e eBooks.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/softarchive.is/) / [2](https://www.urlvoid.com/scan/sanet.lc) / [3](https://www.urlvoid.com/scan/sanet.st) / [4](https://www.urlvoid.com/scan/sanet.ws)
 
 ### 🌟 [**TRaSH Guides**](https://trash-guides.info/)
 
@@ -100,7 +100,7 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 ### 🔗 [Bitsearch](https://bitsearch.to/) / [2](https://torrentz2.nz/) / [3](https://solidtorrents.to/)
 
 - Procura avançada que coleta metadados de torrent, como títulos de arquivo, tamanhos de arquivo e um link magnético para fornecer ao visitante. Muito bem semeado, aparentemente comprou o domínio do SolidTorrents e do Torrentz2.
-- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bitsearch.to/)
+- [Resultados de Segurança da URL](https://www.urlvoid.com/scan/bitsearch.to/) / [2](https://www.urlvoid.com/scan/torrentz2.nz/) / [3](https://www.urlvoid.com/scan/solidtorrents.to)
 
 ### 🌟 [BT4G](https://bt4g.org/)
 
@@ -173,11 +173,12 @@ Links de múltiplos propósitos desde mecanismos de busca de torrent, agregadore
 ### 🔗 [PreDB](https://predb.net/) / [2](https://predb.me/)
 
 - Este serviço exibe dados de tendências coletados de inúmeras fontes online.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/predb.net/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/predb.net/) / [2](https://www.urlvoid.com/scan/predb.me)
 
 ### 🔗 [Megathread de Trackers Privados](trackers.md)
 
 - Lista com alguns Trackers Privados Brasileiros e Gringos disponíveis.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pirataria.link/)
 
 ### 🔗 [Private Trackers Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)
 
