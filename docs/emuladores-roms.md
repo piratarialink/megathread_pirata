@@ -185,9 +185,9 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 - Emulador renomado, rápido, leve e simples focado em videogames portáteis.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vba-m.com/)
 
-### 🔗 [yuzu](https://krakenfiles.com/view/xFdCTjoGjv/file.html) / [2](https://buzzheavier.com/f/GMEScmhcQAA=) / [3](https://megaup.net/7w6tc/Yuzu_+_Source.rar) • Switch
+### 🔗 [yuzu](https://krakenfiles.com/view/xFdCTjoGjv/file.html)
 
-- **Não é mais desenvolvido.** - os jogos podem ser experimentados usando esse emulador de código aberto.
+- **Não é mais desenvolvido** - os jogos podem ser experimentados usando esse emulador de código aberto.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/krakenfiles.com/)
 
 ## 🔵 Sega
@@ -205,7 +205,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🌟 [**Kega Fusion**](https://www.carpeludum.com/kega-fusion/) / [2](https://segaretro.org/Kega_Fusion) • Todos os consoles **lançados antes** do Sega Saturn
 
 - Uma enorme ênfase na precisão, altamente otimizado e funciona muito bem.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/carpeludum.com/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/carpeludum.com/) [2](https://www.urlvoid.com/scan/segaretro.org/)
 
 ### 🔗 [redream](https://redream.io/) • Dreamcast
 
