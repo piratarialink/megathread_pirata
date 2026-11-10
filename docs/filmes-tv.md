@@ -178,7 +178,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Muda constantemente de domínio, para se manter atualizado confira o [subreddit](https://redlib.catsarch.com/r/pirataria) do pirataria / [Falha na conexão? Tente isso aqui.](guias/dns.md)
 - É essencial utilizar um bloqueador de anúncios robusto ao navegar; pois o site exibe anúncios extremamente agressivos que contêm scripts maliciosos em JS. Mais info acerca do tema [aqui](https://redlib.catsarch.com/r/pirataria/s/3Bopziwr1R).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanaistv.by) / [2](https://redecanaistv.wales/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/redecanaistv.by/) / [2](https://www.urlvoid.com/scan/redecanaistv.wales/)
 
 ### 🌟 [TV a Cabo](https://tvacabo.free.nf/)
 
