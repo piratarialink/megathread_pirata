@@ -30,7 +30,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 
 - Mega volume de obras novas e antigas organizadas pela comunidade.
 - O site constantemente fica fora do ar. Para checar qualquer proxy que esteja funcionando, acesse o [SLUM](https://open-slum.org/).
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/libgen.is/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/libgen.is/) / [2](https://www.urlvoid.com/scan/libgen.rs/) / [3](https://www.urlvoid.com/scan/libgen.st/)
 
 ### 🔗 [Docero](https://doceru.com/)
 
@@ -55,7 +55,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 ### 🔗 [Sci-Hub](https://sci-hub.se/) / [2](https://sci-hub.st/) / [3](https://sci-hub.ru/)
 
 - Acesso ilimitado a todo o conhecimento científico, quebrando paywalls acadêmicos desde 2011.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sci-hub.se/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/sci-hub.se/) / [2](https://www.urlvoid.com/scan/sci-hub.st/) / [3](https://www.urlvoid.com/scan/sci-hub.ru/)
 
 ### 🔗 [Projeto Gutenberg](https://gutenberg.org/)
 
@@ -210,7 +210,7 @@ Livros, como quadrinhos e romances, são um meio de registro de informações qu
 - Excelente coleção de audiolivros e compartilha muito conteúdo com o MyAnonamouse.
 - Para baixar sem uma conta, copie o hash de informações e cole-o no seu cliente de torrent. Exemplo: `magnet:?xt=urn:btih:INFOHASH`
 - Muda constantemente de domínio, para se manter atualizado confira o [subreddit oficial](https://www.reddit.com/r/AudioBookBay/)
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/audiobookbay.lu/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/audiobookbay.lu/) / [2](https://www.urlvoid.com/scan/audiobookbay.se/)
 
 ### 🔗 [MyAnonamouse](https://www.myanonamouse.net/) • Necessário Cadastrar-se
 
