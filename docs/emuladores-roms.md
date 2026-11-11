@@ -373,7 +373,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🔗 [Romspedia](https://www.romspedia.com/)
 
 - Enciclopédia para ROMs e ISOs, lugar onde você pode baixar vários jogos também.
-- Utilize uma VPN para acessar.
+- Utilize uma VPN para acessar sem problemas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romspedia.com/)
 
 ### 🔗 [ROMSFUN](https://romsfun.com/)
