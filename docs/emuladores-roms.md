@@ -351,7 +351,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**SMWC**](https://www.smwcentral.net/?p=main)
 
-- Espaço mais voltado à preservação de romhacks e fangames da franquia Super Mario.
+- Espaço mais voltado à preservação de romhacks e fangames da franquia mais amada da Big N.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/smwcentral.net/)
 
 ### 🔗 [PC Games Abandonware](https://www.pcgamesabandonware.com/en/home)
