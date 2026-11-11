@@ -315,23 +315,14 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🔗 [Egg NS Roms](http://eggnsemulator.com/nintendo-switch-roms/)
 
 - Roms para Nintendo Switch disponíveis em formato NCP e XCI.
+- Utilize uma VPN para acessar sem problemas.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/eggnsemulator.com/)
-
-### 🔗 [Emu Games](https://www.emugames.net/)
-
-- Uma extensa jogoteca para vários sistemas e gêneros diferentes.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/emugames.net/)
 
 ### 🌟 [**Not UltraNX**](https://not.ultranx.ru/en)
 
 - Site do projeto [UltraNX](https://github.com/Ultra-NX/UltraNX/blob/main/README_ENG.md) - um CFW para Switch focado em tweaks.
 - ROMs para switch, com download sem anúncios e extremamente rápido.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/not.ultranx.ru/)
-
-### 🔗 [NesGM](https://nesgm.net/) • Interface em espanhol
-
-- Onde ROMs para Nintendo Switch e outros consoles da "Big N" são o carro-chefe.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/nesgm.net/)
 
 ### 🔗 [NXBrew](https://nxbrew.net/)
 
@@ -353,11 +344,6 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 - Espaço mais voltado à preservação de romhacks e fangames da franquia mais amada da Big N.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/smwcentral.net/)
-
-### 🔗 [PC Games Abandonware](https://www.pcgamesabandonware.com/en/home)
-
-- Redescubra jogos clássicos e nostálgicos gratuitamente com uma seção dedicada para emuladores.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pcgamesabandonware.com/)
   
 ### 🔗 [Retro Roms "Best" Set](https://archive.org/details/retro-roms-best-set)
 
@@ -387,6 +373,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 ### 🔗 [Romspedia](https://www.romspedia.com/)
 
 - Enciclopédia para ROMs e ISOs, lugar onde você pode baixar vários jogos também.
+- Utilize uma VPN para acessar.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romspedia.com/)
 
 ### 🔗 [ROMSFUN](https://romsfun.com/)
