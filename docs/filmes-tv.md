@@ -364,6 +364,10 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
+### 🔗 [Bot Buscador do YouFilm no Telegram](https://t.me/youfilmsearcherbot)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
+
 ## Está buscando apps para assistir/baixar **Filmes e Séries** no Celular?
 
 ➜ Confira nossa Megathread sobre 📱 [Mobile](mobile.md)
