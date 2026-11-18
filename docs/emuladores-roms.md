@@ -398,7 +398,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [Abandonware Games](https://abandonwaregames.net/)
 
-- Arquivo que preserva e disponibiliza downloads de jogos antigos old school de diversos sistemas e consoles.
+- Arquivo que preserva e disponibiliza downloads de jogos old school de diversos sistemas e consoles.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/abandonwaregames.net/)
 
 ## 🏠 Homebrew/Quality of Life
