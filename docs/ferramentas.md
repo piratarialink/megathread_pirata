@@ -336,7 +336,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [VirusTotal](https://www.virustotal.com/) / [Metadefender](https://metadefender.com/) - Serviços da Web que verificam arquivos e URLs.
 - [ycombinator.com](https://news.ycombinator.com/news) - Agregador de notícias sobre a cena de cibersegurança - **use um tradutor.**
 - [sandboxie+](https://sandboxie-plus.com/) - "Sandbox" para computador fraco.
-- [Hattered: Limpeza pós-infecção por malware](https://mefrraz.github.io/hattered/pages/guides/guia_de_limpeza_pos_infecao.html)
+- [Hattered: Limpeza pós-infecção por malware](https://web.archive.org/web/20260529233119/https://mefrraz.github.io/hattered/pages/guides/guia_de_limpeza_pos_infecao.html)
 - [Passos preliminares para evitar contaminações por malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide/)
 - [Guia do u/orchestralblend](guias/antivirus.md)
 
