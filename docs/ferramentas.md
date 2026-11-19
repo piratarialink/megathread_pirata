@@ -432,7 +432,6 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [OpenClaude](https://github.com/Gitlawb/openclaude) - Reimplementação do código fonte vazado do Claude Code, suporta integração com modelos pagos e gratuitos da OpenAI, Alibaba, Anthropic e Google Gemini, apenas para citar alguns. [Vídeo explicativo](https://youtu.be/7S7vqSudSx0)
 - [Voicebox Studio](https://voicebox.sh/) - Clone qualquer voz em questão de segundos com a ajuda do Qwen TTS, extraída a partir de um arquivo local, som ambiente ou do próprio microfone.
-- **[Freemium]** [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar - caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
 - [TurboScribe](https://turboscribe.ai/) / [Legen](https://matheusbach.github.io/legen/) - Cria arquivos de legendas para vídeos. O Legen em especial trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado.
 - [pyVideoTrans](https://en.pyvideotrans.com/) - Mesmo conceito do Legen: embute hardsubs em vídeos com base no Whisper, com a única diferença de poder dublar e sincronizar a fala automaticamente - obtém melhor desempenho em hardwares com suporte à aceleração de GPU.
  
