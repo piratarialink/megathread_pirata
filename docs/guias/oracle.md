@@ -3,6 +3,9 @@
 :::danger Conforme explicado no [sub da comunidade](https://redlib.catsarch.com/r/oraclecloud/comments/1vi74oi/heres_a_clear_difference_for_anyone_wondering_how/), a oracle realizou a mudança do modo free tier: agora instâncias ARM (ampere) poderão ter no máximo 2 OCPUs e 12gb de RAM cada, para AMD e contas PAYG o limite continua sendo o mesmo.
 :::
 
+:::warning O plano individual (free trial) não está mais disponível para residentes do Brasil.
+:::
+
 ## 1. Conta e limites estipulados
 
 Conseguindo acesso no modo Free Tier você tem direito até quatro instâncias com o processador ARM, cada uma com no total 200 GB de storage e até 3 Gbps de largura de banda.

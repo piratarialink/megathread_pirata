@@ -103,7 +103,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🔗 [Anime Tosho](https://animetosho.org/)
 
-- Serviço automatizado que espelha torrents de anime para downloads diretos.
+- Serviço automatizado que espelha torrents de anime para download direto.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animetosho.org/)
 
 #### 🔗 [AnimeOut](https://www.animeout.xyz/)

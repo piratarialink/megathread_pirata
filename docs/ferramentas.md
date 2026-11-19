@@ -324,7 +324,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Seedboxes
 
-- 🌟 **[Freemium]** [**torbox.app**](https://www.torbox.app/) - Seedbox semi-gratuito que permite baixar torrents de até **10 GB** de tamanho. **Nota:** se você deseja se tornar premium, evite comprar de semeadores, eles são muito caros - [add-on do torbox.app para o stremio aqui.](https://guindex-stremio.vercel.app/)
+- 🌟 **[Freemium]** [**torbox.app**](https://www.torbox.app/) - Seedbox semi-gratuito que permite baixar torrents de até **10 GB** de tamanho. **Nota:** se você deseja se tornar premium, evite comprar de semeadores, eles são muito caros.
 - **[Pago]** [ultra.cc](https://ultra.cc/) - De 1 até 50 Gbps de bandwidth no plano básico, estabeleça um [limite](./images/ultra.png) de semeação dentro do qBit para não prejudicar outros usuários.
 - **[Pago]** [whatbox.ca](https://whatbox.ca/plans) - Servidor localizado nos EUA (excelente para brasileiros) e maior tráfego se comparado com o ultra seedbox.
 
@@ -336,7 +336,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [VirusTotal](https://www.virustotal.com/) / [Metadefender](https://metadefender.com/) - Serviços da Web que verificam arquivos e URLs.
 - [ycombinator.com](https://news.ycombinator.com/news) - Agregador de notícias sobre a cena de cibersegurança - **use um tradutor.**
 - [sandboxie+](https://sandboxie-plus.com/) - "Sandbox" para computador fraco.
-- [Hattered: Limpeza pós-infecção por malware](https://mefrraz.github.io/hattered/pages/guides/guia_de_limpeza_pos_infecao.html)
+- [Hattered: Limpeza pós-infecção por malware](https://web.archive.org/web/20260529233119/https://mefrraz.github.io/hattered/pages/guides/guia_de_limpeza_pos_infecao.html)
 - [Passos preliminares para evitar contaminações por malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide/)
 - [Guia do u/orchestralblend](guias/antivirus.md)
 
@@ -431,10 +431,8 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [G4F](https://g4f.dev/) - Modelos do Antigravity e OpenRouter rodando localmente na sua máquina. Alguns provedores como a Azure exigem de você uma chave API para o g4f.client que pode ser gerada com o seu [ID de usuário do Hugging Face](https://g4f.dev/members.html).
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [OpenClaude](https://github.com/Gitlawb/openclaude) - Reimplementação do código fonte vazado do Claude Code, suporta integração com modelos pagos e gratuitos da OpenAI, Alibaba, Anthropic e Google Gemini, apenas para citar alguns. [Vídeo explicativo](https://youtu.be/7S7vqSudSx0)
-- [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura, algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6) e [DIG](https://digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion/) (onion) - podem não funcionar na maior parte do tempo.
 - [Voicebox Studio](https://voicebox.sh/) - Clone qualquer voz em questão de segundos com a ajuda do Qwen TTS, extraída a partir de um arquivo local, som ambiente ou do próprio microfone.
-- **[Freemium]** [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar - caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
-- [Legen](https://matheusbach.github.io/legen/) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado.
+- [TurboScribe](https://turboscribe.ai/) / [Legen](https://matheusbach.github.io/legen/) - Cria arquivos de legendas para vídeos. O Legen em especial trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado.
 - [pyVideoTrans](https://en.pyvideotrans.com/) - Mesmo conceito do Legen: embute hardsubs em vídeos com base no Whisper, com a única diferença de poder dublar e sincronizar a fala automaticamente - obtém melhor desempenho em hardwares com suporte à aceleração de GPU.
  
 ## ► Motores de busca

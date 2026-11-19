@@ -69,11 +69,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Player veloz com múltiplos servidores HLS, suporte a Google Cast, AirPlay, gestos touch em mobile e interface moderna e limpa sem anúncios invasivos.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kairou.space/)
 
-### ▶️ [YouFilm](https://www.youfilm.online/)
-
-- Layout baseado no YouTube. Interface moderna, clean e responsiva. Milhares de filmes, séries, animes e doramas disponíveis para assistir.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/youfilm.online/)
-
 ### ▶️ [NetCine](https://netcinex.si/)
 
 - Use o [nuMatrix](https://codeberg.org/arek/nuMatrix) para impedir que requests de sites de terceiros com malvertising carreguem.
@@ -121,11 +116,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Plataforma com diversas séries e filmes legendados adicionados constantemente.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hdtoday.tv/)
-
-### ▶️ [YouFilm](https://www.youfilm.online/)
-
-- Layout baseado no YouTube. Interface moderna, clean e responsiva. Milhares de filmes, séries, animes e doramas disponíveis para assistir.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/youfilm.online/)
 
 ### ▶️ [Doramogo](https://www.doramogo.net/)
 
@@ -361,10 +351,6 @@ _[**➜ Outros apps para assistir filmes e séries podem ser encontrados aqui**]
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
 ### 🔗 [Cadê o Filme 7.0](https://t.me/+3j6I2jzuik1hMjgx)
-
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
-
-### 🔗 [Bot Buscador do YouFilm no Telegram](https://t.me/youfilmsearcherbot)
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/t.me/)
 
