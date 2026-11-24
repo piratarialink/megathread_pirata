@@ -46,6 +46,11 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Assista as melhores séries gratuitamente sem a necessidade de cadastro. Praticamente zero buffering.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/seuseriados.com/)
 
+### 🌟 [hypetv](https://hypetvbr.com/)
+
+- Filmes e séries online, vários disponíveis em 4K dublado, sem anúncios, interface rápida e disponivel para Smart TVs.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/hypetvbr.com/)
+
 ### 🌟 [RIVO](https://rivo.st/)
 
 - Filmes e séries com vários servidores por título e troca automática quando um falha. Legendas em vários idiomas, incluindo português.
