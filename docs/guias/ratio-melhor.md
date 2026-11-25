@@ -1,4 +1,4 @@
-# Um Guia Simples Para Um Ratio Melhor
+# Um guia simples para um ratio melhor
 
 > Um bom rastreador requer que você carregue o que você baixou. Este guia explica muitos dos métodos envolvidos para manter o controle dessa tarefa às vezes difícil.
 
