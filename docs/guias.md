@@ -38,19 +38,19 @@ Definindo um usuário e uma virtual machine da forma correta, você terá acesso
 
 Guia completa sobre como burlar restrição de download Archive.org, alguns livros do Archive.org não podem ser baixados diretamente no site, fica disponivel apenas para ler - por 1h ou 14 dias a depender do livro. Esse guia mostra como burlar e conseguir baixar livros em formato PDF ou EPUB.
 
-## 📑 ➜ [Jellyfin e Família Arr - Docker Compose](guias/jellyfin-arr.md)
+## 📑 ➜ [Jellyfin e família Arr - Docker Compose](guias/jellyfin-arr.md)
 
 Quer configurar o Jellyfin e a Família Arr de forma simples e eficiente? Este guia te mostra como fazer isso usando Docker Compose. Aprenda passo a passo a criar e gerenciar seus contêineres Docker para garantir uma experiência suave de streaming de mídia e organização de conteúdo para toda a família. Com esse guia, você estará pronto para aproveitar ao máximo essas poderosas ferramentas de entretenimento em casa.
 
-## 📑 ➜ [Guia do Streaming Doméstico Automatizado - Sonarr, Radarr e Plex](guias/sonarr-radarr-plex.md)
+## 📑 ➜ [Guia do streaming doméstico automatizado - Sonarr, Radarr e Plex](guias/sonarr-radarr-plex.md)
 
 Deseja desfrutar de uma experiência de streaming em casa digna de um cineasta, sem o incômodo de procurar manualmente por filmes e programas de TV? O guia do streaming doméstico automatizado com Sonarr, Radarr e Plex é a solução definitiva. Nesse artigo, mergulharemos no fascinante mundo da automação de streaming, explorando como essas poderosas ferramentas podem revolucionar a maneira como você consome mídia em casa. Prepare-se para transformar sua sala de estar em um cinema personalizado, onde a diversão é garantida e a busca complicada por entretenimento é coisa do passado.
 
-## 📑 ➜ [Um Guia Simples Para Um Ratio Melhor](guias/ratio-melhor.md)
+## 📑 ➜ [Um guia simples para um ratio melhor](guias/ratio-melhor.md)
 
 Para muitos entusiastas de torrents, alcançar e manter um ratio saudável pode ser um desafio constante. No entanto, dominar esse aspecto fundamental do compartilhamento de arquivos pode transformar completamente sua experiência online. Neste guia acessível e abrangente, vamos explorar os passos simples e eficazes para melhorar seu ratio de torrent. Desde dicas práticas até estratégias comprovadas, este guia irá ajudá-lo a maximizar sua eficiência, garantindo uma experiência de compartilhamento de arquivos mais gratificante e satisfatória. Prepare-se para elevar sua jornada de torrent a novos patamares de sucesso e desempenho.
 
-## 📑 ➜ [Como Verificar um Arquivo no VirusTotal corretamente](guias/virustotal.md)
+## 📑 ➜ [Como verificar um arquivo no VirusTotal corretamente](guias/virustotal.md)
 
 Quer garantir a segurança de seus arquivos? Este guia prático te mostra como verificar corretamente qualquer arquivo no VirusTotal. Aprenda os passos simples para analisar seus arquivos em busca de ameaças de forma rápida e eficiente. Com este guia, você pode ter certeza de que seus arquivos estão protegidos contra vírus e malware.
 
