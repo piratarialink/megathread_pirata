@@ -3,7 +3,7 @@ title: "Guia do Streaming Doméstico Automatizado (Sonarr, Radarr e Plex)"
 description: "(Sonarr, Radarr e Plex)"
 ---
 
-# Guia do Streaming Doméstico Automatizado (Sonarr, Radarr e Plex)
+# Guia do streaming doméstico automatizado (Sonarr, Radarr e Plex)
 
 Desde o início da pandemia, eu venho montando e aperfeiçoando constantemente um servidor de mídias automatizado que é a minha fonte principal de quase todos os filmes e séries que eu assisto atualmente. Todos os programas necessários para montar esse serviço são de certa forma bastante conhecidos no meio, mas notei que o sub carece de um guia direcionado ao streaming doméstico, então vou ajudar a popularizá-los ainda mais. O computador que eu utilizo é um Dell de mais de 10 anos atrás que já era lento para aquela época, então imagino que esse tutorial vai ser acessível para a maioria.
 
