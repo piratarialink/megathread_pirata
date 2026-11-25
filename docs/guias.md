@@ -78,7 +78,7 @@ Alguns programas úteis. Tanto para Android quanto para Windows.
 
 Este guia básico do Stremio ensina como baixar, instalar e configurar o aplicativo, além de gerenciar add-ons. Você aprenderá a adicionar provedores de conteúdo, explorar catálogos e sincronizar seu progresso com trackers como o Trakt.tv. Ideal para iniciantes que desejam aproveitar ao máximo o Stremio.
 
-## 📑 ➜ [Guia de Privacidade para Paranoicos](guias/quero-privacidade.md)
+## 📑 ➜ [Guia de privacidade para paranoicos](guias/quero-privacidade.md)
 
 Título autoexplicativo.
 
