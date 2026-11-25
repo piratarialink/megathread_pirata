@@ -1,4 +1,4 @@
-# 🪶 ➜ Guia de Privacidade para Paranoicos
+# 🪶 ➜ Guia de privacidade para paranoicos
 
 :::info Essa página ainda é um esboço. Feito com base nas recomendações do [orchestralblend](https://github.com/orchestralblend) / [orchestralblend@systemli.org](mailto:orchestralblend@systemli.org)
 :::
