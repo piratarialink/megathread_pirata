@@ -10,7 +10,7 @@ Neste guia, iremos mostrar o benefício de utilizar a ferramenta de automação 
 
 Para evitar o limite de cota de download no Mega, siga estas etapas deste guia simples. Após baixar o programa necessário, configure sua conta Mega e explore opções como proxies e contas adicionais para desfrutar de downloads sem interrupções. Com essas técnicas, você poderá fazer download de arquivos no Mega sem restrições.
 
-## 📑 ➜ [Download e Ativação do Windows e Office](guias/ativacao-office-win.md)
+## 📑 ➜ [Download e ativação do Windows e Office](guias/ativacao-office-win.md)
 
 Quer ativar o Windows e o Office sem estresse? Este guia prático te mostra como. Descubra como ativar esses programas de forma segura e sem complicações. Seja configurando um novo PC ou atualizando seu software, este guia é o seu companheiro confiável para uma ativação tranquila.
 
