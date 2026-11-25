@@ -70,7 +70,7 @@ O termo "malware" define vírus, trojans e afins. No geral, são arquivos malici
 
 Para uma experiência ainda melhor na Twitch. Tenha em mente que a qualidade da stream pode cair enquanto o ad passar.
 
-## 📑 ➜ [Guia do Orchestralblend](guias/orchestralblend.md)
+## 📑 ➜ [Guia do u/orchestralblend](guias/orchestralblend.md)
 
 Alguns programas úteis. Tanto para Android quanto para Windows.
 
