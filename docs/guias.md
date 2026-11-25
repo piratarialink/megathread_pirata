@@ -4,7 +4,7 @@ Guias úteis para ajudá-lo em suas viagens marítimas.
 
 ## 📑 ➜ [Aumente seu ratio com Autobrr](guias/autobrr.md)
 
-Nesta guia, iremos mostrar o benefício de utilizar a ferramenta de automação Autobrr para baixar automaticamente torrents lançados nos trackers.
+Neste guia, iremos mostrar o benefício de utilizar a ferramenta de automação Autobrr para baixar automaticamente torrents lançados nos trackers.
 
 ## 📑 ➜ [Burlando o limite de download do mega](guias/burlando-limite-mega.md)
 
@@ -50,7 +50,7 @@ Deseja desfrutar de uma experiência de streaming em casa digna de um cineasta, 
 
 Para muitos entusiastas de torrents, alcançar e manter um ratio saudável pode ser um desafio constante. No entanto, dominar esse aspecto fundamental do compartilhamento de arquivos pode transformar completamente sua experiência online. Neste guia acessível e abrangente, vamos explorar os passos simples e eficazes para melhorar seu ratio de torrent. Desde dicas práticas até estratégias comprovadas, este guia irá ajudá-lo a maximizar sua eficiência, garantindo uma experiência de compartilhamento de arquivos mais gratificante e satisfatória. Prepare-se para elevar sua jornada de torrent a novos patamares de sucesso e desempenho.
 
-## 📑 ➜ [Como Verificar um Arquivo no Virus Total corretamente](guias/virustotal.md)
+## 📑 ➜ [Como Verificar um Arquivo no VirusTotal corretamente](guias/virustotal.md)
 
 Quer garantir a segurança de seus arquivos? Este guia prático te mostra como verificar corretamente qualquer arquivo no VirusTotal. Aprenda os passos simples para analisar seus arquivos em busca de ameaças de forma rápida e eficiente. Com este guia, você pode ter certeza de que seus arquivos estão protegidos contra vírus e malware.
 
