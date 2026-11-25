@@ -1,4 +1,4 @@
-### Guia básico de como usar Stremio.
+### Guia básico de como usar o Stremio.
 
 ![Stremio](./images/Stremio-logo.png)
 
