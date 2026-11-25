@@ -46,7 +46,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Assista as melhores séries gratuitamente sem a necessidade de cadastro. Praticamente zero buffering.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/seuseriados.com/)
 
-### 🌟 [hypetv](https://hypetvbr.com/)
+### 🌟 [HypeTV](https://hypetvbr.com/)
 
 - Filmes e séries online, vários disponíveis em 4K dublado, sem anúncios, interface rápida e disponivel para Smart TVs.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/hypetvbr.com/)
@@ -96,11 +96,6 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Melhor alternativa para o finado P-Stream e suas instâncias.
 - Filmes e séries em 1080p ou em até 4k disponível com o token do Febbox, extensão ou proxy personalizado.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/rentry.co/) / [2](https://www.urlvoid.com/scan/legacy.aether.mom/) / [3](https://www.urlvoid.com/scan/aether.bar/)
-
-### 🌟 [Glitch Moviez](https://www.glitchmoviez.com)
-
-- Aproveite de uma infinidade de filmes e séries em streaming sem efetuar cadastro.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/glitchmoviez.com/)
 
 ### 🌟 [CinemaOS](https://cinemaos.live)
 
