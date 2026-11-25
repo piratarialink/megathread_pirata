@@ -3,7 +3,7 @@ title: "Como verificar um arquivo no Virus Total corretamente"
 description: "Guia útil para ajudá-lo em suas viagens marítimas."
 ---
 
-# 🪶 ➜ Como verificar um arquivo no Virus Total corretamente
+# 🪶 ➜ Como verificar um arquivo no VirusTotal corretamente
 
 Guia útil para ajudá-lo em suas viagens marítimas.
 
