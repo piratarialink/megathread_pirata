@@ -47,6 +47,14 @@ Esses são alguns sites para encontrar tradução PT-BR para seus jogos:
 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/ggames.com.br/)
 
+### 🔗 [João13](https://joao13traducoes.com/)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/joao13traducoes.com/)
+
+### 🔗 [WiiModBrasil (Mais focado em Nintendo antigos)](https://wiimodbrasil.blogspot.com/?m=1)
+
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/wiimodbrasil.blogspot.com/)
+
 ## ⚙ Programas
 
 ### 🌟 [Hydra](https://github.com/hydralauncher/hydra)
